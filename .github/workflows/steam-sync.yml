@@ -1,0 +1,73 @@
+name: Steam Achievement Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Slay the Princess achievements
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: "76561198098784097"
+          APP_ID: "1989270"
+        run: |
+          mkdir -p data
+
+          curl --fail --silent --show-error \
+            --get \
+            --data-urlencode "key=${STEAM_API_KEY}" \
+            --data-urlencode "steamid=${STEAM_ID}" \
+            --data-urlencode "appid=${APP_ID}" \
+            --data-urlencode "l=english" \
+            "https://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v1/" \
+            -o data/slay-the-princess-achievements.json
+
+          python3 - <<'PY'
+          import json
+
+          path = "data/slay-the-princess-achievements.json"
+
+          with open(path, "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          stats = data.get("playerstats", {})
+
+          if stats.get("success") is not True:
+              raise SystemExit(
+                  "Steam API failed: " +
+                  str(stats.get("error", "Unknown error"))
+              )
+
+          achievements = stats.get("achievements", [])
+          unlocked = sum(1 for a in achievements if a.get("achieved") == 1)
+          total = len(achievements)
+
+          print(f"Game: {stats.get('gameName')}")
+          print(f"Achievements: {unlocked}/{total}")
+          print(f"Completion: {(unlocked / total * 100) if total else 0:.1f}%")
+          PY
+
+      - name: Commit latest data
+        run: |
+          git config user.name "steam-data-bot"
+          git config user.email "steam-data-bot@users.noreply.github.com"
+
+          git add data/slay-the-princess-achievements.json
+
+          if git diff --cached --quiet; then
+            echo "No achievement changes."
+          else
+            git commit -m "Update Steam achievement data"
+            git push
+          fi
