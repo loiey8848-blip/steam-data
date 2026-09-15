@@ -3,9 +3,9 @@
   "appid": 3998900,
   "game": "Claws Of Power",
   "total": 30,
-  "unlocked": 24,
-  "percent": 80.0,
-  "updated_at_utc": "2026-09-15T12:12:14.213210+00:00",
+  "unlocked": 30,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T18:08:14.036271+00:00",
   "achievements": [
     {
       "apiname": "ACH_STORY_CH01",
@@ -107,22 +107,22 @@
     },
     {
       "apiname": "ACH_CATS_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789474867,
       "name": "四十喵将",
       "description": "收集全部 40 只配置的可收集猫咪手下"
     },
     {
       "apiname": "ACH_STONES_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789477286,
       "name": "装备大师",
       "description": "解锁当前配置的全部装备"
     },
     {
       "apiname": "ACH_SHOP_ITEMS_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789474436,
       "name": "收藏家",
       "description": "当前拥有全部普通商店道具"
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_TALENTS_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789477853,
       "name": "满级猫屋",
       "description": "激活当前配置的全部主城天赋"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "ACH_HARD_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789487228,
       "name": "硬汉",
       "description": "通关全部困难关卡"
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "ACH_FINAL_LOW_COST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789487715,
       "name": "以小博大",
       "description": "在最后一关中，仅召唤基础费用不高于 10 的单位后通关"
     },

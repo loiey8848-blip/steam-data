@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-15T12:12:22.628433+00:00",
+  "updated_at_utc": "2026-09-15T18:08:22.582077+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -617,14 +617,14 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "playtime_minutes": 76,
+      "playtime_hours": 1.3,
+      "last_played_unix": 1789495244,
+      "last_played_utc": "2026-09-15T18:00:44+00:00",
+      "recent": true,
+      "achievements_unlocked": 9,
+      "achievements_total": 38,
+      "achievement_percent": 23.7
     },
     {
       "appid": 1933970,
@@ -5283,6 +5283,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 290510,
+      "name": "GNOG",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 682350,
       "name": "Gnome Light",
       "playtime_minutes": 0,
@@ -5321,14 +5333,14 @@
     {
       "appid": 3734290,
       "name": "Goblin Sushi",
-      "playtime_minutes": 63,
-      "playtime_hours": 1.1,
-      "last_played_unix": 1789384113,
-      "last_played_utc": "2026-09-14T11:08:33+00:00",
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1789490615,
+      "last_played_utc": "2026-09-15T16:43:35+00:00",
       "recent": true,
-      "achievements_unlocked": 10,
+      "achievements_unlocked": 15,
       "achievements_total": 43,
-      "achievement_percent": 23.3
+      "achievement_percent": 34.9
     },
     {
       "appid": 438490,
@@ -13517,10 +13529,10 @@
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_minutes": 424,
-      "playtime_hours": 7.1,
-      "last_played_unix": 1789460843,
-      "last_played_utc": "2026-09-15T08:27:23+00:00",
+      "playtime_minutes": 489,
+      "playtime_hours": 8.2,
+      "last_played_unix": 1789482492,
+      "last_played_utc": "2026-09-15T14:28:12+00:00",
       "recent": true,
       "achievements_unlocked": 6,
       "achievements_total": 46,
@@ -14225,6 +14237,18 @@
     {
       "appid": 360940,
       "name": "The Mean Greens - Plastic Warfare",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1293160,
+      "name": "The Medium",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

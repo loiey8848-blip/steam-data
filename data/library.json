@@ -1,8 +1,27 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-15T12:12:22.628433+00:00",
-  "owned_games": 1412,
-  "new_games": [],
+  "updated_at_utc": "2026-09-15T18:08:22.582077+00:00",
+  "owned_games": 1414,
+  "new_games": [
+    {
+      "appid": 290510,
+      "name": "GNOG",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1293160,
+      "name": "The Medium",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -466,11 +485,11 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 76,
+      "playtime_hours": 1.3,
+      "last_played_unix": 1789495244,
+      "last_played_utc": "2026-09-15T18:00:44+00:00",
+      "recent": true
     },
     {
       "appid": 1933970,
@@ -3965,6 +3984,15 @@
       "recent": false
     },
     {
+      "appid": 290510,
+      "name": "GNOG",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 682350,
       "name": "Gnome Light",
       "playtime_minutes": 0,
@@ -3994,10 +4022,10 @@
     {
       "appid": 3734290,
       "name": "Goblin Sushi",
-      "playtime_minutes": 63,
-      "playtime_hours": 1.1,
-      "last_played_unix": 1789384113,
-      "last_played_utc": "2026-09-14T11:08:33+00:00",
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1789490615,
+      "last_played_utc": "2026-09-15T16:43:35+00:00",
       "recent": true
     },
     {
@@ -10141,10 +10169,10 @@
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_minutes": 424,
-      "playtime_hours": 7.1,
-      "last_played_unix": 1789460843,
-      "last_played_utc": "2026-09-15T08:27:23+00:00",
+      "playtime_minutes": 489,
+      "playtime_hours": 8.2,
+      "last_played_unix": 1789482492,
+      "last_played_utc": "2026-09-15T14:28:12+00:00",
       "recent": true
     },
     {
@@ -10672,6 +10700,15 @@
     {
       "appid": 360940,
       "name": "The Mean Greens - Plastic Warfare",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1293160,
+      "name": "The Medium",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

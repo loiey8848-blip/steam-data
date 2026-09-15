@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3393280,
+  "game": "Anime Shop Simulator ✨",
+  "total": 38,
+  "unlocked": 9,
+  "percent": 23.7,
+  "updated_at_utc": "2026-09-15T18:08:13.435491+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_TCG_LEAGUE_COMMON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner's Luck",
+      "description": "Complete the Common League"
+    },
+    {
+      "apiname": "ACH_TCG_LEAGUE_BRONZE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Rookie Anymore",
+      "description": "Complete the Bronze League"
+    },
+    {
+      "apiname": "ACH_TCG_LEAGUE_SILVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Main Character Energy",
+      "description": "Complete the Silver League"
+    },
+    {
+      "apiname": "ACH_TCG_LEAGUE_GOLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch Me If You Can",
+      "description": "Complete the Gold League"
+    },
+    {
+      "apiname": "ACH_TCG_LEAGUE_PLATINUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Road to the Finals",
+      "description": "Complete the Platinum League"
+    },
+    {
+      "apiname": "ACH_TCG_LEAGUE_DIAMOND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am the Champion",
+      "description": "Complete the Diamond League"
+    },
+    {
+      "apiname": "ACH_CATCH_THIEVES_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attack on Thieves",
+      "description": "Catch 5 thieves"
+    },
+    {
+      "apiname": "ACH_COLLECT_KEYCHAINS_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keychain Collector Arc",
+      "description": "Collect 50 unique keychains"
+    },
+    {
+      "apiname": "ACH_COLLECT_KEYCHAINS_160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Keychain No Life",
+      "description": "Collect 160 unique  keychains"
+    },
+    {
+      "apiname": "ACH_COLLECT_PINS_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pin Collector Arc",
+      "description": "Collect 50 unique pins"
+    },
+    {
+      "apiname": "ACH_COLLECT_PINS_160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pin Vault",
+      "description": "Collect 160 unique  pins"
+    },
+    {
+      "apiname": "ACH_COLLECT_UNIQUE_CARDS_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Card Collector Arc",
+      "description": "Collect 100 unique cards"
+    },
+    {
+      "apiname": "ACH_COLLECT_UNIQUE_CARDS_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Legend of Cardmaster",
+      "description": "Collect 500 unique cards"
+    },
+    {
+      "apiname": "ACH_COMPLETE_DAY_1",
+      "achieved": 1,
+      "unlocktime": 1789491556,
+      "name": "Ending Theme",
+      "description": "Complete your first workday"
+    },
+    {
+      "apiname": "ACH_DISPOSE_TRASH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleanup Episode",
+      "description": "Throw 50 pieces of trash into a trash bin"
+    },
+    {
+      "apiname": "ACH_EARN_CRYSTALS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon Crystal Power!",
+      "description": "Earn a total of 1,000 crystals"
+    },
+    {
+      "apiname": "ACH_EARN_MONEY_10000",
+      "achieved": 1,
+      "unlocktime": 1789494597,
+      "name": "Over 9000...",
+      "description": "Earn a total of $10,000"
+    },
+    {
+      "apiname": "ACH_FIND_HIDDEN_ITEM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Case Closed!",
+      "description": "Find the hidden item"
+    },
+    {
+      "apiname": "ACH_HANDLE_AGE_CHECK_CORRECTLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shelf Guardian",
+      "description": "Correctly verify a customer's age"
+    },
+    {
+      "apiname": "ACH_HIRE_EMPLOYEE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Retail Academia",
+      "description": "Hire your first employee"
+    },
+    {
+      "apiname": "ACH_MANUAL_CHECKOUT_10",
+      "achieved": 1,
+      "unlocktime": 1789490986,
+      "name": "The Way of the Cashier",
+      "description": "Serve 10 customers"
+    },
+    {
+      "apiname": "ACH_MANUAL_CHECKOUT_100",
+      "achieved": 1,
+      "unlocktime": 1789492853,
+      "name": "Cashier Senpai",
+      "description": "Serve 100 customers"
+    },
+    {
+      "apiname": "ACH_OPEN_BOOSTERS_10",
+      "achieved": 1,
+      "unlocktime": 1789494209,
+      "name": "Booster!",
+      "description": "Open 10 boosters"
+    },
+    {
+      "apiname": "ACH_OPEN_BOOSTERS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just One More Boost...",
+      "description": "Open 1,000 boosters"
+    },
+    {
+      "apiname": "ACH_OPEN_KEYCHAINS_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keychain Rush",
+      "description": "Open 10 keychains"
+    },
+    {
+      "apiname": "ACH_OPEN_KEYCHAINS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keychain × Keychain",
+      "description": "Open 1,000 keychains"
+    },
+    {
+      "apiname": "ACH_OPEN_PINS_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pin no Ko",
+      "description": "Open 50 pins"
+    },
+    {
+      "apiname": "ACH_OPEN_PINS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pin Piece",
+      "description": "Open 1,000 pins"
+    },
+    {
+      "apiname": "ACH_OPEN_SHOP",
+      "achieved": 1,
+      "unlocktime": 1789490848,
+      "name": "Episode 1: We're Open!",
+      "description": "Open the shop"
+    },
+    {
+      "apiname": "ACH_SHOP_EXPANSION_1",
+      "achieved": 1,
+      "unlocktime": 1789493003,
+      "name": "Season 2 Confirmed!",
+      "description": "Purchase your first shop expansion"
+    },
+    {
+      "apiname": "ACH_SERVE_COURIERS_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Courier-kun, Welcome!",
+      "description": "Serve 5 couriers"
+    },
+    {
+      "apiname": "ACH_SHOP_EXPANSIONS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Store Form",
+      "description": "Purchase all shop expansions"
+    },
+    {
+      "apiname": "ACH_SHOP_LEVEL_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "C-Rank Shopkeeper",
+      "description": "Reach shop level 25"
+    },
+    {
+      "apiname": "ACH_SHOP_LEVEL_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A-Rank Shopkeeper",
+      "description": "Reach shop level 50"
+    },
+    {
+      "apiname": "ACH_SHOP_LEVEL_5",
+      "achieved": 1,
+      "unlocktime": 1789492997,
+      "name": "E-Rank Shopkeeper",
+      "description": "Reach shop level 5"
+    },
+    {
+      "apiname": "ACH_SHOP_LEVEL_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "S-Rank Shopkeeper",
+      "description": "Reach shop level 80"
+    },
+    {
+      "apiname": "ACH_STORAGE_EXPANSION_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storage Jutsu!",
+      "description": "Purchase your first storage expansion"
+    },
+    {
+      "apiname": "ACH_TCG_BATTLE_1",
+      "achieved": 1,
+      "unlocktime": 1789493717,
+      "name": "Tournament Arc",
+      "description": "Complete your first card battle"
+    }
+  ]
+}

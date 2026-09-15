@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 10,
-  "percent": 23.3,
-  "updated_at_utc": "2026-09-15T12:12:13.798597+00:00",
+  "unlocked": 15,
+  "percent": 34.9,
+  "updated_at_utc": "2026-09-15T18:08:13.573133+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "UNLOCK_GRILL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789489011,
       "name": "All I want for sushi is meat!",
       "description": "Unlock the Grill."
     },
     {
       "apiname": "UNLOCK_JUICE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789489011,
       "name": "Massive Juicer",
       "description": "Unlock the Juice."
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "FIRST_GRILL_DISH_CREATED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789489075,
       "name": "Grilled Sushi?",
       "description": "Grill your first dish on the grill."
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "FIRST_FROZEN_POOP_CREATED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789489325,
       "name": "Almost Ice Cream",
       "description": "Create your first frozen poop!"
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "CREATE_POOP_STAGE_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789489010,
       "name": "Customer Protection Dismissed",
       "description": "Create 10 poops."
     },
