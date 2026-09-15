@@ -260,9 +260,6 @@ jobs:
               | changed_games
           )
 
-          # 已玩过但没有缓存的游戏
-          # 第一次运行会逐渐建立完整缓存
-
           for game in library:
 
               if game["playtime_minutes"] <= 0:
@@ -413,7 +410,6 @@ jobs:
 
                   skipped += 1
 
-              # 避免大量请求过快
               if (
                   index > 0
                   and
@@ -518,6 +514,45 @@ jobs:
                   library_payload,
                   ensure_ascii=False,
                   indent=2
+              ),
+              encoding="utf-8"
+          )
+
+          # -------------------------
+          # 9.1 轻量库存索引
+          # -------------------------
+
+          owned_appids = sorted(
+              game["appid"]
+              for game in library
+          )
+
+          owned_games_index = {
+              str(game["appid"]): game["name"]
+              for game in sorted(
+                  library,
+                  key=lambda x: x["appid"]
+              )
+          }
+
+          (
+              ROOT / "owned-appids.json"
+          ).write_text(
+              json.dumps(
+                  owned_appids,
+                  ensure_ascii=False,
+                  separators=(",", ":")
+              ),
+              encoding="utf-8"
+          )
+
+          (
+              ROOT / "owned-games-index.json"
+          ).write_text(
+              json.dumps(
+                  owned_games_index,
+                  ensure_ascii=False,
+                  separators=(",", ":")
               ),
               encoding="utf-8"
           )
@@ -663,6 +698,11 @@ jobs:
           print(
               "Owned games:",
               len(library)
+          )
+
+          print(
+              "Ownership index:",
+              len(owned_appids)
           )
 
           print(
