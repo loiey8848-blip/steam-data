@@ -3,9 +3,9 @@
   "appid": 3998900,
   "game": "Claws Of Power",
   "total": 30,
-  "unlocked": 15,
-  "percent": 50.0,
-  "updated_at_utc": "2026-09-15T08:57:13.374478+00:00",
+  "unlocked": 24,
+  "percent": 80.0,
+  "updated_at_utc": "2026-09-15T12:12:14.213210+00:00",
   "achievements": [
     {
       "apiname": "ACH_STORY_CH01",
@@ -37,15 +37,15 @@
     },
     {
       "apiname": "ACH_STORY_CH05",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789466329,
       "name": "极寒考验",
       "description": "通关第五章结尾普通关"
     },
     {
       "apiname": "ACH_STORY_CH06",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789469547,
       "name": "直面父亲的资格",
       "description": "通关第六章结尾普通关"
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ACH_BOSS_FATHER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789470375,
       "name": "父亲的认可",
       "description": "击败父亲大人"
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_HARD_UNLOCKED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789466442,
       "name": "真正的考验",
       "description": "解锁困难模式"
     },
@@ -156,22 +156,22 @@
     },
     {
       "apiname": "ACH_INFINITE_DUANZANG_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789468061,
       "name": "无尽断藏",
       "description": "击败无限断藏第 10 阶"
     },
     {
       "apiname": "ACH_INFINITE_DRACULMEOW_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789471928,
       "name": "无尽夜幕",
       "description": "击败无限德古喵第 10 阶"
     },
     {
       "apiname": "ACH_INFINITE_FATHER_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789471016,
       "name": "无尽父爱",
       "description": "击败无限父亲大人第 10 阶"
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_STICK_JACK_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789466566,
       "name": "百喵成杰",
       "description": "累计主动召唤 100 只棒杰克"
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "ACH_GOLDEN_TOUCH_BONUS_5000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789474257,
       "name": "点石成金",
       "description": "通过装备点金手或道具点金手累计获得 5,000 额外金币"
     },

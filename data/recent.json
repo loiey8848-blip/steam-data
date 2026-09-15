@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-15T08:57:21.887515+00:00",
+  "updated_at_utc": "2026-09-15T12:12:22.628433+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -47,6 +47,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3998900,
+      "name": "Claws Of Power",
+      "playtime_2weeks": 511,
+      "playtime_forever": 546,
+      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
+      "playtime_windows_forever": 546,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
       "playtime_2weeks": 424,
@@ -64,17 +75,6 @@
       "playtime_forever": 422,
       "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
       "playtime_windows_forever": 422,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3998900,
-      "name": "Claws Of Power",
-      "playtime_2weeks": 390,
-      "playtime_forever": 425,
-      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
-      "playtime_windows_forever": 425,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -174,17 +174,6 @@
       "playtime_forever": 1,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 1,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2195120,
-      "name": "Go-Go Town!",
-      "playtime_2weeks": 1,
-      "playtime_forever": 27,
-      "img_icon_url": "76e8620654f59be3451bb78c80d2ab6d92b59629",
-      "playtime_windows_forever": 27,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
