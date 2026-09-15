@@ -3,9 +3,9 @@
   "appid": 1989270,
   "game": "Slay the Princess — The Pristine Cut",
   "total": 131,
-  "unlocked": 42,
-  "percent": 32.1,
-  "updated_at_utc": "2026-09-15T06:52:25.397907+00:00",
+  "unlocked": 43,
+  "percent": 32.8,
+  "updated_at_utc": "2026-09-15T08:56:34.166470+00:00",
   "achievements": [
     {
       "apiname": "ACH_CREDITS",
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "ACH_ADV_AGILE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789456470,
       "name": "A Wide Open Field",
       "description": "Lure a hulking foe to advantageous terrain and win."
     },

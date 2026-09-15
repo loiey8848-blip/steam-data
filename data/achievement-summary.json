@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-15T06:53:46.376890+00:00",
+  "updated_at_utc": "2026-09-15T08:57:21.887515+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -12317,14 +12317,14 @@
     {
       "appid": 1989270,
       "name": "Slay the Princess — The Pristine Cut",
-      "playtime_minutes": 115,
-      "playtime_hours": 1.9,
-      "last_played_unix": 1789410502,
-      "last_played_utc": "2026-09-14T18:28:22+00:00",
+      "playtime_minutes": 120,
+      "playtime_hours": 2.0,
+      "last_played_unix": 1789456553,
+      "last_played_utc": "2026-09-15T07:15:53+00:00",
       "recent": true,
-      "achievements_unlocked": 42,
+      "achievements_unlocked": 43,
       "achievements_total": 131,
-      "achievement_percent": 32.1
+      "achievement_percent": 32.8
     },
     {
       "appid": 646570,
@@ -13517,10 +13517,10 @@
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_minutes": 357,
-      "playtime_hours": 6.0,
-      "last_played_unix": 1789442184,
-      "last_played_utc": "2026-09-15T03:16:24+00:00",
+      "playtime_minutes": 424,
+      "playtime_hours": 7.1,
+      "last_played_unix": 1789460843,
+      "last_played_utc": "2026-09-15T08:27:23+00:00",
       "recent": true,
       "achievements_unlocked": 6,
       "achievements_total": 46,
@@ -16617,7 +16617,7 @@
       "playtime_hours": 46.0,
       "last_played_unix": 1788252635,
       "last_played_utc": "2026-09-01T08:50:35+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 229,
       "achievements_total": 229,
       "achievement_percent": 100.0

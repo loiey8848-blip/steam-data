@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-15T06:53:46.376890+00:00",
+  "updated_at_utc": "2026-09-15T08:57:21.887515+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -38,10 +38,21 @@
     {
       "appid": 1608070,
       "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-      "playtime_2weeks": 819,
+      "playtime_2weeks": 740,
       "playtime_forever": 1298,
       "img_icon_url": "80f4044e4cf12b1eb8d344b19af99629022c3ab3",
       "playtime_windows_forever": 1298,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "playtime_2weeks": 424,
+      "playtime_forever": 424,
+      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
+      "playtime_windows_forever": 424,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -64,17 +75,6 @@
       "playtime_forever": 425,
       "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
       "playtime_windows_forever": 425,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 357,
-      "playtime_forever": 357,
-      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 357,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -124,23 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "playtime_2weeks": 22,
+      "playtime_forever": 120,
+      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
+      "playtime_windows_forever": 120,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2483190,
       "name": "Forza Horizon 6",
       "playtime_2weeks": 21,
       "playtime_forever": 32,
       "img_icon_url": "55a14aaa3f5ef5367225f3099ce564462f15b171",
       "playtime_windows_forever": 32,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 16,
-      "playtime_forever": 115,
-      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 115,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -196,17 +196,6 @@
       "playtime_forever": 38,
       "img_icon_url": "a587657b55806de8d8a1fb4adc9138cae8647aa1",
       "playtime_windows_forever": 38,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2163330,
-      "name": "Yet Another Zombie Survivors",
-      "playtime_2weeks": 1,
-      "playtime_forever": 2759,
-      "img_icon_url": "29d2fd0987cbbc1fdb23a356979d7bbb6584a9e5",
-      "playtime_windows_forever": 2759,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
