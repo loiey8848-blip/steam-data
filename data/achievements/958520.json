@@ -1,0 +1,242 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 958520,
+  "game": "33 Immortals",
+  "total": 33,
+  "unlocked": 7,
+  "percent": 21.2,
+  "updated_at_utc": "2026-09-15T06:51:06.212200+00:00",
+  "achievements": [
+    {
+      "apiname": "1_IntroStart",
+      "achieved": 1,
+      "unlocktime": 1781683178,
+      "name": "The Rebellion Begins",
+      "description": "Arrive at Dark Woods for the first time"
+    },
+    {
+      "apiname": "2_CompleteCR",
+      "achieved": 1,
+      "unlocktime": 1781685405,
+      "name": "Unified Triumph",
+      "description": "Complete a Torture Chamber"
+    },
+    {
+      "apiname": "3_CompleteAP",
+      "achieved": 1,
+      "unlocktime": 1781686597,
+      "name": "Rising Star",
+      "description": "Win an Ascension Battle"
+    },
+    {
+      "apiname": "4_DefeatLucifer",
+      "achieved": 1,
+      "unlocktime": 1781687116,
+      "name": "From King to Nothing",
+      "description": "Defeat Lucifer"
+    },
+    {
+      "apiname": "5_DefeatAdamEve",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pulling Out The Weeds",
+      "description": ""
+    },
+    {
+      "apiname": "6_DefeatGod",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Own Way",
+      "description": ""
+    },
+    {
+      "apiname": "7_TrueEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apotheosis",
+      "description": ""
+    },
+    {
+      "apiname": "8_BoneShrine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bone Gatherer",
+      "description": "Use a Bone Shrine to Heal, or to acquire a Key or a Teleport Stone"
+    },
+    {
+      "apiname": "9_ResurrectPlayers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Body of Dust",
+      "description": "Resurrect other Players 3 times"
+    },
+    {
+      "apiname": "10_UnlockOnePerkSlot",
+      "achieved": 1,
+      "unlocktime": 1781687285,
+      "name": "Incipit",
+      "description": "Unlock a Perk Slot"
+    },
+    {
+      "apiname": "11_UnlockAllPerkSlot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Structured Poetry",
+      "description": "Unlock all Perk Slots"
+    },
+    {
+      "apiname": "12_DiscoverAllPerks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divina Commedia",
+      "description": "Discover all Perks to complete your Perk collection"
+    },
+    {
+      "apiname": "13_EquipCommonCosmetics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Style Explorer",
+      "description": "Equip a Common Cape, a Common Halo, and a Common Weapon Skin"
+    },
+    {
+      "apiname": "14_EquipEpicCosmetics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashionista",
+      "description": "Equip an Epic Halo, an Epic Cape, an Epic Weapon Skin and an Epic Familiar"
+    },
+    {
+      "apiname": "15_FindRelicToken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Find a Relic Token in the Beyond"
+    },
+    {
+      "apiname": "16_DiscoverAllrelics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Discover all Relics to complete your Relic Collection"
+    },
+    {
+      "apiname": "17_CompleteRebelLegend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Rebel's Journey",
+      "description": "Fully complete the Major Feat Rebel Legend"
+    },
+    {
+      "apiname": "18_LootDailyQuestchest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Erudite's Favorite",
+      "description": "Obtain the Daily Quest Chest"
+    },
+    {
+      "apiname": "19_KillUniqueElites",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Refined Huntsman",
+      "description": "Defeat 3 Unique Elites"
+    },
+    {
+      "apiname": "20_CompleteSecretCR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Weapon",
+      "description": ""
+    },
+    {
+      "apiname": "21_KillShiny",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Are You?!",
+      "description": ""
+    },
+    {
+      "apiname": "22_CoStrikeCounter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Luck Evading This!",
+      "description": "Reach 300 hits on your Co-Strike counter"
+    },
+    {
+      "apiname": "23_RelicWish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prayer Answered",
+      "description": ""
+    },
+    {
+      "apiname": "24_FirstConstellation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dawn of the Celestial Path",
+      "description": ""
+    },
+    {
+      "apiname": "25_ThirdConstellation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zenith of the Starbound",
+      "description": ""
+    },
+    {
+      "apiname": "26_UnlockTwoWeapons",
+      "achieved": 1,
+      "unlocktime": 1781684168,
+      "name": "First Arms",
+      "description": "Unlock 2 weapons"
+    },
+    {
+      "apiname": "27_FullyUpgradeAWeapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastercraftsman",
+      "description": "Fully level a Weapon's Co-Op Power and equip two Upgrades"
+    },
+    {
+      "apiname": "28_CoopThrice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Synergetic Triune",
+      "description": "Cast Co-op Powers from 3 Different Weapons"
+    },
+    {
+      "apiname": "29_AllWeapons",
+      "achieved": 1,
+      "unlocktime": 1781687536,
+      "name": "Arsenal Adept",
+      "description": "Unlock 8 Weapons"
+    },
+    {
+      "apiname": "30_AllTrainings",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forged in Practice",
+      "description": "Complete all Trainings"
+    },
+    {
+      "apiname": "31_3Ordeals",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burden Bearer",
+      "description": ""
+    },
+    {
+      "apiname": "32_12Ordeals",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apostle of Agony",
+      "description": ""
+    },
+    {
+      "apiname": "33_BeatBossInParty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "United We Conquer",
+      "description": "Beat a Boss while in a Party"
+    }
+  ]
+}

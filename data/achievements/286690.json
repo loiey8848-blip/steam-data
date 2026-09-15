@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 286690,
+  "game": "Metro 2033 Redux",
+  "total": 49,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:08.683331+00:00",
+  "achievements": [
+    {
+      "apiname": "2033_air_bender",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Bender",
+      "description": "Kill 50 humans with pneumatic weapons."
+    },
+    {
+      "apiname": "2033_cowboy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cowboy",
+      "description": "Kill 100 enemies using revolvers."
+    },
+    {
+      "apiname": "2033_demolitionist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolitionist",
+      "description": "Blow up the tunnel and airlock at CURSED STATION."
+    },
+    {
+      "apiname": "2033_dj_artyom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DJ Artyom",
+      "description": "On the level OUTPOST reach the radio tower and broadcast the commander's message."
+    },
+    {
+      "apiname": "2033_enlightened",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enlightened",
+      "description": "Find the truth."
+    },
+    {
+      "apiname": "2033_fireinthehole",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire in the hole",
+      "description": "Kill 20 lurkers."
+    },
+    {
+      "apiname": "2033_flame_grenade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire!",
+      "description": "Kill 30 enemies with flame grenades."
+    },
+    {
+      "apiname": "2033_generous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Generous",
+      "description": "Help the poor, a coin for the kid, medicine for the sick. You help everyone you see."
+    },
+    {
+      "apiname": "2033_gunman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunman",
+      "description": "Kill 100 enemies with shotguns."
+    },
+    {
+      "apiname": "2033_heavy_reader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Reader",
+      "description": "Kill a librarian."
+    },
+    {
+      "apiname": "2033_hedge_hopper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hedge-hopper",
+      "description": "On the level FRONTLINE kill all of the enemy Red Army and Fascist Soldiers."
+    },
+    {
+      "apiname": "2033_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Kill 200 Mutants."
+    },
+    {
+      "apiname": "2033_inquisitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inquisitor",
+      "description": "Kill 2 demons."
+    },
+    {
+      "apiname": "2033_invisible_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invisible man",
+      "description": "Complete FRONTLINE level without killing anyone."
+    },
+    {
+      "apiname": "2033_ka_boom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ka-Boom!",
+      "description": "Explode 30 enemies."
+    },
+    {
+      "apiname": "2033_manhattan_project",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Manhattan Project",
+      "description": "Spend 60 seconds in a Radiation Hotspot."
+    },
+    {
+      "apiname": "2033_mashine_gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trigger Happy",
+      "description": "Kill 100 enemies with assault rifles."
+    },
+    {
+      "apiname": "2033_max_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toast!",
+      "description": ""
+    },
+    {
+      "apiname": "2033_merciful",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merciful",
+      "description": "Complete the level BLACK STATION without killing or knocking out any enemies."
+    },
+    {
+      "apiname": "2033_metro_trader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metro Trader",
+      "description": "Make 30 deals in weapon shops."
+    },
+    {
+      "apiname": "2033_snake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snake",
+      "description": "Stealthily kill 15 Enemies."
+    },
+    {
+      "apiname": "2033_ninja_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ninja",
+      "description": "Kill 30 enemies with throwing knives."
+    },
+    {
+      "apiname": "2033_nosalis_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nosalis hunter",
+      "description": "Kill 100 nosalises."
+    },
+    {
+      "apiname": "2033_pathoanatomist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pathoanatomist",
+      "description": "Kill 5 amoebas."
+    },
+    {
+      "apiname": "2033_published_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blogger",
+      "description": "Complete all 51 of Artyom's hidden Diary pages."
+    },
+    {
+      "apiname": "2033_pyro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyro",
+      "description": "Kill 30 enemies with a flamethrower."
+    },
+    {
+      "apiname": "2033_quick_draw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Draw",
+      "description": "On the level HUNTER kill the nosalises before they break through the ventilation grilles."
+    },
+    {
+      "apiname": "2033_raider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raider",
+      "description": "On the level DEPOT silently kill the first guard and break into the Fascist station unnoticed."
+    },
+    {
+      "apiname": "2033_ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranger",
+      "description": "Find all Ranger stashes in Dead City."
+    },
+    {
+      "apiname": "2033_rescue_ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rescue Ranger",
+      "description": "Save a group of Reds from Fascist captivity."
+    },
+    {
+      "apiname": "2033_safecracker_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thief",
+      "description": "Open 15 locked safe boxes."
+    },
+    {
+      "apiname": "2033_scrooge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrooge",
+      "description": "Save 1000 military-grade rounds."
+    },
+    {
+      "apiname": "2033_shocking",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shocking",
+      "description": "Get 30 kills with Hellbreath."
+    },
+    {
+      "apiname": "2033_slice_dice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slice & Dice",
+      "description": "Kill 30 human enemies in close combat."
+    },
+    {
+      "apiname": "2033_sniper_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniper",
+      "description": "Kill 30 human enemies with headshots."
+    },
+    {
+      "apiname": "2033_marksman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marksman",
+      "description": "Kill 15 human enemies with Headshots from at least 30 meters' distance."
+    },
+    {
+      "apiname": "2033_soft_touch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soft Touch",
+      "description": "Disarm 15 wire traps."
+    },
+    {
+      "apiname": "2033_spartan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spartan 2033",
+      "description": "Complete the game in Spartan Mode."
+    },
+    {
+      "apiname": "2033_spider_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spider hunter",
+      "description": "Kill 10 Spiders."
+    },
+    {
+      "apiname": "2033_stun_melee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stunning",
+      "description": "Knock 30 human enemies out in close combat."
+    },
+    {
+      "apiname": "2033_survival",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor 2033",
+      "description": "Complete the game in Survival Mode."
+    },
+    {
+      "apiname": "2033_tank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank",
+      "description": "Kill 10 Enemies in a row without taking any damage."
+    },
+    {
+      "apiname": "2033_tonic_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tonic Man",
+      "description": "Use a Medkit 75 times."
+    },
+    {
+      "apiname": "2033_true_ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If it's hostile, you kill it.",
+      "description": "Become a true ranger."
+    },
+    {
+      "apiname": "2033_warior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": "Kill 100 Human Enemies."
+    },
+    {
+      "apiname": "2033_watchman_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watchman hunter",
+      "description": "Kill 50 Watchmen."
+    },
+    {
+      "apiname": "2033_weaponsmith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weaponsmith",
+      "description": "Kill at least one enemy with each weapon available in the game"
+    },
+    {
+      "apiname": "2033_wheeler_dealer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wheeler-Dealer",
+      "description": "Exchange 500 Military-Grade 5.45 rounds at Exchange kiosks."
+    },
+    {
+      "apiname": "2033_who_goes_there",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who goes there?",
+      "description": "Wipe your Gas Mask 20 times."
+    }
+  ]
+}

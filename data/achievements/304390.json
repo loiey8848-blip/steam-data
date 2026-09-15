@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 304390,
+  "game": "FOR HONOR",
+  "total": 60,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:12.316210+00:00",
+  "achievements": [
+    {
+      "apiname": "ForHonor_Ach_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dishonorable Discharge",
+      "description": "Complete the Knight Chapter."
+    },
+    {
+      "apiname": "ForHonor_Ach_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Working Hard for the Loot",
+      "description": "Complete the Viking Chapter."
+    },
+    {
+      "apiname": "ForHonor_Ach_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If you want peace, prepare for war",
+      "description": "Complete the Samurai Chapter."
+    },
+    {
+      "apiname": "ForHonor_Ach_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome To The Blackstone Legion",
+      "description": "Complete Mission 1."
+    },
+    {
+      "apiname": "ForHonor_Ach_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hooligan",
+      "description": "Get 100 % of the Breakables from all Missions in Story Mode."
+    },
+    {
+      "apiname": "ForHonor_Ach_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lore Master",
+      "description": "Get 100 % of the Observables from all Missions in Story Mode."
+    },
+    {
+      "apiname": "ForHonor_Ach_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Average Accomplishment",
+      "description": "Complete Story Mode at Normal difficulty."
+    },
+    {
+      "apiname": "ForHonor_Ach_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Remarkable Accomplishment",
+      "description": "Complete Story Mode at Hard difficulty."
+    },
+    {
+      "apiname": "ForHonor_Ach_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Exceptional Accomplishment",
+      "description": "Complete Story Mode at Realistic difficulty."
+    },
+    {
+      "apiname": "ForHonor_Ach_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Beginning",
+      "description": "Reach Story Level 10 in Story Mode."
+    },
+    {
+      "apiname": "ForHonor_Ach_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Middle",
+      "description": "Reach Story Level 20  in Story Mode."
+    },
+    {
+      "apiname": "ForHonor_Ach_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An End",
+      "description": "Reach maximum Story Level 30 in Story Mode."
+    },
+    {
+      "apiname": "ForHonor_Ach_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting the band back together",
+      "description": "Recruit 4 Heroes of a single Faction."
+    },
+    {
+      "apiname": "ForHonor_Ach_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Knighted",
+      "description": "Reach Reputation 1 with one of the Knight Heroes."
+    },
+    {
+      "apiname": "ForHonor_Ach_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Impressive",
+      "description": "Reach Reputation 1 with one of the Samurai Heroes."
+    },
+    {
+      "apiname": "ForHonor_Ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've Heard Your Name",
+      "description": "Reach Reputation 1 with one of the Viking Heroes."
+    },
+    {
+      "apiname": "ForHonor_Ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Hero",
+      "description": "Reach Reputation 5 with any Hero."
+    },
+    {
+      "apiname": "ForHonor_Ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Way Down",
+      "description": "Kill 50 Opponents by throwing them off a ledge."
+    },
+    {
+      "apiname": "ForHonor_Ach_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anything Can Be A Weapon",
+      "description": "Throw an opponent into fire or spikes 50 times."
+    },
+    {
+      "apiname": "ForHonor_Ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfair Fight",
+      "description": "Kill an enemy in a 1V2 situation in PvP."
+    },
+    {
+      "apiname": "ForHonor_Ach_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heads Up!",
+      "description": "Kill 25 Heroes by attacking them from above in PvP."
+    },
+    {
+      "apiname": "ForHonor_Ach_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Principled Warrior",
+      "description": "Complete a Dominion PvP match without a single Dishonorable Kill."
+    },
+    {
+      "apiname": "ForHonor_Ach_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do it for the Honor!",
+      "description": "Complete 50 Honorable Kills in 4v4 PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've Got Your Back!",
+      "description": "Save an ally 50 times in 4v4 PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're On Fire!",
+      "description": "Get 5 Kill Streaks of 5 kills in Elimination or Skirmish in PvP."
+    },
+    {
+      "apiname": "ForHonor_Ach_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look At All These Feats",
+      "description": "Get the max Renown level 50 times in Dominion PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge Spammer",
+      "description": "Activate Revenge mode 50 times."
+    },
+    {
+      "apiname": "ForHonor_Ach_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Can't Touch This",
+      "description": "Parry attacks 50 Times."
+    },
+    {
+      "apiname": "ForHonor_Ach_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like Killing Ants",
+      "description": "Kill 5000 soldiers."
+    },
+    {
+      "apiname": "ForHonor_Ach_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duelist",
+      "description": "Win your first Duel PvP match."
+    },
+    {
+      "apiname": "ForHonor_Ach_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duel Master",
+      "description": "Win 20 Duel PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler",
+      "description": "Win your first Brawl PvP match."
+    },
+    {
+      "apiname": "ForHonor_Ach_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawl Master",
+      "description": "Win 20 Brawl PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominator",
+      "description": "Win your first Dominion PvP match."
+    },
+    {
+      "apiname": "ForHonor_Ach_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominion Master",
+      "description": "Win 20 Dominion PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skirmisher",
+      "description": "Win your first Skirmish PvP match."
+    },
+    {
+      "apiname": "ForHonor_Ach_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skirmish Master",
+      "description": "Win 20 Skirmish PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eliminator",
+      "description": "Win your first Elimination PvP match."
+    },
+    {
+      "apiname": "ForHonor_Ach_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elimination Master",
+      "description": "Win 20 Elimination PvP matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gear Head",
+      "description": "Level up a piece of Gear of any rarity to its maximum level."
+    },
+    {
+      "apiname": "ForHonor_Ach_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Discerning Taste",
+      "description": "Equip your first Symbol, Paint Pattern and Color Swatch on any Hero."
+    },
+    {
+      "apiname": "ForHonor_Ach_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Play Your Way",
+      "description": "Equip a different Effect, Emote and Execution on a single Hero."
+    },
+    {
+      "apiname": "ForHonor_Ach_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swag Up",
+      "description": "Equip a Hero with Heroic Armor and Weapons in all Gear slots."
+    },
+    {
+      "apiname": "ForHonor_Ach_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Makeover!",
+      "description": "Change the visual of any piece of Gear."
+    },
+    {
+      "apiname": "ForHonor_Ach_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evening Wear",
+      "description": "Update a second loadout for a Hero by setting a feat other than the default."
+    },
+    {
+      "apiname": "ForHonor_Ach_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're So Vain",
+      "description": "Equip an Ornament on 4 Heroes of a single Faction."
+    },
+    {
+      "apiname": "ForHonor_Ach_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're A Wizard",
+      "description": "Set 4 non-default Feats for a single Hero."
+    },
+    {
+      "apiname": "ForHonor_Ach_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cry Havoc",
+      "description": "Manually deploy Troops on a territory for the first time."
+    },
+    {
+      "apiname": "ForHonor_Ach_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let Slip The Dogs Of War",
+      "description": "Manually deploy Troops on territories 100 times."
+    },
+    {
+      "apiname": "ForHonor_Ach_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Honor!",
+      "description": "Participate in a Season and come back to see the results at the start of the next Season."
+    },
+    {
+      "apiname": "ForHonor_Ach_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Reservist",
+      "description": "Manually deploy Troops in 5 different Campaigns."
+    },
+    {
+      "apiname": "ForHonor_Ach_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Active Duty",
+      "description": "Manually deploy Troops in 50 different Battles."
+    },
+    {
+      "apiname": "ForHonor_Ach_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warmonger",
+      "description": "Manually deploy Troops on 10 enemy territories."
+    },
+    {
+      "apiname": "ForHonor_Ach_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protector",
+      "description": "Manually deploy Troops on 10 friendly territories."
+    },
+    {
+      "apiname": "ForHonor_Ach_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breach Apprentice",
+      "description": "Win your first Breach match."
+    },
+    {
+      "apiname": "ForHonor_Ach_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breach Master",
+      "description": "Complete 15 Breach matches."
+    },
+    {
+      "apiname": "ForHonor_Ach_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quest for Glory",
+      "description": "Complete your first Quest in Arcade."
+    },
+    {
+      "apiname": "ForHonor_Ach_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial Quester",
+      "description": "Complete Quests of 5 different rarity levels."
+    },
+    {
+      "apiname": "ForHonor_Ach_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Unstoppable Force",
+      "description": "Complete 10 matches with any Wu Lin Hero."
+    },
+    {
+      "apiname": "ForHonor_Ach_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loyalty and Righteousness",
+      "description": "Reach Reputation 7 with one of the Wu Lin Heroes."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 322450,
+  "game": "FRAMED Collection",
+  "total": 18,
+  "unlocked": 18,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:49:25.712042+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_COMPLETE_FC",
+      "achieved": 1,
+      "unlocktime": 1773797814,
+      "name": "Got a light?",
+      "description": "Complete Framed Collection"
+    },
+    {
+      "apiname": "ACH_LONG_BIKE_RIDE",
+      "achieved": 1,
+      "unlocktime": 1773772887,
+      "name": "Tour de France",
+      "description": "Cycle continuously for 15 panels"
+    },
+    {
+      "apiname": "ACH_PADLOCK_CODE",
+      "achieved": 1,
+      "unlocktime": 1773772974,
+      "name": "Allo Beasty",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_AIRDUCT_SLIDE",
+      "achieved": 1,
+      "unlocktime": 1773744140,
+      "name": "Clutz",
+      "description": "Be blown through 5 air duct panels"
+    },
+    {
+      "apiname": "ACH_BOXFACT_MARATHON",
+      "achieved": 1,
+      "unlocktime": 1773773515,
+      "name": "Marathon Man",
+      "description": "Travel through 25 panels in the box factory"
+    },
+    {
+      "apiname": "ACH_CEMENT_NOCRUMBLE",
+      "achieved": 1,
+      "unlocktime": 1773746327,
+      "name": "Heritage Listed",
+      "description": "Beat the Cement Mixer level without cumbling the top ledge"
+    },
+    {
+      "apiname": "ACH_BELL_HAMMER",
+      "achieved": 1,
+      "unlocktime": 1773773239,
+      "name": "My ears!",
+      "description": "Knock yourself out with a sonic pulse"
+    },
+    {
+      "apiname": "ACH_WAREHOUSE_ALLEXITS",
+      "achieved": 1,
+      "unlocktime": 1773773091,
+      "name": "What's behind door number 2?",
+      "description": "Enter the last panel of the warehouse level from every possible entry"
+    },
+    {
+      "apiname": "ACH_FACEPLANT",
+      "achieved": 1,
+      "unlocktime": 1773773167,
+      "name": "That's gotta hoit!",
+      "description": "Crash into a wall"
+    },
+    {
+      "apiname": "ACH_TRAIN_SPECTATOR",
+      "achieved": 1,
+      "unlocktime": 1773742290,
+      "name": "Train surfing spectator",
+      "description": "Move past the window of the onlooking train passangers"
+    },
+    {
+      "apiname": "ACH_BOXFACT_USEBOX",
+      "achieved": 1,
+      "unlocktime": 1773747487,
+      "name": "No place to Hideo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FOLLOWER_FACEPLANT",
+      "achieved": 1,
+      "unlocktime": 1773773168,
+      "name": "Pied Piper",
+      "description": "Lead a follower to crash into a wall"
+    },
+    {
+      "apiname": "ACH_FLIP_TABLE",
+      "achieved": 1,
+      "unlocktime": 1773737954,
+      "name": "Table Manners",
+      "description": "Flip a table"
+    },
+    {
+      "apiname": "ACH_TRASHCAN",
+      "achieved": 1,
+      "unlocktime": 1773739901,
+      "name": "Taking out the trash",
+      "description": "Clean up the city streets"
+    },
+    {
+      "apiname": "ACH_DRESSUP",
+      "achieved": 1,
+      "unlocktime": 1773742653,
+      "name": "Dress Up",
+      "description": "Dress up a stranger on a train"
+    },
+    {
+      "apiname": "ACH_TOILET_ENTRY",
+      "achieved": 1,
+      "unlocktime": 1773772471,
+      "name": "Long Drop",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FAIL_THREE_IDENTICAL",
+      "achieved": 1,
+      "unlocktime": 1773736049,
+      "name": "Persistence",
+      "description": "The same incorrect solution 3x in a row"
+    },
+    {
+      "apiname": "ACH_CREDITS",
+      "achieved": 1,
+      "unlocktime": 1773800482,
+      "name": "Standing Ovation ",
+      "description": "Watch all the credits"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 236870,
+  "game": "HITMAN™",
+  "total": 69,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:46.573680+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Result of Previous Training",
+      "description": "Complete Freeform Training in the Prologue."
+    },
+    {
+      "apiname": "ACH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleared for Field Duty",
+      "description": "Complete The Final Test in the Prologue."
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seizing the Opportunity",
+      "description": "Complete any Opportunity in The Final Test."
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Creative Assassin",
+      "description": "Complete the Contract Creation Tutorial."
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unexpected Guest",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "K-36D",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defection Deterred",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Assassin",
+      "description": "Complete The Final Test unspotted. Kill only Jasper Knight, ensuring his body is not found."
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Security Defeated",
+      "description": "Arrange matters so that a guard finds a discarded weapon and moves it into the hangar."
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chameleon",
+      "description": "Change your disguise during The Final Test."
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Training Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in the ICA Facility."
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contract Assassin",
+      "description": "Complete 10 Contracts."
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top of the Class",
+      "description": "Set the high score on a Contract."
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A NEW Profile",
+      "description": "Complete a Featured Contract."
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shhhh",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Assassinate Targets with Ballistic, Accident and Explosion Kills."
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unseen Assassin",
+      "description": "Assassinate a Target without getting spotted."
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "When No One Else Dares",
+      "description": "Complete The Showstopper."
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Showstopper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meeting the Rieper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Many Ways to Stop the Show",
+      "description": "Complete all Opportunities in The Showstopper."
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paris Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Paris."
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Prepared",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Paris."
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Light",
+      "description": "Reach Paris Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Die by the Sword",
+      "description": "Complete World of Tomorrow."
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sapienza Trinity",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let No Joyful Voice be Heard",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not in the Guidebook",
+      "description": "Complete all Opportunities in World of Tomorrow."
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sapienza Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Sapienza."
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plan Ahead",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Sapienza."
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amalfi Pearl",
+      "description": "Reach Sapienza Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Big to Fail",
+      "description": "Complete A Gilded Cage."
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": ".50 Personal Touch",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfortunate Fortune",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tourist Attractions",
+      "description": "Complete all Opportunities in A Gilded Cage."
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marrakesh Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Marrakesh."
+    },
+    {
+      "apiname": "ACH_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful Planning",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Marrakesh."
+    },
+    {
+      "apiname": "ACH_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Marrakesh",
+      "description": "Reach Marrakesh Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Complete Suit Only and Silent Assassin Challenges on The Icon, A House Built on Sand or Landslide."
+    },
+    {
+      "apiname": "ACH_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Night at the Movies",
+      "description": "Complete The Icon."
+    },
+    {
+      "apiname": "ACH_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stealing the Spotlight",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Touring the Film Set",
+      "description": "Complete all Opportunities in The Icon."
+    },
+    {
+      "apiname": "ACH_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moroccan Nights",
+      "description": "Complete A House Built on Sand."
+    },
+    {
+      "apiname": "ACH_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Series of Unfortunate Events",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Golden Opportunity",
+      "description": "Complete all Opportunities in A House Built on Sand."
+    },
+    {
+      "apiname": "ACH_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shining Bright",
+      "description": "Complete Club 27."
+    },
+    {
+      "apiname": "ACH_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drop the Bass",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elephants Never Forget",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guest Starring",
+      "description": "Complete all Opportunities in Club 27."
+    },
+    {
+      "apiname": "ACH_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bangkok Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Bangkok."
+    },
+    {
+      "apiname": "ACH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scouting for Talent",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Bangkok."
+    },
+    {
+      "apiname": "ACH_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Night in Bangkok",
+      "description": "Reach Bangkok Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guerrilla Warfare",
+      "description": "Complete Freedom Fighters."
+    },
+    {
+      "apiname": "ACH_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soup Sandwich",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giddy Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Feather In Your Cap",
+      "description": "Complete all Opportunities in Freedom Fighters."
+    },
+    {
+      "apiname": "ACH_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colorado Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Colorado."
+    },
+    {
+      "apiname": "ACH_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joint Operation",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Colorado."
+    },
+    {
+      "apiname": "ACH_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission Complete",
+      "description": "Reach Colorado Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Long Time Coming",
+      "description": "Complete Situs Inversus."
+    },
+    {
+      "apiname": "ACH_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Old and New",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flatline",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sensei",
+      "description": "Complete all Opportunities in Situs Inversus."
+    },
+    {
+      "apiname": "ACH_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hokkaido Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Hokkaido."
+    },
+    {
+      "apiname": "ACH_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Prepared",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hokkaido."
+    },
+    {
+      "apiname": "ACH_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sayōnara",
+      "description": "Reach Hokkaido Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bravissimo",
+      "description": "Complete Landslide."
+    },
+    {
+      "apiname": "ACH_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Vote Counts",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finito",
+      "description": "Complete all Opportunities in Landslide."
+    }
+  ]
+}

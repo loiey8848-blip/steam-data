@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3489700,
+  "game": "Stellar Blade™",
+  "total": 45,
+  "unlocked": 45,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:31.468105+00:00",
+  "achievements": [
+    {
+      "apiname": "01_Platinum",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "EVE Protocol",
+      "description": "You have unlocked all achievements in the main game."
+    },
+    {
+      "apiname": "02_Activate_FirstCamp",
+      "achieved": 1,
+      "unlocktime": 1749691157,
+      "name": "Camp Preparation",
+      "description": "Activated the first Camp."
+    },
+    {
+      "apiname": "03_KillCharacter_Opener",
+      "achieved": 1,
+      "unlocktime": 1749693126,
+      "name": "Abaddon",
+      "description": ""
+    },
+    {
+      "apiname": "04_KillCharacter_GrubShooter",
+      "achieved": 1,
+      "unlocktime": 1749696689,
+      "name": "Corrupter",
+      "description": ""
+    },
+    {
+      "apiname": "05_KillCharacter_Gigas_Kill",
+      "achieved": 1,
+      "unlocktime": 1749699560,
+      "name": "Gigas",
+      "description": ""
+    },
+    {
+      "apiname": "06_KillCharacter_Brute",
+      "achieved": 1,
+      "unlocktime": 1749720261,
+      "name": "Brute",
+      "description": ""
+    },
+    {
+      "apiname": "07_CompleteLevel_AltesLabor",
+      "achieved": 1,
+      "unlocktime": 1749714031,
+      "name": "Altess Levoire",
+      "description": ""
+    },
+    {
+      "apiname": "08_KillCharacter_Stalker_Kill",
+      "achieved": 1,
+      "unlocktime": 1749732102,
+      "name": "Stalker",
+      "description": ""
+    },
+    {
+      "apiname": "09_KillCharacter_Juggernaut_Kill",
+      "achieved": 1,
+      "unlocktime": 1749736680,
+      "name": "Juggernaut",
+      "description": ""
+    },
+    {
+      "apiname": "10_KillCharacter_Tachy_Kill",
+      "achieved": 1,
+      "unlocktime": 1749738330,
+      "name": "Tachy",
+      "description": ""
+    },
+    {
+      "apiname": "11_KillCharacter_Behemoth",
+      "achieved": 1,
+      "unlocktime": 1749796374,
+      "name": "Behemoth",
+      "description": ""
+    },
+    {
+      "apiname": "12_CompleteLevel_AbyssLabor",
+      "achieved": 1,
+      "unlocktime": 1749744352,
+      "name": "Abyss Levoire",
+      "description": ""
+    },
+    {
+      "apiname": "13_KillCharacter_Belial_A_Kill",
+      "achieved": 1,
+      "unlocktime": 1749957811,
+      "name": "Belial",
+      "description": ""
+    },
+    {
+      "apiname": "14_KillCharacter_Marionette_Kill",
+      "achieved": 1,
+      "unlocktime": 1749959361,
+      "name": "Karakuri",
+      "description": ""
+    },
+    {
+      "apiname": "15_KillCharacter_Gorgon_Kill",
+      "achieved": 1,
+      "unlocktime": 1749959913,
+      "name": "Demogorgon",
+      "description": ""
+    },
+    {
+      "apiname": "16_KillCharacter_Raven_Kill",
+      "achieved": 1,
+      "unlocktime": 1749960781,
+      "name": "Raven",
+      "description": ""
+    },
+    {
+      "apiname": "17_Ending_Colony",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Return to the Colony",
+      "description": ""
+    },
+    {
+      "apiname": "18_Ending_LostMemory",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Cost of Lost Memories",
+      "description": ""
+    },
+    {
+      "apiname": "19_Ending_NewMemory",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Making New Memories",
+      "description": ""
+    },
+    {
+      "apiname": "20_Acquire_AllCan",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Can Collector",
+      "description": "Collected all cans."
+    },
+    {
+      "apiname": "21_Acquire_AllNanoSuit",
+      "achieved": 1,
+      "unlocktime": 1749801157,
+      "name": "Nano Suit Collector",
+      "description": "Acquired 30 Nano Suits."
+    },
+    {
+      "apiname": "22_Acquire_AllRecords",
+      "achieved": 1,
+      "unlocktime": 1749802799,
+      "name": "Records Collector",
+      "description": "Collected 200 Data Bank entries (Memorysticks, Documents, or Passcodes)."
+    },
+    {
+      "apiname": "23_Album_AllFish",
+      "achieved": 1,
+      "unlocktime": 1749827028,
+      "name": "Lonely Fisherman",
+      "description": "Caught 20 different fish."
+    },
+    {
+      "apiname": "24_Open_AllBox",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Box Hunter",
+      "description": "Opened 200 boxes."
+    },
+    {
+      "apiname": "25_KillCharacter_AllNative",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Naytiba Researcher",
+      "description": "Got information on all Naytibas."
+    },
+    {
+      "apiname": "26_Activate_AllCamp",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Meticulous Explorer",
+      "description": "Activated all Camps."
+    },
+    {
+      "apiname": "27_LevelUpMax_AllExoSpine",
+      "achieved": 1,
+      "unlocktime": 1749809383,
+      "name": "Perfect Exospine",
+      "description": "Enhanced 10 Exospines to their max."
+    },
+    {
+      "apiname": "28_WeaponMaxUpgrade",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Perfect Blood Edge",
+      "description": "Enhanced Blood Edge to its max."
+    },
+    {
+      "apiname": "29_TumblerMaxUpgrade",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Perfect Rechargeable Tumbler",
+      "description": "Enhanced the Rechargeable Tumbler to its max."
+    },
+    {
+      "apiname": "30_BodyMaxUpgrade",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Perfect Physical Enhancement",
+      "description": "Enhanced HP to its max."
+    },
+    {
+      "apiname": "31_BetaMaxUpgrade",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Perfect Beta Energy Enhancement",
+      "description": "Enhanced Beta Energy to its max."
+    },
+    {
+      "apiname": "32_Acquire_AllSkill",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Thorough Technician",
+      "description": "Learned all skills."
+    },
+    {
+      "apiname": "33_CompleteQuest_Enya",
+      "achieved": 1,
+      "unlocktime": 1749795390,
+      "name": "Beyond Fate",
+      "description": ""
+    },
+    {
+      "apiname": "34_CompleteQuest_Kaya",
+      "achieved": 1,
+      "unlocktime": 1749801157,
+      "name": "Sisterly Love",
+      "description": ""
+    },
+    {
+      "apiname": "35_CompleteQuest_Digger",
+      "achieved": 1,
+      "unlocktime": 1749746032,
+      "name": "Beep!",
+      "description": ""
+    },
+    {
+      "apiname": "36_JustEvade",
+      "achieved": 1,
+      "unlocktime": 1749742772,
+      "name": "Battlefield Martial Artist",
+      "description": "Perfect Dodged 200 enemy attacks."
+    },
+    {
+      "apiname": "37_JustParry",
+      "achieved": 1,
+      "unlocktime": 1749742041,
+      "name": "Agile Gladiator",
+      "description": "Perfect Parried 300 enemy attacks."
+    },
+    {
+      "apiname": "38_CharKill_AssassinationSkills",
+      "achieved": 1,
+      "unlocktime": 1749735883,
+      "name": "Silent Executioner",
+      "description": "Defeated 50 enemies by execution."
+    },
+    {
+      "apiname": "39_CharKill_BetaSkill",
+      "achieved": 1,
+      "unlocktime": 1749721437,
+      "name": "Naytiba Hunter",
+      "description": "Defeated 100 enemies with Beta Skills."
+    },
+    {
+      "apiname": "40_CharKill_BurstSkill",
+      "achieved": 1,
+      "unlocktime": 1749796868,
+      "name": "Relentless Destroyer",
+      "description": "Defeated 50 enemies with Burst Skills."
+    },
+    {
+      "apiname": "41_CharKill_TachySkill",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Revenging Agent",
+      "description": ""
+    },
+    {
+      "apiname": "42_CharKill_RangeSkill",
+      "achieved": 1,
+      "unlocktime": 1749743754,
+      "name": "Cold-blooded Sniper",
+      "description": "Defeated 150 enemies with ranged attacks."
+    },
+    {
+      "apiname": "43_KillCharacter",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Cruel Liberator",
+      "description": "Defeated 1,500 enemies."
+    },
+    {
+      "apiname": "44_Complete_NewGamePlus",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Repeating Protocols",
+      "description": "Completed New Game +."
+    },
+    {
+      "apiname": "45_Acquire_AllSkill_NewGamePlus",
+      "achieved": 1,
+      "unlocktime": 1749832871,
+      "name": "Infinite Blade",
+      "description": "Learned all skills in New Game +."
+    }
+  ]
+}

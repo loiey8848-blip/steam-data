@@ -1,0 +1,249 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2416450,
+  "game": "MOUSE: P.I. For Hire",
+  "total": 34,
+  "unlocked": 34,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:49.718783+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_002",
+      "achieved": 1,
+      "unlocktime": 1776830766,
+      "name": "Tricks of the Trade",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_003",
+      "achieved": 1,
+      "unlocktime": 1776830135,
+      "name": "Guns, Lots of Guns",
+      "description": "Collect all non-corporate-locked weapons"
+    },
+    {
+      "apiname": "ACHIEVEMENT_006",
+      "achieved": 1,
+      "unlocktime": 1776616210,
+      "name": "Babe Got Bat",
+      "description": "Collect 10 Baseball Cards"
+    },
+    {
+      "apiname": "ACHIEVEMENT_007",
+      "achieved": 1,
+      "unlocktime": 1777364151,
+      "name": "S’all in the Cards",
+      "description": "Win 30 Baseball Card matches. Home Run!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_008",
+      "achieved": 1,
+      "unlocktime": 1776828677,
+      "name": "So, Whodunit?",
+      "description": "Pin every clue to your evidence board"
+    },
+    {
+      "apiname": "ACHIEVEMENT_010",
+      "achieved": 1,
+      "unlocktime": 1776781898,
+      "name": "Burdens of Blue Betty",
+      "description": "Find key clues in the Blue Betty case."
+    },
+    {
+      "apiname": "ACHIEVEMENT_012",
+      "achieved": 1,
+      "unlocktime": 1776600504,
+      "name": "Comic Relief",
+      "description": "Collect 5 comic strips"
+    },
+    {
+      "apiname": "ACHIEVEMENT_013",
+      "achieved": 1,
+      "unlocktime": 1776925212,
+      "name": "Dime Novel Sleuth",
+      "description": "Complete 5 side jobs"
+    },
+    {
+      "apiname": "ACHIEVEMENT_015",
+      "achieved": 1,
+      "unlocktime": 1777340861,
+      "name": "Extra! Extra!",
+      "description": "Collect all issues of the Mouseburg Herald. Even the weird ones"
+    },
+    {
+      "apiname": "ACHIEVEMENT_017",
+      "achieved": 1,
+      "unlocktime": 1776940428,
+      "name": "Misfortunes of the Missing Magician",
+      "description": "Find key clues in the Missing Magician case"
+    },
+    {
+      "apiname": "ACHIEVEMENT_018",
+      "achieved": 1,
+      "unlocktime": 1777305693,
+      "name": "Real Deal Gumshoe",
+      "description": "Complete every side job. Dot those i’s, detective"
+    },
+    {
+      "apiname": "ACHIEVEMENT_019",
+      "achieved": 1,
+      "unlocktime": 1776830502,
+      "name": "We’ll B.A.N.G., ok?",
+      "description": "Upgrade every weapon to tier 3"
+    },
+    {
+      "apiname": "ACHIEVEMENT_020",
+      "achieved": 1,
+      "unlocktime": 1777295440,
+      "name": "The Prequel",
+      "description": "Collect all comic strips. Some things never change"
+    },
+    {
+      "apiname": "ACHIEVEMENT_022",
+      "achieved": 1,
+      "unlocktime": 1776780040,
+      "name": "Secrets of the Shrew Shortage",
+      "description": "Find key clues in the Shrew Shortage case"
+    },
+    {
+      "apiname": "ACHIEVEMENT_024",
+      "achieved": 1,
+      "unlocktime": 1776601013,
+      "name": "This is My Boomstick!",
+      "description": "Upgrade one weapon to Tier 3"
+    },
+    {
+      "apiname": "ACHIEVEMENT_026",
+      "achieved": 1,
+      "unlocktime": 1776614259,
+      "name": "Goud’em!",
+      "description": "Kill 5 enemies within 10 seconds"
+    },
+    {
+      "apiname": "ACHIEVEMENT_027",
+      "achieved": 1,
+      "unlocktime": 1776616203,
+      "name": "Cover to Cover",
+      "description": "Collect 10 issues of the Mouseburg Herald"
+    },
+    {
+      "apiname": "ACHIEVEMENT_029",
+      "achieved": 1,
+      "unlocktime": 1776616336,
+      "name": "Extremely Graphic Novel",
+      "description": "Collect 10 comic strips"
+    },
+    {
+      "apiname": "ACHIEVEMENT_030",
+      "achieved": 1,
+      "unlocktime": 1776614993,
+      "name": "Paper Person",
+      "description": "Collect 5 issues of the Mouseburg Herald"
+    },
+    {
+      "apiname": "ACHIEVEMENT_032",
+      "achieved": 1,
+      "unlocktime": 1776653717,
+      "name": "Pocket Aces",
+      "description": "Win one Baseball Cards match"
+    },
+    {
+      "apiname": "ACHIEVEMENT_034",
+      "achieved": 1,
+      "unlocktime": 1776828911,
+      "name": "Everybody Loves Rayguns",
+      "description": "Unlock X1 D-Mousifier - Spike-D’s \"exclusive gun of sorts.\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_035",
+      "achieved": 1,
+      "unlocktime": 1776616209,
+      "name": "Starter Deck",
+      "description": "Collect 5 Baseball Cards"
+    },
+    {
+      "apiname": "ACHIEVEMENT_036",
+      "achieved": 1,
+      "unlocktime": 1777360565,
+      "name": "Card Shark",
+      "description": "Collect all Baseball Cards. A real gathering, innit?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_037",
+      "achieved": 1,
+      "unlocktime": 1776616966,
+      "name": "M-m-muenster Kill!",
+      "description": "Kill 10 enemies within 20 seconds. M-m-muenster Kill!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_001",
+      "achieved": 1,
+      "unlocktime": 1777286465,
+      "name": "Smoked Cheese and Mirrors",
+      "description": "Wrap up the Missing Magician case"
+    },
+    {
+      "apiname": "ACHIEVEMENT_004",
+      "achieved": 1,
+      "unlocktime": 1776769546,
+      "name": "Boom Town",
+      "description": "Kill 20 enemies in a single playthrough by throwing/kicking explosive barrels"
+    },
+    {
+      "apiname": "ACHIEVEMENT_016",
+      "achieved": 1,
+      "unlocktime": 1776617180,
+      "name": "Firestarter",
+      "description": "Blast 20 enemies in a single playthrough by shooting at explosive barrels."
+    },
+    {
+      "apiname": "ACHIEVEMENT_028",
+      "achieved": 1,
+      "unlocktime": 1776774710,
+      "name": "Our Lesser Brothers",
+      "description": "Wrap up the Shrew Shortage case"
+    },
+    {
+      "apiname": "ACHIEVEMENT_038",
+      "achieved": 1,
+      "unlocktime": 1776832099,
+      "name": "Spike-D 16 TONS",
+      "description": "Crush 20 enemies with heavy objects in a single playthrough."
+    },
+    {
+      "apiname": "ACHIEVEMENT_039",
+      "achieved": 1,
+      "unlocktime": 1777226802,
+      "name": "Tinsel Boulevard",
+      "description": "Wrap up the Blue Betty case"
+    },
+    {
+      "apiname": "ACHIEVEMENT_021",
+      "achieved": 1,
+      "unlocktime": 1776746950,
+      "name": "Quint’s Delight",
+      "description": "Kick the Wallop Bay shark till it drops the license plate"
+    },
+    {
+      "apiname": "ACHIEVEMENT_041",
+      "achieved": 1,
+      "unlocktime": 1776614252,
+      "name": "Hole-y Trinity",
+      "description": "Kill 3 enemies with one shot."
+    },
+    {
+      "apiname": "ACHIEVEMENT_040",
+      "achieved": 1,
+      "unlocktime": 1776834416,
+      "name": "Tip of the Cheeseberg",
+      "description": "Rest easy, detective. Case closed… or is it?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_011",
+      "achieved": 1,
+      "unlocktime": 1776769414,
+      "name": "Herr Flick of the Wrist",
+      "description": "Clock a BMP agitator right in the snout."
+    }
+  ]
+}

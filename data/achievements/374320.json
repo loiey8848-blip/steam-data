@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 374320,
+  "game": "DARK SOULS™ III",
+  "total": 43,
+  "unlocked": 43,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:49:47.007692+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH00",
+      "achieved": 1,
+      "unlocktime": 1765001999,
+      "name": "The Dark Soul",
+      "description": "Complete all achievements."
+    },
+    {
+      "apiname": "ACH01",
+      "achieved": 1,
+      "unlocktime": 1764155804,
+      "name": "To Link the First Flame",
+      "description": ""
+    },
+    {
+      "apiname": "ACH02",
+      "achieved": 1,
+      "unlocktime": 1764845012,
+      "name": "The End of Fire",
+      "description": ""
+    },
+    {
+      "apiname": "ACH03",
+      "achieved": 1,
+      "unlocktime": 1764568568,
+      "name": "The Usurpation of Fire",
+      "description": ""
+    },
+    {
+      "apiname": "ACH04",
+      "achieved": 1,
+      "unlocktime": 1763870493,
+      "name": "Lords of Cinder: Abyss Watchers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH05",
+      "achieved": 1,
+      "unlocktime": 1764137581,
+      "name": "Lord of Cinder: Yhorm the Giant",
+      "description": ""
+    },
+    {
+      "apiname": "ACH06",
+      "achieved": 1,
+      "unlocktime": 1763897733,
+      "name": "Lord of Cinder: Aldrich, Devourer of Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH07",
+      "achieved": 1,
+      "unlocktime": 1764153857,
+      "name": "Lord of Cinder: Lothric, Younger Prince",
+      "description": ""
+    },
+    {
+      "apiname": "ACH08",
+      "achieved": 1,
+      "unlocktime": 1764144849,
+      "name": "Supreme Weapon Reinforcement",
+      "description": "Reinforce any weapon to the highest level."
+    },
+    {
+      "apiname": "ACH09",
+      "achieved": 1,
+      "unlocktime": 1764655030,
+      "name": "Master of Infusion",
+      "description": "Perform all forms of infusion."
+    },
+    {
+      "apiname": "ACH10",
+      "achieved": 1,
+      "unlocktime": 1764570624,
+      "name": "Master of Sorceries",
+      "description": "Acquire all sorceries."
+    },
+    {
+      "apiname": "ACH11",
+      "achieved": 1,
+      "unlocktime": 1764602830,
+      "name": "Master of Pyromancies",
+      "description": "Acquire all pyromancies."
+    },
+    {
+      "apiname": "ACH12",
+      "achieved": 1,
+      "unlocktime": 1764669862,
+      "name": "Master of Miracles",
+      "description": "Acquire all miracles."
+    },
+    {
+      "apiname": "ACH13",
+      "achieved": 1,
+      "unlocktime": 1765001999,
+      "name": "Master of Rings",
+      "description": "Acquire all rings."
+    },
+    {
+      "apiname": "ACH14",
+      "achieved": 1,
+      "unlocktime": 1764821198,
+      "name": "Master of Expression",
+      "description": "Learn all gestures."
+    },
+    {
+      "apiname": "ACH15",
+      "achieved": 1,
+      "unlocktime": 1764332682,
+      "name": "Ultimate Bonfire",
+      "description": "Reinforce a bonfire to the highest level."
+    },
+    {
+      "apiname": "ACH16",
+      "achieved": 1,
+      "unlocktime": 1764309369,
+      "name": "Ultimate Estus",
+      "description": "Reinforce the Estus Flask to the highest level."
+    },
+    {
+      "apiname": "ACH17",
+      "achieved": 1,
+      "unlocktime": 1764220081,
+      "name": "Covenant: Warrior of Sunlight",
+      "description": ""
+    },
+    {
+      "apiname": "ACH18",
+      "achieved": 1,
+      "unlocktime": 1764137648,
+      "name": "Covenant: Way of Blue",
+      "description": ""
+    },
+    {
+      "apiname": "ACH19",
+      "achieved": 1,
+      "unlocktime": 1763791834,
+      "name": "Covenant: Blue Sentinels",
+      "description": ""
+    },
+    {
+      "apiname": "ACH20",
+      "achieved": 1,
+      "unlocktime": 1764412893,
+      "name": "Covenant: Blade of the Darkmoon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH21",
+      "achieved": 1,
+      "unlocktime": 1764322130,
+      "name": "Covenant: Rosaria's Fingers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH22",
+      "achieved": 1,
+      "unlocktime": 1764220448,
+      "name": "Covenant: Mound-makers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH23",
+      "achieved": 1,
+      "unlocktime": 1763832696,
+      "name": "Covenant: Watchdogs of Farron",
+      "description": ""
+    },
+    {
+      "apiname": "ACH24",
+      "achieved": 1,
+      "unlocktime": 1763877464,
+      "name": "Covenant: Aldrich Faithful",
+      "description": ""
+    },
+    {
+      "apiname": "ACH25",
+      "achieved": 1,
+      "unlocktime": 1764139478,
+      "name": "Untended Graves",
+      "description": ""
+    },
+    {
+      "apiname": "ACH26",
+      "achieved": 1,
+      "unlocktime": 1764141024,
+      "name": "Archdragon Peak",
+      "description": ""
+    },
+    {
+      "apiname": "ACH27",
+      "achieved": 1,
+      "unlocktime": 1762866022,
+      "name": "Iudex Gundyr",
+      "description": ""
+    },
+    {
+      "apiname": "ACH28",
+      "achieved": 1,
+      "unlocktime": 1763786260,
+      "name": "Vordt of the Boreal Valley",
+      "description": ""
+    },
+    {
+      "apiname": "ACH29",
+      "achieved": 1,
+      "unlocktime": 1763789740,
+      "name": "Curse-rotted Greatwood",
+      "description": ""
+    },
+    {
+      "apiname": "ACH30",
+      "achieved": 1,
+      "unlocktime": 1763794079,
+      "name": "Crystal Sage",
+      "description": ""
+    },
+    {
+      "apiname": "ACH31",
+      "achieved": 1,
+      "unlocktime": 1763825597,
+      "name": "Deacons of the Deep",
+      "description": ""
+    },
+    {
+      "apiname": "ACH32",
+      "achieved": 1,
+      "unlocktime": 1763872910,
+      "name": "High Lord Wolnir",
+      "description": ""
+    },
+    {
+      "apiname": "ACH33",
+      "achieved": 1,
+      "unlocktime": 1763876358,
+      "name": "Pontiff Sulyvahn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH34",
+      "achieved": 1,
+      "unlocktime": 1764137782,
+      "name": "Dancer of the Boreal Valley",
+      "description": ""
+    },
+    {
+      "apiname": "ACH35",
+      "achieved": 1,
+      "unlocktime": 1764150849,
+      "name": "Dragonslayer Armour",
+      "description": ""
+    },
+    {
+      "apiname": "ACH36",
+      "achieved": 1,
+      "unlocktime": 1764390733,
+      "name": "Old Demon King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH37",
+      "achieved": 1,
+      "unlocktime": 1764139104,
+      "name": "Oceiros, the Consumed King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH38",
+      "achieved": 1,
+      "unlocktime": 1764140165,
+      "name": "Champion Gundyr",
+      "description": ""
+    },
+    {
+      "apiname": "ACH39",
+      "achieved": 1,
+      "unlocktime": 1764141803,
+      "name": "Ancient Wyvern",
+      "description": ""
+    },
+    {
+      "apiname": "ACH40",
+      "achieved": 1,
+      "unlocktime": 1764144680,
+      "name": "The Nameless King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH41",
+      "achieved": 1,
+      "unlocktime": 1762865824,
+      "name": "Enkindle",
+      "description": "Light a bonfire flame for the first time."
+    },
+    {
+      "apiname": "ACH42",
+      "achieved": 1,
+      "unlocktime": 1762866028,
+      "name": "Embrace the Flame",
+      "description": "Become a Host of Embers for the first time."
+    }
+  ]
+}

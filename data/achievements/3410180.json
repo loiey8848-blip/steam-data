@@ -1,0 +1,235 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3410180,
+  "game": "Overlooting",
+  "total": 32,
+  "unlocked": 32,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:30.202157+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_CORRUPTION_1",
+      "achieved": 1,
+      "unlocktime": 1786253321,
+      "name": "Proof of valor",
+      "description": "Beat the game at corruption level 1."
+    },
+    {
+      "apiname": "ACH_CORRUPTION_2",
+      "achieved": 1,
+      "unlocktime": 1786277403,
+      "name": "Putting up a fight",
+      "description": "Beat the game at corruption level 2."
+    },
+    {
+      "apiname": "ACH_CORRUPTION_3",
+      "achieved": 1,
+      "unlocktime": 1786289579,
+      "name": "Never surrender",
+      "description": "Beat the game at corruption level 3."
+    },
+    {
+      "apiname": "ACH_CORRUPTION_4",
+      "achieved": 1,
+      "unlocktime": 1786300965,
+      "name": "Against all odds",
+      "description": "Beat the game at corruption level 4."
+    },
+    {
+      "apiname": "ACH_CORRUPTION_5",
+      "achieved": 1,
+      "unlocktime": 1786303005,
+      "name": "You did it!",
+      "description": "Beat the game at corruption level 5."
+    },
+    {
+      "apiname": "ACH_ALL_CHARACTERS",
+      "achieved": 1,
+      "unlocktime": 1786291096,
+      "name": "Full party",
+      "description": "Unlock all characters."
+    },
+    {
+      "apiname": "ACH_ALL_CORRUPTED",
+      "achieved": 1,
+      "unlocktime": 1786303006,
+      "name": "Challenge run",
+      "description": "Beat a game where all of your three skills are corrupted."
+    },
+    {
+      "apiname": "ACH_SELF_KILL",
+      "achieved": 1,
+      "unlocktime": 1786371674,
+      "name": "Miscalculation",
+      "description": "Die by your own means."
+    },
+    {
+      "apiname": "ACH_DOG_MAX_LEVEL",
+      "achieved": 1,
+      "unlocktime": 1786298843,
+      "name": "Back to his prime",
+      "description": "Reach level 7 with Maximilian."
+    },
+    {
+      "apiname": "ACH_CAT_MAX_LEVEL",
+      "achieved": 1,
+      "unlocktime": 1786367033,
+      "name": "The absolute best",
+      "description": "Reach level 7 with Liz."
+    },
+    {
+      "apiname": "ACH_SHADOW_MAX_LEVEL",
+      "achieved": 1,
+      "unlocktime": 1786370878,
+      "name": "Reborn fom the ashes",
+      "description": "Reach level 7 with The Shadow."
+    },
+    {
+      "apiname": "ACH_DOG_WIN",
+      "achieved": 1,
+      "unlocktime": 1786250935,
+      "name": "Got that dog in him",
+      "description": "Beat the game with Maximilian."
+    },
+    {
+      "apiname": "ACH_CAT_WIN",
+      "achieved": 1,
+      "unlocktime": 1786253321,
+      "name": "Ameowzing",
+      "description": "Beat the game with Liz."
+    },
+    {
+      "apiname": "ACH_SHADOW_WIN",
+      "achieved": 1,
+      "unlocktime": 1786300965,
+      "name": "Without a shadow of doubt",
+      "description": "Beat the game with The Shadow."
+    },
+    {
+      "apiname": "ACH_DOG_CORRUPTION_WIN",
+      "achieved": 1,
+      "unlocktime": 1786339191,
+      "name": "A true hero",
+      "description": "Beat the game with Maximilian at corruption level 5."
+    },
+    {
+      "apiname": "ACH_CAT_CORRUPTION_WIN",
+      "achieved": 1,
+      "unlocktime": 1786362870,
+      "name": "A true legend",
+      "description": "Beat the game with Liz at corruption level 5."
+    },
+    {
+      "apiname": "ACH_SHADOW_CORRUPTION_WIN",
+      "achieved": 1,
+      "unlocktime": 1786303006,
+      "name": "A true menace",
+      "description": "Beat the game with The Shadow at corruption level 5."
+    },
+    {
+      "apiname": "ACH_VILLAGER_WIN",
+      "achieved": 1,
+      "unlocktime": 1786370878,
+      "name": "This was supposed to be an early game set...",
+      "description": "Beat the game having VIllager 5 active."
+    },
+    {
+      "apiname": "ACH_SYLVAN_WIN",
+      "achieved": 1,
+      "unlocktime": 1786250936,
+      "name": "What do your elf eyes see?",
+      "description": "Beat the game having Sylvan 6 active."
+    },
+    {
+      "apiname": "ACH_ROGUE_WIN",
+      "achieved": 1,
+      "unlocktime": 1786298843,
+      "name": "Rogue-like",
+      "description": "Beat the game having Rogue 6 active."
+    },
+    {
+      "apiname": "ACH_RONIN_WIN",
+      "achieved": 1,
+      "unlocktime": 1786364254,
+      "name": "Like the 47",
+      "description": "Beat the game having Ronin 6 active."
+    },
+    {
+      "apiname": "ACH_LEGION_WIN",
+      "achieved": 1,
+      "unlocktime": 1786291948,
+      "name": "My Roman empire",
+      "description": "Beat the game having Legion 6 active."
+    },
+    {
+      "apiname": "ACH_IRONCLAD_WIN",
+      "achieved": 1,
+      "unlocktime": 1786294104,
+      "name": "Tis but a scratch",
+      "description": "Beat the game having Ironclad 6 active."
+    },
+    {
+      "apiname": "ACH_TABOO_WIN",
+      "achieved": 1,
+      "unlocktime": 1786289580,
+      "name": "Bad to the bone",
+      "description": "Beat the game having Taboo 5 active."
+    },
+    {
+      "apiname": "ACH_ROYAL_WIN",
+      "achieved": 1,
+      "unlocktime": 1786339192,
+      "name": "You dropped this, queen",
+      "description": "Beat the game having Royal 5 active."
+    },
+    {
+      "apiname": "ACH_FACELESS_WIN",
+      "achieved": 1,
+      "unlocktime": 1786365724,
+      "name": "Dying is living",
+      "description": "Beat the game having Faceless 5 active."
+    },
+    {
+      "apiname": "ACH_BEAST_WIN",
+      "achieved": 1,
+      "unlocktime": 1786362871,
+      "name": "Unleash the beast",
+      "description": "Beat the game having Beast 5 active."
+    },
+    {
+      "apiname": "ACH_ARCANE_WIN",
+      "achieved": 1,
+      "unlocktime": 1786300965,
+      "name": "I cast fireball",
+      "description": "Beat the game having Arcane 6 active."
+    },
+    {
+      "apiname": "ACH_FAE_WIN",
+      "achieved": 1,
+      "unlocktime": 1786303006,
+      "name": "Hey! Listen!",
+      "description": "Beat the game having Fae 6 active."
+    },
+    {
+      "apiname": "ACH_DARKTHORN_WIN",
+      "achieved": 1,
+      "unlocktime": 1786367033,
+      "name": "Eat your veggies",
+      "description": "Beat the game having Darkthorn 6 active."
+    },
+    {
+      "apiname": "ACH_SALTWATER_WIN",
+      "achieved": 1,
+      "unlocktime": 1786369458,
+      "name": "King of the pirates",
+      "description": "Beat the game having Saltwater 5 active."
+    },
+    {
+      "apiname": "ACH_OCCULT_WIN",
+      "achieved": 1,
+      "unlocktime": 1786365724,
+      "name": "As above, so below",
+      "description": "Beat the game having Occult 5 active."
+    }
+  ]
+}

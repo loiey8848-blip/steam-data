@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2680010,
+  "game": "The First Berserker: Khazan",
+  "total": 57,
+  "unlocked": 57,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:00.256757+00:00",
+  "achievements": [
+    {
+      "apiname": "Boss_01",
+      "achieved": 1,
+      "unlocktime": 1747486948,
+      "name": "Ruler of the Frozen Mountain",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_02",
+      "achieved": 1,
+      "unlocktime": 1747489852,
+      "name": "Netherworld's Phantom of Combat",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_03",
+      "achieved": 1,
+      "unlocktime": 1747495536,
+      "name": "Berserk Dragon's General",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_04",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Fallen Guardian",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_05",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Origin of the Mutation",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_06",
+      "achieved": 1,
+      "unlocktime": 1759467948,
+      "name": "Slayer in the Citadel",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_07",
+      "achieved": 1,
+      "unlocktime": 1759472358,
+      "name": "Consumed by Chaos",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_08",
+      "achieved": 1,
+      "unlocktime": 1759500303,
+      "name": "No Turning Back",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_09",
+      "achieved": 1,
+      "unlocktime": 1759500303,
+      "name": "Linon's Beast",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_10",
+      "achieved": 1,
+      "unlocktime": 1759513040,
+      "name": "Return of the Witch",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_11",
+      "achieved": 1,
+      "unlocktime": 1759550891,
+      "name": "Hermit",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_12",
+      "achieved": 1,
+      "unlocktime": 1759599345,
+      "name": "Bloodthirsty Fiend",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_13",
+      "achieved": 1,
+      "unlocktime": 1759701295,
+      "name": "Tragedy of Pell Los",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_14",
+      "achieved": 1,
+      "unlocktime": 1759689036,
+      "name": "Hismar the Berserk Dragon",
+      "description": ""
+    },
+    {
+      "apiname": "Boss_15",
+      "achieved": 1,
+      "unlocktime": 1759701031,
+      "name": "Faded Memories",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_01",
+      "achieved": 1,
+      "unlocktime": 1759672259,
+      "name": "The Order",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_02",
+      "achieved": 1,
+      "unlocktime": 1759692095,
+      "name": "Traces of Two ",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_03",
+      "achieved": 1,
+      "unlocktime": 1759673668,
+      "name": "The Hidden Laboratory",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_04",
+      "achieved": 1,
+      "unlocktime": 1759513040,
+      "name": "Desperate Escape ",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_05",
+      "achieved": 1,
+      "unlocktime": 1759701031,
+      "name": "Reese's Past",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_06",
+      "achieved": 1,
+      "unlocktime": 1759691302,
+      "name": "Tool of the Netherworld",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_07",
+      "achieved": 1,
+      "unlocktime": 1759670530,
+      "name": "Trial of the Sword",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_08",
+      "achieved": 1,
+      "unlocktime": 1759490340,
+      "name": "Human Xilence",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_09",
+      "achieved": 1,
+      "unlocktime": 1759690031,
+      "name": "Undying Loyalty",
+      "description": ""
+    },
+    {
+      "apiname": "Skill_01",
+      "achieved": 1,
+      "unlocktime": 1747467355,
+      "name": "Finishing Strike",
+      "description": "Used a brutal attack."
+    },
+    {
+      "apiname": "Skill_02",
+      "achieved": 1,
+      "unlocktime": 1759472452,
+      "name": "Pact",
+      "description": "Formed a pact with Blade Phantom."
+    },
+    {
+      "apiname": "Skill_03",
+      "achieved": 1,
+      "unlocktime": 1747467372,
+      "name": "Ambush",
+      "description": "Defeated an enemy using a breakfall."
+    },
+    {
+      "apiname": "Skill_04",
+      "achieved": 1,
+      "unlocktime": 1747487401,
+      "name": "Piercing Power",
+      "description": "Used the javelin."
+    },
+    {
+      "apiname": "Mission_01",
+      "achieved": 1,
+      "unlocktime": 1747467315,
+      "name": "Tears of the Soul",
+      "description": "Retrieved Lacrima using the power of the ghost."
+    },
+    {
+      "apiname": "Mission_02",
+      "achieved": 1,
+      "unlocktime": 1759473068,
+      "name": "Skilled Blacksmith",
+      "description": "Had Qazumaka craft gear."
+    },
+    {
+      "apiname": "Mission_03",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Blacksmith's Resolve",
+      "description": "Had Qazumaka dismantle gear."
+    },
+    {
+      "apiname": "Mission_04",
+      "achieved": 1,
+      "unlocktime": 1759485740,
+      "name": "Kaleido",
+      "description": "Had Oksana alter attributes."
+    },
+    {
+      "apiname": "Mission_05",
+      "achieved": 1,
+      "unlocktime": 1747490410,
+      "name": "Remnants of the Soul",
+      "description": "Had Oksana extract Lacrima."
+    },
+    {
+      "apiname": "Mission_06",
+      "achieved": 1,
+      "unlocktime": 1747467488,
+      "name": "Upgrade Stats",
+      "description": "Upgraded a stat."
+    },
+    {
+      "apiname": "Mission_07",
+      "achieved": 1,
+      "unlocktime": 1759599345,
+      "name": "Indomitable",
+      "description": "Augmented gear."
+    },
+    {
+      "apiname": "Mission_08",
+      "achieved": 1,
+      "unlocktime": 1747495536,
+      "name": "Resourceful Merchant",
+      "description": "Purchased an item from Duimuk."
+    },
+    {
+      "apiname": "Mission_09",
+      "achieved": 1,
+      "unlocktime": 1747495542,
+      "name": "Merchant's Wisdom",
+      "description": "Sold an item to Duimuk."
+    },
+    {
+      "apiname": "Mission_10",
+      "achieved": 1,
+      "unlocktime": 1747491704,
+      "name": "Awakened Ghost",
+      "description": "Woke a dormant ghost from its slumber."
+    },
+    {
+      "apiname": "Mission_11",
+      "achieved": 1,
+      "unlocktime": 1747492912,
+      "name": "Soulstone Unleashed",
+      "description": "Upgraded abilities by unleashing the power of Soulstones."
+    },
+    {
+      "apiname": "Mission_12",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Danjin's Jars",
+      "description": "Found one of Danjin's jarlings."
+    },
+    {
+      "apiname": "Mission_13",
+      "achieved": 1,
+      "unlocktime": 1747487271,
+      "name": "Skilled Combatant",
+      "description": "Learned a combat skill."
+    },
+    {
+      "apiname": "Mission_14",
+      "achieved": 1,
+      "unlocktime": 1747467568,
+      "name": "Combat Essentials",
+      "description": "Used a consumable for the first time."
+    },
+    {
+      "apiname": "Mission_15",
+      "achieved": 1,
+      "unlocktime": 1747493748,
+      "name": "Special Scroll",
+      "description": "Obtained a special scroll."
+    },
+    {
+      "apiname": "Mission_16",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Artisanship",
+      "description": "Crafted a special item."
+    },
+    {
+      "apiname": "Mission_17",
+      "achieved": 1,
+      "unlocktime": 1747467147,
+      "name": "Traces of a Stranger",
+      "description": "Discovered a collection item."
+    },
+    {
+      "apiname": "Mission_18",
+      "achieved": 1,
+      "unlocktime": 1759429936,
+      "name": "Wandering Soul",
+      "description": "Summoned a wandering soul of the rift."
+    },
+    {
+      "apiname": "Mission_19",
+      "achieved": 1,
+      "unlocktime": 1747489852,
+      "name": "Fully Equipped",
+      "description": "Equipped a piece of gear in every slot."
+    },
+    {
+      "apiname": "Mission_20",
+      "achieved": 1,
+      "unlocktime": 1759724985,
+      "name": "A New Path",
+      "description": "Embarked on the second journey."
+    },
+    {
+      "apiname": "Complete_01",
+      "achieved": 1,
+      "unlocktime": 1759678942,
+      "name": "The Bard's Lamentations",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_02",
+      "achieved": 1,
+      "unlocktime": 1759722119,
+      "name": "Jar Enthusiast",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_03",
+      "achieved": 1,
+      "unlocktime": 1759722322,
+      "name": "Agent of the Netherworld",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_04",
+      "achieved": 1,
+      "unlocktime": 1759723947,
+      "name": "Ozma's Past",
+      "description": ""
+    },
+    {
+      "apiname": "Sub_10",
+      "achieved": 1,
+      "unlocktime": 1759701031,
+      "name": "Countless Tales",
+      "description": "Completed all bonus missions."
+    },
+    {
+      "apiname": "Complete_05",
+      "achieved": 1,
+      "unlocktime": 1759723946,
+      "name": "Standing Alone",
+      "description": "Reached the ending without summoning a Spirit of Advocacy."
+    },
+    {
+      "apiname": "Ending_01",
+      "achieved": 1,
+      "unlocktime": 1759724239,
+      "name": "The Challenger's Journey",
+      "description": "Reached the ending."
+    },
+    {
+      "apiname": "Ending_02",
+      "achieved": 1,
+      "unlocktime": 1759724239,
+      "name": "The Expert's Journey",
+      "description": "Reached the ending after a difficult journey."
+    },
+    {
+      "apiname": "Ending_03",
+      "achieved": 1,
+      "unlocktime": 1759723947,
+      "name": "THE FIRST BERSERKER ",
+      "description": ""
+    }
+  ]
+}

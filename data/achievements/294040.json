@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 294040,
+  "game": "Loot Hero DX",
+  "total": 20,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:11.962340+00:00",
+  "achievements": [
+    {
+      "apiname": "01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Woods",
+      "description": "Clear  the  Woods"
+    },
+    {
+      "apiname": "02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Swamp",
+      "description": "Clear the Swamp"
+    },
+    {
+      "apiname": "03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Jungle",
+      "description": "Clear the Jungle"
+    },
+    {
+      "apiname": "04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dark Forest",
+      "description": "Clear the Dark Forest"
+    },
+    {
+      "apiname": "05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Volcano",
+      "description": "Clear the Volcano"
+    },
+    {
+      "apiname": "06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shopping",
+      "description": "Buy an upgrade"
+    },
+    {
+      "apiname": "07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Gear",
+      "description": "Buy one of each upgrade"
+    },
+    {
+      "apiname": "08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stacked",
+      "description": "Get one upgrade medal"
+    },
+    {
+      "apiname": "09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": "Defeat 100 Enemies"
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight",
+      "description": "Defeat 1000 Enemies"
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero",
+      "description": "Defeat 10000 Enemies"
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overpowered",
+      "description": "Beat a level in under 15 seconds"
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loot Hero",
+      "description": "Collect 1000 worth of Loot"
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Looter",
+      "description": "Collect 100000 worth of Loot"
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serious",
+      "description": "Reach Level 25"
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powerhouse",
+      "description": "Reach Level 50"
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Godlike",
+      "description": "Reach Level 100"
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Starting",
+      "description": "Slay the Dragon on Difficulty 18"
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grinder",
+      "description": "Slay the Dragon on Difficulty 45"
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Grinder",
+      "description": "Slay the Dragon on Difficulty 90"
+    }
+  ]
+}

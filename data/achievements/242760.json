@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 242760,
+  "game": "The Forest",
+  "total": 45,
+  "unlocked": 14,
+  "percent": 31.1,
+  "updated_at_utc": "2026-09-15T06:48:46.905337+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_MINOR_CANNIBALISM",
+      "achieved": 1,
+      "unlocktime": 1633530983,
+      "name": "Minor Cannibalism",
+      "description": "Eat an enemy"
+    },
+    {
+      "apiname": "ACH_MAJOR_CANNIBALISM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Major Cannibalism",
+      "description": "Eat an entire family"
+    },
+    {
+      "apiname": "ACH_BE_NICE",
+      "achieved": 1,
+      "unlocktime": 1633853444,
+      "name": "Be Nice",
+      "description": "Share a food or drink item in MP"
+    },
+    {
+      "apiname": "ACH_BE_EXTREMELY_NICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be Extremely Nice",
+      "description": "Share a weapon in MP"
+    },
+    {
+      "apiname": "ACH_CRAFTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crafty",
+      "description": "Craft all items"
+    },
+    {
+      "apiname": "ACH_BAD_FATHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad father",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TROPHY_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trophy Hunter",
+      "description": "Kill all animal types and display heads"
+    },
+    {
+      "apiname": "ACH_GARDENER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green Thumb",
+      "description": "Grow all plant types"
+    },
+    {
+      "apiname": "ACH_VEGAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vegan",
+      "description": "Play through entire game without killing or eating animals. Alone in Single Player or together in Multiplayer."
+    },
+    {
+      "apiname": "ACH_NATUROPATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naturopath",
+      "description": "Craft 10 medicine items"
+    },
+    {
+      "apiname": "ACH_5_STAR_HOTEL",
+      "achieved": 1,
+      "unlocktime": 1668096147,
+      "name": "5 Star Hotel",
+      "description": "Sleep on yacht"
+    },
+    {
+      "apiname": "ACH_SPELUNKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spelunker",
+      "description": "Explore all caves"
+    },
+    {
+      "apiname": "ACH_FIRST_RESPONDER",
+      "achieved": 1,
+      "unlocktime": 1633441813,
+      "name": "First Responder",
+      "description": "Revive one co-op player"
+    },
+    {
+      "apiname": "ACH_MEDIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medic",
+      "description": "Revive 10 co-op players"
+    },
+    {
+      "apiname": "ACH_BUILD_GAZEBO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You should be looking for Timmy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BOY_SCOOT",
+      "achieved": 1,
+      "unlocktime": 1633536140,
+      "name": "Boy Scout",
+      "description": "Use the compass"
+    },
+    {
+      "apiname": "ACH_GROUP_SLEEP",
+      "achieved": 1,
+      "unlocktime": 1633444193,
+      "name": "Camp Out",
+      "description": "Sleep with another player (group sleep)"
+    },
+    {
+      "apiname": "ACH_KILL_DOWNED_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splatter",
+      "description": "Killed downed enemy with rock"
+    },
+    {
+      "apiname": "ACH_LONG_WALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Longest Wall",
+      "description": "Build a super long wall"
+    },
+    {
+      "apiname": "ACH_CHOP_BODIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Choppy Chop",
+      "description": "Chop up 50 bodies"
+    },
+    {
+      "apiname": "ACH_STEALTH_ARMOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unseen",
+      "description": "Make and wear stealth armour"
+    },
+    {
+      "apiname": "ACH_FISH_DYNAMITED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Commercial Fisherman",
+      "description": "Kill 6 or more fish with a stick of dynamite. Alone in Single Player or together in Multiplayer."
+    },
+    {
+      "apiname": "ACH_SURVIVE_THE_FOREST",
+      "achieved": 1,
+      "unlocktime": 1633872526,
+      "name": "Survive The Forest",
+      "description": "Finish Game"
+    },
+    {
+      "apiname": "ACH_DRINK_COFFEE",
+      "achieved": 1,
+      "unlocktime": 1633870424,
+      "name": "Daily Grind",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GROSS_DRINK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gross!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_CANNIBALS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial Killer",
+      "description": "In Single Player, kill 100 cannibals"
+    },
+    {
+      "apiname": "ACH_SPRINKLERS",
+      "achieved": 1,
+      "unlocktime": 1668179517,
+      "name": "Make It Rain",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FIND_PASSENGERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Closure",
+      "description": "Find all missing passengers"
+    },
+    {
+      "apiname": "ACH_VENDING_MACHINES",
+      "achieved": 1,
+      "unlocktime": 1633870435,
+      "name": "Big Spender",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_SHARK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bite me!",
+      "description": "Kill shark. Alone in Single Player or together in Multiplayer."
+    },
+    {
+      "apiname": "ACH_KILL_BUNNY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster",
+      "description": "Kill a bunny. Alone in Single Player or together in Multiplayer."
+    },
+    {
+      "apiname": "ACH_COLLECT_CASSETTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gabe Fan",
+      "description": "Collect all cassette tapes!"
+    },
+    {
+      "apiname": "ACH_DAYS_SURVIVED_1",
+      "achieved": 1,
+      "unlocktime": 1633444389,
+      "name": "First Night",
+      "description": "Survive 1 night"
+    },
+    {
+      "apiname": "ACH_EAT_ALL_MUSHROOMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You are a fun guy",
+      "description": "Eat all mushroom types"
+    },
+    {
+      "apiname": "ACH_DAYS_SURVIVED_5",
+      "achieved": 1,
+      "unlocktime": 1633535573,
+      "name": "Survivalist",
+      "description": "Survive 5 nights"
+    },
+    {
+      "apiname": "ACH_SHOOT_BIRDS",
+      "achieved": 1,
+      "unlocktime": 1633447899,
+      "name": "Birdseye",
+      "description": "Kill bird with arrow"
+    },
+    {
+      "apiname": "ACH_MARATHON_STEPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Step Master",
+      "description": "Pass 50,000 steps"
+    },
+    {
+      "apiname": "ACH_USED_BOMBS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Man ",
+      "description": "Set off 20 bombs"
+    },
+    {
+      "apiname": "ACH_REPAIR_SHELTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handyman",
+      "description": "Repair a shelter"
+    },
+    {
+      "apiname": "ACH_COLLECT_ROBOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Father",
+      "description": "Collect all robot pieces "
+    },
+    {
+      "apiname": "ACH_CHOP_TREES_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Climate Change",
+      "description": "Cut down 100 trees"
+    },
+    {
+      "apiname": "ACH_CHOP_TREES_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Save The Forest",
+      "description": "Cut down 1000 trees"
+    },
+    {
+      "apiname": "ACH_DAYS_WITHOUT_KILLS",
+      "achieved": 1,
+      "unlocktime": 1633859204,
+      "name": "Pacifist",
+      "description": "In Single Player, don't kill any cannibals for more than 10 days in a row"
+    },
+    {
+      "apiname": "ACH_TREES_DYNAMITED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Expert",
+      "description": "Knock down 6 or more trees with 1 explosive. Alone in Single Player or together in Multiplayer."
+    },
+    {
+      "apiname": "ACH_TRAP_FISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fisherman",
+      "description": "Catch fish with a trap. Alone in Single Player or together in Multiplayer."
+    }
+  ]
+}

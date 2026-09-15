@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1435790,
+  "game": "Escape Simulator",
+  "total": 25,
+  "unlocked": 3,
+  "percent": 12.0,
+  "updated_at_utc": "2026-09-15T06:51:50.922595+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_GREAT_TOWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Tower",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_CLEANER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleaner",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_THROW_OUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_DESTROYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroyer",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FINISH_ROOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape Room",
+      "description": "Finish one room"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FINISH_ROOM_MP",
+      "achieved": 1,
+      "unlocktime": 1710858641,
+      "name": "Escape Together",
+      "description": "Finish one room in co-op"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIND_TOKEN",
+      "achieved": 1,
+      "unlocktime": 1710856865,
+      "name": "First in Collection",
+      "description": "Find one token"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ADVENTURE_THROPHY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egypt Escapist",
+      "description": "Get a trophy in every Egypt room"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ADVENTURE_TOKENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egypt Collector",
+      "description": "Find all tokens in Egypt rooms"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SPACE_THROPHY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Escapist",
+      "description": "Get a trophy in every Space room"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SPACE_TOKENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Collector",
+      "description": "Find all tokens in Space rooms"
+    },
+    {
+      "apiname": "ACHIEVEMENT_VICTORIAN_THROPHY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victorian Escapist",
+      "description": "Get a trophy in every Victorian room"
+    },
+    {
+      "apiname": "ACHIEVEMENT_VICTORIAN_TOKENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victorian Collector",
+      "description": "Find all tokens in Victorian rooms"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ROBOT_SOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mystic Toy",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_EDITOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make it Yourself",
+      "description": "Create room in the level editor"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FAST_BREAK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clumsy Escapist",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FAST_DROP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pockets With Holes",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_GOOD_THROW",
+      "achieved": 1,
+      "unlocktime": 1710857448,
+      "name": "Good Throw",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SIMPSONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "D'oh!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_JACK_BEANSTALK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack Beanstalk",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_WRITER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Writer",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LOOK_SUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Look at The Sun!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIRE_OUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Safety Precautions",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SAVE_MUG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holy Mug",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_UBER_SKULL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uber Skull",
+      "description": "Throw skull in the fire"
+    }
+  ]
+}

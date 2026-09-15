@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3070070,
+  "game": "TCG Card Shop Simulator",
+  "total": 50,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:19.545075+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_UnlockBasicCardBox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basic Card Box",
+      "description": "Unlocked Basic Card Box license"
+    },
+    {
+      "apiname": "ACH_UnlockRareCardPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rare Card Pack",
+      "description": "Unlocked Rare Card Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockEpicCardPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epic Card Pack",
+      "description": "Unlocked Epic Card Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockLegendCardPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Card Pack",
+      "description": "Unlocked Legendary Card Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockDestinyBasicPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny Basic Pack",
+      "description": "Unlocked Destiny Basic Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockDestinyRarePack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny Rare Pack",
+      "description": "Unlocked Destiny Rare Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockDestinyEpicPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny Epic Pack",
+      "description": "Unlocked Destiny Epic Pack license"
+    },
+    {
+      "apiname": "ACH_UnlockDestinyLegendPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny Legendary Pack",
+      "description": "Unlocked Destiny Legendary Pack license"
+    },
+    {
+      "apiname": "ACH_ShopLevel1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Established Shop",
+      "description": "Reached shop level 5"
+    },
+    {
+      "apiname": "ACH_ShopLevel2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Respected Shop",
+      "description": "Reached shop level 20"
+    },
+    {
+      "apiname": "ACH_ShopLevel3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Influential Shop",
+      "description": "Reached shop level 50"
+    },
+    {
+      "apiname": "ACH_ShopLevel4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Shop",
+      "description": "Reached shop level 100"
+    },
+    {
+      "apiname": "ACH_Worker1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helping Hand",
+      "description": "Hired 1 worker"
+    },
+    {
+      "apiname": "ACH_Worker2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tight-Knit Team",
+      "description": "Hired 4 workers"
+    },
+    {
+      "apiname": "ACH_Worker3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Recruiter",
+      "description": "Hired 8 workers"
+    },
+    {
+      "apiname": "ACH_OpenPack1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Packaholic",
+      "description": "Opened 100 card packs"
+    },
+    {
+      "apiname": "ACH_OpenPack2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can't Stop",
+      "description": "Opened 1000 card packs"
+    },
+    {
+      "apiname": "ACH_OpenPack3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JUST ONE MORE!",
+      "description": "Opened 10000 card packs"
+    },
+    {
+      "apiname": "ACH_CustomerPlay1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cozy Card Shop",
+      "description": "100 customers played in shop"
+    },
+    {
+      "apiname": "ACH_CustomerPlay2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popular Card Shop",
+      "description": "1500 customers played in shop"
+    },
+    {
+      "apiname": "ACH_CustomerPlay3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "THE Card Shop",
+      "description": "5000 customers played in shop"
+    },
+    {
+      "apiname": "ACH_SellCard1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Seller",
+      "description": "Sold $200 card"
+    },
+    {
+      "apiname": "ACH_SellCard2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pro Seller",
+      "description": "Sold $5,000 card"
+    },
+    {
+      "apiname": "ACH_SellCard3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Seller",
+      "description": "Sold $10,000 card"
+    },
+    {
+      "apiname": "ACH_Profit1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Petty Cash",
+      "description": "Made $1,000 profit in a day"
+    },
+    {
+      "apiname": "ACH_Profit2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Rich!",
+      "description": "Made $10,000 profit in a day"
+    },
+    {
+      "apiname": "ACH_Profit3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capitalism HO!",
+      "description": "Made $30,000 profit in a day"
+    },
+    {
+      "apiname": "ACH_Checkout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I LOVE Working In Retail",
+      "description": "Manually checkout for 1000 customers"
+    },
+    {
+      "apiname": "ACH_FullArtFoil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sick Pull",
+      "description": "Obtained a full art foil card from pack opening"
+    },
+    {
+      "apiname": "ACH_CardCollector1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Collector",
+      "description": "Collected 100 cards"
+    },
+    {
+      "apiname": "ACH_CardCollector2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serious Collector",
+      "description": "Collected 500 cards"
+    },
+    {
+      "apiname": "ACH_CardCollector3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pro Collector",
+      "description": "Collected 1500 cards"
+    },
+    {
+      "apiname": "ACH_CardCollector4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Card Connossieur",
+      "description": "Collected 2500 cards"
+    },
+    {
+      "apiname": "ACH_SmellyClean1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who you gonna call?",
+      "description": "Cleaned 100 smelly customers"
+    },
+    {
+      "apiname": "ACH_SmellyClean2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BO Buster!",
+      "description": "Cleaned 500 smelly customers"
+    },
+    {
+      "apiname": "ACH_UnlockShopLotB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Your Base",
+      "description": "Unlocked shop lot B"
+    },
+    {
+      "apiname": "ACH_ShopExpansion1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minor Shop Expansion",
+      "description": "Unlocked 4 shop expansions"
+    },
+    {
+      "apiname": "ACH_ShopExpansion2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Major shop Expansion",
+      "description": "Unlocked 10 shop expansions"
+    },
+    {
+      "apiname": "ACH_ShopExpansion3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Shop Expansion",
+      "description": "Unlocked 20 shop expansions"
+    },
+    {
+      "apiname": "ACH_GhostFoil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Bastard",
+      "description": "Obtained a full art foil Ghost card from pack opening"
+    },
+    {
+      "apiname": "ACH_GradingGem1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grading Apprentice",
+      "description": "Obtained 10 Gem Mint graded cards"
+    },
+    {
+      "apiname": "ACH_GradingGem2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grading Prodigy",
+      "description": "Obtained 100 Gem Mint graded cards"
+    },
+    {
+      "apiname": "ACH_GradingGem3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grading Master",
+      "description": "Obtained 500 Gem Mint graded cards"
+    },
+    {
+      "apiname": "ACH_GradingCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obsessed With Grades",
+      "description": "Collected a set of cards from grade 1 to 10"
+    },
+    {
+      "apiname": "ACH_GradingGold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Graded Gold",
+      "description": "Sold graded card worth more than $100,000"
+    },
+    {
+      "apiname": "ACH_UnlockAscensionPack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ascension Card Pack",
+      "description": "Unlocked Ascension Pack license"
+    },
+    {
+      "apiname": "ACH_BorderlessFullArtFoil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limitless Pull",
+      "description": "Obtained a borderless full art foil Ascension card from pack opening"
+    },
+    {
+      "apiname": "ACH_CardCollector5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Card Master",
+      "description": "Collected 4000 cards"
+    },
+    {
+      "apiname": "ACH_TCGDuel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TCG Arcade",
+      "description": "Win 50 Tetramon TCG duels against customer"
+    },
+    {
+      "apiname": "ACH_OpenPack4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Certified Card Goblin",
+      "description": "Opened 25000 card packs"
+    }
+  ]
+}

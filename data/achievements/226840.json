@@ -1,0 +1,529 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 226840,
+  "game": "Age of Wonders III",
+  "total": 74,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:39.258328+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_FIRST_BLOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Blood",
+      "description": "Win a tactical battle"
+    },
+    {
+      "apiname": "ACH_SETTLING_DOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Settling Down",
+      "description": "Found an outpost"
+    },
+    {
+      "apiname": "ACH_SCORCHED_EARTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Earth",
+      "description": "Raze or plunder a town"
+    },
+    {
+      "apiname": "ACH_WARLORDS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warlord's Triumph",
+      "description": "Win any level with the Warlord leader class"
+    },
+    {
+      "apiname": "ACH_SORCERERS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sorcerer's Triumph",
+      "description": "Win any level with the Sorcerer leader class"
+    },
+    {
+      "apiname": "ACH_ROGUES_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rogue's Triumph",
+      "description": "Win any level with the Rogue leader class"
+    },
+    {
+      "apiname": "ACH_DREADNOUGHTS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dreadnought's Triumph",
+      "description": "Win any level with the Dreadnought leader class"
+    },
+    {
+      "apiname": "ACH_ARCHLORDS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archdruid's Triumph",
+      "description": "Win any level with the Archdruid leader class"
+    },
+    {
+      "apiname": "ACH_THEOCRATS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theocrat's Triumph",
+      "description": "Win any level with the Theocrat leader class"
+    },
+    {
+      "apiname": "ACH_SIEGE_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siege Master",
+      "description": "Win a siege battle"
+    },
+    {
+      "apiname": "ACH_REPRESENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Represent",
+      "description": "Create a custom leader"
+    },
+    {
+      "apiname": "ACH_ADVENTURER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adventurer",
+      "description": "Complete a quest"
+    },
+    {
+      "apiname": "ACH_SILVER_TONGUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Tongue",
+      "description": "Acquire an independent town through diplomacy"
+    },
+    {
+      "apiname": "ACH_TREASURE_RAIDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Raider",
+      "description": "Clear an exploration site"
+    },
+    {
+      "apiname": "ACH_SEASONED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seasoned",
+      "description": "Promote a unit to gold"
+    },
+    {
+      "apiname": "ACH_SEAWORTHY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seaworthy",
+      "description": "Embark a unit"
+    },
+    {
+      "apiname": "ACH_FRIEND_OF_MONSTERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of Monsters",
+      "description": "Acquire a dwelling"
+    },
+    {
+      "apiname": "ACH_TALENT_SCOUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talent Scout",
+      "description": "Recruit 3 heroes in a single game"
+    },
+    {
+      "apiname": "ACH_WELL_EQUIPPED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Equipped",
+      "description": "Fill all equipment slots on a single leader or hero"
+    },
+    {
+      "apiname": "ACH_BLACKSMITH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith",
+      "description": "Create an item in the item forge"
+    },
+    {
+      "apiname": "ACH_MAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mama?",
+      "description": "Hatch an egg"
+    },
+    {
+      "apiname": "ACH_PARADISE_CITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paradise City",
+      "description": "Produce all city-upgrades in a single city"
+    },
+    {
+      "apiname": "ACH_SCHOLAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scholar",
+      "description": "Research all skills in a single game"
+    },
+    {
+      "apiname": "ACH_CASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caster",
+      "description": "Have 50 casting points on your leader"
+    },
+    {
+      "apiname": "ACH_PROTECTOR_OF_THE_LIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protector of the Light",
+      "description": "Get a pure good alignment"
+    },
+    {
+      "apiname": "ACH_CHAMPION_OF_THE_COMMONWEALTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of the Commonwealth",
+      "description": "Win the campaign for the Commonwealth"
+    },
+    {
+      "apiname": "ACH_CHAMPION_OF_THE_ELVEN_COURT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of the Elven Court",
+      "description": "Win the campaign for the Elven Court"
+    },
+    {
+      "apiname": "ACH_REBEL_OF_THE_COMMONWEALTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rebel of the Commonwealth",
+      "description": "Win as Commonwealth defector"
+    },
+    {
+      "apiname": "ACH_REBEL_OF_THE_ELVEN_COURT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rebel of the Elven Court",
+      "description": "Win as Elven Court defector"
+    },
+    {
+      "apiname": "ACH_MASTER_OF_THE_UNKNOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Unknown",
+      "description": "Win a random scenario"
+    },
+    {
+      "apiname": "ACH_CHALLENGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenger",
+      "description": "Start an online game"
+    },
+    {
+      "apiname": "ACH_TASTE_OF_VICTORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Victory",
+      "description": "Win an online game"
+    },
+    {
+      "apiname": "ACH_CHAMPION_OF_WONDERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of Wonders",
+      "description": "Win 10 online games"
+    },
+    {
+      "apiname": "ACH_GRAND_MASTER_OF_WONDERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Master of Wonders",
+      "description": "Win 30 online games"
+    },
+    {
+      "apiname": "ACH_OVERLORD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overlord",
+      "description": "Get a pure evil alignment"
+    },
+    {
+      "apiname": "ACH_BEST_FRIENDS_FOREVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Friends Forever",
+      "description": "Form an alliance"
+    },
+    {
+      "apiname": "ACH_MINE_CRAFTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mine Crafted",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAMPION_OF_THE_GOLDEN_REALM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Importance of Being Ernest",
+      "description": "Win the campaign for the Golden Realm"
+    },
+    {
+      "apiname": "ACH_MYSTICAL_CITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mystical City",
+      "description": "Build a city specialization upgrade"
+    },
+    {
+      "apiname": "ACH_POWER_UNLEASHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Unleashed",
+      "description": "Win any level by claiming a seal victory"
+    },
+    {
+      "apiname": "ACH_KAMIKAZE_MISSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Work for Me Now",
+      "description": "Force the AI to surrender to you"
+    },
+    {
+      "apiname": "ACH_QUEST_EMPEROR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First!!",
+      "description": "Complete an empire quest"
+    },
+    {
+      "apiname": "ACH_CLOVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortune's Favor",
+      "description": "Maximize a unit's luck"
+    },
+    {
+      "apiname": "ACH_PARTY_POOPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party Pooper",
+      "description": "Use throw filth on an enemy"
+    },
+    {
+      "apiname": "ACH_ELEPHANT_WHISPERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elephant Whisperer",
+      "description": "Befriend an elephant"
+    },
+    {
+      "apiname": "ACH_FOURTEENTH_BLOODLINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fourteenth Bloodline",
+      "description": "Obtain a Naga dwelling"
+    },
+    {
+      "apiname": "ACH_PLAY_USER_MAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Community Member",
+      "description": "Play a user created map"
+    },
+    {
+      "apiname": "ACH_MASTER_OF_ETERNAL_SILENCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Eternal Silence",
+      "description": "Win the Eternal Lords campaign for the Undead"
+    },
+    {
+      "apiname": "ACH_MASTER_OF_ETERNAL_MAGIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Eternal Magic",
+      "description": "Win the Eternal Lords Campaign for the Shadowborn"
+    },
+    {
+      "apiname": "ACH_MASTER_OF_ETERNAL_WINTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Eternal Winter",
+      "description": "Win the Eternal Lords Campaign for the Frostlings"
+    },
+    {
+      "apiname": "ACH_NECROMANCERS_TRIUMPH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Necromancer's Triumph",
+      "description": "Win any level with the Necromancer leader class"
+    },
+    {
+      "apiname": "ACH_FOR_WHOM_THE_BELL_TOLLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Whom the Bell Tolls",
+      "description": "Kill a leader with Invoke Death "
+    },
+    {
+      "apiname": "ACH_JOIN_ME_IN_DEATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Join Me in Death",
+      "description": "Recruit a Necromancer hero"
+    },
+    {
+      "apiname": "ACH_WHO_WANTS_TO_LIVE_FOREVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who Wants to Live Forever",
+      "description": "Research Harbingers of Death"
+    },
+    {
+      "apiname": "ACH_LIVING_IN_A_GHOST_TOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living in a Ghost Town",
+      "description": "Animate a ruined town"
+    },
+    {
+      "apiname": "ACH_DONT_FEAR_THE_REAPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Fear the Reaper",
+      "description": "Summon a Dread Reaper"
+    },
+    {
+      "apiname": "ACH_WINTER_HAS_COME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Has Come",
+      "description": "Win any level with a Frostling leader"
+    },
+    {
+      "apiname": "ACH_COLD_AS_ICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold as Ice",
+      "description": "Freeze an enemy unit"
+    },
+    {
+      "apiname": "ACH_TO_HEAL_A_FROZEN_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Heal a Frozen Heart",
+      "description": "Kill a frozen enemy"
+    },
+    {
+      "apiname": "ACH_CATS_RULE_EVERYTHING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cats Rule Everything",
+      "description": "Win any level with a Tigran leader"
+    },
+    {
+      "apiname": "ACH_KITTENS_EVERYWHERE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kittens Everywhere",
+      "description": "Have six Tigran cities in a single game"
+    },
+    {
+      "apiname": "ACH_LADY_OF_DARKNESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lady of Darkness",
+      "description": "Summon a Fallen Angel"
+    },
+    {
+      "apiname": "ACH_SHADOWFALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadowfall",
+      "description": "Win any level with a Shadowborn leader"
+    },
+    {
+      "apiname": "ACH_LADY_OF_LIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lady of Light",
+      "description": "Summon an Arch Angel"
+    },
+    {
+      "apiname": "ACH_KEEP_THE_FAITH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep the Faith",
+      "description": "Win any level with a Keeper of Peace leader"
+    },
+    {
+      "apiname": "ACH_LADY_OF_JUSTICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lady of Justice",
+      "description": "Summon a Chthonic Guardian"
+    },
+    {
+      "apiname": "ACH_IRON_SKY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Sky",
+      "description": "Win any level with a Grey Guard leader"
+    },
+    {
+      "apiname": "ACH_DEEP_FRIENDSHIPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Friendships",
+      "description": "Obtain a Reef Colony"
+    },
+    {
+      "apiname": "ACH_GOING_POSTAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Postal",
+      "description": "Participate in a PBEM game"
+    },
+    {
+      "apiname": "ACH_V_MAIL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "V-Mail",
+      "description": "Win a PBEM game"
+    },
+    {
+      "apiname": "ACH_DEDICATED_MONOGAMIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated Monogamist",
+      "description": "Max out the race governance for one race in a single game"
+    },
+    {
+      "apiname": "ACH_INTERRACIAL_HARMONY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interracial Harmony",
+      "description": "Max out the race governance for three races in a single game"
+    },
+    {
+      "apiname": "ACH_LIBERATOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Liberator",
+      "description": "Liberate an oppressed enemy city via a betrayal event"
+    },
+    {
+      "apiname": "ACH_GREAT_UNIFIER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Unifier",
+      "description": "Win a unifier victory"
+    }
+  ]
+}

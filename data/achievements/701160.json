@@ -1,0 +1,333 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 701160,
+  "game": "Kingdom Two Crowns",
+  "total": 46,
+  "unlocked": 10,
+  "percent": 21.7,
+  "updated_at_utc": "2026-09-15T06:50:27.301804+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 1,
+      "unlocktime": 1751033791,
+      "name": "On the First Day",
+      "description": "Recruited eight archers"
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Second Day",
+      "description": "You got free walls."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Third Day",
+      "description": "You started your camp."
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 1,
+      "unlocktime": 1750942293,
+      "name": "By the Fourth Day",
+      "description": "You hunted 40 or more critters."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 1,
+      "unlocktime": 1728756811,
+      "name": "By the Fifth Day",
+      "description": "You didn't kill anything."
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 1,
+      "unlocktime": 1728771909,
+      "name": "On the Sixth Day",
+      "description": "You had more gold than you could carry."
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Seventh Day",
+      "description": "You cleared an acre of land."
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By the Eighth Day",
+      "description": "You forged a new Crown"
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 1,
+      "unlocktime": 1728771909,
+      "name": "On the Ninth Day",
+      "description": "You held a Gem"
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By the Tenth Day",
+      "description": "You destroyed a portal."
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 1,
+      "unlocktime": 1750942533,
+      "name": "Master of the Sea",
+      "description": "Sail away before day 6!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 1,
+      "unlocktime": 1751039228,
+      "name": "I am an Equestrian",
+      "description": "Ride 4 different steeds on the same land"
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is a Hermit still a Hermit if they have friends?",
+      "description": "Put 4 hermits on the same boat"
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I HAVE THE TOWER!",
+      "description": "I have 20 max-level towers on a single land"
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Playing with goo",
+      "description": "Escape the cave with your crown in tact"
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyrotechnics",
+      "description": "Set fire to 20 greed with one flame barrel"
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Their Savior",
+      "description": "Revive a Land after 200 days of decay"
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Safe Passage",
+      "description": "Have lighthouses on all 5 lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 1,
+      "unlocktime": 1751039035,
+      "name": "Easter Island",
+      "description": "Clear all trees from a single land."
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 1,
+      "unlocktime": 1751034781,
+      "name": "The Student Becomes the Teacher",
+      "description": "Beat a portal with a squire"
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginning of a legend",
+      "description": "Defeat the Greed on one land"
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stories Have Begun",
+      "description": "Defeat the Greed on two lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Songs Will Be Written",
+      "description": "Defeat the Greed on three lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legends Will Be Passed Down",
+      "description": "Defeat the Greed on four lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You have Sealed Your Reign In History",
+      "description": "Defeat the Greed on all five lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Is No Greater Ruler Than Thou",
+      "description": "Defeat the Greed from all five lands in a single reign"
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Gives Up",
+      "description": "Retrieve your crown 300 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Journey Is Better Shared",
+      "description": "Sail to another land in Coop 30 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cracked the Skull",
+      "description": "Overcome the Greed on Skull Island"
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Heir",
+      "description": "Lose your crown, but not your legacy."
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Four Horsemen",
+      "description": "Summoned the four monarchs to the land of the dead."
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Igavania!",
+      "description": "Ride the Gamigin."
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Here Kitty Kitty Kitty",
+      "description": "Recruit a Cat"
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 1,
+      "unlocktime": 1750942153,
+      "name": "Arm the Homeless",
+      "description": "Convert a Beggar Camp into a Citizen House"
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above and Beyond",
+      "description": "Defeat the Greed on all 6 Lands"
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I HAVE THE POWER!",
+      "description": "Unlock all Items of Power (Solve All Puzzles)"
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Answer the Call of Olympus",
+      "description": "Sail away from Oracle Island"
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oracle Hotline",
+      "description": "Receive 10 prophecies from the Oracle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bigger on the Inside",
+      "description": "Unlock the pouch upgrade"
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Fish",
+      "description": "Collect all fish"
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessings from the Gods",
+      "description": "Collect all four divine Artifacts"
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gift of Prometheus",
+      "description": "Set 300 Greed on fire"
+    },
+    {
+      "apiname": "ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Not Very Gneiss",
+      "description": "Petrify 20 subjects"
+    },
+    {
+      "apiname": "ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End of an Odyssey",
+      "description": "Conquer Mount Olympus"
+    },
+    {
+      "apiname": "ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of Olympus",
+      "description": "Conquer Mount Olympus in a single reign"
+    },
+    {
+      "apiname": "ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mediterranean Vacation",
+      "description": "Beat all portals on all ten lands"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2608350,
+  "game": "Snezhinka",
+  "total": 22,
+  "unlocked": 7,
+  "percent": 31.8,
+  "updated_at_utc": "2026-09-15T06:52:52.689546+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_First_Snezhinka",
+      "achieved": 1,
+      "unlocktime": 1725629339,
+      "name": "Welcome to Blue Peacock",
+      "description": "Play Snezhinka: Sentinel Girls 2 for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_1",
+      "achieved": 1,
+      "unlocktime": 1725629406,
+      "name": "A Taste of Oil",
+      "description": "Defeat your first mech."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_10",
+      "achieved": 1,
+      "unlocktime": 1725629526,
+      "name": "Soldier of Fortune I",
+      "description": "Defeat 10 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_50",
+      "achieved": 1,
+      "unlocktime": 1725629716,
+      "name": "Soldier of Fortune II",
+      "description": "Defeat 50 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_100",
+      "achieved": 1,
+      "unlocktime": 1725629785,
+      "name": "Soldier of Fortune III",
+      "description": "Defeat 100 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_250",
+      "achieved": 1,
+      "unlocktime": 1725630195,
+      "name": "Soldier of Fortune IV",
+      "description": "Defeat 250 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier of Fortune V",
+      "description": "Defeat 500 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Defeat_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier of Fortune VI",
+      "description": "Defeat 1000 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_AnyEnd",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death and Taxes",
+      "description": "Complete any route in story mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_TrueEnd",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fleeting Reunion",
+      "description": "Complete the North City route in story mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NoRetry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Model Employee",
+      "description": "Complete any route in story mode without any retries."
+    },
+    {
+      "apiname": "ACHIEVEMENT_ChallengeA",
+      "achieved": 1,
+      "unlocktime": 1725630547,
+      "name": "Gate Guardian",
+      "description": "Play the gate defense challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_ChallengeB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Plant Protector",
+      "description": "Play the power plant defense challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Start",
+      "description": "Survive for 10 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hanging in There",
+      "description": "Survive for 20 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Standing Strong",
+      "description": "Survive for 30 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give No Ground",
+      "description": "Survive for 40 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbreakable Defense",
+      "description": "Survive for 50 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Challenge_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shield of Kazormia",
+      "description": "Survive for 60 days in challenge mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_Dog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "B.A.R.K. B.A.R.K.",
+      "description": "Adopt a pet D.O.G."
+    },
+    {
+      "apiname": "ACHIEVEMENT_AllHelperGet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comrades in Arms",
+      "description": "Recruit all seven coworkers."
+    },
+    {
+      "apiname": "ACHIEVEMENT_TopRanked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadeye",
+      "description": "Beat Hector's score in the shooting range."
+    }
+  ]
+}

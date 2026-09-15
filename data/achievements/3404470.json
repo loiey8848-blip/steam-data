@@ -1,0 +1,81 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3404470,
+  "game": "Maltese's Fluffy Onsen",
+  "total": 10,
+  "unlocked": 10,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:30.029043+00:00",
+  "achievements": [
+    {
+      "apiname": "Original_Achievement_1_0",
+      "achieved": 1,
+      "unlocktime": 1747565299,
+      "name": "Key to Success",
+      "description": "Obtained the first key."
+    },
+    {
+      "apiname": "Original_Achievement_1_1",
+      "achieved": 1,
+      "unlocktime": 1747550823,
+      "name": "Growth",
+      "description": "Upgraded all of one employee’s abilities to the maximum."
+    },
+    {
+      "apiname": "Original_Achievement_1_2",
+      "achieved": 1,
+      "unlocktime": 1750430100,
+      "name": "Millionaire",
+      "description": "Reached a total of 1,000,000 Gold."
+    },
+    {
+      "apiname": "Original_Achievement_1_3",
+      "achieved": 1,
+      "unlocktime": 1747619045,
+      "name": "Spa Master",
+      "description": "Obtained all medals in a single save slot."
+    },
+    {
+      "apiname": "Original_Achievement_1_4",
+      "achieved": 1,
+      "unlocktime": 1747619045,
+      "name": "Hospitality Master",
+      "description": "Collected all 24 default guests."
+    },
+    {
+      "apiname": "Original_Achievement_1_5",
+      "achieved": 1,
+      "unlocktime": 1749870153,
+      "name": "Letters from the Heart",
+      "description": "Collected all 60 Classic Letters"
+    },
+    {
+      "apiname": "Original_Achievement_1_6",
+      "achieved": 1,
+      "unlocktime": 1750034007,
+      "name": "Global Brand",
+      "description": "Unlocked all 8 Classic Stages"
+    },
+    {
+      "apiname": "Original_Achievement_1_7",
+      "achieved": 1,
+      "unlocktime": 1747591200,
+      "name": "2am feeling",
+      "description": ""
+    },
+    {
+      "apiname": "Original_Achievement_1_8",
+      "achieved": 1,
+      "unlocktime": 1749870180,
+      "name": "Pain of Farewell",
+      "description": ""
+    },
+    {
+      "apiname": "Original_Achievement_1_9",
+      "achieved": 1,
+      "unlocktime": 1749658522,
+      "name": "Aggressive Marketing",
+      "description": ""
+    }
+  ]
+}

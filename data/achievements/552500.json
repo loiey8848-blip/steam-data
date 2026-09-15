@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 552500,
+  "game": "Warhammer: Vermintide 2",
+  "total": 26,
+  "unlocked": 6,
+  "percent": 23.1,
+  "updated_at_utc": "2026-09-15T06:50:08.425539+00:00",
+  "achievements": [
+    {
+      "apiname": "complete_tutorial",
+      "achieved": 1,
+      "unlocktime": 1521736907,
+      "name": "Escaped!",
+      "description": "Complete Prologue"
+    },
+    {
+      "apiname": "complete_act_one",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Plot Thickens",
+      "description": "Complete Act 1"
+    },
+    {
+      "apiname": "complete_act_two",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Striking Back",
+      "description": "Complete Act 2"
+    },
+    {
+      "apiname": "complete_act_three",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reikland Rumble",
+      "description": "Complete Act 3"
+    },
+    {
+      "apiname": "complete_skittergate_recruit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Frozen North",
+      "description": "Complete Skittergate on Recruit"
+    },
+    {
+      "apiname": "complete_skittergate_veteran",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pact-Smasher",
+      "description": "Complete Skittergate on Veteran"
+    },
+    {
+      "apiname": "complete_skittergate_champion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Righteous Crusade",
+      "description": "Complete Skittergate on Champion"
+    },
+    {
+      "apiname": "complete_skittergate_legend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Norscannihilation",
+      "description": "Complete Skittergate on Legend"
+    },
+    {
+      "apiname": "level_thirty_wood_elf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Avatar of Drakira",
+      "description": "Reach level 30 with Kerillian"
+    },
+    {
+      "apiname": "level_thirty_witch_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch Hunter General",
+      "description": "Reach level 30 with Saltzpyre"
+    },
+    {
+      "apiname": "level_thirty_empire_soldier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of Taal",
+      "description": "Reach level 30 with Kruber"
+    },
+    {
+      "apiname": "level_thirty_bright_wizard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conflagration of Doom",
+      "description": "Reach level 30 with Sienna"
+    },
+    {
+      "apiname": "level_thirty_dwarf_ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Like Cousin Okri",
+      "description": "Reach level 30 with Bardin"
+    },
+    {
+      "apiname": "level_thirty_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pantheon of Heroes",
+      "description": "Reach Level 30 with all characters"
+    },
+    {
+      "apiname": "unlock_first_talent_point",
+      "achieved": 1,
+      "unlocktime": 1521806967,
+      "name": "Tempered by War",
+      "description": "Unlock 1st Talent point"
+    },
+    {
+      "apiname": "unlock_all_talent_points",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exemplar",
+      "description": "Unlock all Talent points for 1 career"
+    },
+    {
+      "apiname": "craft_item",
+      "achieved": 1,
+      "unlocktime": 1521816623,
+      "name": "Craftsman",
+      "description": "Craft an Item"
+    },
+    {
+      "apiname": "craft_fifty_items",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Craftsman",
+      "description": "Craft 50 items"
+    },
+    {
+      "apiname": "salvage_item",
+      "achieved": 1,
+      "unlocktime": 1521738969,
+      "name": "Waste Not, Want Not",
+      "description": "Salvage an item"
+    },
+    {
+      "apiname": "salvage_hundred_items",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make Do And Mend",
+      "description": "Salvage 100 items"
+    },
+    {
+      "apiname": "equip_common_quality",
+      "achieved": 1,
+      "unlocktime": 1521743248,
+      "name": "My First Wargear",
+      "description": "Equip a Common Item"
+    },
+    {
+      "apiname": "equip_rare_quality",
+      "achieved": 1,
+      "unlocktime": 1521816762,
+      "name": "Quite the Find",
+      "description": "Equip a Rare Item"
+    },
+    {
+      "apiname": "equip_exotic_quality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heirloom",
+      "description": "Equip an Exotic Item"
+    },
+    {
+      "apiname": "equip_all_exotic_quality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now You're Showing Off",
+      "description": "Equip Exotic items in every slot"
+    },
+    {
+      "apiname": "equip_veteran_quality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of Expertise",
+      "description": "Equip a Veteran Item"
+    },
+    {
+      "apiname": "complete_level_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtuoso",
+      "description": "Complete a level as every Hero"
+    }
+  ]
+}

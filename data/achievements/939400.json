@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 939400,
+  "game": "LoveChoice 拣爱",
+  "total": 20,
+  "unlocked": 3,
+  "percent": 15.0,
+  "updated_at_utc": "2026-09-15T06:51:05.517180+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_CHAPTER1_ALLCOLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Been Through Everything",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL1_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Beginning",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL3_PERFECT",
+      "achieved": 1,
+      "unlocktime": 1660375063,
+      "name": "Gourmet Master",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL2_LEVEL3_SUCCESS",
+      "achieved": 1,
+      "unlocktime": 1660374963,
+      "name": "A Perfect Date",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL5_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Break The Mood",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL6_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Soul Mate",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL7_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forbearance",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL8_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be A Listener",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL9_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take Balance",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_BE",
+      "achieved": 1,
+      "unlocktime": 1660374810,
+      "name": "Broke Up",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_GE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Or Move Forward",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_PE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Great Lover",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER1_LEVEL2_ALLLIKE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like It All",
+      "description": "LOVE · GAME"
+    },
+    {
+      "apiname": "ACH_CHAPTER2_ENDING_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Far Memory",
+      "description": "LOVE · DISTANCE"
+    },
+    {
+      "apiname": "ACH_CHAPTER2_ENDING_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Far , So Close",
+      "description": "LOVE · DISTANCE"
+    },
+    {
+      "apiname": "ACH_CHAPTER2_ENDING_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Close, So Far",
+      "description": "LOVE · DISTANCE"
+    },
+    {
+      "apiname": "ACH_CHAPTER3_HOUSEWORK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Queen of Housework",
+      "description": "LOVE · DETECTIVE"
+    },
+    {
+      "apiname": "ACH_CHAPTER3_SECRET_PLAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure In Wastes",
+      "description": "LOVE · DETECTIVE"
+    },
+    {
+      "apiname": "ACH_CHAPTER3_ENDING_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "File Closed",
+      "description": "LOVE · DETECTIVE"
+    },
+    {
+      "apiname": "ACH_CHAPTER3_ENDING_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thank You",
+      "description": "LOVE · DETECTIVE"
+    }
+  ]
+}

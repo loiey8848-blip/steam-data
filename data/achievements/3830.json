@@ -1,0 +1,270 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3830,
+  "game": "Psychonauts",
+  "total": 37,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:34.838433+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_COMP_BB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Last Chance to Chicken Out",
+      "description": "Complete Basic Braining."
+    },
+    {
+      "apiname": "ACH_COMP_SA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Victory for Good Taste",
+      "description": "Complete Sasha’s Shooting Gallery."
+    },
+    {
+      "apiname": "ACH_COMP_MI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rolling Rock Star",
+      "description": "Complete Milla’s Dance Party."
+    },
+    {
+      "apiname": "ACH_COMP_LO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Insurance Reasons",
+      "description": "Complete Lungfishopolis."
+    },
+    {
+      "apiname": "ACH_COMP_MM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to Deliver the Milk",
+      "description": "Complete The Milkman Conspiracy."
+    },
+    {
+      "apiname": "ACH_COMP_TH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're All So Kind",
+      "description": "Complete Gloria’s Theater."
+    },
+    {
+      "apiname": "ACH_COMP_WW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks for All the Snails",
+      "description": "Complete Waterloo World."
+    },
+    {
+      "apiname": "ACH_COMP_BV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Always Loved You More",
+      "description": "Complete Black Velvetopia."
+    },
+    {
+      "apiname": "ACH_COMP_AS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Height of Insanity",
+      "description": "Complete The Asylum."
+    },
+    {
+      "apiname": "ACH_COMP_MC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Thought That Was Unbeatable!",
+      "description": "Complete Meat Circus."
+    },
+    {
+      "apiname": "ACH_RANK_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior PSI Cadet",
+      "description": "Achieve Rank 20."
+    },
+    {
+      "apiname": "ACH_RANK_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular PSI Cadet",
+      "description": "Achieve Rank 40."
+    },
+    {
+      "apiname": "ACH_RANK_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced PSI Cadet",
+      "description": "Achieve Rank 60."
+    },
+    {
+      "apiname": "ACH_RANK_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super PSI Cadet",
+      "description": "Achieve Rank 80."
+    },
+    {
+      "apiname": "ACH_RANK_101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Math is Hard",
+      "description": "Achieve Rank 101."
+    },
+    {
+      "apiname": "ACH_COLL_ALLEMOBAG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Bags",
+      "description": "Sort all Emotional Baggage."
+    },
+    {
+      "apiname": "ACH_COLL_VAULTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Secrets",
+      "description": "Crack all Vaults."
+    },
+    {
+      "apiname": "ACH_COLL_ALLFIGMENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Figgy Piggy",
+      "description": "Gather all Figments."
+    },
+    {
+      "apiname": "ACH_ALL_POWERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They Should Totally Sell Those",
+      "description": "Earn all Merit Badges."
+    },
+    {
+      "apiname": "ACH_SCAVENGER_COMPL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They Call Me the Hunter",
+      "description": "Redeem all 16 Scavenger Hunt Items."
+    },
+    {
+      "apiname": "ACH_COLL_ALLHELMETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Gonna Live Forever",
+      "description": "Find all Golden Helmets."
+    },
+    {
+      "apiname": "ACH_RET_ALLBRAINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Solid Food for Six Hours",
+      "description": "Re-brain the Children."
+    },
+    {
+      "apiname": "ACH_BV_GARDENSEEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look at those Pansies!",
+      "description": "Find Edgar's Secret Garden."
+    },
+    {
+      "apiname": "ACH_MI_DEMONROOM_SEEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Sure She's Over It",
+      "description": "Uncover Milla's Secret."
+    },
+    {
+      "apiname": "ACH_POKEY_SHOWN_ALLKIDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Think They Were Impressed",
+      "description": "Introduce all Camp Kids to Mr. Pokeylope."
+    },
+    {
+      "apiname": "ACH_CLAIRVOYED_CHARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self Aware",
+      "description": "See yourself through the eyes of many others."
+    },
+    {
+      "apiname": "ACH_REVISTED_ALL_LEVELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory Tour",
+      "description": "Revisit all brains after completion."
+    },
+    {
+      "apiname": "ACH_BACON_HINT_USAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mmm… Bacon!",
+      "description": "Use the bacon. A lot."
+    },
+    {
+      "apiname": "ACH_COMP_PUNCHY_TARGET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I LOVE PUNCHING!",
+      "description": "Complete the Punchy Target mini-game."
+    },
+    {
+      "apiname": "ACH_VERNON_STORY_HEARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wolpaw Says Thanks",
+      "description": "Hear Vernon's Ghost Story."
+    },
+    {
+      "apiname": "ACH_MALOOF_GANGSTER_SEEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Made Man",
+      "description": "Witness Maloof's transformation."
+    },
+    {
+      "apiname": "ACH_BOBBY_CHLOE_CS_SEEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maybe It's the Hair",
+      "description": "Spy on Bobby's love life."
+    },
+    {
+      "apiname": "ACH_COACH_SPEECH_REPEATED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stump Speech",
+      "description": "Give the Coach's speech on the stump."
+    },
+    {
+      "apiname": "ACH_KIOST_LINES_READ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Camp Gossip",
+      "description": "Read many bulletin board messages."
+    },
+    {
+      "apiname": "ACH_STUMP_READ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Slice of History",
+      "description": "Discover the secret history of Whispering Rock."
+    },
+    {
+      "apiname": "ACH_CHRISTMAS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Christmas Shopping",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HOLIDAY_DINNER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holiday Dinner",
+      "description": "Cook and consume two different kinds of roast in one sitting."
+    }
+  ]
+}

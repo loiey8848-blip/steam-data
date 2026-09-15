@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 308600,
+  "game": "Skillshot City",
+  "total": 40,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:18.818728+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_CAMPAIGN_SPEED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BEYOND GODLIKE",
+      "description": "Kill 10 players or civilians in a short period of time."
+    },
+    {
+      "apiname": "ACH_CAMPAIGN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Bags",
+      "description": "Earn a total 10,000 ACID."
+    },
+    {
+      "apiname": "ACH_CAMPAIGN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender",
+      "description": "Earn a total 30,000 ACID."
+    },
+    {
+      "apiname": "ACH_CAMPAIGN_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Earn a total 100,000 ACID."
+    },
+    {
+      "apiname": "ACH_SKILL_SLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skill Slayer",
+      "description": "Reach the highest rank in the leaderboards (Skill Slayer)."
+    },
+    {
+      "apiname": "ACH_CC_BRONZE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardcore Survivalist",
+      "description": "Earn 600 score in a hardcore survival run (2nd star)."
+    },
+    {
+      "apiname": "ACH_CC_SILVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Survivalist",
+      "description": "Earn 1000 score in a hardcore survival run (3rd star)."
+    },
+    {
+      "apiname": "ACH_CC_GOLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Survivalist",
+      "description": "Earn 1500 score in a hardcore survival run (4th and final star)."
+    },
+    {
+      "apiname": "ACH_CHEMICAL_BUILDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Base Builder",
+      "description": "Have 10 chemicals placed in the map at the same time."
+    },
+    {
+      "apiname": "ACH_COMBO_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OWNAGE",
+      "description": "Get a x4 kill streak in multiplayer."
+    },
+    {
+      "apiname": "ACH_COMBO_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "UNSTOPPABLE",
+      "description": "Get a x8 kill streak in multiplayer."
+    },
+    {
+      "apiname": "ACH_COMBO_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GODLIKE",
+      "description": "Get a x12 kill streak in multiplayer."
+    },
+    {
+      "apiname": "ACH_CHAIN_REACTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Reaction",
+      "description": "Destroy 10 vehicles in under 5s."
+    },
+    {
+      "apiname": "ACH_DESTROY_VEHICLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Man",
+      "description": "Destroy over 100 vehicles."
+    },
+    {
+      "apiname": "ACH_EXPLORER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Unlock 30 skills in the skill tree."
+    },
+    {
+      "apiname": "ACH_EXPLORER_FULL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Get 'Em All",
+      "description": "Unlock every skill in the game."
+    },
+    {
+      "apiname": "ACH_GET_RANKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hello there",
+      "description": "Join the Discord and enter the secret code."
+    },
+    {
+      "apiname": "ACH_GRIM_REAPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grim Reaper",
+      "description": "Kill an enemy player while dead."
+    },
+    {
+      "apiname": "ACH_KILL_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Massacre",
+      "description": "Kill 100 enemy players."
+    },
+    {
+      "apiname": "ACH_KILL_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slaughterer",
+      "description": "Kill 1000 enemy players."
+    },
+    {
+      "apiname": "ACH_KILL_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genocide",
+      "description": "Kill 3000 enemy players."
+    },
+    {
+      "apiname": "ACH_DETONATE_BOMB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resurrection",
+      "description": "Revive by killing a survivor with your claws."
+    },
+    {
+      "apiname": "ACH_LEVEL_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mini Mutant Man",
+      "description": "Reach level 20."
+    },
+    {
+      "apiname": "ACH_LEVEL_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half Mutant, Half Machine",
+      "description": "Reach level 50."
+    },
+    {
+      "apiname": "ACH_LEVEL_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genetic Drift",
+      "description": "Reach level 100."
+    },
+    {
+      "apiname": "ACH_MEDIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overheal",
+      "description": "Collect enough health kits to overheal to the maximum of 200 hitpoints."
+    },
+    {
+      "apiname": "ACH_MISSION_ASS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": "Kill 10 zombies in a single round."
+    },
+    {
+      "apiname": "ACH_MISSION_PP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Bullet",
+      "description": "Kill 2 enemy players with the same bullet. Explosive and vehicle kills don't count."
+    },
+    {
+      "apiname": "ACH_MISSION_HITMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanted",
+      "description": "Kill enough cops to naturally reach a 5 star Wanted level."
+    },
+    {
+      "apiname": "ACH_MISSION_SS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Samurai",
+      "description": "Knife 2 enemies in a row while falling from the sky in a normal BR match. Like all achievements this can't be completed in the warmup round."
+    },
+    {
+      "apiname": "ACH_MISSION_ROADKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roadkill",
+      "description": "Run over and kill an enemy player with a vehicle."
+    },
+    {
+      "apiname": "ACH_MISSION_WM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Shifty",
+      "description": "Use Shift Supply to reach the maximum of 10 shift charges."
+    },
+    {
+      "apiname": "ACH_NEWBIE_CHECKLIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GG EZ",
+      "description": "Complete your first match."
+    },
+    {
+      "apiname": "ACH_PERFECT_STAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Always on Top",
+      "description": "Win every single round in a multiplayer battle royale match."
+    },
+    {
+      "apiname": "ACH_RANK_RED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenges Completed",
+      "description": "Complete all 24 free challenges in the challenges grid."
+    },
+    {
+      "apiname": "ACH_RUBY_KILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm a Survivor",
+      "description": "Complete a full survival run."
+    },
+    {
+      "apiname": "ACH_SPEEDRUNNER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quad Kill",
+      "description": "Kill 4 players or civilians in a short period of time."
+    },
+    {
+      "apiname": "ACH_STEALTH_COMBO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2 Hearts in 1",
+      "description": "Earn the maximum amount of lives in Survival mode."
+    },
+    {
+      "apiname": "ACH_WIN_ROUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chicken Dinner",
+      "description": "Come first place in a multiplayer battle royale game."
+    },
+    {
+      "apiname": "ACH_GAME_BEGINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last Man Standing",
+      "description": "Win a single multiplayer battle royale round."
+    }
+  ]
+}

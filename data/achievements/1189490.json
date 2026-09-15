@@ -1,0 +1,487 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1189490,
+  "game": "觅长生",
+  "total": 68,
+  "unlocked": 4,
+  "percent": 5.9,
+  "updated_at_utc": "2026-09-15T06:51:13.723018+00:00",
+  "achievements": [
+    {
+      "apiname": "BuffOnce_1_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "五毒俱全",
+      "description": "单场战斗中对手的【中毒】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_1_199",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "毒门圣手",
+      "description": "单场战斗中对手的【中毒】层数超过199"
+    },
+    {
+      "apiname": "BuffOnce_2_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "熊熊烈火",
+      "description": "单场战斗中对手的【灼烧】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_2_199",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "不灭之焱",
+      "description": "单场战斗中对手的【灼烧】层数超过199"
+    },
+    {
+      "apiname": "BuffOnce_27_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "剑心通明",
+      "description": "单场战斗中自身的【剑气】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_27_199",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "剑走偏锋",
+      "description": "单场战斗中自身的【剑气】层数超过199"
+    },
+    {
+      "apiname": "BuffOnce_5_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "灵气护体",
+      "description": "单场战斗中自身的【护罩】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_5_199",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "铜墙铁壁",
+      "description": "单场战斗中自身的【护罩】层数超过199"
+    },
+    {
+      "apiname": "BuffOnce_3_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "洞悉弱点",
+      "description": "单场战斗中对手的【易伤】层数超过10"
+    },
+    {
+      "apiname": "BuffOnce_4_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "钢筋铁骨",
+      "description": "单场战斗中自身的【减伤】层数超过10"
+    },
+    {
+      "apiname": "BuffOnce_8_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "盘根错节",
+      "description": "单场战斗中对手的【缠绕】层数超过20"
+    },
+    {
+      "apiname": "BuffOnce_38_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "厚积薄发",
+      "description": "单场战斗中自身的【蓄势】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_9_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "刺骨寒冰",
+      "description": "单场战斗中对手的【霜冻】层数超过50"
+    },
+    {
+      "apiname": "BuffOnce_26_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "化土归尘",
+      "description": "单场战斗中自身的【尘】层数超过100"
+    },
+    {
+      "apiname": "BuffOnce_28_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "聚尘为沙",
+      "description": "单场战斗中对手的【沙】层数超过100"
+    },
+    {
+      "apiname": "BuffOnce_6_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "逆行经脉",
+      "description": "单场战斗中自身的【滞气】层数超过20"
+    },
+    {
+      "apiname": "DamageAll_0_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "庚金带煞",
+      "description": "累积造成10000点金系伤害"
+    },
+    {
+      "apiname": "DamageAll_1_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "乙木春秋",
+      "description": "累积造成10000点木系伤害"
+    },
+    {
+      "apiname": "DamageAll_2_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "癸水因果",
+      "description": "累积造成10000点水系伤害"
+    },
+    {
+      "apiname": "DamageAll_3_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "丙火遍野",
+      "description": "累积造成10000点火系伤害"
+    },
+    {
+      "apiname": "DamageAll_4_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "己土荣昌",
+      "description": "累积造成10000点土系伤害"
+    },
+    {
+      "apiname": "DamageAll_6_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "神念通天",
+      "description": "累积造成10000点神识系伤害"
+    },
+    {
+      "apiname": "DamageAll_7_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "剑破万法",
+      "description": "累积造成10000点剑系伤害"
+    },
+    {
+      "apiname": "DamageOnce_0_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "御金",
+      "description": "单次造成超过50点金系伤害"
+    },
+    {
+      "apiname": "DamageOnce_1_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "御木",
+      "description": "单次造成超过50点木系伤害"
+    },
+    {
+      "apiname": "DamageOnce_2_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "御水",
+      "description": "单次造成超过50点水系伤害"
+    },
+    {
+      "apiname": "DamageOnce_3_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "御火",
+      "description": "单次造成超过50点火系伤害"
+    },
+    {
+      "apiname": "DamageOnce_4_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "御土",
+      "description": "单次造成超过50点土系伤害"
+    },
+    {
+      "apiname": "DamageOnce_6_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "凝神",
+      "description": "单次造成超过50点神识系伤害"
+    },
+    {
+      "apiname": "DamageOnce_7_50",
+      "achieved": 1,
+      "unlocktime": 1718365741,
+      "name": "入微",
+      "description": "单次造成超过50点剑系伤害"
+    },
+    {
+      "apiname": "ach1",
+      "achieved": 1,
+      "unlocktime": 1718365830,
+      "name": "赛场称雄",
+      "description": "获得一次英杰会比试冠军"
+    },
+    {
+      "apiname": "ach2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "少年英杰",
+      "description": "在非【极简】难度下，获得第一年英杰会的冠军"
+    },
+    {
+      "apiname": "ach3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "独领风骚",
+      "description": ""
+    },
+    {
+      "apiname": "ach4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "新人翘楚",
+      "description": "获得一次宗门大比的冠军"
+    },
+    {
+      "apiname": "ach5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "名扬外门",
+      "description": ""
+    },
+    {
+      "apiname": "ach6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "试炼夺魁",
+      "description": "获得一次猎魔试炼的冠军"
+    },
+    {
+      "apiname": "ach7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "名动宁州",
+      "description": ""
+    },
+    {
+      "apiname": "ach8",
+      "achieved": 1,
+      "unlocktime": 1718717313,
+      "name": "筑基仙长",
+      "description": "突破到筑基期"
+    },
+    {
+      "apiname": "ach9",
+      "achieved": 1,
+      "unlocktime": 1718717313,
+      "name": "筑基天才",
+      "description": ""
+    },
+    {
+      "apiname": "ach10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "金丹长老",
+      "description": "突破到金丹期"
+    },
+    {
+      "apiname": "ach11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "终成金丹",
+      "description": ""
+    },
+    {
+      "apiname": "ach12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "丹成九品",
+      "description": ""
+    },
+    {
+      "apiname": "ach13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "起航",
+      "description": "首次由广陵港口进入无尽之海"
+    },
+    {
+      "apiname": "ach14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "蓬莎",
+      "description": "穿过蓬莎海域，抵达蓬莎岛"
+    },
+    {
+      "apiname": "ach15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "碎星",
+      "description": "穿过碎星海域，抵达碎星岛"
+    },
+    {
+      "apiname": "ach16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "彼岸",
+      "description": "穿过南崖海域，抵达南崖城"
+    },
+    {
+      "apiname": "ach17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "元婴大能",
+      "description": "突破到元婴期"
+    },
+    {
+      "apiname": "ach18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "仙凡之别",
+      "description": ""
+    },
+    {
+      "apiname": "ach19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "开山辟府",
+      "description": "在逸风城购买一处洞府"
+    },
+    {
+      "apiname": "ach20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "比翼连理",
+      "description": "与一名修士结为道侣"
+    },
+    {
+      "apiname": "ach21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "六根清净",
+      "description": "在非【极简】难度下击败图南海古树根须"
+    },
+    {
+      "apiname": "ach22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "龙族供奉",
+      "description": "成为龙族供奉"
+    },
+    {
+      "apiname": "ach23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "上古龙宫",
+      "description": "探索完整个上古龙宫"
+    },
+    {
+      "apiname": "ach24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "浪方",
+      "description": "在非【极简】难度下击败浪方大圣"
+    },
+    {
+      "apiname": "ach25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "九幽",
+      "description": "在非【极简】难度下击败九幽大圣"
+    },
+    {
+      "apiname": "ach26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "真龙化身",
+      "description": "身怀龙族血脉，并进入化龙池浴血精炼"
+    },
+    {
+      "apiname": "ach27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "吞云",
+      "description": "在吞云大圣处领悟《玄武吐纳术》，或在非【极简】难度下，击败吞云大圣"
+    },
+    {
+      "apiname": "ach28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "脱凡化神",
+      "description": "突破到化神期"
+    },
+    {
+      "apiname": "ach29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "旷世奇才",
+      "description": ""
+    },
+    {
+      "apiname": "ach30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "天下第一",
+      "description": "在非【极简】难度下，夺得一次天机大比的冠军。"
+    },
+    {
+      "apiname": "ach31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "见证",
+      "description": "千年之时，见证阴魂岛的终局。"
+    },
+    {
+      "apiname": "ach32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "剑通碧落",
+      "description": "见证白帝飞升。"
+    },
+    {
+      "apiname": "ach33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "逆天造化",
+      "description": "渡劫时利用仙灵之气替魏无极重塑肉身"
+    },
+    {
+      "apiname": "ach34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "飞升神话",
+      "description": "渡过雷劫，飞升上界"
+    },
+    {
+      "apiname": "ach35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "覆海大圣",
+      "description": "见证覆海大圣突破至化神期"
+    },
+    {
+      "apiname": "ach36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "天字杀手",
+      "description": "成为风雨楼天字杀手"
+    },
+    {
+      "apiname": "ach37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "引雷锻体",
+      "description": "在雷鸣海九霄雷狱中完成锻体"
+    },
+    {
+      "apiname": "ach38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "天道化身",
+      "description": "进入天道树的梦境"
+    }
+  ]
+}

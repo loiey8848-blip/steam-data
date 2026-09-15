@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3764200,
+  "game": "Resident Evil Requiem",
+  "total": 49,
+  "unlocked": 49,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:36.582920+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1772172045,
+      "name": "Déjà vu",
+      "description": ""
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1772246057,
+      "name": "Descent Into Darkness",
+      "description": ""
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1772251610,
+      "name": "It's Been a Long Night",
+      "description": ""
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1772254000,
+      "name": "A Harsh Reality",
+      "description": ""
+    },
+    {
+      "apiname": "5",
+      "achieved": 1,
+      "unlocktime": 1772266190,
+      "name": "Going Down?",
+      "description": ""
+    },
+    {
+      "apiname": "6",
+      "achieved": 1,
+      "unlocktime": 1772266845,
+      "name": "The Hero Returns",
+      "description": ""
+    },
+    {
+      "apiname": "7",
+      "achieved": 1,
+      "unlocktime": 1772272845,
+      "name": "I Remember That, Too",
+      "description": ""
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1772290075,
+      "name": "Umbrella's Legacy",
+      "description": ""
+    },
+    {
+      "apiname": "9",
+      "achieved": 1,
+      "unlocktime": 1772292302,
+      "name": "The Final Mission",
+      "description": ""
+    },
+    {
+      "apiname": "10",
+      "achieved": 1,
+      "unlocktime": 1772297854,
+      "name": "Hope and Requiem",
+      "description": ""
+    },
+    {
+      "apiname": "11",
+      "achieved": 1,
+      "unlocktime": 1772297855,
+      "name": "Rookie Agent",
+      "description": "Complete the main story on at least Casual difficulty."
+    },
+    {
+      "apiname": "12",
+      "achieved": 1,
+      "unlocktime": 1772297857,
+      "name": "Rising Agent",
+      "description": "Complete the main story on at least Standard (Modern) difficulty."
+    },
+    {
+      "apiname": "13",
+      "achieved": 1,
+      "unlocktime": 1772513934,
+      "name": "Resolute Agent",
+      "description": "Complete the main story on at least Standard (Classic) difficulty."
+    },
+    {
+      "apiname": "14",
+      "achieved": 1,
+      "unlocktime": 1772513934,
+      "name": "Remarkable Agent",
+      "description": ""
+    },
+    {
+      "apiname": "15",
+      "achieved": 1,
+      "unlocktime": 1772191533,
+      "name": "Out of Sight, Out of Mind",
+      "description": "Store an item in the item box as Grace."
+    },
+    {
+      "apiname": "16",
+      "achieved": 1,
+      "unlocktime": 1772342381,
+      "name": "The Ol' Fashioned Way",
+      "description": ""
+    },
+    {
+      "apiname": "17",
+      "achieved": 1,
+      "unlocktime": 1772195216,
+      "name": "Like Mother, Like Daughter",
+      "description": "Unlock a drawer with a lockpick."
+    },
+    {
+      "apiname": "18",
+      "achieved": 1,
+      "unlocktime": 1772194328,
+      "name": "Fatal Dose",
+      "description": ""
+    },
+    {
+      "apiname": "19",
+      "achieved": 1,
+      "unlocktime": 1772194585,
+      "name": "Science!",
+      "description": ""
+    },
+    {
+      "apiname": "20",
+      "achieved": 1,
+      "unlocktime": 1772195088,
+      "name": "The Power of Blood",
+      "description": ""
+    },
+    {
+      "apiname": "21",
+      "achieved": 1,
+      "unlocktime": 1772246057,
+      "name": "Blood! More Blood!",
+      "description": ""
+    },
+    {
+      "apiname": "22",
+      "achieved": 1,
+      "unlocktime": 1772246981,
+      "name": "Bring Out the Big Guns",
+      "description": ""
+    },
+    {
+      "apiname": "23",
+      "achieved": 1,
+      "unlocktime": 1772173824,
+      "name": "The Hunt Begins",
+      "description": "Destroy one Mr. Raccoon memoriam."
+    },
+    {
+      "apiname": "24",
+      "achieved": 1,
+      "unlocktime": 1772171857,
+      "name": "Untouchable",
+      "description": "Parry an enemy attack."
+    },
+    {
+      "apiname": "25",
+      "achieved": 1,
+      "unlocktime": 1772171870,
+      "name": "Can I Borrow This?",
+      "description": "Throw a weapon dropped by an enemy."
+    },
+    {
+      "apiname": "26",
+      "achieved": 1,
+      "unlocktime": 1772173500,
+      "name": "Chop Chop",
+      "description": "Defeat three zombies with a hatchet finishing attack."
+    },
+    {
+      "apiname": "27",
+      "achieved": 1,
+      "unlocktime": 1772259218,
+      "name": "Retail Therapy",
+      "description": "Purchase an item from the supply box."
+    },
+    {
+      "apiname": "28",
+      "achieved": 1,
+      "unlocktime": 1772246057,
+      "name": "Tailor Made",
+      "description": "Upgrade a weapon."
+    },
+    {
+      "apiname": "29",
+      "achieved": 1,
+      "unlocktime": 1772266414,
+      "name": "Road Rage",
+      "description": ""
+    },
+    {
+      "apiname": "30",
+      "achieved": 1,
+      "unlocktime": 1772264062,
+      "name": "Master Craftsman",
+      "description": "Craft every possible item with Leon."
+    },
+    {
+      "apiname": "31",
+      "achieved": 1,
+      "unlocktime": 1772246057,
+      "name": "Bang For Your Buck",
+      "description": "Defeat at least three enemies with a single Requiem shot."
+    },
+    {
+      "apiname": "32",
+      "achieved": 1,
+      "unlocktime": 1772291089,
+      "name": "Cat Got Your Tongue?",
+      "description": ""
+    },
+    {
+      "apiname": "33",
+      "achieved": 1,
+      "unlocktime": 1772193322,
+      "name": "Order Up!",
+      "description": ""
+    },
+    {
+      "apiname": "34",
+      "achieved": 1,
+      "unlocktime": 1772241345,
+      "name": "Deadly Duet",
+      "description": ""
+    },
+    {
+      "apiname": "35",
+      "achieved": 1,
+      "unlocktime": 1772240113,
+      "name": "Grace and Goliath",
+      "description": ""
+    },
+    {
+      "apiname": "36",
+      "achieved": 1,
+      "unlocktime": 1772374939,
+      "name": "Internal Dispute",
+      "description": ""
+    },
+    {
+      "apiname": "37",
+      "achieved": 1,
+      "unlocktime": 1772265061,
+      "name": "Seasoned Pro",
+      "description": "Defeat 300 enemies."
+    },
+    {
+      "apiname": "38",
+      "achieved": 1,
+      "unlocktime": 1772289540,
+      "name": "Not Today, Buds!",
+      "description": ""
+    },
+    {
+      "apiname": "39",
+      "achieved": 1,
+      "unlocktime": 1772293808,
+      "name": "No Safe is Safe",
+      "description": ""
+    },
+    {
+      "apiname": "40",
+      "achieved": 1,
+      "unlocktime": 1772507405,
+      "name": "Crate Expectations",
+      "description": ""
+    },
+    {
+      "apiname": "41",
+      "achieved": 1,
+      "unlocktime": 1772513813,
+      "name": "Case Closed",
+      "description": "Read all the files in the main story."
+    },
+    {
+      "apiname": "42",
+      "achieved": 1,
+      "unlocktime": 1772501801,
+      "name": "You Little Rascal!",
+      "description": "Destroy every Mr. Raccoon memoriam."
+    },
+    {
+      "apiname": "43",
+      "achieved": 1,
+      "unlocktime": 1772334925,
+      "name": "Speed Demon",
+      "description": ""
+    },
+    {
+      "apiname": "44",
+      "achieved": 1,
+      "unlocktime": 1772343170,
+      "name": "Credit Where Credit Is Due",
+      "description": ""
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1772515971,
+      "name": "Bloodlust",
+      "description": ""
+    },
+    {
+      "apiname": "46",
+      "achieved": 1,
+      "unlocktime": 1772515139,
+      "name": "Model Mania",
+      "description": "View all models."
+    },
+    {
+      "apiname": "47",
+      "achieved": 1,
+      "unlocktime": 1772514083,
+      "name": "Curator",
+      "description": "View all concept art."
+    },
+    {
+      "apiname": "48",
+      "achieved": 1,
+      "unlocktime": 1772334925,
+      "name": "Never Touch the Stuff",
+      "description": "Complete the main story without using herbs or med injectors."
+    },
+    {
+      "apiname": "49",
+      "achieved": 1,
+      "unlocktime": 1772513934,
+      "name": "Minimalist",
+      "description": ""
+    }
+  ]
+}

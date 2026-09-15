@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1839510,
+  "game": "ＲＰＧタイム！～ライトの伝説～",
+  "total": 15,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:20.772397+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Ninja",
+      "description": "Find 5 Mininja."
+    },
+    {
+      "apiname": "ACHIEVEMENT02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Ninja",
+      "description": "Find 10 Mininja."
+    },
+    {
+      "apiname": "ACHIEVEMENT03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Ninja",
+      "description": "Find 15 Mininja."
+    },
+    {
+      "apiname": "ACHIEVEMENT04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medal King",
+      "description": "Talk to Medal King."
+    },
+    {
+      "apiname": "ACHIEVEMENT05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swordmaster",
+      "description": "Get all swords."
+    },
+    {
+      "apiname": "ACHIEVEMENT06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doodler",
+      "description": "Get all doodle sheets."
+    },
+    {
+      "apiname": "ACHIEVEMENT07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hungry Hero",
+      "description": "Get all food."
+    },
+    {
+      "apiname": "ACHIEVEMENT08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burger Baron",
+      "description": "Get all burgers."
+    },
+    {
+      "apiname": "ACHIEVEMENT09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pottery Pro",
+      "description": "Inspect all pots and vases."
+    },
+    {
+      "apiname": "ACHIEVEMENT10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Funny Face",
+      "description": "Inspect all cutout photo stands."
+    },
+    {
+      "apiname": "ACHIEVEMENT11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Investigator",
+      "description": "View 30 things in Help Mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful Hero",
+      "description": "Complete the tutorial dungeon."
+    },
+    {
+      "apiname": "ACHIEVEMENT13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Searcher",
+      "description": "Complete The Subterrane Search Party."
+    },
+    {
+      "apiname": "ACHIEVEMENT14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slow Starter",
+      "description": "See all Title Screen events."
+    },
+    {
+      "apiname": "ACHIEVEMENT15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seven Shards",
+      "description": "Collect all 7 Shards of Light without eating any."
+    }
+  ]
+}

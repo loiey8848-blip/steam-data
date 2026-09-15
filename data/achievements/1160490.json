@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1160490,
+  "game": "Master Of Pottery",
+  "total": 12,
+  "unlocked": 12,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:12.434458+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_1",
+      "achieved": 1,
+      "unlocktime": 1782226019,
+      "name": "First work",
+      "description": "Finished the first work"
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 1,
+      "unlocktime": 1782226028,
+      "name": "Grand opening",
+      "description": "Held an exhibition"
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 1,
+      "unlocktime": 1782231629,
+      "name": "Culture succession",
+      "description": "10 apprentices finish their apprenticeship"
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 1,
+      "unlocktime": 1782232027,
+      "name": "Tourist attraction",
+      "description": "50,000 tourists visited"
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 1,
+      "unlocktime": 1782232640,
+      "name": "Collector",
+      "description": "30 works in the warehouse"
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 1,
+      "unlocktime": 1782229540,
+      "name": "Art merchant",
+      "description": "20 works sold"
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 1,
+      "unlocktime": 1782231802,
+      "name": "Business elite",
+      "description": "Get 500,000 income"
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 1,
+      "unlocktime": 1782230735,
+      "name": "Pottery master",
+      "description": "Made 10 SSS-level works"
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 1,
+      "unlocktime": 1782228033,
+      "name": "Marketing expert",
+      "description": "Publicized 20 times"
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 1,
+      "unlocktime": 1782229835,
+      "name": "Large exhibition hall",
+      "description": "All booths were built"
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 1,
+      "unlocktime": 1782229998,
+      "name": "Decoration enthusiasts",
+      "description": "Had 10 decoration assets"
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 1,
+      "unlocktime": 1782232640,
+      "name": "Highest achievement",
+      "description": "Get all achievements!"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1497450,
+  "game": "A Memoir Blue",
+  "total": 15,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:00.657765+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_EMPTY_YOUR_CUP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empty Your Cup",
+      "description": "Remove all ice cubes from the glass."
+    },
+    {
+      "apiname": "ACHIEVEMENT_SURF_RADIO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surfing the Radio Waves",
+      "description": "View all the images available in the radio."
+    },
+    {
+      "apiname": "ACHIEVEMENT_GLOW_UP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glow Up",
+      "description": "Light up the crane and billboard at sunset."
+    },
+    {
+      "apiname": "ACHIEVEMENT_HOP_TURNSTILE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hopping the Turnstile",
+      "description": "Try to avoid paying the train fare."
+    },
+    {
+      "apiname": "ACHIEVEMENT_WOOD_WAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wood war",
+      "description": "Knock the other wooden planks into the water."
+    },
+    {
+      "apiname": "ACHIEVEMENT_SIREN_SONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siren Song",
+      "description": "Listen to the music through the microphone."
+    },
+    {
+      "apiname": "ACHIEVEMENT_OH_BUOY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oh Buoy!",
+      "description": "Find all the secrets floating in the map."
+    },
+    {
+      "apiname": "ACHIEVEMENT_BUBBLING_OVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bubbling Over",
+      "description": "Swim in a circle around the photo as the mother fish."
+    },
+    {
+      "apiname": "ACHIEVEMENT_FAN_SERVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan Service",
+      "description": "Activate the pinwheel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_KNOCK_DOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knock 'Em Down",
+      "description": "Knock down the umbrellas in the box."
+    },
+    {
+      "apiname": "ACHIEVEMENT_FLIPPER_FRIEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flipper Friend",
+      "description": "Play with the dolphin models."
+    },
+    {
+      "apiname": "ACHIEVEMENT_SINK_AND_SWIM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sink and Swim",
+      "description": "Swim the whole length of the pool without floating up."
+    },
+    {
+      "apiname": "ACHIEVEMENT_MIRROR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mirror, Mirror...",
+      "description": "Fix the mirror in one attempt."
+    },
+    {
+      "apiname": "ACHIEVEMENT_HOME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Sweet Home",
+      "description": "Finish the whole journey."
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_DONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Done!",
+      "description": "Unlock all other achievements."
+    }
+  ]
+}

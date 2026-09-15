@@ -1,0 +1,424 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 225260,
+  "game": "Brütal Legend",
+  "total": 59,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:39.096967+00:00",
+  "achievements": [
+    {
+      "apiname": "Prog_P1_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got a Car and a Date",
+      "description": "Complete \"Welcome to the Age of Metal\""
+    },
+    {
+      "apiname": "Prog_P1_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Start a Revolution",
+      "description": "Complete \"Exploited in the Bowels of Hell\""
+    },
+    {
+      "apiname": "Prog_P1_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thick as a Baby's Arm",
+      "description": "Complete \"Lair of the Metal Queen\""
+    },
+    {
+      "apiname": "Prog_P1_070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hair Remover",
+      "description": "Complete \"Battle for Bladehenge\""
+    },
+    {
+      "apiname": "Prog_P1_090",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "French Kiss Instructor",
+      "description": "Complete \"Pilgrimage of Screams\""
+    },
+    {
+      "apiname": "Prog_P1_110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chicks n' Booze n' Stuff",
+      "description": "Complete \"Sanctuary of Sin\""
+    },
+    {
+      "apiname": "Prog_P1_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ran to the Hills",
+      "description": "Complete \"It's Raining Death\""
+    },
+    {
+      "apiname": "Prog_P2_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fistful of Fog",
+      "description": "Complete \"Dry Ice, Wet Graves\""
+    },
+    {
+      "apiname": "Prog_P2_040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Tears",
+      "description": "Complete \"Sea of Black Tears\""
+    },
+    {
+      "apiname": "Col_Hunt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill",
+      "description": "Complete all hunting secondary missions"
+    },
+    {
+      "apiname": "Col_Race",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squeal Like a Chicken",
+      "description": "Complete all racing secondary missions"
+    },
+    {
+      "apiname": "Col_AmbushEscort",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protector",
+      "description": "Complete 20 ambush, outpost defense, or mortar secondary missions"
+    },
+    {
+      "apiname": "Col_100Percent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metal God",
+      "description": "Achieve 100% completion on the stats screen"
+    },
+    {
+      "apiname": "Col_40Pots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serpent Samaritan",
+      "description": "Free 40 Bound Serpents"
+    },
+    {
+      "apiname": "Col_80Pots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serpent Spanker",
+      "description": "Free 80 Bound Serpents"
+    },
+    {
+      "apiname": "Col_120Pots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serpent Savior",
+      "description": "Free all 120 Bound Serpents"
+    },
+    {
+      "apiname": "Col_1Upgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Hit Wonder",
+      "description": "Purchase 1 upgrade in the Motor Forge"
+    },
+    {
+      "apiname": "Col_AllUpgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loyal Customer",
+      "description": "Purchase all upgrades in the Motor Forge"
+    },
+    {
+      "apiname": "Col_AllSolos",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtuoso",
+      "description": "Learn all guitar solos"
+    },
+    {
+      "apiname": "Col_AllVistas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tourist",
+      "description": "View all vistas"
+    },
+    {
+      "apiname": "Col_AllLore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now You Must Tell the Tale",
+      "description": "View all Legends"
+    },
+    {
+      "apiname": "Col_AllSongs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voices From Beyond",
+      "description": "Unlock all songs in the Mouth of Metal"
+    },
+    {
+      "apiname": "Col_AllForges",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flowerslave",
+      "description": "Summon all Motor Forges"
+    },
+    {
+      "apiname": "Stage_AIMatch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Bloody Practice",
+      "description": "Win an AI stage battle - any difficulty"
+    },
+    {
+      "apiname": "Stage_1Win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victör",
+      "description": "Win a ranked multiplayer match"
+    },
+    {
+      "apiname": "Stage_10Wins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Subjügator",
+      "description": "Win 10 match-made multiplayer battles."
+    },
+    {
+      "apiname": "Stage_50Wins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cönquerer",
+      "description": "Win 50 match-made multiplayer battles."
+    },
+    {
+      "apiname": "Stage_ACoops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Flame",
+      "description": "Double Team with every Ironheade unit"
+    },
+    {
+      "apiname": "Stage_BCoops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Tear",
+      "description": "Double Team with every Drowning Doom unit"
+    },
+    {
+      "apiname": "Stage_DCoops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Blood",
+      "description": "Double Team with every Tainted Coil unit"
+    },
+    {
+      "apiname": "Stage_OnlyOrders",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armchair General",
+      "description": "Win a single-player Stage Battle against the AI using only orders"
+    },
+    {
+      "apiname": "Core_10kTributes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Favored",
+      "description": "Acquire 3,000 Fire Tributes"
+    },
+    {
+      "apiname": "Core_1MillionFans",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sellout",
+      "description": "Spend 250,000 fans - any mode"
+    },
+    {
+      "apiname": "Core_150DeuceKills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Demon Flesh on your Bumper",
+      "description": "Slay 150 enemies with the Deuce - any mode"
+    },
+    {
+      "apiname": "Core_300Kills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've never touched an axe before",
+      "description": "Personally smote 300 enemies - any mode"
+    },
+    {
+      "apiname": "Core_HangTime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silence, ground walker!",
+      "description": "Gain 5 or more seconds of hang time in a single jump - any mode"
+    },
+    {
+      "apiname": "Crazy_ViralSkirmish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Six Degrees of Schafer",
+      "description": "Play with or against another player who has this Achievement"
+    },
+    {
+      "apiname": "Crazy_ChopperCoop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ringleader",
+      "description": "Trap 15 enemies in one ring of fire with the Fire Baron's Double Team"
+    },
+    {
+      "apiname": "Crazy_CrusherCoop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Painkiller",
+      "description": "Kill 25 enemies with the grinder of one Rock Crusher"
+    },
+    {
+      "apiname": "Crazy_CarriageCoop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dollpocalypse",
+      "description": "Hit 6 enemies with the explosion from a Brood's Double Team"
+    },
+    {
+      "apiname": "Crazy_AgonyBall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Euthanasia",
+      "description": "Hit 15 enemies with one Agony Ball using the Pain Lifter's Double Team"
+    },
+    {
+      "apiname": "Crazy_BleedingDeath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death From Above",
+      "description": "Kill 20 enemies with one Bleeding Death"
+    },
+    {
+      "apiname": "Whimsy_Mastadon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coolest Thing Ever",
+      "description": "Jump over a Hextadon in the Deuce"
+    },
+    {
+      "apiname": "Whimsy_AnimalRide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Master",
+      "description": "Ride one of every ridable animal."
+    },
+    {
+      "apiname": "Whimsy_RazorFire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boar Bather",
+      "description": "Ride a Razorfire Boar into the Sea of Black Tears and live to tell the tale."
+    },
+    {
+      "apiname": "Whimsy_Tollusk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quill Tosser",
+      "description": "Kill a Tollusk using only Ground Urchins"
+    },
+    {
+      "apiname": "Prog_Campaign_Easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Groupie",
+      "description": "Complete Campaign mode on Gentle"
+    },
+    {
+      "apiname": "Prog_Campaign_Normal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roadie",
+      "description": "Complete Campaign mode on Normal"
+    },
+    {
+      "apiname": "Prog_Campaign_Hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend",
+      "description": "Complete Campaign mode on Brütal"
+    },
+    {
+      "apiname": "Stage_HardestAI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Fist",
+      "description": "Win an AI stage battle - Brütal difficulty"
+    },
+    {
+      "apiname": "DLC1_Ram",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carnivore",
+      "description": "Run down 20 animals in the Deuce with the Coiling Maw equipped."
+    },
+    {
+      "apiname": "DLC1_Blood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If You Want Blood, You Got It",
+      "description": "Kill 20 Tainted Coil units with the Disgorger."
+    },
+    {
+      "apiname": "DLC1_Tear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cry Me a River",
+      "description": "Kill 20 Drowning Doom units with the Eye of Sorrow."
+    },
+    {
+      "apiname": "DLC1_Beard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beard Beard Action Beard!",
+      "description": "Make out with Ophelia while wearing the Mountain Man Threads."
+    },
+    {
+      "apiname": "DLC1_Face",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Face Like a Beast",
+      "description": "Kill 15 enemies with a Metal Beast while wearing the Zaulia Threads."
+    },
+    {
+      "apiname": "DLC1_Tourist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hammer of Infinite Fate Tourist",
+      "description": "Play a multiplayer game on all Hammer of Infinite Fate multiplayer maps."
+    },
+    {
+      "apiname": "DLC1_Champion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hammer of Fate Champion",
+      "description": "Win 10 games on Hammer of Infinite Fate maps - ranked or vs. the Brütal AI."
+    },
+    {
+      "apiname": "DLC1_Whisper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whispering Rock",
+      "description": "Chisel four Razputin heads onto Mt. Rockmore."
+    },
+    {
+      "apiname": "DLC1_Sendoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Norwegian Sendoff",
+      "description": "Visit the grave of a fallen hero while wearing the Black Metal Threads."
+    }
+  ]
+}

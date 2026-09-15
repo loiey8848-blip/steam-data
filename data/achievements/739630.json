@@ -1,0 +1,389 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 739630,
+  "game": "Phasmophobia",
+  "total": 54,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:36.710349+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_REACH_PRESTIGE_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "III",
+      "description": "Reach Prestige III"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_BANSHEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banshee Discovered",
+      "description": "Successfully identify your first Banshee and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_DEMON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Discovered",
+      "description": "Successfully identify your first Demon  and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_DEOGEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deogen Discovered",
+      "description": "Successfully identify your first Deogen and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_GORYO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goryo Discovered",
+      "description": "Successfully identify your first Goryo and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_HANTU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hantu Discovered",
+      "description": "Successfully identify your first Hantu and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_JINN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jinn Discovered",
+      "description": "Successfully identify your first Jinn and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_MARE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mare Discovered",
+      "description": "Successfully identify your first Mare and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_Moroi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moroi Discovered",
+      "description": "Successfully identify your first Moroi and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_MYLING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Myling Discovered",
+      "description": "Successfully identify your first Myling and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_Obake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obake Discovered",
+      "description": "Successfully identify your first Obake and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_ONI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oni Discovered",
+      "description": "Successfully identify your first Oni and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_ONRYO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Onryo Discovered",
+      "description": "Successfully identify your first Onryo and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_PHANTOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phantom Discovered",
+      "description": "Successfully identify your first Phantom and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_POLTERGEIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poltergeist Discovered",
+      "description": "Successfully identify your first Poltergeist and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_RAIJU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raiju Discovered",
+      "description": "Successfully identify your first Raiju and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_REVENANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenant Discovered",
+      "description": "Successfully identify your first Revenant and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_SHADE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shade Discovered",
+      "description": "Successfully identify your first Shade and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_SPIRIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Discovered",
+      "description": "Successfully identify your first Spirit and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_THAYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thaye Discovered",
+      "description": "Successfully identify your first Thaye and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_THE_MIMIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mimic Discovered",
+      "description": "Successfully identify The Mimic for the first time"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_THE_TWINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Twins Discovered",
+      "description": "Successfully identify The Twins for the first time"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_WRAITH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wraith Discovered",
+      "description": "Successfully identify your first Wraith and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_YOKAI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yokai Discovered",
+      "description": "Successfully identify your first Yokai and survive"
+    },
+    {
+      "apiname": "ACH_IDENTIFY_YUREI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yurei Discovered",
+      "description": "Successfully identify your first Yurei and survive"
+    },
+    {
+      "apiname": "ACH_REACH_PRESTIGE_ONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I",
+      "description": "Reach Prestige I"
+    },
+    {
+      "apiname": "ACH_REACH_PRESTIGE_TWO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "II",
+      "description": "Reach Prestige II"
+    },
+    {
+      "apiname": "ACH_COMPLETE_100_CONTRACTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss",
+      "description": "Complete 100 contracts"
+    },
+    {
+      "apiname": "ACH_COMPLETE_50_CONTRACTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional",
+      "description": "Complete 50 contracts"
+    },
+    {
+      "apiname": "ACH_COMPLETE_10_CONTRACTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookie",
+      "description": "Complete 10 contracts"
+    },
+    {
+      "apiname": "ACH_SPEND_ONE_DOLLAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chump Change",
+      "description": "Spend $1"
+    },
+    {
+      "apiname": "ACH_SPEND_TEN_THOUSAND_DOLLARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fat Stack",
+      "description": "Spend $10,000"
+    },
+    {
+      "apiname": "ACH_SPEND_FIFTY_THOUSAND_DOLLARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cash Cow",
+      "description": "Spend $50,000"
+    },
+    {
+      "apiname": "ACH_SPEND_ONE_HUNDRED_THOUSAND_DOLLARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break The Bank",
+      "description": "Spend $100,000"
+    },
+    {
+      "apiname": "ACH_SPEND_COMPLETE_TRAINING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Training Wheels",
+      "description": "Complete Training"
+    },
+    {
+      "apiname": "ACH_COMPLETE_FIFTY_OPTIONAL_OBJECTIVES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Mile",
+      "description": "Complete 50 optional objectives"
+    },
+    {
+      "apiname": "ACH_WITNESS_POLTERGEIST_ABILITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They're here",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_YOUR_FIRST_CONTRACT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Work Experience",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GET_KILLED_BY_A_BANSHEE_IN_MULTIPLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bait",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DOOM_SLAYED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doom Slayed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BRONZE_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bronze Hunter",
+      "description": "Obtain the Bronze Apocalypse Trophy"
+    },
+    {
+      "apiname": "ACH_SILVER_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Hunter",
+      "description": "Obtain the Silver Apocalypse Trophy"
+    },
+    {
+      "apiname": "ACH_GOLD_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Hunter",
+      "description": "Obtain the Gold Apocalypse Trophy"
+    },
+    {
+      "apiname": "ACH_UNLOCK_TIER_ONE_EQUIPMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bare Essentials",
+      "description": "Unlock all tier one equipment"
+    },
+    {
+      "apiname": "ACH_UNLOCK_TIER_TWO_EQUIPMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Unlock all tier two equipment"
+    },
+    {
+      "apiname": "ACH_UNLOCK_TIER_THREE_EQUIPMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Loaded",
+      "description": "Unlock all tier three equipment"
+    },
+    {
+      "apiname": "ACH_COMPLETE_A_PERFECT_GAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Execution",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CREATE_A_CUSTOM_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Director",
+      "description": "Create a custom difficulty"
+    },
+    {
+      "apiname": "ACH_ESCAPE_A_REVENANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape Artist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_30_DAILY_TASKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated",
+      "description": "Complete 30 daily tasks"
+    },
+    {
+      "apiname": "ACH_COMPLETE_10_WEEKLY_TASKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devoted",
+      "description": "Complete 10 weekly tasks"
+    },
+    {
+      "apiname": "ACH_COMPLETE_A_WEEKLY_CHALLENGE_MODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenger Approaching",
+      "description": "Complete a weekly challenge mode"
+    },
+    {
+      "apiname": "ACH_COMPLETE_THE_WEEKLY_CHALLENGE_MODE_FIVE_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise to the Challenge",
+      "description": "Complete the weekly challenge mode 5 times"
+    },
+    {
+      "apiname": "ACH_COMPLETE_THE_WEEKLY_CHALLENGE_MODE_TEN_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking All Challenges",
+      "description": "Complete the weekly challenge mode 10 times"
+    }
+  ]
+}

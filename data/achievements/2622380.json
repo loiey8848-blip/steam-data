@@ -1,0 +1,270 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2622380,
+  "game": "ELDEN RING NIGHTREIGN",
+  "total": 37,
+  "unlocked": 5,
+  "percent": 13.5,
+  "updated_at_utc": "2026-09-15T06:52:52.854499+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightreign",
+      "description": "Earned all achievements"
+    },
+    {
+      "apiname": "ACH01",
+      "achieved": 1,
+      "unlocktime": 1766170391,
+      "name": "The Shrouded Roundtable Hold",
+      "description": "Reached the Shrouded Roundtable Hold"
+    },
+    {
+      "apiname": "ACH02",
+      "achieved": 1,
+      "unlocktime": 1766404099,
+      "name": "The Nightlords",
+      "description": ""
+    },
+    {
+      "apiname": "ACH03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Begins",
+      "description": ""
+    },
+    {
+      "apiname": "ACH04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Duchess Joins the Fray",
+      "description": ""
+    },
+    {
+      "apiname": "ACH05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Revenant Joins the Fray",
+      "description": ""
+    },
+    {
+      "apiname": "ACH06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dawn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH07",
+      "achieved": 1,
+      "unlocktime": 1766404026,
+      "name": "Tricephalos",
+      "description": ""
+    },
+    {
+      "apiname": "ACH08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gaping Jaw",
+      "description": ""
+    },
+    {
+      "apiname": "ACH09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentient Pest",
+      "description": ""
+    },
+    {
+      "apiname": "ACH10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Augur",
+      "description": ""
+    },
+    {
+      "apiname": "ACH11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equilibrious Beast",
+      "description": ""
+    },
+    {
+      "apiname": "ACH12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darkdrift Knight",
+      "description": ""
+    },
+    {
+      "apiname": "ACH13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fissure in the Fog",
+      "description": ""
+    },
+    {
+      "apiname": "ACH14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Aspect",
+      "description": ""
+    },
+    {
+      "apiname": "ACH15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightlord Conqueror",
+      "description": "Defeated all Nightlords"
+    },
+    {
+      "apiname": "ACH16",
+      "achieved": 1,
+      "unlocktime": 1766174137,
+      "name": "Relic",
+      "description": "Invoked the power of a relic for the first time"
+    },
+    {
+      "apiname": "ACH17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dresser",
+      "description": "Changed garb via dresser for the first time"
+    },
+    {
+      "apiname": "ACH18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vessel",
+      "description": "Acquired a new vessel and conducted a different relic rite for the first time"
+    },
+    {
+      "apiname": "ACH19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Armament",
+      "description": "Acquired a legendary armament for the first time"
+    },
+    {
+      "apiname": "ACH20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountaintop",
+      "description": ""
+    },
+    {
+      "apiname": "ACH21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Crater",
+      "description": ""
+    },
+    {
+      "apiname": "ACH22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rotted Woods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noklateo, the Shrouded City",
+      "description": ""
+    },
+    {
+      "apiname": "ACH24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shifting Earth",
+      "description": "Found the secrets of all Shifting Earth locations"
+    },
+    {
+      "apiname": "ACH25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obtained Vessels",
+      "description": "Acquired a great many vessels"
+    },
+    {
+      "apiname": "ACH26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Champion's Path",
+      "description": ""
+    },
+    {
+      "apiname": "ACH27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastery",
+      "description": ""
+    },
+    {
+      "apiname": "ACH28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Replenished Sacred Flasks",
+      "description": ""
+    },
+    {
+      "apiname": "ACH29",
+      "achieved": 1,
+      "unlocktime": 1766403391,
+      "name": "Untold Power",
+      "description": ""
+    },
+    {
+      "apiname": "ACH30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Gaol",
+      "description": ""
+    },
+    {
+      "apiname": "ACH31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Set and Steadfast",
+      "description": ""
+    },
+    {
+      "apiname": "ACH32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fell Omen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague of Locusts",
+      "description": ""
+    },
+    {
+      "apiname": "ACH34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Typhoon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Arbiter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightlord Slayer",
+      "description": ""
+    }
+  ]
+}

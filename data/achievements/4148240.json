@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4148240,
+  "game": "Road to Empress Ⅱ",
+  "total": 57,
+  "unlocked": 57,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:38.702770+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_400010",
+      "achieved": 1,
+      "unlocktime": 1780990534,
+      "name": "The Unfathomable Rear Palace 2.0",
+      "description": "Clear Chapter: The Unfathomable Rear Palace 2.0"
+    },
+    {
+      "apiname": "Achievement_400011",
+      "achieved": 1,
+      "unlocktime": 1781008401,
+      "name": "First Among the Nine Consorts",
+      "description": "Clear Chapter: First Among the Nine Consorts"
+    },
+    {
+      "apiname": "Achievement_400012",
+      "achieved": 1,
+      "unlocktime": 1781067139,
+      "name": "Claiming the Empress's Throne",
+      "description": "Clear Chapter: Claiming the Empress's Throne"
+    },
+    {
+      "apiname": "Achievement_400013",
+      "achieved": 1,
+      "unlocktime": 1781080428,
+      "name": "The Feast of Power",
+      "description": "Clear Chapter: The Feast of Power"
+    },
+    {
+      "apiname": "Achievement_400014",
+      "achieved": 1,
+      "unlocktime": 1781081576,
+      "name": "The Emperor and the Empress",
+      "description": "Clear Chapter: The Emperor and the Empress"
+    },
+    {
+      "apiname": "Achievement_400015",
+      "achieved": 1,
+      "unlocktime": 1781093406,
+      "name": "Sun and Moon in Harmony",
+      "description": "Clear Chapter: Sun and Moon in Harmony"
+    },
+    {
+      "apiname": "Achievement_400016",
+      "achieved": 1,
+      "unlocktime": 1781096324,
+      "name": "A Golden Age",
+      "description": "Completed: A Golden Age"
+    },
+    {
+      "apiname": "Achievement_400017",
+      "achieved": 1,
+      "unlocktime": 1781106976,
+      "name": "Ganye Temple, No Escape",
+      "description": "Clear Chapter: Ganye Temple, No Escape"
+    },
+    {
+      "apiname": "Achievement_400018",
+      "achieved": 1,
+      "unlocktime": 1781111822,
+      "name": "Beyond the Chains",
+      "description": "Clear Chapter: Beyond the Chains"
+    },
+    {
+      "apiname": "Achievement_400019",
+      "achieved": 1,
+      "unlocktime": 1781114058,
+      "name": "Another Life",
+      "description": "Clear Chapter: Another Life"
+    },
+    {
+      "apiname": "Achievement_400020",
+      "achieved": 1,
+      "unlocktime": 1781081320,
+      "name": "Getting the Hang of It",
+      "description": "Reach 50% exploration."
+    },
+    {
+      "apiname": "Achievement_400021",
+      "achieved": 1,
+      "unlocktime": 1781541626,
+      "name": "Master of All",
+      "description": "Reach 100% exploration."
+    },
+    {
+      "apiname": "Achievement_100010",
+      "achieved": 1,
+      "unlocktime": 1781078541,
+      "name": "Slap Specialist",
+      "description": "Slap Liu Xi 15 times. You've definitely been waiting for this chance."
+    },
+    {
+      "apiname": "Achievement_100011",
+      "achieved": 1,
+      "unlocktime": 1781069970,
+      "name": "Exactly My Type",
+      "description": "Choose \"Aunt, don't speak of Her Majesty that way.\" Aunt, you just don't get love."
+    },
+    {
+      "apiname": "Achievement_100012",
+      "achieved": 1,
+      "unlocktime": 1781069986,
+      "name": "Hard Worker",
+      "description": "Choose \"I enjoy doing chores.\" Hard workers deserve respect!"
+    },
+    {
+      "apiname": "Achievement_100013",
+      "achieved": 1,
+      "unlocktime": 1780996385,
+      "name": "Dragon Tamer",
+      "description": "Choose \"Flirt, then walk away.\" Why keep him around otherwise?"
+    },
+    {
+      "apiname": "Achievement_100014",
+      "achieved": 1,
+      "unlocktime": 1781063732,
+      "name": "Cold to the Core",
+      "description": "Choose \"My heart is cold, so my hands are cold too.\" Maybe try drinking more hot water?"
+    },
+    {
+      "apiname": "Achievement_100015",
+      "achieved": 1,
+      "unlocktime": 1781114796,
+      "name": "Sleep Can Wait",
+      "description": "Finish every conversation topic with your sister. Wide awake at night, dead asleep in the morning."
+    },
+    {
+      "apiname": "Achievement_100016",
+      "achieved": 1,
+      "unlocktime": 1781107970,
+      "name": "Knockout Artist",
+      "description": "Knock out 5 people in total."
+    },
+    {
+      "apiname": "Achievement_100017",
+      "achieved": 1,
+      "unlocktime": 1780992289,
+      "name": "That Sounds Familiar",
+      "description": "Choose \"I'm carrying Li Tai's baby!\" It works every time."
+    },
+    {
+      "apiname": "Achievement_100018",
+      "achieved": 1,
+      "unlocktime": 1781111293,
+      "name": "Raise Your Standards",
+      "description": "Doubt Xu Minhui's taste in people."
+    },
+    {
+      "apiname": "Achievement_100019",
+      "achieved": 1,
+      "unlocktime": 1780992009,
+      "name": "Time to Step In",
+      "description": "Free the girls sold to Mirage Pavilion."
+    },
+    {
+      "apiname": "Achievement_100020",
+      "achieved": 1,
+      "unlocktime": 1781114683,
+      "name": "Not A Good Match",
+      "description": "Choose \"I have a round face.\""
+    },
+    {
+      "apiname": "Achievement_200010",
+      "achieved": 1,
+      "unlocktime": 1780985212,
+      "name": "All Part of the Experience",
+      "description": "Trigger a bad ending for the first time. Don't worry, you'll get used to it!"
+    },
+    {
+      "apiname": "Achievement_200011",
+      "achieved": 1,
+      "unlocktime": 1780985240,
+      "name": "Time Rewind",
+      "description": "Use the backtrack feature for the first time."
+    },
+    {
+      "apiname": "Achievement_200012",
+      "achieved": 1,
+      "unlocktime": 1781096578,
+      "name": "Ready to Rule",
+      "description": "Review a memorial in Court for the first time."
+    },
+    {
+      "apiname": "Achievement_200013",
+      "achieved": 1,
+      "unlocktime": 1780985254,
+      "name": "Nimble Moves",
+      "description": "Complete a quick time event for the first time."
+    },
+    {
+      "apiname": "Achievement_200014",
+      "achieved": 1,
+      "unlocktime": 1780985443,
+      "name": "Distant Echoes",
+      "description": "Listen to a voice message for the first time."
+    },
+    {
+      "apiname": "Achievement_200015",
+      "achieved": 1,
+      "unlocktime": 1780991420,
+      "name": "Master Detective",
+      "description": "Activated Hint Mode for the first time on a storyline."
+    },
+    {
+      "apiname": "Achievement_200016",
+      "achieved": 1,
+      "unlocktime": 1780988680,
+      "name": "Prerequisite Clue",
+      "description": "Trigger a delayed bad ending for the first time."
+    },
+    {
+      "apiname": "Achievement_200017",
+      "achieved": 1,
+      "unlocktime": 1781096403,
+      "name": "The Throne Has Spoken",
+      "description": "Decide someone's fate in the Court mode for the first time."
+    },
+    {
+      "apiname": "Achievement_200018",
+      "achieved": 1,
+      "unlocktime": 1780986571,
+      "name": "Spread the Word",
+      "description": "Share for the first time."
+    },
+    {
+      "apiname": "Achievement_200019",
+      "achieved": 1,
+      "unlocktime": 1780985471,
+      "name": "Golden Butterfly Chase",
+      "description": "Use the \"current\" button for the first time."
+    },
+    {
+      "apiname": "Achievement_200020",
+      "achieved": 1,
+      "unlocktime": 1780986759,
+      "name": "Perfect for the Lazy",
+      "description": "Use Claim All for the first time. While others farm crops, you collect riches."
+    },
+    {
+      "apiname": "Achievement_200021",
+      "achieved": 1,
+      "unlocktime": 1780986588,
+      "name": "Curious Cat",
+      "description": "View a hidden video on the outcome page for the first time."
+    },
+    {
+      "apiname": "Achievement_200022",
+      "achieved": 1,
+      "unlocktime": 1780986864,
+      "name": "History Buff",
+      "description": "Enter the chapter list for the first time."
+    },
+    {
+      "apiname": "Achievement_500010",
+      "achieved": 1,
+      "unlocktime": 1781008412,
+      "name": "Whispers Behind Your Back",
+      "description": "View \"How Others See You\" 5 times in The Destiny chapter summary."
+    },
+    {
+      "apiname": "Achievement_500011",
+      "achieved": 1,
+      "unlocktime": 1781091884,
+      "name": "Tranquil Soul",
+      "description": "Achieve 25 or more non-bad endings."
+    },
+    {
+      "apiname": "Achievement_500012",
+      "achieved": 1,
+      "unlocktime": 1781153730,
+      "name": "Fragrance Lingers",
+      "description": "Spend a total of 999 Flowers. Don't forget to claim your exploration and feat rewards."
+    },
+    {
+      "apiname": "Achievement_500013",
+      "achieved": 1,
+      "unlocktime": 1781154195,
+      "name": "Flowing Vitality",
+      "description": "Spend a total of 999 Eggs. Don't forget to claim your exploration and feat rewards."
+    },
+    {
+      "apiname": "Achievement_500015",
+      "achieved": 1,
+      "unlocktime": 1781541693,
+      "name": "The Perfect Monarch",
+      "description": "Max out all five attributes. Emperor Sheng declares, \"Well, that's truly astonishing.\""
+    },
+    {
+      "apiname": "Achievement_500016",
+      "achieved": 1,
+      "unlocktime": 1781069922,
+      "name": "Archivist Extraordinaire",
+      "description": "Unlock all videos in the character profiles."
+    },
+    {
+      "apiname": "Achievement_500017",
+      "achieved": 1,
+      "unlocktime": 1781069394,
+      "name": "Screenshot Addict",
+      "description": "Take more than 10 screenshots."
+    },
+    {
+      "apiname": "Achievement_500019",
+      "achieved": 1,
+      "unlocktime": 1781347627,
+      "name": "Seen It All",
+      "description": "Reach every type of branch ending. There are 5 types in total."
+    },
+    {
+      "apiname": "Achievement_500020",
+      "achieved": 1,
+      "unlocktime": 1780986746,
+      "name": "Always Right",
+      "description": "Complete the personality prediction test."
+    },
+    {
+      "apiname": "Achievement_500021",
+      "achieved": 1,
+      "unlocktime": 1780991041,
+      "name": "Lingering Echoes",
+      "description": "Listen to more than 30 voice messages. Progress will be displayed at ending nodes."
+    },
+    {
+      "apiname": "Achievement_500022",
+      "achieved": 1,
+      "unlocktime": 1781078676,
+      "name": "Lingering Voices",
+      "description": "Listen to more than 100 voice messages. Progress will be displayed at ending nodes."
+    },
+    {
+      "apiname": "Achievement_300010",
+      "achieved": 1,
+      "unlocktime": 1781070047,
+      "name": "A Long Road Ahead",
+      "description": "Unlock over 50 endings in total."
+    },
+    {
+      "apiname": "Achievement_300011",
+      "achieved": 1,
+      "unlocktime": 1781112186,
+      "name": "Hard-won Fight",
+      "description": "Unlock over 100 endings in total."
+    },
+    {
+      "apiname": "Achievement_300012",
+      "achieved": 1,
+      "unlocktime": 1781153923,
+      "name": "Imperial Grace",
+      "description": "Promote over 9 people in an edict session."
+    },
+    {
+      "apiname": "Achievement_300013",
+      "achieved": 1,
+      "unlocktime": 1781347700,
+      "name": "Martial Arts Master",
+      "description": "Complete all quick time events."
+    },
+    {
+      "apiname": "Achievement_300014",
+      "achieved": 1,
+      "unlocktime": 1781114306,
+      "name": "Personalized Touch",
+      "description": "View your trait sketch."
+    },
+    {
+      "apiname": "Achievement_300015",
+      "achieved": 1,
+      "unlocktime": 1781154028,
+      "name": "Imperial Fury",
+      "description": "Demote over 9 people in an edict session."
+    },
+    {
+      "apiname": "Achievement_300016",
+      "achieved": 1,
+      "unlocktime": 1781096324,
+      "name": "Flow of the Past",
+      "description": "Open the Cleared Chapters Summary. You've come a long way."
+    },
+    {
+      "apiname": "Achievement_300019",
+      "achieved": 1,
+      "unlocktime": 1781516333,
+      "name": "Networking Pro",
+      "description": "Unlock all content in Characters."
+    },
+    {
+      "apiname": "Achievement_300020",
+      "achieved": 1,
+      "unlocktime": 1781113829,
+      "name": "Scholar Supreme",
+      "description": "Unlock all content in Collectibles."
+    },
+    {
+      "apiname": "Achievement_300021",
+      "achieved": 1,
+      "unlocktime": 1781516558,
+      "name": "Diligent Sovereign",
+      "description": "Review more than 25 memorials in Court."
+    }
+  ]
+}

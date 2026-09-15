@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3185000,
+  "game": "Skyline Urban Story",
+  "total": 40,
+  "unlocked": 1,
+  "percent": 2.5,
+  "updated_at_utc": "2026-09-15T06:53:27.306770+00:00",
+  "achievements": [
+    {
+      "apiname": "Population10W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Population of 100,000",
+      "description": "The city's population reaches 100,000."
+    },
+    {
+      "apiname": "Population30W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Population of 300,000",
+      "description": "The city's population reaches 300,000."
+    },
+    {
+      "apiname": "Population50W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Population of 500,000",
+      "description": "The city's population reaches 500,000."
+    },
+    {
+      "apiname": "Population100W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Population of 1,000,000",
+      "description": "The city's population reaches 1,000,000."
+    },
+    {
+      "apiname": "CBDLandPrice1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prosperous CBD",
+      "description": "Own a CBD with a total land price exceeding 40,000."
+    },
+    {
+      "apiname": "CBDLandPrice2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super CBD",
+      "description": "Own a CBD with a total land price exceeding 80,000."
+    },
+    {
+      "apiname": "RangeCount5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special Zone Operator 1",
+      "description": "Have 5 special zones."
+    },
+    {
+      "apiname": "MaxLandPrice1K",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prime Location 1",
+      "description": "The highest land price breaks through 1,000."
+    },
+    {
+      "apiname": "MaxLandPrice3K",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prime Location 2",
+      "description": "The highest land price breaks through 3,000."
+    },
+    {
+      "apiname": "MaxLandPrice5K",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prime Location 3",
+      "description": "The highest land price breaks through 5,000."
+    },
+    {
+      "apiname": "FirstBuildCityHall",
+      "achieved": 1,
+      "unlocktime": 1750992496,
+      "name": "The Place Where Dreams Begin",
+      "description": "Build City Hall for the First Time"
+    },
+    {
+      "apiname": "FirstBuildResearchLab",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research Journey",
+      "description": "Build Research Lab for the First Time"
+    },
+    {
+      "apiname": "FirstBuildBusStop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bus Arrival",
+      "description": "Build Bus Stop for the First Time"
+    },
+    {
+      "apiname": "FirstBuildSubwayStation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Subway Era",
+      "description": "Build Subway Station for the First Time"
+    },
+    {
+      "apiname": "FirstBuildUniversity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Higher Education",
+      "description": "Build University for the First Time"
+    },
+    {
+      "apiname": "FirstBuildPandaBank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panda Bank",
+      "description": "Build Panda Bank for the First Time"
+    },
+    {
+      "apiname": "FirstBuildFinancialCenter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Financial Center",
+      "description": "Build Financial Center for the First Time"
+    },
+    {
+      "apiname": "FirstBuildTechBuilding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Technology Building",
+      "description": "Build Technology Building for the First Time"
+    },
+    {
+      "apiname": "Score2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2000 points",
+      "description": "Reach a game score of 2000 in any map"
+    },
+    {
+      "apiname": "Score4000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "4000 points",
+      "description": "Reach a game score of 4000 in any map"
+    },
+    {
+      "apiname": "Score6000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "6000 points",
+      "description": "Reach a game score of 6000 in any map"
+    },
+    {
+      "apiname": "Score8000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "8000 points",
+      "description": "Reach a game score of 8000 in any map"
+    },
+    {
+      "apiname": "Score10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10000 points",
+      "description": "Reach a game score of 10000 in any map"
+    },
+    {
+      "apiname": "EasyPassMap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Clear",
+      "description": "Develop 1 map into a megacity under any difficulty level."
+    },
+    {
+      "apiname": "EasyPassMap3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Clear 2",
+      "description": "Develop 3 maps into megacities under any difficulty level."
+    },
+    {
+      "apiname": "NormalPassMap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Clear",
+      "description": "Develop 1 map into a megacity under normal difficulty."
+    },
+    {
+      "apiname": "NormalPassMap3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Clear 2",
+      "description": "Develop 3 maps into megacities under normal difficulty."
+    },
+    {
+      "apiname": "HardPassMap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Clear",
+      "description": "Develop 1 map into a megacity under hard difficulty."
+    },
+    {
+      "apiname": "HardPassMap3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Clear 2",
+      "description": "Develop 3 maps into megacities under hard difficulty."
+    },
+    {
+      "apiname": "MaxLandPrice10K",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prime Location 4",
+      "description": "The highest plot price breaks through 10,000"
+    },
+    {
+      "apiname": "Bankruptcy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City Bankruptcy",
+      "description": "Experienced a city bankruptcy."
+    },
+    {
+      "apiname": "RemovalLeader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Captain",
+      "description": "Demolished the entire city once in a single game."
+    },
+    {
+      "apiname": "Trade100W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trade Volume 1 Million",
+      "description": "Reached a total import/export trade volume of 1 million."
+    },
+    {
+      "apiname": "Metropolitan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metropolis",
+      "description": "Developed your city into a Metropolis on any map."
+    },
+    {
+      "apiname": "GDP5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GDP 500 Billion",
+      "description": "Achieved a GDP of 500 billion on any map."
+    },
+    {
+      "apiname": "Biohazard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biohazard",
+      "description": "Danger! A residential zone is within the radiation range of a nuclear power plant."
+    },
+    {
+      "apiname": "GlobalStage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Global stage",
+      "description": "Uploaded a leaderboard score once."
+    },
+    {
+      "apiname": "Population300W",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "3,000,000 Popoulation",
+      "description": "The city's population reaches 3,000,000."
+    },
+    {
+      "apiname": "GrandSlam",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Slam",
+      "description": "Construct 6 Legendary Buildings (unique)"
+    },
+    {
+      "apiname": "AllOrNothing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All or Nothing",
+      "description": "Take out all loans and have negative monthly income/budget"
+    }
+  ]
+}

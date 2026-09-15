@@ -1,0 +1,123 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2085360,
+  "game": "Insomnia: Theater in the Head",
+  "total": 16,
+  "unlocked": 16,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:41.445932+00:00",
+  "achievements": [
+    {
+      "apiname": "Progress_Prologue",
+      "achieved": 1,
+      "unlocktime": 1751635510,
+      "name": "A Bunch of New Ideas",
+      "description": "Complete Prologue: Roll on the Show!"
+    },
+    {
+      "apiname": "Progress_StageOne",
+      "achieved": 1,
+      "unlocktime": 1751635800,
+      "name": "Beautiful Tune of Time",
+      "description": "Complete Act I: The Tune of Time."
+    },
+    {
+      "apiname": "Progress_StageTwo",
+      "achieved": 1,
+      "unlocktime": 1751635986,
+      "name": "Fall Asleep When Burnt Out",
+      "description": "Complete Act II: The Nerve-Wracking News."
+    },
+    {
+      "apiname": "Progress_StageThree",
+      "achieved": 1,
+      "unlocktime": 1751636096,
+      "name": "Been Tossing and Turning",
+      "description": "Complete Act III: The Tossin' and Turnin'."
+    },
+    {
+      "apiname": "Progress_StageFour",
+      "achieved": 1,
+      "unlocktime": 1751636492,
+      "name": "Start All Over Again",
+      "description": "Complete Act IV: The Converging Course."
+    },
+    {
+      "apiname": "Progress_StageFive",
+      "achieved": 1,
+      "unlocktime": 1751637452,
+      "name": "Let Go of Some Memories",
+      "description": "Complete Act V: The Mingled Memories."
+    },
+    {
+      "apiname": "Progress_StageSix",
+      "achieved": 1,
+      "unlocktime": 1751637573,
+      "name": "Can't Hide the Emotions",
+      "description": "Complete Act VI: The Emerging Emotions."
+    },
+    {
+      "apiname": "Progress_StageSeven",
+      "achieved": 1,
+      "unlocktime": 1751637803,
+      "name": "Where to Go?",
+      "description": "Complete Act VII: Stray and Searching."
+    },
+    {
+      "apiname": "Progress_StageEight",
+      "achieved": 1,
+      "unlocktime": 1751638095,
+      "name": "Good Night",
+      "description": "See you next insomnia time."
+    },
+    {
+      "apiname": "Challenge_S0KnowAnswer",
+      "achieved": 1,
+      "unlocktime": 1751638167,
+      "name": "I Know What to Do",
+      "description": "Hit the elf by clicking the chain in Prologue."
+    },
+    {
+      "apiname": "Challenge_Sheep",
+      "achieved": 1,
+      "unlocktime": 1751638215,
+      "name": "Does Sheep-Counting Help?",
+      "description": "Count out 30 sheep in Act I or Act II."
+    },
+    {
+      "apiname": "Challenge_S2Like",
+      "achieved": 1,
+      "unlocktime": 1751638209,
+      "name": "Do It for Yourself",
+      "description": "Like all your posts in Act II."
+    },
+    {
+      "apiname": "Challenge_S4Laugh",
+      "achieved": 1,
+      "unlocktime": 1751636304,
+      "name": "People Will Forget",
+      "description": "Being mocked 3 times in Act IV."
+    },
+    {
+      "apiname": "Challenge_S5MinSteps",
+      "achieved": 1,
+      "unlocktime": 1751638353,
+      "name": "Say Goodbye to the Past",
+      "description": "Solve the \"snake puzzle\" within 6 steps in Act V."
+    },
+    {
+      "apiname": "Challenge_S8Painting",
+      "achieved": 1,
+      "unlocktime": 1751637983,
+      "name": "Something Left Behind",
+      "description": "Finish the painting in Act VIII."
+    },
+    {
+      "apiname": "Final_All",
+      "achieved": 1,
+      "unlocktime": 1751638353,
+      "name": "Let the Show Go On",
+      "description": "Complete all the achievements."
+    }
+  ]
+}

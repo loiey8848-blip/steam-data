@@ -1,0 +1,340 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 524220,
+  "game": "NieR:Automata™",
+  "total": 47,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:07.376339+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_VISITED_BUNKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resuscitated Body",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_VISITED_RUINS_CITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vestiges of Prosperity",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_DESERT_AREA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a Healthy Baby Boy!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_AMUSEMENT_PARK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Await Your Next Visit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_ALIEN_SHIP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creation and Insurrection",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_CASTLE_FOREST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mechanical Kingdom",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_SUBMERGE_CITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruler of the Deep",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_COPY_CITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Who Love Humans",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_ROBOT_MT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Soul",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Battle Ends",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Battle Begins",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SEE_2B_DIE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Wish",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PLAY_A2_FIRST_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treacherous Blade",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LAST_REQUEST_PASCAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farewell, Pascal",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_ROBOT_BROTHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Justice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEVOLA_NOVEL_END",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crime and Punishment",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_9S",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leaving for the New World",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CLEAR_A2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beautiful World",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TRUE_END",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Minds That Emerged",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_RECOVERY_SELF_CORPSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Circle of Death",
+      "description": "Have your body collected."
+    },
+    {
+      "apiname": "ACH_RECOVERY_CORPSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cherish Our Resources",
+      "description": "Have 100 bodies collected."
+    },
+    {
+      "apiname": "ACH_CLEAR_QUEST_FIRST_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Errand",
+      "description": "Complete your first quest."
+    },
+    {
+      "apiname": "ACH_CLEAR_MANY_QUEST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mercenary",
+      "description": "80% of all quests completed."
+    },
+    {
+      "apiname": "ACH_COLLECT_ARCHIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Information Master",
+      "description": "80% of all archives found."
+    },
+    {
+      "apiname": "ACH_COLLECT_EM_LIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destruction is My Job",
+      "description": "80% of all unit data unlocked."
+    },
+    {
+      "apiname": "ACH_COLLECT_CHIP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chip Collector",
+      "description": "80% of all plug-in chips collected."
+    },
+    {
+      "apiname": "ACH_HAS_ALL_ACTIVE_SKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons Maniac",
+      "description": "All Pod programs obtained."
+    },
+    {
+      "apiname": "ACH_WEAPON_LV_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Any weapon upgraded to the highest level."
+    },
+    {
+      "apiname": "ACH_WEAPON_LV_MAX_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inorganic Blade",
+      "description": "All weapons upgraded to the highest level."
+    },
+    {
+      "apiname": "ACH_POD_LV_MAX_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supreme Support Weapons",
+      "description": "All Pods upgraded to the highest level."
+    },
+    {
+      "apiname": "ACH_CLEAR_HACKING_9S",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fighting's Not My Thing",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HACKING_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Scanner's Power",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_REMOTO_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machines vs. Machines",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BERSERKER_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Power of Hate",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SHOOTING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruler of the Skies",
+      "description": "255 enemies destroyed using a flight unit."
+    },
+    {
+      "apiname": "ACH_EXTRACTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvest King",
+      "description": "Materials gathered at a hidden harvest point 10 times."
+    },
+    {
+      "apiname": "ACH_GET_ALL_POD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pod Hunter",
+      "description": "All Pods found."
+    },
+    {
+      "apiname": "ACH_RICH_MAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desire Without Emotion",
+      "description": "At least 100,000 G in possession."
+    },
+    {
+      "apiname": "ACH_ANIMAL_RUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal Rider",
+      "description": "Any animal ridden for 5 kilometers."
+    },
+    {
+      "apiname": "ACH_FISHING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Round by the Pond",
+      "description": "20 different kinds of fish caught."
+    },
+    {
+      "apiname": "ACH_NPC_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wait! Don't Kill Me!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SKIRT_ESCAPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Are You Doing?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PANTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not That I Mind...",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EMILE_SHOP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Take a Look!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_EM1010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naughty Children",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BAD_END",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transcendent Being",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CALL_AT_KAINES_ROOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lunar Tear",
+      "description": ""
+    }
+  ]
+}

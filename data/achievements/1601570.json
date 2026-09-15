@@ -1,0 +1,452 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1601570,
+  "game": "The Alters",
+  "total": 63,
+  "unlocked": 5,
+  "percent": 7.9,
+  "updated_at_utc": "2026-09-15T06:52:15.062777+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1749987041,
+      "name": "The survivor ",
+      "description": "Reach the base"
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1749991203,
+      "name": "Two of us",
+      "description": "Create the first Alter"
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1749989220,
+      "name": "Dig Deeper",
+      "description": "Set up the first outpost"
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1749991871,
+      "name": "Let's roll",
+      "description": "Finish the Prologue"
+    },
+    {
+      "apiname": "5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bridge",
+      "description": "Build a bridge over the lava river"
+    },
+    {
+      "apiname": "6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing's gonna stop us",
+      "description": "Finish Act 1"
+    },
+    {
+      "apiname": "7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the storm",
+      "description": "Finish Act 2"
+    },
+    {
+      "apiname": "8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to go home",
+      "description": "Finish Act 3"
+    },
+    {
+      "apiname": "9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Found You",
+      "description": "Find the rebel base"
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corporate Plug",
+      "description": ""
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bold Science",
+      "description": ""
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Her last wish",
+      "description": "Complete the Technician’s storyline"
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden truth",
+      "description": "Complete the Scientist’s storyline"
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping him safe",
+      "description": "Complete the Refiner’s storyline"
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remaking Himself",
+      "description": "Complete the Miner’s storyline"
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Other Man",
+      "description": "Complete the Botanist’s storyline"
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You gotta be smart",
+      "description": "Complete the Guard’s storyline"
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Sisyphus",
+      "description": "Complete the Doctor’s storyline"
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take it easy, Dude",
+      "description": "Complete the Shrink’s storyline"
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A place in people's hearts",
+      "description": "Complete the Worker’s storyline"
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assertiveness",
+      "description": "Learn the Technician’s lesson - Assertiveness"
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reliance",
+      "description": "Learn the Botanist’s lesson - Reliance"
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vulnerability",
+      "description": "Learn the Miner’s lesson - Vulnerability"
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charisma",
+      "description": "Learn the Worker's lesson - Charisma"
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Optimism",
+      "description": "Learn the Refiner’s lesson - Optimism"
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Integrity",
+      "description": "Learn the Doctor’s lesson - Integrity"
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chill",
+      "description": "Learn the Shrink’s lesson - Chill"
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrewdness",
+      "description": "Learn the Guard’s lesson - Shrewdness"
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joy of life",
+      "description": "Learn the Tabula Rasa’s lesson - Joy of Life"
+    },
+    {
+      "apiname": "30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pragmatism ",
+      "description": "Learn the Scientist’s lesson - Pragmatism "
+    },
+    {
+      "apiname": "31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Awareness",
+      "description": ""
+    },
+    {
+      "apiname": "32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who else is there?",
+      "description": "Upgrade the Quantum Computer"
+    },
+    {
+      "apiname": "33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ultimate Builder",
+      "description": "Build all possible modules"
+    },
+    {
+      "apiname": "34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunited ",
+      "description": ""
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Just An Object ",
+      "description": "Give every Alter at least one personal item"
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All by myselves ",
+      "description": "Create all possible Alters"
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Provide more",
+      "description": "Build the second Rapidium Ark"
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We needed that",
+      "description": "Build the third Rapidium Ark"
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The mission comes first",
+      "description": "Build the fourth Rapidium Ark"
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exceed all expectations",
+      "description": "Build the fifth Rapidium Ark"
+    },
+    {
+      "apiname": "41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jan Complete",
+      "description": "Learn all the lessons from your Alters"
+    },
+    {
+      "apiname": "42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smart Management",
+      "description": "Start a production uphold"
+    },
+    {
+      "apiname": "43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look at all this new space!",
+      "description": "Expand the base for the first time"
+    },
+    {
+      "apiname": "44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jan's Moving Village",
+      "description": "Expand the base to maximum capacity"
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1749989956,
+      "name": "Baaa!",
+      "description": "Pet the sheep"
+    },
+    {
+      "apiname": "46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Corporate Way",
+      "description": ""
+    },
+    {
+      "apiname": "47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxwell's Path",
+      "description": ""
+    },
+    {
+      "apiname": "48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced industry",
+      "description": "Create the first portion of resources using the Refinery"
+    },
+    {
+      "apiname": "49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In shield I trust",
+      "description": "Walk into an anomaly 20 times"
+    },
+    {
+      "apiname": "50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The things we do for love",
+      "description": ""
+    },
+    {
+      "apiname": "51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It ends in flames",
+      "description": "Blow up the base"
+    },
+    {
+      "apiname": "52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Made It Together",
+      "description": "Survive the magnetic storm"
+    },
+    {
+      "apiname": "53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New perspective",
+      "description": "Get an alternative tattoo with Naranath Bhranthan"
+    },
+    {
+      "apiname": "54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I deserved this more",
+      "description": ""
+    },
+    {
+      "apiname": "55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All By Myself",
+      "description": "Leave your Alters to the mercy of others"
+    },
+    {
+      "apiname": "56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Quantum Singularity",
+      "description": "Earn all trophies in the Alters"
+    },
+    {
+      "apiname": "101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Gardener",
+      "description": "Place the first Terraformer"
+    },
+    {
+      "apiname": "102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastering Rapidium",
+      "description": "Start production of Phased Rapidium"
+    },
+    {
+      "apiname": "103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mix and match",
+      "description": "Start production of Proxylium"
+    },
+    {
+      "apiname": "104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Substance Genius",
+      "description": "Start production of Megafluid"
+    },
+    {
+      "apiname": "105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wait, you can do that?",
+      "description": ""
+    },
+    {
+      "apiname": "106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caring after all",
+      "description": "Complete all Scientist's Alters' storylines"
+    },
+    {
+      "apiname": "107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The reason I stayed",
+      "description": "Finish the Last Variable DLC"
+    }
+  ]
+}

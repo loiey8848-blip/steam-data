@@ -1,0 +1,172 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1085660,
+  "game": "Destiny 2",
+  "total": 23,
+  "unlocked": 9,
+  "percent": 39.1,
+  "updated_at_utc": "2026-09-15T06:51:09.228564+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_1",
+      "achieved": 1,
+      "unlocktime": 1570718977,
+      "name": "Long and Winding Road",
+      "description": "Reach level 20."
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zavala's Lieutenant",
+      "description": "Acquire each Titan subclass."
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 1,
+      "unlocktime": 1570718103,
+      "name": "Cayde's Pathfinder",
+      "description": "Acquire each Hunter subclass."
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ikora's Protégé",
+      "description": "Acquire each Warlock subclass."
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 1,
+      "unlocktime": 1601537083,
+      "name": "Show Me What You Got",
+      "description": "Complete the \"Light Reforged\" quest."
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 1,
+      "unlocktime": 1650137247,
+      "name": "In A Flash",
+      "description": "Complete 5 Heroic Public Events."
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 1,
+      "unlocktime": 1601136772,
+      "name": "The People's Hero",
+      "description": "Complete a Heroic public event."
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 1,
+      "unlocktime": 1601214731,
+      "name": "Heart of Darkness",
+      "description": "Complete a Vanguard Ops activity on Master difficulty or higher."
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Life Exotic",
+      "description": "Collect 15 Red War exotic weapons or armor."
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenge Accepted",
+      "description": "Reach Weekly Rewards Rank 20 in the Seasonal Hub."
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Belly Of The Beast",
+      "description": "Complete an Ops Activity on Master difficulty or higher."
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Prestige",
+      "description": "Complete an Ops Activity on Grandmaster difficulty."
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 1,
+      "unlocktime": 1650198326,
+      "name": "Lest Ye Be Judged",
+      "description": "Encounter an Agent of the Nine somewhere in the system."
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 1,
+      "unlocktime": 1601565071,
+      "name": "Legends Grow",
+      "description": "Earn 5,000 Triumph points."
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exotique",
+      "description": "Collect 10 Forsaken Exotic weapons or armor."
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seal the Deal",
+      "description": "Complete a Triumph Seal."
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Statement",
+      "description": "Complete a Collections Badge."
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 1,
+      "unlocktime": 1601216354,
+      "name": "Heart of the Awoken",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Exotic Journey",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High-Stakes Play",
+      "description": "Win a Gambit match."
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darkness Falls",
+      "description": "Complete \"The Corrupted\" or \"Warden of Nothing\" on Master difficulty or higher."
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing Left to Say",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wishing for the Best",
+      "description": "Complete the \"Last Wish\" Raid."
+    }
+  ]
+}

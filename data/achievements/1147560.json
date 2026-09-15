@@ -1,0 +1,718 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1147560,
+  "game": "Skul: The Hero Slayer",
+  "total": 101,
+  "unlocked": 9,
+  "percent": 8.9,
+  "updated_at_utc": "2026-09-15T06:51:12.104648+00:00",
+  "achievements": [
+    {
+      "apiname": "TheLegendBegins",
+      "achieved": 1,
+      "unlocktime": 1747742330,
+      "name": "The Legend Begins",
+      "description": ""
+    },
+    {
+      "apiname": "RookieWelcome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookies Welcome",
+      "description": ""
+    },
+    {
+      "apiname": "Concentration",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Focus!",
+      "description": ""
+    },
+    {
+      "apiname": "GoHome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Home...",
+      "description": ""
+    },
+    {
+      "apiname": "DemonCastleRestoration",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Castle Restoration Plans",
+      "description": ""
+    },
+    {
+      "apiname": "SavedElderEnt",
+      "achieved": 1,
+      "unlocktime": 1747805871,
+      "name": "Rescued Elder Ent",
+      "description": ""
+    },
+    {
+      "apiname": "SavedElderEnt_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Movements",
+      "description": ""
+    },
+    {
+      "apiname": "TheendofGoldManeKnights",
+      "achieved": 1,
+      "unlocktime": 1747806805,
+      "name": "The End of the Gold Mane Knights",
+      "description": ""
+    },
+    {
+      "apiname": "TheendofGoldManeKnights_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Speed",
+      "description": ""
+    },
+    {
+      "apiname": "FakeGoddessGone",
+      "achieved": 1,
+      "unlocktime": 1747807740,
+      "name": "False Goddess, Disappear",
+      "description": ""
+    },
+    {
+      "apiname": "FakeGoddessGone_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Power",
+      "description": ""
+    },
+    {
+      "apiname": "LeoniasFall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fall of the Leonia Order",
+      "description": ""
+    },
+    {
+      "apiname": "LeoniasFall_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Levitator",
+      "description": ""
+    },
+    {
+      "apiname": "FirstHeroLastBattle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Battle of the First Hero",
+      "description": ""
+    },
+    {
+      "apiname": "FirstHeroLastBattle_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The God of Battle",
+      "description": ""
+    },
+    {
+      "apiname": "HeroSlayer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hero Killer",
+      "description": ""
+    },
+    {
+      "apiname": "SkeletonKing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Skeleton King",
+      "description": ""
+    },
+    {
+      "apiname": "ColdBlood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold-Blooded",
+      "description": ""
+    },
+    {
+      "apiname": "DwarfChandelier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dwarven Chandelier",
+      "description": ""
+    },
+    {
+      "apiname": "Manners",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rules of Etiquette",
+      "description": ""
+    },
+    {
+      "apiname": "WhattoBuy",
+      "achieved": 1,
+      "unlocktime": 1747741650,
+      "name": "What should I buy?",
+      "description": ""
+    },
+    {
+      "apiname": "BrainPoolOperation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brain at Full Throttle",
+      "description": ""
+    },
+    {
+      "apiname": "Chatterbox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Much of a Talker",
+      "description": ""
+    },
+    {
+      "apiname": "StockManagement",
+      "achieved": 1,
+      "unlocktime": 1747741927,
+      "name": "Inventory Management",
+      "description": ""
+    },
+    {
+      "apiname": "Skeleton_Sword",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Honorable Name",
+      "description": ""
+    },
+    {
+      "apiname": "Skeleton_Spear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charge! Again! And Again!",
+      "description": ""
+    },
+    {
+      "apiname": "Skeleton_Shield",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Offense is Defense",
+      "description": ""
+    },
+    {
+      "apiname": "EntSkul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian of Nature",
+      "description": ""
+    },
+    {
+      "apiname": "WereWolf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Greatest Werewolf",
+      "description": ""
+    },
+    {
+      "apiname": "Thief",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Back Alley King",
+      "description": ""
+    },
+    {
+      "apiname": "Recruit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Fanatic",
+      "description": ""
+    },
+    {
+      "apiname": "Gargoyle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon King Castle Gargoyle",
+      "description": ""
+    },
+    {
+      "apiname": "Clown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Start the Show",
+      "description": ""
+    },
+    {
+      "apiname": "Ghoul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominating Size",
+      "description": ""
+    },
+    {
+      "apiname": "GhostRider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rider Instincts",
+      "description": ""
+    },
+    {
+      "apiname": "Minotaurus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The King of the Labyrinth Returns",
+      "description": ""
+    },
+    {
+      "apiname": "Mummy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arms Expert",
+      "description": ""
+    },
+    {
+      "apiname": "GlacialSkull",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Embodiment of Cold",
+      "description": ""
+    },
+    {
+      "apiname": "BombSkul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explosions are a Work of Art",
+      "description": ""
+    },
+    {
+      "apiname": "AquaSkull",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Raging Wave",
+      "description": ""
+    },
+    {
+      "apiname": "Alchemist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Endless Appetite for Research",
+      "description": ""
+    },
+    {
+      "apiname": "Warrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Big to Be Called a Sword",
+      "description": ""
+    },
+    {
+      "apiname": "Genie",
+      "achieved": 1,
+      "unlocktime": 1747806003,
+      "name": "Praise Me!",
+      "description": ""
+    },
+    {
+      "apiname": "Hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Weapon: Bow",
+      "description": ""
+    },
+    {
+      "apiname": "RockStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Stylish Entrance",
+      "description": ""
+    },
+    {
+      "apiname": "Ninja",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Legendary Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "DarkPaladin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dark-Armored Knight",
+      "description": ""
+    },
+    {
+      "apiname": "HighWarlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From the Deep Abyss",
+      "description": ""
+    },
+    {
+      "apiname": "LivingArmor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Soul",
+      "description": ""
+    },
+    {
+      "apiname": "Berserker",
+      "achieved": 1,
+      "unlocktime": 1747742043,
+      "name": "The Unbreakable Pact",
+      "description": ""
+    },
+    {
+      "apiname": "Samurai",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Mystery of the Arts",
+      "description": ""
+    },
+    {
+      "apiname": "Predator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destructive Instincts",
+      "description": ""
+    },
+    {
+      "apiname": "ArchLich",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sealed Power",
+      "description": ""
+    },
+    {
+      "apiname": "Yaksha",
+      "achieved": 1,
+      "unlocktime": 1747807505,
+      "name": "The Dokkaebi’s Supernatural Stomp",
+      "description": ""
+    },
+    {
+      "apiname": "Fighter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Legend of the Arena",
+      "description": ""
+    },
+    {
+      "apiname": "GrimReaper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ruler of the Nether World",
+      "description": ""
+    },
+    {
+      "apiname": "Gambler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanna Play a Game With Me?",
+      "description": ""
+    },
+    {
+      "apiname": "StoneMonkey",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghostly Elusiveness",
+      "description": ""
+    },
+    {
+      "apiname": "GraveDigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Soul's Day",
+      "description": ""
+    },
+    {
+      "apiname": "Prisoner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beheaded",
+      "description": ""
+    },
+    {
+      "apiname": "DavyJones",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do you fear death?",
+      "description": ""
+    },
+    {
+      "apiname": "Wizard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Mage",
+      "description": ""
+    },
+    {
+      "apiname": "AnotherHarmonia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Side of Harmonia",
+      "description": ""
+    },
+    {
+      "apiname": "NewBeginning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Start",
+      "description": ""
+    },
+    {
+      "apiname": "BestCondition",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Condition",
+      "description": ""
+    },
+    {
+      "apiname": "TheCursedOne",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cursed",
+      "description": ""
+    },
+    {
+      "apiname": "HateTheSinnerButLoveTheSin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hate the Sinner, Love the Sin",
+      "description": ""
+    },
+    {
+      "apiname": "Darkheart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of Darkness",
+      "description": ""
+    },
+    {
+      "apiname": "TerribleOmen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terrible Omen",
+      "description": ""
+    },
+    {
+      "apiname": "SpecialGuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special Guest",
+      "description": ""
+    },
+    {
+      "apiname": "Allin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All-in",
+      "description": ""
+    },
+    {
+      "apiname": "CareerChoice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solid Career Choice",
+      "description": ""
+    },
+    {
+      "apiname": "BlessingOfSpiderGod",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spider God’s Protection",
+      "description": ""
+    },
+    {
+      "apiname": "DarkAbility",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Ability",
+      "description": ""
+    },
+    {
+      "apiname": "WorldsBest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Strongest",
+      "description": ""
+    },
+    {
+      "apiname": "BrokenWorld",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broken World",
+      "description": ""
+    },
+    {
+      "apiname": "DifficultAdventure",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Worthwhile Adventure",
+      "description": ""
+    },
+    {
+      "apiname": "CourageousAct",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Courageous Act",
+      "description": ""
+    },
+    {
+      "apiname": "ResultOfEffort",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Result of Your Efforts",
+      "description": ""
+    },
+    {
+      "apiname": "SelfConfidence",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self-confidence",
+      "description": ""
+    },
+    {
+      "apiname": "PatienceAndPerseverance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Energy and Perseverance",
+      "description": ""
+    },
+    {
+      "apiname": "ChallengeSpirit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit of Challenge",
+      "description": ""
+    },
+    {
+      "apiname": "AmazingStep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surprising Move",
+      "description": ""
+    },
+    {
+      "apiname": "PhenomenalSuccess",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phenomenal Success",
+      "description": ""
+    },
+    {
+      "apiname": "GreatAchievement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Achievement",
+      "description": ""
+    },
+    {
+      "apiname": "ImpossibleIsNothing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing is impossible",
+      "description": ""
+    },
+    {
+      "apiname": "TheWarBegins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The War Begins",
+      "description": ""
+    },
+    {
+      "apiname": "ThePowerofScience",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Power of Science!",
+      "description": ""
+    },
+    {
+      "apiname": "WitchsHelp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch's Help",
+      "description": ""
+    },
+    {
+      "apiname": "TruePeace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Peace",
+      "description": ""
+    },
+    {
+      "apiname": "HiddenExistence",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Existence",
+      "description": ""
+    },
+    {
+      "apiname": "DarkTechTank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark-Tech Tank",
+      "description": ""
+    },
+    {
+      "apiname": "TrueSalvation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Salvation",
+      "description": ""
+    },
+    {
+      "apiname": "BoneSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bone Specialist",
+      "description": ""
+    },
+    {
+      "apiname": "HallofGods",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hall of Gods",
+      "description": ""
+    },
+    {
+      "apiname": "Thor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God of Thunder",
+      "description": ""
+    },
+    {
+      "apiname": "Spartan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Tonight, We Dine in Hell!",
+      "description": ""
+    },
+    {
+      "apiname": "GuanYu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strength of 10,000 Men",
+      "description": ""
+    },
+    {
+      "apiname": "Hercules",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of the Night Sky",
+      "description": ""
+    },
+    {
+      "apiname": "KingArthur",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sword of Promised Victory",
+      "description": ""
+    },
+    {
+      "apiname": "Dominator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say My Name",
+      "description": ""
+    }
+  ]
+}

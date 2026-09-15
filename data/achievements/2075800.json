@@ -1,0 +1,382 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2075800,
+  "game": "STAR WARS Zero Company™",
+  "total": 53,
+  "unlocked": 53,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:34.633617+00:00",
+  "achievements": [
+    {
+      "apiname": "br.Online.Achievement.CompleteSergeant",
+      "achieved": 1,
+      "unlocktime": 1789116922,
+      "name": "Hired Gun",
+      "description": "Beat the game on Story or higher"
+    },
+    {
+      "apiname": "br.Online.Achievement.InAGalaxyFarFarAway",
+      "achieved": 1,
+      "unlocktime": 1788400993,
+      "name": "In a galaxy far, far away....",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.CompleteLieutenant",
+      "achieved": 1,
+      "unlocktime": 1789116922,
+      "name": "Veteran",
+      "description": "Beat the game on Normal or higher"
+    },
+    {
+      "apiname": "br.Online.Achievement.CustomizationDressCode",
+      "achieved": 1,
+      "unlocktime": 1788480053,
+      "name": "Dress Code",
+      "description": "Customized a member of Zero Company"
+    },
+    {
+      "apiname": "br.Online.Achievement.CompleteCaptain",
+      "achieved": 1,
+      "unlocktime": 1789116922,
+      "name": "Operator",
+      "description": "Beat the game on Hard or higher"
+    },
+    {
+      "apiname": "br.Online.Achievement.WhereCreditIsDue",
+      "achieved": 1,
+      "unlocktime": 1788435905,
+      "name": "Where Credit Is Due",
+      "description": "Made a purchase at The Black Market"
+    },
+    {
+      "apiname": "br.Online.Achievement.CompleteMajor",
+      "achieved": 1,
+      "unlocktime": 1789116922,
+      "name": "Captain",
+      "description": "Beat the game on Expert"
+    },
+    {
+      "apiname": "br.Online.Achievement.Legend",
+      "achieved": 1,
+      "unlocktime": 1789175803,
+      "name": "Legend",
+      "description": "Beat the game on Expert and Beskar Mode"
+    },
+    {
+      "apiname": "br.Online.Achievement.ScumAndVillainy",
+      "achieved": 1,
+      "unlocktime": 1788407555,
+      "name": "Scum And Villainy",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.FathomRevealed",
+      "achieved": 1,
+      "unlocktime": 1788479825,
+      "name": "Fathom Revealed",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.OneLessClanker",
+      "achieved": 1,
+      "unlocktime": 1788879311,
+      "name": "One Less Clanker",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.SkyHigh",
+      "achieved": 1,
+      "unlocktime": 1788940991,
+      "name": "Sky High",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.AWayToPassTheTime",
+      "achieved": 1,
+      "unlocktime": 1788968637,
+      "name": "A Way to Pass the Time",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.NeverTellMeTheOdds",
+      "achieved": 1,
+      "unlocktime": 1788482282,
+      "name": "Never Tell Me the Odds",
+      "description": "Landed a 10% or lower chance to hit shot!"
+    },
+    {
+      "apiname": "br.Online.Achievement.DoOrDoNot",
+      "achieved": 1,
+      "unlocktime": 1788407132,
+      "name": "Do or Do Not",
+      "description": "Missed a 90% or greater chance to hit shot!"
+    },
+    {
+      "apiname": "br.Online.Achievement.MordantReclaimed",
+      "achieved": 1,
+      "unlocktime": 1789012154,
+      "name": "Luunata Reclaimed",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ANewOrder",
+      "achieved": 1,
+      "unlocktime": 1789028935,
+      "name": "A New Order",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.Forceful",
+      "achieved": 1,
+      "unlocktime": 1788487478,
+      "name": "Forceful",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.JungleWarfare",
+      "achieved": 1,
+      "unlocktime": 1789031333,
+      "name": "Jungle Warfare",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.WithFriendsLikeThese",
+      "achieved": 1,
+      "unlocktime": 1789034777,
+      "name": "With Friends Like These",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.OldFriends",
+      "achieved": 1,
+      "unlocktime": 1788968637,
+      "name": "Old Friends",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.SharpShooters",
+      "achieved": 1,
+      "unlocktime": 1789148418,
+      "name": "Sharp Shooters",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ANaturalPartOfLife",
+      "achieved": 1,
+      "unlocktime": 1789119292,
+      "name": "A Natural Part of Life",
+      "description": "Lost a member of Zero Company"
+    },
+    {
+      "apiname": "br.Online.Achievement.YourFocusDeterminesYourReality",
+      "achieved": 1,
+      "unlocktime": 1788402074,
+      "name": "Your Focus Determines Your Reality",
+      "description": "Applied a Focus Point"
+    },
+    {
+      "apiname": "br.Online.Achievement.AnEndOfTheInfinite",
+      "achieved": 1,
+      "unlocktime": 1789116800,
+      "name": "An End of the Infinite",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.WarHorses",
+      "achieved": 1,
+      "unlocktime": 1789012881,
+      "name": "Mate and Marrow",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ClassAndDistinction",
+      "achieved": 1,
+      "unlocktime": 1789133459,
+      "name": "Class and Distinction",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.WordOfHonor",
+      "achieved": 1,
+      "unlocktime": 1789142314,
+      "name": "Word Of Honor",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.LostCauses",
+      "achieved": 1,
+      "unlocktime": 1789142314,
+      "name": "Lost Causes",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.HeroesOnBothSides",
+      "achieved": 1,
+      "unlocktime": 1789142314,
+      "name": "Heroes on Both Sides",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.UpstairsDownstairs",
+      "achieved": 1,
+      "unlocktime": 1789148038,
+      "name": "The Baroness and the Boxer",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ThickAsTheives",
+      "achieved": 1,
+      "unlocktime": 1789117193,
+      "name": "Thick as Thieves",
+      "description": "Reached Very High Bond between Two Custom Operators"
+    },
+    {
+      "apiname": "br.Online.Achievement.BeepBooooop",
+      "achieved": 1,
+      "unlocktime": 1789117193,
+      "name": "Beep Boop",
+      "description": "Reached Very High Bond between Two Astromechs"
+    },
+    {
+      "apiname": "br.Online.Achievement.TheTrooper",
+      "achieved": 1,
+      "unlocktime": 1789111361,
+      "name": "The Trooper",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.TheCommando",
+      "achieved": 1,
+      "unlocktime": 1789111361,
+      "name": "The Umbaran",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.TheFighter",
+      "achieved": 1,
+      "unlocktime": 1789012881,
+      "name": "The Prizefighter",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.TheBaroness",
+      "achieved": 1,
+      "unlocktime": 1789030286,
+      "name": "The Baroness",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.TheExile",
+      "achieved": 1,
+      "unlocktime": 1789112178,
+      "name": "The Mandalorian",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ThePadawan",
+      "achieved": 1,
+      "unlocktime": 1789112602,
+      "name": "The Padawan",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.ActiveDuty",
+      "achieved": 1,
+      "unlocktime": 1789177427,
+      "name": "Active Duty",
+      "description": "Completed 50 Optional Missions"
+    },
+    {
+      "apiname": "br.Online.Achievement.WatchThatFirstStep",
+      "achieved": 1,
+      "unlocktime": 1788486551,
+      "name": "Watch That First Step",
+      "description": "Knocked an enemy out of the combat space"
+    },
+    {
+      "apiname": "br.Online.Achievement.TheHighGround",
+      "achieved": 1,
+      "unlocktime": 1788482022,
+      "name": "The High Ground",
+      "description": "Defeated 10 enemies from a higher elevation"
+    },
+    {
+      "apiname": "br.Online.Achievement.AngryBeeps",
+      "achieved": 1,
+      "unlocktime": 1789149774,
+      "name": "*Angry Beeps*",
+      "description": "Completed a mission using 4 Astromechs"
+    },
+    {
+      "apiname": "br.Online.Achievement.IfYouKnowYouKnow",
+      "achieved": 1,
+      "unlocktime": 1789148038,
+      "name": "If You Know You Know",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.SeeYourOwnDemise",
+      "achieved": 1,
+      "unlocktime": 1789114956,
+      "name": "See Your Own Demise",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.SignHere",
+      "achieved": 1,
+      "unlocktime": 1788406253,
+      "name": "Sign Here",
+      "description": "Recruited an Operator"
+    },
+    {
+      "apiname": "br.Online.Achievement.FullRoster",
+      "achieved": 1,
+      "unlocktime": 1789031333,
+      "name": "Full Roster",
+      "description": "Recruited 20 Operators in a single campaign"
+    },
+    {
+      "apiname": "br.Online.Achievement.ToTheVictorTheSpoils",
+      "achieved": 1,
+      "unlocktime": 1788434826,
+      "name": "To the Victor Go the Spoils",
+      "description": "Unlocked a Zone Reward"
+    },
+    {
+      "apiname": "br.Online.Achievement.AcrossTheStars",
+      "achieved": 1,
+      "unlocktime": 1789029773,
+      "name": "Across the Stars",
+      "description": "Unlocked all the Zone Rewards"
+    },
+    {
+      "apiname": "br.Online.Achievement.ThereWillBeNoBargain",
+      "achieved": 1,
+      "unlocktime": 1789176233,
+      "name": "There Will Be No Bargain",
+      "description": ""
+    },
+    {
+      "apiname": "br.Online.Achievement.FullyGeared",
+      "achieved": 1,
+      "unlocktime": 1789012977,
+      "name": "Fully Geared",
+      "description": "Equipped 4 Weapon Mods to a Weapon"
+    },
+    {
+      "apiname": "br.Online.Achievement.SignatureFlair",
+      "achieved": 1,
+      "unlocktime": 1788908709,
+      "name": "Signature Flair",
+      "description": "Customized a Weapon"
+    },
+    {
+      "apiname": "br.Online.Achievement.CloneWarsCommander",
+      "achieved": 1,
+      "unlocktime": 1789177427,
+      "name": "Zero Company Legend",
+      "description": "Completed all other achievements"
+    }
+  ]
+}

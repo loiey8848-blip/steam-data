@@ -1,0 +1,403 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2350790,
+  "game": "Moonlighter 2: The Endless Vault",
+  "total": 56,
+  "unlocked": 7,
+  "percent": 12.5,
+  "updated_at_utc": "2026-09-15T06:52:45.688315+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH001_NAME",
+      "achieved": 1,
+      "unlocktime": 1788364738,
+      "name": "Back to Business",
+      "description": "Start a new chapter of Will's adventure!"
+    },
+    {
+      "apiname": "ACH002_NAME",
+      "achieved": 1,
+      "unlocktime": 1788395451,
+      "name": "Back on Track",
+      "description": "Open the Moonlighter."
+    },
+    {
+      "apiname": "ACH003_NAME",
+      "achieved": 1,
+      "unlocktime": 1788395531,
+      "name": "Wishing Well",
+      "description": "Meet the Endless Vault."
+    },
+    {
+      "apiname": "ACH004_NAME",
+      "achieved": 1,
+      "unlocktime": 1788395668,
+      "name": "Just Like Old Times",
+      "description": "Use the portal to take on a new adventure."
+    },
+    {
+      "apiname": "ACH006_NAME",
+      "achieved": 1,
+      "unlocktime": 1788396927,
+      "name": "Out of Tune",
+      "description": ""
+    },
+    {
+      "apiname": "ACH007_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fallen King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH008_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Unwelcome Guest",
+      "description": "Enter the Gallery for the first time."
+    },
+    {
+      "apiname": "ACH009_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forced Shutdown",
+      "description": "Defeat the Curator."
+    },
+    {
+      "apiname": "ACH010_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dismissal Letter",
+      "description": "Defeat Tyke."
+    },
+    {
+      "apiname": "ACH011_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overture",
+      "description": "Enter Aeolia for the first time."
+    },
+    {
+      "apiname": "ACH012_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wind Slumber",
+      "description": "Defeat Senda."
+    },
+    {
+      "apiname": "ACH013_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet Petrichor",
+      "description": "Defeat Monte."
+    },
+    {
+      "apiname": "ACH014_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrong Home",
+      "description": "Meet Moloch for the first time."
+    },
+    {
+      "apiname": "ACH015_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Part-time Adventurer",
+      "description": "Craft one weapon of each type."
+    },
+    {
+      "apiname": "ACH016_NAME",
+      "achieved": 1,
+      "unlocktime": 1788397604,
+      "name": "Shop Sweet Shop",
+      "description": "Customize your shop for the first time."
+    },
+    {
+      "apiname": "ACH017_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Flee",
+      "description": "Escape with the pendant 10 times."
+    },
+    {
+      "apiname": "ACH018_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wild Card",
+      "description": "Use 10 different Shop Perks."
+    },
+    {
+      "apiname": "ACH019_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Price of Greed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH020_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pet the Bloblet",
+      "description": ""
+    },
+    {
+      "apiname": "ACH021_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pocket-sized Burglar",
+      "description": ""
+    },
+    {
+      "apiname": "ACH022_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return of the Retailer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH023_NAME",
+      "achieved": 1,
+      "unlocktime": 1788451593,
+      "name": "Novice Merchant",
+      "description": "Complete the 1st challenge of the Endless Vault.a"
+    },
+    {
+      "apiname": "ACH024_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trainee Merchant",
+      "description": "Complete the 2nd challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH025_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Average Merchant",
+      "description": "Complete the 3rd challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH026_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Merchant",
+      "description": "Complete the 4th challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH028_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Venture",
+      "description": "Upgrade the Moonlighter to level 2."
+    },
+    {
+      "apiname": "ACH029_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Growing Business",
+      "description": "Upgrade the Moonlighter to level 3."
+    },
+    {
+      "apiname": "ACH030_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Market Recon",
+      "description": "Discover all prices of a relic."
+    },
+    {
+      "apiname": "ACH031_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Impulse Purchases",
+      "description": "Spend a total of 123,456 gold."
+    },
+    {
+      "apiname": "ACH032_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Persistent Hunter",
+      "description": "Defeat 365 enemies."
+    },
+    {
+      "apiname": "ACH033_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Looter",
+      "description": "Open 100 chests."
+    },
+    {
+      "apiname": "ACH034_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Run",
+      "description": "Defeat 50 enemies by ejecting them with the backpack."
+    },
+    {
+      "apiname": "ACH035_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Shoot 100 enemies with your Gun."
+    },
+    {
+      "apiname": "ACH036_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bag of Holding",
+      "description": "Add 10 capacity slots to your backpack."
+    },
+    {
+      "apiname": "ACH037_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Humble Hero",
+      "description": "Defeat a boss with the broom."
+    },
+    {
+      "apiname": "ACH038_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Skilled Hand",
+      "description": "Raise the quality of a relic to 250 or higher."
+    },
+    {
+      "apiname": "ACH039_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Egg",
+      "description": "Sell a relic for 10,000 gold or more."
+    },
+    {
+      "apiname": "ACH040_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last Units",
+      "description": "Sell 20 different relics at a Perfect price."
+    },
+    {
+      "apiname": "ACH027_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chosen Merchant",
+      "description": "Complete the 5th challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH041_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Merchant",
+      "description": "Complete the 6th challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH043_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twilight Knight",
+      "description": "Complete the Ultimate Kalina Challenge."
+    },
+    {
+      "apiname": "ACH044_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Pill",
+      "description": "Complete the Ultimate Gallery Challenge."
+    },
+    {
+      "apiname": "ACH045_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream Catcher",
+      "description": "Complete the Ultimate Aeolia Challenge."
+    },
+    {
+      "apiname": "ACH046_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Between Dimensions",
+      "description": "Complete the Ultimate Interdimensional Challenge."
+    },
+    {
+      "apiname": "ACH047_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Companion",
+      "description": "Rescue your first Bloblet."
+    },
+    {
+      "apiname": "ACH048_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloblet Collector",
+      "description": "Rescue 20 Bloblets."
+    },
+    {
+      "apiname": "ACH049_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloblet Rescue Center",
+      "description": "Adopt all Bloblets."
+    },
+    {
+      "apiname": "ACH050_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Aid Kit",
+      "description": "Get all Wooden Hat upgrades."
+    },
+    {
+      "apiname": "ACH051_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full-Patch Fighter",
+      "description": "Get all Le Patchelier's patches."
+    },
+    {
+      "apiname": "ACH052_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Backpack",
+      "description": "Increase your backpack's capacity to max."
+    },
+    {
+      "apiname": "ACH056_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sold Out!",
+      "description": "Get all the achievements."
+    },
+    {
+      "apiname": "ACH042_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Merchant",
+      "description": "Complete the 7th challenge of the Endless Vault."
+    },
+    {
+      "apiname": "ACH053_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Moonlighter",
+      "description": "Upgrade the Moonlighter to max. level."
+    },
+    {
+      "apiname": "ACH054_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rooting for You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH055_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Ends With You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH057_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Emporium",
+      "description": "Upgrade the Moonlighter to level 4."
+    }
+  ]
+}

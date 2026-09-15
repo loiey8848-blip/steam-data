@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 312670,
+  "game": "Strange Brigade",
+  "total": 60,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:19.007854+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_ALL_CATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hooked on a Feline",
+      "description": "Collect all the Cat Idols"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_JARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "When is a door not a door?",
+      "description": "Collect all the Canopic Jars"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_RELICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To preserve the past is to save the future",
+      "description": "Complete the Main Relic Collection"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_DIARIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purloined Letters",
+      "description": "Complete the Main Diary Collection"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DISTANCE_TRAVELLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "7 league boots",
+      "description": "Travel for a little over 24 miles"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Armoury",
+      "description": "Unlock all the weapons"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_AMULETS_GEMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Mystical",
+      "description": "Unlock/Find every kind of Amulet and Gem"
+    },
+    {
+      "apiname": "ACHIEVEMENT_AMULET_ATTACK_CHAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nobody Likes a Show-Off",
+      "description": "Chain 3 Amulet Attacks in a row"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SETEKI_LEAVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For King and Country",
+      "description": "Banish Ammit and defeat Seteki without delivering the Coup de Grace"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SETEKI_SHOOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smile, you Son of a B…",
+      "description": "Shoot Seteki from Ammit's Jaws"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ENEMIES_KILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Out",
+      "description": "Kill 501 Enemies"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ENEMIES_MELEED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queensberry Rules, ok?",
+      "description": "Flatten 100 enemies with a melee attack"
+    },
+    {
+      "apiname": "ACHIEVEMENT_GOLD_FROM_CHESTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minted",
+      "description": "Collect 10000 Gold from Chests"
+    },
+    {
+      "apiname": "ACHIEVEMENT_POTTERY_VANDAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What have you got against pottery?",
+      "description": "Destroy 100 pots"
+    },
+    {
+      "apiname": "ACHIEVEMENT_MANY_DEATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pharoah's Curse",
+      "description": "Die 50 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIND_RELIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's not theft if you put it in a museum",
+      "description": "Find a Relic"
+    },
+    {
+      "apiname": "ACHIEVEMENT_POTION_DRINKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Medicinal Purposes",
+      "description": "Drink 6 health potions within a level without dying or restarting"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SERIAL_REVIVEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is Becoming A Little Awkward",
+      "description": "Exit a Sarcophagus 5 times without restarting"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SKELETONS_KILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hydra's Teeth",
+      "description": "Kill 100 skeletons"
+    },
+    {
+      "apiname": "ACHIEVEMENT_LOW_HEALTH_DURATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The trick is not minding that it hurts",
+      "description": "Spend a total of 20 minute at the low health level"
+    },
+    {
+      "apiname": "ACHIEVEMENT_USE_ALL_CHARACTERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's no 'I' in Team…but there is a 'me'",
+      "description": "Complete a level with each of the first four Brigade members"
+    },
+    {
+      "apiname": "ACHIEVEMENT_PUZZLE_PRO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tinker, Tailor, Soldier, Savant",
+      "description": "Solve every kind of puzzle door across the game"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ONE_SHOT_MULTI_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capital shot!",
+      "description": "Kill 3 enemies with a single shot"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ANNOY_NARRATOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Simply Doesn't Rush These Things",
+      "description": "Annoy the Narrator"
+    },
+    {
+      "apiname": "ACHIEVEMENT_MELEE_SPEED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "These Are My Fighting Trousers",
+      "description": "Melee kill 5 enemies in 30 seconds"
+    },
+    {
+      "apiname": "ACHIEVEMENT_LOW_HEALTH_KILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stiff Upper Lip",
+      "description": "Kill 20 enemies while on low health"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DESTROY_SOUL_CAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Save Our Souls",
+      "description": "Destroy a Soul Cage"
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_HARBINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wonderful Things",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_POND_PATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bully For You!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_TUNNELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mote out of thine eye",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_STONE_CHURCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get down, Shep!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_SACRED_CAVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dangers Untold",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_VILLAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hammer of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_STORM_TOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A secret door to another world?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LEVEL_GREAT_PYRAMID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eye say!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_HORDE_BEAT_ROUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back From the Mouth of Hell",
+      "description": "Complete the First Round in Horde"
+    },
+    {
+      "apiname": "ACHIEVEMENT_HORDE_CANT_TOUCH_THIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evasive Action",
+      "description": "Get to Horde Wave 4 without taking any damage"
+    },
+    {
+      "apiname": "ACHIEVEMENT_HORDE_GOLD_DOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pay the Piper",
+      "description": "Open a Gold Door in Horde"
+    },
+    {
+      "apiname": "ACHIEVEMENT_COOP_TEAM_MATE_REVIVES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everybody needs a hobby",
+      "description": "Rescue a teammate from a sarcophagus 10 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_COOP_GOLD_HOG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm stuck with a valuable friend",
+      "description": "Collect double the Gold of each of your teammates"
+    },
+    {
+      "apiname": "ACHIEVEMENT_COOP_TEAM_MATE_KILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now That's Just Not Cricket",
+      "description": "Kill a teammate with any kind of trap"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1_ALL_CATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cat got your tongue?",
+      "description": "Collect the golden Cat Idol from the jungle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1_ALL_RELICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pirates' Plunder!",
+      "description": "Dig up all of the figures lost to the jungle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1_ALL_JARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A smashing good time! ",
+      "description": "Destroy all Canopic Jars hidden in the jungle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1_ALL_DIARIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Read!",
+      "description": "Find all of the Diaries in the jungle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1_LEVEL_JUNGLE_ISLAND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By George, I think they've got it!",
+      "description": "Collect the first half of the Shield of Bes"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2_ALL_CATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The cat that got the cream....",
+      "description": "Collect the Cat Idol from the cave"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2_ALL_RELICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasures of the Earth!",
+      "description": "Unearth all of the figures lost to the cave"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2_ALL_JARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conopic chaos complete!",
+      "description": "Destroy all Canopic Jars hidden in the cave"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2_ALL_DIARIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is power!",
+      "description": "Find all of the Diaries in the cave"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2_LEVEL_CAVE_TEMPLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The heart of the mountain!",
+      "description": "Collect the second half of the shield of Bes"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_ALL_CATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combing the Cat-a-combs",
+      "description": "Collect the Cat Idol from beyond the Pyramids"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_ALL_RELICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Action-Figures!",
+      "description": "Find all of the figures lost in Egypt"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_ALL_JARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't go breaking my jar!",
+      "description": "Destroy all Canopic Jars hidden at the Pyramid"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_ALL_DIARIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...and read all over!",
+      "description": "Find all Diaries near the Pyramid"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_LEVEL_NEW_EGYPT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is that the Bes you can do?",
+      "description": "Reassemble the Shield of Bes"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_3_KILL_SETEKI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And stay down!",
+      "description": "Defeat the evil that lurks in the Pyramid"
+    },
+    {
+      "apiname": "ACHIEVEMENT_PHOTO_FIRST_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snap Decision",
+      "description": "Enter photo mode"
+    },
+    {
+      "apiname": "ACHIEVEMENT_PHOTO_PLAYER_PIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Portrait of an adventurer",
+      "description": "Unhide the player and hide UI in a picture. Point camera at the player"
+    },
+    {
+      "apiname": "ACHIEVEMENT_EXTREME_LEVELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Definition of courage",
+      "description": "Complete the game on Extreme difficulty"
+    }
+  ]
+}

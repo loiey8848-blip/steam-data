@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 967050,
+  "game": "Pacify",
+  "total": 52,
+  "unlocked": 11,
+  "percent": 21.2,
+  "updated_at_utc": "2026-09-15T06:51:06.767110+00:00",
+  "achievements": [
+    {
+      "apiname": "LIGHT_FIRE",
+      "achieved": 1,
+      "unlocktime": 1774114277,
+      "name": "Start a fire!",
+      "description": "Start a fire in the boiler."
+    },
+    {
+      "apiname": "BURN_DOLL",
+      "achieved": 1,
+      "unlocktime": 1774114475,
+      "name": "Burn a Doll",
+      "description": "Burn a darkness doll in the boiler."
+    },
+    {
+      "apiname": "BURN_WRONG",
+      "achieved": 1,
+      "unlocktime": 1774939835,
+      "name": "Wrong Doll",
+      "description": "Burn a Pacify doll in the boiler."
+    },
+    {
+      "apiname": "KEY_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Key Master",
+      "description": "Collect all keys in single player or cooperative mode."
+    },
+    {
+      "apiname": "KEY_HOARDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Key Hoarder",
+      "description": "Hold all the keys at once in player versus player mode."
+    },
+    {
+      "apiname": "PACIFY_HER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacify Her",
+      "description": "Give the girl a doll when she is a monster."
+    },
+    {
+      "apiname": "LOVE_LORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I love lore!",
+      "description": "Read all notes."
+    },
+    {
+      "apiname": "PVP_BULLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bully",
+      "description": "Push someone down in player versus player."
+    },
+    {
+      "apiname": "YOU_DOLL",
+      "achieved": 1,
+      "unlocktime": 1774111262,
+      "name": "You are a doll.",
+      "description": "Get attacked by the girl."
+    },
+    {
+      "apiname": "SINGLE_WIN",
+      "achieved": 1,
+      "unlocktime": 1774939982,
+      "name": "One Man Team",
+      "description": "Win the game in single player mode."
+    },
+    {
+      "apiname": "COOP_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Win with Friends",
+      "description": "Win the game in cooperative mode."
+    },
+    {
+      "apiname": "PVP_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy the competition.",
+      "description": "Win the game in player versus player mode."
+    },
+    {
+      "apiname": "SAVE_FRIEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Save a friend",
+      "description": "Give the girl a pacify doll while she is attacking a player."
+    },
+    {
+      "apiname": "REVIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revive yourself",
+      "description": "Burn yourself in the boiler and become normal again."
+    },
+    {
+      "apiname": "BEAT_DEV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat the game developer",
+      "description": "Win a single player session in under 20 minutes."
+    },
+    {
+      "apiname": "BURN_GIRL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn the girl",
+      "description": ""
+    },
+    {
+      "apiname": "CHICKEN_HUNT",
+      "achieved": 1,
+      "unlocktime": 1774111385,
+      "name": "Chicken Hunter",
+      "description": "Knockout a chicken on the farm."
+    },
+    {
+      "apiname": "FILL_UP",
+      "achieved": 1,
+      "unlocktime": 1774112056,
+      "name": "Fill it up",
+      "description": "Use the water trough on the farm."
+    },
+    {
+      "apiname": "POISON_WATER",
+      "achieved": 1,
+      "unlocktime": 1774112059,
+      "name": "Poison the Water",
+      "description": "Use a bag of poison in the trough on the farm."
+    },
+    {
+      "apiname": "POISON_CHICKEN",
+      "achieved": 1,
+      "unlocktime": 1774112131,
+      "name": "Seasoned Chicken",
+      "description": "Dunk a chicken in the poisoned water."
+    },
+    {
+      "apiname": "WEAK_MONSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weaken The Monster",
+      "description": "Feed the farm monster a poisoned chicken."
+    },
+    {
+      "apiname": "YUMMY_CHICKEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yummy Chicken",
+      "description": "Feed the farm monster a chicken."
+    },
+    {
+      "apiname": "COOL_STORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interesting Story",
+      "description": "Read all of the notes on the farm."
+    },
+    {
+      "apiname": "HEAVY_LOAD",
+      "achieved": 1,
+      "unlocktime": 1774113615,
+      "name": "Heavy Load",
+      "description": "Pick up the farm monster with the wheel barrow."
+    },
+    {
+      "apiname": "MAGIC_WIND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magical Windmill",
+      "description": "Get revived in the windmill."
+    },
+    {
+      "apiname": "RUSTY_LOCKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rusty Old Locks",
+      "description": "Break open all of the locks on the farm."
+    },
+    {
+      "apiname": "FARM_SOLO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farm Solo",
+      "description": "Dare to play on the farm alone."
+    },
+    {
+      "apiname": "COOP_FARM",
+      "achieved": 1,
+      "unlocktime": 1774111442,
+      "name": "Cooped up on the farm!",
+      "description": "Play on the farm in cooperative mode."
+    },
+    {
+      "apiname": "PVP_FARM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free For All Farm",
+      "description": "Play on the farm in player versus player mode."
+    },
+    {
+      "apiname": "BEAT_DEV_II",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat the Game Developer II",
+      "description": "Win a single player session on the farm in under 30 minutes."
+    },
+    {
+      "apiname": "COOP_WOODS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore The Creepy Woods Together",
+      "description": "Play in the woods in cooperative mode."
+    },
+    {
+      "apiname": "PVP_WOODS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who Cares About The Team",
+      "description": "Play in the woods in player versus player mode."
+    },
+    {
+      "apiname": "SOLO_WOODS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only You And The Witch",
+      "description": "Be fearless and play in the woods all alone."
+    },
+    {
+      "apiname": "WITCH_BREW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch's Brew",
+      "description": "Combine the ingredients in the cauldron."
+    },
+    {
+      "apiname": "RELEASE_POWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Release The Power",
+      "description": "Impale an enchanted doll of twigs."
+    },
+    {
+      "apiname": "POOR_PUPPY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poor Puppy",
+      "description": "Snip off the tail of a puppy."
+    },
+    {
+      "apiname": "WORK_HOME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Work From Home",
+      "description": "Find the witch's lair."
+    },
+    {
+      "apiname": "CAPTURE_WITCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capture The Witch!",
+      "description": "Weaken the witch and bring her to the van in the woods."
+    },
+    {
+      "apiname": "RELEASE_SPIRITS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Release The Children's Spirits",
+      "description": ""
+    },
+    {
+      "apiname": "BEAT_DEV_III",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat the Game Developer III",
+      "description": "Win a single player session in the woods in under 20 minutes."
+    },
+    {
+      "apiname": "WITCH_STORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Notes From a Lost Child",
+      "description": "Read all of the notes from the lost child in the woods."
+    },
+    {
+      "apiname": "WELCOME_HQ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to PAH HQ",
+      "description": "Help at the headquarters during the power outage in cooperative mode."
+    },
+    {
+      "apiname": "YOU_HQ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Can Do It!",
+      "description": "Take on the headquarters during the power outage all by yourself."
+    },
+    {
+      "apiname": "POWER_IT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power it up",
+      "description": "Place a charged battery in a battery socket."
+    },
+    {
+      "apiname": "CHARGE_IT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charge it",
+      "description": "Charge a battery to full."
+    },
+    {
+      "apiname": "CREEPY_EXP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creepy Experience",
+      "description": "Solve the haunted simulation."
+    },
+    {
+      "apiname": "DONT_DO_IT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Do That",
+      "description": "Let a monster out of its cell, yourself."
+    },
+    {
+      "apiname": "POWER_LCU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get back in there!",
+      "description": "Power the Lesser Containment Unit."
+    },
+    {
+      "apiname": "SELF_DESTRUCT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self Destruct",
+      "description": "Run out of time during the self destruct sequence."
+    },
+    {
+      "apiname": "ZERO_DEATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Don't get hurt once, while keeping the headquarters safe."
+    },
+    {
+      "apiname": "BULLS_EYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bull's Eye",
+      "description": "Get a bullseye on the dart board."
+    },
+    {
+      "apiname": "BYE_BYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bye!",
+      "description": ""
+    }
+  ]
+}

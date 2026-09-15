@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1826060,
+  "game": "Night Loops",
+  "total": 12,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:20.395152+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_PSY_CONN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Psychic Connection!",
+      "description": "Communicate with your first Specter."
+    },
+    {
+      "apiname": "ACH_WORD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ugly Feelings, Beautiful Words",
+      "description": "Inspire the next masterpiece."
+    },
+    {
+      "apiname": "ACH_DANCE_PERFECT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cool as Steel",
+      "description": "100% perfect dance moves."
+    },
+    {
+      "apiname": "ACH_SPIKE_PERFECT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Precision is Your Middle Name",
+      "description": "Complete spike room on your first try within a night."
+    },
+    {
+      "apiname": "ACH_BREAK_ICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alpine Soul",
+      "description": "Lay waste to your first ice block!"
+    },
+    {
+      "apiname": "ACH_WELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anything but Down There Again",
+      "description": "Speak to a well."
+    },
+    {
+      "apiname": "ACH_SIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half Sin",
+      "description": "Speak with Ids in the Hidden Field of Sin."
+    },
+    {
+      "apiname": "ACH_RAVE_STAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zenith",
+      "description": "Found the XXX World stage."
+    },
+    {
+      "apiname": "ACH_CCTV_CODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbered Nights",
+      "description": "Found all the numbers for the CCTV code."
+    },
+    {
+      "apiname": "ACH_NAUTICAL_DAWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nautical Dawn",
+      "description": "True Ending"
+    },
+    {
+      "apiname": "ACH_SEALING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sealing",
+      "description": "Bad Ending"
+    },
+    {
+      "apiname": "ACH_SADIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Melanholic",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1939970,
+  "game": "Nobody Wants to Die",
+  "total": 26,
+  "unlocked": 6,
+  "percent": 23.1,
+  "updated_at_utc": "2026-09-15T06:52:24.885102+00:00",
+  "achievements": [
+    {
+      "apiname": "Level_Cinema",
+      "achieved": 1,
+      "unlocktime": 1750573259,
+      "name": "Dark City",
+      "description": ""
+    },
+    {
+      "apiname": "Level_PA1",
+      "achieved": 1,
+      "unlocktime": 1750950412,
+      "name": "Who's Afraid of Green",
+      "description": ""
+    },
+    {
+      "apiname": "Level_DA1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tenant",
+      "description": ""
+    },
+    {
+      "apiname": "Level_Icarus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I as in Icarus",
+      "description": ""
+    },
+    {
+      "apiname": "Level_SmallTalk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Altered States",
+      "description": ""
+    },
+    {
+      "apiname": "Level_DASynchro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Mouth of Madness",
+      "description": ""
+    },
+    {
+      "apiname": "Level_PA2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Red",
+      "description": ""
+    },
+    {
+      "apiname": "Level_LibertySlums",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last House on the Right",
+      "description": ""
+    },
+    {
+      "apiname": "Level_SaraBasement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darkness Under the Stairs",
+      "description": ""
+    },
+    {
+      "apiname": "Level_Train",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "James' Ladder",
+      "description": ""
+    },
+    {
+      "apiname": "Level_CentralPark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Ever Happened to Jane Salma?",
+      "description": ""
+    },
+    {
+      "apiname": "Level_IslandFinal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Walk with Me",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_Anguish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anguish ",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_EndOfDeadlyDreams",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End of Deadly Dreams",
+      "description": ""
+    },
+    {
+      "apiname": "Epilogue_OneMissedCall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Missed Call",
+      "description": ""
+    },
+    {
+      "apiname": "Cinema_RestlessHands",
+      "achieved": 1,
+      "unlocktime": 1750572494,
+      "name": "Restless Hands",
+      "description": "Interact with all objects in the car"
+    },
+    {
+      "apiname": "PA1_ScentOfMistery",
+      "achieved": 1,
+      "unlocktime": 1750573842,
+      "name": "Scent of Mistery",
+      "description": "Describe the smell of chocolate to Sara"
+    },
+    {
+      "apiname": "PA1_Firestarter",
+      "achieved": 1,
+      "unlocktime": 1750948729,
+      "name": "Firestarter",
+      "description": "Burn the documents"
+    },
+    {
+      "apiname": "PA1_ColdCase",
+      "achieved": 1,
+      "unlocktime": 1750573652,
+      "name": "Cold Case",
+      "description": "Leave the documents"
+    },
+    {
+      "apiname": "DA1_TheGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Game",
+      "description": "Win the Decontamination Game"
+    },
+    {
+      "apiname": "DA1_OldBastard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Bastard",
+      "description": "Listen to a message from your boss"
+    },
+    {
+      "apiname": "SmallTalk_OldFashioned",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Fashioned",
+      "description": "Drink the Scotch you took from Icarus"
+    },
+    {
+      "apiname": "DA2_YouveGotMail",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You've Got Mail",
+      "description": "Catch the message in the air"
+    },
+    {
+      "apiname": "DA2_RayOfLight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ray of Light",
+      "description": "Save the tree"
+    },
+    {
+      "apiname": "SaraBasement_ChickenOfJustice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"Chicken of Justice\"",
+      "description": "Solve the puzzle"
+    },
+    {
+      "apiname": "SaraBasement_NothingButTheTruth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing But the Truth",
+      "description": "Complete all boards"
+    }
+  ]
+}

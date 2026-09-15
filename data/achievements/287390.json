@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 287390,
+  "game": "Metro: Last Light Redux",
+  "total": 49,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:08.904510+00:00",
+  "achievements": [
+    {
+      "apiname": "air",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air!",
+      "description": "Spend 30 minutes' worth of Filters."
+    },
+    {
+      "apiname": "antibiotic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Antibiotic",
+      "description": "Kill 100 Mutants."
+    },
+    {
+      "apiname": "back_to_the_past",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to the Past",
+      "description": "See all Visions in the Dead City."
+    },
+    {
+      "apiname": "big_momma",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Momma",
+      "description": "Kill the Rhino."
+    },
+    {
+      "apiname": "cest_la_vie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "C'est la vie",
+      "description": ""
+    },
+    {
+      "apiname": "clean_jailbreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Escape",
+      "description": "Escape the chasing Nazis on the REICH level without being caught once."
+    },
+    {
+      "apiname": "commando",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Commando",
+      "description": "Rescue the Women and Children on the BANDITS level without raising alarm."
+    },
+    {
+      "apiname": "derailed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Derailed",
+      "description": "Kill all armed enemies on the REVOLUTION level, including all reinforcements."
+    },
+    {
+      "apiname": "edison",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Edison",
+      "description": "Turn off 40 Lights without breaking them."
+    },
+    {
+      "apiname": "engineer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer",
+      "description": "Use 10 Lever Switches."
+    },
+    {
+      "apiname": "ever_vigilant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ever Vigilant",
+      "description": "Disarm 10 Traps."
+    },
+    {
+      "apiname": "forest_guardian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Guardian",
+      "description": "Save the Bear from the Watchmen after the fight."
+    },
+    {
+      "apiname": "freedom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom!",
+      "description": "Free the Prisoners."
+    },
+    {
+      "apiname": "invisible_intruder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invisible Intruder",
+      "description": "Complete the SEPARATION level without killing or raising alarm."
+    },
+    {
+      "apiname": "invisible_savior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invisible Savior",
+      "description": "Complete the FACILITY level without killing or raising alarm."
+    },
+    {
+      "apiname": "invisible_soldier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invisible Soldier",
+      "description": "Complete the REVOLUTION level without killing and raising an alarm."
+    },
+    {
+      "apiname": "max",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheers!",
+      "description": "Drink at every occasion."
+    },
+    {
+      "apiname": "mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse",
+      "description": "Complete the ECHOES level undetected by the Watchmen."
+    },
+    {
+      "apiname": "no_shooting_allowed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No shooting allowed",
+      "description": "Kill 10 enemies in a row with Throwing Knives."
+    },
+    {
+      "apiname": "not_a_rabbit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not A Rabbit",
+      "description": "Finish the ASHES level without taking a hit."
+    },
+    {
+      "apiname": "patron_of_the_arts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patron of the Arts",
+      "description": "Watch the entire Theater Show."
+    },
+    {
+      "apiname": "published",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Published",
+      "description": "Complete all 43 of Artyom's hidden Diary pages."
+    },
+    {
+      "apiname": "pyromaniac",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromaniac",
+      "description": "Burn 50 Cobwebs."
+    },
+    {
+      "apiname": "rabbit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rabbit",
+      "description": "Complete training sequence."
+    },
+    {
+      "apiname": "rain_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rain Man",
+      "description": "Complete the BRIDGE level without a kill."
+    },
+    {
+      "apiname": "redemption",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redemption",
+      "description": ""
+    },
+    {
+      "apiname": "reunion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunion",
+      "description": "Find and return the crying child's Teddy Bear."
+    },
+    {
+      "apiname": "revelation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revelation",
+      "description": ""
+    },
+    {
+      "apiname": "revenge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge",
+      "description": ""
+    },
+    {
+      "apiname": "savior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior",
+      "description": ""
+    },
+    {
+      "apiname": "scram",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scram",
+      "description": "Kill the Watchmen attacking the Railcar without taking any damage."
+    },
+    {
+      "apiname": "secret",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret",
+      "description": ""
+    },
+    {
+      "apiname": "shadow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow",
+      "description": "Stealthily kill 15 Enemies."
+    },
+    {
+      "apiname": "soldier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier",
+      "description": "Kill 100 Human Enemies."
+    },
+    {
+      "apiname": "tortoise",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tortoise",
+      "description": "Make 10 Spiders flip belly-up."
+    },
+    {
+      "apiname": "veteran",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran",
+      "description": "Choose three primary weapons that use different ammo."
+    },
+    {
+      "apiname": "within_a_hair_of_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Within a Hair of Death",
+      "description": "Escape from the Red Line."
+    },
+    {
+      "apiname": "survival",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor 2034",
+      "description": "Complete the game in Survival Mode."
+    },
+    {
+      "apiname": "spartan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spartan 2034",
+      "description": "Complete the game in Spartan Mode."
+    },
+    {
+      "apiname": "safecracker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Thief",
+      "description": "Open 10 locked safe boxes."
+    },
+    {
+      "apiname": "saboteur",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saboteur",
+      "description": "Complete the SNIPER TEAM level."
+    },
+    {
+      "apiname": "kshatriya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kshatriya",
+      "description": "Complete the KSHATRIYA level."
+    },
+    {
+      "apiname": "heil_reich",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hail Reich!",
+      "description": "Complete the HEAVY SQUAD level."
+    },
+    {
+      "apiname": "testcomplete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Test Complete",
+      "description": "Complete the TOWER level."
+    },
+    {
+      "apiname": "through_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Through the Fire",
+      "description": "Complete the SPIDER LAIR level."
+    },
+    {
+      "apiname": "developer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Developer",
+      "description": "Spend 1 hour on the DEVELOPER level."
+    },
+    {
+      "apiname": "atas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heads Up!",
+      "description": "Complete the PAVEL level."
+    },
+    {
+      "apiname": "nowayout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Way Out",
+      "description": "Complete the KHAN level."
+    },
+    {
+      "apiname": "sunsetofhope",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sunset of Hope",
+      "description": "Complete the ANNA level."
+    }
+  ]
+}

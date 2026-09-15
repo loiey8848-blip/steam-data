@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 858820,
+  "game": "Tribes of Midgard",
+  "total": 26,
+  "unlocked": 12,
+  "percent": 46.2,
+  "updated_at_utc": "2026-09-15T06:51:04.078295+00:00",
+  "achievements": [
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0001",
+      "achieved": 1,
+      "unlocktime": 1663611878,
+      "name": "Make It Rain",
+      "description": "Spend 10,000 Souls in Miðgarð"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Pour",
+      "description": "Spend 100,000 Souls in Miðgarð"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Hail",
+      "description": "Spend 1,000,000 Souls in Miðgarð"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0008",
+      "achieved": 1,
+      "unlocktime": 1663580650,
+      "name": "Villager In Need",
+      "description": "Successfully revive a villager"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0009",
+      "achieved": 1,
+      "unlocktime": 1663688953,
+      "name": "Friend In Need",
+      "description": "Successfully revive an ally player"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0010",
+      "achieved": 1,
+      "unlocktime": 1663609521,
+      "name": "New Viking",
+      "description": "Reach Season Level 2"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0011",
+      "achieved": 1,
+      "unlocktime": 1663686538,
+      "name": "New Hersir",
+      "description": "Reach Season Level 5"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Jarl",
+      "description": "Reach Season Level 10"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ragnarök",
+      "description": "Complete a Saga Quest in Saga Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Konungr",
+      "description": "Reach Season Level 25"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Einherjar",
+      "description": "Reach Last Season Level"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0016",
+      "achieved": 1,
+      "unlocktime": 1663568033,
+      "name": "A Viking is Björn",
+      "description": "Complete the Tutorial"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surthrival",
+      "description": "Reach Day 100 in Survival Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0018",
+      "achieved": 1,
+      "unlocktime": 1663779033,
+      "name": "Like Svaðilfari",
+      "description": "Have 100 Constructions in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Jötunheim",
+      "description": "Deliver the final blow to defeat an Ice Jötunn in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Múspelheim",
+      "description": "Deliver the final blow to defeat a Fire Jötunn in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Asgarð",
+      "description": "Deliver the final blow to defeat a Thunder Jötunn in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0022",
+      "achieved": 1,
+      "unlocktime": 1663609497,
+      "name": "Back to Niflheim",
+      "description": "Deliver the final blow to defeat a Dark Jötunn in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Valhalla Can Wait",
+      "description": "Deliver the final blow to defeat a Saga Boss in Saga Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0024",
+      "achieved": 1,
+      "unlocktime": 1663568262,
+      "name": "Common Crafter",
+      "description": "Craft a Common Item in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0025",
+      "achieved": 1,
+      "unlocktime": 1663568984,
+      "name": "Uncommon Crafter",
+      "description": "Craft an Uncommon Item in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0026",
+      "achieved": 1,
+      "unlocktime": 1663609327,
+      "name": "Rare Crafter",
+      "description": "Craft a Rare Item in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epic Crafter",
+      "description": "Craft an Epic Item in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Crafter",
+      "description": "Craft a Legendary Item in any Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragonchild",
+      "description": "Hold 10,000 Souls or more in Saga Mode"
+    },
+    {
+      "apiname": "TOM_ACHIEVEMENT_NAME_0031",
+      "achieved": 1,
+      "unlocktime": 1663568151,
+      "name": "Paw Paw",
+      "description": "Play a game with a Pet equipped"
+    }
+  ]
+}

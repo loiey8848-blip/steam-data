@@ -1,0 +1,382 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2584270,
+  "game": "Mortal Shell II",
+  "total": 53,
+  "unlocked": 53,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:52.181889+00:00",
+  "achievements": [
+    {
+      "apiname": "001",
+      "achieved": 1,
+      "unlocktime": 1786972934,
+      "name": "You're More Than a Weapon",
+      "description": "Claim your first Shell, Weapon and Sidearm"
+    },
+    {
+      "apiname": "002",
+      "achieved": 1,
+      "unlocktime": 1786972734,
+      "name": "Mid Summer?",
+      "description": "Enter the Festival"
+    },
+    {
+      "apiname": "003",
+      "achieved": 1,
+      "unlocktime": 1786984463,
+      "name": "Home at Last",
+      "description": "Reach Marrowkeep"
+    },
+    {
+      "apiname": "004",
+      "achieved": 1,
+      "unlocktime": 1787018545,
+      "name": "Haunting Times",
+      "description": "Watch your first Shell Memory"
+    },
+    {
+      "apiname": "005",
+      "achieved": 1,
+      "unlocktime": 1787046229,
+      "name": "Deep Cuts",
+      "description": "Unlock Axe and Dagger"
+    },
+    {
+      "apiname": "006",
+      "achieved": 1,
+      "unlocktime": 1787026359,
+      "name": "Big Boi",
+      "description": "Unlock Great Martyr's Blade"
+    },
+    {
+      "apiname": "007",
+      "achieved": 1,
+      "unlocktime": 1787099934,
+      "name": "Point Taken",
+      "description": "Unlock Black Needle"
+    },
+    {
+      "apiname": "008",
+      "achieved": 1,
+      "unlocktime": 1787141342,
+      "name": "Like Clockwork",
+      "description": "Unlock the Clockwork Scythe"
+    },
+    {
+      "apiname": "009",
+      "achieved": 1,
+      "unlocktime": 1787135482,
+      "name": "Stop - Hammer Time",
+      "description": "Unlock the Obsidian Hammer"
+    },
+    {
+      "apiname": "010",
+      "achieved": 1,
+      "unlocktime": 1787098122,
+      "name": "Dual Wielding",
+      "description": "Unlock the Axatana"
+    },
+    {
+      "apiname": "011",
+      "achieved": 1,
+      "unlocktime": 1787051174,
+      "name": "Cut You Down to Size",
+      "description": "Unlock the Veteran's Battle Axe"
+    },
+    {
+      "apiname": "012",
+      "achieved": 1,
+      "unlocktime": 1787141767,
+      "name": "Spiked",
+      "description": "Unlock the Caged Hystrix"
+    },
+    {
+      "apiname": "013",
+      "achieved": 1,
+      "unlocktime": 1787105501,
+      "name": "Old Painless",
+      "description": "Unlock the Triarch Repeater"
+    },
+    {
+      "apiname": "014",
+      "achieved": 1,
+      "unlocktime": 1787096943,
+      "name": "Beautiful Baby",
+      "description": "Unlock the Cursed Child"
+    },
+    {
+      "apiname": "015",
+      "achieved": 1,
+      "unlocktime": 1787134503,
+      "name": "Speared",
+      "description": "Unlock the Ballistazooka"
+    },
+    {
+      "apiname": "016",
+      "achieved": 1,
+      "unlocktime": 1787036502,
+      "name": "Chop Chop",
+      "description": "Unlock the Salvaged Trebuchaxe"
+    },
+    {
+      "apiname": "017",
+      "achieved": 1,
+      "unlocktime": 1787018545,
+      "name": "Old School",
+      "description": "Unlock the Forgotten Crossbow"
+    },
+    {
+      "apiname": "018",
+      "achieved": 1,
+      "unlocktime": 1787192517,
+      "name": "Bring My Ova Back to Me",
+      "description": "Collect all of the Ova"
+    },
+    {
+      "apiname": "019",
+      "achieved": 1,
+      "unlocktime": 1787149180,
+      "name": "Heavy Metal",
+      "description": "Play all Lute Tracks in the Game"
+    },
+    {
+      "apiname": "020",
+      "achieved": 1,
+      "unlocktime": 1787044926,
+      "name": "Wheelie Good Time",
+      "description": ""
+    },
+    {
+      "apiname": "021",
+      "achieved": 1,
+      "unlocktime": 1787022655,
+      "name": "Meat's Back on the Menu, Boys! ",
+      "description": ""
+    },
+    {
+      "apiname": "022",
+      "achieved": 1,
+      "unlocktime": 1787061580,
+      "name": "Headcase",
+      "description": ""
+    },
+    {
+      "apiname": "023",
+      "achieved": 1,
+      "unlocktime": 1787147832,
+      "name": "Nightmare Fuel",
+      "description": ""
+    },
+    {
+      "apiname": "024",
+      "achieved": 1,
+      "unlocktime": 1787142935,
+      "name": "Something in the deep...",
+      "description": ""
+    },
+    {
+      "apiname": "025",
+      "achieved": 1,
+      "unlocktime": 1787188662,
+      "name": "Praise him!",
+      "description": ""
+    },
+    {
+      "apiname": "026",
+      "achieved": 1,
+      "unlocktime": 1787103758,
+      "name": "It burnssssssssss",
+      "description": ""
+    },
+    {
+      "apiname": "027",
+      "achieved": 1,
+      "unlocktime": 1787191263,
+      "name": "Ultimate Gainz",
+      "description": ""
+    },
+    {
+      "apiname": "028",
+      "achieved": 1,
+      "unlocktime": 1787186698,
+      "name": "Lost Your Head",
+      "description": ""
+    },
+    {
+      "apiname": "029",
+      "achieved": 1,
+      "unlocktime": 1787193687,
+      "name": "It's over now?",
+      "description": ""
+    },
+    {
+      "apiname": "031",
+      "achieved": 1,
+      "unlocktime": 1787121071,
+      "name": "Sester",
+      "description": ""
+    },
+    {
+      "apiname": "032",
+      "achieved": 1,
+      "unlocktime": 1786988873,
+      "name": "Forever Alone?",
+      "description": "Unlock Tiel"
+    },
+    {
+      "apiname": "033",
+      "achieved": 1,
+      "unlocktime": 1787067991,
+      "name": "Down with the Thickness",
+      "description": "Unlock Lazlo"
+    },
+    {
+      "apiname": "034",
+      "achieved": 1,
+      "unlocktime": 1787047182,
+      "name": "Vengeance is Mine",
+      "description": "Unlock Eredrim"
+    },
+    {
+      "apiname": "035",
+      "achieved": 1,
+      "unlocktime": 1787141717,
+      "name": "The Alchemist",
+      "description": "Unlock Sariel"
+    },
+    {
+      "apiname": "036",
+      "achieved": 1,
+      "unlocktime": 1787015540,
+      "name": "Arrival",
+      "description": "Unlock Proxima"
+    },
+    {
+      "apiname": "037",
+      "achieved": 1,
+      "unlocktime": 1787038423,
+      "name": "My Brether",
+      "description": "Unlock Smert"
+    },
+    {
+      "apiname": "038",
+      "achieved": 1,
+      "unlocktime": 1787119591,
+      "name": "Heartless",
+      "description": "Unlock Gragu"
+    },
+    {
+      "apiname": "039",
+      "achieved": 1,
+      "unlocktime": 1787208385,
+      "name": "Peter's Perfect Parry",
+      "description": ""
+    },
+    {
+      "apiname": "040",
+      "achieved": 1,
+      "unlocktime": 1787211548,
+      "name": "Stoned",
+      "description": "Find all Tarstones"
+    },
+    {
+      "apiname": "041",
+      "achieved": 1,
+      "unlocktime": 1787061788,
+      "name": "Decked Out",
+      "description": "Reach the maximum bonding tier for a Shell at the Shellkeeper"
+    },
+    {
+      "apiname": "042",
+      "achieved": 1,
+      "unlocktime": 1787136327,
+      "name": "Over 9000",
+      "description": "Max out a Weapon at the Tarforge"
+    },
+    {
+      "apiname": "043",
+      "achieved": 1,
+      "unlocktime": 1787106195,
+      "name": "Feed Me",
+      "description": ""
+    },
+    {
+      "apiname": "044",
+      "achieved": 1,
+      "unlocktime": 1787194968,
+      "name": "So Fresh, So Clean",
+      "description": "Cleanse All Beacons"
+    },
+    {
+      "apiname": "045",
+      "achieved": 1,
+      "unlocktime": 1787196738,
+      "name": "No, You Still Can't Win",
+      "description": ""
+    },
+    {
+      "apiname": "046",
+      "achieved": 1,
+      "unlocktime": 1787108680,
+      "name": "Sat Nav",
+      "description": "Find all Map Fragments"
+    },
+    {
+      "apiname": "047",
+      "achieved": 1,
+      "unlocktime": 1787212789,
+      "name": "Seeking the Past",
+      "description": "Watch all Shell Memories"
+    },
+    {
+      "apiname": "048",
+      "achieved": 1,
+      "unlocktime": 1787141717,
+      "name": "Shell Seeker",
+      "description": "Unlock all Shells"
+    },
+    {
+      "apiname": "049",
+      "achieved": 1,
+      "unlocktime": 1787141768,
+      "name": "Guns. Lots of Guns",
+      "description": "Unlock all Sidearms"
+    },
+    {
+      "apiname": "050",
+      "achieved": 1,
+      "unlocktime": 1787141343,
+      "name": "Lord of War",
+      "description": "Unlock all Weapons"
+    },
+    {
+      "apiname": "051",
+      "achieved": 1,
+      "unlocktime": 1787195602,
+      "name": "Ascension",
+      "description": ""
+    },
+    {
+      "apiname": "052",
+      "achieved": 1,
+      "unlocktime": 1787194426,
+      "name": "This is Not an Achievement",
+      "description": "Complete Mortal Shell II"
+    },
+    {
+      "apiname": "053",
+      "achieved": 1,
+      "unlocktime": 1787212789,
+      "name": "No Lifer",
+      "description": "Unlock All Achievements for Mortal Shell II "
+    },
+    {
+      "apiname": "054",
+      "achieved": 1,
+      "unlocktime": 1787056272,
+      "name": "Baghead",
+      "description": ""
+    }
+  ]
+}

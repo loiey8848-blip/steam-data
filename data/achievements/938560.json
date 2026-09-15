@@ -1,0 +1,214 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 938560,
+  "game": "INMOST",
+  "total": 29,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:05.346207+00:00",
+  "achievements": [
+    {
+      "apiname": "complete_girl_scene_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alone In The Storm",
+      "description": "Finish the Girl Scene"
+    },
+    {
+      "apiname": "find_hidden_gem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fragments of Pain",
+      "description": "Find a hidden Pain Crystal"
+    },
+    {
+      "apiname": "complete_old_man_scene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slow Descent",
+      "description": "Finish the Old Man Scene"
+    },
+    {
+      "apiname": "push_the_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nine Lives",
+      "description": "Save the cat from the hunter"
+    },
+    {
+      "apiname": "defeat_hunter_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Thorny End",
+      "description": "Defeat the first hunter."
+    },
+    {
+      "apiname": "listen_storyteller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meet the Storyteller",
+      "description": "Listen to the Storyteller's first tale."
+    },
+    {
+      "apiname": "complete_girl_scene_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Friend In Me",
+      "description": "Find the rabbit."
+    },
+    {
+      "apiname": "complete_girl_scene_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cookie Monster",
+      "description": "Get the Cookies."
+    },
+    {
+      "apiname": "complete_girl_scene_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're All Quite Mad Here",
+      "description": "Host a Tea Party!"
+    },
+    {
+      "apiname": "release_spider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arachnophobia",
+      "description": "Enter the mines."
+    },
+    {
+      "apiname": "kill_jumpers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pain for a pain",
+      "description": "Kill all jumpers."
+    },
+    {
+      "apiname": "fountain_scene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fountain",
+      "description": "Discover the fountain."
+    },
+    {
+      "apiname": "complete_girl_scene_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Rooms",
+      "description": "Discover what's in the attic."
+    },
+    {
+      "apiname": "rabbit_comments",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chatty Passenger",
+      "description": "Listen to all the rabbit's comments."
+    },
+    {
+      "apiname": "all_notes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duly Noted",
+      "description": "Find all the notes."
+    },
+    {
+      "apiname": "listen_storyteller_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epilogue",
+      "description": "Listen to all the Storyteller's tales."
+    },
+    {
+      "apiname": "cat_talk_dead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have you seen him?",
+      "description": "Talk to the cats when their sibling is dead."
+    },
+    {
+      "apiname": "cat_talk_alive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World of Entangled Stories",
+      "description": "Talk to the cats when their sibling is alive."
+    },
+    {
+      "apiname": "find_all_gems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pain Collector",
+      "description": "Collect all the Pain Crystals."
+    },
+    {
+      "apiname": "final_scene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tale about Love",
+      "description": "Finish the final scene."
+    },
+    {
+      "apiname": "no_damage_castle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brave Soldier",
+      "description": "Complete the castle scene without taking damage."
+    },
+    {
+      "apiname": "no_damage_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Through the Flames",
+      "description": "Complete the fire scene without taking damage."
+    },
+    {
+      "apiname": "no_damage_swamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damp Survivor",
+      "description": "Complete the swamp scene without taking damage."
+    },
+    {
+      "apiname": "no_damage_slime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slippery Slope",
+      "description": "Complete the Slime Pit scene without taking damage."
+    },
+    {
+      "apiname": "no_damage_snow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out in the Cold",
+      "description": "Complete the Snow scene without taking damage."
+    },
+    {
+      "apiname": "kill_all_enemies_knight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Heart",
+      "description": "Kill all enemies as the Knight."
+    },
+    {
+      "apiname": "no_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor",
+      "description": "Zero deaths as the wanderer."
+    },
+    {
+      "apiname": "no_pain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Avoid Pain",
+      "description": "Play without collecting any pain."
+    },
+    {
+      "apiname": "all_achievements",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "INMOST",
+      "description": "Gain all the achievements."
+    }
+  ]
+}

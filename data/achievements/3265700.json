@@ -1,0 +1,1138 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3265700,
+  "game": "Vampire Crawlers",
+  "total": 161,
+  "unlocked": 161,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:27.663887+00:00",
+  "achievements": [
+    {
+      "apiname": "Character_Antonio",
+      "achieved": 1,
+      "unlocktime": 1776940691,
+      "name": "Antonio",
+      "description": "Rescued Antonio in the average Italian countryside."
+    },
+    {
+      "apiname": "Relic_PancakeOfPower",
+      "achieved": 1,
+      "unlocktime": 1776940539,
+      "name": "Combo Stack",
+      "description": "Found these Pancakes in the Tutorial."
+    },
+    {
+      "apiname": "Inn",
+      "achieved": 1,
+      "unlocktime": 1776941465,
+      "name": "The Inn",
+      "description": "Crawler Selection Unlocked."
+    },
+    {
+      "apiname": "Relic_GemHammer",
+      "achieved": 1,
+      "unlocktime": 1776940955,
+      "name": "Gem Hammer",
+      "description": "Find the Gem Hammer Relic."
+    },
+    {
+      "apiname": "HollowHeart",
+      "achieved": 1,
+      "unlocktime": 1776941465,
+      "name": "Hollow Heart",
+      "description": "Reach Level 10."
+    },
+    {
+      "apiname": "Evo_BloodyTear",
+      "achieved": 1,
+      "unlocktime": 1777181318,
+      "name": "Discover Bloody Tear",
+      "description": "Evolve Whip."
+    },
+    {
+      "apiname": "Crown",
+      "achieved": 1,
+      "unlocktime": 1776944460,
+      "name": "Crown",
+      "description": "Reach Level 15."
+    },
+    {
+      "apiname": "PowerUpShop",
+      "achieved": 1,
+      "unlocktime": 1776941465,
+      "name": "Power Ups Shop",
+      "description": "Collect 250 coins."
+    },
+    {
+      "apiname": "Unlock_InlaidLibrary_01",
+      "achieved": 1,
+      "unlocktime": 1776941465,
+      "name": "Unlock Inlaid Library",
+      "description": "Reach Level 10 in Mad Forest."
+    },
+    {
+      "apiname": "Relic_GuidingLight",
+      "achieved": 1,
+      "unlocktime": 1776945576,
+      "name": "Guiding Light",
+      "description": "Find the Guiding Light Relic."
+    },
+    {
+      "apiname": "Character_Pasqualina",
+      "achieved": 1,
+      "unlocktime": 1776966066,
+      "name": "Pasqualina",
+      "description": "Reach Level 20 with Imelda Belpaese in Inlaid Library."
+    },
+    {
+      "apiname": "Runetracer",
+      "achieved": 1,
+      "unlocktime": 1776967083,
+      "name": "Runetracer",
+      "description": "Reach a high Level with Pasqualina Belpaese."
+    },
+    {
+      "apiname": "Evo_NoFuture",
+      "achieved": 1,
+      "unlocktime": 1776967083,
+      "name": "Discover NO FUTURE",
+      "description": "Evolve Runetracer."
+    },
+    {
+      "apiname": "Spellbinder",
+      "achieved": 1,
+      "unlocktime": 1776967083,
+      "name": "Spellbinder",
+      "description": "Play Runetracer cards 10 times."
+    },
+    {
+      "apiname": "StoneMask",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Stone Mask",
+      "description": "Find and play a Stone Mask."
+    },
+    {
+      "apiname": "Unlock_MadForest_02",
+      "achieved": 1,
+      "unlocktime": 1776942493,
+      "name": "Unlock Furious Forest",
+      "description": "Complete Mad Forest."
+    },
+    {
+      "apiname": "Character_Gennaro",
+      "achieved": 1,
+      "unlocktime": 1776942493,
+      "name": "Gennaro",
+      "description": "Defeat the Mantichana in Mad Forest."
+    },
+    {
+      "apiname": "Bracer",
+      "achieved": 1,
+      "unlocktime": 1776944460,
+      "name": "Bracer",
+      "description": "Play King Bible cards 99 times."
+    },
+    {
+      "apiname": "Evo_ThousandEdge",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Discover Thousand Edge",
+      "description": "Evolve Knife."
+    },
+    {
+      "apiname": "Relic_Polentir",
+      "achieved": 1,
+      "unlocktime": 1776942774,
+      "name": "Polentír",
+      "description": "Find the Polentír Relic."
+    },
+    {
+      "apiname": "RelicMuseum",
+      "achieved": 1,
+      "unlocktime": 1776942493,
+      "name": "Relic Museum",
+      "description": "Play two dungeons."
+    },
+    {
+      "apiname": "Character_Arca",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Arca",
+      "description": "Play Fire Wand cards lots of times."
+    },
+    {
+      "apiname": "FireWand",
+      "achieved": 1,
+      "unlocktime": 1776944460,
+      "name": "Fire Wand",
+      "description": "Destroy 20 light sources."
+    },
+    {
+      "apiname": "Evo_HellFire",
+      "achieved": 1,
+      "unlocktime": 1776946365,
+      "name": "Discover Hellfire",
+      "description": "Evolve Fire Wand."
+    },
+    {
+      "apiname": "ManaSython",
+      "achieved": 1,
+      "unlocktime": 1776970244,
+      "name": "Mana Syphon",
+      "description": "Gain lots and lots of Mana in a turn."
+    },
+    {
+      "apiname": "EmptyTome",
+      "achieved": 1,
+      "unlocktime": 1776941465,
+      "name": "Empty Tome",
+      "description": "Collect 2 Mana Orbs."
+    },
+    {
+      "apiname": "Evo_HolyWand",
+      "achieved": 1,
+      "unlocktime": 1776947417,
+      "name": "Discover Holy Wand",
+      "description": "Evolve Magic Wand."
+    },
+    {
+      "apiname": "SharpMind",
+      "achieved": 1,
+      "unlocktime": 1776950002,
+      "name": "Sharp Mind",
+      "description": "Play lots of purple cards."
+    },
+    {
+      "apiname": "Character_Poe",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Poe",
+      "description": "Play Garlic cards lots of times."
+    },
+    {
+      "apiname": "Pummarola",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Pummarola",
+      "description": "Reach Level 10 with Gennaro Belpaese."
+    },
+    {
+      "apiname": "Garlic",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Garlic",
+      "description": "Pick up 5 Floor Chickens."
+    },
+    {
+      "apiname": "Evo_SoulEater",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Discover Soul Eater",
+      "description": "Evolve Garlic."
+    },
+    {
+      "apiname": "Peachone",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Peachone",
+      "description": "Reach Level 25."
+    },
+    {
+      "apiname": "EbonyWing",
+      "achieved": 1,
+      "unlocktime": 1776966066,
+      "name": "Ebony Wings",
+      "description": "Play Peachone card once."
+    },
+    {
+      "apiname": "Evo_Vandalier",
+      "achieved": 1,
+      "unlocktime": 1777045235,
+      "name": "Discover Vandalier",
+      "description": "Unite Peachone and Ebony Wings."
+    },
+    {
+      "apiname": "Unlock_InlaidLibrary_02",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Unlock Library West Wing",
+      "description": "Complete Inlaid Library."
+    },
+    {
+      "apiname": "AttractionOrb",
+      "achieved": 1,
+      "unlocktime": 1776947417,
+      "name": "Attractorb",
+      "description": "Find and play Vacuum cards."
+    },
+    {
+      "apiname": "Relic_GrimGrimoire",
+      "achieved": 1,
+      "unlocktime": 1776946679,
+      "name": "Grim Grimoire",
+      "description": "Find the Grim Grimoire Relic."
+    },
+    {
+      "apiname": "Unlock_TinyBridge_01",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Unlock Teeny Bridge",
+      "description": "Reach Level 15 in Inlaid Library."
+    },
+    {
+      "apiname": "Character_Dommario",
+      "achieved": 1,
+      "unlocktime": 1776947418,
+      "name": "Dommario",
+      "description": "Collect lots and lots of coins."
+    },
+    {
+      "apiname": "Evo_UnholyVespers",
+      "achieved": 1,
+      "unlocktime": 1776969642,
+      "name": "Discover Unholy Vespers",
+      "description": "Evolve King Bible."
+    },
+    {
+      "apiname": "Relic_Overkill",
+      "achieved": 1,
+      "unlocktime": 1776949655,
+      "name": "Overkill",
+      "description": "Find the Overkill Relic."
+    },
+    {
+      "apiname": "Relic_Blacksmith",
+      "achieved": 1,
+      "unlocktime": 1776950002,
+      "name": "Stardust Anvil",
+      "description": "Find the Stardust Anvil Relic."
+    },
+    {
+      "apiname": "Character_Lama",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Lama",
+      "description": "Complete a dungeon with 10% Curse or more."
+    },
+    {
+      "apiname": "Evo_DeathSpiral",
+      "achieved": 1,
+      "unlocktime": 1776966066,
+      "name": "Discover Death Spiral",
+      "description": "Evolve Axe."
+    },
+    {
+      "apiname": "SkullOManiac",
+      "achieved": 1,
+      "unlocktime": 1777045216,
+      "name": "Skull O'Maniac",
+      "description": "Reach Level 30 with Lama Ladonna."
+    },
+    {
+      "apiname": "OverTheTop",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Over The Top",
+      "description": "Play lots of Crawler cards."
+    },
+    {
+      "apiname": "Unlock_DairyPlant_01",
+      "achieved": 1,
+      "unlocktime": 1776950002,
+      "name": "Unlock Dairy Plant",
+      "description": "Complete Teeny Bridge."
+    },
+    {
+      "apiname": "Character_Ramba",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Ramba",
+      "description": "Defeat the Milk Elemental."
+    },
+    {
+      "apiname": "Carrello",
+      "achieved": 1,
+      "unlocktime": 1776954044,
+      "name": "Carréllo",
+      "description": "Destroy lots of Mine Carts."
+    },
+    {
+      "apiname": "Character_Porta",
+      "achieved": 1,
+      "unlocktime": 1777023722,
+      "name": "Porta",
+      "description": "Play lots of Lightning Ring cards."
+    },
+    {
+      "apiname": "LightningRing",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Lightning Ring",
+      "description": "Defeat many enemies."
+    },
+    {
+      "apiname": "Duplicator",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Duplicator",
+      "description": "Play Magic Wand cards lots of times."
+    },
+    {
+      "apiname": "Evo_Thunderloop",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Discover Thunder Loop",
+      "description": "Evolve Lightning Ring."
+    },
+    {
+      "apiname": "MakeAScene",
+      "achieved": 1,
+      "unlocktime": 1777018352,
+      "name": "Make a Scene",
+      "description": "Activate lots and lots of Crawler trigger abilities."
+    },
+    {
+      "apiname": "Unlock_MadForest_03",
+      "achieved": 1,
+      "unlocktime": 1776967083,
+      "name": "Berserk Wood",
+      "description": "Complete Furious Forest."
+    },
+    {
+      "apiname": "Character_Mortuccio",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Mortaccio",
+      "description": "Defeat many Skeletons."
+    },
+    {
+      "apiname": "Bone",
+      "achieved": 1,
+      "unlocktime": 1777185383,
+      "name": "Bone",
+      "description": "Reach a high Level with Mortaccio."
+    },
+    {
+      "apiname": "Character_Pugnala",
+      "achieved": 1,
+      "unlocktime": 1776969642,
+      "name": "Pugnala",
+      "description": "Find the Coffin in Berserk Wood."
+    },
+    {
+      "apiname": "Tirajisu",
+      "achieved": 1,
+      "unlocktime": 1777089933,
+      "name": "Tirajisú",
+      "description": "Reach Level 20 with Krochi Freetto."
+    },
+    {
+      "apiname": "EightTheSparrow",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Eight The Sparrow",
+      "description": "Reach a high Level with Pugnala Provola."
+    },
+    {
+      "apiname": "PhieraDerTuphello",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Phiera Der Tuphello",
+      "description": "Reach a very high Level with Pugnala Provola."
+    },
+    {
+      "apiname": "Evo_Phierragi",
+      "achieved": 1,
+      "unlocktime": 1777090682,
+      "name": "Discover Phieraggi",
+      "description": "Unite Eight The Sparrow and Phiera Der Tuphello."
+    },
+    {
+      "apiname": "AndAnother",
+      "achieved": 1,
+      "unlocktime": 1777012942,
+      "name": "And Another",
+      "description": "Play lots of Free-to-Play cards."
+    },
+    {
+      "apiname": "Unlock_InlaidLibrary_03",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Unlock Library Sanctum",
+      "description": "Complete Library West Wing."
+    },
+    {
+      "apiname": "Character_Cavallo",
+      "achieved": 1,
+      "unlocktime": 1776966066,
+      "name": "Cavallo",
+      "description": "Defeat many Lion Heads."
+    },
+    {
+      "apiname": "CherryBomb",
+      "achieved": 1,
+      "unlocktime": 1777015279,
+      "name": "Cherry Bomb",
+      "description": "Reach Level 15 with Yatta Cavallo."
+    },
+    {
+      "apiname": "Character_Giovanna",
+      "achieved": 1,
+      "unlocktime": 1776970980,
+      "name": "Giovanna",
+      "description": "Find the Coffin in the Library Sanctum."
+    },
+    {
+      "apiname": "GattiAmari",
+      "achieved": 1,
+      "unlocktime": 1777012943,
+      "name": "Gatti Amari",
+      "description": "Reach a high Level with Giovanna Grana."
+    },
+    {
+      "apiname": "Evo_ViciousHunger",
+      "achieved": 1,
+      "unlocktime": 1777092162,
+      "name": "Discover Vicious Hunger",
+      "description": "Evolve Gatti Amari."
+    },
+    {
+      "apiname": "Relic_Randomazzo",
+      "achieved": 1,
+      "unlocktime": 1776969802,
+      "name": "Randomazzo",
+      "description": "Find the Randomazzo Relic."
+    },
+    {
+      "apiname": "SwollenFist",
+      "achieved": 1,
+      "unlocktime": 1777040982,
+      "name": "Swollen Fist",
+      "description": "Reach 40 Deck size."
+    },
+    {
+      "apiname": "Unlock_DairyPlant_02",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Unlock Milk Factory",
+      "description": "Complete Dairy Plant."
+    },
+    {
+      "apiname": "Relic_BombaInfernale",
+      "achieved": 1,
+      "unlocktime": 1776994133,
+      "name": "Bomba Infernale",
+      "description": "Find the Bomba Infernale Relic."
+    },
+    {
+      "apiname": "Character_Krochi",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Krochi",
+      "description": "Defeat many, many enemies."
+    },
+    {
+      "apiname": "Cross",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Cross",
+      "description": "Find and play a Rosary card."
+    },
+    {
+      "apiname": "Clover",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Clover",
+      "description": "Find and play Little Clover cards."
+    },
+    {
+      "apiname": "Evo_HeavenSword",
+      "achieved": 1,
+      "unlocktime": 1777100591,
+      "name": "Discover Heaven Sword",
+      "description": "Evolve Cross."
+    },
+    {
+      "apiname": "YourShieldMyLiege",
+      "achieved": 1,
+      "unlocktime": 1777040982,
+      "name": "Your Shield My Liege",
+      "description": "Gain 2,000 Armor."
+    },
+    {
+      "apiname": "Unlock_TinyBridge_02",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Unlock Weeny Bridge",
+      "description": "Reach Level 15 in Dairy Plant."
+    },
+    {
+      "apiname": "Character_Clerici",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Clerici",
+      "description": "Recover lots and lots of HP."
+    },
+    {
+      "apiname": "Candelabrador",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Candelabrador",
+      "description": "Play 3 Santa Water cards."
+    },
+    {
+      "apiname": "Evo_LaBorra",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Discover La Borra",
+      "description": "Evolve Santa Water."
+    },
+    {
+      "apiname": "Unlock_GalloTower_01",
+      "achieved": 1,
+      "unlocktime": 1777015279,
+      "name": "Unlock Gallo Tower",
+      "description": "Complete Weeny Bridge."
+    },
+    {
+      "apiname": "Relic_Jeweller",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Lapidary Loupe",
+      "description": "Find the Lapidary Loupe Relic."
+    },
+    {
+      "apiname": "Relic_SorcerersTears",
+      "achieved": 1,
+      "unlocktime": 1777039883,
+      "name": "Sorceress' Tears",
+      "description": "Find the Sorceress' Tears Relic."
+    },
+    {
+      "apiname": "Character_OSole",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "O'Sole",
+      "description": "Defeat many Dragon Shrimps."
+    },
+    {
+      "apiname": "CelestialDusting",
+      "achieved": 1,
+      "unlocktime": 1777040982,
+      "name": "Celestial Dusting",
+      "description": "Reach a high Level with O'Sole Meeo."
+    },
+    {
+      "apiname": "Character_Concetta",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Concetta",
+      "description": "Find the Coffin in Gallo Tower."
+    },
+    {
+      "apiname": "ShadowPinion",
+      "achieved": 1,
+      "unlocktime": 1777018352,
+      "name": "Shadow Pinion",
+      "description": "Reach Level 15 with Concetta Caciotta."
+    },
+    {
+      "apiname": "Wings",
+      "achieved": 1,
+      "unlocktime": 1777040982,
+      "name": "Wings",
+      "description": "Reach Level 40."
+    },
+    {
+      "apiname": "Evo_ValkyrieTurner",
+      "achieved": 1,
+      "unlocktime": 1777100607,
+      "name": "Discover Valkyrie Turner",
+      "description": "Evolve Shadow Pinion."
+    },
+    {
+      "apiname": "Character_Gallo",
+      "achieved": 1,
+      "unlocktime": 1777040982,
+      "name": "Gallo",
+      "description": "Defeat Gallo."
+    },
+    {
+      "apiname": "ClockLancet",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Clock Lancet",
+      "description": "Find and play an Orologion card."
+    },
+    {
+      "apiname": "Character_Christine",
+      "achieved": 1,
+      "unlocktime": 1777175384,
+      "name": "Christine",
+      "description": "Find and play the Pentagram card."
+    },
+    {
+      "apiname": "Pentagram",
+      "achieved": 1,
+      "unlocktime": 1777040981,
+      "name": "Pentagram",
+      "description": "Reach Level 35."
+    },
+    {
+      "apiname": "Evo_GorgeousMoon",
+      "achieved": 1,
+      "unlocktime": 1777191661,
+      "name": "Discover Gorgeous Moon",
+      "description": "Evolve Pentagram."
+    },
+    {
+      "apiname": "Unlock_TinyBridge_03",
+      "achieved": 1,
+      "unlocktime": 1777016776,
+      "name": "Unlock Meany Bridge",
+      "description": "Defeat the Giant Enemy Crab in Gallo Tower."
+    },
+    {
+      "apiname": "ChainLink",
+      "achieved": 1,
+      "unlocktime": 1777090682,
+      "name": "Chain Link",
+      "description": "Reach 12 Combo or above."
+    },
+    {
+      "apiname": "Unlock_DairyPlant_03",
+      "achieved": 1,
+      "unlocktime": 1777090662,
+      "name": "Unlock Curd Refinery",
+      "description": "Complete Milk Factory."
+    },
+    {
+      "apiname": "Character_Poppea",
+      "achieved": 1,
+      "unlocktime": 1777012943,
+      "name": "Poppea",
+      "description": "Find the Coffin in Milk Factory."
+    },
+    {
+      "apiname": "SongOfMana",
+      "achieved": 1,
+      "unlocktime": 1777175384,
+      "name": "Song of Mana",
+      "description": "Reach a high Level with Poppea Pecorina."
+    },
+    {
+      "apiname": "Evo_Mannajja",
+      "achieved": 1,
+      "unlocktime": 1777171448,
+      "name": "Discover Mannajja",
+      "description": "Evolve Song of Mana."
+    },
+    {
+      "apiname": "Relic_UltimateOverkill",
+      "achieved": 1,
+      "unlocktime": 1777181347,
+      "name": "Ultimate Ultra Overkill",
+      "description": "Find the Ultimate Ultra Overkill Relic."
+    },
+    {
+      "apiname": "Unlock_CappellaMagna_01",
+      "achieved": 1,
+      "unlocktime": 1777042065,
+      "name": "Unlock Cappella Magna",
+      "description": "Complete Meany Bridge."
+    },
+    {
+      "apiname": "JestersHat",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Jester's Hat",
+      "description": "Play lots of Wild cards."
+    },
+    {
+      "apiname": "Unlock_CappellaMagna_02",
+      "achieved": 1,
+      "unlocktime": 1777045216,
+      "name": "Unlock Cappella Ultima",
+      "description": "Complete Cappella Magna."
+    },
+    {
+      "apiname": "WildCombo",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Friendship Amulet",
+      "description": "Reach a very high Combo."
+    },
+    {
+      "apiname": "WildDefence",
+      "achieved": 1,
+      "unlocktime": 1777090682,
+      "name": "Parm Aegis",
+      "description": "Reach a very very high Combo."
+    },
+    {
+      "apiname": "WildAttack",
+      "achieved": 1,
+      "unlocktime": 1777092162,
+      "name": "Bracelet",
+      "description": "Reach a very very very high Combo."
+    },
+    {
+      "apiname": "Relic_Ovenkilt",
+      "achieved": 1,
+      "unlocktime": 1777089910,
+      "name": "Ovenkilt",
+      "description": "Find the Ovenkilt Relic."
+    },
+    {
+      "apiname": "WildStrength",
+      "achieved": 1,
+      "unlocktime": 1777036664,
+      "name": "Wild Buff",
+      "description": "Play lots and lots of cards picked up from light sources."
+    },
+    {
+      "apiname": "Gems_02_CompIL1",
+      "achieved": 1,
+      "unlocktime": 1776946094,
+      "name": "Nduja Gem",
+      "description": "Defeat Nesufritto."
+    },
+    {
+      "apiname": "Gems_CompleteDP3",
+      "achieved": 1,
+      "unlocktime": 1777171448,
+      "name": "Fireproof Gem",
+      "description": "Complete Curd Refinery."
+    },
+    {
+      "apiname": "Gems_CompleteIL3",
+      "achieved": 1,
+      "unlocktime": 1776970980,
+      "name": "Crawler Caller Gem",
+      "description": "Complete Library Sanctum."
+    },
+    {
+      "apiname": "Gems_CompleteMF3",
+      "achieved": 1,
+      "unlocktime": 1776969642,
+      "name": "Yin Yang Gem",
+      "description": "Complete Berserk Wood"
+    },
+    {
+      "apiname": "Gems_Arcane",
+      "achieved": 1,
+      "unlocktime": 1776970244,
+      "name": "Mana Rebate Gem",
+      "description": "Gain lots and lots and lots of Mana in a turn."
+    },
+    {
+      "apiname": "Gems_Blue",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Blue Trigger Gem",
+      "description": "Play lots of blue cards."
+    },
+    {
+      "apiname": "Gems_Bombard",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Bombard Gem",
+      "description": "Play lots of Cherry Bomb cards."
+    },
+    {
+      "apiname": "Boost",
+      "achieved": 1,
+      "unlocktime": 1776966066,
+      "name": "Growth Gem",
+      "description": "Play Crown cards."
+    },
+    {
+      "apiname": "Gems_Calcium",
+      "achieved": 1,
+      "unlocktime": 1777026432,
+      "name": "Calcium Gem",
+      "description": "Play lots of Bone cards."
+    },
+    {
+      "apiname": "Gems_Charge",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Countdown Gem",
+      "description": "Play lots of Empty Tome cards."
+    },
+    {
+      "apiname": "Gems_Clone",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Copy Gem",
+      "description": "Play lots and lots of cards."
+    },
+    {
+      "apiname": "Gems_Demi",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Decimate Gem",
+      "description": "Deal lots and lots of damage."
+    },
+    {
+      "apiname": "Gems_Destroy",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Destroy Gem",
+      "description": "Play lots of cards picked up from light sources."
+    },
+    {
+      "apiname": "Gems_Discharge",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Easy Combo Gem",
+      "description": "Reach 5 Combo or above."
+    },
+    {
+      "apiname": "Gems_Drain",
+      "achieved": 1,
+      "unlocktime": 1777018352,
+      "name": "Drain Gem",
+      "description": "Heal lots of HP."
+    },
+    {
+      "apiname": "Gems_Duration",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Duration Gem",
+      "description": "Play Spellbinder cards."
+    },
+    {
+      "apiname": "Gems_Echo",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Echo Gem",
+      "description": "Play lots and lots and lots and lots of cards."
+    },
+    {
+      "apiname": "Gems_Free",
+      "achieved": 1,
+      "unlocktime": 1777026432,
+      "name": "Free To Play Gem",
+      "description": "Play lots and lots of Free-to-Play cards."
+    },
+    {
+      "apiname": "Gems_Hail",
+      "achieved": 1,
+      "unlocktime": 1776969642,
+      "name": "Freeze Gem",
+      "description": "Play Clock Lancet card."
+    },
+    {
+      "apiname": "Gems_Heal",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Restore Health Gem",
+      "description": "Play lots of Pummarola cards."
+    },
+    {
+      "apiname": "Gems_Jingle",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Coin Count Gem",
+      "description": "Collect a vast fortune of coins."
+    },
+    {
+      "apiname": "Gems_Leader",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Leader Gem",
+      "description": "Deal lots and lots and lots of damage."
+    },
+    {
+      "apiname": "Gems_Luck",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Luck Gem",
+      "description": "Play Clover cards."
+    },
+    {
+      "apiname": "Gems_MagicHat",
+      "achieved": 1,
+      "unlocktime": 1777023722,
+      "name": "Magic Hat Gem",
+      "description": "Play lots of Peachone cards."
+    },
+    {
+      "apiname": "Gems_Magnet",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Magnetic Gem",
+      "description": "Play lots and lots and lots of cards."
+    },
+    {
+      "apiname": "Gems_ManaPlusMinus",
+      "achieved": 1,
+      "unlocktime": 1776962790,
+      "name": "Mana Cost Gems",
+      "description": "Collect lots of Mana Orbs."
+    },
+    {
+      "apiname": "Gems_ManaPlusMinus2",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Mana Cost Gems 2",
+      "description": "Collect lots and lots of Mana Orbs."
+    },
+    {
+      "apiname": "Gems_Midas",
+      "achieved": 1,
+      "unlocktime": 1776950002,
+      "name": "Midas Gem",
+      "description": "Collect lots and lots and lots of coins."
+    },
+    {
+      "apiname": "Gems_Purple",
+      "achieved": 1,
+      "unlocktime": 1776970980,
+      "name": "Purple Trigger Gem",
+      "description": "Play lots and lots of purple cards."
+    },
+    {
+      "apiname": "Gems_Rainbow",
+      "achieved": 1,
+      "unlocktime": 1776953430,
+      "name": "Rainbow Gem",
+      "description": "Activate lots of Crawler trigger abilities."
+    },
+    {
+      "apiname": "Gems_Red",
+      "achieved": 1,
+      "unlocktime": 1776944460,
+      "name": "Red Trigger Gem",
+      "description": "Play lots of red cards."
+    },
+    {
+      "apiname": "Gems_Refresh",
+      "achieved": 1,
+      "unlocktime": 1776949953,
+      "name": "Refund Gem",
+      "description": "Gain lots of Mana in a turn."
+    },
+    {
+      "apiname": "Gems_Remote",
+      "achieved": 1,
+      "unlocktime": 1776954044,
+      "name": "Remote Gem",
+      "description": "Destroy lots and lots of Mine Carts."
+    },
+    {
+      "apiname": "Gems_Retain",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Retain Gem",
+      "description": "Have 7 cards in a Hand."
+    },
+    {
+      "apiname": "Gems_Return",
+      "achieved": 1,
+      "unlocktime": 1776942493,
+      "name": "Return Gem",
+      "description": "Play lots of cards."
+    },
+    {
+      "apiname": "Gems_Reverse",
+      "achieved": 1,
+      "unlocktime": 1776964696,
+      "name": "Reverse Combo Gem",
+      "description": "Reach a high Combo."
+    },
+    {
+      "apiname": "Gems_Slayer",
+      "achieved": 1,
+      "unlocktime": 1777023722,
+      "name": "Kill Count Gem",
+      "description": "Defeat many, many, many enemies."
+    },
+    {
+      "apiname": "Gems_Spike",
+      "achieved": 1,
+      "unlocktime": 1776969595,
+      "name": "Armor Strike Gem",
+      "description": "Gain lots of Armor in a turn."
+    },
+    {
+      "apiname": "Gems_Sprightly",
+      "achieved": 1,
+      "unlocktime": 1776962790,
+      "name": "Recycle Gem",
+      "description": "Have 8 cards in a Hand."
+    },
+    {
+      "apiname": "Gems_Steal",
+      "achieved": 1,
+      "unlocktime": 1776946366,
+      "name": "Mug Gem",
+      "description": "Collect lots of coins."
+    },
+    {
+      "apiname": "Gems_Swift",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Quick Draw Gem",
+      "description": "Reach 30 Deck size."
+    },
+    {
+      "apiname": "Gems_Thief",
+      "achieved": 1,
+      "unlocktime": 1777016949,
+      "name": "Coin Card Gem",
+      "description": "Find and play lots of Big Coin Bag cards."
+    },
+    {
+      "apiname": "Gems_TripleDamage",
+      "achieved": 1,
+      "unlocktime": 1776962790,
+      "name": "Triple Damage Gem",
+      "description": "Deal lots of damage."
+    },
+    {
+      "apiname": "Gems_Uncrackable",
+      "achieved": 1,
+      "unlocktime": 1777178734,
+      "name": "Uncrackable Gem",
+      "description": "Defeat The Trickster."
+    },
+    {
+      "apiname": "Gems_Wild",
+      "achieved": 1,
+      "unlocktime": 1776997666,
+      "name": "Wild Gem",
+      "description": "Play lots and lots of Wild cards."
+    },
+    {
+      "apiname": "Gems_XCost",
+      "achieved": 1,
+      "unlocktime": 1777020040,
+      "name": "Mana X Damage Gem",
+      "description": "Play lots and lots and lots of purple cards."
+    },
+    {
+      "apiname": "Gems_Mild",
+      "achieved": 1,
+      "unlocktime": 1777191661,
+      "name": "Mild Gem",
+      "description": "Complete Gallo Tower with Gallo."
+    },
+    {
+      "apiname": "Gems_Yellow",
+      "achieved": 1,
+      "unlocktime": 1776962790,
+      "name": "Yellow Trigger Gem",
+      "description": "Play lots of yellow cards."
+    },
+    {
+      "apiname": "Plunder",
+      "achieved": 1,
+      "unlocktime": 1777018352,
+      "name": "Greed Gem",
+      "description": "Play Stone Mask cards 10 times."
+    }
+  ]
+}

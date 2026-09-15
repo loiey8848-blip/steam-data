@@ -1,0 +1,746 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 292910,
+  "game": "Deponia: The Complete Journey",
+  "total": 105,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:11.780692+00:00",
+  "achievements": [
+    {
+      "apiname": "dep_achiev_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kindergarten",
+      "description": "Learn the first steps."
+    },
+    {
+      "apiname": "dep_achiev_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brushhunter",
+      "description": "Good tooth care is important."
+    },
+    {
+      "apiname": "dep_achiev_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Always keep an eye on your target."
+    },
+    {
+      "apiname": "dep_achiev_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Expert",
+      "description": "A good demolition expert doesn't need a second try."
+    },
+    {
+      "apiname": "dep_achiev_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stand-In Waiter",
+      "description": "Did someone order an Espresso?"
+    },
+    {
+      "apiname": "dep_achiev_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Missing Postage",
+      "description": "What do you mean “not enough postage“?"
+    },
+    {
+      "apiname": "dep_achiev_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That seems about right...",
+      "description": "I can sort my pigeons without your help."
+    },
+    {
+      "apiname": "dep_achiev_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hussa - Who's gonna care?",
+      "description": "Finally made it out of Kuvaq."
+    },
+    {
+      "apiname": "dep_achiev_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DIY'er",
+      "description": "I can assemble that all on my own."
+    },
+    {
+      "apiname": "dep_achiev_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Newton would be proud",
+      "description": "Lets see... what else could I invert? "
+    },
+    {
+      "apiname": "dep_achiev_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Of Switches",
+      "description": "Help? Just to adjust a few switches? Well, you can count me out!"
+    },
+    {
+      "apiname": "dep_achiev_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hussa - Get On With The Plot!",
+      "description": "And so the journey continues..."
+    },
+    {
+      "apiname": "dep_achiev_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lever lover",
+      "description": "These levers just HAVE to make some sense ."
+    },
+    {
+      "apiname": "dep_achiev_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet",
+      "description": "A true gourmet is not afraid to try something new!"
+    },
+    {
+      "apiname": "dep_achiev_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paradox",
+      "description": "Meet yourself."
+    },
+    {
+      "apiname": "dep_achiev_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "History of Deponia",
+      "description": "Inform yourself explicitly about Deponia."
+    },
+    {
+      "apiname": "dep_achiev_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loving The Truth",
+      "description": "Say, Goal..."
+    },
+    {
+      "apiname": "dep_achiev_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hussa - The Chorus-Guys Rule!",
+      "description": "Finish Deponia."
+    },
+    {
+      "apiname": "dep2_achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – once more from the top",
+      "description": "I didn't do anything?!"
+    },
+    {
+      "apiname": "dep2_achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah with booze and so forth",
+      "description": "Rube Goldberg can pack it in"
+    },
+    {
+      "apiname": "dep2_achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blow job",
+      "description": "Actually, that would have been Toni's job..."
+    },
+    {
+      "apiname": "dep2_achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endurance test",
+      "description": "These foreign models are junk."
+    },
+    {
+      "apiname": "dep2_achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloody nose",
+      "description": "Rake up another achievement!"
+    },
+    {
+      "apiname": "dep2_achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lollipop or love?",
+      "description": "Set priorities"
+    },
+    {
+      "apiname": "dep2_achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All mine!",
+      "description": "Omnomnom! Nomnomnomnomnomnom!"
+    },
+    {
+      "apiname": "dep2_achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shut up, Simon!",
+      "description": "Training is for losers!"
+    },
+    {
+      "apiname": "dep2_achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Garden work",
+      "description": "Is it Easter already?"
+    },
+    {
+      "apiname": "dep2_achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egg race",
+      "description": "No egg on your face"
+    },
+    {
+      "apiname": "dep2_achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah put balls to the wall",
+      "description": "After them!"
+    },
+    {
+      "apiname": "dep2_achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deponia Idol",
+      "description": "The Droggeljug search for the supersinger"
+    },
+    {
+      "apiname": "dep2_achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What women want",
+      "description": "Survive the interview"
+    },
+    {
+      "apiname": "dep2_achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supercool",
+      "description": "Make a fool of yourself"
+    },
+    {
+      "apiname": "dep2_achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T-415411293",
+      "description": "I'll be back!"
+    },
+    {
+      "apiname": "dep2_achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pre-paradox",
+      "description": "Back to the future"
+    },
+    {
+      "apiname": "dep2_achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family drama",
+      "description": "Darth Vader is Luke Skywalker's father!"
+    },
+    {
+      "apiname": "dep2_achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal husbandry",
+      "description": "Catch 'em all!"
+    },
+    {
+      "apiname": "dep2_achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With love from Porta Fisco",
+      "description": "Expert in platypus poetry"
+    },
+    {
+      "apiname": "dep2_achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A bond for  life",
+      "description": "Force your luck"
+    },
+    {
+      "apiname": "dep2_achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tease the dragon",
+      "description": "I thought you couldn't die here?"
+    },
+    {
+      "apiname": "dep2_achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captain Planet",
+      "description": "... and Fay wept quietly"
+    },
+    {
+      "apiname": "dep2_achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flipper out",
+      "description": "Hunt for the Red October"
+    },
+    {
+      "apiname": "dep2_achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah we'll work overtime",
+      "description": "Swimming certificate earned"
+    },
+    {
+      "apiname": "dep2_achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Woooghieee",
+      "description": "Did you see that?"
+    },
+    {
+      "apiname": "dep2_achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freestyler",
+      "description": "Prove your street cred"
+    },
+    {
+      "apiname": "dep2_achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not in the face!",
+      "description": "Thank you, sir, may I have another?"
+    },
+    {
+      "apiname": "dep2_achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah let's hope far away",
+      "description": "Now what?"
+    },
+    {
+      "apiname": "dep2_achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind the mirror",
+      "description": "An alternative ending to another game"
+    },
+    {
+      "apiname": "dep2_achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal lover",
+      "description": "No animals were harmed in the making of this game!"
+    },
+    {
+      "apiname": "dep2_achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheater",
+      "description": "I see what you did there..."
+    },
+    {
+      "apiname": "dep2_achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pin-up Goal",
+      "description": "I only read it for the articles"
+    },
+    {
+      "apiname": "dep2_achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks!",
+      "description": "Was that our 15 minutes of fame?"
+    },
+    {
+      "apiname": "dep2_achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collecting agent",
+      "description": "Collecting agent"
+    },
+    {
+      "apiname": "dep3_achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – good things come in threes",
+      "description": "Third time's a charm."
+    },
+    {
+      "apiname": "dep3_achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ludicrous Speed",
+      "description": "Light speed is too slow!"
+    },
+    {
+      "apiname": "dep3_achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – with helium gas",
+      "description": "Have Helium – Will Travel"
+    },
+    {
+      "apiname": "dep3_achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free Toffee",
+      "description": "Animals don't belong in cages."
+    },
+    {
+      "apiname": "dep3_achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Laundry Day",
+      "description": "So that's why you don't wash your dirty laundry in public?"
+    },
+    {
+      "apiname": "dep3_achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doppelganger",
+      "description": "Mirror mirror on the wall..."
+    },
+    {
+      "apiname": "dep3_achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide and seek",
+      "description": "Doors – useful AND sexy."
+    },
+    {
+      "apiname": "dep3_achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah - because brakes are for wimps",
+      "description": "The old switcheroo."
+    },
+    {
+      "apiname": "dep3_achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caffeine Crackie",
+      "description": "I think that robot fluffed into my coffee."
+    },
+    {
+      "apiname": "dep3_achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saturday Night Fever",
+      "description": "Disco ain't dead!"
+    },
+    {
+      "apiname": "dep3_achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – he completely f*cked up",
+      "description": "Enjoy your fall."
+    },
+    {
+      "apiname": "dep3_achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Groundhog Day",
+      "description": "Aka. How to die a thousand Deaths"
+    },
+    {
+      "apiname": "dep3_achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Third time's a charm",
+      "description": "When shall we three meet again?"
+    },
+    {
+      "apiname": "dep3_achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah  - three times the crap",
+      "description": "Three of a kind beats king high."
+    },
+    {
+      "apiname": "dep3_achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork!",
+      "description": "I'll show you mine if you show me yours."
+    },
+    {
+      "apiname": "dep3_achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A true friend",
+      "description": "Self-sacrifices and bla."
+    },
+    {
+      "apiname": "dep3_achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rufus to the rescue",
+      "description": "I'd be an amazing dad!"
+    },
+    {
+      "apiname": "dep3_achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cameo",
+      "description": "Wait, who's that? - Itsameeeea!"
+    },
+    {
+      "apiname": "dep3_achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bozo is back!",
+      "description": "Pirates have feelings, too."
+    },
+    {
+      "apiname": "dep3_achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surgeon simulator",
+      "description": "Which place do I stick it in... ?"
+    },
+    {
+      "apiname": "dep3_achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission: Impossible",
+      "description": "He's just no fun person to hang out with."
+    },
+    {
+      "apiname": "dep3_achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – with a scoob a dee doo",
+      "description": "Elysium in hand's reach..."
+    },
+    {
+      "apiname": "dep3_achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hand over heart",
+      "description": "At least I got the lyrics right."
+    },
+    {
+      "apiname": "dep3_achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah – he's off now for real",
+      "description": "The hardest part is letting go."
+    },
+    {
+      "apiname": "dep3_achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tough Guy!",
+      "description": "Didn't feel a thing."
+    },
+    {
+      "apiname": "dep3_achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remembrance of Things Past",
+      "description": "Tell it to the marines!"
+    },
+    {
+      "apiname": "dep3_achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That kid is fast as lightning",
+      "description": "Admit it: That was dumb luck!"
+    },
+    {
+      "apiname": "dep3_achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daring Sharpshooter",
+      "description": "I didn't mean to wind her up."
+    },
+    {
+      "apiname": "dep3_achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knock knock!",
+      "description": "Knock-knock. Who's there? Rufus. Rufus who? Rufus on fire!"
+    },
+    {
+      "apiname": "dep3_achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basic Instinct",
+      "description": "What has been seen cannot be unseen."
+    },
+    {
+      "apiname": "dep3_achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Micropayment",
+      "description": "Never pay more than 20 bucks for a computer game."
+    },
+    {
+      "apiname": "dep3_achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voyeur",
+      "description": "So what? It's the only peep-show in town."
+    },
+    {
+      "apiname": "dep3_achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quality Assurance",
+      "description": "Does this smell like chloroform?"
+    },
+    {
+      "apiname": "dep3_achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ignorance is Bliss",
+      "description": "Don't turn around! The Kommissar is out!"
+    },
+    {
+      "apiname": "dep3_achievement_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darwin Award",
+      "description": "Cut my life into pieces."
+    },
+    {
+      "apiname": "dep3_achievement_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vampire's Kiss",
+      "description": "Vampire me, Vampire you. Platy-poo."
+    },
+    {
+      "apiname": "dep3_achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Darkness",
+      "description": "The darkest Room Escape Game ever."
+    },
+    {
+      "apiname": "dep3_achievement_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Porta Fisco Carnival",
+      "description": " Throw me something, Mister!"
+    },
+    {
+      "apiname": "dep3_achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long time no see",
+      "description": "Not that I actually need it."
+    },
+    {
+      "apiname": "dep3_achievement_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talent Scout",
+      "description": "15 minutes of fame."
+    },
+    {
+      "apiname": "dep3_achievement_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Food Inspector",
+      "description": "Where's the fume extractor hood?"
+    },
+    {
+      "apiname": "dep3_achievement_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zombie Apocalypse",
+      "description": "They seemed a bit bitey."
+    },
+    {
+      "apiname": "dep3_achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Mushroom Picker",
+      "description": "Little pieces of heaven down in the gutter."
+    },
+    {
+      "apiname": "dep3_achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smack him!",
+      "description": "1st RULE: You do not talk about FIGHT CLUB."
+    },
+    {
+      "apiname": "dep3_achievement_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demagogue",
+      "description": "I knew it: I'm surrounded by assholes."
+    },
+    {
+      "apiname": "dep3_achievement_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Russian roulette",
+      "description": "You jump, I jump … not!"
+    },
+    {
+      "apiname": "dep3_achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catwalk Queen",
+      "description": "High fashion - low fashion - high fashion - low fashion."
+    },
+    {
+      "apiname": "dep3_achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ornithorhynchologist",
+      "description": "You can’t make an omelette without breaking some eggs."
+    },
+    {
+      "apiname": "dep3_achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hung out to dry",
+      "description": "He'll get around somehow."
+    },
+    {
+      "apiname": "dep3_achievement_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sadist",
+      "description": "Picking at fresh wounds."
+    },
+    {
+      "apiname": "dep_achiev_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junkyard King",
+      "description": "Collecting junk can be a form of art, too!"
+    },
+    {
+      "apiname": "dep3_achievement_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Story Time",
+      "description": "Once upon a time..."
+    },
+    {
+      "apiname": "dep3_achievement_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journey Completed",
+      "description": "Time to let go..."
+    }
+  ]
+}

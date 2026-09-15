@@ -1,0 +1,606 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2445690,
+  "game": "Lost Castle 2",
+  "total": 85,
+  "unlocked": 2,
+  "percent": 2.4,
+  "updated_at_utc": "2026-09-15T06:52:50.356963+00:00",
+  "achievements": [
+    {
+      "apiname": "DefeatMonster_Gardener",
+      "achieved": 1,
+      "unlocktime": 1749306374,
+      "name": "Courtyard Cleansing",
+      "description": "Defeat the Mad Gardener in the Black Forest."
+    },
+    {
+      "apiname": "DefeatMonster_WoodKnight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrath of the Black Forest",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_GiantGoblin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brother, Hold On",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Archbishop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dreadful Mutation",
+      "description": "Defeat the Mutated Priest in the Ruined Cemetery."
+    },
+    {
+      "apiname": "DefeatMonster_DarkKnight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duel",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Alchemist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twin Fiends of the Ruined Village",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_CrystalDragon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon's Lair",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_GiantStoneGolem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behold My Iron Muscles",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Sprit_Thunder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calming the Rage",
+      "description": "Defeat the Angry Thunder Spirit in the Crystal Mountain."
+    },
+    {
+      "apiname": "DefeatMonster_KnightMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Duel on the Bridge",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Sebastian_P2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Shadow",
+      "description": ""
+    },
+    {
+      "apiname": "CollectCount_PassiveProps_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Treasure Collector",
+      "description": "Collect and record 20 different treasures during your adventure."
+    },
+    {
+      "apiname": "CollectCount_PassiveProps_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Treasure Collector",
+      "description": "Collect and record 50 different treasures during your adventure."
+    },
+    {
+      "apiname": "CollectCount_PassiveProps_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Treasure Collector",
+      "description": "Collect and record 100 different treasures during your adventure."
+    },
+    {
+      "apiname": "CollectCount_Weapon_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Weapon Collector",
+      "description": "Collect and record 20 different weapons during your adventure."
+    },
+    {
+      "apiname": "CollectCount_Weapon_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Weapon Collector",
+      "description": "Collect and record 50 different weapons during your adventure."
+    },
+    {
+      "apiname": "CollectCount_Weapon_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Weapon Collector",
+      "description": "Collect and record 100 different weapons during your adventure."
+    },
+    {
+      "apiname": "FirstEnterMainCastle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open the Gate",
+      "description": "Successfully open the gate of the Black Castle."
+    },
+    {
+      "apiname": "FirstOnlineGameEnterForest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party Adventure",
+      "description": "Start an adventure in online multiplayer mode."
+    },
+    {
+      "apiname": "WinWeapon_Two_Handed_Melee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Sword Warrior",
+      "description": "Complete a successful adventure using Two-handed Weapons."
+    },
+    {
+      "apiname": "WinWeapon_Single_Handed_Melee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shield Hero",
+      "description": "Complete a successful adventure using Single-handed weapon."
+    },
+    {
+      "apiname": "WinWeapon_Staff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archmage",
+      "description": "Complete a successful adventure using Staff."
+    },
+    {
+      "apiname": "WinWeapon_Dual_Blades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agile Slayer",
+      "description": "Complete a successful adventure using Dual-Blades."
+    },
+    {
+      "apiname": "WinWeapon_Bow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranger Hunter",
+      "description": "Complete a successful adventure using Bow."
+    },
+    {
+      "apiname": "WinWeapon_FistDrill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steam Demolitionist",
+      "description": "Complete a successful adventure using Turbo Lance."
+    },
+    {
+      "apiname": "FirstEnterCamp",
+      "achieved": 1,
+      "unlocktime": 1749305725,
+      "name": "Adventure Begins",
+      "description": "Enter the camp for the first time."
+    },
+    {
+      "apiname": "SaveNPC_FacilityNpc_Daughter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amnesiac Girl",
+      "description": ""
+    },
+    {
+      "apiname": "WinWeapon_Gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musketeer",
+      "description": "Complete a successful adventure using Musket."
+    },
+    {
+      "apiname": "WinWeapon_PhantomLantern",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow Master",
+      "description": "Complete a successful adventure using Phantom Lantern."
+    },
+    {
+      "apiname": "Caged_Beast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caged Beast",
+      "description": ""
+    },
+    {
+      "apiname": "Castle_Biologist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Castle Biologist",
+      "description": ""
+    },
+    {
+      "apiname": "Cold_Mage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Mage",
+      "description": "Recruit Raven as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "CollectCount_PassiveProps_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Treasure Collector",
+      "description": "Collect and record 200 different treasures during your adventure."
+    },
+    {
+      "apiname": "CollectCount_PassiveProps_285",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Treasure Collector",
+      "description": ""
+    },
+    {
+      "apiname": "CollectCount_Weapon_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Weapon Collector",
+      "description": "Collect and record 200 different weapons during your adventure."
+    },
+    {
+      "apiname": "Consumerism",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Consumerism",
+      "description": ""
+    },
+    {
+      "apiname": "Cost_Effective",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Cost-Effectiveness",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Anglerfish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diet Control",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_BrainOfEthreal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet Dreams",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_EvilSpiritP4Final",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "United Blades Against Chaos",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_EvilSpirit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastermind",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Hideyoshi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bushido Duel",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_IceIronMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vigil Ends",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_LizardManCaptain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boat on Dry Land",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_MageShadow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dungeon Phantom",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_Maid_Main",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toy Uprising",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_MurlocShaman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party's Over",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_QueenSpider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friendly Neighborhood Spider",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMonster_SewerWarden",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saw Madness",
+      "description": ""
+    },
+    {
+      "apiname": "Dragon_Bone_Unity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Bones Unite",
+      "description": "Collect all 6 Fire Dragon Souls in one successful adventure.\r\n- That was a really long detour."
+    },
+    {
+      "apiname": "Equivalent_Exchange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equal Exchange",
+      "description": "Upgrade the Alchemist's Hut in the camp to the maximum level."
+    },
+    {
+      "apiname": "Exquisite_Craft",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exquisite Craftsmanship",
+      "description": "Upgrade the Blacksmith in the camp to the maximum level."
+    },
+    {
+      "apiname": "Fiery_Passion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiery Passion",
+      "description": "Recruit Blazeley as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "FirstEnterMageTower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Showdown",
+      "description": ""
+    },
+    {
+      "apiname": "FirstGetInscription",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grant Me Power",
+      "description": "Collect your first Soul Inscription."
+    },
+    {
+      "apiname": "Flame_Sand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flames and Sand",
+      "description": ""
+    },
+    {
+      "apiname": "Forest_Ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Ranger",
+      "description": "Recruit Seren as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "Full_Inventory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everything Available",
+      "description": "Equip 3 Alchemy Charms at the same time and complete a successful adventure."
+    },
+    {
+      "apiname": "Glorious_Soulstone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brilliant Soulstone",
+      "description": ""
+    },
+    {
+      "apiname": "Ice_Phantom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Maiden",
+      "description": ""
+    },
+    {
+      "apiname": "Imperial_Warrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imperial Swordsman",
+      "description": "Recruit Shadow as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "Improve_Constantly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Constant Improvement",
+      "description": ""
+    },
+    {
+      "apiname": "Many_Skills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of All Arts",
+      "description": "Unlock 18 Soul Seals."
+    },
+    {
+      "apiname": "Martial_God",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "Mist_Swamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Misty Swamp",
+      "description": ""
+    },
+    {
+      "apiname": "North_Pale_Rider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Northern Pale Rider",
+      "description": "Recruit Navarre as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "Perfect_Soulstone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Soulstone",
+      "description": ""
+    },
+    {
+      "apiname": "Plagued",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plagued Body",
+      "description": "Carry 5 curses and complete a successful adventure."
+    },
+    {
+      "apiname": "Pursue_Excellence",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Striving for Excellence",
+      "description": ""
+    },
+    {
+      "apiname": "Seek_Truth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seek the Truth",
+      "description": ""
+    },
+    {
+      "apiname": "Self_Made_Legend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am Legend",
+      "description": "Synthesize a legendary treasure in one successful adventure."
+    },
+    {
+      "apiname": "Soul_Burst",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Burst",
+      "description": ""
+    },
+    {
+      "apiname": "Soul_Recast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Soul Recast",
+      "description": "Activate the full resonance of one Soul Seal."
+    },
+    {
+      "apiname": "Supreme_Soulstone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supreme Soulstone",
+      "description": ""
+    },
+    {
+      "apiname": "Unity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unity of Purpose",
+      "description": "Upgrade the Expedition Camp to the maximum level at Armstrong's."
+    },
+    {
+      "apiname": "Unknown_Realm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unknown Realm",
+      "description": ""
+    },
+    {
+      "apiname": "Warship_Swordsman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riverboat Swordsman",
+      "description": "Recruit Kasumi as a companion and complete a successful adventure."
+    },
+    {
+      "apiname": "Weapon_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_ExDifficulty_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_ExDifficulty_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upcoming Talent",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_ExDifficulty_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unrivaled Master",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_ExDifficulty_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supreme Being",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_ExDifficulty_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transcendent Saint",
+      "description": ""
+    },
+    {
+      "apiname": "WinGameDifficult_Normal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Castle Bus",
+      "description": "Complete a successful adventure on Normal difficulty."
+    },
+    {
+      "apiname": "WinWeapon_Katana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blademaster",
+      "description": "Complete a successful adventure using Katana."
+    }
+  ]
+}

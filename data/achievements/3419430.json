@@ -1,0 +1,207 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3419430,
+  "game": "Bongo Cat",
+  "total": 28,
+  "unlocked": 11,
+  "percent": 39.3,
+  "updated_at_utc": "2026-09-15T06:53:30.563211+00:00",
+  "achievements": [
+    {
+      "apiname": "PET_1",
+      "achieved": 1,
+      "unlocktime": 1748697561,
+      "name": "Bongo Beat 1",
+      "description": "1 bongo beat"
+    },
+    {
+      "apiname": "PET_10",
+      "achieved": 1,
+      "unlocktime": 1748697561,
+      "name": "Bongo Beat 10",
+      "description": "10 bongo beats"
+    },
+    {
+      "apiname": "PET_100",
+      "achieved": 1,
+      "unlocktime": 1748698761,
+      "name": "Bongo Beat 100",
+      "description": "100 bongo beats"
+    },
+    {
+      "apiname": "PET_1000",
+      "achieved": 1,
+      "unlocktime": 1748699721,
+      "name": "Bongo Beat 1.000",
+      "description": "1.000 bongo beats"
+    },
+    {
+      "apiname": "PET_10000",
+      "achieved": 1,
+      "unlocktime": 1748707283,
+      "name": "Bongo Beat 10.000",
+      "description": "10.000 bongo beats"
+    },
+    {
+      "apiname": "PET_100000",
+      "achieved": 1,
+      "unlocktime": 1748858512,
+      "name": "Bongo Beat Silver",
+      "description": "100.000 bongo beats"
+    },
+    {
+      "apiname": "PET_1000000",
+      "achieved": 1,
+      "unlocktime": 1750845542,
+      "name": "Bongo Beat Gold",
+      "description": "1.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_2M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Platinum",
+      "description": "2.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_3M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Amethyst",
+      "description": "3.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_4M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Emerald",
+      "description": "4.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_5M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Sapphire",
+      "description": "5.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_10M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Ruby",
+      "description": "10.000.000 bongo beats."
+    },
+    {
+      "apiname": "PET_25M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bongo Beat Diamond",
+      "description": "25.000.000 bongo beats. You did it."
+    },
+    {
+      "apiname": "COLLECTOR_5",
+      "achieved": 1,
+      "unlocktime": 1780145851,
+      "name": "Item Collector",
+      "description": "Collect 5 items."
+    },
+    {
+      "apiname": "COLLECTOR_20",
+      "achieved": 1,
+      "unlocktime": 1780145851,
+      "name": "Item Collector",
+      "description": "Collect 20 items."
+    },
+    {
+      "apiname": "COLLECTOR_100",
+      "achieved": 1,
+      "unlocktime": 1780145851,
+      "name": "Item Collector",
+      "description": "Collect 100 items."
+    },
+    {
+      "apiname": "COLLECTOR_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Collector",
+      "description": "Collect 1.000 items."
+    },
+    {
+      "apiname": "EMOTER_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emoter",
+      "description": "Use emojis 10 times."
+    },
+    {
+      "apiname": "EMOTER_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emoter",
+      "description": "Use emojis 100 times."
+    },
+    {
+      "apiname": "EMOTER_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emoter",
+      "description": "Use emojis 1.000 times."
+    },
+    {
+      "apiname": "EMOTER_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparkly Emoter",
+      "description": "Use emojis 10.000 times."
+    },
+    {
+      "apiname": "MULTIPLAYER_2",
+      "achieved": 1,
+      "unlocktime": 1780145911,
+      "name": "Meowtiplayer Friend",
+      "description": "Have a lobby with 2 players."
+    },
+    {
+      "apiname": "MULTIPLAYER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meowtiplayer Group",
+      "description": "Have a lobby with 5 players."
+    },
+    {
+      "apiname": "MULTIPLAYER_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meowtiplayer Pack",
+      "description": "Have a lobby with 10 players."
+    },
+    {
+      "apiname": "MULTIPLAYER_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meowtiplayer Party",
+      "description": "Have a lobby with 50 players."
+    },
+    {
+      "apiname": "TRADER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trader",
+      "description": "Use the exchange once."
+    },
+    {
+      "apiname": "TRADER_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vendor",
+      "description": "Use the exchange 10 times."
+    },
+    {
+      "apiname": "TRADER_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchant",
+      "description": "Use the exchange 100 times."
+    }
+  ]
+}

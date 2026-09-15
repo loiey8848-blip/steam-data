@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3985950,
+  "game": "R.I.P. - Reincarnation Insurance Program",
+  "total": 50,
+  "unlocked": 40,
+  "percent": 80.0,
+  "updated_at_utc": "2026-09-15T06:53:37.999369+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 1,
+      "unlocktime": 1769404503,
+      "name": "Philomel's First Song",
+      "description": "Win a battle using Philomel"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 1,
+      "unlocktime": 1769743249,
+      "name": "Claire's Debut",
+      "description": "Win a battle using Claire"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 1,
+      "unlocktime": 1769743515,
+      "name": "Mors' Entrance",
+      "description": "Win a battle using Mors"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 1,
+      "unlocktime": 1769745029,
+      "name": "Katerina's Dance",
+      "description": "Win a battle using Katerina"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 1,
+      "unlocktime": 1769746124,
+      "name": "Luna's Light",
+      "description": "Win a battle using Luna"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 1,
+      "unlocktime": 1769403990,
+      "name": "Spider's Bane",
+      "description": "Defeat the Venomous Widow in Death Swamp for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 1,
+      "unlocktime": 1769404503,
+      "name": "Ancient Tree Hunt",
+      "description": "Defeat the Corrupted Ancient in Death Swamp for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 1,
+      "unlocktime": 1769626260,
+      "name": "Tyrant's End",
+      "description": "Defeat the Flesh Tyrant in Desert Ruins for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 1,
+      "unlocktime": 1769714401,
+      "name": "Sandstorm Conqueror",
+      "description": "Defeat the Sandstorm Lord in Desert Ruins for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 1,
+      "unlocktime": 1769715176,
+      "name": "Fall of the Twins",
+      "description": "Defeat the Twins (Frostbane and Ashbane) in Nordic Frostfield for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 1,
+      "unlocktime": 1769715836,
+      "name": "Plague God's Judgment",
+      "description": "Defeat the Plague Angel in Nordic Frostfield for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 1,
+      "unlocktime": 1769404503,
+      "name": "Risk Breaker",
+      "description": "Clear a map at Risk Lv. 1 for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 1,
+      "unlocktime": 1769714401,
+      "name": "Into the Danger",
+      "description": "Clear a map at Risk Lv. 2 for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 1,
+      "unlocktime": 1769715836,
+      "name": "Ultimate Challenge",
+      "description": "Clear a map at Risk Lv. 3 for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 1,
+      "unlocktime": 1769717463,
+      "name": "Nightmare Commences",
+      "description": "Clear a map at Risk Lv. 4 for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 1,
+      "unlocktime": 1769742376,
+      "name": "Desperate Survival",
+      "description": "Clear a map at Risk Lv. 5 for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 1,
+      "unlocktime": 1769766001,
+      "name": "Horde Sweeper",
+      "description": "Defeat 50,000 zombies in total"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 1,
+      "unlocktime": 1769767947,
+      "name": "Elite Hunter",
+      "description": "Defeat 500 Elite enemies in total"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 1,
+      "unlocktime": 1769782737,
+      "name": "Boss Reaper",
+      "description": "Defeat 50 Bosses in total"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 1,
+      "unlocktime": 1769835597,
+      "name": "Quest Master",
+      "description": "Complete 80 Quests in total"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 1,
+      "unlocktime": 1769582918,
+      "name": "Rising from the Ashes",
+      "description": "Die for the first time in battle"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 1,
+      "unlocktime": 1769626206,
+      "name": "Reincarnation Insurance",
+      "description": "Revive for the first time in battle"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 1,
+      "unlocktime": 1769404561,
+      "name": "Five-Star Debut",
+      "description": "Achieve a 5-star rating in battle for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 1,
+      "unlocktime": 1769768743,
+      "name": "Event Investigator",
+      "description": "Investigate over 30 Events in a single run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 1,
+      "unlocktime": 1769405625,
+      "name": "Tech Maniac",
+      "description": "Obtain over 15 different Divine Techs in a single run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 1,
+      "unlocktime": 1769843094,
+      "name": "Lucky Moment",
+      "description": "Obtain over 4 pieces of mythic equipment in a single run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 1,
+      "unlocktime": 1769742692,
+      "name": "Small Fortune",
+      "description": "Accumulate 200,000 Credits in total"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 1,
+      "unlocktime": 1769742672,
+      "name": "Headhunt Vanguard",
+      "description": "Clear Headhunt Assault Mode for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 1,
+      "unlocktime": 1769404670,
+      "name": "First Transaction",
+      "description": "Purchase any item from the Store"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 1,
+      "unlocktime": 1769403999,
+      "name": "Mythic Empowered",
+      "description": "Obtain your first mythic equipment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 1,
+      "unlocktime": 1769405516,
+      "name": "Fully Armed",
+      "description": "Equip all 10 equipment slots"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 1,
+      "unlocktime": 1769717463,
+      "name": "Weapon Master",
+      "description": "Obtain 20 weapons"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_32",
+      "achieved": 1,
+      "unlocktime": 1769771621,
+      "name": "Defense Master",
+      "description": "Obtain 100 pieces of armor"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_33",
+      "achieved": 1,
+      "unlocktime": 1769714475,
+      "name": "Dismantle Initiation",
+      "description": "Dismantle equipment for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_34",
+      "achieved": 1,
+      "unlocktime": 1769772717,
+      "name": "Reforging Trial",
+      "description": "Reforge equipment for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_35",
+      "achieved": 1,
+      "unlocktime": 1769743750,
+      "name": "Set Crafter",
+      "description": "Craft a Pact Set for equipment for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_36",
+      "achieved": 1,
+      "unlocktime": 1769714569,
+      "name": "Warehouse Expert",
+      "description": "Purchase a Warehouse Slot for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_37",
+      "achieved": 1,
+      "unlocktime": 1769789783,
+      "name": "Talent Awakening",
+      "description": "Use 20 Talent Points for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_38",
+      "achieved": 1,
+      "unlocktime": 1769835585,
+      "name": "Fully Stocked",
+      "description": "Store over 100 items in the Warehouse"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_39",
+      "achieved": 1,
+      "unlocktime": 1769845217,
+      "name": "Gathering of Heroes",
+      "description": "Upgrade 5 characters to Lv. 40"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soaring Ambition",
+      "description": "Win a battle using Ling"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ace Training",
+      "description": "Play the arcade game 3 times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machine Uprising",
+      "description": "Defeat the Thunder Guardian in Skyfort for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Slayer",
+      "description": "Defeat the Cataclysm Drake in Skyfort for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anonymous Buyer",
+      "description": "Purchase 20 equipment from the Black Market"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Overtime",
+      "description": "Start a battle in the Endless Journey"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mythic Artisan",
+      "description": "Obtain any 5 Mythic equipment through Forging"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spacetime Marshal",
+      "description": "Clear Void Spire Layer 30"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hour of Doom",
+      "description": "Defeat Nidh-hotep for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am Legend",
+      "description": "Reach 80% investigation progress in all regions"
+    }
+  ]
+}

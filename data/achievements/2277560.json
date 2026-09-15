@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2277560,
+  "game": "WUCHANG: Fallen Feathers",
+  "total": 40,
+  "unlocked": 40,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:44.402971+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_PLATINUM_01_F",
+      "achieved": 1,
+      "unlocktime": 1759219259,
+      "name": "Fallen Feathers",
+      "description": "Earn all achievements"
+    },
+    {
+      "apiname": "ACH_GOLDEN_01_F",
+      "achieved": 1,
+      "unlocktime": 1756224128,
+      "name": "Dream's Sweet Deceit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_01_F",
+      "achieved": 1,
+      "unlocktime": 1756181791,
+      "name": "Successor of the Bo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_02_F",
+      "achieved": 1,
+      "unlocktime": 1753690634,
+      "name": "Bound by Fate's Threads",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_03_F",
+      "achieved": 1,
+      "unlocktime": 1756222177,
+      "name": "Jarful of Medicine",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_04_F",
+      "achieved": 1,
+      "unlocktime": 1753683028,
+      "name": "Sage",
+      "description": "Answer all riddles correctly"
+    },
+    {
+      "apiname": "ACH_SILVER_05_F",
+      "achieved": 1,
+      "unlocktime": 1756224043,
+      "name": "Legendary Collector",
+      "description": "Acquire all weapons"
+    },
+    {
+      "apiname": "ACH_SILVER_06_F",
+      "achieved": 1,
+      "unlocktime": 1756540237,
+      "name": "Pendant Gatherer",
+      "description": "Find all jade pendants"
+    },
+    {
+      "apiname": "ACH_SILVER_07_F",
+      "achieved": 1,
+      "unlocktime": 1753503879,
+      "name": "Commander - Honglan",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_08_F",
+      "achieved": 1,
+      "unlocktime": 1756539525,
+      "name": "Eternal Glory - Zhao Yun's Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_09_F",
+      "achieved": 1,
+      "unlocktime": 1753552265,
+      "name": "Perfect Bride - Fang Ling",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_10_F",
+      "achieved": 1,
+      "unlocktime": 1753664767,
+      "name": "Sovereign - Zhang Xianzhong's Obsession",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_11_F",
+      "achieved": 1,
+      "unlocktime": 1753683028,
+      "name": "Dragon Emperor - Zhu Youjian's Obsession",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_12_F",
+      "achieved": 1,
+      "unlocktime": 1753690439,
+      "name": "Feathery Ambition - Xuanyangzi",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_13_F",
+      "achieved": 1,
+      "unlocktime": 1756222857,
+      "name": "Demon of Obsession",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SILVER_14_F",
+      "achieved": 1,
+      "unlocktime": 1753668519,
+      "name": "Monstrous Toddler - Bai Kru",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_01_F",
+      "achieved": 1,
+      "unlocktime": 1756013173,
+      "name": "Overflowing Manna",
+      "description": "Fully enhance your Manna Vase"
+    },
+    {
+      "apiname": "ACH_COPPER_02_F",
+      "achieved": 1,
+      "unlocktime": 1756013168,
+      "name": "Surging Manna",
+      "description": "Fully purify your Manna Vase"
+    },
+    {
+      "apiname": "ACH_COPPER_03_F",
+      "achieved": 1,
+      "unlocktime": 1753688739,
+      "name": "Wielder of Power",
+      "description": "Enhance a weapon to the maximum"
+    },
+    {
+      "apiname": "ACH_COPPER_04_F",
+      "achieved": 1,
+      "unlocktime": 1753356867,
+      "name": "Well Met, Divines",
+      "description": "Offer Blood at a Shrine"
+    },
+    {
+      "apiname": "ACH_COPPER_10_F",
+      "achieved": 1,
+      "unlocktime": 1753356348,
+      "name": "Disciplinary Discipline",
+      "description": "Acquire any discipline skill"
+    },
+    {
+      "apiname": "ACH_COPPER_13_F",
+      "achieved": 1,
+      "unlocktime": 1753360343,
+      "name": "Master Raider - Man-eating Dhutanga",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_14_F",
+      "achieved": 1,
+      "unlocktime": 1753379257,
+      "name": "Blightweaver - Great Centipede",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_15_F",
+      "achieved": 1,
+      "unlocktime": 1753593025,
+      "name": "Gluttonous Monstrosity - Lu Hongliu",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_16_F",
+      "achieved": 1,
+      "unlocktime": 1753454934,
+      "name": "Reborn Treant - Soulwood",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_17_F",
+      "achieved": 1,
+      "unlocktime": 1753378887,
+      "name": "Feathered Priest - Lu Bingzhang",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_18_F",
+      "achieved": 1,
+      "unlocktime": 1753513715,
+      "name": "General of the North - Ai Nengqi",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_19_F",
+      "achieved": 1,
+      "unlocktime": 1753527067,
+      "name": "Ming General - Liu Cheng'en",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_20_F",
+      "achieved": 1,
+      "unlocktime": 1753545547,
+      "name": "Mistress of the Night - Huang Yan",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_21_F",
+      "achieved": 1,
+      "unlocktime": 1753615772,
+      "name": "South General - Liu Wenxiu",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_22_F",
+      "achieved": 1,
+      "unlocktime": 1753585785,
+      "name": "Bo Sorcerer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_23_F",
+      "achieved": 1,
+      "unlocktime": 1756181417,
+      "name": "Vermilion Feathers - Honglan",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_24_F",
+      "achieved": 1,
+      "unlocktime": 1756181790,
+      "name": "Bo Magus",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_25_F",
+      "achieved": 1,
+      "unlocktime": 1753513566,
+      "name": "I Call Thee",
+      "description": "Summon an NPC to aid you"
+    },
+    {
+      "apiname": "ACH_COPPER_26_F",
+      "achieved": 1,
+      "unlocktime": 1759217238,
+      "name": "Bamboozling Return",
+      "description": "Defeat 20 Bamboozlings"
+    },
+    {
+      "apiname": "ACH_COPPER_27_F",
+      "achieved": 1,
+      "unlocktime": 1759219253,
+      "name": "Quelling Madness",
+      "description": "Defeat 6 Inner Demons"
+    },
+    {
+      "apiname": "ACH_COPPER_33_F",
+      "achieved": 1,
+      "unlocktime": 1756541541,
+      "name": "Discerning Eye",
+      "description": "Find all gates containing Benedictions"
+    },
+    {
+      "apiname": "ACH_COPPER_34_F",
+      "achieved": 1,
+      "unlocktime": 1756539643,
+      "name": "Well Traveled",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COPPER_35_F",
+      "achieved": 1,
+      "unlocktime": 1756540047,
+      "name": "Shop of Plenty",
+      "description": "Fully unlock all of Wu Gang's stock"
+    },
+    {
+      "apiname": "ACH_COPPER_36_F",
+      "achieved": 1,
+      "unlocktime": 1756224085,
+      "name": "Radiant Faith",
+      "description": "Activate every single Shrine"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 275850,
+  "game": "No Man's Sky",
+  "total": 27,
+  "unlocked": 14,
+  "percent": 51.9,
+  "updated_at_utc": "2026-09-15T06:49:01.793215+00:00",
+  "achievements": [
+    {
+      "apiname": "NATURALIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Scanner Darkly",
+      "description": "Attain ‘Naturalist’ status in Planet Zoology Scanned"
+    },
+    {
+      "apiname": "TRAILBLAZER",
+      "achieved": 1,
+      "unlocktime": 1694284049,
+      "name": "The Stars, Like Dust",
+      "description": "Attain 'Trailblazer' status in Space Exploration"
+    },
+    {
+      "apiname": "LIMITEDFUNDS",
+      "achieved": 1,
+      "unlocktime": 1694249659,
+      "name": "Foundation",
+      "description": "Attain ‘Entrepreneur’ status in Most Units Accrued"
+    },
+    {
+      "apiname": "CONFUSED",
+      "achieved": 1,
+      "unlocktime": 1694263312,
+      "name": "Babel-17",
+      "description": "Attain ‘Confused’ status in Words Collected"
+    },
+    {
+      "apiname": "TAXONOMIST",
+      "achieved": 1,
+      "unlocktime": 1694263312,
+      "name": "Contact",
+      "description": "Attain ‘Known’ status in Alien Colonist Encounters"
+    },
+    {
+      "apiname": "THUG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Use of Weapons",
+      "description": "Attain ‘Novice’ status in Ships Destroyed"
+    },
+    {
+      "apiname": "CLASSIFIER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Star Beast",
+      "description": "Attain ‘Archivist’ status in Planet Zoology Scanned"
+    },
+    {
+      "apiname": "PIONEER",
+      "achieved": 1,
+      "unlocktime": 1694334973,
+      "name": "The Longest Voyage",
+      "description": "Attain 'Pioneer' status in Space Exploration"
+    },
+    {
+      "apiname": "SPACETRUCKER",
+      "achieved": 1,
+      "unlocktime": 1694250517,
+      "name": "The Space Merchants",
+      "description": "Attain ‘Trader’ status in Most Units Accrued"
+    },
+    {
+      "apiname": "ALMOSTTHERE",
+      "achieved": 1,
+      "unlocktime": 1694284230,
+      "name": "The Languages of Pao",
+      "description": "Attain ‘Interpreter’ status in Words Collected"
+    },
+    {
+      "apiname": "ARCHIVIST",
+      "achieved": 1,
+      "unlocktime": 1694323357,
+      "name": "Who Goes There?",
+      "description": "Attain ‘Diplomat’ status in Alien Colonist Encounters"
+    },
+    {
+      "apiname": "WARCRIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pattern for Conquest",
+      "description": "Attain ‘Notorious’ status in Ships Destroyed"
+    },
+    {
+      "apiname": "GETTINGON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stranger in a Strange Land",
+      "description": "Attain ‘Robust’ status in Extreme Survival"
+    },
+    {
+      "apiname": "PIONEER2",
+      "achieved": 1,
+      "unlocktime": 1694276035,
+      "name": "Symphony For A Lost Traveler",
+      "description": "Attain ‘Nomad’ status in On-foot Exploration"
+    },
+    {
+      "apiname": "ENCYCLOPAEDIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Galapagos",
+      "description": "Attain ‘Encyclopedia’ status in Planet Zoology Scanned"
+    },
+    {
+      "apiname": "DISCOVERER",
+      "achieved": 1,
+      "unlocktime": 1694524045,
+      "name": "A Space Odyssey",
+      "description": "Attain ‘Discoverer’ status in Space Exploration"
+    },
+    {
+      "apiname": "SHIPPINGMAGNATE",
+      "achieved": 1,
+      "unlocktime": 1694250517,
+      "name": "The Diamond Age",
+      "description": "Attain ‘Magnate’ status in Most Units Accrued"
+    },
+    {
+      "apiname": "BABELFISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Citizen of the Galaxy",
+      "description": "Attain ‘Babelfish’ status in Words Collected"
+    },
+    {
+      "apiname": "ATTENBORG",
+      "achieved": 1,
+      "unlocktime": 1694349262,
+      "name": "What Mad Universe",
+      "description": "Attain ‘Ambassador’ status in Alien Colonist Encounters"
+    },
+    {
+      "apiname": "GENOCIDAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Forever War",
+      "description": "Attain ‘Legend’ status in Ships Destroyed"
+    },
+    {
+      "apiname": "METHUSELAH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sentinel",
+      "description": "Attain ‘Everlasting’ status in Extreme Survival"
+    },
+    {
+      "apiname": "THEEVERLASTING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have Spacesuit - Will Travel",
+      "description": "Attain ‘Adventurer’ status in On-foot Exploration"
+    },
+    {
+      "apiname": "CRADLE",
+      "achieved": 1,
+      "unlocktime": 1693729592,
+      "name": "Cradle",
+      "description": "Claim a Base or Buy a Freighter"
+    },
+    {
+      "apiname": "NAVIGATORS",
+      "achieved": 1,
+      "unlocktime": 1694276035,
+      "name": "Navigators",
+      "description": "Build an Exocraft"
+    },
+    {
+      "apiname": "REUNION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunion",
+      "description": "Visit another Player's Base"
+    },
+    {
+      "apiname": "TAKEADEEPBREATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a Deep Breath",
+      "description": "Reach the Centre of the Galaxy in Survival Mode"
+    },
+    {
+      "apiname": "TOLIVEFOREVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Live Forever",
+      "description": "Reach the Centre of the Galaxy in Permadeath Mode"
+    }
+  ]
+}

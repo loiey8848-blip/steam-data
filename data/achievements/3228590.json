@@ -1,0 +1,417 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3228590,
+  "game": "Deadzone: Rogue",
+  "total": 58,
+  "unlocked": 58,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:27.466413+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_CollectScrap500",
+      "achieved": 1,
+      "unlocktime": 1768207356,
+      "name": "Scrappy",
+      "description": "Collect 500 Scrap"
+    },
+    {
+      "apiname": "ACH_CollectScrap50000",
+      "achieved": 1,
+      "unlocktime": 1768236227,
+      "name": "Scrap Pile",
+      "description": "Collect 50,000 Scrap"
+    },
+    {
+      "apiname": "ACH_CollectScrap100000",
+      "achieved": 1,
+      "unlocktime": 1768273155,
+      "name": "Scrap Lord",
+      "description": "Collect 100,000 Scrap"
+    },
+    {
+      "apiname": "ACH_CollectTech100",
+      "achieved": 1,
+      "unlocktime": 1768207912,
+      "name": "Tech Enthusiast",
+      "description": "Collect 100 Tech"
+    },
+    {
+      "apiname": "ACH_CollectTech1000",
+      "achieved": 1,
+      "unlocktime": 1768234524,
+      "name": "Tech Titan",
+      "description": "Collect 1,000 Tech"
+    },
+    {
+      "apiname": "ACH_CollectTech5000",
+      "achieved": 1,
+      "unlocktime": 1768271811,
+      "name": "Crypto Wizard",
+      "description": "Collect 5,000 Tech"
+    },
+    {
+      "apiname": "ACH_KillAndroids1",
+      "achieved": 1,
+      "unlocktime": 1768206956,
+      "name": "What Are These?",
+      "description": "Kill your first Android"
+    },
+    {
+      "apiname": "ACH_KillAndroids500",
+      "achieved": 1,
+      "unlocktime": 1768234904,
+      "name": "Terminate This",
+      "description": "Kill 500 Androids"
+    },
+    {
+      "apiname": "ACH_KillAndroids1000",
+      "achieved": 1,
+      "unlocktime": 1768271894,
+      "name": "Exterminate!",
+      "description": "Kill 1,000 Androids"
+    },
+    {
+      "apiname": "ACH_KillAndroidsWithBarrel1",
+      "achieved": 1,
+      "unlocktime": 1768208069,
+      "name": "Contents Under Pressure",
+      "description": "Kill an enemy with an Explosive Barrel"
+    },
+    {
+      "apiname": "ACH_KillAndroidsWithBarrel100",
+      "achieved": 1,
+      "unlocktime": 1768326244,
+      "name": "Barrel of Laughs",
+      "description": "Kill 100 enemies with Explosive Barrels"
+    },
+    {
+      "apiname": "ACH_Die1",
+      "achieved": 1,
+      "unlocktime": 1768215988,
+      "name": "Did I Just Die?",
+      "description": "Die for the first time"
+    },
+    {
+      "apiname": "ACH_Die10",
+      "achieved": 1,
+      "unlocktime": 1768275771,
+      "name": "I live... I die. I live... I die. I live... I die.",
+      "description": "Die 10 times"
+    },
+    {
+      "apiname": "ACH_StartMission",
+      "achieved": 1,
+      "unlocktime": 1768206934,
+      "name": "Who the Hell am I?",
+      "description": "Start your first Mission"
+    },
+    {
+      "apiname": "ACH_CompleteMission",
+      "achieved": 1,
+      "unlocktime": 1768235447,
+      "name": "Welcome to the Deadzone",
+      "description": "Complete your first Mission"
+    },
+    {
+      "apiname": "ACH_CompleteSpecialty",
+      "achieved": 1,
+      "unlocktime": 1768272663,
+      "name": "Special Ops",
+      "description": "Complete your first Specialty Mission"
+    },
+    {
+      "apiname": "ACH_CompleteStory1",
+      "achieved": 1,
+      "unlocktime": 1768235447,
+      "name": "Brain in a Jar",
+      "description": "Complete the Story of Zone 1"
+    },
+    {
+      "apiname": "ACH_CompleteZone1",
+      "achieved": 1,
+      "unlocktime": 1768279752,
+      "name": "This Bug Hunt Got Complicated",
+      "description": "Complete all Zone 1 Missions"
+    },
+    {
+      "apiname": "ACH_CompleteStory2",
+      "achieved": 1,
+      "unlocktime": 1768317640,
+      "name": "Stay Frosty",
+      "description": "Complete the Story of Zone 2"
+    },
+    {
+      "apiname": "ACH_CompleteZone2",
+      "achieved": 1,
+      "unlocktime": 1768404404,
+      "name": "Executive Dysfunction",
+      "description": "Complete all Zone 2 Missions"
+    },
+    {
+      "apiname": "ACH_CompleteMission_Hard",
+      "achieved": 1,
+      "unlocktime": 1768272663,
+      "name": "Hardcore",
+      "description": "Complete a Mission on at least Hard Difficulty"
+    },
+    {
+      "apiname": "ACH_CompleteMission_Expert",
+      "achieved": 1,
+      "unlocktime": 1768620219,
+      "name": "Express Elevator to Hell",
+      "description": "Complete a Mission on at least Expert Difficulty"
+    },
+    {
+      "apiname": "ACH_CompleteMission_Nightmare",
+      "achieved": 1,
+      "unlocktime": 1768620219,
+      "name": "Bad Dreams",
+      "description": "Complete a Mission on Nightmare Difficulty"
+    },
+    {
+      "apiname": "ACH_MadeAFriend",
+      "achieved": 1,
+      "unlocktime": 1768206762,
+      "name": "Made a Friend",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ReadDataLog1",
+      "achieved": 1,
+      "unlocktime": 1768207655,
+      "name": "Looky Here",
+      "description": "Read your first Data Log"
+    },
+    {
+      "apiname": "ACH_TechUpgrades1",
+      "achieved": 1,
+      "unlocktime": 1768216021,
+      "name": "Gaining Power",
+      "description": "Upgrade a Tech Mastery for the first time"
+    },
+    {
+      "apiname": "ACH_TechUpgrades2",
+      "achieved": 1,
+      "unlocktime": 1768274473,
+      "name": "Feeling Good",
+      "description": "Upgrade at least 3 Tech Masteries to Tier 5"
+    },
+    {
+      "apiname": "ACH_TechUpgrades3",
+      "achieved": 1,
+      "unlocktime": 1768545117,
+      "name": "Plot Armor",
+      "description": "Upgrade all of your Tech Masteries to MAX Tier"
+    },
+    {
+      "apiname": "ACH_SuperUpgrades1",
+      "achieved": 1,
+      "unlocktime": 1768317748,
+      "name": "Getting an Upgrade",
+      "description": "Upgrade a Superior Item for the first time"
+    },
+    {
+      "apiname": "ACH_SuperUpgrades2",
+      "achieved": 1,
+      "unlocktime": 1768317754,
+      "name": "This Ain’t Standard Issue",
+      "description": "Upgrade at least 3 Superior Items to Tier 3"
+    },
+    {
+      "apiname": "ACH_SuperUpgrades3",
+      "achieved": 1,
+      "unlocktime": 1768404466,
+      "name": "Maxed Out",
+      "description": "Upgrade all of your Superior Items to MAX Tier"
+    },
+    {
+      "apiname": "ACH_SpendScrap",
+      "achieved": 1,
+      "unlocktime": 1768276609,
+      "name": "Space Wallet",
+      "description": "Spend 50,000 Scrap at the Fabricator"
+    },
+    {
+      "apiname": "ACH_CompleteMission_Undamaged",
+      "achieved": 1,
+      "unlocktime": 1771042240,
+      "name": "Invincible",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FabricateAny",
+      "achieved": 1,
+      "unlocktime": 1768207212,
+      "name": "Fabricate a Beer",
+      "description": "Make your first purchase at the Fabricator"
+    },
+    {
+      "apiname": "ACH_FabricateLegendary",
+      "achieved": 1,
+      "unlocktime": 1768215736,
+      "name": "Ooo, Shiny!",
+      "description": "Purchase a Legendary item at the Fabricator"
+    },
+    {
+      "apiname": "ACH_LoadoutLegendary",
+      "achieved": 1,
+      "unlocktime": 1770797886,
+      "name": "Blinged Out",
+      "description": "Have a Loadout of all Legendary Equipment"
+    },
+    {
+      "apiname": "ACH_JazzHands",
+      "achieved": 1,
+      "unlocktime": 1771023822,
+      "name": "Jazz Hands",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PonderOrb",
+      "achieved": 1,
+      "unlocktime": 1771068662,
+      "name": "Ponder Orb",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Botanist",
+      "achieved": 1,
+      "unlocktime": 1771076488,
+      "name": "Botanist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CompleteStory3",
+      "achieved": 1,
+      "unlocktime": 1768325653,
+      "name": "Brain Drain",
+      "description": "Complete the Story of Zone 3"
+    },
+    {
+      "apiname": "ACH_CompleteZone3",
+      "achieved": 1,
+      "unlocktime": 1768669592,
+      "name": "Mental Fortitude",
+      "description": "Complete all Zone 3 Missions"
+    },
+    {
+      "apiname": "ACH_CompleMission_All",
+      "achieved": 1,
+      "unlocktime": 1768670279,
+      "name": "Been There, Done That",
+      "description": "Complete every Mission"
+    },
+    {
+      "apiname": "ACH_CompleteMission_All_Hard",
+      "achieved": 1,
+      "unlocktime": 1768703429,
+      "name": "Hardcore to the Max",
+      "description": "Complete every Mission on at least Hard Difficulty"
+    },
+    {
+      "apiname": "ACH_CompleteMission_All_Expert",
+      "achieved": 1,
+      "unlocktime": 1770996924,
+      "name": "Death Incarnate",
+      "description": "Complete every Mission on at least Expert Difficulty"
+    },
+    {
+      "apiname": "ACH_CompleteMission_All_Nightmare",
+      "achieved": 1,
+      "unlocktime": 1770996924,
+      "name": "I am the Nightmare",
+      "description": "Complete every Mission on Nightmare Difficulty"
+    },
+    {
+      "apiname": "ACH_ReadAllDataLogs",
+      "achieved": 1,
+      "unlocktime": 1770857935,
+      "name": "Too Long, Didn't Read",
+      "description": "Read all of the Data Logs"
+    },
+    {
+      "apiname": "ACH_BackToBasics",
+      "achieved": 1,
+      "unlocktime": 1769236214,
+      "name": "Back to Basics",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ActivateSynergy",
+      "achieved": 1,
+      "unlocktime": 1768324070,
+      "name": "Item Alchemist",
+      "description": "Activate a Synergy for the first time"
+    },
+    {
+      "apiname": "ACH_ActivateSynergy3",
+      "achieved": 1,
+      "unlocktime": 1768325053,
+      "name": "Feeling the Power",
+      "description": "Have 3 Synergies active at the same time"
+    },
+    {
+      "apiname": "ACH_SynergiesActivated",
+      "achieved": 1,
+      "unlocktime": 1771087344,
+      "name": "Promote Synergy",
+      "description": "Activate each Synergy at least once"
+    },
+    {
+      "apiname": "ACH_CompleteMission_Coop",
+      "achieved": 1,
+      "unlocktime": 1770774852,
+      "name": "Jarheads",
+      "description": "Complete any Mission in Coop"
+    },
+    {
+      "apiname": "ACH_Sanctify1",
+      "achieved": 1,
+      "unlocktime": 1768545499,
+      "name": "Gunpowder Piety",
+      "description": "Sanctify a weapon for the first time"
+    },
+    {
+      "apiname": "ACH_Sanctify2",
+      "achieved": 1,
+      "unlocktime": 1771056156,
+      "name": "Devout Weaponsmith",
+      "description": "Sanctify 8 weapons to tier 2"
+    },
+    {
+      "apiname": "ACH_Sanctify4",
+      "achieved": 1,
+      "unlocktime": 1771085756,
+      "name": "Hallowed Forgemaster",
+      "description": "Sanctify all weapons to Max tier"
+    },
+    {
+      "apiname": "ACH_ReadZone4Logs",
+      "achieved": 1,
+      "unlocktime": 1770984329,
+      "name": "Forbidden Texts",
+      "description": "Read all of the Apophis Data Logs"
+    },
+    {
+      "apiname": "ACH_DigNoDeeper",
+      "achieved": 1,
+      "unlocktime": 1771077173,
+      "name": "Dig No Deeper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CompleteStory4",
+      "achieved": 1,
+      "unlocktime": 1768549283,
+      "name": "Apophis Apocrypha",
+      "description": "Complete the Story of Zone 4"
+    },
+    {
+      "apiname": "ACH_CompleteZone4",
+      "achieved": 1,
+      "unlocktime": 1768670279,
+      "name": "Asteroid Explorer",
+      "description": "Complete all Zone 4 Missions"
+    }
+  ]
+}

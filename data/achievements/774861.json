@@ -1,0 +1,557 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 774861,
+  "game": "Project Winter",
+  "total": 78,
+  "unlocked": 6,
+  "percent": 7.7,
+  "updated_at_utc": "2026-09-15T06:50:43.971923+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_ESCAPE_HELI",
+      "achieved": 1,
+      "unlocktime": 1617712056,
+      "name": "Get to Da Choppa",
+      "description": "Escape on a helicopter"
+    },
+    {
+      "apiname": "ACH_GUNSMITH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunsmith",
+      "description": "Craft 20 firearms"
+    },
+    {
+      "apiname": "ACH_ESCAPE_FULTON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leaving on a Jet Plane",
+      "description": "Escape on the escape pod"
+    },
+    {
+      "apiname": "ACH_ESCAPE_ARGO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jumping on the Bandwagon",
+      "description": "Escape on the ground vehicle"
+    },
+    {
+      "apiname": "ACH_ESCAPE_SUB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red October",
+      "description": "Escape on the submarine"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One is the Loneliest Number",
+      "description": "Escape on a vehicle by yourself"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dynamic Duo",
+      "description": "Escape on a vehicle with one other survivor"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Third Wheel",
+      "description": "Escape on a vehicle with two other survivors"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The More the Merrier",
+      "description": "Escape on a vehicle with three other survivors"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_5",
+      "achieved": 1,
+      "unlocktime": 1617712056,
+      "name": "The Fallen Will Be Remembered",
+      "description": "Escape on a vehicle with four other survivors"
+    },
+    {
+      "apiname": "ACH_ESCAPE_WITH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No One Left Behind",
+      "description": "Escape on a vehicle with five other survivors"
+    },
+    {
+      "apiname": "ACH_LUMBERJACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lumberjack",
+      "description": "Chop down 100 trees"
+    },
+    {
+      "apiname": "ACH_MINER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miner",
+      "description": "Destroy 75 rocks"
+    },
+    {
+      "apiname": "ACH_GATHERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gatherer",
+      "description": "Harvest 200 berries"
+    },
+    {
+      "apiname": "ACH_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Kill 50 animals"
+    },
+    {
+      "apiname": "ACH_HEALTH_FREAK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Health Freak",
+      "description": "Eat 100 roots"
+    },
+    {
+      "apiname": "ACH_ESCAPE_VTOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Verticality",
+      "description": "Escape on the VTOL"
+    },
+    {
+      "apiname": "ACH_SECOND_ESCAPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Go First",
+      "description": "Escape on the second vehicle called from the cabin radio"
+    },
+    {
+      "apiname": "ACH_NO_RADIO",
+      "achieved": 1,
+      "unlocktime": 1617712063,
+      "name": "Radio Silence",
+      "description": "Do not pick up a portable radio for one game"
+    },
+    {
+      "apiname": "ACH_PACIFIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacifist",
+      "description": "Play 10 games without killing anyone"
+    },
+    {
+      "apiname": "ACH_NO_RANGED",
+      "achieved": 1,
+      "unlocktime": 1617712063,
+      "name": "Close Quarters",
+      "description": "Do not pick up or craft any ranged weapons for one game "
+    },
+    {
+      "apiname": "ACH_NO_ANIMAL_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat is Murder",
+      "description": "Do not kill any animals for one game"
+    },
+    {
+      "apiname": "ACH_COOP_CONSOLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooperation is Key",
+      "description": "Operate a co-op console 25 times"
+    },
+    {
+      "apiname": "ACH_HANDS_OFF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hands-Off Killer",
+      "description": "As a Traitor, have no Survivors living without directly killing any of them"
+    },
+    {
+      "apiname": "ACH_EXPLORE_MAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brave New World",
+      "description": "Explore the entire map in one game"
+    },
+    {
+      "apiname": "ACH_DOUBLE_CROSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Traitor",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_I_STAND_ALONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last One Standing",
+      "description": "Be the only one left alive"
+    },
+    {
+      "apiname": "ACH_BLACKSMITH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith",
+      "description": "Craft 20 items in one game"
+    },
+    {
+      "apiname": "ACH_CHEF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exquisite Chef",
+      "description": "Cook 30 items in one game"
+    },
+    {
+      "apiname": "ACH_TRAITOR_CRATES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clear Your Cache",
+      "description": "Open 10 traitor caches"
+    },
+    {
+      "apiname": "ACH_TRAITOR_ABILITIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clandestine",
+      "description": "Use 10 traitor airdrop abilities"
+    },
+    {
+      "apiname": "ACH_SABOTEUR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saboteur",
+      "description": "Conduct 10 sabotage actions"
+    },
+    {
+      "apiname": "ACH_ASSASSIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin",
+      "description": "Knock down 10 survivors as a traitor"
+    },
+    {
+      "apiname": "ACH_CALL_FOR_RESCUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is There Anybody Out There?",
+      "description": "Call the rescue from the cabin radio"
+    },
+    {
+      "apiname": "ACH_ONLY_ESCAPEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tell Our Story",
+      "description": "Be the only one to escape in a game"
+    },
+    {
+      "apiname": "ACH_BONUS_OBJ_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Done",
+      "description": "Complete 5 bonus objectives"
+    },
+    {
+      "apiname": "ACH_BONUS_OBJ_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Star",
+      "description": "Complete 10 bonus objectives"
+    },
+    {
+      "apiname": "ACH_BONUS_OBJ_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over-Achiever",
+      "description": "Complete 25 bonus objectives"
+    },
+    {
+      "apiname": "ACH_SURVIVOR",
+      "achieved": 1,
+      "unlocktime": 1617712063,
+      "name": "I'm a Survivor",
+      "description": "Escape as a survivor"
+    },
+    {
+      "apiname": "ACH_TRAITOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Et tu, Brute?",
+      "description": "Kill a survivor as a traitor"
+    },
+    {
+      "apiname": "ACH_BRAD_PITT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What's in the Box?",
+      "description": "Complete the traitor team goal without opening a single traitor cache"
+    },
+    {
+      "apiname": "ACH_BLIZZARD_BEAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Testing Physical Limits",
+      "description": "Stay outside for the entire duration of blizzard events for one game"
+    },
+    {
+      "apiname": "ACH_BLACK_KNIGHT",
+      "achieved": 1,
+      "unlocktime": 1617712063,
+      "name": "Tis' but a Flesh Wound",
+      "description": "Survive to the end and escape without using any healing items"
+    },
+    {
+      "apiname": "ACH_CHARLES_BRONSON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vigilante Justice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINAL_COUNTDOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better Late than Never",
+      "description": "Escape within the last minute of the round"
+    },
+    {
+      "apiname": "ACH_SPEED_HANDLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tight Schedule",
+      "description": "Escape within 15 minutes from the start of the game"
+    },
+    {
+      "apiname": "ACH_LAST_SURVIVOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Women and Children First",
+      "description": "Be the last survivor to board an escape"
+    },
+    {
+      "apiname": "ACH_RANDY_JOHNSON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Run",
+      "description": "Kill an animal with a thrown item"
+    },
+    {
+      "apiname": "ACH_HYPOCRITIC_OAF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hypocritic Oaf",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LITTLE_RED_HEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Red Hen",
+      "description": "As a survivor, hit the 'repair' button on both objectives, and call for the rescue"
+    },
+    {
+      "apiname": "ACH_DECEIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Deceit is Real",
+      "description": "As a traitor, hit the 'repair' button on 10 survivor objectives"
+    },
+    {
+      "apiname": "ACH_DOUBLE_AGENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Agent",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MASTER_OF_DISGUISE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Disguise",
+      "description": "Swap clothes with 20 corpses"
+    },
+    {
+      "apiname": "ACH_POISONER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poisoner",
+      "description": "Poison 10 interactable objects"
+    },
+    {
+      "apiname": "ACH_DARK_CHEF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Chef",
+      "description": "Craft 20 poisoned pot pies"
+    },
+    {
+      "apiname": "ACH_IMMUNE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immune!",
+      "description": "Remove the poison effect using a first aid kit 5 times"
+    },
+    {
+      "apiname": "ACH_TRUTH-IAL_PURSUIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Pursuit of Truth",
+      "description": "Help open the truth serum bunker 10 times"
+    },
+    {
+      "apiname": "ACH_PSYCHO_WAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Psychological Warfare",
+      "description": "Use the truth serum 3 times on a player while playing as a traitor"
+    },
+    {
+      "apiname": "ACH_FREE_TRUTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Truth Shall Set You Free",
+      "description": "Use the truth serum 3 times on a player while playing as a survivor"
+    },
+    {
+      "apiname": "ACH_TUTORIAL_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baby Steps",
+      "description": "Complete Basic Practice"
+    },
+    {
+      "apiname": "ACH_POSSESSED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Possessed",
+      "description": "Convert 3 survivors in a single round as the Demon"
+    },
+    {
+      "apiname": "ACH_HIVE_MIND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hive Mind",
+      "description": "Convert 3 survivors in a single round as the Whisperer"
+    },
+    {
+      "apiname": "ACH_AMBUSHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ambusher",
+      "description": "Successfully convert a survivor during the Blackout event"
+    },
+    {
+      "apiname": "ACH_GOD_WHERE_YOU_AT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where Is Your God Now?",
+      "description": "Break a survivor's Rosary"
+    },
+    {
+      "apiname": "ACH_BEGONE_DEVIL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Begone, Devil",
+      "description": "Use a Rosary to protect against a conversion"
+    },
+    {
+      "apiname": "ACH_STRAIGHT_NARROW_PATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Straight and Narrow Path",
+      "description": "Be the only survivor alive at the end of a round that has not been converted"
+    },
+    {
+      "apiname": "ACH_ELUSIVE_CRYPTID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Elusive Cryptid",
+      "description": "Survive to the end of a round as the Yeti"
+    },
+    {
+      "apiname": "ACH_PICKING_SIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Picking a Side",
+      "description": "Win a round with the survivors as the Yeti"
+    },
+    {
+      "apiname": "ACH_DARK_SIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gone to the Dark Side",
+      "description": "Complete your bonus objective and get a traitor win while playing as the Yeti"
+    },
+    {
+      "apiname": "ACH_GREATEST_HUNT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Greatest Hunt",
+      "description": "Take down a wild animal during the Witching Hour event"
+    },
+    {
+      "apiname": "ACH_LIGHT_IN_THE_DARK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light in the Dark",
+      "description": "Use a flashbang during the Blackout event"
+    },
+    {
+      "apiname": "ACH_FOOL_ME_ONCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fool Me Once...",
+      "description": "Get ambushed by wolves in bunkers twice in one game"
+    },
+    {
+      "apiname": "ACH_LIAM_NEESON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Grey",
+      "description": "Kill 3 wolves with your bare hands in a single game"
+    },
+    {
+      "apiname": "ACH_BUNKER_BUSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunker Buster",
+      "description": "Sabotage 3 bunkers in a single game"
+    },
+    {
+      "apiname": "ACH_PRACTICE_ESCAPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PRACTICE_SABOTAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking New Ground",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PRACTICE_OPENED_BUNKERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unlock and Load",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PRACTICE_HIKE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a Hike",
+      "description": ""
+    }
+  ]
+}

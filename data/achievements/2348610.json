@@ -1,0 +1,1278 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2348610,
+  "game": "Slime 3K: Rise Against Despot",
+  "total": 181,
+  "unlocked": 3,
+  "percent": 1.7,
+  "updated_at_utc": "2026-09-15T06:52:45.512478+00:00",
+  "achievements": [
+    {
+      "apiname": "kill_novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Punycide",
+      "description": "Kill 100000 Newbies"
+    },
+    {
+      "apiname": "kill_armor_reducer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Towers",
+      "description": "Kill 2 Watchers"
+    },
+    {
+      "apiname": "kill_ballerina",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloody Swan Lake",
+      "description": "Kill 3000 Ballerinas"
+    },
+    {
+      "apiname": "kill_bee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poke the Hive",
+      "description": "Kill 10000 Bees"
+    },
+    {
+      "apiname": "kill_blade_mailer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Kill 10 Thornies"
+    },
+    {
+      "apiname": "kill_burning_mage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-Mage",
+      "description": "Kill 666 Fire Mages"
+    },
+    {
+      "apiname": "kill_chainsaw_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-Maniac",
+      "description": "Kill 666 Maniacs"
+    },
+    {
+      "apiname": "kill_chinese_guy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tournament Champion",
+      "description": "Kill 2000 Martial Arts Masters"
+    },
+    {
+      "apiname": "kill_darth_human",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Side of the Force",
+      "description": "Kill 600 Laser Swordsmen"
+    },
+    {
+      "apiname": "kill_fridge_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunger",
+      "description": "Kill 50 Fridge Men"
+    },
+    {
+      "apiname": "kill_guts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Berserk",
+      "description": "Kill 499 Black Swordsmen"
+    },
+    {
+      "apiname": "kill_heal_bot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can Opener",
+      "description": "Kill 300 Bots"
+    },
+    {
+      "apiname": "kill_human_doc_oc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killing the Villains",
+      "description": "Kill 5000 Doc Ocs"
+    },
+    {
+      "apiname": "kill_mad_man",
+      "achieved": 1,
+      "unlocktime": 1766904808,
+      "name": "Quick Reaction",
+      "description": "Kill 10 Madmen"
+    },
+    {
+      "apiname": "kill_orb",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brain Brawl",
+      "description": "Kill 3000 Brains"
+    },
+    {
+      "apiname": "kill_plant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pesticides",
+      "description": "Kill 300 Mantraps"
+    },
+    {
+      "apiname": "kill_specter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghostbuster",
+      "description": "Kill 3000 Specters"
+    },
+    {
+      "apiname": "kill_stilts_walker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Hate the Circus",
+      "description": "Kill 1000 Stilt-Walkers"
+    },
+    {
+      "apiname": "kill_tank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolisher",
+      "description": "Kill 200 Shieldbearers"
+    },
+    {
+      "apiname": "kill_tomato",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salad",
+      "description": "Kill 20000 Tomatoes"
+    },
+    {
+      "apiname": "kill_wheel_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Axle Breaker",
+      "description": "Kill 1 Wheelman"
+    },
+    {
+      "apiname": "kill_whip_man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sadist",
+      "description": "Kill 300 Pain Lovers"
+    },
+    {
+      "apiname": "level_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maintenance Facility",
+      "description": "Beat level 1"
+    },
+    {
+      "apiname": "level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hallway of Death",
+      "description": "Beat level 2"
+    },
+    {
+      "apiname": "level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Human Hordes",
+      "description": "Beat level 3"
+    },
+    {
+      "apiname": "level_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All-Out Brawl",
+      "description": "Beat level 4"
+    },
+    {
+      "apiname": "level_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pew Pew",
+      "description": "Beat level 5"
+    },
+    {
+      "apiname": "level_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest of Daggers",
+      "description": "Beat level 6"
+    },
+    {
+      "apiname": "level_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One By One",
+      "description": "Beat level 7"
+    },
+    {
+      "apiname": "level_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arachnids",
+      "description": "Beat level 8"
+    },
+    {
+      "apiname": "level_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entangled",
+      "description": "Beat level 9"
+    },
+    {
+      "apiname": "level_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardcore",
+      "description": "Beat level 10"
+    },
+    {
+      "apiname": "all_slimes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime-ocalypse",
+      "description": "Unlock all Slime starting setups"
+    },
+    {
+      "apiname": "all_skills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Abilities",
+      "description": "Unlock every ability"
+    },
+    {
+      "apiname": "all_achievements",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Complete Set",
+      "description": "Unlock every achievement!"
+    },
+    {
+      "apiname": "skill_MeleeAOE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flashes",
+      "description": "Get a level 3 copy of \"Flashes\""
+    },
+    {
+      "apiname": "skill_Gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol",
+      "description": "Get a level 3 copy of \"Pistol\""
+    },
+    {
+      "apiname": "skill_FastGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault Rifle",
+      "description": "Get a level 3 copy of \"Assault Rifle\""
+    },
+    {
+      "apiname": "skill_Exploding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocket Launcher",
+      "description": "Get a level 3 copy of \"Rocket Launcher\""
+    },
+    {
+      "apiname": "skill_Bouncing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watermelon Launcher",
+      "description": "Get a level 3 copy of \"Watermelon Launcher\""
+    },
+    {
+      "apiname": "skill_Boomerang",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scytherang",
+      "description": "Get a level 3 copy of \"Scytherang\""
+    },
+    {
+      "apiname": "skill_BoomerangStrong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Scytherang",
+      "description": "Get a level 3 copy of \"Super Scytherang\""
+    },
+    {
+      "apiname": "skill_Savings",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Box",
+      "description": "Get a level 3 copy of \"Money Box\""
+    },
+    {
+      "apiname": "skill_SummonZ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obedient Zombie",
+      "description": "Get a level 3 copy of \"Obedient Zombie\""
+    },
+    {
+      "apiname": "skill_summonDocOc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obedient Doc",
+      "description": "Get a level 3 copy of \"Obedient Doc\""
+    },
+    {
+      "apiname": "skill_FireHorizontal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiery Horizon",
+      "description": "Get a level 3 copy of \"Fiery Horizon\""
+    },
+    {
+      "apiname": "skill_DarkAngles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nuggets of Darkness",
+      "description": "Get a level 3 copy of \"Nuggets of Darkness\""
+    },
+    {
+      "apiname": "skill_DarkTriangle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triangle of Darkness",
+      "description": "Get a level 3 copy of \"Triangle of Darkness\""
+    },
+    {
+      "apiname": "skill_ShotGunBill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supreme Shotgun",
+      "description": "Get a level 3 copy of \"Supreme Shotgun\""
+    },
+    {
+      "apiname": "skill_FastGunBill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supreme Gun",
+      "description": "Get a level 3 copy of \"Supreme Gun\""
+    },
+    {
+      "apiname": "skill_CoinGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coin Launcher",
+      "description": "Get a level 3 copy of \"Coin Launcher\""
+    },
+    {
+      "apiname": "skill_Calipers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caliperang",
+      "description": "Get a level 3 copy of \"Caliperang\""
+    },
+    {
+      "apiname": "skill_CandyRandom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Candy Bomb",
+      "description": "Get a level 3 copy of \"Candy Bomb\""
+    },
+    {
+      "apiname": "skill_Banana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bananarang",
+      "description": "Get a level 3 copy of \"Bananarang\""
+    },
+    {
+      "apiname": "skill_CircleRock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteorite Satellites",
+      "description": "Get a level 3 copy of \"Meteorite Satellites\""
+    },
+    {
+      "apiname": "skill_ShotGunNeedle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Needle Shotgun",
+      "description": "Get a level 3 copy of \"Needle Shotgun\""
+    },
+    {
+      "apiname": "skill_OliveFastGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Olive Gun",
+      "description": "Get a level 3 copy of \"Olive Gun\""
+    },
+    {
+      "apiname": "skill_ShotGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun",
+      "description": "Get a level 3 copy of \"Shotgun\""
+    },
+    {
+      "apiname": "skill_HomingSlime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homing Loogie",
+      "description": "Get a level 3 copy of \"Homing Loogie\""
+    },
+    {
+      "apiname": "skill_NailRandom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Random Nails",
+      "description": "Get a level 3 copy of \"Random Nails\""
+    },
+    {
+      "apiname": "skill_Spring",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiny Spring",
+      "description": "Get a level 3 copy of \"Tiny Spring\""
+    },
+    {
+      "apiname": "skill_LaserGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blaster",
+      "description": "Get a level 3 copy of \"Blaster\""
+    },
+    {
+      "apiname": "skill_FireGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Beam",
+      "description": "Get a level 3 copy of \"Fire Beam\""
+    },
+    {
+      "apiname": "skill_PinkFloyd",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Side",
+      "description": "Get a level 3 copy of \"Dark Side\""
+    },
+    {
+      "apiname": "skill_LaserRandom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco",
+      "description": "Get a level 3 copy of \"Disco\""
+    },
+    {
+      "apiname": "tag_combination_secret_linear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quadruple Wielding",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_passive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonus Bonus",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_shot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penetration",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_food",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonus Health",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_aoe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Melee",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_targeted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Observation",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_summon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critical Strike",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_darkness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Berserker Mode",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_ice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fragility",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_money",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Efficient Economy",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_boomerang",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Eating",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_satelite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time Warp",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_electric",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damage Reflect",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_random",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evasion",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flammable Concoction",
+      "description": ""
+    },
+    {
+      "apiname": "tag_combination_secret_shotgun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armor",
+      "description": ""
+    },
+    {
+      "apiname": "skill_HereticFork",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heretic's Fork",
+      "description": "Get a level 3 copy of \"Heretic's Fork\""
+    },
+    {
+      "apiname": "tag_combination_secret_pierce",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pricking",
+      "description": ""
+    },
+    {
+      "apiname": "level_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waves",
+      "description": "Beat level 11"
+    },
+    {
+      "apiname": "level_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Run",
+      "description": "Beat level 12"
+    },
+    {
+      "apiname": "level_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullet Hell",
+      "description": "Beat level 13"
+    },
+    {
+      "apiname": "level_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanoids",
+      "description": "Beat level 14"
+    },
+    {
+      "apiname": "level_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arachnids 2",
+      "description": "Beat level 15"
+    },
+    {
+      "apiname": "level_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Long Way",
+      "description": "Beat level 16"
+    },
+    {
+      "apiname": "level_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One By One 2",
+      "description": "Beat level 17"
+    },
+    {
+      "apiname": "level_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creatures of Darkness",
+      "description": "Beat level 18"
+    },
+    {
+      "apiname": "level_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready Check",
+      "description": "Beat level 19"
+    },
+    {
+      "apiname": "skill_Lighting",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Storm",
+      "description": "Get a level 3 copy of \"Absolute Storm\""
+    },
+    {
+      "apiname": "skill_Meteors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteorite Rain",
+      "description": "Get a level 3 copy of \"Meteorite Rain\""
+    },
+    {
+      "apiname": "skill_Anvil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anvil",
+      "description": "Get a level 3 copy of \"Anvil\""
+    },
+    {
+      "apiname": "skill_ElectricBill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electric Bill",
+      "description": "Get a level 3 copy of \"Electric Bill\""
+    },
+    {
+      "apiname": "skill_Moon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon Moon",
+      "description": "Get a level 3 copy of \"Moon Moon\""
+    },
+    {
+      "apiname": "skill_Spikes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underground Help",
+      "description": "Get a level 3 copy of \"Underground Help\""
+    },
+    {
+      "apiname": "skill_Shi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death",
+      "description": "Get a level 3 copy of \"Death\""
+    },
+    {
+      "apiname": "skill_Katana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Strike",
+      "description": "Get a level 3 copy of \"Perfect Strike\""
+    },
+    {
+      "apiname": "skill_Lava",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lava",
+      "description": "Get a level 3 copy of \"Lava\""
+    },
+    {
+      "apiname": "skill_Claws",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Claws",
+      "description": "Get a level 3 copy of \"Claws\""
+    },
+    {
+      "apiname": "skill_Jaws",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jaws",
+      "description": "Get a level 3 copy of \"Jaws\""
+    },
+    {
+      "apiname": "skill_Revolver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Really Big Bullet",
+      "description": "Get a level 3 copy of \"Really Big Bullet\""
+    },
+    {
+      "apiname": "skill_LaserChain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Laser Chain",
+      "description": "Get a level 3 copy of \"Laser Chain\""
+    },
+    {
+      "apiname": "skill_Demake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Moon!",
+      "description": "Get a level 3 copy of \"Secret Moon!\""
+    },
+    {
+      "apiname": "skill_QualityBoost1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trash Throwing",
+      "description": "Get a level 3 copy of \"Trash Throwing\""
+    },
+    {
+      "apiname": "skill_Ghosts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Specters",
+      "description": "Get a level 3 copy of \"Specters\""
+    },
+    {
+      "apiname": "skill_Bomb",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bomb",
+      "description": "Get a level 3 copy of \"Bomb\""
+    },
+    {
+      "apiname": "skill_MeleeAoeSummons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summoned Creature Flashes",
+      "description": "Get a level 3 copy of \"Summoned Creature Flashes\""
+    },
+    {
+      "apiname": "skill_LaserYoyo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yo-yo",
+      "description": "Get a level 3 copy of \"Yo-yo\""
+    },
+    {
+      "apiname": "skill_Spear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear",
+      "description": "Get a level 3 copy of \"Spear\""
+    },
+    {
+      "apiname": "skill_homing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eye Launcher",
+      "description": "Get a level 3 copy of \"Eye Launcher\""
+    },
+    {
+      "apiname": "skill_dart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Random Dart",
+      "description": "Get a level 3 copy of \"Random Dart\""
+    },
+    {
+      "apiname": "skill_damage_linear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Targeted Bonus",
+      "description": "Get a level 3 copy of \"Targeted Bonus\""
+    },
+    {
+      "apiname": "skill_maxhitbonus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penetration",
+      "description": "Get a level 3 copy of \"Penetration\""
+    },
+    {
+      "apiname": "skill_health_summons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summoned Creature Health",
+      "description": "Get a level 3 copy of \"Summoned Creature Health\""
+    },
+    {
+      "apiname": "skill_ice_square",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Square",
+      "description": "Get a level 3 copy of \"Ice Square\""
+    },
+    {
+      "apiname": "skill_gun_skeleton",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeleton Gun",
+      "description": "Get a level 3 copy of \"Skeleton Gun\""
+    },
+    {
+      "apiname": "skill_summon_poringS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiny Slime",
+      "description": "Get a level 3 copy of \"Tiny Slime\""
+    },
+    {
+      "apiname": "skill_summon_poringM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Minion",
+      "description": "Get a level 3 copy of \"Slime Minion\""
+    },
+    {
+      "apiname": "skill_circle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All-Around Defense",
+      "description": "Get a level 3 copy of \"All-Around Defense\""
+    },
+    {
+      "apiname": "skill_passive_health",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Healthy Fat",
+      "description": "Get a level 3 copy of \"Healthy Fat\""
+    },
+    {
+      "apiname": "skill_nail_gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nailgun",
+      "description": "Get a level 3 copy of \"Nailgun\""
+    },
+    {
+      "apiname": "skill_homing_ice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siberian Plague",
+      "description": "Get a level 3 copy of \"Siberian Plague\""
+    },
+    {
+      "apiname": "skill_electrig_plug",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electric Shot",
+      "description": "Get a level 3 copy of \"Electric Shot\""
+    },
+    {
+      "apiname": "skill_fastgun_shuriken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Launcher",
+      "description": "Get a level 3 copy of \"Shuriken Launcher\""
+    },
+    {
+      "apiname": "skill_damage_aoe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AoE Bonus",
+      "description": "Get a level 3 copy of \"AoE Bonus\""
+    },
+    {
+      "apiname": "skill_damage_homing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homing Bonus",
+      "description": "Get a level 3 copy of \"Homing Bonus\""
+    },
+    {
+      "apiname": "skill_passive_money",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Budgeting",
+      "description": "Get a level 3 copy of \"Budgeting\""
+    },
+    {
+      "apiname": "skill_aoe_knockback",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blast Wave",
+      "description": "Get a level 3 copy of \"Blast Wave\""
+    },
+    {
+      "apiname": "skill_homing_dark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homing Darkness!",
+      "description": "Get a level 3 copy of \"Homing Darkness!\""
+    },
+    {
+      "apiname": "skill_ice_angles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Snap",
+      "description": "Get a level 3 copy of \"Cold Snap\""
+    },
+    {
+      "apiname": "skill_damage_summons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summoned Creature Damage",
+      "description": "Get a level 3 copy of \"Summoned Creature Damage\""
+    },
+    {
+      "apiname": "skill_slime_random",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Random Slimes",
+      "description": "Get a level 3 copy of \"Random Slimes\""
+    },
+    {
+      "apiname": "skill_shotgun_cyan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun of Icy Darkness",
+      "description": "Get a level 3 copy of \"Shotgun of Icy Darkness\""
+    },
+    {
+      "apiname": "skill_grenade_launcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grenade Launcher",
+      "description": "Get a level 3 copy of \"Grenade Launcher\""
+    },
+    {
+      "apiname": "level_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finale",
+      "description": "Beat level 20"
+    },
+    {
+      "apiname": "demake_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Ability",
+      "description": "Unlock a secret ability"
+    },
+    {
+      "apiname": "skill_skeleton_shotgun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeleton Shotgun",
+      "description": "Get a level 3 copy of \"Skeleton Shotgun\""
+    },
+    {
+      "apiname": "skill_neighbours",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friendly Neighbor",
+      "description": "Get a level 3 copy of \"Friendly Neighbor\""
+    },
+    {
+      "apiname": "skill_electricFields",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anomalies",
+      "description": "Get a level 3 copy of \"Anomalies\""
+    },
+    {
+      "apiname": "skill_mummy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Haaaands",
+      "description": "Get a level 3 copy of \"Haaaands\""
+    },
+    {
+      "apiname": "slime10_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flashy",
+      "description": "Unlock starting setup \"Flashy\""
+    },
+    {
+      "apiname": "slime9_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ocular",
+      "description": "Unlock starting setup \"Ocular\""
+    },
+    {
+      "apiname": "slime8_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Financial",
+      "description": "Unlock starting setup \"Financial\""
+    },
+    {
+      "apiname": "slime7_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gluttonous",
+      "description": "Unlock starting setup \"Gluttonous\""
+    },
+    {
+      "apiname": "slime6_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Familiar-y",
+      "description": "Unlock starting setup \"Familiar-y\""
+    },
+    {
+      "apiname": "slime4_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiery",
+      "description": "Unlock starting setup \"Fiery\""
+    },
+    {
+      "apiname": "slime5_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gloomy",
+      "description": "Unlock starting setup \"Gloomy\""
+    },
+    {
+      "apiname": "slime11_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chill",
+      "description": "Unlock starting setup \"Chill\""
+    },
+    {
+      "apiname": "particles_aura_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poisonous Slime Trail",
+      "description": "Unlock the upgrade \"Poisonous Slime Trail\""
+    },
+    {
+      "apiname": "last_chance_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not This Time",
+      "description": "Unlock the upgrade \"Not This Time\""
+    },
+    {
+      "apiname": "shop_slots_bonus_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Increased Capacity",
+      "description": "Unlock the upgrade \"Increased Capacity\""
+    },
+    {
+      "apiname": "knock_damage_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crushing Humans",
+      "description": "Unlock the upgrade \"Crushing Humans\""
+    },
+    {
+      "apiname": "health_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Health",
+      "description": "Unlock the upgrade \"Health\""
+    },
+    {
+      "apiname": "pickupnuggets_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Nuggets",
+      "description": "Unlock the upgrade \"Extra Nuggets\""
+    },
+    {
+      "apiname": "extralighting_unlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Lightning",
+      "description": "Unlock the upgrade \"Extra Lightning\""
+    },
+    {
+      "apiname": "endless_mode",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial Run",
+      "description": "Try Survival Mode for the first time"
+    },
+    {
+      "apiname": "endless-mode-2min",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan of Challenges",
+      "description": "Survive 2 minutes in Survival Mode"
+    },
+    {
+      "apiname": "no-shops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Hands",
+      "description": "Beat any level without collecting pickups"
+    },
+    {
+      "apiname": "no-damage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Victory",
+      "description": "Beat any level without taking damage"
+    },
+    {
+      "apiname": "summons-run",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Summoner",
+      "description": "Beat a level using only abilities tagged \"Summon\""
+    },
+    {
+      "apiname": "5-star-prize",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prize Wedge",
+      "description": "Get 5 abilities from one goose bonus"
+    },
+    {
+      "apiname": "full-meta",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Mutation",
+      "description": "Fully level all permanent upgrades"
+    },
+    {
+      "apiname": "tutorial",
+      "achieved": 1,
+      "unlocktime": 1766904876,
+      "name": "Learnin'",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "endless-mode-5min",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Expert",
+      "description": "Survive 5 minutes in Survival Mode"
+    },
+    {
+      "apiname": "bad-luck-run",
+      "achieved": 1,
+      "unlocktime": 1766904841,
+      "name": "Unfortunate Run",
+      "description": "Lose after a level boss appears"
+    },
+    {
+      "apiname": "creepy-goose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be Afraid",
+      "description": ""
+    },
+    {
+      "apiname": "unlock_combination_shot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feel No Pain",
+      "description": "Unlock the upgrade \"Feel No Pain\""
+    },
+    {
+      "apiname": "unlock_combination_money",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sale",
+      "description": "Unlock the upgrade \"Sale\""
+    },
+    {
+      "apiname": "unlock_combination_linear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enhanced Absorption",
+      "description": "Unlock the upgrade \"Enhanced Absorption\""
+    },
+    {
+      "apiname": "unlock_combination_boomerang",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Faster",
+      "description": "Unlock the upgrade \"Even Faster\""
+    },
+    {
+      "apiname": "unlock_combination_aoe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Around and Find Out",
+      "description": "Unlock the upgrade \"Slime Around and Find Out\""
+    },
+    {
+      "apiname": "tag_combination_shot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armor",
+      "description": "Unlock the upgrade \"Armor\""
+    },
+    {
+      "apiname": "tag_combination_random",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life Experience",
+      "description": "Unlock the upgrade \"Life Experience\""
+    },
+    {
+      "apiname": "tag_combination_passive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Startup Capital",
+      "description": "Unlock the upgrade \"Startup Capital\""
+    },
+    {
+      "apiname": "tag_combination_money",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agility",
+      "description": "Unlock the upgrade \"Agility\""
+    },
+    {
+      "apiname": "tag_combination_ice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biting Frost",
+      "description": "Unlock the upgrade \"Biting Frost\""
+    },
+    {
+      "apiname": "tag_combination_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heating Up",
+      "description": "Unlock the upgrade \"Heating Up\""
+    },
+    {
+      "apiname": "tag_combination_dark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Darkness",
+      "description": "Unlock the upgrade \"Absolute Darkness\""
+    }
+  ]
+}

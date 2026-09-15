@@ -1,0 +1,347 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 359550,
+  "game": "Tom Clancy's Rainbow Six Siege",
+  "total": 48,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:33.602738+00:00",
+  "achievements": [
+    {
+      "apiname": "RB6X_Ach_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back in the Day ATK",
+      "description": "Play 10 rounds with a Pathfinder Attacker in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Class Defense",
+      "description": "Play 10 rounds with a Pathfinder Defender in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old School",
+      "description": "Play 10 rounds with all Operators from one Pathfinder ORG in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Roster",
+      "description": "Play 10 rounds with each Pathfinder Operator in Quick Match or Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack of All Trades",
+      "description": "Win 1 round with every Pathfinder Operator in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Top",
+      "description": "Reach Clearance level 50."
+    },
+    {
+      "apiname": "RB6X_Ach_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Designer",
+      "description": "Customize a weapon."
+    },
+    {
+      "apiname": "RB6X_Ach_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Collect and save 5000 Renown."
+    },
+    {
+      "apiname": "RB6X_Ach_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Getting Started",
+      "description": "Get 100 kills in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Week",
+      "description": "Apply weapon skins to 30 weapons."
+    },
+    {
+      "apiname": "RB6X_Ach_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death From Above",
+      "description": "Destroy a floor with a Breach Charge in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coming Through!",
+      "description": "Breach and rappel through a window in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortress",
+      "description": "Reinforce 2 breakable walls in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Camera Shy",
+      "description": "Destroy 10 cameras as an Attacker."
+    },
+    {
+      "apiname": "RB6X_Ach_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boomshakalaka",
+      "description": "Win 10 matches of Bomb in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Breach This",
+      "description": "Win 100 rounds as a Defender in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Begins...",
+      "description": "Complete 10 matches in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brain Surgeon",
+      "description": "Get 50 headshots in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Round",
+      "description": "Win a round in Quick Match/Ranked Multiplayer in under 2 minutes."
+    },
+    {
+      "apiname": "RB6X_Ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Globetrotter",
+      "description": "Play 10 Multiplayer Matches on 10 different maps."
+    },
+    {
+      "apiname": "RB6X_Ach_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senseless",
+      "description": "Kill 10 enemies blinded by Stun Grenades in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drone Destruction",
+      "description": "Destroy 5 drones in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat Wall",
+      "description": "Kill an enemy with a Breach Charge in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oh Yeah!",
+      "description": "Destroy a reinforced wall with Thermite's Exothermic Charge in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Go in There!",
+      "description": "Kill an Attacker caught inside Barbed Wire in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrong Number",
+      "description": "Kill 10 enemies with Nitro Cells in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Woodworker",
+      "description": "Place 5 barricades as a Defender in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Trespassing",
+      "description": "Get 10 Claymore kills in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Room Cleared",
+      "description": "Get 10 Frag Grenade kills in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strength in Numbers",
+      "description": "Win 10 games as a Squad in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Was Close",
+      "description": "Plant the defuser in 10 Bomb rounds in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close, but No Cigar",
+      "description": "Deactivate the defuser in 5 Bomb matches in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Asset Protection",
+      "description": "Destroy 20 gadgets in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sureshot",
+      "description": "Get 5 kills with a DMR."
+    },
+    {
+      "apiname": "RB6X_Ach_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ride Shotgun",
+      "description": "Get 5 kills with a shotgun."
+    },
+    {
+      "apiname": "RB6X_Ach_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Auto",
+      "description": "Get 5 kills with an AR."
+    },
+    {
+      "apiname": "RB6X_Ach_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greaser",
+      "description": "Get 5 kills with an SMG."
+    },
+    {
+      "apiname": "RB6X_Ach_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Get 5 Flawless Victories in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overachiever",
+      "description": "Win 100 rounds as an Attacker in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bang!",
+      "description": "Get 5 kills with a handgun."
+    },
+    {
+      "apiname": "RB6X_Ach_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Was Fast!",
+      "description": "Find a bomb within 15 seconds of the Preparation Phase in Unranked/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Objective Driven",
+      "description": "Win 50 rounds in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Specialist",
+      "description": "Complete all Operator Specialties."
+    },
+    {
+      "apiname": "RB6X_Ach_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accessorizing",
+      "description": "Equip 50 weapon attachments."
+    },
+    {
+      "apiname": "RB6X_Ach_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perimeter Secured",
+      "description": "Win a match of Secure Area in Quick Match Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Bullet Pen...",
+      "description": "Get 10 kills through bullet penetration in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Mind",
+      "description": "Win 1 match without losing a single round in Quick Match/Ranked Multiplayer."
+    },
+    {
+      "apiname": "RB6X_Ach_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Rescue",
+      "description": "Revive injured teammates 10 times in Quick Match/Ranked Multiplayer."
+    }
+  ]
+}

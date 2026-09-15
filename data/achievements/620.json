@@ -1,0 +1,368 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 620,
+  "game": "Portal 2",
+  "total": 51,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:34.673742+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH.SURVIVE_CONTAINER_RIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wake Up Call",
+      "description": "Survive the manual override"
+    },
+    {
+      "apiname": "ACH.WAKE_UP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Monster",
+      "description": "Reunite with GLaDOS"
+    },
+    {
+      "apiname": "ACH.LASER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undiscouraged",
+      "description": "Complete the first Thermal Discouragement Beam test"
+    },
+    {
+      "apiname": "ACH.BRIDGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bridge Over Troubling Water",
+      "description": "Complete the first Hard Light Bridge test"
+    },
+    {
+      "apiname": "ACH.BREAK_OUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SaBOTour",
+      "description": "Make a break for it"
+    },
+    {
+      "apiname": "ACH.STALEMATE_ASSOCIATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalemate Associate",
+      "description": "Press the button!"
+    },
+    {
+      "apiname": "ACH.ADDICTED_TO_SPUDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tater Tote",
+      "description": "Carry science forward"
+    },
+    {
+      "apiname": "ACH.BLUE_GEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vertically Unchallenged",
+      "description": "Master the Repulsion Gel"
+    },
+    {
+      "apiname": "ACH.ORANGE_GEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stranger Than Friction",
+      "description": "Master the Propulsion Gel"
+    },
+    {
+      "apiname": "ACH.WHITE_GEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Out",
+      "description": "Complete the first Conversion Gel test"
+    },
+    {
+      "apiname": "ACH.TRACTOR_BEAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tunnel of Funnel",
+      "description": "Master the Excursion Funnel"
+    },
+    {
+      "apiname": "ACH.TRIVIAL_TEST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dual Pit Experiment",
+      "description": "Do the same test twice"
+    },
+    {
+      "apiname": "ACH.WHEATLEY_TRIES_TO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Part Where He Kills You",
+      "description": "This is that part"
+    },
+    {
+      "apiname": "ACH.SHOOT_THE_MOON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lunacy",
+      "description": "That just happened"
+    },
+    {
+      "apiname": "ACH.BOX_HOLE_IN_ONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drop Box",
+      "description": "Place a cube on a button without touching the cube"
+    },
+    {
+      "apiname": "ACH.SPEED_RUN_LEVEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overclocker",
+      "description": "Complete Test Chamber 10 in 70 seconds"
+    },
+    {
+      "apiname": "ACH.COMPLIANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pit Boss",
+      "description": "Show that pit who's boss"
+    },
+    {
+      "apiname": "ACH.SAVE_CUBE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preservation of Mass",
+      "description": "Break the rules in Test Chamber 07"
+    },
+    {
+      "apiname": "ACH.LAUNCH_TURRET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pturretdactyl",
+      "description": "Use an Aerial Faith Plate to launch a turret"
+    },
+    {
+      "apiname": "ACH.CLEAN_UP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Transmission",
+      "description": "Find the hidden signal in one of the Rat Man's dens"
+    },
+    {
+      "apiname": "ACH.REENTER_TEST_CHAMBERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Listener",
+      "description": "Take GLaDOS' escape advice"
+    },
+    {
+      "apiname": "ACH.NOT_THE_DROID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scanned Alone",
+      "description": "Stand in a defective turret detector"
+    },
+    {
+      "apiname": "ACH.SAVE_REDEMPTION_TURRET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Hard Feelings",
+      "description": "Save a turret from redemption"
+    },
+    {
+      "apiname": "ACH.CATCH_CRAZY_BOX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Schrodinger's Catch",
+      "description": "Catch a blue-painted box before it touches the ground"
+    },
+    {
+      "apiname": "ACH.NO_BOAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship Overboard",
+      "description": "Discover the missing experiment"
+    },
+    {
+      "apiname": "ACH.A3_DOORS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Door Prize",
+      "description": "Examine all the vitrified test chamber doors"
+    },
+    {
+      "apiname": "ACH.PORTRAIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Portrait of a Lady",
+      "description": "Find a hidden portrait"
+    },
+    {
+      "apiname": "ACH.DEFIANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Made Your Point",
+      "description": "Refuse to solve the first test in Chapter 8"
+    },
+    {
+      "apiname": "ACH.BREAK_MONITORS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smash TV",
+      "description": "Break 11 test chamber monitors"
+    },
+    {
+      "apiname": "ACH.HI_FIVE_YOUR_PARTNER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Five",
+      "description": "Celebrate your cooperative calibration success"
+    },
+    {
+      "apiname": "ACH.TEAM_BUILDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Team Building",
+      "description": "Complete all test chambers in the Team Building co-op course"
+    },
+    {
+      "apiname": "ACH.MASS_AND_VELOCITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confidence Building",
+      "description": "Complete all test chambers in the Mass and Velocity co-op course"
+    },
+    {
+      "apiname": "ACH.HUG_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bridge Building",
+      "description": "Complete all test chambers in the Hard-Light Surfaces co-op course"
+    },
+    {
+      "apiname": "ACH.EXCURSION_FUNNELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obstacle Building",
+      "description": "Complete all test chambers in the Excursion Funnels co-op course"
+    },
+    {
+      "apiname": "ACH.NEW_BLOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Saved Science",
+      "description": "Complete all test chambers in all courses of co-op"
+    },
+    {
+      "apiname": "ACH.NICE_CATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Grip",
+      "description": "Never lose a cube in Chamber 6 of the Mass and Velocity co-op course"
+    },
+    {
+      "apiname": "ACH.TAUNTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gesticul-8",
+      "description": "Perform all 8 gestures of your own volition in co-op"
+    },
+    {
+      "apiname": "ACH.YOU_MONSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Touch This",
+      "description": "Dance in front of a turret blocked by a hard light bridge in co-op"
+    },
+    {
+      "apiname": "ACH.PARTNER_DROP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empty Gesture",
+      "description": "Drop your co-op partner in goo while they are gesturing by removing the bridge under them"
+    },
+    {
+      "apiname": "ACH.PARTY_OF_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party of Three",
+      "description": "Find the hidden companion cube in co-op test chamber"
+    },
+    {
+      "apiname": "ACH.PORTAL_TAUNT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Narbacular Drop",
+      "description": "Place a portal under your co-op partner while they are gesturing"
+    },
+    {
+      "apiname": "ACH.TEACHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professor Portal",
+      "description": "After completing co-op, complete Calibration Course online with a friend who hasn’t played before"
+    },
+    {
+      "apiname": "ACH.WITH_STYLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Show",
+      "description": "Perform 2 aerial gestures before touching the ground in co-op"
+    },
+    {
+      "apiname": "ACH.LIMITED_PORTALS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Portal Conservation Society",
+      "description": "Complete Chamber 3 in the Hard-Light Surfaces co-op course using only 5 total portal placements"
+    },
+    {
+      "apiname": "ACH.FOUR_PORTALS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Four Ring Circus",
+      "description": "Enter 4 different portals without touching the ground in co-op"
+    },
+    {
+      "apiname": "ACH.SPEED_RUN_COOP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Crown",
+      "description": "Solve 3 co-op chambers in the Mass and Velocity course in under 60 seconds each"
+    },
+    {
+      "apiname": "ACH.STAYING_ALIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Alive",
+      "description": "Complete Course 4 with neither you nor your co-op partner dying"
+    },
+    {
+      "apiname": "ACH.TAUNT_CAMERA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Asking for Trouble",
+      "description": "Taunt GLaDOS in front of a camera in each of the five co-op courses"
+    },
+    {
+      "apiname": "ACH.ROCK_CRUSHES_ROBOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock Portal Scissors",
+      "description": "Win 3 co-op games of rock-paper-scissors in a row"
+    },
+    {
+      "apiname": "ACH.SPREAD_THE_LOVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends List With Benefits",
+      "description": "While playing co-op, hug 3 different people on your friends list"
+    },
+    {
+      "apiname": "ACH.SUMMER_SALE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talent Show",
+      "description": "Never lose a cube in Chamber 6 of the Mobility Gels co-op course"
+    }
+  ]
+}

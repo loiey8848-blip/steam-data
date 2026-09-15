@@ -1,0 +1,515 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1151340,
+  "game": "Fallout 76",
+  "total": 72,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:12.274529+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reclamation Day!",
+      "description": "Leave Vault 76"
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Contact",
+      "description": "Complete \"First Contact\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Departure",
+      "description": "Complete \"Final Departure\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Helpings",
+      "description": "Complete \"Second Helpings\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Fire",
+      "description": "Complete \"Into the Fire\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recruitment Blues",
+      "description": "Complete \"Recruitment Blues\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of the Enemy",
+      "description": "Complete \"Heart of the Enemy\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Key to the Past",
+      "description": "Complete \"Key to the Past\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coming to Fruition",
+      "description": "Complete \"Coming to Fruition\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunker Buster",
+      "description": "Complete \"Bunker Buster\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of Us",
+      "description": "Complete \"One of Us\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Officer on Deck",
+      "description": "Complete \"Officer on Deck\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy C.A.M.P.er",
+      "description": "Build a C.A.M.P."
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Must Rebuild",
+      "description": "Build 20 C.A.M.P. Items"
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Appalachian HOA",
+      "description": "Build 100 C.A.M.P. Items"
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mistress of Mystery",
+      "description": "Complete \"Mistress of Mystery\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Personal Matters",
+      "description": "Complete \"Personal Matters\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen of the Hunt",
+      "description": "Complete \"Queen of the Hunt\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Mash",
+      "description": "Complete the \"Monster Mash\" Event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Earth",
+      "description": "Win the \"Scorched Earth' Event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breach and Clear",
+      "description": "Win the \"Breach and Clear\" Event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Go it Alone!",
+      "description": "Join 20 Teams"
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Skin",
+      "description": "Craft 5 Pieces of Armor"
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Fighting Chance",
+      "description": "Craft a Weapon"
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallout Forever",
+      "description": "Reach Level 100"
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LITerally",
+      "description": "Read 20 Magazines"
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ground Zero",
+      "description": "Be at Ground Zero of a Nuclear Blast"
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perked Up",
+      "description": "Fully Rank Up one Perk"
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gimme Gimme!",
+      "description": "Pick 50 Locks"
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Code Cruncher",
+      "description": "Hack 50 Terminals"
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monet of Murder",
+      "description": "Mod 50 Weapons"
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tested Mettle",
+      "description": "Complete 5 Challenges"
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Real Challenger",
+      "description": "Complete 20 Challenges"
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Medic",
+      "description": "Revive 20 Fallen Players"
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moneybags",
+      "description": "Possess 10,000 Caps"
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retro Now",
+      "description": "Play a Holotape Game"
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Slayer",
+      "description": "Kill 5 Giant Creatures"
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pioneer Scout",
+      "description": "Discover 100 Locations"
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Kill a Wanted Player"
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill or Be Killed",
+      "description": "Kill Another Player"
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Grief!",
+      "description": "Kill 20 Players"
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": "Kill 300 Creatures"
+    },
+    {
+      "apiname": "ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junker Funk",
+      "description": "Gather 200 Pieces of Junk"
+    },
+    {
+      "apiname": "ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Photo Bomber",
+      "description": "Take 20 Photos"
+    },
+    {
+      "apiname": "ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ain't He the Cutest?",
+      "description": "Collect a Bobblehead"
+    },
+    {
+      "apiname": "ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shwag",
+      "description": "Collect 10 Bobbleheads"
+    },
+    {
+      "apiname": "ACHIEVEMENT_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wild West Virginian",
+      "description": "Reach Level 10"
+    },
+    {
+      "apiname": "ACHIEVEMENT_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Appalachian Trailblazer",
+      "description": "Reach Level 25"
+    },
+    {
+      "apiname": "ACHIEVEMENT_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "American Hero",
+      "description": "Reach Level 50"
+    },
+    {
+      "apiname": "ACHIEVEMENT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am Become Death",
+      "description": "Complete \"I Am Become Death\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wayward Child",
+      "description": "Complete \"The Elusive Crane\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overdue Reunions",
+      "description": "Find the Overseer"
+    },
+    {
+      "apiname": "ACHIEVEMENT_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go for the Gold",
+      "description": "Complete \"Buried Treasure\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Golden Future",
+      "description": "Complete \"All That Glitters\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Upon A Star",
+      "description": "Complete Sofia's story"
+    },
+    {
+      "apiname": "ACHIEVEMENT_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind the Curtain",
+      "description": "Complete Beckett's story"
+    },
+    {
+      "apiname": "ACHIEVEMENT_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Solid Foundation",
+      "description": "Become allies with Foundation"
+    },
+    {
+      "apiname": "ACHIEVEMENT_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends in Low Places",
+      "description": "Become allies with Crater"
+    },
+    {
+      "apiname": "ACHIEVEMENT_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Rush",
+      "description": "Gain 300 gold bullion"
+    },
+    {
+      "apiname": "ACHIEVEMENT_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The New Fort Knox",
+      "description": "Gain 1500 gold bullion"
+    },
+    {
+      "apiname": "ACHIEVEMENT_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steel Brethren",
+      "description": "Complete “The Catalyst”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smooth Operator",
+      "description": "Earn Elder Rewards from a Daily Op"
+    },
+    {
+      "apiname": "ACHIEVEMENT_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Star Crafter",
+      "description": "Craft a 1 star legendary mod, a 2 star legendary mod, and a 3 star legendary mod"
+    },
+    {
+      "apiname": "ACHIEVEMENT_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome To The Pitt",
+      "description": "Lead and complete \"Union Dues\" and \"From Ashes to Fire\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeking Refuge",
+      "description": "Complete 10 Favors for people in The Whitespring Refuge"
+    },
+    {
+      "apiname": "ACHIEVEMENT_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Troglodiced",
+      "description": "Kill 100 Trogs with an Auto Axe"
+    },
+    {
+      "apiname": "ACHIEVEMENT_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "America’s Playground",
+      "description": "Lead and complete “Tax Evasion” and “The Most Sensational Game”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rip and Tear",
+      "description": "Kill 10 Lesser Devils with a melee weapon"
+    },
+    {
+      "apiname": "ACHIEVEMENT_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The House Always Wins",
+      "description": "Build 5 casino games in your CAMP"
+    },
+    {
+      "apiname": "ACHIEVEMENT_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Community Service",
+      "description": "Lead and Complete \"The Human Condition\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devil's Bargain",
+      "description": "Complete \"Sins of the Father\""
+    },
+    {
+      "apiname": "ACHIEVEMENT_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weed Killer",
+      "description": "Kill 100 Overgrown with fire"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1649080,
+  "game": "Two Point Campus",
+  "total": 48,
+  "unlocked": 1,
+  "percent": 2.1,
+  "updated_at_utc": "2026-09-15T06:52:16.973566+00:00",
+  "achievements": [
+    {
+      "apiname": "FirstStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campus Management 101",
+      "description": "Earn 1 star in Freshleigh Meadows"
+    },
+    {
+      "apiname": "SomeStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bachelor of Smarts",
+      "description": "Earn 12 stars across your career"
+    },
+    {
+      "apiname": "MostStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masters Minded",
+      "description": "Earn 24 stars across your career"
+    },
+    {
+      "apiname": "AllStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "PhDarn Good",
+      "description": "Earn 36 stars across your career"
+    },
+    {
+      "apiname": "AllLevels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finishing School",
+      "description": "Earn 1 star in TPU"
+    },
+    {
+      "apiname": "Graduation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a Scroll",
+      "description": "Have a student graduate"
+    },
+    {
+      "apiname": "Bookworm",
+      "achieved": 1,
+      "unlocktime": 1762926977,
+      "name": "Bookworm Collector",
+      "description": "Capture a bookworm"
+    },
+    {
+      "apiname": "Train",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little Wiser",
+      "description": "Train a staff member"
+    },
+    {
+      "apiname": "Graduations",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cap & Crown",
+      "description": "Have 1,000 students graduate"
+    },
+    {
+      "apiname": "Bookworms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bookworm Fanatic",
+      "description": "Capture 50 bookworms"
+    },
+    {
+      "apiname": "Failures",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a Millionaire",
+      "description": "Have 50 students drop out"
+    },
+    {
+      "apiname": "WorldClassTeacher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Lot Wiser",
+      "description": "Train a staff member to level 10 in a single course-specific qualification"
+    },
+    {
+      "apiname": "WorldClassTeachers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enough Experts",
+      "description": "Train a staff member to level 5 in each course-specific qualification"
+    },
+    {
+      "apiname": "ClubStart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Club Sandwich",
+      "description": "Have a club with 5 members"
+    },
+    {
+      "apiname": "Club",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Populous Kids",
+      "description": "Have 100 members in a single club"
+    },
+    {
+      "apiname": "MaxLevelClub",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Club Dub",
+      "description": "Have a club reach level 10"
+    },
+    {
+      "apiname": "Relations",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Group of Friends",
+      "description": "Develop 500 friendships"
+    },
+    {
+      "apiname": "FriendsForever",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Friends",
+      "description": "Have students become best friends"
+    },
+    {
+      "apiname": "LoveDoc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Mates",
+      "description": "Develop 50 soul mates"
+    },
+    {
+      "apiname": "UpgradeMachines",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spanner That Works",
+      "description": "Upgrade 100 machines"
+    },
+    {
+      "apiname": "Dumbledore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Staff",
+      "description": "Train a staff member to level 5 in the Wizardry qualification"
+    },
+    {
+      "apiname": "CleanUp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dropped on OUR Floor",
+      "description": "Clean up 1,000 bits of litter"
+    },
+    {
+      "apiname": "CheeseballWins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Win Some",
+      "description": "Win 15 cheeseball matches"
+    },
+    {
+      "apiname": "CheeseballLosses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Lose Some",
+      "description": "Lose 5 cheeseball matches"
+    },
+    {
+      "apiname": "SportsLeague",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jumbo Mega Team",
+      "description": "Win a cheeseball match against the Jumbo Mega Team"
+    },
+    {
+      "apiname": "DoResearch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do Your Homework",
+      "description": "Complete 50 research projects"
+    },
+    {
+      "apiname": "ResearchMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smart Money",
+      "description": "Earn 100,000 from research projects"
+    },
+    {
+      "apiname": "Kudosh",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unlocked & Loaded",
+      "description": "Earn 1,000 kudosh"
+    },
+    {
+      "apiname": "Pastoral",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're Listening",
+      "description": "Resolve 100 pastoral issues"
+    },
+    {
+      "apiname": "TwoPointHospital",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's Always a Hospital",
+      "description": "Treat 100 medical issues"
+    },
+    {
+      "apiname": "TPHIllnesses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recurring Conditions",
+      "description": "Treat 1 case of each illness from Two Point Hospital"
+    },
+    {
+      "apiname": "BlackKnight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Huzzah!",
+      "description": "Defeat Lord Blaggard in The Grand Joust"
+    },
+    {
+      "apiname": "Spy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Track-a-Mole",
+      "description": "Expose a mole in Blundergrad"
+    },
+    {
+      "apiname": "OneFromEachCourse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Academic Rainbow",
+      "description": "Have a student graduate in each course"
+    },
+    {
+      "apiname": "StaffHired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staff Boom",
+      "description": "Hire 100 staff members"
+    },
+    {
+      "apiname": "DLC_Space_SpaceCadet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Cadet",
+      "description": "Earn 1 star on Cheesy Heap: Delta-Rye"
+    },
+    {
+      "apiname": "DLC_Space_SayCheese",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say, Cheese?",
+      "description": "Mine 100 space rocks"
+    },
+    {
+      "apiname": "DLC_Space_GalacticDomination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Galactic Domination",
+      "description": "Win 10 Space Battle competitions"
+    },
+    {
+      "apiname": "DLC_Space_AllAboard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Aboard",
+      "description": "Unlock all rockets and reach maximum student transport capacity"
+    },
+    {
+      "apiname": "DLC_Space_TheGoodStuff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Good Stuff",
+      "description": ""
+    },
+    {
+      "apiname": "DLC_Ghost_SchoolsNGhosts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Schools 'n Ghosts",
+      "description": "Earn 1 star on Lifeless Estate"
+    },
+    {
+      "apiname": "DLC_Ghost_RIPAndQuiet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R.I.P & Quiet",
+      "description": "Unlock all plots on Lifeless Estate"
+    },
+    {
+      "apiname": "DLC_Ghost_HauntedHousework",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Haunted Housework",
+      "description": "Capture 300 ghosts"
+    },
+    {
+      "apiname": "DLC_Hospital_PointyPeak1Star",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Old Gold Standard",
+      "description": "Earn 1 star on Pointy Peak"
+    },
+    {
+      "apiname": "DLC_Hospital_PatientsCuredStreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curing Spree!",
+      "description": "Cure 15 patients in a row"
+    },
+    {
+      "apiname": "DLC_Hospital_PatientResearchProjects",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Own Medicine",
+      "description": "Complete 10 patient research projects"
+    },
+    {
+      "apiname": "DLC_Hospital_AllIlllessesCured",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Wise Cure-All",
+      "description": "Successfully treat every patient illness"
+    },
+    {
+      "apiname": "DLC_Hospital_TreatmentMachineExplode",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wham & Blast",
+      "description": ""
+    }
+  ]
+}

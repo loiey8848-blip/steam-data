@@ -1,0 +1,1649 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1669980,
+  "game": "Volcano Princess",
+  "total": 234,
+  "unlocked": 4,
+  "percent": 1.7,
+  "updated_at_utc": "2026-09-15T06:52:17.933271+00:00",
+  "achievements": [
+    {
+      "apiname": "achi_99",
+      "achieved": 1,
+      "unlocktime": 1768442435,
+      "name": "Birth of my daughter",
+      "description": "Press Start!"
+    },
+    {
+      "apiname": "achi_100",
+      "achieved": 1,
+      "unlocktime": 1768442441,
+      "name": "Happy Spring! ",
+      "description": "The first spring"
+    },
+    {
+      "apiname": "achi_101",
+      "achieved": 1,
+      "unlocktime": 1768460072,
+      "name": "Happy Summer!",
+      "description": "The first summer"
+    },
+    {
+      "apiname": "achi_102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Autumn!",
+      "description": "The first autumn"
+    },
+    {
+      "apiname": "achi_103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Winter!",
+      "description": "The first winter"
+    },
+    {
+      "apiname": "achi_104",
+      "achieved": 1,
+      "unlocktime": 1768459934,
+      "name": "Birdie Day Celebration!",
+      "description": "Time to solve some maths."
+    },
+    {
+      "apiname": "achi_105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Volcano Ceremony!",
+      "description": "Daughter's Turn."
+    },
+    {
+      "apiname": "achi_106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journey's End",
+      "description": "The last month with the daughter."
+    },
+    {
+      "apiname": "achi_108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Letter from My daughter",
+      "description": "Received a letter from the daughter."
+    },
+    {
+      "apiname": "achi_109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Together with My Wife",
+      "description": "Achieve TRUE ENDING"
+    },
+    {
+      "apiname": "achi_110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fall into Darkness",
+      "description": "Darkness≥50"
+    },
+    {
+      "apiname": "achi_111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Path of Darkness",
+      "description": "Darkness≥150"
+    },
+    {
+      "apiname": "achi_107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mysterious Treasures",
+      "description": "Purchased items from a mysterious merchant."
+    },
+    {
+      "apiname": "achi_112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greetings, Your Highness",
+      "description": "Meet Princess Gwyneth at the prom."
+    },
+    {
+      "apiname": "achi_113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be A Knight!",
+      "description": "Reaching the rank of Junior Knight."
+    },
+    {
+      "apiname": "achi_114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Knight!",
+      "description": "Reach the rank of Intermediate Knight."
+    },
+    {
+      "apiname": "achi_115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Glorious Senior Knight!",
+      "description": "Reaching the rank of Advanced Knight."
+    },
+    {
+      "apiname": "achi_116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Ultimate Knight!",
+      "description": "Reaching the rank of Ultimate Knight."
+    },
+    {
+      "apiname": "achi_117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chef Brave",
+      "description": "Received the blessing from the Mouse Chef Brave."
+    },
+    {
+      "apiname": "achi_118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Beautiful Elf",
+      "description": "Blessed by a mysterious woman."
+    },
+    {
+      "apiname": "achi_119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strong Man",
+      "description": "Blessed by a mysterious man."
+    },
+    {
+      "apiname": "achi_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bird of Wisdom",
+      "description": "Blessed by a mysterious bird."
+    },
+    {
+      "apiname": "achi_121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Messenger of the Magic World",
+      "description": "Received the blessing of a suspicious ghost."
+    },
+    {
+      "apiname": "achi_122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blessing of the Sacrificial Tower",
+      "description": "Knock 3 times the door of the Sacrificial Tower, and get the staff of the sacrificial tower."
+    },
+    {
+      "apiname": "achi_123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeding the Wolf Cub",
+      "description": "Feed a wolf cub during adventure."
+    },
+    {
+      "apiname": "achi_124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Owl Princess",
+      "description": "Beat the Owl Princess."
+    },
+    {
+      "apiname": "achi_126",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tomb of Rebessa",
+      "description": "Beat Rebessa."
+    },
+    {
+      "apiname": "achi_127",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turn and Retreat",
+      "description": "Chose to leave directly in Black Street."
+    },
+    {
+      "apiname": "achi_128",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wise One",
+      "description": "STR reached S rank."
+    },
+    {
+      "apiname": "achi_125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tomb of Lebsa",
+      "description": ""
+    },
+    {
+      "apiname": "achi_129",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Romantic Singer",
+      "description": "EMO reached S rank."
+    },
+    {
+      "apiname": "achi_130",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imaginative Poet",
+      "description": "IMG reached S rank."
+    },
+    {
+      "apiname": "achi_131",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goddess of Strength",
+      "description": "Stamina reaches 150."
+    },
+    {
+      "apiname": "achi_132",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goddess of Wisdom",
+      "description": "Mind reaches 150."
+    },
+    {
+      "apiname": "achi_133",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goddess of Perfection",
+      "description": "Charisma reaches 150."
+    },
+    {
+      "apiname": "achi_134",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goddess of Martial Arts",
+      "description": "Attack power reaches 200."
+    },
+    {
+      "apiname": "achi_135",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Confession",
+      "description": "Confession in church."
+    },
+    {
+      "apiname": "achi_136",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Swordplay",
+      "description": "Complete 14 sword courses."
+    },
+    {
+      "apiname": "achi_137",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Bowmanship",
+      "description": "Complete 14 bow courses."
+    },
+    {
+      "apiname": "achi_138",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professor of Science",
+      "description": "Complete 14 science courses."
+    },
+    {
+      "apiname": "achi_139",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professor of Theology",
+      "description": "Complete 14 courses in theology."
+    },
+    {
+      "apiname": "achi_140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elegant Nobleman",
+      "description": "Complete 14 courses in Liturgy."
+    },
+    {
+      "apiname": "achi_141",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Literature",
+      "description": "Completed 14 poetry and calligraphy courses."
+    },
+    {
+      "apiname": "achi_142",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Painting",
+      "description": "Completed 14 Painting courses."
+    },
+    {
+      "apiname": "achi_143",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Music",
+      "description": "Completed 14 music courses."
+    },
+    {
+      "apiname": "achi_144",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Alchemy",
+      "description": "Repair 20 items successfully."
+    },
+    {
+      "apiname": "achi_145",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kite of the Royal Family",
+      "description": "Achieve the Romance ending with Gwyneth and Kenneth."
+    },
+    {
+      "apiname": "achi_146",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Girl's Paradise",
+      "description": "Achieve Romance ending with Nina and Mona."
+    },
+    {
+      "apiname": "achi_147",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Harvest Wheat Together",
+      "description": "Achieve Romance endings with Benson, Hackett, Craig, Ron, and Zee."
+    },
+    {
+      "apiname": "achi_148",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chef's Honey",
+      "description": "Marry Mona"
+    },
+    {
+      "apiname": "achi_149",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nina's Bride",
+      "description": "Marry Nina"
+    },
+    {
+      "apiname": "achi_150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sun of Magician",
+      "description": "Marry Craig"
+    },
+    {
+      "apiname": "achi_151",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Painter's Mockingbird",
+      "description": "Marry Benson"
+    },
+    {
+      "apiname": "achi_152",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Red Wolf King's Bird",
+      "description": "Marry Hackett"
+    },
+    {
+      "apiname": "achi_153",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Judge's St. Elmo's Fire",
+      "description": "Marry Zee"
+    },
+    {
+      "apiname": "achi_154",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Novelist's Heroine",
+      "description": "Marry Ron"
+    },
+    {
+      "apiname": "achi_155",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Queen's Exclusive Knight",
+      "description": "Marry Gwyneth"
+    },
+    {
+      "apiname": "achi_156",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Prince's Ever After",
+      "description": "Marry Kenneth"
+    },
+    {
+      "apiname": "achi_157",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Scholar's Spring Breeze",
+      "description": "Marry Claude"
+    },
+    {
+      "apiname": "achi_158",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Braveheart Lakeside",
+      "description": "Marry Rebessa"
+    },
+    {
+      "apiname": "achi_159",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bard's Companion",
+      "description": "Marry Derek"
+    },
+    {
+      "apiname": "achi_160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nun's Keeper",
+      "description": "Marry Connie"
+    },
+    {
+      "apiname": "achi_161",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Cloth Designer",
+      "description": "Marry Rebecca"
+    },
+    {
+      "apiname": "achi_162",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Weapon Forger",
+      "description": "Marry Jermaine's son"
+    },
+    {
+      "apiname": "achi_163",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Promise to Grandpa",
+      "description": "Marry Ellen"
+    },
+    {
+      "apiname": "achi_164",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mutual Care",
+      "description": "Marry Mary"
+    },
+    {
+      "apiname": "achi_165",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier's Wife",
+      "description": "Marry Mark"
+    },
+    {
+      "apiname": "achi_166",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Volcano Goddess",
+      "description": ""
+    },
+    {
+      "apiname": "achi_167",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Volcano Queen",
+      "description": ""
+    },
+    {
+      "apiname": "achi_168",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honorable Knight",
+      "description": ""
+    },
+    {
+      "apiname": "achi_169",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "achi_170",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General",
+      "description": ""
+    },
+    {
+      "apiname": "achi_171",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier",
+      "description": ""
+    },
+    {
+      "apiname": "achi_173",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Adventurer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_174",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "achi_175",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guard Captain",
+      "description": ""
+    },
+    {
+      "apiname": "achi_176",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undercover Police Detective",
+      "description": ""
+    },
+    {
+      "apiname": "achi_177",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Scholar",
+      "description": ""
+    },
+    {
+      "apiname": "achi_178",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scholar",
+      "description": ""
+    },
+    {
+      "apiname": "achi_179",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minister",
+      "description": ""
+    },
+    {
+      "apiname": "achi_180",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Judge",
+      "description": ""
+    },
+    {
+      "apiname": "achi_181",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archbishop",
+      "description": ""
+    },
+    {
+      "apiname": "achi_182",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Priest",
+      "description": ""
+    },
+    {
+      "apiname": "achi_183",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nun",
+      "description": ""
+    },
+    {
+      "apiname": "achi_184",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater Star",
+      "description": ""
+    },
+    {
+      "apiname": "achi_185",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dancer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_186",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater Actress",
+      "description": ""
+    },
+    {
+      "apiname": "achi_187",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upperclass Courtesan",
+      "description": ""
+    },
+    {
+      "apiname": "achi_188",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Haunted Inn Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "achi_189",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harlot",
+      "description": ""
+    },
+    {
+      "apiname": "achi_190",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Concubine",
+      "description": ""
+    },
+    {
+      "apiname": "achi_191",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Countess",
+      "description": ""
+    },
+    {
+      "apiname": "achi_192",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Belle",
+      "description": ""
+    },
+    {
+      "apiname": "achi_193",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Writer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_194",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bard",
+      "description": ""
+    },
+    {
+      "apiname": "achi_195",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popular Novelist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_196",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amateur Novelist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_197",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Artist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_198",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Painter",
+      "description": ""
+    },
+    {
+      "apiname": "achi_199",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prominent Cartoonist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Designer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_201",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Famous Pianist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_202",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music Composer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_203",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Opera Heroine",
+      "description": ""
+    },
+    {
+      "apiname": "achi_204",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wandering Singer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_205",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Queen",
+      "description": ""
+    },
+    {
+      "apiname": "achi_206",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heaven Society's Boss",
+      "description": ""
+    },
+    {
+      "apiname": "achi_207",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rascal",
+      "description": ""
+    },
+    {
+      "apiname": "achi_208",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fraudster",
+      "description": ""
+    },
+    {
+      "apiname": "achi_209",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cultist",
+      "description": ""
+    },
+    {
+      "apiname": "achi_210",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wealthiest in the World",
+      "description": ""
+    },
+    {
+      "apiname": "achi_211",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entrepreneur",
+      "description": ""
+    },
+    {
+      "apiname": "achi_212",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchant",
+      "description": ""
+    },
+    {
+      "apiname": "achi_213",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waitress",
+      "description": ""
+    },
+    {
+      "apiname": "achi_214",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Fortune Teller",
+      "description": ""
+    },
+    {
+      "apiname": "achi_215",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Street Fortune Teller",
+      "description": ""
+    },
+    {
+      "apiname": "achi_216",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diligent Farmer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_217",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Chef",
+      "description": ""
+    },
+    {
+      "apiname": "achi_218",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor",
+      "description": ""
+    },
+    {
+      "apiname": "achi_219",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oarsman",
+      "description": ""
+    },
+    {
+      "apiname": "achi_220",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bricklayer",
+      "description": ""
+    },
+    {
+      "apiname": "achi_221",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart-throb",
+      "description": ""
+    },
+    {
+      "apiname": "achi_222",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Commoner",
+      "description": ""
+    },
+    {
+      "apiname": "achi_223",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unemployed",
+      "description": ""
+    },
+    {
+      "apiname": "achi_172",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marksman",
+      "description": ""
+    },
+    {
+      "apiname": "achi_224",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loving Dad",
+      "description": ">50 on Daddy loves me a lot"
+    },
+    {
+      "apiname": "achi_225",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moe Dad",
+      "description": "Become Daughter's Faithful Friend and>25 on Daddy is cute"
+    },
+    {
+      "apiname": "achi_226",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Father of Wisdom",
+      "description": "Become Daughter's Trusted Mentor and >25 on Dad is wise"
+    },
+    {
+      "apiname": "achi_227",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Father of Justice",
+      "description": "Become Daughter's Reliable Warrior and >25 for Dad is brave"
+    },
+    {
+      "apiname": "achi_228",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dad is lame",
+      "description": "Become a father who is disliked by his daughter"
+    },
+    {
+      "apiname": "achi_229",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ordinary Father",
+      "description": "More than 50 on Dad's Evaluation score"
+    },
+    {
+      "apiname": "achi_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wonderful Date",
+      "description": "Complete 10 perfect dates."
+    },
+    {
+      "apiname": "achi_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dating Expert",
+      "description": "Complete 30 perfect dates."
+    },
+    {
+      "apiname": "achi_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Date",
+      "description": "Dated 10 times."
+    },
+    {
+      "apiname": "achi_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can we date often",
+      "description": "Dated 30 times."
+    },
+    {
+      "apiname": "achi_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dating is the most enjoyable thing",
+      "description": "Dated 50 times."
+    },
+    {
+      "apiname": "achi_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Award!",
+      "description": "Become first in the Volcano Kingdom Festival."
+    },
+    {
+      "apiname": "achi_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Award!",
+      "description": "Become second in the Volcano Kingdom Festival."
+    },
+    {
+      "apiname": "achi_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Third's not that bad",
+      "description": "Become third in the Volcano Kingdom Festival."
+    },
+    {
+      "apiname": "achi_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardworking Painter",
+      "description": "Complete 5 paintings."
+    },
+    {
+      "apiname": "achi_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genius Painter",
+      "description": "Complete 10 paintings."
+    },
+    {
+      "apiname": "achi_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated Painter",
+      "description": "Complete 20 paintings."
+    },
+    {
+      "apiname": "achi_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proficient Actress",
+      "description": "Complete 5 plays."
+    },
+    {
+      "apiname": "achi_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardworking Actress",
+      "description": "Complete 10 plays."
+    },
+    {
+      "apiname": "achi_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated Actress",
+      "description": "Complete 20 plays."
+    },
+    {
+      "apiname": "achi_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater's Rising Star",
+      "description": "First time completing a S grade performance."
+    },
+    {
+      "apiname": "achi_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High-profiled Theater Actress",
+      "description": "First time completing an A grade performance."
+    },
+    {
+      "apiname": "achi_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accomplished Theater Actress",
+      "description": "First time completing a B grade performance."
+    },
+    {
+      "apiname": "achi_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expensive Appearance Fee",
+      "description": "Earn 400 gold on performance."
+    },
+    {
+      "apiname": "achi_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Was is an expensive performance",
+      "description": "Earn 800 gold on performance."
+    },
+    {
+      "apiname": "achi_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Explorer",
+      "description": "Become a Green Explorer."
+    },
+    {
+      "apiname": "achi_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Matured Explorer",
+      "description": "Become a Blue-SIlk Explorer."
+    },
+    {
+      "apiname": "achi_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Excellent Demon Hunter",
+      "description": "Become a Gold Demon Hunter."
+    },
+    {
+      "apiname": "achi_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be brave and head to the forest!",
+      "description": "Complete 1 explorations."
+    },
+    {
+      "apiname": "achi_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Familiar forest",
+      "description": "Complete 5 explorations."
+    },
+    {
+      "apiname": "achi_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walk freely in the forest",
+      "description": "Complete 10 explorations."
+    },
+    {
+      "apiname": "achi_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A member of the Forgotten Forest",
+      "description": "Complete 20 explorations."
+    },
+    {
+      "apiname": "achi_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is the feeling of battle!",
+      "description": "Win 10 battles."
+    },
+    {
+      "apiname": "achi_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proficient Battler",
+      "description": "Win 50 battles."
+    },
+    {
+      "apiname": "achi_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ares",
+      "description": "Win 100 battles."
+    },
+    {
+      "apiname": "achi_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The taste of winning a solo fight",
+      "description": "Win 10 solo fights."
+    },
+    {
+      "apiname": "achi_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Used to winning",
+      "description": "Win 20 solo fights."
+    },
+    {
+      "apiname": "achi_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Learner",
+      "description": "Complete 10 courses' study."
+    },
+    {
+      "apiname": "achi_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Class Encourager ",
+      "description": "Complete 30 courses' study."
+    },
+    {
+      "apiname": "achi_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Athlete of Lessons",
+      "description": "Complete 50 courses' study."
+    },
+    {
+      "apiname": "achi_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honorable Knight of Lessons",
+      "description": "Complete 70 courses' study."
+    },
+    {
+      "apiname": "achi_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Walking Encyclopaedia",
+      "description": "Complete 100 courses' study."
+    },
+    {
+      "apiname": "achi_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Active Chatter",
+      "description": "Chat with others 50 times."
+    },
+    {
+      "apiname": "achi_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like the Wind",
+      "description": "Chat with others 100 times."
+    },
+    {
+      "apiname": "achi_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Chatting",
+      "description": "Chat with others 200 times."
+    },
+    {
+      "apiname": "achi_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Walking Question Mark",
+      "description": "Ask others for advice 20 times."
+    },
+    {
+      "apiname": "achi_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ask Everyone",
+      "description": "Ask others for advice 40 times."
+    },
+    {
+      "apiname": "achi_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learning Artist",
+      "description": "Ask others for advice 70 times."
+    },
+    {
+      "apiname": "achi_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gifting Newbie",
+      "description": "Successfully send out 10 gifts."
+    },
+    {
+      "apiname": "achi_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gifting Expert",
+      "description": "Successfully send out 30 gifts."
+    },
+    {
+      "apiname": "achi_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone Likes My GIfts",
+      "description": "Successfully send out 50 gifts."
+    },
+    {
+      "apiname": "achi_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lovable Gifter",
+      "description": "Successfully send out 80 gifts."
+    },
+    {
+      "apiname": "achi_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warmhearted Letter Writer",
+      "description": "Reply 5 admirers' letters."
+    },
+    {
+      "apiname": "achi_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popular Penpal",
+      "description": "Reply 10 admirers' letters."
+    },
+    {
+      "apiname": "achi_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reputable Replier",
+      "description": "Reply 20 admirers' letters."
+    },
+    {
+      "apiname": "achi_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's so nice to have friends",
+      "description": "Have 5 friends."
+    },
+    {
+      "apiname": "achi_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone is my friend!",
+      "description": "Have 15 friends."
+    },
+    {
+      "apiname": "achi_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best friends who can talk about anything",
+      "description": "Have 5 best friends."
+    },
+    {
+      "apiname": "achi_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get lots of love",
+      "description": "Have 200 admirers."
+    },
+    {
+      "apiname": "achi_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Receiving love letters is a common practice",
+      "description": "Have 500 admirers."
+    },
+    {
+      "apiname": "achi_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone likes me",
+      "description": "Have 1000 admirers."
+    },
+    {
+      "apiname": "achi_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daughter's Thank You Gift",
+      "description": "Father's favorable impression reach 50."
+    },
+    {
+      "apiname": "achi_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daughter's company",
+      "description": "Father's favorable impression reach 100."
+    },
+    {
+      "apiname": "achi_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The best you in the world",
+      "description": "Father's favorable impression reach 200."
+    },
+    {
+      "apiname": "achi_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's becoming fun to read",
+      "description": "Finish reading 10 books."
+    },
+    {
+      "apiname": "achi_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A book that walks",
+      "description": "Finish reading 20 books."
+    },
+    {
+      "apiname": "achi_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's more I want to read about",
+      "description": "Finish reading 40 books."
+    },
+    {
+      "apiname": "achi_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't forget about learning outside of class",
+      "description": "Complete 30 course guidances."
+    },
+    {
+      "apiname": "achi_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learnt a lot without knowing",
+      "description": "Complete 100 course guidances."
+    },
+    {
+      "apiname": "achi_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Excellent Learner",
+      "description": "Complete 200 course guidances."
+    },
+    {
+      "apiname": "achi_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I have an admirer?",
+      "description": "Have 50 admirers."
+    },
+    {
+      "apiname": "achi_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best friend ever!",
+      "description": "Have 15 best friends."
+    },
+    {
+      "apiname": "achi_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Part-time Newbie",
+      "description": "Complete 10 part times."
+    },
+    {
+      "apiname": "achi_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proficiently working",
+      "description": "Complete 40 part times."
+    },
+    {
+      "apiname": "achi_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Kangaroo",
+      "description": "Earn 500G during exploration."
+    },
+    {
+      "apiname": "achi_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Detector",
+      "description": "Earn 2000G during exploration."
+    },
+    {
+      "apiname": "achi_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So much money",
+      "description": "Earn 5000G during exploration."
+    },
+    {
+      "apiname": "achi_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Robber",
+      "description": "Total items obtained during exploration reach 100."
+    },
+    {
+      "apiname": "achi_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Expert",
+      "description": "Total items obtained during exploration reach 200."
+    },
+    {
+      "apiname": "achi_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Treasure Hunter",
+      "description": "Total items obtained during exploration reach 400."
+    },
+    {
+      "apiname": "achi_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light of the Street",
+      "description": "Solve 10 crimes."
+    },
+    {
+      "apiname": "achi_76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow Killer",
+      "description": "Solve 20 crimes."
+    },
+    {
+      "apiname": "achi_77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Justice Eagle",
+      "description": "Solve 30 crimes."
+    },
+    {
+      "apiname": "achi_78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New to Racecourse",
+      "description": "Participate in 3 horseraces."
+    },
+    {
+      "apiname": "achi_79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racecourse Veteran",
+      "description": "Participate in 8 horseraces."
+    },
+    {
+      "apiname": "achi_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racecourse Regular",
+      "description": "Participate in 15 horseraces."
+    },
+    {
+      "apiname": "achi_81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Running Pony",
+      "description": "Become the top three in horseracing 3 times."
+    },
+    {
+      "apiname": "achi_82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fighting Pony",
+      "description": "Become the top three in horseracing 6 times."
+    },
+    {
+      "apiname": "achi_83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bountiful Pony",
+      "description": "Become the top three in horseracing 10 times."
+    },
+    {
+      "apiname": "achi_84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Explorer",
+      "description": "Arrival at the end of Oasis Forest"
+    },
+    {
+      "apiname": "achi_85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frosty Brave",
+      "description": "Arrival at the end of Frost Canyon"
+    },
+    {
+      "apiname": "achi_86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flaming Warrior",
+      "description": "Arrive at the end of Flaming River"
+    },
+    {
+      "apiname": "achi_87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Brave",
+      "description": ""
+    },
+    {
+      "apiname": "achi_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Workaholic",
+      "description": "Complete 70 part times."
+    },
+    {
+      "apiname": "achi_88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Chef",
+      "description": "Cook 20times."
+    },
+    {
+      "apiname": "achi_89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delicacy Cooker",
+      "description": "Cook 70 times."
+    },
+    {
+      "apiname": "achi_90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Chef",
+      "description": "Cook 150 times."
+    },
+    {
+      "apiname": "achi_91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Much money",
+      "description": "Total gold earned reach 20,000."
+    },
+    {
+      "apiname": "achi_92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So much money",
+      "description": "Total gold earned reach 50,000."
+    },
+    {
+      "apiname": "achi_93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money storm",
+      "description": "Total gold earned reach 100,000."
+    },
+    {
+      "apiname": "achi_94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Renowned",
+      "description": "Total reputation obtained reach 3000."
+    },
+    {
+      "apiname": "achi_95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reputable",
+      "description": "Total reputation obtained reach 6000."
+    },
+    {
+      "apiname": "achi_96",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Public Figure",
+      "description": "Total reputation obtained reach 10000."
+    },
+    {
+      "apiname": "achi_97",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banquet Commentator",
+      "description": "Participate in 10 banquets."
+    },
+    {
+      "apiname": "achi_98",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banquet Star",
+      "description": "Participate in 20 banquets."
+    },
+    {
+      "apiname": "achi_230",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Laurels and Wildflowers",
+      "description": "Achieve the Romance ending with Gwyneth and Mona."
+    },
+    {
+      "apiname": "achi_231",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Orchid and Jasmine",
+      "description": "Achieve the Romance ending with Lon and Craig."
+    },
+    {
+      "apiname": "achi_232",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snow Flower and Rose",
+      "description": "Achieve the Romance ending with Ze and Hackett."
+    },
+    {
+      "apiname": "achi_233",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare of the brave",
+      "description": "Special Romance Ending with Lebsa."
+    }
+  ]
+}

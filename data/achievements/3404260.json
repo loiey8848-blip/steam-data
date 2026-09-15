@@ -1,0 +1,179 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3404260,
+  "game": "Dead as Disco",
+  "total": 24,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:29.831132+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_001_WHY_WONT_YOU_DANCE_WITH_ME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Why Won’t You Dance With Me",
+      "description": "Defeat Arora"
+    },
+    {
+      "apiname": "ACH_002_MANIAC_ON_THE_FLOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maniac On The Floor",
+      "description": "Defeat Hemlock"
+    },
+    {
+      "apiname": "ACH_003_BRAND_NEW_MISSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Mission",
+      "description": "Defeat Prophet"
+    },
+    {
+      "apiname": "ACH_004_PERFECTION_IS_PAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfection Is Pain",
+      "description": "Defeat Dex"
+    },
+    {
+      "apiname": "ACH_009_ONE_HIT_WONDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Hit Wonder",
+      "description": "Finish a Challenge without taking any damage"
+    },
+    {
+      "apiname": "ACH_010_BEAT_KUNE_DO_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat Kune Do Master",
+      "description": "Purchase 8 skills from Charlie’s skill tree"
+    },
+    {
+      "apiname": "ACH_011_RECKLESS_POWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Power",
+      "description": "Purchase 4 skills from Hemlock’s skill tree"
+    },
+    {
+      "apiname": "ACH_012_GOING_GALACTIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Galactic",
+      "description": "Purchase 4 skills from Arora’s skill tree"
+    },
+    {
+      "apiname": "ACH_013_IMPERFECT_BUT_ACCEPTABLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imperfect But Acceptable",
+      "description": "Purchase 4 skills from Dex’s skill tree"
+    },
+    {
+      "apiname": "ACH_014_CHOSEN_ONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chosen One",
+      "description": "Purchase 4 skills from Prophet’s skill tree"
+    },
+    {
+      "apiname": "ACH_019_LETS_DANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let’s Dance",
+      "description": "Finish the tutorial"
+    },
+    {
+      "apiname": "ACH_020_CANT_TOUCH_THIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can’t Touch This",
+      "description": "Perform 200 perfect dodges"
+    },
+    {
+      "apiname": "ACH_021_FLASH_DANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash Dance",
+      "description": "Perform 2000 perfect dodges"
+    },
+    {
+      "apiname": "ACH_022_BREAK_A_LEG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break A Leg",
+      "description": "Perform 100 perfect counters"
+    },
+    {
+      "apiname": "ACH_023_PERFECT_DANCE_PARTNER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Dance Partner",
+      "description": "Perform 1000 perfect counters"
+    },
+    {
+      "apiname": "ACH_024_SONG_CRAFTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Crafter",
+      "description": "Add a song to My Music"
+    },
+    {
+      "apiname": "ACH_025_FEELING_THE_FLOW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeling The Flow",
+      "description": "Reach a 200 combo"
+    },
+    {
+      "apiname": "ACH_026_DISCO_DEBUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco Debut",
+      "description": "Finish a non-custom Challenge"
+    },
+    {
+      "apiname": "ACH_027_DISCO_STAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco Star",
+      "description": "Finish 20 non-custom Challenges"
+    },
+    {
+      "apiname": "ACH_028_DISCO_LEGEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco Legend",
+      "description": "Finish 20 non-custom Challenges with a 5-star rank"
+    },
+    {
+      "apiname": "ACH_029_LOOKIN_GOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lookin' Good",
+      "description": "Purchase a cosmetic"
+    },
+    {
+      "apiname": "ACH_030_FASHION_ICON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Icon",
+      "description": "Purchase 15 cosmetics"
+    },
+    {
+      "apiname": "ACH_031_FIXIN_UP_THE_PLACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fixin' Up The Place",
+      "description": "Acquire 10 pieces of memorabilia"
+    },
+    {
+      "apiname": "ACH_032_SPARKING_JOY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparking Joy",
+      "description": "Acquire 30 pieces of memorabilia"
+    }
+  ]
+}

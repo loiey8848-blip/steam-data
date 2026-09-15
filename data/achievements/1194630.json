@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1194630,
+  "game": "The Dark Pictures Anthology: Little Hope",
+  "total": 30,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:13.881609+00:00",
+  "achievements": [
+    {
+      "apiname": "FOUND_SUPERNATURAL_SECRETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirty Little Secrets",
+      "description": "Found all witchcraft secrets"
+    },
+    {
+      "apiname": "PLAYED_MODE_PROLOGUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Much Death",
+      "description": "Completed the prologue"
+    },
+    {
+      "apiname": "PLAYED_MODE_MOVIENIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coven of Witches",
+      "description": "Finished Movie Night"
+    },
+    {
+      "apiname": "TAYLOR_DEMONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Our Own Demons",
+      "description": ""
+    },
+    {
+      "apiname": "COMBAT_FIVE_IN_A_ROW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On A Roll",
+      "description": "Completed 5 combat events in succession"
+    },
+    {
+      "apiname": "SAVE_MARY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forgiveness",
+      "description": ""
+    },
+    {
+      "apiname": "UNLOCKED_RATIONAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rational Mind",
+      "description": "Rational was one of top two traits for John"
+    },
+    {
+      "apiname": "UNLOCKED_AMIABLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amiable Character",
+      "description": "Amiable was one of top two traits for Daniel"
+    },
+    {
+      "apiname": "UNLOCKED_COMPASSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Compassionate Soul",
+      "description": "Compassionate was one of top two traits for Andrew"
+    },
+    {
+      "apiname": "UNLOCKED_HEADSTRONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Headstrong Heroine",
+      "description": "Headstrong was one of top two traits for Taylor"
+    },
+    {
+      "apiname": "UNLOCKED_MATURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deeper Understanding",
+      "description": "Understanding was one of top two traits for Angela"
+    },
+    {
+      "apiname": "CHOOSE_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instinctive Reaction",
+      "description": "Chose all of the Heart decisions"
+    },
+    {
+      "apiname": "CHOOSE_HEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Considered Opinion",
+      "description": "Chose all of the Head decisions"
+    },
+    {
+      "apiname": "DANIEL_REDEEMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbroken",
+      "description": ""
+    },
+    {
+      "apiname": "TAYLOR_REDEEMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "ANGELA_REDEEMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Are of Water",
+      "description": ""
+    },
+    {
+      "apiname": "ANDREW_REDEEMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strength From Within",
+      "description": ""
+    },
+    {
+      "apiname": "JOHN_REDEEMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Burden",
+      "description": ""
+    },
+    {
+      "apiname": "FOUND_PICTURES_BLACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deathly Visions",
+      "description": "Found all of the black framed Pictures"
+    },
+    {
+      "apiname": "FOUND_PICTURES_WHITE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glimmer of Hope",
+      "description": "Found all of the white framed Pictures"
+    },
+    {
+      "apiname": "COMPLETED_SOLO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Circle",
+      "description": "Completed the Solo Story"
+    },
+    {
+      "apiname": "DOOMED_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Escaping Fate",
+      "description": ""
+    },
+    {
+      "apiname": "REDEEM_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salvation",
+      "description": ""
+    },
+    {
+      "apiname": "RELATIONSHIP_ANGELA_JOHN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Odd Couple",
+      "description": ""
+    },
+    {
+      "apiname": "RELATIONSHIP_DANIEL_TAYLOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solid As a Rock",
+      "description": ""
+    },
+    {
+      "apiname": "RELATIONSHIP_ANDREW_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Together Now",
+      "description": ""
+    },
+    {
+      "apiname": "FOUND_FAMILY_SECRETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets Too Dark",
+      "description": "Found all family secrets"
+    },
+    {
+      "apiname": "FOUND_PICTURES_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Complete Picture",
+      "description": "Found all Pictures"
+    },
+    {
+      "apiname": "KILLED_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Dream is Your Enemy",
+      "description": "No-one survived"
+    },
+    {
+      "apiname": "SOLE_SURVIVOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fate Worse Than Death",
+      "description": "Andrew was saved from himself"
+    }
+  ]
+}

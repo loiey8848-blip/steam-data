@@ -1,0 +1,459 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 324800,
+  "game": "Shadow Warrior 2",
+  "total": 64,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:25.882758+00:00",
+  "achievements": [
+    {
+      "apiname": "ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm a Collector Myself",
+      "description": "Unlock all achievements"
+    },
+    {
+      "apiname": "GAME_FINISHED_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Casual Wang",
+      "description": "Complete the game on Tiny Grasshopper difficulty"
+    },
+    {
+      "apiname": "GAME_FINISHED_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Wang",
+      "description": "Complete the game on I Have No Fear difficulty"
+    },
+    {
+      "apiname": "GAME_FINISHED_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Wang",
+      "description": "Complete the game on Who Wants Wang difficulty"
+    },
+    {
+      "apiname": "GAME_FINISHED_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Insane Wang",
+      "description": "Complete the game on No Pain No Gain difficulty"
+    },
+    {
+      "apiname": "BOSS_kamiko_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of the Dragon Mountain",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_kamiko_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of Mount Akuma",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_zilla",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfinished Business",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_spider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goddess Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "LEVEL_UP_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sempai",
+      "description": "Develop any character to level 10"
+    },
+    {
+      "apiname": "LEVEL_UP_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sensei",
+      "description": "Develop any character to level 25"
+    },
+    {
+      "apiname": "LEVEL_UP_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grandmaster",
+      "description": "Develop any character to level 50"
+    },
+    {
+      "apiname": "KILL_COUNT_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Hitman",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "KILL_COUNT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Executioner",
+      "description": "Kill 500 enemies"
+    },
+    {
+      "apiname": "KILL_COUNT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call me Wang, Lo Wang",
+      "description": "Kill 2500 enemies"
+    },
+    {
+      "apiname": "SECRETS_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shiny!",
+      "description": "Find 5 secrets"
+    },
+    {
+      "apiname": "SECRETS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Precious",
+      "description": "Find 15 secrets"
+    },
+    {
+      "apiname": "SECRETS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Chinese Secrets",
+      "description": "Find 50 secrets"
+    },
+    {
+      "apiname": "COUNT_money_found_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's a Lot of Coins",
+      "description": "Collect 1000000 zillyen"
+    },
+    {
+      "apiname": "COUNT_money_found_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Financial Security",
+      "description": "Collect 10000000 zillyen"
+    },
+    {
+      "apiname": "COUNT_upgrades_found_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready for Action",
+      "description": "Collect 500 upgrades"
+    },
+    {
+      "apiname": "COUNT_upgrades_2_found_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unique Collection",
+      "description": "Collect 200 unique upgrades"
+    },
+    {
+      "apiname": "COUNT_upgrades_3_found_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Collection",
+      "description": "Collect 100 legendary upgrades"
+    },
+    {
+      "apiname": "COUNT_craft_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handyman",
+      "description": "Craft 100 upgrades"
+    },
+    {
+      "apiname": "COUNT_craft_3_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Handyman",
+      "description": "Craft 30 legendary upgrades"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnComboKill_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trickster",
+      "description": "Perform 200 Special Attack kills"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnLevitateKill_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wang the Impaler",
+      "description": "Perform 100 kills when enemy's grasped by Grip of Darkness"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnIceExplosion_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiny Little Pieces",
+      "description": "Shatter 100 frozen enemies"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnAcidExplosion_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toxic Blast",
+      "description": "Perform 100 acid corpse explosions"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnBurnEffect_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living Torch",
+      "description": "Set 200 enemies on fire"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnElectricEffect_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Short Circuit",
+      "description": "Electrocute 200 enemies"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnHeadshotKill_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Perform 100 weakspot kills"
+    },
+    {
+      "apiname": "SPECIAL_ACTION_COUNT_OnVanishKill_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Kosugi",
+      "description": "Perform 50 Vanish kills"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_cyber_revolver_dual",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lieutenant Akimbo",
+      "description": "Defeat Lieutenant Akimbo in story mission: My Hero"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_jumper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sharpest Spike",
+      "description": "Defeat The Sharpest Spike in story mission: Hot Blooded"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_hobo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vicious Sentinel",
+      "description": "Defeat Vicious Sentinel in side mission: Chi-ters"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_talon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Chef",
+      "description": "Defeat The Chef in side mission: The Cookery"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_boom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frozen Widow",
+      "description": "Defeat Frozen Widow in side mission: Ninja'd Scrolls - Part 1"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_toro_yakuza",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Guard",
+      "description": "Defeat The Guard in side mission: Ninja'd Scrolls - Part 2"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_hobo_cyber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unit-64 Commodore",
+      "description": "Defeat Unit-64 Commodore in side mission: Ninja'd Scrolls - Part 3"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_stinger_cyber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ST-RC1 Titan",
+      "description": "Defeat ST-RC1 Titan in story mission: Zilla Attack"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_yakuza_revolver_dual",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gun Fury",
+      "description": "Defeat Gun Fury in side mission: Demon Trafficking"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_mech_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transistor ZL-260",
+      "description": "Defeat Transistor ZL-260 in story mission: Industrial Espionage"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_dog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alpha R-XIII",
+      "description": "Defeat Alpha R-XIII in side mission: Monster Tea Party"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_hobo_yakuza",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shady Rascal",
+      "description": "Defeat Shady Rascal in side mission: Flirty Fishing - Part 2"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_disco_cyber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen of D.O.L.L.s",
+      "description": "Defeat Queen of D.O.L.L.s in side mission: Flirty Fishing - Part 3"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_belly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Fart",
+      "description": "Defeat Old Fart in side mission: Flirty Fishing - Part 1"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_yakuza_katana_dual",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice of Musashi",
+      "description": "Defeat Apprentice of Musashi in story mission: Ancestral Ties"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_talon_juggernaut",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magmator of the Devil Mountain",
+      "description": "Defeat Magmator of the Devil Mountain in story mission: Body Shaking"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_berserker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord Destroyer",
+      "description": "Defeat Lord Destroyer in story mission: All in the Family"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_cyber_hobo_uzi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eradicator",
+      "description": "Defeat Eradicator in side mission: Stop the Propaganda"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_cyber_uzi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonel Fasthand",
+      "description": "Defeat Colonel Fasthand in side mission: Heisenberg - Part 2"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_blob",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Toxitor",
+      "description": "Defeat The Toxitor in story mission: Stop the Ooze"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_spectre_cyber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captain Lo-Gan",
+      "description": "Defeat Captain Lo-Gan in side mission: One More Thing"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_healer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Highest Priest",
+      "description": "Defeat The Highest Priest in side mission: Heisenberg - Part 1"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_warlord",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lord of War",
+      "description": "Defeat The Lord of War in side mission: Heisenberg - Part 3"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_talon_cyber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TL-Devourer",
+      "description": "Defeat TL-Devourer in story mission: Corporate Shill"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_quest_champion_mech_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resistor ZL-260",
+      "description": "Defeat Resistor ZL-260 in story mission: Violent Takeover"
+    },
+    {
+      "apiname": "KILL_COUNT_TYPE_evil_rabbit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Think I Saw a Wabbit",
+      "description": ""
+    },
+    {
+      "apiname": "QUEST_FINISHED_CHALLENGE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Student of The Way of the Wang",
+      "description": "Complete any trial of The Way of the Wang"
+    },
+    {
+      "apiname": "QUEST_FINISHED_CHALLENGE_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of The Way of the Wang",
+      "description": "Complete Trials of Infusion, Embedding, Purification and Trial of the Ancient God"
+    },
+    {
+      "apiname": "COUNT_orb_found_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Orb Collector",
+      "description": "Collect 100 Orbs of Masamune"
+    },
+    {
+      "apiname": "COUNT_orb_found_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Orb Collector",
+      "description": "Collect 1000 Orbs of Masamune"
+    },
+    {
+      "apiname": "COUNT_orb_found_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Way of Masamune",
+      "description": "Collect 10000 Orbs of Masamune"
+    }
+  ]
+}

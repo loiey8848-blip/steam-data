@@ -1,0 +1,5954 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 209080,
+  "game": "Guns of Icarus Online",
+  "total": 849,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:38.081655+00:00",
+  "achievements": [
+    {
+      "apiname": "P Career 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready To Fly",
+      "description": "Play 2 matches, Destroy 20 parts (crew), Spend 10 seconds using helm skills"
+    },
+    {
+      "apiname": "P Career 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Legs",
+      "description": "Play 10 matches, (crew) Destroy 20 ships, Shake 10 spots"
+    },
+    {
+      "apiname": "P Career 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncharted Territory",
+      "description": "Play 10 matches, Destroy 25 ships (crew), Capture 7 points"
+    },
+    {
+      "apiname": "P Career 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "At the Wheel",
+      "description": "Play 10 matches, Win 6 matches, Shake 20 spots"
+    },
+    {
+      "apiname": "P Career 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holding the Line",
+      "description": "Play 12 matches, Destroy 25 ships (crew), Capture 12 points"
+    },
+    {
+      "apiname": "G Career 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reporting for Duty",
+      "description": "Play 2 matches, Destroy 20 parts, Spot 3 ships"
+    },
+    {
+      "apiname": "G Career 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dog Watch",
+      "description": "Play 10 matches, Spot 20 ships, Repair 20 guns"
+    },
+    {
+      "apiname": "G Career 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pop 'Em and Drop 'Em",
+      "description": "Play 10 matches, Destroy 10 balloons, Destroy 12 ships"
+    },
+    {
+      "apiname": "G Career 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Trigger's Edge",
+      "description": "Play 10 matches, Set 120 fires, Spot 20 ships"
+    },
+    {
+      "apiname": "G Career 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons Free",
+      "description": "Play 12 matches, Destroy 40 hull armor, Destroy 18 balloons"
+    },
+    {
+      "apiname": "E Career 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On Deck",
+      "description": "Play 2 matches, Fully repair 30 parts, Rebuild 10 parts"
+    },
+    {
+      "apiname": "E Career 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sound the Alarm",
+      "description": "Play 10 matches, Spot 10 ships, Extinguish 20 fires"
+    },
+    {
+      "apiname": "E Career 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better Than New",
+      "description": "Play 10 matches, Buff 25 parts, Fully repair 50 parts"
+    },
+    {
+      "apiname": "E Career 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Before the Mast",
+      "description": "Play 10 matches, Extinguish 45 fires, Spot 12 ships"
+    },
+    {
+      "apiname": "E Career 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying High",
+      "description": "Play 12 matches, Rebuild 40 hull armor, Buff 12 balloons"
+    },
+    {
+      "apiname": "P Flyin 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take Cover",
+      "description": "Spend 360 seconds inside a cloud"
+    },
+    {
+      "apiname": "P Flyin 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flight Training",
+      "description": "Spend 60 seconds using Phoenix Claw, Spend 60 seconds using Kerosene, Spend 60 seconds using Hydrogen"
+    },
+    {
+      "apiname": "P Flyin 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now You See Me",
+      "description": "Shake 40 spots"
+    },
+    {
+      "apiname": "P Flyin 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Altitude Adjustment",
+      "description": "Spend 120 seconds using Hydrogen, Spend 120 seconds using Chute Vent"
+    },
+    {
+      "apiname": "P Flyin 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Running",
+      "description": "On helm, destroy 30 hull armor while unspotted (crew)"
+    },
+    {
+      "apiname": "G Shootin 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scattershot",
+      "description": "Destroy 5 parts with Carronade, Destroy 20 parts with Burst Rounds"
+    },
+    {
+      "apiname": "G Shootin 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overloaded",
+      "description": "Destroy 5 hull armor with Gatling, Destroy 30 parts with Heavy Clip"
+    },
+    {
+      "apiname": "G Shootin 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balls of Fire",
+      "description": "Destroy 2 ships with Mortar, Destroy 35 parts with Incendiary Rounds"
+    },
+    {
+      "apiname": "G Shootin 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Glare",
+      "description": "Destroy 20 guns with Rockets, Destroy 30 parts with Greased Rounds"
+    },
+    {
+      "apiname": "G Shootin 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood and Gunsmoke",
+      "description": "Destroy 10 balloons with Carronade, Destroy 30 parts with Lesmok Rounds"
+    },
+    {
+      "apiname": "E Fixin 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damage Control",
+      "description": "Fully repair 5 hull armor with Mallet, Extinguish 3 fires on hull with Extinguisher"
+    },
+    {
+      "apiname": "E Fixin 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stem to Stern",
+      "description": "Rebuild 20 engines with Spanner, Extinguish 5 fires less than 10 seconds after igniting"
+    },
+    {
+      "apiname": "E Fixin 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Defense",
+      "description": "Buff 16 guns, Fully repair 16 balloons less than 10 seconds after receiving damage"
+    },
+    {
+      "apiname": "E Fixin 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping It Together",
+      "description": "Rebuild 35 hull armor with Spanner, Rebuild 35 parts less than 10 seconds after destruction"
+    },
+    {
+      "apiname": "E Fixin 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unscheduled Maintenance",
+      "description": "Fully repair 100 guns with Wrench, Fully repair 65 parts while unspotted"
+    },
+    {
+      "apiname": "P Command 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can Opener",
+      "description": "As captain, destroy 10 hull armor with Gatling (crew)"
+    },
+    {
+      "apiname": "P Command 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Air",
+      "description": "As captain, destroy 20 balloons with Carronade (crew)"
+    },
+    {
+      "apiname": "P Command 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turn 'n Burn",
+      "description": "As captain, set 350 fires with Flamethrower (crew)"
+    },
+    {
+      "apiname": "P Command 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trading Blows",
+      "description": "As captain, fully repair 60 hull armor less than 3 seconds after receiving damage (crew)"
+    },
+    {
+      "apiname": "P Command 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hands On",
+      "description": "As captain, rebuild 25 parts with Spanner"
+    },
+    {
+      "apiname": "G Support 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hit It with a Hammer",
+      "description": "Fully repair 60 parts"
+    },
+    {
+      "apiname": "G Support 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sinking Feeling",
+      "description": "Fully repair 60 balloons"
+    },
+    {
+      "apiname": "G Support 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spun Up",
+      "description": "Rebuild 20 engines, Help a crewmate rebuild 20 engines"
+    },
+    {
+      "apiname": "G Support 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bang Bang",
+      "description": "Fully repair 150 parts"
+    },
+    {
+      "apiname": "G Support 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Workshopping",
+      "description": "Rebuild 100 parts with Spanner"
+    },
+    {
+      "apiname": "E Combat 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have a Blast",
+      "description": "Destroy 10 parts with Burst Ammo"
+    },
+    {
+      "apiname": "E Combat 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Newton's Law",
+      "description": "Destroy 20 balloons"
+    },
+    {
+      "apiname": "E Combat 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan the Flames",
+      "description": "Set 175 fires"
+    },
+    {
+      "apiname": "E Combat 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Quick",
+      "description": "Destroy 70 hull armor"
+    },
+    {
+      "apiname": "P Victory 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steering Clear",
+      "description": "Win 3 matches, On helm, destroy 80 parts (crew)"
+    },
+    {
+      "apiname": "P Victory 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above the Fray",
+      "description": "Win 5 matches, Win 4 matches with fewer than 2 deaths"
+    },
+    {
+      "apiname": "P Victory 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gone Fishing",
+      "description": "Win 8 matches, On helm, destroy 16 Goldfish (crew)"
+    },
+    {
+      "apiname": "P Victory 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give and Take",
+      "description": "Win 10 matches, Play 6 matches with 3 more kills than deaths"
+    },
+    {
+      "apiname": "P Victory 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capped",
+      "description": "Win 12 matches, On helm, destroy 12 Pyramidions (crew)"
+    },
+    {
+      "apiname": "G Victory 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping the Heat On",
+      "description": "Win 3 matches, Destroy 50 parts"
+    },
+    {
+      "apiname": "G Victory 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill Count",
+      "description": "Win 5 matches, Play 3 matches with 4 or more kills"
+    },
+    {
+      "apiname": "G Victory 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish in a Barrel",
+      "description": "Win 8 matches, Destroy 25 Goldfishes' hull armor"
+    },
+    {
+      "apiname": "G Victory 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill Streak",
+      "description": "Win 10 matches, Play 6 matches with 3 more kills than deaths"
+    },
+    {
+      "apiname": "G Victory 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incursion",
+      "description": "Win 12 matches, Destroy 25 Pyramidions' hull armor"
+    },
+    {
+      "apiname": "E Victory 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cool Under Fire",
+      "description": "Win 3 matches, Rebuild 30 parts"
+    },
+    {
+      "apiname": "E Victory 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staying Alive",
+      "description": "Win 5 matches, Play 4 matches with fewer than 2 deaths"
+    },
+    {
+      "apiname": "E Victory 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Fish",
+      "description": "Win 8 matches, Fully repair 16 Goldfishes' hull armor"
+    },
+    {
+      "apiname": "E Victory 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight Another Day",
+      "description": "Win 10 matches, Play 6 matches with 3 more kills than deaths"
+    },
+    {
+      "apiname": "E Victory 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbroken Seal",
+      "description": "Win 12 matches, Fully repair 40 Pyramidions' hull armor"
+    },
+    {
+      "apiname": "P Teamwork 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lend a Hand",
+      "description": "Help rebuild 5 parts with 1 crewmate"
+    },
+    {
+      "apiname": "P Teamwork 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tongue Lashing",
+      "description": "On helm, set 100 parts on fire with Flamethrower (crew)"
+    },
+    {
+      "apiname": "P Teamwork 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Run Aground",
+      "description": "Help a crewmate rebuild 16 balloons"
+    },
+    {
+      "apiname": "P Teamwork 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sneak Attack",
+      "description": "As captain, destroy 300 parts while unspotted (crew)"
+    },
+    {
+      "apiname": "P Teamwork 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship Shape",
+      "description": "Help a crewmate rebuild 100 parts"
+    },
+    {
+      "apiname": "G Teamwork 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helping Hand",
+      "description": "Help rebuild 15 parts with 1 crewmate"
+    },
+    {
+      "apiname": "G Teamwork 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleansing Fire",
+      "description": "Set 50 parts on fire with Flamethrower"
+    },
+    {
+      "apiname": "G Teamwork 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep It Up",
+      "description": "Help a crewmate rebuild 16 balloons"
+    },
+    {
+      "apiname": "G Teamwork 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the Blue",
+      "description": "Destroy 175 parts while unspotted"
+    },
+    {
+      "apiname": "G Teamwork 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Muscle",
+      "description": "Help a crewmate rebuild 65 parts"
+    },
+    {
+      "apiname": "E Teamwork 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Helpers",
+      "description": "Help rebuild 40 parts with 1 crewmate"
+    },
+    {
+      "apiname": "E Teamwork 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fireproof",
+      "description": "Extinguish 20 fires on guns with Chemical Spray"
+    },
+    {
+      "apiname": "E Teamwork 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise Together",
+      "description": "Help a crewmate rebuild 20 balloons"
+    },
+    {
+      "apiname": "E Teamwork 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Project",
+      "description": "Buff 150 parts while unspotted"
+    },
+    {
+      "apiname": "E Teamwork 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breached",
+      "description": "Help a crewmate rebuild 30 hull armor"
+    },
+    {
+      "apiname": "P Objectives 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Horizon",
+      "description": "Win 4 DMs, As captain, spot 10 ships at a distance of more than 750m in DM (crew)"
+    },
+    {
+      "apiname": "P Objectives 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killing Me Softly",
+      "description": "Win 4 CPs, On helm, destroy 30 parts in CP (crew)"
+    },
+    {
+      "apiname": "P Objectives 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kobayashi",
+      "description": "Win 8 DMs, On helm, destroy 40 ships in DM (crew)"
+    },
+    {
+      "apiname": "P Objectives 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ahead Full",
+      "description": "Win 8 CPs, Destroy 2 ships with ramming in CP"
+    },
+    {
+      "apiname": "P Objectives 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival of the Fiercest",
+      "description": "Win 12 DMs, Win 8 DMs with no more than 1 death"
+    },
+    {
+      "apiname": "G Objectives 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Onslaughter",
+      "description": "Win 4 DMs, Destroy 20 hull armor in DM"
+    },
+    {
+      "apiname": "G Objectives 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Stop",
+      "description": "Win 4 CPs, Destroy 10 engines in CP"
+    },
+    {
+      "apiname": "G Objectives 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suppression Fire",
+      "description": "Win 8 DMs, Set 80 fires in DM"
+    },
+    {
+      "apiname": "G Objectives 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inflammable",
+      "description": "Win 8 CPs, Set 60 fires to balloon in CP"
+    },
+    {
+      "apiname": "G Objectives 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Notches",
+      "description": "Win 12 DMs, Destroy 30 ships in DM"
+    },
+    {
+      "apiname": "E Objectives 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forearmed",
+      "description": "Win 4 DMs, Buff 20 guns in DM"
+    },
+    {
+      "apiname": "E Objectives 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalling for Time",
+      "description": "Win 4 CPs, Rebuild 10 engines less then 15 seconds after they are destroyed in CP"
+    },
+    {
+      "apiname": "E Objectives 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Suppression",
+      "description": "Win 8 DMs, Extinguish 40 fires on hull in DM"
+    },
+    {
+      "apiname": "E Objectives 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smoking Gun",
+      "description": "Win 10 CPs, Extinguish 40 fires on guns in CP"
+    },
+    {
+      "apiname": "E Objectives 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Makes You Stronger",
+      "description": "Win 12 DMs, Play 8 DMs with no more than 1 death"
+    },
+    {
+      "apiname": "E Combat 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sustained Fire",
+      "description": "Destroy 125 parts with Heavy Clip"
+    },
+    {
+      "apiname": "P Experience 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fighting Fish",
+      "description": "Win 10 matches with Goldfish, On helm, destroy 20 ships with Goldfish (crew)"
+    },
+    {
+      "apiname": "P Experience 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Skies",
+      "description": "As captain, extinguish 250 fires (crew), On helm, set 80 fires (crew)"
+    },
+    {
+      "apiname": "P Experience 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Locking Horns",
+      "description": "Win 10 matches with Pyramidion, On helm, destroy 20 ships with Pyramidion"
+    },
+    {
+      "apiname": "P Experience 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Spark",
+      "description": "On helm, set 75 balloons on fire (crew)"
+    },
+    {
+      "apiname": "G Experience 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shot in the Dark",
+      "description": "Destroy 60 parts on an unspotted ship"
+    },
+    {
+      "apiname": "G Experience 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guns Blazing",
+      "description": "Destroy 40 parts with Heatsink Clip"
+    },
+    {
+      "apiname": "G Experience 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hook, Line, and Sink 'Er",
+      "description": "Harpoon 12 ships"
+    },
+    {
+      "apiname": "G Experience 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rain of Fire",
+      "description": "Set 180 parts on fire with Incendiary Rounds"
+    },
+    {
+      "apiname": "E Experience 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swimming in the Sky",
+      "description": "Fully repair 100 parts, Rebuild 30 balloons"
+    },
+    {
+      "apiname": "E Experience 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Containment",
+      "description": "Extinguish 80 fires with Extinguisher"
+    },
+    {
+      "apiname": "E Experience 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speedster",
+      "description": "Rebuild 30 engines, Buff 30 engines"
+    },
+    {
+      "apiname": "E Experience 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dowsed",
+      "description": "Extinguish 60 fires with Chemical Spray"
+    },
+    {
+      "apiname": "P Maps 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust in the Wind",
+      "description": "Win 5 matches in Dunes, Destroy 16 parts with ramming in Dunes"
+    },
+    {
+      "apiname": "P Maps 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doom and Gloom",
+      "description": "Win 6 matches in Water Hazard, Shake 25 spots in Water Hazard"
+    },
+    {
+      "apiname": "P Maps 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead End",
+      "description": "Win 7 matches in Labyrinth, As captain, capture 12 points in Labyrinth"
+    },
+    {
+      "apiname": "G Maps 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grit in Your Eye",
+      "description": "Win 5 matches in Dunes, Destroy 35 guns in Dunes"
+    },
+    {
+      "apiname": "G Maps 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost in the Fog",
+      "description": "Win 6 matches in Water Hazard, Destroy 25 parts while unspotted in Water Hazard"
+    },
+    {
+      "apiname": "G Maps 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Center",
+      "description": "Win 7 matches in Labyrinth, Destroy 15 ships in Labyrinth"
+    },
+    {
+      "apiname": "E Maps 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sand in your Boots",
+      "description": "Win 5 matches in Dunes, Rebuild 25 hull armor in Dunes"
+    },
+    {
+      "apiname": "E Maps 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fading Light",
+      "description": "Win 6 matches in Water Hazard, Fully repair 50 parts while unspotted in Water Hazard"
+    },
+    {
+      "apiname": "E Maps 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mazed",
+      "description": "Win 7 matches in Labyrinth, Buff 30 engines in Labyrinth"
+    },
+    {
+      "apiname": "P Mastery 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Focused Fire",
+      "description": "As captain, spot 65 ships (crew), On helm, destroy 65 spotted ships (crew)"
+    },
+    {
+      "apiname": "G Mastery 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Locked on Target",
+      "description": "Spot 30 ships at a distance of at least 750m, Destroy 12 spotted ships"
+    },
+    {
+      "apiname": "E Mastery 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peripheral Vision",
+      "description": "Spot 30 ships at a distance of at least 750m"
+    },
+    {
+      "apiname": "P Career 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charting a Course",
+      "description": "Play 12 matches, Spend 180 seconds using Phoenix Claw, Destroy 50 ships (crew)"
+    },
+    {
+      "apiname": "P Career 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On Point",
+      "description": "Play 15 matches, Capture 10 points, Shake 25 spots"
+    },
+    {
+      "apiname": "G Career 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Art of War",
+      "description": "Play 12 matches, Fully repair 50 guns, Destroy 50 guns"
+    },
+    {
+      "apiname": "G Career 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blaze of Glory",
+      "description": "Play 15 matches, Set 100 fires, Destroy 40 engines"
+    },
+    {
+      "apiname": "E Career 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forward Momentum",
+      "description": "Play 12 matches, Rebuild 30 engines, Extinguish 35 fires on hull"
+    },
+    {
+      "apiname": "E Career 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development",
+      "description": "Play 15 matches, Rebuild 25 guns, Buff 25 guns"
+    },
+    {
+      "apiname": "P Flyin 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Good Stuff",
+      "description": "Spend 180 seconds using Moonshine, Spend 180 seconds using Impact Bumpers"
+    },
+    {
+      "apiname": "P Flyin 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Whaler",
+      "description": "On helm, destroy 4 harpooned ships (crew) "
+    },
+    {
+      "apiname": "G Shootin 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn All the Things",
+      "description": "Set 500 fires with Flamethrower, Set 120 fires with Incendiary"
+    },
+    {
+      "apiname": "G Shootin 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Jolt from the Blue",
+      "description": "Destroy 25 parts with Field Gun, Destroy 75 parts with Charged Rounds"
+    },
+    {
+      "apiname": "E Fixin 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Machines",
+      "description": "Buff 30 balloons, Extinguish 30 fires on balloon less than 10 seconds after they start"
+    },
+    {
+      "apiname": "E Fixin 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jerry-Rigged",
+      "description": "Rebuild 100 hull armor with Spanner, Fully repair 60 engines"
+    },
+    {
+      "apiname": "P Command 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ballooning",
+      "description": "As captain, rebuild 60 balloons less than 5 seconds after destruction (crew)"
+    },
+    {
+      "apiname": "P Command 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Systems Status",
+      "description": "As captain, fully repair 300 parts less than 10 seconds after receiving damage (crew)"
+    },
+    {
+      "apiname": "G Support 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oil Stains",
+      "description": "Fully repair 175 non-gun parts"
+    },
+    {
+      "apiname": "G Support 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bang-Up Job",
+      "description": "Rebuild 50 non-gun parts, Help a crewmate rebuild 50 non-gun parts"
+    },
+    {
+      "apiname": "E Combat 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Process of Elimination",
+      "description": "Destroy 60 ships"
+    },
+    {
+      "apiname": "E Combat 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neutralization",
+      "description": "Destroy 150 parts with Charged Rounds"
+    },
+    {
+      "apiname": "P Victory 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Alive",
+      "description": "Win 12 matches against enemy captains all level 4+, Win 12 matches with no deaths against enemy captains all level 4+"
+    },
+    {
+      "apiname": "P Victory 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Metal",
+      "description": "Win 15 matches against enemy captains all level 4+, On helm, destroy 20 Junkers (crew)"
+    },
+    {
+      "apiname": "G Victory 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Path of Destruction",
+      "description": "Win 12 matches against enemy captains all level 4+, Play 12 matches with at least 4 kills"
+    },
+    {
+      "apiname": "G Victory 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tin Can",
+      "description": "Win 15 matches against enemy captains all level 4+, Destroy 20 Junkers' hull armor"
+    },
+    {
+      "apiname": "E Victory 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Skills",
+      "description": "Win 12 matches against enemy captains all level 4+, Play 6 matches with no deaths"
+    },
+    {
+      "apiname": "E Victory 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ironclad",
+      "description": "Win 15 matches against enemy captains all level 4+, Fully repair 40 Junkers' hull armor"
+    },
+    {
+      "apiname": "P Teamwork 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flagbearer",
+      "description": "On helm, destroy 60 ships with Flak (crew), On helm, capture 60 points"
+    },
+    {
+      "apiname": "P Teamwork 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle Ready",
+      "description": "As captain, buff 100 parts (crew), As captain, capture 25 points"
+    },
+    {
+      "apiname": "G Teamwork 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flak Attack",
+      "description": "Destroy 30 ships with Flak"
+    },
+    {
+      "apiname": "G Teamwork 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dogs with Bones",
+      "description": "Capture 25 points"
+    },
+    {
+      "apiname": "E Teamwork 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Persistence of Vision",
+      "description": "Spot 175 ships"
+    },
+    {
+      "apiname": "E Teamwork 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hundred and Ten Percent",
+      "description": "Buff 400 parts"
+    },
+    {
+      "apiname": "P Objectives 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evasive Action",
+      "description": "Win 12 CPs, Win 8 CPs with no more than 1 death"
+    },
+    {
+      "apiname": "P Objectives 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Dog",
+      "description": "Win 15 DMs, On helm, destroy 50 parts with Carronade in DM (crew)"
+    },
+    {
+      "apiname": "G Objectives 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Dealer",
+      "description": "Win 12 CPs, Play 8 CPs with at least 4 kills"
+    },
+    {
+      "apiname": "G Objectives 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Takedown",
+      "description": "Win 15 DMs, Destroy 40 balloons in DM"
+    },
+    {
+      "apiname": "E Objectives 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scratched Paint",
+      "description": "Win 12 CPs, Play 8 CPs with no more than 1 death"
+    },
+    {
+      "apiname": "E Objectives 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buoyed Spirits",
+      "description": "Win 15 DMs, Buff 75 balloons in DM"
+    },
+    {
+      "apiname": "P Experience 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Treasure",
+      "description": "Win 10 matches with Junker, Shake 30 spots with Junker"
+    },
+    {
+      "apiname": "P Experience 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill It with Fire",
+      "description": "On helm, destroy 40 parts with Flamethrower (crew), On helm, destroy 40 parts with Incendiary Rounds (crew)"
+    },
+    {
+      "apiname": "G Experience 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Piercing the Veil",
+      "description": "Destroy 15 hull armor on a ship inside a cloud"
+    },
+    {
+      "apiname": "G Experience 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Stuff",
+      "description": "Destroy 50 parts with Incendiary Rounds"
+    },
+    {
+      "apiname": "E Experience 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Down but Not Out",
+      "description": "Play 12 matches with no more than 1 death, Fully repair 60 balloons"
+    },
+    {
+      "apiname": "E Experience 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyrophobia",
+      "description": "Extinguish 75 fires less than 10 seconds after they start"
+    },
+    {
+      "apiname": "P Maps 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chilling Effects",
+      "description": "Win 7 matches in Fjords, As captain, destroy 15 ships with Pyramidion in Fjords (crew)"
+    },
+    {
+      "apiname": "P Maps 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dross and Dreck",
+      "description": "Win 8 matches in Refinery, As captain, capture 20 points with Squid in Refinery"
+    },
+    {
+      "apiname": "G Maps 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Icebound",
+      "description": "Win 7 matches in Fjords, Destroy 8 ships with Lochnagar Shot in Fjords"
+    },
+    {
+      "apiname": "G Maps 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hazardous Waste",
+      "description": "Win 8 matches in Refinery, Spot 12 ships at a distance of at least 750m in Refinery"
+    },
+    {
+      "apiname": "E Maps 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Northern Lights",
+      "description": "Win 7 matches in Fjords, Spot 20 ships in Fjords"
+    },
+    {
+      "apiname": "E Maps 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "0 Days Without an Accident",
+      "description": "Win 8 matches in Refinery, Spot 12 ships at a distance at least 750m in Refinery"
+    },
+    {
+      "apiname": "P Mastery 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leaf on the Wind",
+      "description": "As captain, win 20 matches with no more than 2 deaths against enemy captains all level 4+, Shake 50 spots"
+    },
+    {
+      "apiname": "P Mastery 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Situational Awareness",
+      "description": "As captain, spot 50 ships (crew), On helm, destroy 10 ships inside a cloud (crew)"
+    },
+    {
+      "apiname": "G Mastery 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gun Maintenance",
+      "description": "Fully repair 250 guns"
+    },
+    {
+      "apiname": "G Mastery 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Found You",
+      "description": "Spot 10 ships at a distance of at least 1000m, Destroy 5 ships inside a cloud"
+    },
+    {
+      "apiname": "E Mastery 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arms Race",
+      "description": "Buff 125 parts, Buff 60 guns"
+    },
+    {
+      "apiname": "E Mastery 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perceptual Filter",
+      "description": "Spot 10 ships at a distance of at least 1000m, Repair 50 parts while inside a cloud"
+    },
+    {
+      "apiname": "P Career 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shine On",
+      "description": "Play 20 matches, Spend 240 seconds using Moonshine, Destroy 50 ships (crew)"
+    },
+    {
+      "apiname": "G Career 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Search and Destroy",
+      "description": "Play 20 matches, Spot 50 ships, Destroy 50 ships"
+    },
+    {
+      "apiname": "E Career 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Miracle of Flight",
+      "description": "Play 20 matches, Spot 30 ships, Fully repair 50 balloons"
+    },
+    {
+      "apiname": "P Flyin 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eye to Eye",
+      "description": "On helm, destroy 20 ships at a distance of less than 75m (crew)"
+    },
+    {
+      "apiname": "G Shootin 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stunning Effect",
+      "description": "Destroy 50 engines with Rockets, Destroy 150 parts with Greased Rounds"
+    },
+    {
+      "apiname": "E Fixin 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunner's Mate",
+      "description": "Buff 50 guns, Rebuild 20 guns less than 10 seconds after they are destroyed"
+    },
+    {
+      "apiname": "P Command 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sure Shot",
+      "description": "As captain, destroy 5 ships with Lochnagar Rounds (crew) "
+    },
+    {
+      "apiname": "G Support 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voided Warranty",
+      "description": "Rebuild 50 guns, Help a crewmate rebuild 50 guns"
+    },
+    {
+      "apiname": "E Combat 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immobilization",
+      "description": "Destroy 50 engines"
+    },
+    {
+      "apiname": "P Victory 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Domination",
+      "description": "Win 20 matches against enemy captains all level 4+, Win 10 matches with at least 5 kills against enemy captains all level 4+ (crew)"
+    },
+    {
+      "apiname": "G Victory 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruination",
+      "description": "Win 20 matches against enemy captains all level 4+, Play 20 matches with at least 5 kills "
+    },
+    {
+      "apiname": "E Victory 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preservation",
+      "description": "Win 20 matches against enemy captains all level 4+, Play 20 matches with no deaths"
+    },
+    {
+      "apiname": "P Teamwork 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranged Support",
+      "description": "As captain, destroy 25 hull armor with Field Gun (crew), As captain, destroy 25 balloons with Mortar (crew)"
+    },
+    {
+      "apiname": "G Teamwork 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Arm of the Lawless",
+      "description": "Destroy 25 hull armor at a distance of at least 800m, Destroy 15 balloons at a distance of at least 800m"
+    },
+    {
+      "apiname": "E Teamwork 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above and Below",
+      "description": "Rebuild 100 balloons, Buff 100 hull armor"
+    },
+    {
+      "apiname": "P Objectives 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diversionary Tactics",
+      "description": "Win 15 CPs, On helm, destroy 40 ships in CP (crew)"
+    },
+    {
+      "apiname": "G Objectives 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Wits",
+      "description": "Win 15 CPs, Destroy 100 guns in CP"
+    },
+    {
+      "apiname": "E Objectives 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Race to the Point",
+      "description": "Win 15 CPs, Buff 100 engines in CP"
+    },
+    {
+      "apiname": "P Experience 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel",
+      "description": "Win 10 matches with Galleon, On helm, destroy 20 ships with Galleon"
+    },
+    {
+      "apiname": "G Experience 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captive Audience",
+      "description": "Destroy 10 parts on harpooned ships"
+    },
+    {
+      "apiname": "E Experience 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shields Up",
+      "description": "Play 20 matches with no more than 1 death, Rebuild 150 hull armor"
+    },
+    {
+      "apiname": "P Maps 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Score To Settle",
+      "description": "Win 8 matches in Duel, As captain, win 5 matches with Goldfish in Duel"
+    },
+    {
+      "apiname": "G Maps 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blindsided",
+      "description": "Win 8 matches in Duel, Spot 25 ships in Duel"
+    },
+    {
+      "apiname": "E Maps 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leveling the Field",
+      "description": "Win 8 matches in Duel, Buff 25 parts in Duel"
+    },
+    {
+      "apiname": "P Mastery 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bitter End",
+      "description": "Win 10 matches with no more than 1 death against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Mastery 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunsmithy",
+      "description": "Rebuild 150 guns"
+    },
+    {
+      "apiname": "E Mastery 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fixer Upper",
+      "description": "Buff 150 parts, Help a crewmate rebuild 50 parts"
+    },
+    {
+      "apiname": "P Career 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resolute",
+      "description": "Play 25 matches, Capture 10 points, Destroy 50 ships (crew)"
+    },
+    {
+      "apiname": "P Career 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Old Runaround",
+      "description": "Play 30 matches, Shake 30 spots, Capture 15 points"
+    },
+    {
+      "apiname": "G Career 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Heat",
+      "description": "Play 25 matches, Set 180 parts on fire, Destroy 75 hull armor"
+    },
+    {
+      "apiname": "G Career 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might, Might Not",
+      "description": "Play 30 matches, Fully repair 60 guns, Destroy 45 ships"
+    },
+    {
+      "apiname": "E Career 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Go",
+      "description": "Play 25 matches, Buff 25 engines, Extinguish 20 fires on engines"
+    },
+    {
+      "apiname": "E Career 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship's Doctor",
+      "description": "Play 30 matches, Fully repair 90 hull armor, Extinguish 30 fires on hull"
+    },
+    {
+      "apiname": "P Flyin 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inkshot",
+      "description": "Deal 3000 damage with Tar Barrel"
+    },
+    {
+      "apiname": "P Flyin 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stop and Go",
+      "description": "Spend 240 seconds using Drogue Chute, Spend 240 seconds using Kerosene"
+    },
+    {
+      "apiname": "G Shootin 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cool and Collected",
+      "description": "Destroy 20 ships with Flak, Destroy 100 parts with Heatsink Rounds"
+    },
+    {
+      "apiname": "G Shootin 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spearhead",
+      "description": "Harpoon 15 ships, Destroy 100 parts with Heavy Clip"
+    },
+    {
+      "apiname": "E Fixin 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Must Come Down",
+      "description": "Fully repair 75 engines with Mallet, Rebuild 35 balloons"
+    },
+    {
+      "apiname": "E Fixin 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Performance",
+      "description": "Buff 50 hull armor, Fully repair 50 engines less than 5 seconds after receiving damage"
+    },
+    {
+      "apiname": "P Command 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finishing Moves",
+      "description": "As captain, destroy 35 ships with Mortar (crew)"
+    },
+    {
+      "apiname": "P Command 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear Fishing",
+      "description": "As captain, harpoon 30 ships (crew)"
+    },
+    {
+      "apiname": "G Support 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Idle Hands",
+      "description": "Fully repair 100 parts with Wrench"
+    },
+    {
+      "apiname": "G Support 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grease and Gears",
+      "description": "Rebuild 20 engines, Help a crewmate rebuild 20 engines"
+    },
+    {
+      "apiname": "E Combat 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disarmament",
+      "description": "Destroy 125 guns"
+    },
+    {
+      "apiname": "E Combat 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conflagration",
+      "description": "Set 200 parts on fire"
+    },
+    {
+      "apiname": "P Victory 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Sunk Your Battleship",
+      "description": "Win 20 matches against enemy captains all level 4+, On helm, destroy 20 Galleons (crew)"
+    },
+    {
+      "apiname": "P Victory 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Victory",
+      "description": "Win 20 matches against enemy captains all level 4+, Win 3 DMs with a perfect score against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Victory 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siege Tactics",
+      "description": "Win 20 matches against enemy captains all level 4+, Destroy 35 Galleons' hull armor "
+    },
+    {
+      "apiname": "G Victory 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Execution",
+      "description": "Win 20 matches against enemy captains all level 4+, Win 3 DMs with a perfect score against enemy captains all level 4+"
+    },
+    {
+      "apiname": "E Victory 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Will To Live",
+      "description": "Win 20 matches against enemy captains all level 4+, Fully repair 75 Galleons' hull armor"
+    },
+    {
+      "apiname": "E Victory 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Precision Engineering",
+      "description": "Win 20 matches against enemy captains all level 4+, Win 3 DMs with a perfect score against enemy captains all level 4+"
+    },
+    {
+      "apiname": "P Teamwork 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Flying",
+      "description": "On helm, fully repair 200 engines less than 5 seconds after receiving damage (crew), Spend 900 seconds using helm skills"
+    },
+    {
+      "apiname": "P Teamwork 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firedrake",
+      "description": "On helm, set 600 parts on fire with Flamethrower (crew)"
+    },
+    {
+      "apiname": "G Teamwork 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Belowdecks",
+      "description": "Fully repair 50 engines"
+    },
+    {
+      "apiname": "G Teamwork 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean-Up Crew",
+      "description": "Help a crewmate rebuild 30 non-gun parts"
+    },
+    {
+      "apiname": "E Teamwork 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power to the Engines",
+      "description": "Fully repair 180 engines"
+    },
+    {
+      "apiname": "E Teamwork 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Team Building",
+      "description": "Help a crewmate rebuild 50 hull armor"
+    },
+    {
+      "apiname": "P Objectives 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unseen Assailant",
+      "description": "Win 20 DMs, On helm, destroy 15 ships while unspotted in DM (crew)"
+    },
+    {
+      "apiname": "P Objectives 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bogeyman",
+      "description": "Win 20 CPs, On helm, destroy 10 ships while unspotted in CP (crew)"
+    },
+    {
+      "apiname": "G Objectives 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suckerpunch",
+      "description": "Win 20 DMs, Destroy 75 parts while unspotted in DM"
+    },
+    {
+      "apiname": "G Objectives 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knife in the Back",
+      "description": "Win 20 CPs, Destroy 60 parts while unspotted in CP"
+    },
+    {
+      "apiname": "E Objectives 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Licking Wounds",
+      "description": "Win 20 DMs, Fully repair 100 parts while unspotted in DM"
+    },
+    {
+      "apiname": "E Objectives 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lying Low",
+      "description": "Win 20 CPs, Rebuild 100 parts while unspotted in CP"
+    },
+    {
+      "apiname": "P Experience 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromania",
+      "description": "On helm, set 200 fires (crew)"
+    },
+    {
+      "apiname": "P Experience 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Tower",
+      "description": "Win 10 matches with Spire, On helm, destroy 15 balloons with Spire (crew)"
+    },
+    {
+      "apiname": "G Experience 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hotshot",
+      "description": "Destroy 8 ships with Incendiary Rounds"
+    },
+    {
+      "apiname": "G Experience 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firing Blind",
+      "description": "Destroy 20 parts on an unspotted ship inside a cloud"
+    },
+    {
+      "apiname": "E Experience 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooler Heads Prevail",
+      "description": "Extinguish 120 fires with Extinguisher"
+    },
+    {
+      "apiname": "E Experience 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coming Home",
+      "description": "Play 15 matches with no deaths"
+    },
+    {
+      "apiname": "P Maps 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Permafrost",
+      "description": "Win 7 matches in Anglean, As captain, win 3 matches with no more than 1 death in Anglean against enemy captains all level 4+"
+    },
+    {
+      "apiname": "P Maps 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Cunning Plan",
+      "description": "Win 8 matches in Canyon, As captain, destroy 15 ships with Spire in Canyon (crew)"
+    },
+    {
+      "apiname": "G Maps 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Watch",
+      "description": "Win 7 matches in Anglean, Play 3 matches with at least 5 kills in Anglean"
+    },
+    {
+      "apiname": "G Maps 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a Trap",
+      "description": "Win 8 matches in Canyon, Destroy 15 ships with Charged Rounds in Canyon"
+    },
+    {
+      "apiname": "E Maps 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vigilance",
+      "description": "Win 7 matches in Anglean, Play 3 matches with no more than 1 death in Anglean"
+    },
+    {
+      "apiname": "E Maps 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jumped",
+      "description": "Win 8 matches in Canyon, Fully repair 50 hull armor in Canyon"
+    },
+    {
+      "apiname": "P Mastery 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Long Game",
+      "description": "As captain, spot 20 ships at a distance of greater than 1500m (crew), On helm, destroy 10 ships at a distance of greater than 750m (crew)"
+    },
+    {
+      "apiname": "P Mastery 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Instinct",
+      "description": "Win 10 matches with no deaths against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Mastery 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Shot",
+      "description": "Spot 30 ships at a distance of greater than 1500m, Destroy 10 ships at a distance of greater than 750m"
+    },
+    {
+      "apiname": "G Mastery 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retooling",
+      "description": "Fully repair 200 guns with Spanner"
+    },
+    {
+      "apiname": "E Mastery 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field of View",
+      "description": "Spot 10 ships at a distance of greater than 1500m"
+    },
+    {
+      "apiname": "E Mastery 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High and Mighty",
+      "description": "Buff 100 parts, Fully repair 100 balloons"
+    },
+    {
+      "apiname": "Citizenship 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Service Record",
+      "description": "Receive 20 commendations, Receive 10 commendations from players level 4+"
+    },
+    {
+      "apiname": "Citizenship 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Role Models",
+      "description": "Receive 20 commendations,  Give 10 commendations to players level 4+ "
+    },
+    {
+      "apiname": "Citizenship 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Letter of Reference",
+      "description": "Receive 20 commendations, Receive 10 commendations from captains"
+    },
+    {
+      "apiname": "Citizenship 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honor Serving With You",
+      "description": "Receive 10 commendations, Give 5 commendations to captains"
+    },
+    {
+      "apiname": "Citizenship 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Good Company",
+      "description": "Receive 20 commendations, Receive 10 commendations from players level 4+"
+    },
+    {
+      "apiname": "Citizenship 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Sailor's Sailor",
+      "description": "Receive 30 commendations, Receive 10 commendations from players level 1-3"
+    },
+    {
+      "apiname": "Citizenship 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Stars",
+      "description": "Receive 30 commendations, Give 10 commendations to players level 1-3"
+    },
+    {
+      "apiname": "Citizenship 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends in High Places",
+      "description": "Receive 30 commendations, Receive 10 commendations from players level 4+"
+    },
+    {
+      "apiname": "Citizenship 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Distinguished Fellows",
+      "description": "Receive 30 commendations, Give 10 commendations to players level 4+"
+    },
+    {
+      "apiname": "Citizenship 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coming Up in the World",
+      "description": "Receive 30 commendations, Receive 10 commendations from captains "
+    },
+    {
+      "apiname": "Citizenship 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Who Can, Teach",
+      "description": "Receive 40 commendations, Have completed \"Career Shadowing\" achievement in Teaching category "
+    },
+    {
+      "apiname": "Citizenship 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comrades in Arms",
+      "description": "Receive 40 commendations, Give 5 commendations to team captains "
+    },
+    {
+      "apiname": "Citizenship 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fly Together",
+      "description": "Receive 40 commendations, Receive 10 commendations from team captains "
+    },
+    {
+      "apiname": "Citizenship 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Worthy Opponent",
+      "description": "Receive 40 commendations, Give 10 commendations to enemy captains "
+    },
+    {
+      "apiname": "Citizenship 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Played",
+      "description": "Receive 40 commendations, Receive 10 commendations from enemy captains "
+    },
+    {
+      "apiname": "Teaching 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Principles",
+      "description": "Receive 20 commendations from players level 1-12, Give 10 commendations to players level 1-12"
+    },
+    {
+      "apiname": "Teaching 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intro to Marksmanship",
+      "description": "Receive 20 commendations from players level 1-12, Receive 10 commendations from gunners level 1-12"
+    },
+    {
+      "apiname": "Teaching 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "School of Hard Knocks",
+      "description": "Receive 20 commendations from players level 1-12, Receive 10 commendations from engineers level 1-12"
+    },
+    {
+      "apiname": "Teaching 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Career Shadowing",
+      "description": "Receive 20 commendations from players level 1-12, Play 30 matches with any crewmate level 1-12"
+    },
+    {
+      "apiname": "Teaching 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Training Run",
+      "description": "Receive 20 commendations from players level 1-12, Play 30 matches with all crewmates level 1-12"
+    },
+    {
+      "apiname": "Teaching 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Showing the Ropes",
+      "description": "Receive 30 commendations from players level 1-12, Spend 240 minutes in Practice with any crewmate level 1-12"
+    },
+    {
+      "apiname": "Teaching 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Drills",
+      "description": "Receive 30 commendations from players level 1-12, Destroy 200 targets in Practice with any crewmates level 1-12 (crew)"
+    },
+    {
+      "apiname": "Teaching 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flight School",
+      "description": "Receive 30 commendations from players level 1-12, Spend 30 minutes in Practice with pilots level 1-12"
+    },
+    {
+      "apiname": "Teaching 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Cadets",
+      "description": "Receive 30 commendations from players level 1-12, Play 30 matches with any crewmates level 1-12"
+    },
+    {
+      "apiname": "Teaching 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ensigns of Command",
+      "description": "Receive 30 commendations from players level 1-12, Receive 10 commendations from captains level 1-12"
+    },
+    {
+      "apiname": "Teaching 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under Wing",
+      "description": "Receive 40 commendations from players level 1-12, Play 20 matches with any crewmates level 1-12"
+    },
+    {
+      "apiname": "Teaching 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Class Act",
+      "description": "Receive 40 commendations from players level 1-12, Capture 30 points with any crewmates level 1-12"
+    },
+    {
+      "apiname": "Teaching 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle Tested",
+      "description": "Receive 40 commendations from players level 1-12, Destroy 50 ships with any crewmates level 1-12 (crew)"
+    },
+    {
+      "apiname": "Teaching 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proving Grounds",
+      "description": "Receive 40 commendations from players level 1-12, Give 30 commendations to players level 1-12"
+    },
+    {
+      "apiname": "Teaching 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Future Generations",
+      "description": "Receive 40 commendations from players level 1-12, Play 30 matches with any crewmates level 1-12"
+    },
+    {
+      "apiname": "Tutorial 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look Alive",
+      "description": "Walk 10 meters, Jump 3 times"
+    },
+    {
+      "apiname": "Tutorial 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Grand Tour",
+      "description": "Examine 2 engines, Examine the balloon, Examine the hull"
+    },
+    {
+      "apiname": "Tutorial 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hands On",
+      "description": "Examine 3 guns, Mount a gun, Fire a gun"
+    },
+    {
+      "apiname": "Tutorial 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Stuff Works",
+      "description": "Fully repair 1 gun, Fully repair 1 engine, Rebuild 3 parts"
+    },
+    {
+      "apiname": "Tutorial 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Body Work",
+      "description": "Fully repair 1 balloon, Fully repair 1 hull armor"
+    },
+    {
+      "apiname": "Tutorial 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stop, Drop, and Roll",
+      "description": "Extinguish 3 fires"
+    },
+    {
+      "apiname": "Tutorial 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broad Side of a Barn",
+      "description": "Land 5 shots, Destroy 3 parts"
+    },
+    {
+      "apiname": "Tutorial 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Far-seer",
+      "description": "Spot 3 ships"
+    },
+    {
+      "apiname": "Tutorial 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Buff",
+      "description": "Buff 1 gun, Buff 1 engine"
+    },
+    {
+      "apiname": "Tutorial 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wax On",
+      "description": "Buff 1 balloon, Buff 1 hull armor"
+    },
+    {
+      "apiname": "Tutorial 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonstration Purposes",
+      "description": "Summon 3 bombs in Sandbox"
+    },
+    {
+      "apiname": "Tutorial 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Simulated Emergency",
+      "description": "Summon 3 fires in Sandbox"
+    },
+    {
+      "apiname": "Tutorial 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunnery for Dummies",
+      "description": "Summon 3 dummy targets in Sandbox, Use \"clear targets\" command in Sandbox, Destroy 3 dummy targets in Sandbox"
+    },
+    {
+      "apiname": "Tutorial 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live-Fire Exercises",
+      "description": "Summon 3 dummy ships in Sandbox, Destroy 3 dummy ships in Sandbox"
+    },
+    {
+      "apiname": "Tutorial 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learning is Forever",
+      "description": "Complete all Tutorial achievements"
+    },
+    {
+      "apiname": "P Career 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defender of the Helm",
+      "description": "Play 55 matches, Destroy 70 ships (crew), Capture 35 points"
+    },
+    {
+      "apiname": "P Career 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fancy Flying",
+      "description": "Play 60 matches, Spend 360 seconds using helm skills, Shake 60 spots"
+    },
+    {
+      "apiname": "G Career 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pop Top",
+      "description": "Play 55 matches, Destroy 70 balloons, Spot 100 ships"
+    },
+    {
+      "apiname": "G Career 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arson in the Arsenal",
+      "description": "Play 60 matches, Destroy 150 guns, Set 600 parts on fire"
+    },
+    {
+      "apiname": "E Career 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Unknown",
+      "description": "Play 150 matches, Buff 300 engines, Spot 200 ships"
+    },
+    {
+      "apiname": "E Career 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouncing Back",
+      "description": "Play 60 matches, Fully repair 150 guns, Rebuild 90 balloons"
+    },
+    {
+      "apiname": "P Flyin 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ramming Speed",
+      "description": "Destroy 20 ships with ramming"
+    },
+    {
+      "apiname": "P Flyin 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terminal Velocity",
+      "description": "Spend 240 seconds using Chute Vent, Spend 240 seconds using Impact Bumpers"
+    },
+    {
+      "apiname": "G Shootin 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Razzle Dazzle",
+      "description": "Destroy 35 hull armor with Rockets, Destroy 70 parts with Burst Rounds"
+    },
+    {
+      "apiname": "G Shootin 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flaming Fury",
+      "description": "Destroy 20 parts with Flamethrower, Destroy 50 parts with Lochnagar Shot"
+    },
+    {
+      "apiname": "E Fixin 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chemical Welfare",
+      "description": "Extinguish 70 fires on hull with Chemical Spray, Rebuild 70 guns"
+    },
+    {
+      "apiname": "E Fixin 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Priority One",
+      "description": "Extinguish 60 fires on balloon with Extinguisher, Rebuild 45 parts less then 5 seconds after destruction"
+    },
+    {
+      "apiname": "P Command 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Punch It",
+      "description": "As captain, fully repair 100 engines less than 5 seconds after receiving damage (crew)"
+    },
+    {
+      "apiname": "P Command 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Alert",
+      "description": "As captain, spot 150 ships (crew)"
+    },
+    {
+      "apiname": "G Support 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Guns",
+      "description": "Fully repair 200 guns"
+    },
+    {
+      "apiname": "G Support 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survive or Die Trying",
+      "description": "Help a crewmate rebuild 30 hull armor"
+    },
+    {
+      "apiname": "E Combat 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of Range",
+      "description": "Destroy 100 parts with Lesmok Rounds"
+    },
+    {
+      "apiname": "E Combat 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Cry",
+      "description": "Destroy 30 ships"
+    },
+    {
+      "apiname": "P Victory 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calamari",
+      "description": "Win 30 matches against at least one enemy captain level 7+, On helm, destroy 20 Squids (crew) "
+    },
+    {
+      "apiname": "P Victory 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a Flesh Wound",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Win 3 matches with no deaths and at least 50% hull health against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Victory 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incursion",
+      "description": "Win 120 matches, Destroy 60 hull armor on Pyramidions"
+    },
+    {
+      "apiname": "G Victory 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Most Deadly",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Win 3 matches with at least 5 kills against enemy captains all level 4+"
+    },
+    {
+      "apiname": "E Victory 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kraken",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Fully repair 20 Squids' hull armor"
+    },
+    {
+      "apiname": "E Victory 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only a Scratch",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Win 3 matches with no deaths and at least 50% hull health against enemy captains all level 4+"
+    },
+    {
+      "apiname": "P Teamwork 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grappling",
+      "description": "On helm, destroy 100 parts on a harpooned ship (crew) "
+    },
+    {
+      "apiname": "P Teamwork 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cloud Ninja",
+      "description": "As captain, destroy 30 ships while unspotted (crew)"
+    },
+    {
+      "apiname": "G Teamwork 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spitting Distance",
+      "description": "Destroy 70 parts at a distance of less than 75m"
+    },
+    {
+      "apiname": "G Teamwork 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Contact",
+      "description": "Spot 20 ships while unspotted, Destroy 50 spotted ships"
+    },
+    {
+      "apiname": "E Teamwork 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Initiative",
+      "description": "Buff 35 guns, Destroy 35 hull armor"
+    },
+    {
+      "apiname": "E Teamwork 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defensive",
+      "description": "Destroy 35 guns, Buff 35 hull armor"
+    },
+    {
+      "apiname": "P Objectives 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deathless",
+      "description": "Win 20 DMs, Win 5 DMs with no deaths"
+    },
+    {
+      "apiname": "P Objectives 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last Ship in the Sky",
+      "description": "Win 20 CPs, Win 5 CPs with no deaths"
+    },
+    {
+      "apiname": "G Objectives 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ideological Differences",
+      "description": "Win 20 DMs, Destroy 35 ships in DM"
+    },
+    {
+      "apiname": "G Objectives 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Territorial Disputes",
+      "description": "Win 20 CPs, Destroy 30 ships in CP"
+    },
+    {
+      "apiname": "E Objectives 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undying",
+      "description": "Win 20 DMs, Play 5 DMs with no deaths"
+    },
+    {
+      "apiname": "E Objectives 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're Still Here",
+      "description": "Win 20 CPs, Play 5 CPs with no deaths"
+    },
+    {
+      "apiname": "P Experience 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Didn't Light the Pyre",
+      "description": "Destroy 4 ships with Flamethrower (crew)"
+    },
+    {
+      "apiname": "P Experience 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind the Lines",
+      "description": "Win 10 matches with Squid, On helm, capture 30 points with Squid"
+    },
+    {
+      "apiname": "G Experience 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Out",
+      "description": "Destroy 3 ships with Flamethrower"
+    },
+    {
+      "apiname": "G Experience 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steady Hand",
+      "description": "Destroy 60 guns with Heavy Clip"
+    },
+    {
+      "apiname": "E Experience 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overheated",
+      "description": "Extinguish 40 fires on engines, Set 20 fires to engines"
+    },
+    {
+      "apiname": "E Experience 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Core Systems",
+      "description": "Rebuild 35 balloons less than 10 seconds after destruction, Fully repair 35 hull armor less than 5 seconds after receiving damage"
+    },
+    {
+      "apiname": "P Maps 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rust and Dust",
+      "description": "Win 10 matches in Scrap, As captain, capture 20 points in Scrap"
+    },
+    {
+      "apiname": "P Maps 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowed",
+      "description": "Win 10 matches in Firnfeld, Win 3 perfect victories in Firnfeld against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Maps 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Heap",
+      "description": "Win 10 matches in Scrap, Play 3 matches with 4 more kills than deaths in Scrap"
+    },
+    {
+      "apiname": "G Maps 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Warriors",
+      "description": "Win 10 matches in Firnfeld, Destroy 3 ships at a distance of less than 75m in Firnfeld"
+    },
+    {
+      "apiname": "E Maps 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spit and Bailing Wire",
+      "description": "Win 10 matches in Scrap, Play 3 matches with 4 more kills than deaths in Scrap"
+    },
+    {
+      "apiname": "E Maps 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Day",
+      "description": "Win 10 matches in Firnfeld, Win 3 perfect victories in Firnfeld"
+    },
+    {
+      "apiname": "P Mastery 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Blink",
+      "description": "As captain, spot 60 ships while unspotted (crew)"
+    },
+    {
+      "apiname": "P Mastery 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hanging On",
+      "description": "Win 15 matches with no deaths against enemy captains all level 4+, As captain, rebuild 30 parts less than 10 seconds after destruction (crew)"
+    },
+    {
+      "apiname": "G Mastery 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadeye",
+      "description": "Spot 20 ships at a distance of greater than 2000m, Destroy 40 parts at a distance of greater than 1000m"
+    },
+    {
+      "apiname": "G Mastery 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Percussive Maintenance",
+      "description": "Fully repair 150 guns less than 5 seconds after receiving damage"
+    },
+    {
+      "apiname": "E Mastery 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Depth of Field",
+      "description": "Spot 20 ships at a distance of greater than 2000m"
+    },
+    {
+      "apiname": "E Mastery 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Souped Up",
+      "description": "Buff 150 parts, Buff 100 engines"
+    },
+    {
+      "apiname": "P Career 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Frontiers",
+      "description": "Play 70 matches, Capture 60 points, Spot 120 ships (crew)"
+    },
+    {
+      "apiname": "P Career 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Lands",
+      "description": "Play 100 matches, Destroy 150 ships (crew), Capture 60 points"
+    },
+    {
+      "apiname": "P Career 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Straight On 'Til Morning",
+      "description": "Play 120 matches, Capture 75 points, Spot 250 ships (crew)"
+    },
+    {
+      "apiname": "G Career 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dance of Destruction",
+      "description": "Play 70 matches, Destroy 150 engines, Destroy 75 balloons"
+    },
+    {
+      "apiname": "G Career 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharp Shooter",
+      "description": "Play 100 matches, Destroy 50 ships, Spot 120 ships"
+    },
+    {
+      "apiname": "G Career 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Artistry of War",
+      "description": "Play 125 matches, Destroy 250 hull armor, Destroy 120 ships"
+    },
+    {
+      "apiname": "E Career 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead in the Air",
+      "description": "Play 70 matches, Fully repair 150 engines, Rebuild 125 hull armor"
+    },
+    {
+      "apiname": "E Career 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready for Action",
+      "description": "Play 100 matches, Spot 100 ships, Buff 125 hull armor"
+    },
+    {
+      "apiname": "E Career 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miracle Worker",
+      "description": "Play 125 matches, Fully repair 250 hull armor, Rebuild 250 engines"
+    },
+    {
+      "apiname": "P Flyin 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Offensive Driving",
+      "description": "On helm, destroy 100 parts"
+    },
+    {
+      "apiname": "P Flyin 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Long View",
+      "description": "On helm, destroy 25 ships at a distance of  greater than 1300m (crew)"
+    },
+    {
+      "apiname": "P Flyin 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky's the Limit",
+      "description": " Shake 250 spots, On helm, destroy 250 ships (crew)"
+    },
+    {
+      "apiname": "G Shootin 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Odds",
+      "description": "Destroy 50 parts with Field Gun, Destroy 75 hull armor with Lesmok Rounds"
+    },
+    {
+      "apiname": "G Shootin 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shock and Awe",
+      "description": "Destroy 125 parts with Rockets, Destroy 25 ships with Charged Rounds"
+    },
+    {
+      "apiname": "G Shootin 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Promethean Legacy",
+      "description": "Set 125 parts on fire with Flares, Destroy 125 ships with Incendiary Rounds"
+    },
+    {
+      "apiname": "E Fixin 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battening Down",
+      "description": "Rebuild 70 guns, Fully repair 25 parts while in a hazardous cloud"
+    },
+    {
+      "apiname": "E Fixin 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Response",
+      "description": "Extinguish 125 fires less than 10 seconds after igniting, Fully repair 125 parts less than 10 seconds after receiving damage"
+    },
+    {
+      "apiname": "E Fixin 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Functional",
+      "description": "Buff 250 parts, Fully repair 250 parts, Rebuild 250 parts"
+    },
+    {
+      "apiname": "P Command 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bright Little Sparks",
+      "description": "As captain, extinguish 50 fires less than 5 seconds after igniting (crew)"
+    },
+    {
+      "apiname": "P Command 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coordinated Efforts",
+      "description": "As captain, help a crewmate rebuild 50 hull armor (crew) / As captain, fully repair 50 hull armor less than 5 seconds after receiving damage (crew)"
+    },
+    {
+      "apiname": "P Command 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unity of Command",
+      "description": "As captain, rebuild 500 parts (crew), As captain, destroy 500 parts (crew)"
+    },
+    {
+      "apiname": "G Support 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Shipboard Life",
+      "description": "Fully repair 125 non-gun parts"
+    },
+    {
+      "apiname": "G Support 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bubbles Burst",
+      "description": "Rebuild 40 balloons, Help a crewmate rebuild 40 balloons"
+    },
+    {
+      "apiname": "G Support 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unit Operations",
+      "description": "Fully repair 500 parts"
+    },
+    {
+      "apiname": "E Combat 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Controlled Burn",
+      "description": "Set 120 parts on fire"
+    },
+    {
+      "apiname": "E Combat 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tinker, Sailor, Sniper, Spy",
+      "description": "Destroy 25 ships at a distance of at least 1000m"
+    },
+    {
+      "apiname": "E Combat 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Application of Force",
+      "description": "Destroy 125 ships"
+    },
+    {
+      "apiname": "P Victory 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aspiring",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Destroy 30 Spires (crew)"
+    },
+    {
+      "apiname": "P Victory 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words to Live By",
+      "description": "Win 40 matches against at least one enemy captain level 7+, Win 5 matches with 5 more kills than deaths against enemy captains all level 4+"
+    },
+    {
+      "apiname": "P Victory 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honor and Glory",
+      "description": "Win 50 matches against at least one enemy captain level 7+, Destroy 50 Mobulas (crew)"
+    },
+    {
+      "apiname": "G Victory 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inspiring",
+      "description": "Win 30 matches against against at least one enemy captain level 7+, Destroy 30 Spires' hull armor"
+    },
+    {
+      "apiname": "G Victory 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Kind of Reckoning",
+      "description": "Win 40 matches against at least one enemy captain level 7+, Win 5 matches with 5 more kills than deaths against enemy captains all level 4+"
+    },
+    {
+      "apiname": "G Victory 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Woe to the Vanquished",
+      "description": "Win 50 matches against at least one enemy captain level 7+, Destroy 50 Mobulas' hull armor"
+    },
+    {
+      "apiname": "E Victory 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perspiring",
+      "description": "Win 30 matches against at least one enemy captain level 7+, Fully repair 30 Spires' hull armor"
+    },
+    {
+      "apiname": "E Victory 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cosmic Equilibrium",
+      "description": "Win 40 matches against at least one enemy captain level 7+, Win 5 matches with 5 more kills than deaths against enemy captains all level 4+"
+    },
+    {
+      "apiname": "E Victory 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory Is Ours",
+      "description": "Win 50 matches against at least one enemy captain level 7+, Fully repair 50 Mobulas' hull armor"
+    },
+    {
+      "apiname": "P Teamwork 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Together Now",
+      "description": "Help a crewmate rebuild 125 parts (crew)"
+    },
+    {
+      "apiname": "P Teamwork 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Clear Blue Sky",
+      "description": "Destroy 75 engines with Rockets (crew) / Set 50 balloons on fire (crew), Destroy 50 balloons (crew)"
+    },
+    {
+      "apiname": "P Teamwork 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Press X To Win",
+      "description": "Win 10 matches with at least 5 kills against at least one enemy captain level 7+, Win 10 matches with no deaths against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "G Teamwork 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Hands On Deck",
+      "description": "Help a crewmate rebuild 75 parts"
+    },
+    {
+      "apiname": "G Teamwork 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Right Tool",
+      "description": "Destroy 250 parts with special ammo"
+    },
+    {
+      "apiname": "G Teamwork 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork Is OP",
+      "description": "Win 20 matches with at least 5 kills against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "E Teamwork 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pull Together",
+      "description": "Help a crewmate rebuild 75 parts"
+    },
+    {
+      "apiname": "E Teamwork 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ploughshares into Swords",
+      "description": "Help a crewmate rebuild 25 guns"
+    },
+    {
+      "apiname": "E Teamwork 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Amicitiis Victoria",
+      "description": "Win 20 matches with no deaths against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "P Objectives 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walk Softly",
+      "description": "Win 30 DMs, Destroy 75 parts while unspotted in DM (crew)"
+    },
+    {
+      "apiname": "P Objectives 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Skunk and the Hare",
+      "description": "Win 30 CPs, Damage 75 parts with Tar Barrel in CP"
+    },
+    {
+      "apiname": "P Objectives 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lines in the Sand",
+      "description": "Destroy 250 ships in DM (crew), Capture 250 points in CP "
+    },
+    {
+      "apiname": "G Objectives 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speak Loudly",
+      "description": "Win 30 DMs, Destroy 75 guns in DM"
+    },
+    {
+      "apiname": "G Objectives 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cannons Roar",
+      "description": "Win 30 CPs, Destroy 75 guns in CP"
+    },
+    {
+      "apiname": "G Objectives 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long the Glories",
+      "description": "Destroy 125 hull armor in DM, Destroy 125 ships in CP"
+    },
+    {
+      "apiname": "E Objectives 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carry a Big Stick",
+      "description": "Win 30 DMs, Fully repair 75 guns in DM"
+    },
+    {
+      "apiname": "E Objectives 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Oiled Machine",
+      "description": "Win 30 CPs, Buff 75 engines in CP"
+    },
+    {
+      "apiname": "E Objectives 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puttering Around",
+      "description": "Fully repair 250 parts in DM, Rebuild 250 parts in CP"
+    },
+    {
+      "apiname": "P Experience 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Can't Take the Sky",
+      "description": "Destroy 25 ships with Mines (crew)"
+    },
+    {
+      "apiname": "P Experience 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sting Like a Ray",
+      "description": "Win 10 matches with Mobula, Shake 20 spots with Mobula"
+    },
+    {
+      "apiname": "P Experience 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unscathed",
+      "description": "Win 10 matches with no deaths and 100% hull health against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "G Experience 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Trigger",
+      "description": "Destroy 75 hull armor with Mines"
+    },
+    {
+      "apiname": "G Experience 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knock Down Drag Out",
+      "description": "Destroy 20 ships at a distance of less than 100m"
+    },
+    {
+      "apiname": "G Experience 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable",
+      "description": "Win 10 matches with no deaths and 100% hull health against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "E Experience 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What in Blazes",
+      "description": "Extinguish 75 fires less than 10 seconds after igniting"
+    },
+    {
+      "apiname": "E Experience 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stress Test",
+      "description": "Fully repair 125 engines less than 5 seconds after receiving damage"
+    },
+    {
+      "apiname": "E Experience 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Scratch",
+      "description": "Win 10 matches with no deaths and 100% hull health against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "P Maps 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mineral Rights",
+      "description": "Win 10 matches in Flayed, As captain, capture 10 points with Junker in Flayed"
+    },
+    {
+      "apiname": "P Maps 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The World of Yesterday, Tomorrow",
+      "description": "Win 10 matches in Paritan, As captain, destroy 20 ships with Goldfish in Paritan"
+    },
+    {
+      "apiname": "P Maps 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust to Dust",
+      "description": "Win 20 matches in Dunes, Win 5 perfect victories in Dunes against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "G Maps 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hillbully",
+      "description": "Win 10 matches in Flayed, Destroy 25 ships in Flayed"
+    },
+    {
+      "apiname": "G Maps 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metropolitan",
+      "description": "Win 10 matches in Paritan, Destroy 50 engines in Paritan"
+    },
+    {
+      "apiname": "G Maps 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vicious Cycle",
+      "description": "Win 20 matches in Dunes, Destroy 50 balloons in Dunes"
+    },
+    {
+      "apiname": "E Maps 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thick Skinned",
+      "description": "Win 10 matches in Flayed, Fully repair 25 hull armor in Flayed"
+    },
+    {
+      "apiname": "E Maps 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glass and Iron",
+      "description": "Win 10 matches in Paritan, Fully repair 50 engines in Paritan"
+    },
+    {
+      "apiname": "E Maps 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Battlefield",
+      "description": "Win 20 matches in Dunes, Play 5 matches with no deaths and at least 50% hull health in Dunes against at least one enemy captain level 7+"
+    },
+    {
+      "apiname": "P Mastery 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sight Lines",
+      "description": "Spot 50 ships at a distance of greater than 1000m while unspotted (crew)"
+    },
+    {
+      "apiname": "P Mastery 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joygliding",
+      "description": "Spend 900 seconds using helm skills"
+    },
+    {
+      "apiname": "P Mastery 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Skies",
+      "description": "Destroy 1500 parts (crew), Repair 3000 parts (crew)"
+    },
+    {
+      "apiname": "G Mastery 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle Eyed",
+      "description": "Spot 25 ships at a distance of greater than 1000m "
+    },
+    {
+      "apiname": "G Mastery 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Range Shooting",
+      "description": "Destroy 125 parts from a distance of greater than 1300m"
+    },
+    {
+      "apiname": "G Mastery 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terror of the Skies",
+      "description": "Destroy 1500 parts"
+    },
+    {
+      "apiname": "E Mastery 13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Auspicious",
+      "description": "Spot 25 ships at a distance of greater than 1000m "
+    },
+    {
+      "apiname": "E Mastery 14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arms Race",
+      "description": "Buff 125 parts, Buff 75 guns"
+    },
+    {
+      "apiname": "E Mastery 15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of the Skies",
+      "description": "Repair 3000 parts"
+    },
+    {
+      "apiname": "Graduation 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Graduation",
+      "description": "Become a level 4 Gunner, Engineer, or Pilot to graduate from Novice."
+    },
+    {
+      "apiname": "Underdog Win 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 1",
+      "description": "Win 5 matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog Win 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 2",
+      "description": " Win 5 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog Win 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 3",
+      "description": "Win 10 more matches as Underdog."
+    },
+    {
+      "apiname": "Underdog Win 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 4",
+      "description": "Win 20 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog 1",
+      "description": "Complete 5 matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog 2",
+      "description": "Complete 5 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog 3",
+      "description": "Complete 10 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog 4",
+      "description": "Complete 20 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog Win 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 5",
+      "description": "Win 30 more matches as the Underdog."
+    },
+    {
+      "apiname": "Underdog Win 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog Win 6",
+      "description": "Win 40 more matches as the Underdog."
+    },
+    {
+      "apiname": "Student Driver 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spit in the Wind",
+      "description": "Complete 5 games with your captain as novice."
+    },
+    {
+      "apiname": "Student Driver 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calculated Risk",
+      "description": "Complete 10 more games with your captain as novice."
+    },
+    {
+      "apiname": "Student Driver 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pick Up Pilot",
+      "description": "Complete 15 more games with your captain as novice."
+    },
+    {
+      "apiname": "Student Driver 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaotic Compulsion",
+      "description": "Complete 30 more games with your captain as novice."
+    },
+    {
+      "apiname": "Student Driver 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obsessive Thrill Seeker",
+      "description": "Complete 60 more games with your captain as novice."
+    },
+    {
+      "apiname": "Child Commander 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Promising Start",
+      "description": "Win one game with a novice as your captain."
+    },
+    {
+      "apiname": "Child Commander 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First time Charm",
+      "description": "Win 10 more games with a novice as your captain."
+    },
+    {
+      "apiname": "Child Commander 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backseat Captaining",
+      "description": "Win 15 more games with a novice as your captain."
+    },
+    {
+      "apiname": "Child Commander 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eye for Talent",
+      "description": "Win 30 more games with a novice as your captain."
+    },
+    {
+      "apiname": "Child Commander 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Firstimer",
+      "description": "Win 60 more games with a novice as your captain."
+    },
+    {
+      "apiname": "Novice Partnership 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonnie and Clumsy Clyde",
+      "description": "Complete five games with one novice on your crew"
+    },
+    {
+      "apiname": "Novice Partnership 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holmes and Witless Watson",
+      "description": "Complete ten more games with one novice on your crew"
+    },
+    {
+      "apiname": "Novice Partnership 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cassidy and the Kill-less Kid",
+      "description": "Complete 25 more games with one novice on your crew"
+    },
+    {
+      "apiname": "Novice Partnership 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damsel and the Distressed",
+      "description": "Complete 30 more games with one novice on your crew"
+    },
+    {
+      "apiname": "Novice Partnership 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Present and the Future Vet",
+      "description": "Complete 100 more games with one novice on your crew"
+    },
+    {
+      "apiname": "Novice Duo 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Trouble",
+      "description": "Complete five games with two novices on your ship."
+    },
+    {
+      "apiname": "Novice Duo 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twin Danger",
+      "description": "Complete ten more games with two novices on your ship."
+    },
+    {
+      "apiname": "Novice Duo 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Identical Novice",
+      "description": "Complete 25 more games with two novices on your ship."
+    },
+    {
+      "apiname": "Novice Duo 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Project Gemini",
+      "description": "Complete 30 more games with two novices on your ship."
+    },
+    {
+      "apiname": "Novice Duo 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mirror Image Teaching",
+      "description": "Complete 100 more games with two novices on your ship."
+    },
+    {
+      "apiname": "Novice Herding 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like Bad Tempered Cats",
+      "description": "Complete five games with three novices on your ship."
+    },
+    {
+      "apiname": "Novice Herding 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Vocal Majority",
+      "description": "Complete ten more games with three novices on your ship."
+    },
+    {
+      "apiname": "Novice Herding 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limitless Profanity Generator",
+      "description": "Complete 25 more games with three novices on your ship."
+    },
+    {
+      "apiname": "Novice Herding 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mice",
+      "description": "Complete 30 more games with three novices on your ship."
+    },
+    {
+      "apiname": "Novice Herding 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Man Among Mice",
+      "description": "Complete 100 more games with three novices on your ship."
+    },
+    {
+      "apiname": "Novice Partnership Win 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Rule of Two",
+      "description": "Win one game with one novice on your crew."
+    },
+    {
+      "apiname": "Novice Partnership Win 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under Wing",
+      "description": "Win ten more games with one novice on your crew."
+    },
+    {
+      "apiname": "Novice Partnership Win 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader",
+      "description": "Win 20 more games with one novice on your crew."
+    },
+    {
+      "apiname": "Novice Partnership Win 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brave Worker Bee",
+      "description": "Win 30 more games with one novice on your crew."
+    },
+    {
+      "apiname": "Novice Partnership Win 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The 70-30 Split",
+      "description": "Win 100 more games with one novice on your crew."
+    },
+    {
+      "apiname": "Novice Duo Win 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Henchmen Master",
+      "description": "Win 1 game with two novices on your crew."
+    },
+    {
+      "apiname": "Novice Duo Win 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battlebrothers",
+      "description": "Win 10 more games with two novices on your crew."
+    },
+    {
+      "apiname": "Novice Duo Win 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anchors Serve a Purpose",
+      "description": "Win 20 more games with two novices on your crew."
+    },
+    {
+      "apiname": "Novice Duo Win 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle Chaplain",
+      "description": "Win 30 more games with two novices on your crew."
+    },
+    {
+      "apiname": "Novice Duo Win 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regent Extraordinaire",
+      "description": "Win 100 more games with two novices on your crew."
+    },
+    {
+      "apiname": "Novice Herding Win 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hood and His New Merry Men",
+      "description": "Win 1 game with three novices on your crew."
+    },
+    {
+      "apiname": "Novice Herding Win 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The President and His Cabinet",
+      "description": "Win 10 more games with three novices on your crew."
+    },
+    {
+      "apiname": "Novice Herding Win 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hook and the Jolly Crew",
+      "description": "Win 20 more games with three novices on your crew."
+    },
+    {
+      "apiname": "Novice Herding Win 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucy and the Bats",
+      "description": "Win 30 more games with three novices on your crew."
+    },
+    {
+      "apiname": "Novice Herding Win 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backbreaking",
+      "description": "Win 100 more games with three novices on your crew."
+    },
+    {
+      "apiname": "Novice Perfection 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Higher Power?",
+      "description": "Win a game with zero deaths and at least one novice on your ship."
+    },
+    {
+      "apiname": "Novice Perfection 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Consistent Miracle",
+      "description": "Win five more games with zero deaths and at least one novice on your ship."
+    },
+    {
+      "apiname": "Novice Perfection 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Leadership",
+      "description": "Win five more games with zero deaths and at least one novice on your ship."
+    },
+    {
+      "apiname": "Novice Perfection 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Benevolent Dictatorship",
+      "description": "Win ten more games with zero deaths and at least one novice on your ship."
+    },
+    {
+      "apiname": "Novice Perfection 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Right",
+      "description": "Win 20 more games with zero deaths and at least one novice on your ship."
+    },
+    {
+      "apiname": "Vet Completion 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial of Champions",
+      "description": "Complete five vet games."
+    },
+    {
+      "apiname": "Vet Completion 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Pond",
+      "description": "Complete ten more vet games."
+    },
+    {
+      "apiname": "Vet Completion 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight the World!",
+      "description": "Complete 25 more vet games."
+    },
+    {
+      "apiname": "Vet Completion 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated to Battle",
+      "description": "Complete 30 more vet games."
+    },
+    {
+      "apiname": "Vet Completion 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fated to Fight",
+      "description": "Complete 100 more vet games."
+    },
+    {
+      "apiname": "Vet Victory 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Blood",
+      "description": "Win one vet game."
+    },
+    {
+      "apiname": "Vet Victory 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heroic by any Standards",
+      "description": "Win ten more vet games."
+    },
+    {
+      "apiname": "Vet Victory 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vaingloriously Earned",
+      "description": "Win 20 more vet games."
+    },
+    {
+      "apiname": "Vet Victory 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloodied, but the Last Standing",
+      "description": "Win 30 more vet games."
+    },
+    {
+      "apiname": "Vet Victory 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory at any Cost",
+      "description": "Win 100 more vet games."
+    },
+    {
+      "apiname": "Vet Domination 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Rising Tides",
+      "description": "Win 5 vet games with one or less deaths"
+    },
+    {
+      "apiname": "Vet Domination 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worth the Salt",
+      "description": "Win 10 vet games with one or less deaths"
+    },
+    {
+      "apiname": "Vet Domination 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sirens Sing of You",
+      "description": "Win 20 vet games with one or less deaths"
+    },
+    {
+      "apiname": "Vet Underdog Completion 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A True Challange",
+      "description": "Complete five vet games as an underdog"
+    },
+    {
+      "apiname": "Vet Underdog Completion 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's Always a Bigger Fish",
+      "description": "Complete ten more vet games as an underdog"
+    },
+    {
+      "apiname": "Vet Underdog Completion 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Meet the Rest",
+      "description": "Complete 25 more vet games as an underdog"
+    },
+    {
+      "apiname": "Vet Underdog Completion 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Improbability Drive",
+      "description": "Complete 42 more vet games as an underdog"
+    },
+    {
+      "apiname": "Vet Underdog Completion 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Bumpy Ride",
+      "description": "Complete 100 vet games as an underdog"
+    },
+    {
+      "apiname": "Vet Underdog Victory 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cornering a Stray",
+      "description": "Win one vet game as an underdog."
+    },
+    {
+      "apiname": "Vet Underdog Victory 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Poacher",
+      "description": "Win 10 more vet games as an underdog."
+    },
+    {
+      "apiname": "Vet Underdog Victory 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mischief Managed",
+      "description": "Win 20 more vet games as an underdog."
+    },
+    {
+      "apiname": "Vet Underdog Victory 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winning the Unwinnable",
+      "description": "Win 30 more vet games as an underdog."
+    },
+    {
+      "apiname": "Vet Underdog Victory 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cowards Never Prosper",
+      "description": "Win 100 more vet games as an underdog."
+    },
+    {
+      "apiname": "E Tutorial Bronze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer Tutorial Bronze",
+      "description": "Get Bronze Medal in Engineer Tutorial"
+    },
+    {
+      "apiname": "E Tutorial Silver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer Tutorial Silver",
+      "description": "Get Silver Medal in Engineer Tutorial"
+    },
+    {
+      "apiname": "E Tutorial Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer Tutorial Gold",
+      "description": "Get Gold Medal in Engineer Tutorial"
+    },
+    {
+      "apiname": "G Tutorial Bronze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunner Tutorial Bronze",
+      "description": "Get Bronze Medal in Gunner Tutorial"
+    },
+    {
+      "apiname": "G Tutorial Silver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunner Tutorial Silver",
+      "description": "Get Silver Medal in Gunner Tutorial"
+    },
+    {
+      "apiname": "G Tutorial Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunner Tutorial Gold",
+      "description": "Get Gold Medal in Gunner Tutorial"
+    },
+    {
+      "apiname": "P Tutorial Bronze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilot Tutorial Bronze",
+      "description": "Get Bronze Medal in Pilot Tutorial"
+    },
+    {
+      "apiname": "P Tutorial Silver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilot Tutorial Silver",
+      "description": "Get Silver Medal in Pilot Tutorial"
+    },
+    {
+      "apiname": "P Tutorial Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilot Tutorial Gold",
+      "description": "Get Gold Medal in Pilot Tutorial"
+    },
+    {
+      "apiname": "VIP Play 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP Play 1",
+      "description": "Win 20 matches on Hazardous Hunt"
+    },
+    {
+      "apiname": "VIP Play 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP Play 2",
+      "description": "Win 20 matches on City Hunter"
+    },
+    {
+      "apiname": "VIP Play 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP Play 3",
+      "description": "Win 20 matches on Northern Hunt"
+    },
+    {
+      "apiname": "VIP Play 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP Play 4",
+      "description": "Win 20 matches on Hunt at Dawn"
+    },
+    {
+      "apiname": "VIP Play 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP Play 5",
+      "description": "Win 20 matches on Hunting Raiders"
+    },
+    {
+      "apiname": "All Tutorial Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Tutorial Gold",
+      "description": "Get Gold Medal in all 3 tutorials"
+    },
+    {
+      "apiname": "Explore the World - Defense 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Defense 1",
+      "description": "Play a Defense match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Defense 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Defense 2",
+      "description": "Play a Defense match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Defense 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Defense 3",
+      "description": "Play a Defense match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Defense 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Defense 4",
+      "description": "Play a Defense match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Assault 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Assault 1",
+      "description": "Play an Assault match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Assault 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Assault 2",
+      "description": "Play an Assault match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Assault 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Assault 3",
+      "description": "Play an Assault match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Assault 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Assault 4",
+      "description": "Play an Assault match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Intercept 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Intercept 1",
+      "description": "Play a Intercept match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Intercept 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Intercept 2",
+      "description": "Play a Intercept match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Intercept 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Intercept 3",
+      "description": "Play a Intercept match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Intercept 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Intercept 4",
+      "description": "Play a Intercept match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Infiltration 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Infiltration 1",
+      "description": "Play an Infiltration match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Infiltration 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Infiltration 2",
+      "description": "Play an Infiltration match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Infiltration 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Infiltration 3",
+      "description": "Play an Infiltration match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Infiltration 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Infiltration 4",
+      "description": "Play an Infiltration match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Search & Destroy 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Search & Destroy 1",
+      "description": "Play a Search & Destroy match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Search & Destroy 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Search & Destroy 2",
+      "description": "Play a Search & Destroy match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Search & Destroy 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Search & Destroy 3",
+      "description": "Play a Search & Destroy match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Search & Destroy 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Search & Destroy 4",
+      "description": "Play a Search & Destroy match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Defense 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Defense 1",
+      "description": "Win a Defense match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Defense 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Defense 2",
+      "description": "Win a Defense match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Defense 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Defense 3",
+      "description": "Win a Defense match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Defense 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Defense 4",
+      "description": "Win a Defense match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Assault 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Assault 1",
+      "description": "Win an Assault match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Assault 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Assault 2",
+      "description": "Win an Assault match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Assault 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Assault 3",
+      "description": "Win an Assault match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Assault 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Assault 4",
+      "description": "Win an Assault match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Intercept 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Intercept 1",
+      "description": "Win an Intercept match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Intercept 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Intercept 2",
+      "description": "Win an Intercept match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Intercept 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Intercept 3",
+      "description": "Win an Intercept match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Intercept 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Intercept 4",
+      "description": "Win an Intercept match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Infiltration 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Infiltration 1",
+      "description": "Win an Infiltration match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Infiltration 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Infiltration 2",
+      "description": "Win an Infiltration match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Infiltration 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Infiltration 3",
+      "description": "Win an Infiltration match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Infiltration 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Infiltration 4",
+      "description": "Win an Infiltration match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Search & Destroy 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Search & Destroy 1",
+      "description": "Win a Search & Destroy match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Search & Destroy 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Search & Destroy 2",
+      "description": "Win a Search & Destroy match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Search & Destroy 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Search & Destroy 3",
+      "description": "Win a Search & Destroy match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Search & Destroy 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Search & Destroy 4",
+      "description": "Win a Search & Destroy match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "War Monger 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 1",
+      "description": "Kill 200 airships from the Order of Chaladon."
+    },
+    {
+      "apiname": "War Monger 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 2",
+      "description": "Kill 200 airships from the Fjord Baronies."
+    },
+    {
+      "apiname": "War Monger 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 3",
+      "description": "Kill 200 airships from the Mercantile Guild."
+    },
+    {
+      "apiname": "War Monger 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 4",
+      "description": "Kill 200 airships from the Anglean Republic."
+    },
+    {
+      "apiname": "Confused Politics 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 1",
+      "description": "Play 100 matches as a member of the Order of Chaladon."
+    },
+    {
+      "apiname": "Confused Politics 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 2",
+      "description": "Play 100 matches as a member of the Fjord Baronies."
+    },
+    {
+      "apiname": "Confused Politics 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 3",
+      "description": "Play 100 matches as a member of the Mercantile Guild."
+    },
+    {
+      "apiname": "Confused Politics 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 4",
+      "description": "Play 100 matches as a member of the Anglean Republic."
+    },
+    {
+      "apiname": "World At War 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 1",
+      "description": "While at war, play 75 matches as a member of the Order of Chaladon."
+    },
+    {
+      "apiname": "World At War 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 2",
+      "description": "While at war, play 75 matches as a member of the Fjord Baronies."
+    },
+    {
+      "apiname": "World At War 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 3",
+      "description": "While at war, play 75 matches as a member of the Mercantile Guild."
+    },
+    {
+      "apiname": "World At War 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 4",
+      "description": "While at war, play 75 matches as a member of the Anglean Republic."
+    },
+    {
+      "apiname": "Things Go Boom 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 1",
+      "description": "Kill 50 airship enemies with the Februus Weaponized Coil."
+    },
+    {
+      "apiname": "Things Go Boom 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 2",
+      "description": "Kill 50 airship enemies with the Kalakuta Gas Mortar."
+    },
+    {
+      "apiname": "Things Go Boom 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 3",
+      "description": "Kill 200 airship enemies with the Seraph Tempest Missiles."
+    },
+    {
+      "apiname": "Things Go Boom 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 4",
+      "description": "Kill 200 airship enemies with the Aten Lens Array."
+    },
+    {
+      "apiname": "One of the Days 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 1",
+      "description": "Destroy 225  enemy components with the Febrrus Weaponized Coil."
+    },
+    {
+      "apiname": "One of the Days 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 2",
+      "description": "Destroy 100 enemy components with the Kalakuta Gas Mortar."
+    },
+    {
+      "apiname": "One of the Days 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 3",
+      "description": "Destroy 150 enemy components with the Seraph Tempest Missiles."
+    },
+    {
+      "apiname": "One of the Days 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 4",
+      "description": "Destroy 75 enemy components with the Aten Lens Array."
+    },
+    {
+      "apiname": "Titans Fall 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 1",
+      "description": "Kill 8 bosses with the Februus Weaponized Coil."
+    },
+    {
+      "apiname": "Titans Fall 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 2",
+      "description": "Kill 8 bosses with the Kalakuta Gas Mortar."
+    },
+    {
+      "apiname": "Titans Fall 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 3",
+      "description": "Kill 15 bosses with the Seraph Tempest Missiles."
+    },
+    {
+      "apiname": "Titans Fall 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 4",
+      "description": "Kill 15 bosses with the Aten Lens Array."
+    },
+    {
+      "apiname": "Titans Fall 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 5",
+      "description": "Kill 12 bosses from over 1000m range."
+    },
+    {
+      "apiname": "Titans Fall 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 6",
+      "description": "Kill 12 boses within 150m range."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 1",
+      "description": "Kill 5 Anglean Titan bosses with the Februus Weaponized Coil."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 2",
+      "description": "Kill 5 Chaladonian Vanquisher bosses with the Kalakuta Gas Mortar."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 3",
+      "description": "Kill 10 Baronite Carrier bosses with the Seraph Tempest Missiles."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 4",
+      "description": "Kill 10 Mercantile Brigantine bosses with the Aten Lens Array."
+    },
+    {
+      "apiname": "Whitewhaler Returns 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whitewhaler Returns 1",
+      "description": "Kill 3 bosses with the Februus Weaponized Coil while the boss in harpooned."
+    },
+    {
+      "apiname": "Whitewhaler Returns 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whitewhaler Returns 2",
+      "description": "Kill 3 bosses with the Kalakuta Gas Mortar while the boss in harpooned."
+    },
+    {
+      "apiname": "Whitewhaler Returns 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whitewhaler Returns 3",
+      "description": "Kill 6 bosses with the Seraph Tempest Missiles while the boss in harpooned."
+    },
+    {
+      "apiname": "Whitewhaler Returns 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whitewhaler Returns 4",
+      "description": "Kill 6 bosses with the Aten Lens Array while the boss in harpooned."
+    },
+    {
+      "apiname": "New Set of Sails 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 1",
+      "description": "Win 25 matches with the Mercantile Magnate."
+    },
+    {
+      "apiname": "New Set of Sails 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 2",
+      "description": "Win 25 matches with the Baronite Crusader."
+    },
+    {
+      "apiname": "New Set of Sails 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 3",
+      "description": "Win 25 matches with the Anglean Corsair."
+    },
+    {
+      "apiname": "New Set of Sails 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 4",
+      "description": "Win 25 matches with the Chaladonian Shrike."
+    },
+    {
+      "apiname": "Popping Blood Vessels 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 1",
+      "description": "Unlock 1 Special Ability."
+    },
+    {
+      "apiname": "Popping Blood Vessels 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 2",
+      "description": "Unlock 2 Special Abiltiies."
+    },
+    {
+      "apiname": "Popping Blood Vessels 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 3",
+      "description": "Unlock 4 Special Abilities."
+    },
+    {
+      "apiname": "Popping Blood Vessels 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 4",
+      "description": "Unlock 7 Special Abilities."
+    },
+    {
+      "apiname": "Popping Blood Vessels 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 5",
+      "description": "Unlock 12 Special Abilities."
+    },
+    {
+      "apiname": "Popping Blood Vessels 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popping Blood Vessels 6",
+      "description": "Unlock all 16 Special Abilities."
+    },
+    {
+      "apiname": "Best of the Best 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best of the Best 1",
+      "description": "Unlock all Engineer Special Abilities."
+    },
+    {
+      "apiname": "Best of the Best 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best of the Best 2",
+      "description": "Unlock all Gunner Special Abilities."
+    },
+    {
+      "apiname": "Best of the Best 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best of the Best 3",
+      "description": "Unlock all Pilot Special Abilities."
+    },
+    {
+      "apiname": "Old Dog Engineer 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 1",
+      "description": "Win 5 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Engineer 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 2",
+      "description": "Win 7 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Engineer 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 3",
+      "description": "Win 10 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Engineer 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 4",
+      "description": "Win 13 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Engineer 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 5",
+      "description": "Win 18 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Engineer 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 6",
+      "description": "Win 25 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Gunner 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 1",
+      "description": "Win 5 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Gunner 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 2",
+      "description": "Win 7 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Gunner 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 3",
+      "description": "Win 10 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Gunner 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 4",
+      "description": "Win 13 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Gunner 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 5",
+      "description": "Win 18 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Gunner 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 6",
+      "description": "Win 25 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Pilot 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 1",
+      "description": "Win 5 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Pilot 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 2",
+      "description": "Win 7 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Pilot 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 3",
+      "description": "Win 10 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Pilot 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 4",
+      "description": "Win 13 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Pilot 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 5",
+      "description": "Win 18 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Pilot 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 6",
+      "description": "Win 25 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "All The Ways to Kill 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 1",
+      "description": "Reach level 4 in the Fjord Baronies."
+    },
+    {
+      "apiname": "All The Ways to Kill 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 2",
+      "description": "Reach level 4 in the Order of Chaladon."
+    },
+    {
+      "apiname": "All The Ways to Kill 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 3",
+      "description": "Reach level 4 in the Mercantile Guild."
+    },
+    {
+      "apiname": "All The Ways to Kill 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 4",
+      "description": "Reach level 4 in the Anglean Republic."
+    },
+    {
+      "apiname": "Brand New Wings 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 1",
+      "description": "Reach level 7 in the Fjord Baronies."
+    },
+    {
+      "apiname": "Brand New Wings 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 2",
+      "description": "Reach level 7 in the Order of Chaladon."
+    },
+    {
+      "apiname": "Brand New Wings 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 3",
+      "description": "Reach level 7 in the Mercantile Guild."
+    },
+    {
+      "apiname": "Brand New Wings 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 4",
+      "description": "Reach level 7 in the Anglean Republic."
+    },
+    {
+      "apiname": "Anglean Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 1",
+      "description": "Win 500 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 2",
+      "description": "Win 360 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 3",
+      "description": "Win 130 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 4",
+      "description": "Win 360 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 5",
+      "description": "Win 130 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Anglean Grandmaster 6",
+      "description": "Win 360 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 1",
+      "description": "Win 500 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 2",
+      "description": "Win 360 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 3",
+      "description": "Win 130 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 4",
+      "description": "Win 360 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 5",
+      "description": "Win 130 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 6",
+      "description": "Win 360 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 1",
+      "description": "Win 500 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 2",
+      "description": "Win 360 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 3",
+      "description": "Win 130 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 4",
+      "description": "Win 360 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 5",
+      "description": "Win 130 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 6",
+      "description": "Win 360 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 1",
+      "description": "Win 500 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 2",
+      "description": "Win 360 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 3",
+      "description": "Win 130 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 4",
+      "description": "Win 360 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 5",
+      "description": "Win 130 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 6",
+      "description": "Win 360 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Big Spender 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 1",
+      "description": "Spend 200 coin."
+    },
+    {
+      "apiname": "Big Spender 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 2",
+      "description": "Spend 500 coin."
+    },
+    {
+      "apiname": "Big Spender 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 3",
+      "description": "Spend 1700 coin."
+    },
+    {
+      "apiname": "Big Spender 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 4",
+      "description": "Spend 5000 coin."
+    },
+    {
+      "apiname": "Big Spender 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 5",
+      "description": "Spend 12000 coin."
+    },
+    {
+      "apiname": "Big Spender 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 6",
+      "description": "Spend 30000 coin."
+    },
+    {
+      "apiname": "Big Spender 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 7",
+      "description": "Spend 70000 coin."
+    },
+    {
+      "apiname": "Big Spender 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 8",
+      "description": "Spend 200000 coin."
+    },
+    {
+      "apiname": "Big Spender 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 9",
+      "description": "Spend 500000 coin."
+    },
+    {
+      "apiname": "Big Spender 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender 10",
+      "description": "Spend 1000000 coin."
+    },
+    {
+      "apiname": "Voice of Inspiration 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of Inspiration 1",
+      "description": "Spend coin on 3 Reinforcements that Increase Personal War Effort."
+    },
+    {
+      "apiname": "Voice of Inspiration 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of Inspiration 2",
+      "description": "Spend coin on 10 Reinforcements that Increase Personal War Effort."
+    },
+    {
+      "apiname": "Voice of Inspiration 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of Inspiration 3",
+      "description": "Spend coin on 40 Reinforcements that Increase Personal War Effort."
+    },
+    {
+      "apiname": "Voice of Inspiration 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of Inspiration 4",
+      "description": "Spend coin on 125 Reinforcements that Increase Personal War Effort."
+    },
+    {
+      "apiname": "Voice of Inspiration 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of Inspiration 5",
+      "description": "Spend coin on 300 Reinforcements that Increase Personal War Effort."
+    },
+    {
+      "apiname": "Protect the Homeland 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect the Homeland 1",
+      "description": "Spend coin on 3 Reinforcements that Add Fortification."
+    },
+    {
+      "apiname": "Protect the Homeland 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect the Homeland 2",
+      "description": "Spend coin on 15 Reinforcements that Add Fortification."
+    },
+    {
+      "apiname": "Protect the Homeland 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect the Homeland 3",
+      "description": "Spend coin on 50 Reinforcements that Add Fortification."
+    },
+    {
+      "apiname": "Protect the Homeland 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect the Homeland 4",
+      "description": "Spend coin on 125 Reinforcements that Add Fortification."
+    },
+    {
+      "apiname": "Protect the Homeland 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect the Homeland 5",
+      "description": "Spend coin on 350 Reinforcements that Add Fortification."
+    },
+    {
+      "apiname": "Knowledge is Power 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is Power 1",
+      "description": "Spend coin on 5 Reinforcements that change Mission Start Time."
+    },
+    {
+      "apiname": "Knowledge is Power 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is Power 2",
+      "description": "Spend coin on 15 Reinforcements that change Mission Start Time."
+    },
+    {
+      "apiname": "Knowledge is Power 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is Power 3",
+      "description": "Spend coin on 75 Reinforcements that change Mission Start Time."
+    },
+    {
+      "apiname": "Knowledge is Power 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is Power 4",
+      "description": "Spend coin on 200 Reinforcements that change Mission Start Time."
+    },
+    {
+      "apiname": "Knowledge is Power 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge is Power 5",
+      "description": "Spend coin on 500 Reinforcements that change Mission Start Time."
+    },
+    {
+      "apiname": "Research and Development 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development 1",
+      "description": "Spend coin on 2 Reinforcements that change Mission Duration."
+    },
+    {
+      "apiname": "Research and Development 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development 2",
+      "description": "Spend coin on 6 Reinforcements that change Mission Duration."
+    },
+    {
+      "apiname": "Research and Development 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development 3",
+      "description": "Spend coin on 25 Reinforcements that change Mission Duration."
+    },
+    {
+      "apiname": "Research and Development 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development 4",
+      "description": "Spend coin on 60 Reinforcements that change Mission Duration."
+    },
+    {
+      "apiname": "Research and Development 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Research and Development 5",
+      "description": "Spend coin on 150 Reinforcements that change Mission Duration."
+    },
+    {
+      "apiname": "Spoils of War 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoils of War 1",
+      "description": "Spend coin on 2 Reinforcements that change Mission Rewards."
+    },
+    {
+      "apiname": "Spoils of War 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoils of War 2",
+      "description": "Spend coin on 6 Reinforcements that change Mission Rewards."
+    },
+    {
+      "apiname": "Spoils of War 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoils of War 3",
+      "description": "Spend coin on 25 Reinforcements that change Mission Rewards."
+    },
+    {
+      "apiname": "Spoils of War 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoils of War 4",
+      "description": "Spend coin on 60 Reinforcements that change Mission Rewards."
+    },
+    {
+      "apiname": "Spoils of War 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoils of War 5",
+      "description": "Spend coin on 150 Reinforcements that change Mission Rewards."
+    },
+    {
+      "apiname": "War All of the Time 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War All of the Time 1",
+      "description": "Spend 200 coin on Unlocking Territories."
+    },
+    {
+      "apiname": "War All of the Time 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War All of the Time 2",
+      "description": "Spend 500 coin on Unlocking Territories."
+    },
+    {
+      "apiname": "War All of the Time 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War All of the Time 3",
+      "description": "Spend 1500 coin on Unlocking Territories."
+    },
+    {
+      "apiname": "War All of the Time 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War All of the Time 4",
+      "description": "Spend 3000 coin on Unlocking Territories."
+    },
+    {
+      "apiname": "War All of the Time 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War All of the Time 5",
+      "description": "Spend 10000 coin on Unlocking Territories."
+    },
+    {
+      "apiname": "Redirect the Forces 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redirect the Forces 1",
+      "description": "Deploy at a Faction Leader supported territory and play 5 matches there."
+    },
+    {
+      "apiname": "Redirect the Forces 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redirect the Forces 2",
+      "description": "Deploy at a Faction Leader supported territory and play 15 matches there."
+    },
+    {
+      "apiname": "Redirect the Forces 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redirect the Forces 3",
+      "description": "Deploy at a Faction Leader supported territory and play 50 matches there."
+    },
+    {
+      "apiname": "Redirect the Forces 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redirect the Forces 4",
+      "description": "Deploy at a Faction Leader supported territory and play 175 matches there."
+    },
+    {
+      "apiname": "Redirect the Forces 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redirect the Forces 5",
+      "description": "Deploy at a Faction Leader supported territory and play 500 matches there."
+    },
+    {
+      "apiname": "Shipment of Coins 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipment of Coins 1",
+      "description": "Spend coin on 5 Reinforcements at a Faction Leader supported territory."
+    },
+    {
+      "apiname": "Shipment of Coins 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipment of Coins 2",
+      "description": "Spend coin on 15 Reinforcements at a Faction Leader supported territory."
+    },
+    {
+      "apiname": "Shipment of Coins 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipment of Coins 3",
+      "description": "Spend coin on 50 Reinforcements at a Faction Leader supported territory."
+    },
+    {
+      "apiname": "Shipment of Coins 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipment of Coins 4",
+      "description": "Spend coin on 175 Reinforcements at a Faction Leader supported territory."
+    },
+    {
+      "apiname": "Shipment of Coins 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipment of Coins 5",
+      "description": "Spend coin on 500 Reinforcements at a Faction Leader supported territory."
+    },
+    {
+      "apiname": "Follow the Leader 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader 1",
+      "description": "Play 5 matches with one or more Faction Leaders on your team."
+    },
+    {
+      "apiname": "Follow the Leader 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader 2",
+      "description": "Play 15 matches with one or more Faction Leaders on your team."
+    },
+    {
+      "apiname": "Follow the Leader 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader 3",
+      "description": "Play 50 matches with one or more Faction Leaders on your team."
+    },
+    {
+      "apiname": "Follow the Leader 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader 4",
+      "description": "Play 175 matches with one or more Faction Leaders on your team."
+    },
+    {
+      "apiname": "Follow the Leader 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader 5",
+      "description": "Play 500 matches with one or more Faction Leaders on your team."
+    },
+    {
+      "apiname": "Obey My Every Command 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obey My Every Command 1",
+      "description": "Become a Faction Leader 1 times."
+    },
+    {
+      "apiname": "Obey My Every Command 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obey My Every Command 2",
+      "description": "Become a Faction Leader 2 times."
+    },
+    {
+      "apiname": "Obey My Every Command 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obey My Every Command 3",
+      "description": "Become a Faction Leader 5 times."
+    },
+    {
+      "apiname": "Obey My Every Command 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obey My Every Command 4",
+      "description": "Become a Faction Leader 10 times."
+    },
+    {
+      "apiname": "Obey My Every Command 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obey My Every Command 5",
+      "description": "Become a Faction Leader 25 times."
+    },
+    {
+      "apiname": "A Perfect World - Defense 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Defense 1",
+      "description": "Win 8 Defense matches with 100% Base Health on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Defense 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Defense 2",
+      "description": "Win 12 Defense matches with 100% Base Health on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Defense 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Defense 3",
+      "description": "Win 5 Defense matches with 100% Base Health and with all Enemy Supply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Defense 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Defense 4",
+      "description": "Win 8 Defense matches with 100% Base Health and with all Enemy Supply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Assault 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Assault 1",
+      "description": "Win 8 Assault matches with 0 deaths on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Assault 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Assault 2",
+      "description": "Win 12 Assault matches with 0 deaths on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Assault 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Assault 3",
+      "description": "Win 5 Assault matches with 0 deaths and with all Enemy Supply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Assault 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Assault 4",
+      "description": "Win 8 Assault matches with 0 deaths and with all Enemy Supply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Intercept 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Intercept 1",
+      "description": "Win 8 Intercept matches at the first Refinery on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Intercept 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Intercept 2",
+      "description": "Win 12 Intercept matches at the first Refinery on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Intercept 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Intercept 3",
+      "description": "Win 5 Intercept matches at the first Refinery and with all Enemy Supply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Intercept 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Intercept 4",
+      "description": "Win 8 Intercept matches at the first Refinery and with all Enemy Supply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Infiltration 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Infiltration 1",
+      "description": "Win 8 Infiltration matches with 100% VIP health on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Infiltration 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Infiltration 2",
+      "description": "Win 12 Infiltration matches with 100% VIP health on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Infiltration 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Infiltration 3",
+      "description": "Win 5 Infiltration matches with 100% VIP health and with all Enemy Supply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Infiltration 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Infiltration 4",
+      "description": "Win 8 Infiltration matches with 100% VIP health and with all Enemy Supply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Search & Destroy 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Search & Destroy 1",
+      "description": "Win 8 Search & Destroy matches with 0 deaths on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Search & Destroy 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Search & Destroy 2",
+      "description": "Win 12 Search & Destroy matches with 0 deaths on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Search & Destroy 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Search & Destroy 3",
+      "description": "Win 5 Search & Destroy matches with 0 deaths and with all Enemy Supply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Search & Destroy 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Search & Destroy 4",
+      "description": "Win 8 Search & Destroy matches with 0 deaths and with all Enemy Supply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "No Mercy 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 1",
+      "description": "Destroy 30 Enemy Supply Ships on Normal difficulty Defense matches."
+    },
+    {
+      "apiname": "No Mercy 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 2",
+      "description": "Destroy 30 Enemy Supply Ships on Normal difficulty Intercept matches."
+    },
+    {
+      "apiname": "No Mercy 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 3",
+      "description": "Destroy 30 Enemy Supply Ships on Normal difficulty Assault matches."
+    },
+    {
+      "apiname": "No Mercy 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 4",
+      "description": "Destroy 30 Enemy Supply Ships on Hard difficulty Defense matches."
+    },
+    {
+      "apiname": "No Mercy 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 5",
+      "description": "Destroy 30 Enemy Supply Ships on Hard difficulty Intercept matches."
+    },
+    {
+      "apiname": "No Mercy 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 6",
+      "description": "Destroy 30 Enemy Supply Ships on Hard difficulty Assault matches."
+    },
+    {
+      "apiname": "No Mercy 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 7",
+      "description": "Destroy 30 Enemy Supply Ships on Veteran difficulty Defense matches."
+    },
+    {
+      "apiname": "No Mercy 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 8",
+      "description": "Destroy 30 Enemy Supply Ships on Veteran difficulty Intercept matches."
+    },
+    {
+      "apiname": "No Mercy 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 9",
+      "description": "Destroy 30 Enemy Supply Ships on Veteran difficulty Assault matches."
+    },
+    {
+      "apiname": "No Mercy 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 10",
+      "description": "Destroy 30 Enemy Supply Ships on Hell difficulty Defense matches."
+    },
+    {
+      "apiname": "No Mercy 11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 11",
+      "description": "Destroy 30 Enemy Supply Ships on Hell difficulty Intercept matches."
+    },
+    {
+      "apiname": "No Mercy 12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy 12",
+      "description": "Destroy 30 Enemy Supply Ships on Hell difficulty Assault matches."
+    },
+    {
+      "apiname": "Make It Stronger 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Stronger 1",
+      "description": "Buff 75 components with the Armor Kit."
+    },
+    {
+      "apiname": "Make It Stronger 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Stronger 2",
+      "description": "Use Fail-Safe Kit 150 times."
+    },
+    {
+      "apiname": "Make It Stronger 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Stronger 3",
+      "description": "Armor Kit buff successfully absorbs full amount of damage from enemy 75 times."
+    },
+    {
+      "apiname": "By Force Alone 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By Force Alone 1",
+      "description": "Spend coin on 5 Reinforcements that Add Effort."
+    },
+    {
+      "apiname": "By Force Alone 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By Force Alone 2",
+      "description": "Spend coin on 15 Reinforcements that Add Effort."
+    },
+    {
+      "apiname": "By Force Alone 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By Force Alone 3",
+      "description": "Spend coin on 75 Reinforcements that Add Effort."
+    },
+    {
+      "apiname": "By Force Alone 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By Force Alone 4",
+      "description": "Spend coin on 200 Reinforcements that Add Effort."
+    },
+    {
+      "apiname": "By Force Alone 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By Force Alone 5",
+      "description": "Spend coin on 500 Reinforcements that Add Effort."
+    },
+    {
+      "apiname": "Show Me Your Credentials 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 1",
+      "description": "Be a current leader for the Fjord Baronies."
+    },
+    {
+      "apiname": "Show Me Your Credentials 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 2",
+      "description": "Be a current leader for the Anglean Republic"
+    },
+    {
+      "apiname": "Show Me Your Credentials 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 3",
+      "description": "Be a current leader for the Order of Chaladon"
+    },
+    {
+      "apiname": "Show Me Your Credentials 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 4",
+      "description": "Be a current leader for the Mercantile Guild"
+    },
+    {
+      "apiname": "Explore the World - Blockade 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Blockade 1",
+      "description": "Play a Blockade match 10 times on Normal Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Blockade 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Blockade 2",
+      "description": "Play a Blockade match 25 times on Hard Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Blockade 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Blockade 3",
+      "description": "Play a Blockade match 40 times on Veteran Difficulty."
+    },
+    {
+      "apiname": "Explore the World - Blockade 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the World - Blockade 4",
+      "description": "Play a Blockade match 60 times on Hell Difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Blockade 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Blockade 1",
+      "description": "Win a Blockade match 10 times on Normal difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Blockade 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Blockade 2",
+      "description": "Win a Blockade match 25 times on Hard difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Blockade 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Blockade 3",
+      "description": "Win a Blockade match 40 times on Veteran difficulty."
+    },
+    {
+      "apiname": "World Fights Back - Blockade 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Fights Back - Blockade 4",
+      "description": "Win a Blockade match 60 times on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Blockade 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Blockade 1",
+      "description": "Win 8 Blockade matches w/ no base damage on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Blockade 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Blockade 2",
+      "description": "Win 12 Blockade matches w/ no base damage on Hell difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Blockade 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Blockade 3",
+      "description": "Win 5 Blockade matches w/ no base damage & all Enemy Suppply Ships destroyed on Veteran difficulty."
+    },
+    {
+      "apiname": "A Perfect World - Blockade 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World - Blockade 4",
+      "description": "Win 8 Blockade matches w/ no base damage & all Enemy Suppply Ships destroyed on Hell difficulty."
+    },
+    {
+      "apiname": "Old Dog Engineer 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 7",
+      "description": "Win 13 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Gunner 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 7",
+      "description": "Win 13 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Pilot 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 7",
+      "description": "Win 13 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "War Monger 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 5",
+      "description": "Kill 200 airships from the Arashi League."
+    },
+    {
+      "apiname": "War Monger 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Monger 6",
+      "description": "Kill 200 airships from the Yesha Empire."
+    },
+    {
+      "apiname": "Confused Politics 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 5",
+      "description": "Play 100 matches as a member of the Arashi League."
+    },
+    {
+      "apiname": "Confused Politics 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confused Politics 6",
+      "description": "Play 100 matches as a member of the Yesha Empire."
+    },
+    {
+      "apiname": "World At War 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 5",
+      "description": "While at war, play 75 matches as a member of the Arashi League."
+    },
+    {
+      "apiname": "World At War 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World At War 6",
+      "description": "While at war, play 75 matches as a member of the Yesha Empire."
+    },
+    {
+      "apiname": "Things Go Boom 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 5",
+      "description": "Kill 100 airship enemies with the Immortal Gaze Heavy Accelerator."
+    },
+    {
+      "apiname": "Things Go Boom 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Go Boom 6",
+      "description": "Kill 200 airship enemies with the Roaring Tiger Heavy Detonator."
+    },
+    {
+      "apiname": "One of the Days 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 5",
+      "description": "Destroy 250 enemy components with the Immortal Gaze Heavy Accelerator."
+    },
+    {
+      "apiname": "One of the Days 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Days 6",
+      "description": "Destroy 100 enemy components with the Roaring Tiger Heavy Detonator."
+    },
+    {
+      "apiname": "Titans Fall 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 7",
+      "description": "Kill 10 bosses with the Immortal Gaze Heavy Accelerator."
+    },
+    {
+      "apiname": "Titans Fall 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titans Fall 8",
+      "description": "Kill 15 bosses with the Roaring Tiger Heavy Detonator."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 5",
+      "description": "Kill 7 Arashi Ravager bosses with the Immortal Gaze Heavy Accelerator."
+    },
+    {
+      "apiname": "Taste of Your Own Medicine 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Your Own Medicine 6",
+      "description": "Kill 10 Yeshan Sovereign bosse with the Roaring Tiger Heavy Detonoator."
+    },
+    {
+      "apiname": "New Set of Sails 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 5",
+      "description": "Win 25 matches with the Arashi Stormbreaker."
+    },
+    {
+      "apiname": "New Set of Sails 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Set of Sails 6",
+      "description": "Win 25 matches with the Yeshan Judgement."
+    },
+    {
+      "apiname": "All The Ways to Kill 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 5",
+      "description": "Reach level 4 in the Arashi League."
+    },
+    {
+      "apiname": "All The Ways to Kill 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All The Ways to Kill 6",
+      "description": "Reach level 4 in the Yesha Empire."
+    },
+    {
+      "apiname": "Brand New Wings 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 5",
+      "description": "Reach level 7 in the Arashi League."
+    },
+    {
+      "apiname": "Brand New Wings 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New Wings 6",
+      "description": "Reach level 7 in the Yesha Empire."
+    },
+    {
+      "apiname": "Anglean Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anglean Grandmaster 7",
+      "description": "Win 15 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anglean Grandmaster 8",
+      "description": "Win 25 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anglean Grandmaster 9",
+      "description": "Win 15 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Anglean Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anglean Grandmaster 10",
+      "description": "Win 25 Alliance matches as an Anglean on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 7",
+      "description": "Win 15 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 8",
+      "description": "Win 25 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 9",
+      "description": "Win 15 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Baronite Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baronite Grandmaster 10",
+      "description": "Win 25 Alliance matches as a Baronite on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 7",
+      "description": "Win 15 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 8",
+      "description": "Win 25 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 9",
+      "description": "Win 15 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Chaladonian Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaladonian Grandmaster 10",
+      "description": "Win 25 Alliance matches as a Chaladonian on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 7",
+      "description": "Win 15 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 8",
+      "description": "Win 25 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 9",
+      "description": "Win 15 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Mercantile Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercantile Grandmaster 10",
+      "description": "Win 25 Alliance matches as a Merchant on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 1",
+      "description": "Win 30 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 2",
+      "description": "Win 25 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 3",
+      "description": "Win 15 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 4",
+      "description": "Win 25 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 5",
+      "description": "Win 15 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 6",
+      "description": "Win 25 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 7",
+      "description": "Win 15 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 8",
+      "description": "Win 25 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 9",
+      "description": "Win 15 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Arashi Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arashi Grandmaster 10",
+      "description": "Win 25 Alliance matches as an Arashi on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 1",
+      "description": "Win 30 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 2",
+      "description": "Win 25 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 3",
+      "description": "Win 15 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 4",
+      "description": "Win 25 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 5",
+      "description": "Win 15 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 6",
+      "description": "Win 25 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 7",
+      "description": "Win 15 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 8",
+      "description": "Win 25 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 9",
+      "description": "Win 15 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Yeshan Grandmaster 10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yeshan Grandmaster 10",
+      "description": "Win 25 Alliance matches as a Yeshan on Hard or above."
+    },
+    {
+      "apiname": "Show Me Your Credentials 5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 5",
+      "description": "Be a current leader for the Arashi League"
+    },
+    {
+      "apiname": "Show Me Your Credentials 6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me Your Credentials 6",
+      "description": "Be a current leader for the Yesha Empire"
+    },
+    {
+      "apiname": "Old Dog Engineer 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 8",
+      "description": "Win 18 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Gunner 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 8",
+      "description": "Win 18 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Pilot 8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 8",
+      "description": "Win 18 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Old Dog Engineer 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Engineer 9",
+      "description": "Win 20 Alliance matches as an Engineer."
+    },
+    {
+      "apiname": "Old Dog Gunner 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Gunner 9",
+      "description": "Win 20 Alliance matches as a Gunner."
+    },
+    {
+      "apiname": "Old Dog Pilot 9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Dog Pilot 9",
+      "description": "Win 20 Alliance matches as a Pilot."
+    },
+    {
+      "apiname": "Virtuous Autocrat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtuous Autocrat",
+      "description": "Spend 10000 coins as a Fjord member"
+    },
+    {
+      "apiname": "Industrial Technocrat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrial Technocrat",
+      "description": "Spend 10000 coins as a Anglean member"
+    },
+    {
+      "apiname": "Keeper of Eden",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeper of Eden",
+      "description": "Spend 10000 coins as a Chaladon member"
+    },
+    {
+      "apiname": "Serene Magnate",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serene Magnate",
+      "description": "Spend 10000 coins as a Mercantile member"
+    },
+    {
+      "apiname": "Wayfaring Vagabond",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wayfaring Vagabond",
+      "description": "Spend 10000 coins as a Arashi member"
+    },
+    {
+      "apiname": "Majestic Sovereign",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Majestic Sovereign",
+      "description": "Spend 10000 coins as a Yesha member"
+    }
+  ]
+}

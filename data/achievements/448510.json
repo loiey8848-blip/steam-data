@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 448510,
+  "game": "Overcooked",
+  "total": 12,
+  "unlocked": 8,
+  "percent": 66.7,
+  "updated_at_utc": "2026-09-15T06:49:50.166377+00:00",
+  "achievements": [
+    {
+      "apiname": "STEAM_ACHIEVEMENT_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lettuce Begin",
+      "description": ""
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of Thyme",
+      "description": "Complete Overcooked and save the Onion Kingdom!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_2",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Kitchen Nightmares",
+      "description": ""
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_3",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "The Pieces I Ate (sorry)",
+      "description": "Complete a kitchen on a pirate ship"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All the Trimmings",
+      "description": "Be awarded three stars in every kitchen"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_5",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Out of this world",
+      "description": "Complete a kitchen in low earth orbit"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_6",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Chef Flambe",
+      "description": ""
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_7",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Closest Friends",
+      "description": "Complete a kitchen while playing with a split pad"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_8",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Best Served Cold",
+      "description": ""
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_9",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Meals on Wheels",
+      "description": ""
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Does not play well with others",
+      "description": "Complete a kitchen in versus mode"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_11",
+      "achieved": 1,
+      "unlocktime": 1510373191,
+      "name": "Overcooked",
+      "description": "Extinguish a burning kitchen"
+    }
+  ]
+}

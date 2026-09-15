@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1621690,
+  "game": "Core Keeper",
+  "total": 55,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:15.755164+00:00",
+  "achievements": [
+    {
+      "apiname": "DefeatGlurch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Slimey Encounter",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatGhorm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bugging Out",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatHivemother",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watch Your Step",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatAzeos",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From the Skies!",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMalugaz",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're a Wizard",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatIvy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toxic Personality",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatOmoroth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From the Depths!",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatMorpha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slippery When Wet",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatRaAkar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Deserts",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatIgneous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Through",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatKingSlime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slippery Shinobi",
+      "description": ""
+    },
+    {
+      "apiname": "MaxedOutMining",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diggy Diggy Hole",
+      "description": "Gained 100 skill points in mining"
+    },
+    {
+      "apiname": "MaxedOutCooking",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheese it!",
+      "description": "Gained 100 skill points in cooking"
+    },
+    {
+      "apiname": "MaxedOutFishing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completely Hooked",
+      "description": "Gained 100 skill points in fishing"
+    },
+    {
+      "apiname": "MaxedOutGardening",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nature Nurturer",
+      "description": "Gained 100 skill points in gardening"
+    },
+    {
+      "apiname": "MaxedOutMelee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...Sting like a bee",
+      "description": "Gained 100 skill points in melee"
+    },
+    {
+      "apiname": "MaxedOutRange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Robin Hood",
+      "description": "Gained 100 skill points in range"
+    },
+    {
+      "apiname": "MaxedOutVitality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Health Conscious",
+      "description": "Gained 100 skill points in vitality"
+    },
+    {
+      "apiname": "MaxedOutRunning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Float like a butterfly...",
+      "description": "Gained 100 skill points in running"
+    },
+    {
+      "apiname": "MaxedOutCrafting",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crafty Explorer",
+      "description": "Gained 100 skill points in crafting"
+    },
+    {
+      "apiname": "ObtainTheOracleDeck",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Heart of the Cards",
+      "description": ""
+    },
+    {
+      "apiname": "ObtainRuneSong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Rune Song",
+      "description": ""
+    },
+    {
+      "apiname": "ObtainPhantomSpark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Phantom Spark",
+      "description": ""
+    },
+    {
+      "apiname": "ObtainSoulSeeker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Soul Seeker",
+      "description": ""
+    },
+    {
+      "apiname": "TalkToBigLarva",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gossip Group",
+      "description": "Talked to a Big Larva"
+    },
+    {
+      "apiname": "CatchStarlightNautilus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Fossil",
+      "description": ""
+    },
+    {
+      "apiname": "GainOver200MovementSpeed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In a Rush",
+      "description": ""
+    },
+    {
+      "apiname": "Discover100CookBookRecipes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Certified Chef",
+      "description": "Discovered 100 recipes in the cook book"
+    },
+    {
+      "apiname": "HarvestGoldenIngredient",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farmer Midas",
+      "description": "Harvested a golden plant"
+    },
+    {
+      "apiname": "SitOnCavelingToiletWithACrown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Throne Fit for a King",
+      "description": ""
+    },
+    {
+      "apiname": "EquipRingOfRockAndStone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock and Stone!",
+      "description": "Equipped the Ring of Rock and Ring of Stone"
+    },
+    {
+      "apiname": "KeyArtCharacter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Impersonator Syndrome",
+      "description": ""
+    },
+    {
+      "apiname": "CherryBlossomTrees",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5 Centimeters Per Second",
+      "description": "Planted 10 Cherry Trees"
+    },
+    {
+      "apiname": "StormSong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Strange Song",
+      "description": "Play the Tune of Tempest"
+    },
+    {
+      "apiname": "FirstPet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Very First",
+      "description": "Hatched your first pet from an egg"
+    },
+    {
+      "apiname": "DefeatAtlanteanWorm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thalassophobia",
+      "description": ""
+    },
+    {
+      "apiname": "PetColors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I want ’em all!",
+      "description": "Stored all color variations of one pet type in a chest"
+    },
+    {
+      "apiname": "FeedCattle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Life",
+      "description": "Fed cattle"
+    },
+    {
+      "apiname": "PetMaxLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pet Prodigy",
+      "description": "Reached max level on a pet"
+    },
+    {
+      "apiname": "MaxedOutMagic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Wizard Is Never Late",
+      "description": "Gained 100 skill points in magic"
+    },
+    {
+      "apiname": "MaxedOutSummoning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Away From The Summoner!",
+      "description": "Gained 100 skill points in summoning"
+    },
+    {
+      "apiname": "DefeatDruidra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song of the Woods",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatCrydra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Howl of the Sea",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatPyrdra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roar of the Flames",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatCoreCommander",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visitor From A Dying World",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatUrschleim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cambrian Behemoth",
+      "description": ""
+    },
+    {
+      "apiname": "SummonManyMinions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legion Commander",
+      "description": "Had 8 or more active minions"
+    },
+    {
+      "apiname": "ObtainStormbringer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wielder of Legends",
+      "description": ""
+    },
+    {
+      "apiname": "UseWayPoint",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beam Me Up",
+      "description": "Used a waypoint"
+    },
+    {
+      "apiname": "MaxedOutExplosives",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explosion Mastery",
+      "description": "Gained 100 skill points in explosions"
+    },
+    {
+      "apiname": "DefeatNimruza",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silence the Symphony",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatOblidra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whisper of the Void",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatSahabar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calculated Prophecy",
+      "description": ""
+    },
+    {
+      "apiname": "ObtainCredenceOfRuin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Credence of Ruin",
+      "description": ""
+    },
+    {
+      "apiname": "ObtainTitanBreath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Titan Breath",
+      "description": ""
+    }
+  ]
+}

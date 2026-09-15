@@ -1,0 +1,305 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1245620,
+  "game": "ELDEN RING",
+  "total": 42,
+  "unlocked": 42,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:15.110013+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH00",
+      "achieved": 1,
+      "unlocktime": 1758001837,
+      "name": "Elden Ring",
+      "description": "Obtained all achievements"
+    },
+    {
+      "apiname": "ACH01",
+      "achieved": 1,
+      "unlocktime": 1757831934,
+      "name": "Elden Lord",
+      "description": ""
+    },
+    {
+      "apiname": "ACH02",
+      "achieved": 1,
+      "unlocktime": 1757831661,
+      "name": "Age of the Stars",
+      "description": ""
+    },
+    {
+      "apiname": "ACH03",
+      "achieved": 1,
+      "unlocktime": 1756954435,
+      "name": "Lord of Frenzied Flame",
+      "description": ""
+    },
+    {
+      "apiname": "ACH04",
+      "achieved": 1,
+      "unlocktime": 1757999883,
+      "name": "Shardbearer Godrick",
+      "description": ""
+    },
+    {
+      "apiname": "ACH05",
+      "achieved": 1,
+      "unlocktime": 1719737173,
+      "name": "Shardbearer Radahn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH06",
+      "achieved": 1,
+      "unlocktime": 1722871311,
+      "name": "Shardbearer Morgott",
+      "description": ""
+    },
+    {
+      "apiname": "ACH07",
+      "achieved": 1,
+      "unlocktime": 1722785876,
+      "name": "Shardbearer Rykard",
+      "description": ""
+    },
+    {
+      "apiname": "ACH08",
+      "achieved": 1,
+      "unlocktime": 1757999222,
+      "name": "Shardbearer Malenia",
+      "description": ""
+    },
+    {
+      "apiname": "ACH09",
+      "achieved": 1,
+      "unlocktime": 1756967875,
+      "name": "Shardbearer Mohg",
+      "description": ""
+    },
+    {
+      "apiname": "ACH10",
+      "achieved": 1,
+      "unlocktime": 1756920700,
+      "name": "Maliketh the Black Blade",
+      "description": ""
+    },
+    {
+      "apiname": "ACH11",
+      "achieved": 1,
+      "unlocktime": 1756952734,
+      "name": "Hoarah Loux, Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "ACH12",
+      "achieved": 1,
+      "unlocktime": 1757008452,
+      "name": "Dragonlord Placidusax",
+      "description": ""
+    },
+    {
+      "apiname": "ACH13",
+      "achieved": 1,
+      "unlocktime": 1719028703,
+      "name": "God-Slaying Armament",
+      "description": "Upgraded any armament to its highest stage"
+    },
+    {
+      "apiname": "ACH14",
+      "achieved": 1,
+      "unlocktime": 1757051132,
+      "name": "Legendary Armaments",
+      "description": "Acquired all legendary armaments"
+    },
+    {
+      "apiname": "ACH15",
+      "achieved": 1,
+      "unlocktime": 1757046266,
+      "name": "Legendary Ashen Remains",
+      "description": "Acquired all legendary ashen remains"
+    },
+    {
+      "apiname": "ACH16",
+      "achieved": 1,
+      "unlocktime": 1758001837,
+      "name": "Legendary Sorceries and Incantations",
+      "description": "Acquired all legendary sorceries and incantations"
+    },
+    {
+      "apiname": "ACH17",
+      "achieved": 1,
+      "unlocktime": 1757045939,
+      "name": "Legendary Talismans",
+      "description": "Acquired all legendary talismans"
+    },
+    {
+      "apiname": "ACH18",
+      "achieved": 1,
+      "unlocktime": 1719683548,
+      "name": "Rennala, Queen of the Full Moon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH19",
+      "achieved": 1,
+      "unlocktime": 1723308547,
+      "name": "Lichdragon Fortissax",
+      "description": ""
+    },
+    {
+      "apiname": "ACH20",
+      "achieved": 1,
+      "unlocktime": 1756920700,
+      "name": "Godskin Duo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH21",
+      "achieved": 1,
+      "unlocktime": 1756920700,
+      "name": "Fire Giant",
+      "description": ""
+    },
+    {
+      "apiname": "ACH22",
+      "achieved": 1,
+      "unlocktime": 1757008452,
+      "name": "Dragonkin Soldier of Nokstella",
+      "description": ""
+    },
+    {
+      "apiname": "ACH23",
+      "achieved": 1,
+      "unlocktime": 1719737173,
+      "name": "Regal Ancestor Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH24",
+      "achieved": 1,
+      "unlocktime": 1719737173,
+      "name": "Valiant Gargoyles",
+      "description": ""
+    },
+    {
+      "apiname": "ACH25",
+      "achieved": 1,
+      "unlocktime": 1645899619,
+      "name": "Margit, the Fell Omen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH26",
+      "achieved": 1,
+      "unlocktime": 1719683548,
+      "name": "Red Wolf of Radagon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH27",
+      "achieved": 1,
+      "unlocktime": 1722785876,
+      "name": "Godskin Noble",
+      "description": ""
+    },
+    {
+      "apiname": "ACH28",
+      "achieved": 1,
+      "unlocktime": 1719336450,
+      "name": "Magma Wyrm Makar",
+      "description": ""
+    },
+    {
+      "apiname": "ACH29",
+      "achieved": 1,
+      "unlocktime": 1722871311,
+      "name": "Godfrey, First Elden Lord",
+      "description": ""
+    },
+    {
+      "apiname": "ACH30",
+      "achieved": 1,
+      "unlocktime": 1722871311,
+      "name": "Mohg, the Omen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH31",
+      "achieved": 1,
+      "unlocktime": 1719737173,
+      "name": "Mimic Tear",
+      "description": ""
+    },
+    {
+      "apiname": "ACH32",
+      "achieved": 1,
+      "unlocktime": 1756967875,
+      "name": "Loretta, Knight of the Haligtree",
+      "description": ""
+    },
+    {
+      "apiname": "ACH33",
+      "achieved": 1,
+      "unlocktime": 1722617281,
+      "name": "Astel, Naturalborn of the Void",
+      "description": ""
+    },
+    {
+      "apiname": "ACH34",
+      "achieved": 1,
+      "unlocktime": 1719165846,
+      "name": "Leonine Misbegotten",
+      "description": ""
+    },
+    {
+      "apiname": "ACH35",
+      "achieved": 1,
+      "unlocktime": 1719146243,
+      "name": "Royal Knight Loretta",
+      "description": ""
+    },
+    {
+      "apiname": "ACH36",
+      "achieved": 1,
+      "unlocktime": 1757008452,
+      "name": "Elemer of the Briar",
+      "description": ""
+    },
+    {
+      "apiname": "ACH37",
+      "achieved": 1,
+      "unlocktime": 1719683548,
+      "name": "Ancestor Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH38",
+      "achieved": 1,
+      "unlocktime": 1756920700,
+      "name": "Commander Niall",
+      "description": ""
+    },
+    {
+      "apiname": "ACH39",
+      "achieved": 1,
+      "unlocktime": 1645899666,
+      "name": "Roundtable Hold",
+      "description": ""
+    },
+    {
+      "apiname": "ACH40",
+      "achieved": 1,
+      "unlocktime": 1719146243,
+      "name": "Great Rune",
+      "description": ""
+    },
+    {
+      "apiname": "ACH41",
+      "achieved": 1,
+      "unlocktime": 1756920700,
+      "name": "Erdtree Aflame",
+      "description": ""
+    }
+  ]
+}

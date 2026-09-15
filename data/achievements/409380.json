@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 409380,
+  "game": "Among the Heavens",
+  "total": 20,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:48.236140+00:00",
+  "achievements": [
+    {
+      "apiname": "ActionsCombo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain reaction",
+      "description": "Make a combo of 5 actions."
+    },
+    {
+      "apiname": "Colors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Painter",
+      "description": "Seat 4 customers onto the matching color seats in a single party."
+    },
+    {
+      "apiname": "ColorsCombo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No rainbow today",
+      "description": "Reach 5x color matching indicator over any seat"
+    },
+    {
+      "apiname": "Distance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Running man",
+      "description": "Run a total of 1000 steps serving customers."
+    },
+    {
+      "apiname": "Drinks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summer party",
+      "description": "Serve a total of 100 drinks."
+    },
+    {
+      "apiname": "Earnings1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penny earned",
+      "description": "Gain a total of 4000 points."
+    },
+    {
+      "apiname": "Earnings2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure chest",
+      "description": "Gain a total of 10000 points."
+    },
+    {
+      "apiname": "Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice makes perfect",
+      "description": "Complete 25 levels with 3 stars."
+    },
+    {
+      "apiname": "ForOneTable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All for one",
+      "description": "Receive 5000 points for a single table."
+    },
+    {
+      "apiname": "HappyCustomers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard work pays off",
+      "description": "Receive tips a total of 100 times."
+    },
+    {
+      "apiname": "NoLosses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky star",
+      "description": "Complete 15 levels without losing a customer."
+    },
+    {
+      "apiname": "Powerups",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Workaholic",
+      "description": "Use powerups 20 times."
+    },
+    {
+      "apiname": "Progress",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Success story",
+      "description": "Complete 25 levels."
+    },
+    {
+      "apiname": "RisingStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising star",
+      "description": "Complete first level with an 3 stars."
+    },
+    {
+      "apiname": "SeatCustomers1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a seat",
+      "description": "Seat 160 customers at the tables."
+    },
+    {
+      "apiname": "SeatCustomers2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Please follow me to VIP",
+      "description": "Seat 60 VIP customers at the tables."
+    },
+    {
+      "apiname": "Serving1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be my guest",
+      "description": "Serve a total of 80 customer parties."
+    },
+    {
+      "apiname": "Serving2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be my special guest",
+      "description": "Serve a total of 20 VIP customer parties."
+    },
+    {
+      "apiname": "TakeAway",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Busy hours",
+      "description": "Serve a total of 10 take-away orders."
+    },
+    {
+      "apiname": "Tips",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loyalty",
+      "description": "Gain a total of 1500 points in tips."
+    }
+  ]
+}

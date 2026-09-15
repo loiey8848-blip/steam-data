@@ -1,0 +1,585 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1716740,
+  "game": "Starfield",
+  "total": 82,
+  "unlocked": 1,
+  "percent": 1.2,
+  "updated_at_utc": "2026-09-15T06:52:18.820986+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1694838260,
+      "name": "For All, Into the Starfield",
+      "description": "Enter Space for the First Time"
+    },
+    {
+      "apiname": "2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Small Step",
+      "description": "Join Constellation"
+    },
+    {
+      "apiname": "3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Unknown",
+      "description": "Complete \"Into the Unknown\""
+    },
+    {
+      "apiname": "4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All That Money Can Buy",
+      "description": "Complete \"All That Money Can Buy\""
+    },
+    {
+      "apiname": "5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Further Into the Unknown",
+      "description": "Complete \"Further Into the Unknown\""
+    },
+    {
+      "apiname": "6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Price to Pay",
+      "description": "Complete \"High Price to Pay\""
+    },
+    {
+      "apiname": "7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Their Footsteps",
+      "description": "Complete \"In Their Footsteps\""
+    },
+    {
+      "apiname": "8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entangled",
+      "description": "Complete \"Entangled\""
+    },
+    {
+      "apiname": "9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unearthed",
+      "description": "Complete \"Unearthed\""
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Giant Leap",
+      "description": "Complete \"One Giant Leap\""
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supra et Ultra",
+      "description": "Join the UC Vanguard"
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Devils You Know",
+      "description": "Complete \"The Devils You Know\""
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Legacy Forged",
+      "description": "Complete \"A Legacy Forged\""
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deputized",
+      "description": "Join the Freestar Rangers"
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surgical Strike",
+      "description": "Complete \"Surgical Strike\""
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hammer Falls",
+      "description": "Complete \"The Hammer Falls\""
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to the Grind",
+      "description": "Join Ryujin Industries"
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guilty Parties",
+      "description": "Complete \"Guilty Parties\""
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Executive Level",
+      "description": "Complete \"Executive Level\""
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rook Meets King",
+      "description": "Join the Crimson Fleet"
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best There Is",
+      "description": "Complete \"The Best There Is\""
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legacy's End",
+      "description": "Complete \"Legacy's End\""
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Sweet Home",
+      "description": "Build an Outpost"
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipping Magnate",
+      "description": "Connect 5 Outposts with Cargo Links"
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrialist",
+      "description": "Produce 500 Total Resources from Outposts"
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chief Engineer",
+      "description": "Modify a Ship"
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stellar Cartography",
+      "description": "Visit 20 Star Systems"
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Stars My Destination",
+      "description": "Visit all Star Systems"
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boots on the Ground",
+      "description": "Land on 100 Planets"
+    },
+    {
+      "apiname": "30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fixer",
+      "description": "Complete 30 Activities"
+    },
+    {
+      "apiname": "31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Privateer",
+      "description": "Complete 30 Terminal or Misc. Missions"
+    },
+    {
+      "apiname": "32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life Begets Life",
+      "description": "Gather 500 Organic Resources"
+    },
+    {
+      "apiname": "33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock Collection",
+      "description": "Gather 500 Inorganic Resources"
+    },
+    {
+      "apiname": "34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cyber Jockey",
+      "description": "Bypass 50 Digital Locks"
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jacked In",
+      "description": "Access 50 Computers"
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier of Fortune",
+      "description": "Mod 50 Weapons"
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Replicator",
+      "description": "Craft 100 Items"
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Family You Choose",
+      "description": "Recruit 10 Separate Companions"
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starcrossed",
+      "description": "Reach Maximum Relationship Level with a Companion"
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War of Angels",
+      "description": "Collect 20 Quantum Essence"
+    },
+    {
+      "apiname": "41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fleet Commander",
+      "description": "Collect 10 Ships"
+    },
+    {
+      "apiname": "42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thirst for Knowledge",
+      "description": "Read 20 Skill Magazines"
+    },
+    {
+      "apiname": "43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Matter",
+      "description": "Eliminate 300 Human Enemies"
+    },
+    {
+      "apiname": "44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another Bug Hunt",
+      "description": "Eliminate 300 Creatures"
+    },
+    {
+      "apiname": "45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Use Them For Smuggling",
+      "description": "Successfully Smuggle Contraband"
+    },
+    {
+      "apiname": "46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust Off",
+      "description": "Reach Level 5"
+    },
+    {
+      "apiname": "47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traveler",
+      "description": "Reach Level 10"
+    },
+    {
+      "apiname": "48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite",
+      "description": "Reach Level 25"
+    },
+    {
+      "apiname": "49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Opera",
+      "description": "Reach Level 50"
+    },
+    {
+      "apiname": "50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reach for the Stars",
+      "description": "Reach Level 100"
+    },
+    {
+      "apiname": "51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Remains",
+      "description": "Complete “What Remains”"
+    },
+    {
+      "apiname": "52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Promised, Broken",
+      "description": "Complete “The Promised, Broken”"
+    },
+    {
+      "apiname": "53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zealous Overreach",
+      "description": "Complete \"Zealous Overreach\""
+    },
+    {
+      "apiname": "54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conflict in Conviction",
+      "description": "Complete \"Conflict in Conviction\""
+    },
+    {
+      "apiname": "55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exhuming the Past",
+      "description": "Complete \"Exhuming the Past\""
+    },
+    {
+      "apiname": "56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Other Side",
+      "description": "Complete “The Other Side”"
+    },
+    {
+      "apiname": "57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Scaled Citadel",
+      "description": "Complete \"The Scaled Citadel\""
+    },
+    {
+      "apiname": "58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Unknown",
+      "description": "Discover 50 Locations on Va’ruun’kai"
+    },
+    {
+      "apiname": "59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Facing Your Fears",
+      "description": "Defeat 25 Vortex Horrors"
+    },
+    {
+      "apiname": "60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redemption Arc",
+      "description": "Defeat 10 Redeemed"
+    },
+    {
+      "apiname": "61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Five of a Kind",
+      "description": "Craft one of each type of Vortex Grenade"
+    },
+    {
+      "apiname": "62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of the Promised",
+      "description": "Aid the People of Va’ruun’kai"
+    },
+    {
+      "apiname": "63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Luxury",
+      "description": "Complete “Lost Luxury”"
+    },
+    {
+      "apiname": "64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the VOID",
+      "description": "Complete “Into the VOID”"
+    },
+    {
+      "apiname": "65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of the Unifier",
+      "description": "Complete “Battle of the Unifier”"
+    },
+    {
+      "apiname": "66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This for That",
+      "description": "Build out and hand over an outpost to a faction"
+    },
+    {
+      "apiname": "67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greater Than",
+      "description": "Convince Delta that you are worthy of the title Captain"
+    },
+    {
+      "apiname": "68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Less Than",
+      "description": "Prove the superiority of artificial life"
+    },
+    {
+      "apiname": "69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incursion Fighter",
+      "description": "Clear out 5 Incursions"
+    },
+    {
+      "apiname": "70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incursion Exterminator",
+      "description": "Clear out 15 Incursions"
+    },
+    {
+      "apiname": "71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incursion Eliminator",
+      "description": "Clear out 30 Incursions"
+    },
+    {
+      "apiname": "72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overclocked",
+      "description": "Fully upgrade Delta"
+    },
+    {
+      "apiname": "73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half the Battle",
+      "description": "Let Sarah Morgan know about her action figure"
+    },
+    {
+      "apiname": "74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Equipped",
+      "description": "Find a spaceship equipment module schematic and install an equipment module on your ship"
+    },
+    {
+      "apiname": "75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Tier",
+      "description": "Apply a Rank 4 Legendary Effect to a piece of your equipment"
+    },
+    {
+      "apiname": "76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Like Grandma Used to Make",
+      "description": "Eat the questionable food offered by a spacefaring Old Woman"
+    },
+    {
+      "apiname": "77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They’re Not Toys!",
+      "description": "Collect all Action Figures"
+    },
+    {
+      "apiname": "78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contract Killer",
+      "description": "Kill 10 targets for the Arbitrator"
+    },
+    {
+      "apiname": "79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay of Execution",
+      "description": "Stop Bernhard from killing Caruso"
+    },
+    {
+      "apiname": "80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Magnetism",
+      "description": "Use a magnet to destroy the robot for Ivica in New Babylon"
+    },
+    {
+      "apiname": "81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riddle Management",
+      "description": "Prevent any deaths by answering riddles"
+    },
+    {
+      "apiname": "82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quantum Hoarder",
+      "description": "Retrieve your inventory from another universe"
+    }
+  ]
+}

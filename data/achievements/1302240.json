@@ -1,0 +1,284 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1302240,
+  "game": "Labyrinthine",
+  "total": 39,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:16.871013+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_JONNYBOOKS_ZONE1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where's the Guide?",
+      "description": "Find all of the guide books hidden in Chapter 1"
+    },
+    {
+      "apiname": "ACH_JONNYBOOKS_ZONE2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Guides?!",
+      "description": "Find all of the guide books hidden in Chapter 2"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who you gonna call?",
+      "description": "Complete Chapter 1"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50 Shades of Green",
+      "description": "Complete Chapter 2"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On my way to Cuba",
+      "description": "Complete Chapter 3"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crypt Master",
+      "description": "Complete Chapter 4"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Complete a case file",
+      "description": "Complete your first case file"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CASE_DOWNED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tis' just a flesh wound!",
+      "description": "Complete a case after being downed 5 or more times."
+    },
+    {
+      "apiname": "ACH_KILL_FRIEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheers buddy!",
+      "description": "Have a monster chasing you kill another player instead"
+    },
+    {
+      "apiname": "ACH_REVIVE_PLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trust me, I'm a doctor",
+      "description": "Revive a player for the first time."
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get out of my swamp!",
+      "description": "Complete Chapter 5"
+    },
+    {
+      "apiname": "ACH_GLOWSTICK_SKIPPING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skip King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HIT_MOSQUITO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fly Swatter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAPTER_5_COLLECTIBLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You can't hide them from me!",
+      "description": "Find all of the medallions hidden in Chapter 5"
+    },
+    {
+      "apiname": "ACH_STUNNED_FRIEND_DEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Et tu, Brute?",
+      "description": "Betray another player using the flaregun, causing them to die to a monster"
+    },
+    {
+      "apiname": "ACH_STUN_CHARGING_MONSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bulltrue",
+      "description": "Stop a charging monster with the flaregun just before it hits you"
+    },
+    {
+      "apiname": "ACH_CHAPTER_6_COLLECTIBLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seek not your fortune...",
+      "description": "Find all of the hidden miner cards in Chapter 6"
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_6_SELF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A noble sacrifice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_6_PLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I choose you!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_6_JOAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oh I don't think so.",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_CHAPTER_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Way down in the mines",
+      "description": "Complete Chapter 6"
+    },
+    {
+      "apiname": "ACH_CHAPTER_4_ALL_KEYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Key Warden",
+      "description": "Find All 10 Keys on Chapter 4"
+    },
+    {
+      "apiname": "ACH_LEVEL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 5",
+      "description": "Reached level 5 in case files"
+    },
+    {
+      "apiname": "ACH_LEVEL_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 10",
+      "description": "Reached level 10 in case files"
+    },
+    {
+      "apiname": "ACH_LEVEL_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 25",
+      "description": "Reached level 25 in case files"
+    },
+    {
+      "apiname": "ACH_LEVEL_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 50",
+      "description": "Reached level 50 in case files"
+    },
+    {
+      "apiname": "ACH_LEVEL_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 100",
+      "description": "Reached level 100 in case files"
+    },
+    {
+      "apiname": "ACH_FIND_COSMETIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look At Me!",
+      "description": "Find your first cosmetic"
+    },
+    {
+      "apiname": "ACH_FIND_25_COSMETICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Entire Wardrobe",
+      "description": "Find 25 Unique Cosmetics"
+    },
+    {
+      "apiname": "ACH_FIND_100_COSMETICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're gonna need a bigger tent...",
+      "description": "Find 100 Unique Cosmetics"
+    },
+    {
+      "apiname": "ACH_COMPLETE_HARDCORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Test of Skill",
+      "description": "Complete a hardcore case file"
+    },
+    {
+      "apiname": "ACH_COMPLETE_50_HARDCORES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Hardcore!",
+      "description": "Complete a total of 50 hardcore case files"
+    },
+    {
+      "apiname": "ACH_COMPLETE_GIANT_EXTREME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "David and Goliath",
+      "description": "Complete an Extreme Giant map"
+    },
+    {
+      "apiname": "ACH_SPEND_1000_TICKETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Pockets",
+      "description": "Spend 1,000 total tickets in the shop"
+    },
+    {
+      "apiname": "ACH_SPEND_10000_TICKETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shopaholic",
+      "description": "Spend 10,000 total tickets in the shop"
+    },
+    {
+      "apiname": "ACH_BUY_ALL_STORE_COSMETICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Price on Fashion",
+      "description": "Buy every cosmetic in the shop"
+    },
+    {
+      "apiname": "ACH_EQUIP_EVERY_CUSTOMIZATION_SLOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look at the Drip",
+      "description": "Wear a cosmetic in every available cosmetic slot"
+    },
+    {
+      "apiname": "ACH_COMPLETE_ALL_DAILY_QUESTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On a mission... Or four!",
+      "description": "Complete all daily quests for the day"
+    },
+    {
+      "apiname": "ACH_FIND_PIGMASK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How did this get here?",
+      "description": ""
+    }
+  ]
+}

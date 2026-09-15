@@ -1,0 +1,417 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 976310,
+  "game": "Mortal Kombat 11",
+  "total": 58,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:06.927246+00:00",
+  "achievements": [
+    {
+      "apiname": "trophy-ID001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hit The Dojo",
+      "description": "Komplete all Basics Tutorials"
+    },
+    {
+      "apiname": "trophy-ID002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready To Kompete",
+      "description": "Komplete all Advanced Tutorials"
+    },
+    {
+      "apiname": "trophy-ID003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bad Match Ups",
+      "description": "Komplete all Strategy Tutorials"
+    },
+    {
+      "apiname": "trophy-ID004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood In The Water",
+      "description": "Spill 10,000 pints of blood"
+    },
+    {
+      "apiname": "trophy-ID005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Encounter",
+      "description": "Perform 15 different FATALITIES"
+    },
+    {
+      "apiname": "trophy-ID006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MURDER!!!",
+      "description": "Perform 30 different FATALITIES"
+    },
+    {
+      "apiname": "trophy-ID007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brutal End",
+      "description": "Perform 25 BRUTALITIES"
+    },
+    {
+      "apiname": "trophy-ID008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Psychopath",
+      "description": "Perform 100 BRUTALITIES"
+    },
+    {
+      "apiname": "trophy-ID009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Dead Yet",
+      "description": "Show MERCY 10 times"
+    },
+    {
+      "apiname": "trophy-ID010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grave Robber",
+      "description": "Open 200 Krypt chests"
+    },
+    {
+      "apiname": "trophy-ID011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kompetitor",
+      "description": "Play 50 Kasual Versus matches"
+    },
+    {
+      "apiname": "trophy-ID012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half Way There",
+      "description": "Komplete 50% of Story Mode"
+    },
+    {
+      "apiname": "trophy-ID013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What's Next?",
+      "description": "Komplete Story Mode"
+    },
+    {
+      "apiname": "trophy-ID014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R-E-S-P-E-C-T",
+      "description": "Pay 100 total respect points in King of the Hill"
+    },
+    {
+      "apiname": "trophy-ID015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Klassic",
+      "description": "Komplete a Novice, Warrior, or Champion Klassic Tower once"
+    },
+    {
+      "apiname": "trophy-ID016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Want It All",
+      "description": "Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different kharacters"
+    },
+    {
+      "apiname": "trophy-ID017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enough Already",
+      "description": "Hit the Gong in the Krypt"
+    },
+    {
+      "apiname": "trophy-ID018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tower Champion",
+      "description": "Komplete 125 Towers"
+    },
+    {
+      "apiname": "trophy-ID019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Time",
+      "description": "Komplete 250 Towers"
+    },
+    {
+      "apiname": "trophy-ID020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco's Not Dead",
+      "description": "Flip Stance 50 times during a match"
+    },
+    {
+      "apiname": "trophy-ID021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork",
+      "description": "Play a Group Battle with 2 other players"
+    },
+    {
+      "apiname": "trophy-ID022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thrashed",
+      "description": "Perform 2 different FATALITIES with Baraka"
+    },
+    {
+      "apiname": "trophy-ID023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family Values",
+      "description": "Perform 2 different FATALITIES with Cassie Cage"
+    },
+    {
+      "apiname": "trophy-ID024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balanced",
+      "description": "Perform 2 different FATALITIES with Cetrion"
+    },
+    {
+      "apiname": "trophy-ID025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cyber Initiative",
+      "description": "Perform 2 different FATALITIES with Frost"
+    },
+    {
+      "apiname": "trophy-ID026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bugging Out",
+      "description": "Perform 2 different FATALITIES with D'Vorah"
+    },
+    {
+      "apiname": "trophy-ID027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kollecting Bounties",
+      "description": "Perform 2 different FATALITIES with Erron Black"
+    },
+    {
+      "apiname": "trophy-ID028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pound Town",
+      "description": "Perform 2 different FATALITIES with Jacqui Briggs"
+    },
+    {
+      "apiname": "trophy-ID029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Guard",
+      "description": "Perform 2 different FATALITIES with Jade"
+    },
+    {
+      "apiname": "trophy-ID030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Some",
+      "description": "Perform 2 different FATALITIES with Jax"
+    },
+    {
+      "apiname": "trophy-ID031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caged",
+      "description": "Perform 2 different FATALITIES with Johnny Cage"
+    },
+    {
+      "apiname": "trophy-ID032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ka-Ballin",
+      "description": "Perform 2 different FATALITIES with Kabal"
+    },
+    {
+      "apiname": "trophy-ID033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonzer Bog",
+      "description": "Perform 2 different FATALITIES with Kano"
+    },
+    {
+      "apiname": "trophy-ID034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Princess Power",
+      "description": "Perform 2 different FATALITIES with Kitana"
+    },
+    {
+      "apiname": "trophy-ID035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kollected",
+      "description": "Perform 2 different FATALITIES with Kollector"
+    },
+    {
+      "apiname": "trophy-ID036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sacrifice",
+      "description": "Perform 2 different FATALITIES with Kotal Kahn"
+    },
+    {
+      "apiname": "trophy-ID037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hat Trick",
+      "description": "Perform 2 different FATALITIES with Kung Lao"
+    },
+    {
+      "apiname": "trophy-ID038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bag Boy",
+      "description": "Perform 2 different FATALITIES with Liu Kang"
+    },
+    {
+      "apiname": "trophy-ID039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Dose Of Deadly",
+      "description": "Perform 2 different FATALITIES with Noob"
+    },
+    {
+      "apiname": "trophy-ID040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Struck Down",
+      "description": "Perform 2 different FATALITIES with Raiden"
+    },
+    {
+      "apiname": "trophy-ID041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Ends",
+      "description": "Perform 2 different FATALITIES with Scorpion"
+    },
+    {
+      "apiname": "trophy-ID042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Bath",
+      "description": "Perform 2 different FATALITIES with Skarlet"
+    },
+    {
+      "apiname": "trophy-ID043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Target Eliminated",
+      "description": "Perform 2 different FATALITIES with Sonya"
+    },
+    {
+      "apiname": "trophy-ID044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On Ice",
+      "description": "Perform 2 different FATALITIES with Sub-Zero"
+    },
+    {
+      "apiname": "trophy-ID045",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turn Back Time",
+      "description": "Perform 2 different FATALITIES with Geras"
+    },
+    {
+      "apiname": "trophy-ID046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Disrespect",
+      "description": "Defeat an opponent as Bug-Vorah"
+    },
+    {
+      "apiname": "trophy-ID047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oh My Days",
+      "description": "Duck 100 times during a match"
+    },
+    {
+      "apiname": "trophy-ID048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My AI Can Do It",
+      "description": "Play 10 AI Battle Simulator sets"
+    },
+    {
+      "apiname": "trophy-ID049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puppet Master",
+      "description": "Play 25 AI Battle Simulator sets"
+    },
+    {
+      "apiname": "trophy-ID050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Magic Shoes",
+      "description": "Run 5 miles in the Krypt"
+    },
+    {
+      "apiname": "trophy-ID051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have We Met",
+      "description": "Equip 5 different character intros"
+    },
+    {
+      "apiname": "trophy-ID052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victorious",
+      "description": "Equip 5 different character victories"
+    },
+    {
+      "apiname": "trophy-ID053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Power",
+      "description": "Use 50 Konsumables"
+    },
+    {
+      "apiname": "trophy-ID054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Konsumed",
+      "description": "Use 100 konsumables"
+    },
+    {
+      "apiname": "trophy-ID055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Over Here",
+      "description": "Spear 50 hanging bodies in the Krypt"
+    },
+    {
+      "apiname": "trophy-ID056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skull Kabob",
+      "description": "Impale a head in the warrior shrine"
+    },
+    {
+      "apiname": "trophy-ID057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gimme Dat Money",
+      "description": "Spend 50,000 koins in the Naknadan shrine"
+    },
+    {
+      "apiname": "trophy-ID058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thank You For Being A Fan",
+      "description": "Reach The Kredits"
+    }
+  ]
+}

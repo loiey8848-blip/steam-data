@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3167020,
+  "game": "Escape from Duckov",
+  "total": 55,
+  "unlocked": 55,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:26.937366+00:00",
+  "achievements": [
+    {
+      "apiname": "FirstBlood",
+      "achieved": 1,
+      "unlocktime": 1760846350,
+      "name": "First Blood",
+      "description": "Defeat the first enemy."
+    },
+    {
+      "apiname": "Quest_937",
+      "achieved": 1,
+      "unlocktime": 1761235092,
+      "name": "King of Fishing",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_807",
+      "achieved": 1,
+      "unlocktime": 1761058526,
+      "name": "Golden Sniper",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_887",
+      "achieved": 1,
+      "unlocktime": 1761045070,
+      "name": "Expert Courier",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_913",
+      "achieved": 1,
+      "unlocktime": 1760928005,
+      "name": "Red cap, White Stalk",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_875",
+      "achieved": 1,
+      "unlocktime": 1761144456,
+      "name": "Nine Dragons Coffin",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_999",
+      "achieved": 1,
+      "unlocktime": 1761308210,
+      "name": "Game Master",
+      "description": ""
+    },
+    {
+      "apiname": "Quest_1999",
+      "achieved": 1,
+      "unlocktime": 1761222565,
+      "name": "First Class",
+      "description": ""
+    },
+    {
+      "apiname": "Arrive_Base",
+      "achieved": 1,
+      "unlocktime": 1760846533,
+      "name": "Escape Artist",
+      "description": "Reached the Bunker."
+    },
+    {
+      "apiname": "Arrive_Level_GroundZero_Main",
+      "achieved": 1,
+      "unlocktime": 1760846745,
+      "name": "Fresh Air",
+      "description": "Reached Ground Zero."
+    },
+    {
+      "apiname": "Arrive_Level_HiddenWarehouse_Main",
+      "achieved": 1,
+      "unlocktime": 1760868789,
+      "name": "Warehouse Area",
+      "description": "Reached Warehouse Area."
+    },
+    {
+      "apiname": "Arrive_Level_Farm_Main",
+      "achieved": 1,
+      "unlocktime": 1760884230,
+      "name": "Farm Town",
+      "description": "Reached Farm Town."
+    },
+    {
+      "apiname": "Arrive_Level_JLab_Main",
+      "achieved": 1,
+      "unlocktime": 1761021772,
+      "name": "Lab",
+      "description": "Reached the Lab."
+    },
+    {
+      "apiname": "Arrive_Level_StormZone_Main",
+      "achieved": 1,
+      "unlocktime": 1761149895,
+      "name": "Storm Area",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_0",
+      "achieved": 1,
+      "unlocktime": 1761153057,
+      "name": "Survivor",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_1",
+      "achieved": 1,
+      "unlocktime": 1761222565,
+      "name": "Moving Target",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_2",
+      "achieved": 1,
+      "unlocktime": 1761222981,
+      "name": "Escape Alive",
+      "description": ""
+    },
+    {
+      "apiname": "Evacuate_Level_GroundZero_Main",
+      "achieved": 1,
+      "unlocktime": 1760847050,
+      "name": "Newcomer",
+      "description": ""
+    },
+    {
+      "apiname": "Money_10K",
+      "achieved": 1,
+      "unlocktime": 1760855135,
+      "name": "Self-made Success",
+      "description": "Savings reached 10,000."
+    },
+    {
+      "apiname": "Money_100K",
+      "achieved": 1,
+      "unlocktime": 1760895118,
+      "name": "Middle Class",
+      "description": "Savings reached 100,000."
+    },
+    {
+      "apiname": "Money_1M",
+      "achieved": 1,
+      "unlocktime": 1761308519,
+      "name": "Millionaire",
+      "description": "Savings reached 1,000,000."
+    },
+    {
+      "apiname": "Kill_Cname_ShortEagle_10",
+      "achieved": 1,
+      "unlocktime": 1760865000,
+      "name": "Grinder Sharpshooter",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_ShortEagle_1",
+      "achieved": 1,
+      "unlocktime": 1760848754,
+      "name": "Overlord of Ground Zero",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Speedy_1",
+      "achieved": 1,
+      "unlocktime": 1760879851,
+      "name": "Speedy Group Commander",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Boss_Sniper_1",
+      "achieved": 1,
+      "unlocktime": 1760878993,
+      "name": "Judgment on Lordon",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Vida_1",
+      "achieved": 1,
+      "unlocktime": 1760973616,
+      "name": "Kill Vida",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Roadblock_1",
+      "achieved": 1,
+      "unlocktime": 1761147540,
+      "name": "Entry Ticket",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_SchoolBully_1",
+      "achieved": 1,
+      "unlocktime": 1760972613,
+      "name": "School Bully",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Boss_Fly_1",
+      "achieved": 1,
+      "unlocktime": 1760898011,
+      "name": "Insect Nemesis",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_Boss_Arcade_1",
+      "achieved": 1,
+      "unlocktime": 1760884353,
+      "name": "Star of Peace (Fake)",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_UltraMan_1",
+      "achieved": 1,
+      "unlocktime": 1760863599,
+      "name": "Do You Believe in Light",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_LabTestObjective_1",
+      "achieved": 1,
+      "unlocktime": 1761147308,
+      "name": "What a Surprise",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_StormBoss1_1",
+      "achieved": 1,
+      "unlocktime": 1761150201,
+      "name": "Pulu Pulu",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_StormBoss2_1",
+      "achieved": 1,
+      "unlocktime": 1761151829,
+      "name": "Gulu Gulu",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_StormBoss3_1",
+      "achieved": 1,
+      "unlocktime": 1761151505,
+      "name": "Pala Pala",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_StormBoss4_1",
+      "achieved": 1,
+      "unlocktime": 1761150537,
+      "name": "Billy Billy",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Cname_StormBoss5_1",
+      "achieved": 1,
+      "unlocktime": 1761155185,
+      "name": "Koko Koko",
+      "description": ""
+    },
+    {
+      "apiname": "Building_MiningMachine",
+      "achieved": 1,
+      "unlocktime": 1761020015,
+      "name": "Passive Income",
+      "description": "Now you can earn money automatically."
+    },
+    {
+      "apiname": "Building_Merchant_Ming",
+      "achieved": 1,
+      "unlocktime": 1760854166,
+      "name": "Tech Expert",
+      "description": ""
+    },
+    {
+      "apiname": "Building_Merchant_Weapon",
+      "achieved": 1,
+      "unlocktime": 1760851594,
+      "name": "Arms Dealer",
+      "description": ""
+    },
+    {
+      "apiname": "Building_Merchant_Equipment",
+      "achieved": 1,
+      "unlocktime": 1760851417,
+      "name": "Fully Armed",
+      "description": ""
+    },
+    {
+      "apiname": "Building_Gem",
+      "achieved": 1,
+      "unlocktime": 1760849327,
+      "name": "Fitness Coach",
+      "description": ""
+    },
+    {
+      "apiname": "Building_Kitchen",
+      "achieved": 1,
+      "unlocktime": 1760855249,
+      "name": "Air Force Commander",
+      "description": ""
+    },
+    {
+      "apiname": "Building_DemoTrophy",
+      "achieved": 1,
+      "unlocktime": 1760967272,
+      "name": "All-Rounder​",
+      "description": ""
+    },
+    {
+      "apiname": "Endowmment_Surviver",
+      "achieved": 1,
+      "unlocktime": 1760884230,
+      "name": "Survivor",
+      "description": "Unlocked the Survivor talent."
+    },
+    {
+      "apiname": "Endowmment_Porter",
+      "achieved": 1,
+      "unlocktime": 1760897437,
+      "name": "Porter",
+      "description": "Unlocked the Porter talent."
+    },
+    {
+      "apiname": "Endowmment_Berserker",
+      "achieved": 1,
+      "unlocktime": 1760880085,
+      "name": "Berserker",
+      "description": "Unlocked the Berserker talent."
+    },
+    {
+      "apiname": "Endowmment_Marksman",
+      "achieved": 1,
+      "unlocktime": 1760967179,
+      "name": "Marksman",
+      "description": "Unlocked the Marksman talent."
+    },
+    {
+      "apiname": "Perk_Main_49",
+      "achieved": 1,
+      "unlocktime": 1761191980,
+      "name": "Firearm Grandmaster",
+      "description": "Unlocked Firearm Grandmaster skill."
+    },
+    {
+      "apiname": "Perk_Physical_33",
+      "achieved": 1,
+      "unlocktime": 1761153453,
+      "name": "Cardio Training",
+      "description": "Performed aerobic training."
+    },
+    {
+      "apiname": "Perk_Damage_2",
+      "achieved": 1,
+      "unlocktime": 1761223254,
+      "name": "Modular",
+      "description": "Unlocked Damage Module II."
+    },
+    {
+      "apiname": "Perk_RefreshChance_4",
+      "achieved": 1,
+      "unlocktime": 1761045070,
+      "name": "Wealth from All Sides",
+      "description": "Upgraded the Black Market to its highest level."
+    },
+    {
+      "apiname": "Perk_Storage_t_VIP",
+      "achieved": 1,
+      "unlocktime": 1760894983,
+      "name": "Mega Warehouse",
+      "description": "Unlocked VIP warehouse expansion."
+    },
+    {
+      "apiname": "Escape_From_Duckov",
+      "achieved": 1,
+      "unlocktime": 1761153120,
+      "name": "Escape From Duckov",
+      "description": "Reached the end of the game."
+    },
+    {
+      "apiname": "Ending_3",
+      "achieved": 1,
+      "unlocktime": 1761222912,
+      "name": "District 9",
+      "description": ""
+    }
+  ]
+}

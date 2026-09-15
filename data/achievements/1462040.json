@@ -1,0 +1,452 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1462040,
+  "game": "FINAL FANTASY VII REMAKE INTERGRADE",
+  "total": 63,
+  "unlocked": 6,
+  "percent": 9.5,
+  "updated_at_utc": "2026-09-15T06:51:51.672288+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Fate",
+      "description": "Earn all FINAL FANTASY VII REMAKE achievements."
+    },
+    {
+      "apiname": "ACH_01",
+      "achieved": 1,
+      "unlocktime": 1778667413,
+      "name": "Onetime Gig",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_02",
+      "achieved": 1,
+      "unlocktime": 1778669979,
+      "name": "Escape Artist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercenary Endeavors",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night on the Town",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plan E",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lights Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trapped like Sewer Rats",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunited",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never the Bride",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sewer Survivor",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paranormal Investigator",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Collapse",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broken Dreams",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Picking Up the Pieces",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pizza in the Sky",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Appointment Needed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emerging from Chaos",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny's Crossroads",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 1,
+      "unlocktime": 1778664785,
+      "name": "Warming Up",
+      "description": "Win a battle."
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 1,
+      "unlocktime": 1778666609,
+      "name": "Weakened Resolve",
+      "description": "Exploit an enemy's weakness."
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonds of Friendship",
+      "description": "Free a bound ally."
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 1,
+      "unlocktime": 1778665293,
+      "name": "Staggering Start",
+      "description": "Stagger an enemy."
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 1,
+      "unlocktime": 1778829674,
+      "name": "Music Collector",
+      "description": "Collect 3 music discs."
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Start Somewhere",
+      "description": "Complete a quest."
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My First Ability",
+      "description": "Max out a weapon's proficiency."
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Materia for Beginners",
+      "description": "Level up an orb of materia."
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My First Summon",
+      "description": "Invoke a summon."
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biker Boy",
+      "description": "Get praised by Jessie at the end of the motorcycle mini-game."
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavenly Dart Player",
+      "description": "Rise to the top of the Seventh Heaven darts leaderboard."
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleanup Crew",
+      "description": "Obtain the Chocobo & Moogle materia."
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Lockstep",
+      "description": "Bypass the delta-level security lock in Mako Reactor 5."
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crate Annihilator",
+      "description": "Complete all Normal difficulty Whack-a-Box challenges."
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say It with Flowers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summon Slayer",
+      "description": "Defeat a summon in battle."
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sultan of Squat",
+      "description": "Complete all squat challenges."
+    },
+    {
+      "apiname": "ACH_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dancing Queen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Returning Champion",
+      "description": "Emerge victorious from a colosseum sparring session."
+    },
+    {
+      "apiname": "ACH_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snappy Dresser",
+      "description": "Obtain three bridal candidate outfits."
+    },
+    {
+      "apiname": "ACH_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dressed to the Nines",
+      "description": "Obtain all nine bridal candidate outfits."
+    },
+    {
+      "apiname": "ACH_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whack-a-Box Wunderkind",
+      "description": "Complete all Hard difficulty Whack-a-Box challenges."
+    },
+    {
+      "apiname": "ACH_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peeress of Pull-Ups",
+      "description": "Complete all pull-up challenges."
+    },
+    {
+      "apiname": "ACH_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Gratitude",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Johnny Experience",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best in the Business",
+      "description": "Complete all quests."
+    },
+    {
+      "apiname": "ACH_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disc Jockey",
+      "description": "Collect all music discs."
+    },
+    {
+      "apiname": "ACH_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Building Character",
+      "description": "Attain level 50 with a character."
+    },
+    {
+      "apiname": "ACH_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staggering Feat",
+      "description": "Deal 300% damage to a staggered enemy."
+    },
+    {
+      "apiname": "ACH_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intelligence Agent",
+      "description": "Complete all battle intel reports."
+    },
+    {
+      "apiname": "ACH_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons Expert",
+      "description": "Learn all weapon abilities for Cloud, Barret, Tifa, and Aerith."
+    },
+    {
+      "apiname": "ACH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Mimicry",
+      "description": "Learn all enemy skills."
+    },
+    {
+      "apiname": "ACH_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's the Smell",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Weapon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardened Veteran",
+      "description": "Complete all chapters of the main story on Hard difficulty."
+    },
+    {
+      "apiname": "ACH_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Takes Two IDs to Tango",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of Darkness's Clutches",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Road to Revenge",
+      "description": "Complete both chapters of INTERmission on Hard difficulty."
+    },
+    {
+      "apiname": "ACH_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turtle-tastic",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Game, Set, Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Condor Queen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Materia Maven",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Weapon 2.0",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corrupter of the Immaculate",
+      "description": ""
+    }
+  ]
+}

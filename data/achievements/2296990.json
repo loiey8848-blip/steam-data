@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2296990,
+  "game": "We Were Here Expeditions: The FriendShip",
+  "total": 12,
+  "unlocked": 5,
+  "percent": 41.7,
+  "updated_at_utc": "2026-09-15T06:52:44.588852+00:00",
+  "achievements": [
+    {
+      "apiname": "WeighAnchorSetSail",
+      "achieved": 1,
+      "unlocktime": 1727096732,
+      "name": "Weigh Anchor, Set Sail!",
+      "description": "Obtained access to The Friendship"
+    },
+    {
+      "apiname": "WelcomeAboard",
+      "achieved": 1,
+      "unlocktime": 1727096938,
+      "name": "Welcome Aboard!",
+      "description": "Joined the Captain's crew"
+    },
+    {
+      "apiname": "TheArtOfParley",
+      "achieved": 1,
+      "unlocktime": 1727098027,
+      "name": "The Art of Parley",
+      "description": "Obtained a ticket from Crewmate Carousel"
+    },
+    {
+      "apiname": "TilesTrailsTreasure",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiles, Trails, Treasure!",
+      "description": "Obtained a ticket from Maps & Markers"
+    },
+    {
+      "apiname": "PelagicPerils",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pelagic Perils",
+      "description": "Obtained a ticket from Siren's Curse"
+    },
+    {
+      "apiname": "GoldPact",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Pact",
+      "description": "Achieved a maximum score in Crewmate Carousel"
+    },
+    {
+      "apiname": "TheGoldenRatio",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Golden Ratio",
+      "description": "Achieved a maximum score in Maps & Markers"
+    },
+    {
+      "apiname": "GoldMedalCrewmates",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Medal Crewmates",
+      "description": "Achieved a maximum score in Siren's Curse"
+    },
+    {
+      "apiname": "OurFriendshipIsGolden",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Our Friendship is Golden",
+      "description": "Achieved a maximum score in all trials and assembled the Golden Friend Ship!"
+    },
+    {
+      "apiname": "WeCanDoBetter",
+      "achieved": 1,
+      "unlocktime": 1727097099,
+      "name": "We Can Do Better!",
+      "description": "Shred 5 tickets"
+    },
+    {
+      "apiname": "ShipDip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship Dip!",
+      "description": "Completed the trials and launched a sea-worthy vessel!"
+    },
+    {
+      "apiname": "AssembleACrew",
+      "achieved": 1,
+      "unlocktime": 1727102574,
+      "name": "Assemble a Crew!",
+      "description": "Invite a friend to play We Were Here: The Friendship!"
+    }
+  ]
+}

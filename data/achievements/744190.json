@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 744190,
+  "game": "Rusty Lake Paradise",
+  "total": 50,
+  "unlocked": 27,
+  "percent": 54.0,
+  "updated_at_utc": "2026-09-15T06:50:36.889487+00:00",
+  "achievements": [
+    {
+      "apiname": "achievement_0",
+      "achieved": 1,
+      "unlocktime": 1516169710,
+      "name": "Welcome to Paradise",
+      "description": "Water Turns Into Blood - 1"
+    },
+    {
+      "apiname": "achievement_1",
+      "achieved": 1,
+      "unlocktime": 1516169820,
+      "name": "The Eilander Family",
+      "description": "Water Turns Into Blood - 2"
+    },
+    {
+      "apiname": "achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Save The Goat",
+      "description": "Water Turns Into Blood - 3"
+    },
+    {
+      "apiname": "achievement_3",
+      "achieved": 1,
+      "unlocktime": 1516170231,
+      "name": "It's Me!",
+      "description": "Water Turns Into Blood - 4"
+    },
+    {
+      "apiname": "achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First Symbol",
+      "description": "Water Turns Into Blood - 5"
+    },
+    {
+      "apiname": "achievement_5",
+      "achieved": 1,
+      "unlocktime": 1516170653,
+      "name": "The First Frog",
+      "description": "Frogs - 1"
+    },
+    {
+      "apiname": "achievement_6",
+      "achieved": 1,
+      "unlocktime": 1516171352,
+      "name": "A Rusty Key",
+      "description": "Frogs - 2"
+    },
+    {
+      "apiname": "achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I only play guitar",
+      "description": "Frogs - 3"
+    },
+    {
+      "apiname": "achievement_8",
+      "achieved": 1,
+      "unlocktime": 1516170663,
+      "name": "Reflection in the Water",
+      "description": "Frogs - 4"
+    },
+    {
+      "apiname": "achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Second Symbol",
+      "description": "Frogs - 5"
+    },
+    {
+      "apiname": "achievement_10",
+      "achieved": 1,
+      "unlocktime": 1516172385,
+      "name": "Spitting Larva",
+      "description": "Lice & Gnats - 1"
+    },
+    {
+      "apiname": "achievement_11",
+      "achieved": 1,
+      "unlocktime": 1516172668,
+      "name": "Earcut",
+      "description": "Lice & Gnats - 2"
+    },
+    {
+      "apiname": "achievement_12",
+      "achieved": 1,
+      "unlocktime": 1516172051,
+      "name": "The Butterfly",
+      "description": "Lice & Gnats - 3"
+    },
+    {
+      "apiname": "achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvey",
+      "description": "Lice & Gnats - 4"
+    },
+    {
+      "apiname": "achievement_14",
+      "achieved": 1,
+      "unlocktime": 1516172505,
+      "name": "The Third Symbol",
+      "description": "Lice & Gnats - 5"
+    },
+    {
+      "apiname": "achievement_15",
+      "achieved": 1,
+      "unlocktime": 1516172814,
+      "name": "First Flight",
+      "description": "Flies - 1 "
+    },
+    {
+      "apiname": "achievement_16",
+      "achieved": 1,
+      "unlocktime": 1516174887,
+      "name": "A Bloody Encounter",
+      "description": "Flies - 2"
+    },
+    {
+      "apiname": "achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hungry Ghost",
+      "description": "Flies - 3"
+    },
+    {
+      "apiname": "achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watch Closely!",
+      "description": "Flies - 4"
+    },
+    {
+      "apiname": "achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fourth Symbol",
+      "description": "Flies - 5"
+    },
+    {
+      "apiname": "achievement_20",
+      "achieved": 1,
+      "unlocktime": 1516176525,
+      "name": "Holy Cow",
+      "description": "Diseased Livestock - 1"
+    },
+    {
+      "apiname": "achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Rusty Lake Burger",
+      "description": "Diseased Livestock - 2"
+    },
+    {
+      "apiname": "achievement_22",
+      "achieved": 1,
+      "unlocktime": 1516176365,
+      "name": "Wild Boar",
+      "description": "Diseased Livestock - 3"
+    },
+    {
+      "apiname": "achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dutch Gouda Cheese",
+      "description": "Diseased Livestock - 4"
+    },
+    {
+      "apiname": "achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fifth Symbol",
+      "description": "Diseased Livestock - 5"
+    },
+    {
+      "apiname": "achievement_25",
+      "achieved": 1,
+      "unlocktime": 1516177229,
+      "name": "Meet The Plague Doctor",
+      "description": "Boils - 1"
+    },
+    {
+      "apiname": "achievement_26",
+      "achieved": 1,
+      "unlocktime": 1516178294,
+      "name": "Time is Ticking",
+      "description": "Boils - 2"
+    },
+    {
+      "apiname": "achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nosebleed",
+      "description": "Boils - 3"
+    },
+    {
+      "apiname": "achievement_28",
+      "achieved": 1,
+      "unlocktime": 1516177804,
+      "name": "Touch the...",
+      "description": "Boils - 4"
+    },
+    {
+      "apiname": "achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sixth Symbol ",
+      "description": "Boils - 5"
+    },
+    {
+      "apiname": "achievement_30",
+      "achieved": 1,
+      "unlocktime": 1516178881,
+      "name": "Two Ice Creams!",
+      "description": "Hail - 1"
+    },
+    {
+      "apiname": "achievement_31",
+      "achieved": 1,
+      "unlocktime": 1516179498,
+      "name": "Let it Snow!",
+      "description": "Hail - 2"
+    },
+    {
+      "apiname": "achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hand",
+      "description": "Hail - 3"
+    },
+    {
+      "apiname": "achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From The Deep",
+      "description": "Hail - 4"
+    },
+    {
+      "apiname": "achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Seventh Symbol ",
+      "description": "Hail - 5"
+    },
+    {
+      "apiname": "achievement_35",
+      "achieved": 1,
+      "unlocktime": 1516180074,
+      "name": "Here is Jakob!",
+      "description": "Locusts - 1"
+    },
+    {
+      "apiname": "achievement_36",
+      "achieved": 1,
+      "unlocktime": 1516180622,
+      "name": "Locust Egg",
+      "description": "Locusts - 2"
+    },
+    {
+      "apiname": "achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow Me",
+      "description": "Locusts - 3"
+    },
+    {
+      "apiname": "achievement_38",
+      "achieved": 1,
+      "unlocktime": 1516180622,
+      "name": "The Butterly Effect",
+      "description": "Locusts - 4"
+    },
+    {
+      "apiname": "achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Eighth Symbol",
+      "description": "Locusts - 5"
+    },
+    {
+      "apiname": "achievement_40",
+      "achieved": 1,
+      "unlocktime": 1516183005,
+      "name": "Your Mother's Bones",
+      "description": "Darkness - 1"
+    },
+    {
+      "apiname": "achievement_41",
+      "achieved": 1,
+      "unlocktime": 1516181675,
+      "name": "Bloody Moon",
+      "description": "Darkness - 2"
+    },
+    {
+      "apiname": "achievement_42",
+      "achieved": 1,
+      "unlocktime": 1516182997,
+      "name": "The Owls are not what they seem",
+      "description": "Darkness - 3"
+    },
+    {
+      "apiname": "achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Crow",
+      "description": "Darkness - 4"
+    },
+    {
+      "apiname": "achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ninth Symbol",
+      "description": "Darkness - 5"
+    },
+    {
+      "apiname": "achievement_45",
+      "achieved": 1,
+      "unlocktime": 1516183179,
+      "name": "Glorious Day of The Lake",
+      "description": "Dead of the Firstborn - 1"
+    },
+    {
+      "apiname": "achievement_46",
+      "achieved": 1,
+      "unlocktime": 1516184117,
+      "name": "Fried Egg",
+      "description": "Dead of the Firstborn - 2"
+    },
+    {
+      "apiname": "achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Owl Mask",
+      "description": "Dead of the Firstborn - 3"
+    },
+    {
+      "apiname": "achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paradise Will Rise Again!",
+      "description": "Dead of the Firstborn - 4"
+    },
+    {
+      "apiname": "achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tenth Symbol",
+      "description": "Death of the Firstborn - 5"
+    }
+  ]
+}

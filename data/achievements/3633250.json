@@ -1,0 +1,207 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3633250,
+  "game": "Junji Ito Maniac: An Infinite Gaol",
+  "total": 28,
+  "unlocked": 28,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:32.510796+00:00",
+  "achievements": [
+    {
+      "apiname": "WhoAmI",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Who Am I?",
+      "description": "Start a new game."
+    },
+    {
+      "apiname": "HeroWhoRescuedtheGirl",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Code of Chivalry",
+      "description": "Meet with the mysterious girl in the master bedroom."
+    },
+    {
+      "apiname": "Companion?Murderer?",
+      "achieved": 1,
+      "unlocktime": 1764908840,
+      "name": "Companion...or Killer?",
+      "description": "With Tomie, find Rin acting suspiciously in the garden."
+    },
+    {
+      "apiname": "TheFinalTruth",
+      "achieved": 1,
+      "unlocktime": 1763573794,
+      "name": "The Truth",
+      "description": "Enter the final room."
+    },
+    {
+      "apiname": "GuardianoftheHead",
+      "achieved": 1,
+      "unlocktime": 1764922677,
+      "name": "Guardian of Heads",
+      "description": "Successfully escape from the balloon head and get back in the mansion."
+    },
+    {
+      "apiname": "GrandAlchemist",
+      "achieved": 1,
+      "unlocktime": 1764922689,
+      "name": "Alchemy Master",
+      "description": "In the darkroom, prepare the holy water used to destroy the black magic."
+    },
+    {
+      "apiname": "Tunnel",
+      "achieved": 1,
+      "unlocktime": 1763575427,
+      "name": "The Tunnel",
+      "description": "Leave the mansion from the main door in the foyer."
+    },
+    {
+      "apiname": "Abyss",
+      "achieved": 1,
+      "unlocktime": 1764959096,
+      "name": "Into the Abyss",
+      "description": "Enter the basement from the gold doors and uncover the truth."
+    },
+    {
+      "apiname": "Maniac",
+      "achieved": 1,
+      "unlocktime": 1764928464,
+      "name": "Maniac",
+      "description": "Enter the secret room from the silver doors and uncover the truth."
+    },
+    {
+      "apiname": "TheMaster’sPooperScooper",
+      "achieved": 1,
+      "unlocktime": 1764924112,
+      "name": "Professional Poop Scooper",
+      "description": "Don't miss a single chance to feed the cat. Meow."
+    },
+    {
+      "apiname": "Collector",
+      "achieved": 1,
+      "unlocktime": 1764958280,
+      "name": "I'm a Collector!",
+      "description": "Complete the Collection."
+    },
+    {
+      "apiname": "SkilledHunter",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Hobby Hunter",
+      "description": "Set a bear trap."
+    },
+    {
+      "apiname": "HiddenWeaponintheMansion",
+      "achieved": 1,
+      "unlocktime": 1763572862,
+      "name": "Mysterious Mansion",
+      "description": "Use an environment trap."
+    },
+    {
+      "apiname": "StatueBreaker",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Destroyer of Statues",
+      "description": "Use a bear trap to destroy a statue."
+    },
+    {
+      "apiname": "Assassin",
+      "achieved": 1,
+      "unlocktime": 1763572862,
+      "name": "Assassin",
+      "description": "Use an environment trap to destroy a statue."
+    },
+    {
+      "apiname": "ProfessionalHunter",
+      "achieved": 1,
+      "unlocktime": 1764932780,
+      "name": "Professional Hunter",
+      "description": "Set 30 bear traps."
+    },
+    {
+      "apiname": "UnfriendlyVisitor",
+      "achieved": 1,
+      "unlocktime": 1764933802,
+      "name": "Disrespectful Guest",
+      "description": "Use 30 environment traps."
+    },
+    {
+      "apiname": "HideandSeek",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Hide and Seek",
+      "description": "Hide in a closet."
+    },
+    {
+      "apiname": "ShatteredtoPieces",
+      "achieved": 1,
+      "unlocktime": 1764937770,
+      "name": "Shattered and Smashed",
+      "description": "Destroy 20 statues."
+    },
+    {
+      "apiname": "RollingBallMaster",
+      "achieved": 1,
+      "unlocktime": 1764907448,
+      "name": "Roly Poly",
+      "description": "Clear any rolling ball maze in 20 seconds or less."
+    },
+    {
+      "apiname": "Don’tMove!",
+      "achieved": 1,
+      "unlocktime": 1764956335,
+      "name": "Don't Move!",
+      "description": "Catch the balloon head in a bear trap or have it get tangled in the trellis."
+    },
+    {
+      "apiname": "Adventurer",
+      "achieved": 1,
+      "unlocktime": 1763573605,
+      "name": "Bold Adventurer",
+      "description": "Leave the safe room."
+    },
+    {
+      "apiname": "RegularattheSanzuRiver",
+      "achieved": 1,
+      "unlocktime": 1764958157,
+      "name": "Charon's Guest",
+      "description": "Die and return to the safe room 10 times."
+    },
+    {
+      "apiname": "ComfortZone",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "Comfort Zone",
+      "description": "Stay in the safe room for a total of 20 minutes."
+    },
+    {
+      "apiname": "YouCan’tSeeMe",
+      "achieved": 1,
+      "unlocktime": 1762965203,
+      "name": "You Can't See Me",
+      "description": "Stay in closets for a total of 10 minutes."
+    },
+    {
+      "apiname": "ExtremeChallenge",
+      "achieved": 1,
+      "unlocktime": 1763575489,
+      "name": "Extreme Challenge",
+      "description": "Use less than 3 bear traps to kill enemies and reach any ending."
+    },
+    {
+      "apiname": "TheVisitor’sSelf-Cultivation",
+      "achieved": 1,
+      "unlocktime": 1763575489,
+      "name": "Visitor Etiquette",
+      "description": "Use less than 3 environment traps to kill enemies and reach any ending."
+    },
+    {
+      "apiname": "DevotedSuperfan",
+      "achieved": 1,
+      "unlocktime": 1764959096,
+      "name": "Die-Hard Fan",
+      "description": "Complete all achievements."
+    }
+  ]
+}

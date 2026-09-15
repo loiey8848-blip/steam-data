@@ -1,0 +1,67 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2025610,
+  "game": "Once Again",
+  "total": 8,
+  "unlocked": 8,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:26.190902+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_LOGICIAN",
+      "achieved": 1,
+      "unlocktime": 1750175153,
+      "name": "Logician",
+      "description": "Choose \"Nonsense\""
+    },
+    {
+      "apiname": "ACH_ADVENTURER",
+      "achieved": 1,
+      "unlocktime": 1750171730,
+      "name": "Adventurer",
+      "description": "Choose \"Sure\""
+    },
+    {
+      "apiname": "ACH_REDFILM",
+      "achieved": 1,
+      "unlocktime": 1750175153,
+      "name": "Red Film Roll",
+      "description": "Pick Red Filter"
+    },
+    {
+      "apiname": "ACH_YELLOWFILM",
+      "achieved": 1,
+      "unlocktime": 1750174798,
+      "name": "Yellow Film Roll",
+      "description": "Pick Yellow Filter "
+    },
+    {
+      "apiname": "ACH_PINKFILM",
+      "achieved": 1,
+      "unlocktime": 1750175375,
+      "name": "Pink Film Roll",
+      "description": "Pick Black & White Filter"
+    },
+    {
+      "apiname": "ACH_MATHMASTER",
+      "achieved": 1,
+      "unlocktime": 1750174798,
+      "name": "Math Master",
+      "description": "Complete all math questions in less than 15 seconds"
+    },
+    {
+      "apiname": "ACH_PUZZLEMASTER",
+      "achieved": 1,
+      "unlocktime": 1750175153,
+      "name": "Puzzle Master",
+      "description": "Complete the puzzle in less than 25 seconds"
+    },
+    {
+      "apiname": "ACH_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1750174798,
+      "name": "Finale",
+      "description": "Complete the game"
+    }
+  ]
+}

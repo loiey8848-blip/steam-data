@@ -1,0 +1,235 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3976500,
+  "game": "The Spotter: Dig or Die",
+  "total": 32,
+  "unlocked": 32,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:37.624085+00:00",
+  "achievements": [
+    {
+      "apiname": "SurviveFirstNight",
+      "achieved": 1,
+      "unlocktime": 1777747461,
+      "name": "First Night Shift",
+      "description": "Survive your first night. "
+    },
+    {
+      "apiname": "FirstMilestoneRepairReceiver",
+      "achieved": 1,
+      "unlocktime": 1777746157,
+      "name": "The Beginning",
+      "description": "Repair the first tier of the Receiver."
+    },
+    {
+      "apiname": "ReachMineBottom",
+      "achieved": 1,
+      "unlocktime": 1777758634,
+      "name": "Rock Bottom!",
+      "description": "Reach the bottom of the diggable pit."
+    },
+    {
+      "apiname": "CollectPizza10",
+      "achieved": 1,
+      "unlocktime": 1777836447,
+      "name": "Pizza Lover",
+      "description": "Find all 10 pizza slices."
+    },
+    {
+      "apiname": "UnlockIndustrialDrill",
+      "achieved": 1,
+      "unlocktime": 1777750519,
+      "name": "Industrial Revolution",
+      "description": "Unlock the Industrial Drill."
+    },
+    {
+      "apiname": "UnlockJetpack",
+      "achieved": 1,
+      "unlocktime": 1777746360,
+      "name": "Conqueror of the Skies",
+      "description": "Unlock the Jetpack."
+    },
+    {
+      "apiname": "FullRepairReceiver",
+      "achieved": 1,
+      "unlocktime": 1777787784,
+      "name": "Signal into the Void",
+      "description": "Fully repair the Receiver."
+    },
+    {
+      "apiname": "CollectMetal10000",
+      "achieved": 1,
+      "unlocktime": 1777754804,
+      "name": "Scrap Tycoon",
+      "description": "Collect a total of 10,000 Iron."
+    },
+    {
+      "apiname": "CollectGold1000",
+      "achieved": 1,
+      "unlocktime": 1777755992,
+      "name": "Gold Rush",
+      "description": "Collect a total of 1,000 Gold."
+    },
+    {
+      "apiname": "CollectDiamonds100",
+      "achieved": 1,
+      "unlocktime": 1777831701,
+      "name": "A Girl’s Best Friend",
+      "description": "Collect a total of 100 Diamonds."
+    },
+    {
+      "apiname": "SurviveWave25",
+      "achieved": 1,
+      "unlocktime": 1777834681,
+      "name": "Night Shifts Veteran",
+      "description": "Survive 20 mutant waves."
+    },
+    {
+      "apiname": "DestroyEnemy100",
+      "achieved": 1,
+      "unlocktime": 1777752025,
+      "name": "The First Hundred",
+      "description": "Kill 100 mutants."
+    },
+    {
+      "apiname": "DestroyEnemy500",
+      "achieved": 1,
+      "unlocktime": 1777785027,
+      "name": "Guardian of the Gas Station",
+      "description": "Kill 500 mutants."
+    },
+    {
+      "apiname": "DestroyEnemy2500",
+      "achieved": 1,
+      "unlocktime": 1777832952,
+      "name": "Wasteland Veteran",
+      "description": "Kill 1000 mutants."
+    },
+    {
+      "apiname": "DestroyEnemy5000",
+      "achieved": 1,
+      "unlocktime": 1777836263,
+      "name": "Exterminator",
+      "description": "Kill 1500 mutants."
+    },
+    {
+      "apiname": "SurviveNightWithNoDamage",
+      "achieved": 1,
+      "unlocktime": 1777749917,
+      "name": "Untouchable",
+      "description": "Survive a night wave without the base taking any damage."
+    },
+    {
+      "apiname": "BasketGoals10",
+      "achieved": 1,
+      "unlocktime": 1777836055,
+      "name": "Spherus Magnus!",
+      "description": "Score 10 basketball shots."
+    },
+    {
+      "apiname": "BasketGoal20Meters",
+      "achieved": 1,
+      "unlocktime": 1777837730,
+      "name": "Jordan",
+      "description": "Score a basket from a distance of 12 meters or more."
+    },
+    {
+      "apiname": "CucumbersPoison",
+      "achieved": 1,
+      "unlocktime": 1777747487,
+      "name": "Russian Roulette",
+      "description": "Eat a “Jar of Pickles” and get poisoned."
+    },
+    {
+      "apiname": "DayNoMining",
+      "achieved": 1,
+      "unlocktime": 1777784627,
+      "name": "Procrastinator",
+      "description": "Spend an entire day at the base without going down into the mine."
+    },
+    {
+      "apiname": "CollectArtifact",
+      "achieved": 1,
+      "unlocktime": 1777753190,
+      "name": "Voice from the Past",
+      "description": "Find your first Artifact."
+    },
+    {
+      "apiname": "CollectAllArtifactsOneSession",
+      "achieved": 1,
+      "unlocktime": 1777831836,
+      "name": "Collector",
+      "description": "Find all Artifacts in a single playthrough."
+    },
+    {
+      "apiname": "SaveDogFromUFO",
+      "achieved": 1,
+      "unlocktime": 1777835236,
+      "name": "Human's Best Friend",
+      "description": "Your dog got abducted? Return him home!"
+    },
+    {
+      "apiname": "SuicideByOwnDynamite",
+      "achieved": 1,
+      "unlocktime": 1777751697,
+      "name": "Safety Regulations",
+      "description": "Die from your own dynamite explosion."
+    },
+    {
+      "apiname": "CollectCoins20",
+      "achieved": 1,
+      "unlocktime": 1777836800,
+      "name": "Numismatist",
+      "description": "Collect all 20 coins."
+    },
+    {
+      "apiname": "CollectToys5",
+      "achieved": 1,
+      "unlocktime": 1777836611,
+      "name": "Plushie",
+      "description": "Find all 5 plush toys."
+    },
+    {
+      "apiname": "GoldenShower",
+      "achieved": 1,
+      "unlocktime": 1777787505,
+      "name": "Golden Shower",
+      "description": ""
+    },
+    {
+      "apiname": "CollectCheese10",
+      "achieved": 1,
+      "unlocktime": 1783422548,
+      "name": "Say Cheese!",
+      "description": "Blue, Brie, Chedar, Mozzarella, Parmesan, whatever... I love it all!"
+    },
+    {
+      "apiname": "Hula10",
+      "achieved": 1,
+      "unlocktime": 1783243268,
+      "name": "Hawaiian Times",
+      "description": "Oh the good days..."
+    },
+    {
+      "apiname": "PerfectionistDig",
+      "achieved": 1,
+      "unlocktime": 1783427464,
+      "name": "Perfectionist",
+      "description": "Dig every bit of dirt!"
+    },
+    {
+      "apiname": "Lollipop15",
+      "achieved": 1,
+      "unlocktime": 1783409061,
+      "name": "Sucker for Lollipops",
+      "description": "Yummy!"
+    },
+    {
+      "apiname": "Milkshake10",
+      "achieved": 1,
+      "unlocktime": 1783414392,
+      "name": "Shake it up!",
+      "description": "The only thing left from the local diner is a good old strawbery milkshake..."
+    }
+  ]
+}

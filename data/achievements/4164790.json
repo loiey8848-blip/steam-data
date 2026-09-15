@@ -1,0 +1,662 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4164790,
+  "game": "Survival Log",
+  "total": 93,
+  "unlocked": 1,
+  "percent": 1.1,
+  "updated_at_utc": "2026-09-15T06:53:39.221613+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRST_NIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Night of Disaster",
+      "description": "Survive Day 1 after the disaster"
+    },
+    {
+      "apiname": "FIRST_WEEK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Week 1",
+      "description": "Survive Day 7 after the disaster"
+    },
+    {
+      "apiname": "FIRST_MONTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Month",
+      "description": "Survive Day 30 after the disaster"
+    },
+    {
+      "apiname": "HALFWAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fifty Days",
+      "description": "Survive Day 50 after the disaster"
+    },
+    {
+      "apiname": "SHOWDOWN_DAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Day of Reckoning",
+      "description": "Survive to Day 70, and responses from all parties arrive one after another"
+    },
+    {
+      "apiname": "MY_CHOICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Choice",
+      "description": "Make an ending commitment and stake the remaining days on one path"
+    },
+    {
+      "apiname": "FINAL_WAVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Horde",
+      "description": "Survive the final horde on Day 87"
+    },
+    {
+      "apiname": "ONE_HUNDRED_DAYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Hundred Days",
+      "description": "Survive Day 100 after the disaster"
+    },
+    {
+      "apiname": "ENDING_RESCUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evacuate",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_GIRL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Side By Side",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_STRANGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Net",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_SHELTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortress",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_TRUTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Truth",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_GREENHOUSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greenhouse",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_COMPANION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Companionship",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_SUPPLY_HUB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supply Station",
+      "description": ""
+    },
+    {
+      "apiname": "ENDING_LIE_FLAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay in Place",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_WORKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wage Slave's Story",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_STUDENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Student's Story",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_KEEPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warehouse Manager's Story",
+      "description": ""
+    },
+    {
+      "apiname": "THREE_LIVES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Stages of Life",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_ROADS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Roads Lead to the End",
+      "description": ""
+    },
+    {
+      "apiname": "ELECTRICIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Electrician",
+      "description": "All electrical facilities in the house operate normally simultaneously without power outages"
+    },
+    {
+      "apiname": "WEAVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Web Weaver",
+      "description": "After choosing the stranger path, deliver supplies to survivor outposts 12 times"
+    },
+    {
+      "apiname": "PUZZLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puzzle",
+      "description": "Collect all truth clues"
+    },
+    {
+      "apiname": "GREEN_FINGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green Thumb",
+      "description": "Keep 24 potted plants alive simultaneously"
+    },
+    {
+      "apiname": "GOOD_MEAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Meal",
+      "description": "Create 10 perfect dishes."
+    },
+    {
+      "apiname": "NEIGHBOR_BOND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Person Next Door",
+      "description": "Form a true bond with your Neighbor"
+    },
+    {
+      "apiname": "INVENTORY_CHECK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inventory Check",
+      "description": "All three storage dimensions meet requirements: Satiety 1,200 / Items 180 / Storage Furniture 8"
+    },
+    {
+      "apiname": "SUPPLY_CHAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supply Chain",
+      "description": "Establish trade relations with all 8 trading posts"
+    },
+    {
+      "apiname": "NAME_ON_THE_SLIP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Name on the Delivery Slip",
+      "description": "After choosing the supply station route, collect all three clues"
+    },
+    {
+      "apiname": "START_HOARDING_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prepper",
+      "description": "Stockpiled over 5 kg of supplies before the disaster"
+    },
+    {
+      "apiname": "FULLY_LOADED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fine Haul",
+      "description": "Stockpiled over 25 kg of supplies before the disaster"
+    },
+    {
+      "apiname": "DOOMSDAY_TYCOON_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doomsday Tycoon",
+      "description": "Stockpiled over 50 kg of supplies before the disaster"
+    },
+    {
+      "apiname": "FRUGAL_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penny Pincher",
+      "description": "Had less than 50 money remaining when the disaster struck"
+    },
+    {
+      "apiname": "CITY_TOUR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explore the Entire City",
+      "description": "Visited 5 supply points before the disaster"
+    },
+    {
+      "apiname": "RICH_DIET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Stocked Pantry",
+      "description": "Purchased over 20 types of Food before the disaster"
+    },
+    {
+      "apiname": "BE_PREPARED_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready for Anything",
+      "description": "Purchased 4 or more types of materials before the disaster"
+    },
+    {
+      "apiname": "WELL_BALANCED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steady and Stable",
+      "description": "Keep Satiety, Morale, Stamina, and Life all above 80 simultaneously"
+    },
+    {
+      "apiname": "FAMILY_STOCK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family Assets",
+      "description": "The total Satiety of supplies at Home exceeds 2000"
+    },
+    {
+      "apiname": "NO_WASTE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Waste",
+      "description": "Survive to Day 30 without breaking anything"
+    },
+    {
+      "apiname": "AWAKENING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breakthrough",
+      "description": "Break the upper limit of any attribute beyond 150"
+    },
+    {
+      "apiname": "TRANSCENDENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extraordinary",
+      "description": "Break the upper limit of three attributes beyond 150 simultaneously"
+    },
+    {
+      "apiname": "FIRST_COOKING_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire It Up",
+      "description": "Cook a dish for the first time"
+    },
+    {
+      "apiname": "HOME_COOKING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home-Style Cooking",
+      "description": "Cook a total of 30 dishes in this loop"
+    },
+    {
+      "apiname": "PERFECTIONIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionism",
+      "description": "Cook 30 perfect dishes in this loop"
+    },
+    {
+      "apiname": "FIRST_GREEN_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Touch of Green",
+      "description": "Harvest your own crops for the first time"
+    },
+    {
+      "apiname": "BALCONY_FARMER_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balcony Farmer",
+      "description": "Harvest a total of 50 times in this loop"
+    },
+    {
+      "apiname": "FLAWLESS_GROWTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Growth",
+      "description": "Complete 10 Perfect harvests with no anomalies throughout the entire process"
+    },
+    {
+      "apiname": "FIRST_TRAP_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A-Hunting We Will Go",
+      "description": "Set a trap for the first time"
+    },
+    {
+      "apiname": "INDOOR_HUNTER_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indoor Hunter",
+      "description": "Capture 30 prey in total"
+    },
+    {
+      "apiname": "TINKERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tinkerer",
+      "description": "Craft a total of 100 items"
+    },
+    {
+      "apiname": "POWERED_UP",
+      "achieved": 1,
+      "unlocktime": 1786876328,
+      "name": "Powered",
+      "description": "Get the Home connected to electricity"
+    },
+    {
+      "apiname": "BASEMENT_AND_ROOF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underground and Rooftop",
+      "description": "Unlock the basement and second-floor terrace"
+    },
+    {
+      "apiname": "PENTAGON_WARRIOR_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Renaissance Man",
+      "description": "Max out the proficiency of all five systems"
+    },
+    {
+      "apiname": "ALL_BLUEPRINTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blueprint Collector",
+      "description": "Complete the crafting collection"
+    },
+    {
+      "apiname": "FIRST_BLOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Blood",
+      "description": "First Zombie Kill"
+    },
+    {
+      "apiname": "MEAT_GRINDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat Grinder",
+      "description": "Kill 500 zombies in this loop"
+    },
+    {
+      "apiname": "TRIPLE_LINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Defense",
+      "description": "Deploy 4 spikes, 4 electric nets, and 4 chainsaws each"
+    },
+    {
+      "apiname": "DOOR_HELD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The door is closed",
+      "description": "Keep Front Door Durability above 80% during a crisis."
+    },
+    {
+      "apiname": "IRON_WALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Wall",
+      "description": "Upgrade all doors and windows to the highest level"
+    },
+    {
+      "apiname": "SURVIVED_WAVES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pulled Through",
+      "description": "Survive a total of 30 hordes"
+    },
+    {
+      "apiname": "NO_BREACH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zero Breach",
+      "description": "Complete the final horde with zero door and window damage"
+    },
+    {
+      "apiname": "RAT_CATCHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rat Catcher",
+      "description": "Catch a total of 15 rats"
+    },
+    {
+      "apiname": "SEASONED_SURVIVOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experience Makes the Doctor",
+      "description": "Survive a total of 3 crises"
+    },
+    {
+      "apiname": "FIRST_EXPLORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go out for the first time",
+      "description": "Leave Home to explore for the first time"
+    },
+    {
+      "apiname": "RUINS_TOUR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traverse the Ruins",
+      "description": "Visit each of the six exploration points at least once"
+    },
+    {
+      "apiname": "SCAVENGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scavenger",
+      "description": "Explore 30 times in total"
+    },
+    {
+      "apiname": "HOSPITAL_DEPTHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep in the Hospital",
+      "description": "Collect all three clues from the hospital"
+    },
+    {
+      "apiname": "FIRST_DEAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Deal",
+      "description": "Complete your first trade with a stranger"
+    },
+    {
+      "apiname": "REGULAR_CUSTOMER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular Customer",
+      "description": "Establish connections with 4 strangers"
+    },
+    {
+      "apiname": "SUPPLIER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supplier",
+      "description": "Complete 30 transactions in total"
+    },
+    {
+      "apiname": "SKY_SCAVENGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aerial Scavenging",
+      "description": "Send out Drones to scavenge 50 times"
+    },
+    {
+      "apiname": "DEEP_IN_RUINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delve Deep into the Ruins",
+      "description": "Scavenge the Ruined Supermarket 5 times"
+    },
+    {
+      "apiname": "ENDLESS_START",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limit Break",
+      "description": "First time entering Endless Mode"
+    },
+    {
+      "apiname": "REFUSE_CURTAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Refusing to Take a Bow",
+      "description": "Choose to continue holding your ground after reaching an ending"
+    },
+    {
+      "apiname": "HOLD_30_DAYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hold Out for Thirty Days",
+      "description": "Hold out for 30 days in Pure Endless"
+    },
+    {
+      "apiname": "THREAT_TIER_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Threat Level 8",
+      "description": "Reach Threat Level 8 in Endless Mode"
+    },
+    {
+      "apiname": "MOUNTAIN_OF_BODIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain of Corpses",
+      "description": "Kill 2,000 zombies in this loop"
+    },
+    {
+      "apiname": "ONE_SHOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Once",
+      "description": "Reached the ending without using a single rebirth in this save file"
+    },
+    {
+      "apiname": "SHUT_IN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay behind closed doors",
+      "description": "Reached the ending without ever leaving home in this save file"
+    },
+    {
+      "apiname": "MINIMAL_BUDGET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minimal Budget",
+      "description": "Reached the ending while spending less than half of your money before the disaster in this save file"
+    },
+    {
+      "apiname": "IMMACULATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless",
+      "description": "Reached the ending while keeping doors and windows above 70% throughout the entire playthrough in this save file"
+    },
+    {
+      "apiname": "VEGETARIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vegetarianism",
+      "description": "Reached the ending without eating any meat in this save file"
+    },
+    {
+      "apiname": "LONE_WOLF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Solo",
+      "description": "Reached the ending without ever trading with strangers in this save file"
+    },
+    {
+      "apiname": "HUNDRED_DAYS_ALONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Person's Hundred Days",
+      "description": "Reached the ending without ever progressing the Neighbor storyline in this save file"
+    },
+    {
+      "apiname": "NEVER_FELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Fallen",
+      "description": "Reached the ending without Life ever dropping below 20% in this save file"
+    },
+    {
+      "apiname": "AMONG_NEIGHBORS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Between Neighbors",
+      "description": ""
+    },
+    {
+      "apiname": "TV_ADDICT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TV Enthusiast",
+      "description": ""
+    },
+    {
+      "apiname": "HOUSE_OF_FLOWERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Room Full of Flowers",
+      "description": ""
+    },
+    {
+      "apiname": "COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": ""
+    },
+    {
+      "apiname": "NOT_AFRAID_OF_COLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold as Ice",
+      "description": ""
+    },
+    {
+      "apiname": "MIDNIGHT_KITCHEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Midnight Kitchen",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3527290,
+  "game": "PEAK",
+  "total": 64,
+  "unlocked": 13,
+  "percent": 20.3,
+  "updated_at_utc": "2026-09-15T06:53:31.990310+00:00",
+  "achievements": [
+    {
+      "apiname": "PeakBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Badge",
+      "description": "Reach the PEAK."
+    },
+    {
+      "apiname": "CookingBadge",
+      "achieved": 1,
+      "unlocktime": 1751778652,
+      "name": "Cooking Badge",
+      "description": "Cook 20 meals at campfires."
+    },
+    {
+      "apiname": "KnotTyingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knot Tying Badge",
+      "description": "Place 100m of rope in a single expedition."
+    },
+    {
+      "apiname": "BeachcomberBadge",
+      "achieved": 1,
+      "unlocktime": 1751192602,
+      "name": "Beachcomber Badge",
+      "description": "Climb past the SHORE."
+    },
+    {
+      "apiname": "TriedYourBestBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Participation Badge",
+      "description": "Have a friend escape the island without you."
+    },
+    {
+      "apiname": "TrailblazerBadge",
+      "achieved": 1,
+      "unlocktime": 1751201347,
+      "name": "Trailblazer Badge",
+      "description": "Climb past the TROPICS."
+    },
+    {
+      "apiname": "HappyCamperBadge",
+      "achieved": 1,
+      "unlocktime": 1751203162,
+      "name": "Happy Camper Badge",
+      "description": "Receive 5 Morale Boosts from campfires."
+    },
+    {
+      "apiname": "AlpinistBadge",
+      "achieved": 1,
+      "unlocktime": 1751820440,
+      "name": "Alpinist Badge",
+      "description": "Climb past the ALPINE."
+    },
+    {
+      "apiname": "VolcanologyBadge",
+      "achieved": 1,
+      "unlocktime": 1751820997,
+      "name": "Volcanology Badge",
+      "description": "Climb past the CALDERA."
+    },
+    {
+      "apiname": "BoulderingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouldering Badge",
+      "description": "Place 10 pitons."
+    },
+    {
+      "apiname": "ToxicologyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toxicology Badge",
+      "description": "Restore 200 total poison by using items."
+    },
+    {
+      "apiname": "ForagingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foraging Badge",
+      "description": "Eat 5 different berries in a single expedition."
+    },
+    {
+      "apiname": "EsotericaBadge",
+      "achieved": 1,
+      "unlocktime": 1751194479,
+      "name": "Esoterica Badge",
+      "description": "Obtain a mystical item."
+    },
+    {
+      "apiname": "LoneWolfBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf Badge",
+      "description": "Escape the island in a solo expedition."
+    },
+    {
+      "apiname": "ClutchBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clutch Badge",
+      "description": "Resurrect 3 scouts in a single expedition."
+    },
+    {
+      "apiname": "BalloonBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balloon Badge",
+      "description": "Escape the island without taking fall damage."
+    },
+    {
+      "apiname": "LeaveNoTraceBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leave No Trace Badge",
+      "description": "Escape the island without placing anything on the mountain."
+    },
+    {
+      "apiname": "SpeedClimberBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hasty Badge",
+      "description": "Escape the island in under an hour."
+    },
+    {
+      "apiname": "BingBongBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bing Bong Badge",
+      "description": "Help Bing Bong escape the island."
+    },
+    {
+      "apiname": "NaturalistBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naturalist Badge",
+      "description": "Escape the island without eating any packaged food."
+    },
+    {
+      "apiname": "GourmandBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmand Badge",
+      "description": "Escape the island after cooking and eating a coconut half, a honeycomb, a yellow winterberry, and an egg."
+    },
+    {
+      "apiname": "MycologyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mycology Badge",
+      "description": "Eat four different non-toxic mushrooms in a single expedition."
+    },
+    {
+      "apiname": "FirstAidBadge",
+      "achieved": 1,
+      "unlocktime": 1751205252,
+      "name": "First Aid Badge",
+      "description": "Heal your friends for 100 points of injury in a single expedition."
+    },
+    {
+      "apiname": "SurvivalistBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivalist Badge",
+      "description": "Escape the island without ever losing consciousness."
+    },
+    {
+      "apiname": "AnimalSerenadingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal Serenading Badge",
+      "description": "Play the bugle for a capybara."
+    },
+    {
+      "apiname": "ArboristBadge",
+      "achieved": 1,
+      "unlocktime": 1751198797,
+      "name": "Arborist Badge",
+      "description": "Reach the top of a really big tree."
+    },
+    {
+      "apiname": "MentorshipBadge",
+      "achieved": 1,
+      "unlocktime": 1751771550,
+      "name": "Mentorship Badge",
+      "description": "Have a 1-on-1 with the Scoutmaster."
+    },
+    {
+      "apiname": "EmergencyPreparednessBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emergency Preparedness Badge",
+      "description": "Heal an unconscious friend with an item to save them from death."
+    },
+    {
+      "apiname": "AscenderBadge",
+      "achieved": 1,
+      "unlocktime": 1751204794,
+      "name": "High Altitude Badge",
+      "description": "Climb 5000m total."
+    },
+    {
+      "apiname": "PlundererBadge",
+      "achieved": 1,
+      "unlocktime": 1751819602,
+      "name": "Plunderer Badge",
+      "description": "Open 15 luggages in a single expedition."
+    },
+    {
+      "apiname": "BookwormBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bookworm Badge",
+      "description": "Read the Scoutmaster’s final journal entry."
+    },
+    {
+      "apiname": "EnduranceBadge",
+      "achieved": 1,
+      "unlocktime": 1751819970,
+      "name": "Endurance Badge",
+      "description": "Climb 50m upwards without touching the ground."
+    },
+    {
+      "apiname": "NomadBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad Badge",
+      "description": "Climb past the MESA."
+    },
+    {
+      "apiname": "UltimateBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Badge",
+      "description": "Catch a Flying Disc from 100m away."
+    },
+    {
+      "apiname": "CoolCucumberBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cool Cucumber Badge",
+      "description": "Climb past the MESA without ever having more than 10% Heat."
+    },
+    {
+      "apiname": "NeedlepointBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Needlepoint Badge",
+      "description": "Have a lot of cactuses stuck to you."
+    },
+    {
+      "apiname": "AeronauticsBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aeronautics Badge",
+      "description": "Achieve flight."
+    },
+    {
+      "apiname": "TwentyFourKaratBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "24 Karat Badge",
+      "description": "Offer The Kiln a worthy sacrifice."
+    },
+    {
+      "apiname": "ResourcefulnessBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resourcefulness Badge",
+      "description": "Give in to your hunger."
+    },
+    {
+      "apiname": "DaredevilBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daredevil Badge",
+      "description": "Shoot across the MESA canyon in a Scout Cannon."
+    },
+    {
+      "apiname": "MegaentomologyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Megaentomology Badge",
+      "description": "Survive an Antlion attack."
+    },
+    {
+      "apiname": "AstronomyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Astronomy Badge",
+      "description": "Look a little too closely at the blazing sun."
+    },
+    {
+      "apiname": "BundledUpBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bundled Up Badge",
+      "description": "Climb past the ALPINE without ever having more than 20% Cold."
+    },
+    {
+      "apiname": "ForestryBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forestry Badge",
+      "description": "Climb past the ROOTS."
+    },
+    {
+      "apiname": "TreadLightlyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tread Lightly Badge",
+      "description": "Climb past the ROOTS without ever having more than 25% spores."
+    },
+    {
+      "apiname": "WebSecurityBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Web Security Badge",
+      "description": "Escape a spider's web and survive."
+    },
+    {
+      "apiname": "UndeadEncounterBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undead Encounter Badge",
+      "description": "Cure yourself from a zombie bite."
+    },
+    {
+      "apiname": "AdvancedMycologyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Mycology Badge",
+      "description": "Try all 5 types of Shroomberry in a single expedition."
+    },
+    {
+      "apiname": "DisasterResponseBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disaster Response Badge",
+      "description": "Pull an unconscious friend 30m with the Rescue Claw."
+    },
+    {
+      "apiname": "CalciumIntakeBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calcium Intake Badge",
+      "description": "Block 100 total damage with the Fortified Milk."
+    },
+    {
+      "apiname": "CompetitiveEatingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Competitive Eating Badge",
+      "description": "Eat 3 Hot Dogs in 5 seconds or less."
+    },
+    {
+      "apiname": "AppliedEsotericaBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Applied Esoterica Badge",
+      "description": "Resurrect a friend using unholy means."
+    },
+    {
+      "apiname": "MycoacrobaticsBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mycoacrobatics Badge",
+      "description": "Bounce up 40m off a mushroom."
+    },
+    {
+      "apiname": "CryptogastronomyBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cryptogastronomy Badge",
+      "description": "Cook and eat a Mandrake."
+    },
+    {
+      "apiname": "WandererBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanderer Badge",
+      "description": "Climb past the GLOOM."
+    },
+    {
+      "apiname": "BellringerBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bellringer Badge",
+      "description": "Ring 5 Belltowers in the GLOOM in a single expedition."
+    },
+    {
+      "apiname": "WellRestedBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Rested Badge",
+      "description": "Consume The Early Worm."
+    },
+    {
+      "apiname": "JesterBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jester Badge",
+      "description": "Open 2 Clown Luggage in a single expedition."
+    },
+    {
+      "apiname": "HangGlidingBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hang Gliding Badge",
+      "description": "Fly 100m with the Glider without touching the ground."
+    },
+    {
+      "apiname": "MedievalHistoryBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medieval History Badge",
+      "description": "Climb past THE CITADEL without being hit by any traps."
+    },
+    {
+      "apiname": "LastResortBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last Resort Badge",
+      "description": "Heal over 75% damage at once by using the Ritual Dagger."
+    },
+    {
+      "apiname": "ExorcistBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exorcist Badge",
+      "description": "Burn up the Ghost."
+    },
+    {
+      "apiname": "ArcheryBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archery Badge",
+      "description": "Remove 10 arrows from yourself in a single expedition."
+    },
+    {
+      "apiname": "RuleZeroBadge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rule Zero Badge",
+      "description": ""
+    }
+  ]
+}

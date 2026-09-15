@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3036800,
+  "game": "PRITTO PRISONER",
+  "total": 30,
+  "unlocked": 5,
+  "percent": 16.7,
+  "updated_at_utc": "2026-09-15T06:53:12.643446+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_ANIMAL_ESCAPE_1",
+      "achieved": 1,
+      "unlocktime": 1780082570,
+      "name": "First Escape",
+      "description": "Successfully escaped for the first time while playing Quick Match as an animal"
+    },
+    {
+      "apiname": "ACH_POOP_1",
+      "achieved": 1,
+      "unlocktime": 1780082570,
+      "name": "Pritto Shot",
+      "description": "Poopied for the first time in Quick Match"
+    },
+    {
+      "apiname": "ACH_ANIMAL_WIN_1",
+      "achieved": 1,
+      "unlocktime": 1780082570,
+      "name": "Animal Victory",
+      "description": "Won for the first time in Quick Match as the animal team"
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_PLAY_1",
+      "achieved": 1,
+      "unlocktime": 1780082570,
+      "name": "Prison Beginner",
+      "description": "Played Quick Match for the first time"
+    },
+    {
+      "apiname": "ACH_ROBOT_WIN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Robot Victory",
+      "description": "Won for the first time in Quick Match as the robot team"
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_POOP_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The World Is Poopie-Colored",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ANIMAL_PERFECTESCAPE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God Escaper",
+      "description": "Successfully escaped 100 times in Quick Match without being captured even once while playing as an animal"
+    },
+    {
+      "apiname": "ACH_ANIMAL_MISSINGANIMAL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Philanthropist",
+      "description": "Escorted lost animals 1,000 times while playing as an animal"
+    },
+    {
+      "apiname": "ACH_ROBOT_MISSINGANIMAL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold-Blooded",
+      "description": "Chased away lost animals 1,000 times while playing as a robot"
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_ROBOT_ANIMALCAPTURE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Complete Silence",
+      "description": "Put all animals to sleep by yourself in a single Quick Match"
+    },
+    {
+      "apiname": "ACH_ROBOT_PERFECTWIN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God Catcher",
+      "description": "Put all animals to sleep and won in Quick Match as the robot team"
+    },
+    {
+      "apiname": "ACH_ROBOT_GADGET_CHANGE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Which One Should I Choose?",
+      "description": "Switched gadgets or enhancement parts 100 times during Quick Match"
+    },
+    {
+      "apiname": "ACH_SEARCHCAMERA_REPAIR_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Pranks Allowed!",
+      "description": "Repaired surveillance cameras 1,000 times in Quick Match"
+    },
+    {
+      "apiname": "ACH_ROBOT_POOPANIMAL_STUN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sorry to Interrupt",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_1STPLACE_1",
+      "achieved": 1,
+      "unlocktime": 1780083321,
+      "name": "Glory Is Mine",
+      "description": "Ranked 1st in score in Quick Match"
+    },
+    {
+      "apiname": "ACH_ALLMISSINGANIMAL_FOUND_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Lives",
+      "description": "Found all lost animals from No. 1 to 38"
+    },
+    {
+      "apiname": "ACH_MISSINGANIMAL_PINCOOLCAT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got a Hunch!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DECORATION_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashionista",
+      "description": "Collected 50 types of decorations"
+    },
+    {
+      "apiname": "ACH_ENDING_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pritto Pritto Wonderful",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_PLAY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prison Master",
+      "description": "Played Quick Match 10 times"
+    },
+    {
+      "apiname": "ACH_QUICKMATCH_PLAY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prison Legend",
+      "description": "Played Quick Match 100 times"
+    },
+    {
+      "apiname": "ACH_ROBOT_CAPTUREANIMAL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Capture",
+      "description": "Captured an animal for the first time in Quick Match while playing as a robot"
+    },
+    {
+      "apiname": "ACH_ROBOT_CAPTUREANIMAL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Guard",
+      "description": "Captured animals 100 times in Quick Match while playing as a robot"
+    },
+    {
+      "apiname": "ACH_ROBOT_CAPTUREANIMAL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fearsome Captor",
+      "description": "Captured animals 5,000 times in Quick Match while playing as a robot"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ESCAPE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Repeat Escapee",
+      "description": "Successfully escaped 10 times in Quick Match while playing as an animal"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ESCAPE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncontrollable Escapee",
+      "description": "Successfully escaped 500 times in Quick Match while playing as an animal"
+    },
+    {
+      "apiname": "ACH_POOP_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeling Great Today",
+      "description": "Poopied 1,000 times in Quick Match"
+    },
+    {
+      "apiname": "ACH_POOP_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metabolism Monster",
+      "description": "Poopied 10,000 times in Quick Match"
+    },
+    {
+      "apiname": "ACH_ANIMAL_WIN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick on Your Feet Again Today",
+      "description": "Won 100 times in Quick Match as the animal team"
+    },
+    {
+      "apiname": "ACH_ROBOT_WIN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Security Tight as Ever",
+      "description": "Won 100 times in Quick Match as the robot team"
+    }
+  ]
+}

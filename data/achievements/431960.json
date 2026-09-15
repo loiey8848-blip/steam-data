@@ -1,0 +1,130 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 431960,
+  "game": "Wallpaper Engine",
+  "total": 17,
+  "unlocked": 17,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:49:49.307524+00:00",
+  "achievements": [
+    {
+      "apiname": "POST_SCENE_WALLPAPER",
+      "achieved": 1,
+      "unlocktime": 1764907986,
+      "name": "High aspirations",
+      "description": "Post a scene wallpaper to the Workshop."
+    },
+    {
+      "apiname": "POST_VIDEO_WALLPAPER",
+      "achieved": 1,
+      "unlocktime": 1786196101,
+      "name": "Video makers",
+      "description": "Post a video wallpaper to the Workshop."
+    },
+    {
+      "apiname": "POST_WEB_WALLPAPER",
+      "achieved": 1,
+      "unlocktime": 1786196101,
+      "name": "The internet on a disk",
+      "description": "Post a web wallpaper to the Workshop."
+    },
+    {
+      "apiname": "POST_APP_WALLPAPER",
+      "achieved": 1,
+      "unlocktime": 1786196101,
+      "name": "Press any key",
+      "description": "Create a local application-type wallpaper."
+    },
+    {
+      "apiname": "USE_TEMPLATE_2D",
+      "achieved": 1,
+      "unlocktime": 1764907887,
+      "name": "Creativity according to instructions",
+      "description": "Use a 2D scene template."
+    },
+    {
+      "apiname": "USE_TEMPLATE_3D",
+      "achieved": 1,
+      "unlocktime": 1764907899,
+      "name": "Working with 3D models",
+      "description": "Use a 3D scene template."
+    },
+    {
+      "apiname": "SCREENSHOT_WITH_WORKSHOP_WALLPAPER",
+      "achieved": 1,
+      "unlocktime": 1786196101,
+      "name": "Sharing is caring",
+      "description": "Post a Steam screenshot with a Workshop wallpaper open."
+    },
+    {
+      "apiname": "SUBSCRIBE_10_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1589598703,
+      "name": "Trying something new",
+      "description": "Use 10 different wallpapers from the Workshop."
+    },
+    {
+      "apiname": "FAVORITE_10_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1764907875,
+      "name": "Keeping an eye on this one",
+      "description": "Favorite 10 different wallpapers from the Workshop."
+    },
+    {
+      "apiname": "PEST",
+      "achieved": 1,
+      "unlocktime": 1668171583,
+      "name": "Pest",
+      "description": "Cause 1 fatal error or trigger 128 warnings in the editor."
+    },
+    {
+      "apiname": "KON_CODE",
+      "achieved": 1,
+      "unlocktime": 1623485118,
+      "name": "k0n4m1",
+      "description": "30 lives"
+    },
+    {
+      "apiname": "SUBSCRIBE_25_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1589718443,
+      "name": "Getting the hang of it",
+      "description": "Use 25 different wallpapers from the Workshop."
+    },
+    {
+      "apiname": "SUBSCRIBE_50_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1594574982,
+      "name": "Hard to pick just one",
+      "description": "Use 50 different wallpapers from the Workshop."
+    },
+    {
+      "apiname": "SUBSCRIBE_100_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1599541898,
+      "name": "Out of disk space",
+      "description": "Use 100 different wallpapers from the Workshop."
+    },
+    {
+      "apiname": "FAVORITE_25_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1764908265,
+      "name": "Found some good ones",
+      "description": "Favorite 20 different Workshop wallpapers."
+    },
+    {
+      "apiname": "FAVORITE_50_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1764908265,
+      "name": "Fair collection",
+      "description": "Favorite 30 different Workshop wallpapers."
+    },
+    {
+      "apiname": "FAVORITE_100_WALLPAPERS",
+      "achieved": 1,
+      "unlocktime": 1764908265,
+      "name": "Wallpaper Connoisseur",
+      "description": "Favorite 50 different Workshop wallpapers."
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3755320,
+  "game": "BakeryDiary",
+  "total": 49,
+  "unlocked": 49,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:36.244693+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_COMPLETE_DAY_1",
+      "achieved": 1,
+      "unlocktime": 1773823253,
+      "name": "Novice Baker",
+      "description": "Complete Day 1"
+    },
+    {
+      "apiname": "ACH_COMPLETE_DAY_10",
+      "achieved": 1,
+      "unlocktime": 1775999070,
+      "name": "Junior Baker",
+      "description": "Complete Day 10"
+    },
+    {
+      "apiname": "ACH_COMPLETE_DAY_50",
+      "achieved": 1,
+      "unlocktime": 1776258513,
+      "name": "Intermediate Baker",
+      "description": "Complete Day 50"
+    },
+    {
+      "apiname": "ACH_COMPLETE_DAY_100",
+      "achieved": 1,
+      "unlocktime": 1780170015,
+      "name": "Senior Baker",
+      "description": "Complete Day 100"
+    },
+    {
+      "apiname": "ACH_TOTAL_REVENUE_10000",
+      "achieved": 1,
+      "unlocktime": 1776000387,
+      "name": "Bread Shopkeeper",
+      "description": "Total revenue reaches 10,000"
+    },
+    {
+      "apiname": "ACH_TOTAL_REVENUE_100000",
+      "achieved": 1,
+      "unlocktime": 1776255499,
+      "name": "Bread Tycoon",
+      "description": "Total revenue reaches 100,000"
+    },
+    {
+      "apiname": "ACH_TOTAL_REVENUE_1000000",
+      "achieved": 1,
+      "unlocktime": 1782102972,
+      "name": "Game Clear",
+      "description": "Total revenue reaches 1,000,000"
+    },
+    {
+      "apiname": "ACH_FIRST_CORRECT_ORDER",
+      "achieved": 1,
+      "unlocktime": 1773823118,
+      "name": "Understanding People!",
+      "description": "Correctly fulfill a customer's request for the first time"
+    },
+    {
+      "apiname": "ACH_STREAK_10_CUSTOMERS",
+      "achieved": 1,
+      "unlocktime": 1775998811,
+      "name": "Smiling Regular",
+      "description": "Serve 10 customers consecutively without mistakes"
+    },
+    {
+      "apiname": "ACH_FIRST_PHONE_CALL",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "First Contact",
+      "description": "Call a customer for the 1st time"
+    },
+    {
+      "apiname": "ACH_10_PHONE_CALLS",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Enthusiastic Customer Service",
+      "description": "Customer Service Enthusiast"
+    },
+    {
+      "apiname": "ACH_50_PHONE_CALLS",
+      "achieved": 1,
+      "unlocktime": 1776342375,
+      "name": "Phone Expert",
+      "description": "Call customers 50 times"
+    },
+    {
+      "apiname": "ACH_100_PHONE_CALLS",
+      "achieved": 1,
+      "unlocktime": 1776592389,
+      "name": "Communication Master",
+      "description": "Call customers 100 times"
+    },
+    {
+      "apiname": "ACH_UNLOCK_5_STORIES",
+      "achieved": 1,
+      "unlocktime": 1780170015,
+      "name": "Here Come the Regulars!",
+      "description": "Unlock 5 customers' stories"
+    },
+    {
+      "apiname": "ACH_UNLOCK_10_STORIES",
+      "achieved": 1,
+      "unlocktime": 1782071031,
+      "name": "Falling for the Town",
+      "description": "Unlock 10 customers' stories"
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_STORIES",
+      "achieved": 1,
+      "unlocktime": 1782087625,
+      "name": "Max Affection for Everyone!",
+      "description": "Unlock all customers' stories"
+    },
+    {
+      "apiname": "ACH_FIRST_SU_MENGMENG",
+      "achieved": 1,
+      "unlocktime": 1775998892,
+      "name": "Su Mengmeng's First Experience",
+      "description": "Complete Su Mengmeng's order for the first time"
+    },
+    {
+      "apiname": "ACH_DONATE_100_BREAD",
+      "achieved": 1,
+      "unlocktime": 1780161014,
+      "name": "Enthusiastic Citizen",
+      "description": "Donate 100 loaves of bread to the orphanage"
+    },
+    {
+      "apiname": "ACH_DONATE_200_BREAD",
+      "achieved": 1,
+      "unlocktime": 1780169541,
+      "name": "Little Philanthropist",
+      "description": "Donate 200 loaves of bread to the orphanage"
+    },
+    {
+      "apiname": "ACH_DONATE_500_BREAD",
+      "achieved": 1,
+      "unlocktime": 1782089038,
+      "name": "Bread Angel",
+      "description": "Donate 500 loaves of bread to the orphanage"
+    },
+    {
+      "apiname": "ACH_DONATE_1000_BREAD",
+      "achieved": 1,
+      "unlocktime": 1782092593,
+      "name": "Baker of Love",
+      "description": "Donate 1,000 loaves of bread to the orphanage"
+    },
+    {
+      "apiname": "ACH_ORPHANAGE_STORY",
+      "achieved": 1,
+      "unlocktime": 1780170014,
+      "name": "Director's Recognition",
+      "description": "Complete the orphanage director's storyline"
+    },
+    {
+      "apiname": "ACH_CATCH_THIEF",
+      "achieved": 1,
+      "unlocktime": 1776000198,
+      "name": "Caught in the Act!",
+      "description": "Catch a thief for the first time"
+    },
+    {
+      "apiname": "ACH_REMIND_BEGGAR",
+      "achieved": 1,
+      "unlocktime": 1773823830,
+      "name": "Pay First!",
+      "description": "Successfully remind a beggar to pay for the first time"
+    },
+    {
+      "apiname": "ACH_DEAL_WITH_HOOLIGAN",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Midnight Bread Crisis",
+      "description": "Successfully deal with troublemakers once"
+    },
+    {
+      "apiname": "ACH_COMPLETE_1_DELIVERY",
+      "achieved": 1,
+      "unlocktime": 1773824098,
+      "name": "First Delivery Experience",
+      "description": "Complete 1 delivery order"
+    },
+    {
+      "apiname": "ACH_COMPLETE_10_DELIVERY",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Delivery Expert",
+      "description": "Complete 10 delivery orders"
+    },
+    {
+      "apiname": "ACH_COMPLETE_50_DELIVERY",
+      "achieved": 1,
+      "unlocktime": 1776592389,
+      "name": "Delivery Tycoon",
+      "description": "Complete 50 delivery orders"
+    },
+    {
+      "apiname": "ACH_FIRST_PUZZLE_PIECE",
+      "achieved": 1,
+      "unlocktime": 1773823200,
+      "name": "Puzzle Journey Begins",
+      "description": "Collect the first puzzle piece"
+    },
+    {
+      "apiname": "ACH_COMPLETE_1_PUZZLE",
+      "achieved": 1,
+      "unlocktime": 1775999810,
+      "name": "Puzzle Complete!",
+      "description": "Complete 1 puzzle"
+    },
+    {
+      "apiname": "ACH_COMPLETE_5_PUZZLES",
+      "achieved": 1,
+      "unlocktime": 1776255915,
+      "name": "Puzzle Enthusiast",
+      "description": "Complete 5 puzzles"
+    },
+    {
+      "apiname": "ACH_COMPLETE_10_PUZZLES",
+      "achieved": 1,
+      "unlocktime": 1776592389,
+      "name": "Puzzle Master",
+      "description": "Complete 10 puzzles"
+    },
+    {
+      "apiname": "ACH_COMPLETE_ALL_PUZZLES",
+      "achieved": 1,
+      "unlocktime": 1780167559,
+      "name": "Puzzle Grandmaster",
+      "description": "Complete all puzzles"
+    },
+    {
+      "apiname": "ACH_FIRST_GIFT_BOX",
+      "achieved": 1,
+      "unlocktime": 1773823459,
+      "name": "Little Packer",
+      "description": "Pack your first gift box"
+    },
+    {
+      "apiname": "ACH_PACK_50_GIFT_BOXES",
+      "achieved": 1,
+      "unlocktime": 1776000933,
+      "name": "Experienced Packer",
+      "description": "Pack 50 gift boxes in total"
+    },
+    {
+      "apiname": "ACH_PACK_100_GIFT_BOXES",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Skilled Packer",
+      "description": "Pack 100 gift boxes in total"
+    },
+    {
+      "apiname": "ACH_PACK_200_GIFT_BOXES",
+      "achieved": 1,
+      "unlocktime": 1776254593,
+      "name": "Packing Master",
+      "description": "Pack 200 gift boxes in total"
+    },
+    {
+      "apiname": "ACH_FIRST_STICKER",
+      "achieved": 1,
+      "unlocktime": 1773823839,
+      "name": "First Sticker",
+      "description": "Get your first sticker"
+    },
+    {
+      "apiname": "ACH_10_STICKERS",
+      "achieved": 1,
+      "unlocktime": 1775999875,
+      "name": "Sticker Expert",
+      "description": "Collect 10 stickers in total"
+    },
+    {
+      "apiname": "ACH_ALL_STICKERS",
+      "achieved": 1,
+      "unlocktime": 1780168856,
+      "name": "Sticker Collector",
+      "description": "Collect all stickers"
+    },
+    {
+      "apiname": "ACH_FIRST_RARE_STICKER",
+      "achieved": 1,
+      "unlocktime": 1775998123,
+      "name": "Rare Sticker GET!",
+      "description": "Get a rare sticker for the first time"
+    },
+    {
+      "apiname": "ACH_QUICK_HANDOFF",
+      "achieved": 1,
+      "unlocktime": 1773823118,
+      "name": "Lightning Hands",
+      "description": "Successfully hand bread to a customer within 1 second"
+    },
+    {
+      "apiname": "ACH_FULL_TABLE",
+      "achieved": 1,
+      "unlocktime": 1773823431,
+      "name": "Bread Feast",
+      "description": "The table is full of bread"
+    },
+    {
+      "apiname": "ACH_WRONG_5_CUSTOMERS",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Flustered",
+      "description": "Serve 5 customers incorrectly in a row"
+    },
+    {
+      "apiname": "ACH_FIRST_FAVORITE",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Thoughtful Shop Owner",
+      "description": "Give a customer their favorite bread for the first time"
+    },
+    {
+      "apiname": "ACH_20_BREAD_IN_BASKET",
+      "achieved": 1,
+      "unlocktime": 1780169168,
+      "name": "Mountain in the Basket",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_3_WRONG_IN_10S",
+      "achieved": 1,
+      "unlocktime": 1776254148,
+      "name": "Chaotic Moment",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_3_CUSTOMERS_IN_10S",
+      "achieved": 1,
+      "unlocktime": 1776000270,
+      "name": "Limit Service",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NO_ANGRY_CUSTOMERS",
+      "achieved": 1,
+      "unlocktime": 1773823479,
+      "name": "Perfect Day",
+      "description": ""
+    }
+  ]
+}

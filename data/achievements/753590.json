@@ -1,0 +1,235 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 753590,
+  "game": "Hellbound",
+  "total": 32,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:37.236985+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First discovery",
+      "description": "Find a secret area"
+    },
+    {
+      "apiname": "ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inception secret",
+      "description": "Find the super secret area in The Heroes' Cemetery"
+    },
+    {
+      "apiname": "ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"You're not supposed to be here\"",
+      "description": "Find the \"You got stuck\" message in Flying Souls"
+    },
+    {
+      "apiname": "ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Saibot with love <3",
+      "description": "Find the developers message in The Core"
+    },
+    {
+      "apiname": "ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100% Slayer",
+      "description": "Kill 100% of enemies in a campaign level"
+    },
+    {
+      "apiname": "ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100% Collector",
+      "description": "Pickup 100% of items in a campaign level"
+    },
+    {
+      "apiname": "ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100% Holmes",
+      "description": "Find 100% of secrets in a camapain level"
+    },
+    {
+      "apiname": "ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300% MORTAL",
+      "description": "Complete a campaign level in 300%"
+    },
+    {
+      "apiname": "ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300% GOD",
+      "description": "Complete all campaign levels in 300%"
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just warming up",
+      "description": "Beat campaign level 1"
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell-speedrunner",
+      "description": "Beat a campaign PAR time"
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's it?",
+      "description": "Finish the campaign"
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like the good old days...",
+      "description": "Finish the campaign in Old School difficulty"
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "UNSTOPPABLE",
+      "description": "Finish the campaign in HELLMARE! difficulty"
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor first timer",
+      "description": "Play (and die) in a survival arena"
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran survivor",
+      "description": "Get to the final wave in a survival arena"
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer instinct",
+      "description": "Survive more than 15 minutes in a survival arena"
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocket madness!",
+      "description": "Pick up the Rocket Launcher"
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"Your soul is mine!\"",
+      "description": "Pick up a Soul Orb"
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"I'll be back\"",
+      "description": "Die by lava"
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"You were supposed to destroy them!\"",
+      "description": "Die by an Exploding Pumpkin"
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I swear, game was glitching",
+      "description": "Die by a Hell Knight Guard"
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple shot, triple kill",
+      "description": "Kill 3 enemies (or more) with a single shot of the Triple Shotgun"
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nobody move! Freeze!",
+      "description": "Kill 10 enemies with the Indolora without releasing the trigger"
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood bath",
+      "description": "Kill 5 enemies (or more) with a single rocket or grenade of the Rocket Launcher"
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Piñata time",
+      "description": "Kill a Pygon using the Head Crusher"
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon barbecue",
+      "description": "Kill an enemy and drop its body into the lava"
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell-streak!",
+      "description": "Kill 30 enemies during Hell Damage"
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Size doesn't matter",
+      "description": "Kill Ferlord"
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "House of 1000 corpses",
+      "description": "Kill a total of 1000 enemies"
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"Hmph! Hmph! Hmph! Where is it?\"",
+      "description": "Press the interact button and miss 12 times in a row"
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who reads this?",
+      "description": "Check the entire credits"
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1627720,
+  "game": "Lies of P",
+  "total": 53,
+  "unlocked": 53,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:16.261721+00:00",
+  "achievements": [
+    {
+      "apiname": "LOP_102",
+      "achieved": 1,
+      "unlocktime": 1762235203,
+      "name": "Real boy : They all lived happily ever after",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_103",
+      "achieved": 1,
+      "unlocktime": 1697290360,
+      "name": "Free from the puppet string",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_104",
+      "achieved": 1,
+      "unlocktime": 1762367734,
+      "name": "Rise of P",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_105",
+      "achieved": 1,
+      "unlocktime": 1697290258,
+      "name": "The First Puppet",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_106",
+      "achieved": 1,
+      "unlocktime": 1697282523,
+      "name": "Strongest Normal Weapon",
+      "description": "Strengthen a normal weapon to its max level."
+    },
+    {
+      "apiname": "LOP_107",
+      "achieved": 1,
+      "unlocktime": 1762174416,
+      "name": "Strongest Special Weapon",
+      "description": "Strengthen a special weapon to its max level."
+    },
+    {
+      "apiname": "LOP_108",
+      "achieved": 1,
+      "unlocktime": 1697282470,
+      "name": "Strongest Legion Arm",
+      "description": "Modify a Legion Arm to its max level."
+    },
+    {
+      "apiname": "LOP_109",
+      "achieved": 1,
+      "unlocktime": 1762174466,
+      "name": "Extreme Potential",
+      "description": "Activate P-Organ to Phase 5."
+    },
+    {
+      "apiname": "LOP_110",
+      "achieved": 1,
+      "unlocktime": 1762235523,
+      "name": "Pianist of Krat",
+      "description": "Play a perfect tune on the piano at Hotel Krat."
+    },
+    {
+      "apiname": "LOP_111",
+      "achieved": 1,
+      "unlocktime": 1762172327,
+      "name": "Legion Arm Collector",
+      "description": "Collect all Legion Arms."
+    },
+    {
+      "apiname": "LOP_112",
+      "achieved": 1,
+      "unlocktime": 1762432279,
+      "name": "Special Weapon Collector",
+      "description": "Collect all special weapons."
+    },
+    {
+      "apiname": "LOP_113",
+      "achieved": 1,
+      "unlocktime": 1762228505,
+      "name": "Normal Weapon Collector",
+      "description": "Collect all normal weapons."
+    },
+    {
+      "apiname": "LOP_114",
+      "achieved": 1,
+      "unlocktime": 1762428043,
+      "name": "Golden Melody",
+      "description": "Collect and play all records."
+    },
+    {
+      "apiname": "LOP_115",
+      "achieved": 1,
+      "unlocktime": 1762394480,
+      "name": "Learning about Emotions",
+      "description": "Learn all gestures."
+    },
+    {
+      "apiname": "LOP_116",
+      "achieved": 1,
+      "unlocktime": 1762370189,
+      "name": "Veteran Explorer",
+      "description": "Decipher all cryptic vessels and claim the rewards."
+    },
+    {
+      "apiname": "LOP_117",
+      "achieved": 1,
+      "unlocktime": 1762234860,
+      "name": "End of Riddles",
+      "description": "Discover all Trinity Sanctums."
+    },
+    {
+      "apiname": "LOP_118",
+      "achieved": 1,
+      "unlocktime": 1697124691,
+      "name": "First Lie",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_119",
+      "achieved": 1,
+      "unlocktime": 1697123030,
+      "name": "Stargazer’s Guide",
+      "description": "Repair a Stargazer."
+    },
+    {
+      "apiname": "LOP_120",
+      "achieved": 1,
+      "unlocktime": 1697207588,
+      "name": "Exploring Possibilities",
+      "description": "Try to assemble a weapon."
+    },
+    {
+      "apiname": "LOP_121",
+      "achieved": 1,
+      "unlocktime": 1697122360,
+      "name": "The Ultimate Defense Technique",
+      "description": "Destroy an enemy’s weapon with a perfect guard."
+    },
+    {
+      "apiname": "LOP_122",
+      "achieved": 1,
+      "unlocktime": 1697122448,
+      "name": "Fatal Blow",
+      "description": "Deliver a successful Fatal Attack."
+    },
+    {
+      "apiname": "LOP_123",
+      "achieved": 1,
+      "unlocktime": 1697205141,
+      "name": "The Bastards and the Sweepers",
+      "description": "Kill a Stalker."
+    },
+    {
+      "apiname": "LOP_124",
+      "achieved": 1,
+      "unlocktime": 1697124545,
+      "name": "Parade Master",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_125",
+      "achieved": 1,
+      "unlocktime": 1697205753,
+      "name": "Scrapped Watchman",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_126",
+      "achieved": 1,
+      "unlocktime": 1697212817,
+      "name": "King's Flame",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_127",
+      "achieved": 1,
+      "unlocktime": 1697261440,
+      "name": "Fallen Archbishop",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_128",
+      "achieved": 1,
+      "unlocktime": 1697265695,
+      "name": "The Delayed Match",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_129",
+      "achieved": 1,
+      "unlocktime": 1697270093,
+      "name": "King of Puppets",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_130",
+      "achieved": 1,
+      "unlocktime": 1697273808,
+      "name": "The Champion of Evolution",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_131",
+      "achieved": 1,
+      "unlocktime": 1697278721,
+      "name": "Puppet-Devouring Green Monster",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_132",
+      "achieved": 1,
+      "unlocktime": 1697282141,
+      "name": "Corrupted Parade Master",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_133",
+      "achieved": 1,
+      "unlocktime": 1697283622,
+      "name": "Revenge of Black",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_134",
+      "achieved": 1,
+      "unlocktime": 1697288006,
+      "name": "The Complete One",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_135",
+      "achieved": 1,
+      "unlocktime": 1697289662,
+      "name": "The Awakened God",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_136",
+      "achieved": 1,
+      "unlocktime": 1697266416,
+      "name": "Bear Gold Coin Fruit",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_137",
+      "achieved": 1,
+      "unlocktime": 1697271375,
+      "name": "From Across the Rift",
+      "description": "Kill all types of Dimensional Butterflies."
+    },
+    {
+      "apiname": "LOP_138",
+      "achieved": 1,
+      "unlocktime": 1762196790,
+      "name": "The Story of the Prince",
+      "description": "Find out about the last story of Venigni."
+    },
+    {
+      "apiname": "LOP_139",
+      "achieved": 1,
+      "unlocktime": 1762228173,
+      "name": "The Story of the Refined Old Lady",
+      "description": "Find out about the last story of Antonia."
+    },
+    {
+      "apiname": "LOP_140",
+      "achieved": 1,
+      "unlocktime": 1697289717,
+      "name": "The Story of the One Who Dreamed",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_141",
+      "achieved": 1,
+      "unlocktime": 1762235404,
+      "name": "The Story of One Father",
+      "description": "Find out about the last story of Geppetto."
+    },
+    {
+      "apiname": "LOP_142",
+      "achieved": 1,
+      "unlocktime": 1762174575,
+      "name": "The Story of a Stranger Girl",
+      "description": "Find out about the last story of Eugénie."
+    },
+    {
+      "apiname": "LOP_143",
+      "achieved": 1,
+      "unlocktime": 1762366544,
+      "name": "The Story of the Blue Butterfly",
+      "description": "Find out about the last story of Sophia."
+    },
+    {
+      "apiname": "LOP_144",
+      "achieved": 1,
+      "unlocktime": 1762365466,
+      "name": "The Rose's Memory",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_145",
+      "achieved": 1,
+      "unlocktime": 1762365867,
+      "name": "Enduring Resolve",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_146",
+      "achieved": 1,
+      "unlocktime": 1762368250,
+      "name": "True Combat Gear Collector",
+      "description": "Collect all weapons and Legion Arms in the Forgotten Time."
+    },
+    {
+      "apiname": "LOP_147",
+      "achieved": 1,
+      "unlocktime": 1762325406,
+      "name": "Beyond Limitless Potential",
+      "description": "Further upgrade the abilities of the P-Organ."
+    },
+    {
+      "apiname": "LOP_148",
+      "achieved": 1,
+      "unlocktime": 1762500219,
+      "name": "Memory's Melody",
+      "description": "Collect and listen to all records from the Forgotten Time."
+    },
+    {
+      "apiname": "LOP_149",
+      "achieved": 1,
+      "unlocktime": 1762369087,
+      "name": "To Be Human",
+      "description": "Learn all gestures from the Forgotten Time."
+    },
+    {
+      "apiname": "LOP_150",
+      "achieved": 1,
+      "unlocktime": 1762365296,
+      "name": "Tracker of Dark Secrets",
+      "description": "Decrypt all clues hidden inside the cipher machines and claim the rewards."
+    },
+    {
+      "apiname": "LOP_151",
+      "achieved": 1,
+      "unlocktime": 1762322484,
+      "name": "Puppeteer of Death",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_152",
+      "achieved": 1,
+      "unlocktime": 1762356467,
+      "name": "Anguished Guardian",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_153",
+      "achieved": 1,
+      "unlocktime": 1762365296,
+      "name": "The Blood Artist",
+      "description": ""
+    },
+    {
+      "apiname": "LOP_154",
+      "achieved": 1,
+      "unlocktime": 1762358042,
+      "name": "Honor and Revenge",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3007490,
+  "game": "走亲戚大作战",
+  "total": 10,
+  "unlocked": 10,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:11.910178+00:00",
+  "achievements": [
+    {
+      "apiname": "走亲戚大作战_CJ_ach_game_first",
+      "achieved": 1,
+      "unlocktime": 1768756887,
+      "name": "怼亲戚的第一步",
+      "description": "完成一局对战"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_qhb_socre_300",
+      "achieved": 1,
+      "unlocktime": 1771219030,
+      "name": "抢红包小能手",
+      "description": "在不抓到臭袜子的情况下积分达到300"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_bjz_all_formula",
+      "achieved": 1,
+      "unlocktime": 1771223434,
+      "name": "饺子达人",
+      "description": "每种目标饺子都包出来"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_special_khx_other_result",
+      "achieved": 1,
+      "unlocktime": 1771224686,
+      "name": "看猴戏",
+      "description": "达成看猴戏特殊结局"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_speical_touch_cat_all_planc",
+      "achieved": 1,
+      "unlocktime": 1771219699,
+      "name": "到处都是猫咪",
+      "description": ""
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_talk_any_player_pass",
+      "achieved": 1,
+      "unlocktime": 1769996999,
+      "name": "龙王也来串门",
+      "description": "任意一个角色通关主线"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_talk_all_player_pass",
+      "achieved": 1,
+      "unlocktime": 1771218919,
+      "name": "大家一起过大年",
+      "description": "所有角色通关主线"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_ng_more_then1",
+      "achieved": 1,
+      "unlocktime": 1768756964,
+      "name": "原来我还有这种才能",
+      "description": "解锁一个天赋"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_ng_all",
+      "achieved": 1,
+      "unlocktime": 1771224912,
+      "name": "我是个全才",
+      "description": "解锁所有天赋"
+    },
+    {
+      "apiname": "走亲戚大作战_CJ_ach_pj_kill_shg",
+      "achieved": 1,
+      "unlocktime": 1769996624,
+      "name": "酒中仙",
+      "description": "在拼酒游戏中战胜三叔公"
+    }
+  ]
+}

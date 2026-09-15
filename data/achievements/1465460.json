@@ -1,0 +1,242 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1465460,
+  "game": "Infection Free Zone",
+  "total": 33,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:53.978085+00:00",
+  "achievements": [
+    {
+      "apiname": "achiv_kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill them all!",
+      "description": "Kill 1000 infected"
+    },
+    {
+      "apiname": "achiv_car",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carmageddon",
+      "description": "Kill 100 infected by running them over"
+    },
+    {
+      "apiname": "achiv_melee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullet saver",
+      "description": "Kill 100 infected with melee weapons"
+    },
+    {
+      "apiname": "achiv_eco",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eco Friendly",
+      "description": "No tree cutting allowed for 24 days, fuel engines usage disallowed. Deconstruction allowed. Green energy allowed"
+    },
+    {
+      "apiname": "achiv_deny",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No trespassing!",
+      "description": "Deny 10 groups of immigrants"
+    },
+    {
+      "apiname": "achiv_accept",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Save Haven",
+      "description": "Accept 10 groups of immigrants"
+    },
+    {
+      "apiname": "achiv_nofarm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We do not sow",
+      "description": "No farming for 50 days. Scavenge or eat people!"
+    },
+    {
+      "apiname": "achiv_days",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Persistent",
+      "description": "Survive 50 days in a single location"
+    },
+    {
+      "apiname": "achiv_antenna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hello there",
+      "description": "Build an antenna"
+    },
+    {
+      "apiname": "achiv_build",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Constructor",
+      "description": "Every type of building constructed"
+    },
+    {
+      "apiname": "achiv_veh",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Driver",
+      "description": "Every type of vehicle operated"
+    },
+    {
+      "apiname": "achiv_gears_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons Master",
+      "description": "Every type of weapon owned"
+    },
+    {
+      "apiname": "achiv_1000survivors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Governor",
+      "description": "Gather 200 survivors at once"
+    },
+    {
+      "apiname": "achiv_prepper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Prepper",
+      "description": "Find a prepper fallout shelter"
+    },
+    {
+      "apiname": "achiv_legend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am Legend",
+      "description": "Survive 12 days with only one survivor"
+    },
+    {
+      "apiname": "achiv_recomm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Globetrotter",
+      "description": "Survive for 12 full in-game days and make it to sunrise on Day 13 on five different recommended maps."
+    },
+    {
+      "apiname": "achiv_raiders",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour",
+      "description": "Save the raiders"
+    },
+    {
+      "apiname": "achiv_military",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbroken",
+      "description": "Defeat the military"
+    },
+    {
+      "apiname": "achiv_days_veryHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seasoned Survivor",
+      "description": "Survive 24 consecutive days on very hard difficulty"
+    },
+    {
+      "apiname": "achiv_no_walls",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No walls",
+      "description": "Survive 24 consecutive days without building walls"
+    },
+    {
+      "apiname": "achiv_vaccine_researched",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Science, b****!",
+      "description": "Research the vaccine"
+    },
+    {
+      "apiname": "achiv_science",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anyone home?",
+      "description": "Find the scientists"
+    },
+    {
+      "apiname": "achiv_purif",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The king is dead",
+      "description": "Kill the leader of the purifiers"
+    },
+    {
+      "apiname": "achiv_convoy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the road again",
+      "description": "Send a convoy"
+    },
+    {
+      "apiname": "achiv_utopia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Utopia",
+      "description": "Survive 12 days with all pro-people laws in place at once (Child support, Mature labour, Doubled rations, Time off, Accept all)"
+    },
+    {
+      "apiname": "achiv_dystopia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dystopia",
+      "description": "Survive 12 days with all antipeople laws in place at once (Birth control, Child labour, Halved rations, Extra shifts, Deny all)"
+    },
+    {
+      "apiname": "achiv_tank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Metal",
+      "description": "Bring a tank into your arsenal"
+    },
+    {
+      "apiname": "achiv_demolition",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a trap",
+      "description": "Kill an enemy using planted explosives in a building"
+    },
+    {
+      "apiname": "achiv_grenade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire in the hole!",
+      "description": "Kill 10 infected with a single grenade"
+    },
+    {
+      "apiname": "achiv_purifiers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extinction Protocol",
+      "description": "Clear a Purifier Zone"
+    },
+    {
+      "apiname": "achiv_cannibalism",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cannibalism",
+      "description": "Enact the Cannibalism law and obtain meat from a human"
+    },
+    {
+      "apiname": "achiv_moose_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moose Hunter",
+      "description": "Kill an infected moose"
+    },
+    {
+      "apiname": "achiv_bear_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bear Hunter",
+      "description": "Kill an infected bear"
+    }
+  ]
+}

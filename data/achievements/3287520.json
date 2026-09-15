@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3287520,
+  "game": "NINJA GAIDEN 2 Black",
+  "total": 38,
+  "unlocked": 25,
+  "percent": 65.8,
+  "updated_at_utc": "2026-09-15T06:53:28.013294+00:00",
+  "achievements": [
+    {
+      "apiname": "00_ALL_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Secret Arts",
+      "description": "Obtained all achievements."
+    },
+    {
+      "apiname": "01_URAKAZE",
+      "achieved": 1,
+      "unlocktime": 1754048974,
+      "name": "Like the Wind",
+      "description": "Successfully perform the Reverse Wind technique."
+    },
+    {
+      "apiname": "02_GUARD_URAKAZE",
+      "achieved": 1,
+      "unlocktime": 1754067981,
+      "name": "The Blue Gale",
+      "description": "Successfully perform the Furious Wind technique."
+    },
+    {
+      "apiname": "03_WALL_RUN",
+      "achieved": 1,
+      "unlocktime": 1754048942,
+      "name": "Cast No Shadow",
+      "description": "Successfully perform the Shadowless Footsteps technique."
+    },
+    {
+      "apiname": "04_HIEN",
+      "achieved": 1,
+      "unlocktime": 1754064925,
+      "name": "Like a Swallow",
+      "description": "Successfully perform the Flying Swallow technique."
+    },
+    {
+      "apiname": "05_ASUKA_TURN",
+      "achieved": 1,
+      "unlocktime": 1754049240,
+      "name": "Need Not a Ladder",
+      "description": "Successfully perform the Flying Bird Flip technique."
+    },
+    {
+      "apiname": "06_TODOME",
+      "achieved": 1,
+      "unlocktime": 1754048967,
+      "name": "Certain Death",
+      "description": "Successfully perform the Obliteration Technique."
+    },
+    {
+      "apiname": "07_ZETSUGI",
+      "achieved": 1,
+      "unlocktime": 1754065242,
+      "name": "Strong Heart",
+      "description": "Successfully perform the Ultimate Technique."
+    },
+    {
+      "apiname": "08_BOOST_ZETSUGI",
+      "achieved": 1,
+      "unlocktime": 1754065242,
+      "name": "The Last Rites",
+      "description": "Successfully perform the Ultimate Guidance technique."
+    },
+    {
+      "apiname": "09_GUARD_CANCEL",
+      "achieved": 1,
+      "unlocktime": 1754067489,
+      "name": "Cool and Calm",
+      "description": "Successfully perform the Counter Attack technique."
+    },
+    {
+      "apiname": "10_REN_WALLRUN",
+      "achieved": 1,
+      "unlocktime": 1754133106,
+      "name": "Running Through",
+      "description": "Successfully perform the Unrivaled Soaring technique."
+    },
+    {
+      "apiname": "11_DUAL_WALLRUN",
+      "achieved": 1,
+      "unlocktime": 1754133617,
+      "name": "Passing the Void",
+      "description": "Successfully perform the Invisible Path technique."
+    },
+    {
+      "apiname": "12_IZUNA",
+      "achieved": 1,
+      "unlocktime": 1754068086,
+      "name": "Izuna Drop",
+      "description": "Successfully perform the Izuna Drop technique."
+    },
+    {
+      "apiname": "13_NECK_THROW",
+      "achieved": 1,
+      "unlocktime": 1754067607,
+      "name": "Throat Cutting Wind",
+      "description": "Successfully perform the Guillotine Throw technique."
+    },
+    {
+      "apiname": "14_KAENRYU",
+      "achieved": 1,
+      "unlocktime": 1754049098,
+      "name": "Fiery Roar",
+      "description": "Successfully perform the Art of the Inferno Ninpo."
+    },
+    {
+      "apiname": "15_KAMAITACHI",
+      "achieved": 1,
+      "unlocktime": 1754564443,
+      "name": "Ruthless Vacuum Wave",
+      "description": "Successfully perform the Art of the Wind Blades Ninpo."
+    },
+    {
+      "apiname": "16_ONIBI",
+      "achieved": 1,
+      "unlocktime": 1754068954,
+      "name": "Flame Phoenix Blessings",
+      "description": "Successfully perform the Art of the Flame Phoenix Ninpo."
+    },
+    {
+      "apiname": "17_HADODAN",
+      "achieved": 1,
+      "unlocktime": 1754564452,
+      "name": "Unstable Gravity",
+      "description": "Successfully perform the Art of the Piercing Void Ninpo."
+    },
+    {
+      "apiname": "18_TRAVERSE_TOKYO",
+      "achieved": 1,
+      "unlocktime": 1754066044,
+      "name": "Sky City Tokyo",
+      "description": ""
+    },
+    {
+      "apiname": "19_TRAVERSE_NEWYORK",
+      "achieved": 1,
+      "unlocktime": 1754191857,
+      "name": "A Captive Goddess",
+      "description": ""
+    },
+    {
+      "apiname": "20_TRAVERSE_VENICE",
+      "achieved": 1,
+      "unlocktime": 1754196693,
+      "name": "The Lycanthropes' Castle",
+      "description": ""
+    },
+    {
+      "apiname": "21_TRAVERSE_RUSSIA",
+      "achieved": 1,
+      "unlocktime": 1754582233,
+      "name": "Submit, or Die!",
+      "description": ""
+    },
+    {
+      "apiname": "22_TRAVERSE_AMAZON",
+      "achieved": 1,
+      "unlocktime": 1754669554,
+      "name": "The Temple of Sacrifice",
+      "description": ""
+    },
+    {
+      "apiname": "23_GAMECLEAR_ACOLYTE",
+      "achieved": 1,
+      "unlocktime": 1754675669,
+      "name": "Trial of the Acolyte",
+      "description": ""
+    },
+    {
+      "apiname": "24_GAMECLEAR_WARRIOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Awakening of the Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "25_GAMECLEAR_MENTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginning of Mentoring",
+      "description": ""
+    },
+    {
+      "apiname": "26_GAMECLEAR_MASTERNINJA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Step towards Ninja Mastery",
+      "description": ""
+    },
+    {
+      "apiname": "27_MASTER_ACOLYTE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of the Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "28_MASTER_WARRIOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of the Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "29_MASTER_MENTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of the Mentor",
+      "description": ""
+    },
+    {
+      "apiname": "30_MASTER_MASTERNINJA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of the Master Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "31_SKULL_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Skull",
+      "description": "Obtain all of the Crystal Skulls."
+    },
+    {
+      "apiname": "32_COMBO_MASTER",
+      "achieved": 1,
+      "unlocktime": 1754067294,
+      "name": "Chain of 100 Slashes",
+      "description": "Achieve a 100-hit combo with any weapon."
+    },
+    {
+      "apiname": "33_HAYABUSA_MASTER",
+      "achieved": 1,
+      "unlocktime": 1754582207,
+      "name": "Dragon Ninja",
+      "description": "Defeat 1000 enemies with Hayabusa."
+    },
+    {
+      "apiname": "34_AYANE_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kunoichi",
+      "description": ""
+    },
+    {
+      "apiname": "35_MOMIJI_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Shrine Maiden",
+      "description": ""
+    },
+    {
+      "apiname": "36_RACHEL_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiend Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "40_TAGMISSION_NORMAL_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Power of Two",
+      "description": ""
+    }
+  ]
+}

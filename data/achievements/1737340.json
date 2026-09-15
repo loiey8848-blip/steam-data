@@ -1,0 +1,879 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1737340,
+  "game": "通神榜 Noobs Want to Live",
+  "total": 124,
+  "unlocked": 89,
+  "percent": 71.8,
+  "updated_at_utc": "2026-09-15T06:52:19.169531+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH1",
+      "achieved": 1,
+      "unlocktime": 1677162886,
+      "name": "Entering Peachville",
+      "description": "Clear Difficulty I 1 time"
+    },
+    {
+      "apiname": "ACH2",
+      "achieved": 1,
+      "unlocktime": 1677385523,
+      "name": "Exploring Peachville",
+      "description": "Clear Difficulty II 1 time"
+    },
+    {
+      "apiname": "ACH3",
+      "achieved": 1,
+      "unlocktime": 1677418002,
+      "name": "Roaming Peachville",
+      "description": "Clear Difficulty III 1 time"
+    },
+    {
+      "apiname": "ACH4",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Peachville Maestro",
+      "description": "Clear the Ancient Fields 1 time"
+    },
+    {
+      "apiname": "ACH5",
+      "achieved": 1,
+      "unlocktime": 1677162201,
+      "name": "Silverring Exterminator 1",
+      "description": "Silverrings to exterminate: 50"
+    },
+    {
+      "apiname": "ACH6",
+      "achieved": 1,
+      "unlocktime": 1677162886,
+      "name": "Silverring Exterminator 2",
+      "description": "Silverrings to exterminate: 200"
+    },
+    {
+      "apiname": "ACH7",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Silverring Exterminator 3",
+      "description": "Silverrings to exterminate: 500"
+    },
+    {
+      "apiname": "ACH8",
+      "achieved": 1,
+      "unlocktime": 1677382625,
+      "name": "Silverring Exterminator 4",
+      "description": "Silverrings to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH9",
+      "achieved": 1,
+      "unlocktime": 1677418039,
+      "name": "Silverring Exterminator 5",
+      "description": "Silverrings to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH10",
+      "achieved": 1,
+      "unlocktime": 1677162886,
+      "name": "Purring Exterminator 1",
+      "description": "Purrings to exterminate: 500"
+    },
+    {
+      "apiname": "ACH11",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Purring Exterminator 2",
+      "description": "Purrings to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH12",
+      "achieved": 1,
+      "unlocktime": 1677386373,
+      "name": "Purring Exterminator 3",
+      "description": "Purrings to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH13",
+      "achieved": 1,
+      "unlocktime": 1677420292,
+      "name": "Purring Exterminator 4",
+      "description": "Purrings to exterminate: 5000"
+    },
+    {
+      "apiname": "ACH14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purring Exterminator 5",
+      "description": "Purrings to exterminate: 10000"
+    },
+    {
+      "apiname": "ACH15",
+      "achieved": 1,
+      "unlocktime": 1677382626,
+      "name": "Rocky Exterminator 1",
+      "description": "Rockies to exterminate: 100"
+    },
+    {
+      "apiname": "ACH16",
+      "achieved": 1,
+      "unlocktime": 1677384597,
+      "name": "Rocky Exterminator 2",
+      "description": "Rockies to exterminate: 200"
+    },
+    {
+      "apiname": "ACH17",
+      "achieved": 1,
+      "unlocktime": 1677386373,
+      "name": "Rocky Exterminator 3",
+      "description": "Rockies to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH18",
+      "achieved": 1,
+      "unlocktime": 1677650170,
+      "name": "Rocky Exterminator 4",
+      "description": "Rockies to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocky Exterminator 5",
+      "description": "Rockies to exterminate: 5000"
+    },
+    {
+      "apiname": "ACH20",
+      "achieved": 1,
+      "unlocktime": 1677385526,
+      "name": "Angerring/Devirring Exterminator 1",
+      "description": "Angerrings/Devirrings to exterminate: 200"
+    },
+    {
+      "apiname": "ACH21",
+      "achieved": 1,
+      "unlocktime": 1677385526,
+      "name": "Angerring/Devirring Exterminator 2",
+      "description": "Angerrings/Devirrings to exterminate: 500 "
+    },
+    {
+      "apiname": "ACH22",
+      "achieved": 1,
+      "unlocktime": 1677386373,
+      "name": "Angerring/Devirring Exterminator 3",
+      "description": "Angerrings/Devirrings to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH23",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Angerring/Devirring Exterminator 4",
+      "description": "Angerrings/Devirrings to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angerring/Devirring Exterminator 5",
+      "description": "Angerrings/Devirrings to exterminate: 10000"
+    },
+    {
+      "apiname": "ACH25",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Purrurring Exterminator 1",
+      "description": "Purrurrings to exterminate: 200"
+    },
+    {
+      "apiname": "ACH26",
+      "achieved": 1,
+      "unlocktime": 1677383289,
+      "name": "Purrurring Exterminator 2",
+      "description": "Purrurrings to exterminate: 500"
+    },
+    {
+      "apiname": "ACH27",
+      "achieved": 1,
+      "unlocktime": 1677384597,
+      "name": "Purrurring Exterminator 3",
+      "description": "Purrurrings to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH28",
+      "achieved": 1,
+      "unlocktime": 1677405656,
+      "name": "Purrurring Exterminator 4",
+      "description": "Purrurrings to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH29",
+      "achieved": 1,
+      "unlocktime": 1678011043,
+      "name": "Purrurring Exterminator 5",
+      "description": "Purrurrings to exterminate: 10000"
+    },
+    {
+      "apiname": "ACH30",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Purrate Exterminator 1",
+      "description": "Purrates to exterminate: 20"
+    },
+    {
+      "apiname": "ACH31",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Purrate Exterminator 2",
+      "description": "Purrates to exterminate: 50"
+    },
+    {
+      "apiname": "ACH32",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Purrate Exterminator 3",
+      "description": "Purrates to exterminate: 100"
+    },
+    {
+      "apiname": "ACH33",
+      "achieved": 1,
+      "unlocktime": 1677418039,
+      "name": "Purrate Exterminator 4",
+      "description": "Purrates to exterminate: 500"
+    },
+    {
+      "apiname": "ACH34",
+      "achieved": 1,
+      "unlocktime": 1677423665,
+      "name": "Purrate Exterminator 5",
+      "description": "Purrates to exterminate: 2000"
+    },
+    {
+      "apiname": "ACH35",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Toxicat Exterminator 1",
+      "description": "Toxicats to exterminate: 200"
+    },
+    {
+      "apiname": "ACH36",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Toxicat Exterminator 2",
+      "description": "Toxicats to exterminate: 500"
+    },
+    {
+      "apiname": "ACH37",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Toxicat Exterminator 3",
+      "description": "Toxicats to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH38",
+      "achieved": 1,
+      "unlocktime": 1677418039,
+      "name": "Toxicat Exterminator 4",
+      "description": "Toxicats to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH39",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Toxicat Exterminator 5",
+      "description": "Toxicats to exterminate: 10000"
+    },
+    {
+      "apiname": "ACH40",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Nappy Tomcat Exterminator 1",
+      "description": "Nappy Tomcats to exterminate: 200"
+    },
+    {
+      "apiname": "ACH41",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Nappy Tomcat Exterminator 2",
+      "description": "Nappy Tomcats to exterminate: 500"
+    },
+    {
+      "apiname": "ACH42",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Nappy Tomcat Exterminator 3",
+      "description": "Nappy Tomcats to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH43",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Nappy Tomcat Exterminator 4",
+      "description": "Nappy Tomcats to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nappy Tomcat Exterminator 5",
+      "description": "Nappy Tomcats to exterminate: 10000"
+    },
+    {
+      "apiname": "ACH45",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Devil Rocky Exterminator 1",
+      "description": "Devil Rockies to exterminate: 1000"
+    },
+    {
+      "apiname": "ACH46",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Devil Rocky Exterminator 2",
+      "description": "Devil Rockies to exterminate: 3000"
+    },
+    {
+      "apiname": "ACH47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devil Rocky Exterminator 3",
+      "description": "Devil Rockies to exterminate: 8000"
+    },
+    {
+      "apiname": "ACH48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devil Rocky Exterminator 4",
+      "description": "Devil Rockies to exterminate: 20000"
+    },
+    {
+      "apiname": "ACH49",
+      "achieved": 1,
+      "unlocktime": 1677384597,
+      "name": "Mammon Exterminator 1",
+      "description": "Mammons to exterminate: 10"
+    },
+    {
+      "apiname": "ACH50",
+      "achieved": 1,
+      "unlocktime": 1677405657,
+      "name": "Mammon Exterminator 2",
+      "description": "Mammons to exterminate: 30"
+    },
+    {
+      "apiname": "ACH51",
+      "achieved": 1,
+      "unlocktime": 1677650170,
+      "name": "Mammon Exterminator 3",
+      "description": "Mammons to exterminate: 50"
+    },
+    {
+      "apiname": "ACH52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mammon Exterminator 4",
+      "description": "Mammons to exterminate: 100"
+    },
+    {
+      "apiname": "ACH53",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Bombermeow Exterminator 1",
+      "description": "Bombermeows to exterminate: 20"
+    },
+    {
+      "apiname": "ACH54",
+      "achieved": 1,
+      "unlocktime": 1677418039,
+      "name": "Bombermeow Exterminator 2",
+      "description": "Bombermeows to exterminate: 50"
+    },
+    {
+      "apiname": "ACH55",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Bombermeow Exterminator 3",
+      "description": "Bombermeows to exterminate: 100"
+    },
+    {
+      "apiname": "ACH56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bombermeow Exterminator 4",
+      "description": "Bombermeows to exterminate: 500"
+    },
+    {
+      "apiname": "ACH57",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Meeting Your Father",
+      "description": "Darth Meowers to exterminate: 1 (Appears In Difficulty III, the Ancient Fields)"
+    },
+    {
+      "apiname": "ACH58",
+      "achieved": 1,
+      "unlocktime": 1677420292,
+      "name": "Darkness Expelled",
+      "description": "Darth Meowers to exterminate: 3 (Appears In Difficulty III, the Ancient Fields) "
+    },
+    {
+      "apiname": "ACH59",
+      "achieved": 1,
+      "unlocktime": 1677162202,
+      "name": "Big Purrings 1",
+      "description": "Big Purrings to exterminate: 1"
+    },
+    {
+      "apiname": "ACH60",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Big Purrings 2",
+      "description": "Big Purrings to exterminate: 3"
+    },
+    {
+      "apiname": "ACH61",
+      "achieved": 1,
+      "unlocktime": 1677383289,
+      "name": "Big Purrings 3",
+      "description": "Big Purrings to exterminate: 5"
+    },
+    {
+      "apiname": "ACH62",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Big Nappy Tomcats 1",
+      "description": "Big Nappy Tomcats to exterminate: 1"
+    },
+    {
+      "apiname": "ACH63",
+      "achieved": 1,
+      "unlocktime": 1677419003,
+      "name": "Big Nappy Tomcats 2",
+      "description": "Big Nappy Tomcats to exterminate: 3"
+    },
+    {
+      "apiname": "ACH64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Nappy Tomcats 3",
+      "description": "Big Nappy Tomcats to exterminate: 5"
+    },
+    {
+      "apiname": "ACH65",
+      "achieved": 1,
+      "unlocktime": 1677593470,
+      "name": "Big Purrurrings 1",
+      "description": "Big Purrurrings to exterminate: 1"
+    },
+    {
+      "apiname": "ACH66",
+      "achieved": 1,
+      "unlocktime": 1678011043,
+      "name": "Big Purrurrings 2",
+      "description": "Big Purrurrings to exterminate: 3"
+    },
+    {
+      "apiname": "ACH67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Purrurrings 3",
+      "description": "Big Purrurrings to exterminate: 5"
+    },
+    {
+      "apiname": "ACH68",
+      "achieved": 1,
+      "unlocktime": 1677405657,
+      "name": "Big Toxicats 1",
+      "description": "Big Toxicats to exterminate: 1"
+    },
+    {
+      "apiname": "ACH69",
+      "achieved": 1,
+      "unlocktime": 1677418039,
+      "name": "Big Toxicats 2",
+      "description": "Big Toxicats to exterminate: 3"
+    },
+    {
+      "apiname": "ACH70",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Big Toxicats 3",
+      "description": "Big Toxicats to exterminate: 5"
+    },
+    {
+      "apiname": "ACH71",
+      "achieved": 1,
+      "unlocktime": 1677382626,
+      "name": "Big Angerrings/Devirrings 1",
+      "description": "Big Angerrings/Devirrings to exterminate: 1"
+    },
+    {
+      "apiname": "ACH72",
+      "achieved": 1,
+      "unlocktime": 1677385526,
+      "name": "Big Angerrings/Devirrings 2",
+      "description": "Big Angerrings/Devirrings to exterminate: 3"
+    },
+    {
+      "apiname": "ACH73",
+      "achieved": 1,
+      "unlocktime": 1677405657,
+      "name": "Big Angerrings/Devirrings 3",
+      "description": "Big Angerrings/Devirrings to exterminate: 5"
+    },
+    {
+      "apiname": "ACH74",
+      "achieved": 1,
+      "unlocktime": 1677162202,
+      "name": "Big Rockies 1",
+      "description": "Big Rockies to exterminate:1"
+    },
+    {
+      "apiname": "ACH75",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Big Rockies 2",
+      "description": "Big Rockies to exterminate:3"
+    },
+    {
+      "apiname": "ACH76",
+      "achieved": 1,
+      "unlocktime": 1677383289,
+      "name": "Big Rockies 3",
+      "description": "Big Rockies to exterminate:5"
+    },
+    {
+      "apiname": "ACH77",
+      "achieved": 1,
+      "unlocktime": 1677384597,
+      "name": "Big Purrates 1",
+      "description": "Big Purrates to exterminate: 1"
+    },
+    {
+      "apiname": "ACH78",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Big Purrates 2",
+      "description": "Big Purrates to exterminate: 3"
+    },
+    {
+      "apiname": "ACH79",
+      "achieved": 1,
+      "unlocktime": 1677649335,
+      "name": "Big Purrates 3",
+      "description": "Big Purrates to exterminate: 5"
+    },
+    {
+      "apiname": "ACH80",
+      "achieved": 1,
+      "unlocktime": 1677162886,
+      "name": "Nameless Hero of the Future",
+      "description": "Nameless Hero (Time Traveler) to vanquish: 1 (Appears In Difficulty I, II, III)"
+    },
+    {
+      "apiname": "ACH81",
+      "achieved": 1,
+      "unlocktime": 1677385526,
+      "name": "Doggo of the Future",
+      "description": "Doggo (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)"
+    },
+    {
+      "apiname": "ACH82",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Great Beauty of the Future",
+      "description": "Great Beauty (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)"
+    },
+    {
+      "apiname": "ACH83",
+      "achieved": 1,
+      "unlocktime": 1677386373,
+      "name": "T-Swift of the Future",
+      "description": "T-Swift (Time Traveler) to vanquish: 1 (Appears In Difficulty II, III)"
+    },
+    {
+      "apiname": "ACH84",
+      "achieved": 1,
+      "unlocktime": 1677412306,
+      "name": "Porky of the Future",
+      "description": "Porky (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)"
+    },
+    {
+      "apiname": "ACH85",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Mr. Tea of the Future",
+      "description": "Mr. Tea (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)"
+    },
+    {
+      "apiname": "ACH86",
+      "achieved": 1,
+      "unlocktime": 1677420292,
+      "name": "Agent Dee of the Future",
+      "description": "Agent Dee (Time Traveler) to vanquish: 1 (Appears In Difficulty III, the Ancient Fields)"
+    },
+    {
+      "apiname": "ACH87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miss Shirker of the Future",
+      "description": "Miss Shirker (Time Traveler) to vanquish: 1 (Appears In the Ancient Fields)"
+    },
+    {
+      "apiname": "ACH88",
+      "achieved": 1,
+      "unlocktime": 1677162202,
+      "name": "Death's Cold Embrace 1",
+      "description": "Times to kick the bucket: 1"
+    },
+    {
+      "apiname": "ACH89",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "Death's Cold Embrace 2",
+      "description": "Times to kick the bucket: 3"
+    },
+    {
+      "apiname": "ACH90",
+      "achieved": 1,
+      "unlocktime": 1677384597,
+      "name": "Death's Cold Embrace 3",
+      "description": "Times to kick the bucket: 5"
+    },
+    {
+      "apiname": "ACH91",
+      "achieved": 1,
+      "unlocktime": 1677419005,
+      "name": "Death's Cold Embrace 4",
+      "description": "Times to kick the bucket: 7"
+    },
+    {
+      "apiname": "ACH92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death's Cold Embrace 5",
+      "description": "Times to kick the bucket: 10"
+    },
+    {
+      "apiname": "ACH93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death's Cold Embrace 6",
+      "description": "Times to kick the bucket: 20"
+    },
+    {
+      "apiname": "ACH94",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "The Grim Reaper",
+      "description": "Exterminate 5,000 foes in a single game"
+    },
+    {
+      "apiname": "ACH95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gaidin Warder",
+      "description": "Have a shield of 500"
+    },
+    {
+      "apiname": "ACH96",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Health Junky",
+      "description": "Have a max HP of 1,000"
+    },
+    {
+      "apiname": "ACH97",
+      "achieved": 1,
+      "unlocktime": 1677162202,
+      "name": "Let's Synergize Baby",
+      "description": "Synergies to unlock: 1"
+    },
+    {
+      "apiname": "ACH98",
+      "achieved": 1,
+      "unlocktime": 1677382119,
+      "name": "More Synergizing",
+      "description": "Synergies to unlock: 4"
+    },
+    {
+      "apiname": "ACH99",
+      "achieved": 1,
+      "unlocktime": 1677405657,
+      "name": "The Great Synergizer",
+      "description": "Synergies to unlock: 10"
+    },
+    {
+      "apiname": "ACH100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Synergy Overload",
+      "description": "Synergies to unlock: 30"
+    },
+    {
+      "apiname": "ACH101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neo's Synergy Matrix",
+      "description": "Synergies to unlock: 54"
+    },
+    {
+      "apiname": "ACH102",
+      "achieved": 1,
+      "unlocktime": 1678011043,
+      "name": "Nameless Hero's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Nameless Hero"
+    },
+    {
+      "apiname": "ACH103",
+      "achieved": 1,
+      "unlocktime": 1677649335,
+      "name": "Great Beauty's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Great Beauty"
+    },
+    {
+      "apiname": "ACH104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T-Swift's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as T-Swift"
+    },
+    {
+      "apiname": "ACH105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doggo's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Doggo"
+    },
+    {
+      "apiname": "ACH106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Porky's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Porky"
+    },
+    {
+      "apiname": "ACH107",
+      "achieved": 1,
+      "unlocktime": 1677421841,
+      "name": "Darth Meower's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Darth Meower"
+    },
+    {
+      "apiname": "ACH108",
+      "achieved": 1,
+      "unlocktime": 1677423667,
+      "name": "Mr. Tea's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Mr. Tea"
+    },
+    {
+      "apiname": "ACH109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agent Dee's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Agent Dee"
+    },
+    {
+      "apiname": "ACH110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miss Shirker's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Miss Shirker"
+    },
+    {
+      "apiname": "ACH111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peachville Champion",
+      "description": "Acquire all skins"
+    },
+    {
+      "apiname": "ACH112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Man's Best Friend (?)",
+      "description": ""
+    },
+    {
+      "apiname": "ACH113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Play Hard to Get",
+      "description": ""
+    },
+    {
+      "apiname": "ACH114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penta Hat Trick",
+      "description": ""
+    },
+    {
+      "apiname": "ACH115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poop Your Poop and Eat It Too",
+      "description": ""
+    },
+    {
+      "apiname": "ACH116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anal Evacuation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Late to the Party",
+      "description": ""
+    },
+    {
+      "apiname": "ACH118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Just Business",
+      "description": ""
+    },
+    {
+      "apiname": "ACH119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Save Em All",
+      "description": ""
+    },
+    {
+      "apiname": "ACH120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enter Through the Exit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Loli",
+      "description": ""
+    },
+    {
+      "apiname": "ACH122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Wave",
+      "description": ""
+    },
+    {
+      "apiname": "ACH123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snappy Bobcat's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Snappy Bobcat."
+    },
+    {
+      "apiname": "ACH124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foxy Lady's Divinity",
+      "description": "Clear the Ancient Fields/Nightmare as Foxy Lady."
+    }
+  ]
+}

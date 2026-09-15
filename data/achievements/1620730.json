@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1620730,
+  "game": "Hell is Us",
+  "total": 40,
+  "unlocked": 2,
+  "percent": 5.0,
+  "updated_at_utc": "2026-09-15T06:52:15.584450+00:00",
+  "achievements": [
+    {
+      "apiname": "Act01_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So It Begins",
+      "description": "Completed Act 1"
+    },
+    {
+      "apiname": "Act02_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emotional Baggage",
+      "description": "Complete Act 2"
+    },
+    {
+      "apiname": "Act03_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Redemption",
+      "description": "Complete Act 3"
+    },
+    {
+      "apiname": "GoodDeeds_Step01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Samaritan",
+      "description": "Accomplish a Good Deed"
+    },
+    {
+      "apiname": "GoodDeeds_Step02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Man of the People",
+      "description": "Accomplish all Good Deeds"
+    },
+    {
+      "apiname": "GoodDeeds_TimeloopClosing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End the Suffering",
+      "description": "Close a Timeloop"
+    },
+    {
+      "apiname": "Mystery_Step01",
+      "achieved": 1,
+      "unlocktime": 1760535665,
+      "name": "Amateur Detective",
+      "description": "Resolve a Mystery"
+    },
+    {
+      "apiname": "Mystery_Step02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super-Sleuth",
+      "description": "Resolve all Mysteries"
+    },
+    {
+      "apiname": "Haze_KillAll_Rage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All the Rage",
+      "description": "Defeat all 3 Haze of Rage variants"
+    },
+    {
+      "apiname": "Haze_KillAll_Ecstasy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buzz Killer",
+      "description": "Defeat all 3 Haze of Ecstasy variants"
+    },
+    {
+      "apiname": "Haze_KillAll_Terror",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fear No Evil",
+      "description": "Defeat all 3 Haze of Terror variants"
+    },
+    {
+      "apiname": "Haze_KillAll_Grief",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Grief",
+      "description": "Defeat all 3 Haze of Grief variants"
+    },
+    {
+      "apiname": "HollowWalkers_KillAll",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Game Hunter",
+      "description": "Defeat all 5 Hollow Walker variants"
+    },
+    {
+      "apiname": "Haze_Kill_Tier01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise and Phol",
+      "description": "Defeat 40 Hazes of tier 1"
+    },
+    {
+      "apiname": "Haze_Kill_Tier02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phol Guy",
+      "description": "Defeat 40 Hazes of tier 2"
+    },
+    {
+      "apiname": "Haze_Kill_Tier03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Harder They Phol",
+      "description": "Defeat 40 Hazes of tier 3"
+    },
+    {
+      "apiname": "KillAllEnemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend of the Phol",
+      "description": "Close all Timeloops and defeat all remaining entities"
+    },
+    {
+      "apiname": "WeaponMaxUpgrade_AllWeapons_Once",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Vibrations",
+      "description": "Upgrade one of each Weapon type to Grade 5"
+    },
+    {
+      "apiname": "DefensiveGearMaxUpgrade_Any",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accessorizing",
+      "description": "Imbue a Defensive Gear to Grade 4"
+    },
+    {
+      "apiname": "LoadoutMaxGrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Teeth",
+      "description": ""
+    },
+    {
+      "apiname": "Research_CivilWar_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Correspondent",
+      "description": ""
+    },
+    {
+      "apiname": "Research_Hadea_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Historian",
+      "description": ""
+    },
+    {
+      "apiname": "Research_Conspiracy_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conspiracy Theorist",
+      "description": ""
+    },
+    {
+      "apiname": "Research_OrderOfTheEye_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gentleman Scholar",
+      "description": ""
+    },
+    {
+      "apiname": "Research_LymbicInvasions_AllItem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonologist",
+      "description": ""
+    },
+    {
+      "apiname": "Research_Vigil_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sworn to Secrecy",
+      "description": ""
+    },
+    {
+      "apiname": "Research_AllCategories_AllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Read",
+      "description": ""
+    },
+    {
+      "apiname": "VOFK_Opened_Part02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Raider",
+      "description": ""
+    },
+    {
+      "apiname": "DroneSkills_All",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tech-Savvy",
+      "description": "Acquire all Drone Modules"
+    },
+    {
+      "apiname": "LymbicSkills_One_AllSpheres",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emotional Damage",
+      "description": "Acquire at least one Glyph of each Lymbic Sphere"
+    },
+    {
+      "apiname": "LymbicSkills_All_AllSpheres",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emotional Warfare",
+      "description": "Acquire all Glyphs of each Lymbic Sphere"
+    },
+    {
+      "apiname": "Relics_Part01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curator",
+      "description": "Acquire 10 Relics"
+    },
+    {
+      "apiname": "Relics_Part02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Antiquarian",
+      "description": "Acquire all Relics"
+    },
+    {
+      "apiname": "Visit_AllMaps",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Travelled",
+      "description": ""
+    },
+    {
+      "apiname": "Conversation_Part02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lend an Ear",
+      "description": ""
+    },
+    {
+      "apiname": "ItemPlacements",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keymaster",
+      "description": ""
+    },
+    {
+      "apiname": "TheCorridor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long and (not so) Winding Road",
+      "description": ""
+    },
+    {
+      "apiname": "TheAPC",
+      "achieved": 1,
+      "unlocktime": 1760535991,
+      "name": "It's Mine Now",
+      "description": ""
+    },
+    {
+      "apiname": "VacationsAtTheLake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ever After",
+      "description": ""
+    },
+    {
+      "apiname": "BaseballCaps",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Passion for Fashion",
+      "description": ""
+    }
+  ]
+}

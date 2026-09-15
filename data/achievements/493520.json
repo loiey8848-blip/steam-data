@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 493520,
+  "game": "GTFO",
+  "total": 57,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:50.891177+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bare Minimum",
+      "description": "Complete a Main Sector"
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect Course",
+      "description": "Complete a Secondary Sector"
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond Range",
+      "description": "Complete an Overload Sector"
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deviation",
+      "description": "Complete all Main Sectors in ALT://R1"
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infection",
+      "description": "Complete all Main Sectors in ALT://R2"
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Vessel",
+      "description": "Complete all Main Sectors in ALT://R3"
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contact",
+      "description": "Complete all Main Sectors in ALT://R4"
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rebirth",
+      "description": "Complete all Main Sectors in ALT://R5"
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destination",
+      "description": "Complete all Main Sectors in ALT://R6"
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise",
+      "description": "Complete all Main Sectors in R7"
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duality",
+      "description": "Complete all Main Sectors in R8"
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Additional Duty",
+      "description": "Complete all Secondary Sectors in all Rundowns"
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overload Operative",
+      "description": "Complete all Overload Sectors in all Rundowns"
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sum Total",
+      "description": "Complete all Sectors in all Rundowns"
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prisoner Deemed Fit",
+      "description": "Complete the Tutorial"
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Complete an expedition without getting downed"
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chemically Improved",
+      "description": "Complete an expedition with at least one Booster activated"
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trigger Discipline",
+      "description": "Complete any A-tier expedition without using main or secondary weapons."
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Controlled Response",
+      "description": "Complete any B-tier expedition alone with only pistols or revolvers equipped as main and secondary"
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Low Tech",
+      "description": "Complete any C-tier expedition without anyone using the active ability of their tools"
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Quarters",
+      "description": "Complete any D-tier expedition with everyone using shotguns equipped as main and secondary"
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Detox",
+      "description": "Complete any E-tier expedition without using any boosters"
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbroken",
+      "description": "Survive a class V or higher alarm without anyone taking any damage"
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Predator",
+      "description": "Kill a Scout with a melee attack without it detecting you"
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rapid Response",
+      "description": "Kill a Mother without it having used its spawning ability"
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swift",
+      "description": "Kill a P-mother without taking any damage from baby strikers"
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Blooded",
+      "description": "Kill a Giant by yourself using only melee weapons"
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mutual Insurance",
+      "description": "Kill a Tank without anyone on the team taking any damage"
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian Angel",
+      "description": "Kill a Snatcher that has captured a teammate"
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breathing Room",
+      "description": "Complete any D-tier expedition without any doors being broken"
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Shadows",
+      "description": "Complete any B-tier expedition without anyone having turned on the flashlight"
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Matter Wave Projector",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Inner",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolitions Expert",
+      "description": "Kill a total of 20 enemies with one tripmine"
+    },
+    {
+      "apiname": "ACH_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theorist",
+      "description": "Find 5 story logs in the Complex"
+    },
+    {
+      "apiname": "ACH_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Versed",
+      "description": "Find 20 story logs in the Complex"
+    },
+    {
+      "apiname": "ACH_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cataloger",
+      "description": "Find 50 story logs in the Complex"
+    },
+    {
+      "apiname": "ACH_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "D-Lock Block Decipherer",
+      "description": "Find every story log in the Complex"
+    },
+    {
+      "apiname": "ACH_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "John",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Work Together",
+      "description": "Complete an expedition with four player without anyone getting downed"
+    },
+    {
+      "apiname": "ACH_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R4 Absolute",
+      "description": "Complete all Sectors in ALT://R4"
+    },
+    {
+      "apiname": "ACH_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R5 Absolute",
+      "description": "Complete all Sectors in ALT://R5"
+    },
+    {
+      "apiname": "ACH_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R6 Absolute",
+      "description": "Complete all Sectors in ALT://R6"
+    },
+    {
+      "apiname": "ACH_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R7 Absolute",
+      "description": "Complete all Sectors in R7"
+    },
+    {
+      "apiname": "ACH_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "R8 Absolute",
+      "description": "Complete all Sectors in R8"
+    },
+    {
+      "apiname": "ACH_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Main Path",
+      "description": "Complete all Main Sectors"
+    },
+    {
+      "apiname": "ACH_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pure Will",
+      "description": "Complete R8D1 without using any health kits or disinfectants"
+    },
+    {
+      "apiname": "ACH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biotracker",
+      "description": "Complete any expedition having marked every enemy on the map using the Biotracker"
+    },
+    {
+      "apiname": "ACH_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prisoner Efficiency",
+      "description": "Achieve Prisoner Efficiency by completing the Main, Overload and Secondary Sectors of an expedition in one attempt"
+    },
+    {
+      "apiname": "ACH_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Efficiency",
+      "description": "Achieve Prisoner Efficiency in all expeditions that have Secondary and Overload Sectors"
+    },
+    {
+      "apiname": "ACH_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Voice of Truth",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unmasked",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loyalist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defector",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meet Schaeffer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dots and Dashes",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Die Together",
+      "description": "Fail an expedition for the first time"
+    }
+  ]
+}

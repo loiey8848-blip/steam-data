@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 210770,
+  "game": "Sanctum 2",
+  "total": 50,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:38.258319+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Humble Beginnings",
+      "description": "Complete your first map."
+    },
+    {
+      "apiname": "Achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bas(e)ics",
+      "description": "Build 20 tower bases."
+    },
+    {
+      "apiname": "Achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Defense is Offense",
+      "description": "Upgrade a tower to the max."
+    },
+    {
+      "apiname": "Achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Growing Stronger",
+      "description": "Complete a map with a Feat of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halfway Awesome",
+      "description": "Reach Rank 10."
+    },
+    {
+      "apiname": "Achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hope Rides Alone",
+      "description": "Complete Facility, Rocky Fields, Giant Trees and Swamp."
+    },
+    {
+      "apiname": "Achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full-time Ass-kicker",
+      "description": "Reach rank 20."
+    },
+    {
+      "apiname": "Achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hercules",
+      "description": "Complete a map with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Badass",
+      "description": "Complete Facility, Rocky Fields, Giant Trees and Swamp with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Destination",
+      "description": "Complete The End in a party of four."
+    },
+    {
+      "apiname": "Achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Team Player",
+      "description": "Complete one level with 5 Feats of Strength enabled in Co-op."
+    },
+    {
+      "apiname": "Achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Game in a game",
+      "description": "Complete a game in a game."
+    },
+    {
+      "apiname": "Achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Six Pack",
+      "description": "Complete six Game in a Games"
+    },
+    {
+      "apiname": "Achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coffee Stained",
+      "description": "This is a viral achievement."
+    },
+    {
+      "apiname": "Achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "McBirger's",
+      "description": "Complete Facility with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balboa",
+      "description": "Complete Rocky Fields with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Norwegian Wood",
+      "description": "Complete Giant Trees with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moist",
+      "description": "Complete Swamp with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pliskeblaske",
+      "description": "Complete Coastline with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiskeplaske",
+      "description": "Complete Coastline."
+    },
+    {
+      "apiname": "Achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Perfect",
+      "description": "Complete all waves on a map without losing any core life."
+    },
+    {
+      "apiname": "Achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One shot, one kill.",
+      "description": "Get a kill with every shot in the sniper clip."
+    },
+    {
+      "apiname": "Achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come at me bro!",
+      "description": "Kill 10 enemies in a row without getting hit."
+    },
+    {
+      "apiname": "Achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honey Badger don't care",
+      "description": "Recover from 1 HP three times without dying."
+    },
+    {
+      "apiname": "Achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gibbs, gibbs everywhere",
+      "description": "Blow up three enemies at the same time"
+    },
+    {
+      "apiname": "Achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lab Rat",
+      "description": "Find the secret area on Bio Lab."
+    },
+    {
+      "apiname": "Achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loekrise Kingdom",
+      "description": "Find the secret area on Outpost."
+    },
+    {
+      "apiname": "Achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Secrets",
+      "description": "Find the secret area on Abandoned Lab."
+    },
+    {
+      "apiname": "Achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titan",
+      "description": "Reach rank 25."
+    },
+    {
+      "apiname": "Achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above and Beyond",
+      "description": "Reach rank 30."
+    },
+    {
+      "apiname": "Achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We don't go to Brightholme",
+      "description": "Complete Brightholme with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slumdog Medicine",
+      "description": "Complete Brightholme."
+    },
+    {
+      "apiname": "Achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Titan Slayer",
+      "description": "Reach rank 35."
+    },
+    {
+      "apiname": "Achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOOM! Headshot",
+      "description": "Complete Outskirts with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Kill",
+      "description": "Complete Outskirts."
+    },
+    {
+      "apiname": "Achievement_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not the Bees!",
+      "description": "Have 10 Drones from the Drone Launcher over an enemy."
+    },
+    {
+      "apiname": "Achievement_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom!",
+      "description": "Reach rank 40."
+    },
+    {
+      "apiname": "Achievement_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Stand",
+      "description": "Complete Arc Islands."
+    },
+    {
+      "apiname": "Achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Artillery",
+      "description": "Finish a map playing Sweet with the Long Range Specialisation, Core Guardian, and Long Range Superiority."
+    },
+    {
+      "apiname": "Achievement_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LOOK MOM, IM FLYING",
+      "description": "Finish a map playing Sweet with Rymdskor, Plumber shoes, and Upper Class."
+    },
+    {
+      "apiname": "Achievement_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am SUPER ANGRY",
+      "description": "Finish a map playing Skye with Collateral Damage, Bloodletter and Adrenaline Rush."
+    },
+    {
+      "apiname": "Achievement_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniper Skye",
+      "description": "Finish a map playing Skye with Tactical Juxtaposition, Marksman, and Steady Aim."
+    },
+    {
+      "apiname": "Achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ROBOTS, ROBOTS EVERYWHERE",
+      "description": "Finish a map playing SiMo with the G2 Companion, Roboticist and Electrical Outburst."
+    },
+    {
+      "apiname": "Achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MLG noscope maximum skill",
+      "description": "Finish a map playing SiMo with Tactical Juxtaposition, Rymdskor and Trickster."
+    },
+    {
+      "apiname": "Achievement_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Street Justice",
+      "description": "Finish a map playing Haigen with Spiked Armor, Desperate Measures and Hydra Blood."
+    },
+    {
+      "apiname": "Achievement_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angry working class",
+      "description": "Finish a map playing Haigen with Best Friends Forever, Reinforcements and Roboticist."
+    },
+    {
+      "apiname": "Achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legolaser aimed shots",
+      "description": "Finish a map playing TSYGAN with Marksman, Steady Aim and Long Range Superiority."
+    },
+    {
+      "apiname": "Achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swedish police can't track this one",
+      "description": "Finish a map playing TSYGAN with Rymdskor, Trickster and Parthian Tactics."
+    },
+    {
+      "apiname": "Achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leaving Loek III",
+      "description": "Complete Arc Islands with 5 Feats of Strength enabled."
+    },
+    {
+      "apiname": "Achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better late than never",
+      "description": "Reach rank 50."
+    }
+  ]
+}

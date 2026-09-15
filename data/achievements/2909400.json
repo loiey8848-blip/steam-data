@@ -1,0 +1,438 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2909400,
+  "game": "FINAL FANTASY VII REBIRTH",
+  "total": 61,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:09.162579+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Planet's Hope",
+      "description": "Earn all FINAL FANTASY VII REBIRTH achievements."
+    },
+    {
+      "apiname": "ACH_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Meet Your Heroes",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swampy Situation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make Mine Black",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The President's Commendation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cryptic Cameo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fun in the Sun",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Price of Progress",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worth the Weight?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crying Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stars Fell from My Eyes",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're Not Murasaki",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hearts Out, Dukes Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Here for You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confluence of Worlds",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Got This",
+      "description": "Win a battle."
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exploitative Practices",
+      "description": "Exploit an enemy's weakness."
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfettered Friendship",
+      "description": "Free a bound ally."
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staggered Learning",
+      "description": "Stagger an enemy."
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break It Down",
+      "description": "Use a limit break."
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fledgling Summoner",
+      "description": "Invoke a summon."
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Team Player",
+      "description": "Use a synergy skill."
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No \"I\" in \"Synergy\"",
+      "description": "Use a synergy ability."
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entering New Markets",
+      "description": "Complete a quest."
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons 101",
+      "description": "Max out a weapon ability's proficiency."
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Materia World",
+      "description": "Level up an orb of materia."
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Blood",
+      "description": "Raise your Queen's Blood rank."
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caching In",
+      "description": "Complete your search of a cache location."
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Brake for Chocobos",
+      "description": "Repair three chocobo stops."
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Ex-kweh-vator",
+      "description": "Use a chocobo to find two treasures buried by rabbits."
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Work for Me Now",
+      "description": "Defeat a summon in battle and obtain its materia."
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intelligence Aide",
+      "description": "Gather world intel at five separate locations."
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intelligence Specialist",
+      "description": "Gather world intel at fifty separate locations."
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Director of Regional Intelligence",
+      "description": "Gather all pieces of world intel in a region."
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Founder's Bonus",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fort Condor Commander",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cactuar Crusher",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honorary Turk",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gambit Paid Off",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Handler",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bladesman of Legend",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moogle Lover",
+      "description": "Max out your moogle emporium merchant rank."
+    },
+    {
+      "apiname": "ACH_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Materia Completionist",
+      "description": "Develop all possible materia together with Chadley."
+    },
+    {
+      "apiname": "ACH_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "7th, Assemble!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stealing the Show",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Card Royalty",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critically Acclaimed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1-Star Startup",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "3-Star Hotel",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5-Star Hotel",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "7-Star Hotel",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polygonal Prizefighter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Piano Virtuoso",
+      "description": "Play all six Piano Outreach Association songs well enough to receive remuneration."
+    },
+    {
+      "apiname": "ACH_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are You Not Entertained?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hall of Famer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Job Here Is Done",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grind It Out",
+      "description": "Attain level 70 with a character."
+    },
+    {
+      "apiname": "ACH_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staggering Success",
+      "description": "Deal 300% or more damage to a staggered enemy."
+    },
+    {
+      "apiname": "ACH_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Rounded",
+      "description": "Master all weapon abilities and limit breaks, including those found in folios."
+    },
+    {
+      "apiname": "ACH_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Of Hardy Stock",
+      "description": "Complete all chapters on Hard difficulty."
+    },
+    {
+      "apiname": "ACH_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtually Renowned",
+      "description": "Complete all of Chadley's combat simulations."
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1649240,
+  "game": "Returnal™",
+  "total": 38,
+  "unlocked": 38,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:17.147665+00:00",
+  "achievements": [
+    {
+      "apiname": "OnboardingComplete",
+      "achieved": 1,
+      "unlocktime": 1747416361,
+      "name": "Atropian Survival",
+      "description": "Learn the basics of survival on Atropos"
+    },
+    {
+      "apiname": "AF_Mastery",
+      "achieved": 1,
+      "unlocktime": 1763975958,
+      "name": "Past the Ruins",
+      "description": "Finish Overgrown Ruins Survey"
+    },
+    {
+      "apiname": "CD_Mastery",
+      "achieved": 1,
+      "unlocktime": 1764002240,
+      "name": "Ascending the Mountain",
+      "description": ""
+    },
+    {
+      "apiname": "CI_Mastery",
+      "achieved": 1,
+      "unlocktime": 1764047688,
+      "name": "Through the Forgotten City",
+      "description": ""
+    },
+    {
+      "apiname": "SW_Mastery",
+      "achieved": 1,
+      "unlocktime": 1764133547,
+      "name": "Echoes of the Past",
+      "description": ""
+    },
+    {
+      "apiname": "IC_Mastery",
+      "achieved": 1,
+      "unlocktime": 1764177890,
+      "name": "Frozen in Time",
+      "description": ""
+    },
+    {
+      "apiname": "UR_Mastery",
+      "achieved": 1,
+      "unlocktime": 1764177890,
+      "name": "Submerged in Memories",
+      "description": ""
+    },
+    {
+      "apiname": "FirstBoss",
+      "achieved": 1,
+      "unlocktime": 1747416776,
+      "name": "A Shadow in the Fog",
+      "description": ""
+    },
+    {
+      "apiname": "SecondBoss",
+      "achieved": 1,
+      "unlocktime": 1747419219,
+      "name": "Ascension",
+      "description": ""
+    },
+    {
+      "apiname": "ThirdBoss",
+      "achieved": 1,
+      "unlocktime": 1747422412,
+      "name": "Trial by Judgement",
+      "description": ""
+    },
+    {
+      "apiname": "FourthBoss",
+      "achieved": 1,
+      "unlocktime": 1747451978,
+      "name": "Silence the Song",
+      "description": ""
+    },
+    {
+      "apiname": "FifthBoss",
+      "achieved": 1,
+      "unlocktime": 1747461918,
+      "name": "Inner Darkness",
+      "description": ""
+    },
+    {
+      "apiname": "Act1Complete",
+      "achieved": 1,
+      "unlocktime": 1747422519,
+      "name": "Failed Escape",
+      "description": ""
+    },
+    {
+      "apiname": "Act2Complete",
+      "achieved": 1,
+      "unlocktime": 1747461932,
+      "name": "Last Drive",
+      "description": ""
+    },
+    {
+      "apiname": "Act3Complete",
+      "achieved": 1,
+      "unlocktime": 1763869058,
+      "name": "White Shadow",
+      "description": ""
+    },
+    {
+      "apiname": "FirstResurrect",
+      "achieved": 1,
+      "unlocktime": 1747736152,
+      "name": "Second Chance",
+      "description": ""
+    },
+    {
+      "apiname": "FoundXenoglyph",
+      "achieved": 1,
+      "unlocktime": 1747414873,
+      "name": "Cryptic Messages",
+      "description": "Scan a Xenoglyph"
+    },
+    {
+      "apiname": "FinishedXenoglyph",
+      "achieved": 1,
+      "unlocktime": 1747463734,
+      "name": "Cryptic Translations",
+      "description": "Unlock all translation tiers of a Xenoglyph"
+    },
+    {
+      "apiname": "ReloadCombo",
+      "achieved": 1,
+      "unlocktime": 1747414223,
+      "name": "Surgical Precision",
+      "description": "Perform 5 successful Overloads in a row"
+    },
+    {
+      "apiname": "MaxProficiency",
+      "achieved": 1,
+      "unlocktime": 1747535940,
+      "name": "Adapting to Circumstance",
+      "description": "Achieve Weapon Proficiency level 30"
+    },
+    {
+      "apiname": "DailyChallenge",
+      "achieved": 1,
+      "unlocktime": 1747462692,
+      "name": "In-Field Training",
+      "description": "Complete a daily challenge in Simulation Mode"
+    },
+    {
+      "apiname": "MaxHP",
+      "achieved": 1,
+      "unlocktime": 1747420923,
+      "name": "Hardened Shell",
+      "description": "Achieve 200% Max Integrity"
+    },
+    {
+      "apiname": "CurseActivity",
+      "achieved": 1,
+      "unlocktime": 1763837769,
+      "name": "Risk Assessment",
+      "description": "Finish Calculated Risk"
+    },
+    {
+      "apiname": "MaxAdrenaline",
+      "achieved": 1,
+      "unlocktime": 1747415283,
+      "name": "Adrenaline Spike",
+      "description": "Achieve maximum Adrenaline Level"
+    },
+    {
+      "apiname": "MaxParasites",
+      "achieved": 1,
+      "unlocktime": 1747420015,
+      "name": "Irreversibly Contaminated",
+      "description": "Have 5 Parasites simultaneously"
+    },
+    {
+      "apiname": "FirstDeath",
+      "achieved": 1,
+      "unlocktime": 1747423588,
+      "name": "Eternal Return",
+      "description": ""
+    },
+    {
+      "apiname": "FindLogs",
+      "achieved": 1,
+      "unlocktime": 1747417861,
+      "name": "Alternate Fates",
+      "description": "Retrieve 10 Scout Logs"
+    },
+    {
+      "apiname": "FinishHouse",
+      "achieved": 1,
+      "unlocktime": 1747416298,
+      "name": "Welcome Home",
+      "description": ""
+    },
+    {
+      "apiname": "FinishAllHouses",
+      "achieved": 1,
+      "unlocktime": 1763840458,
+      "name": "Sins of the Mother",
+      "description": ""
+    },
+    {
+      "apiname": "FinishMural",
+      "achieved": 1,
+      "unlocktime": 1747457200,
+      "name": "Visions of the Past",
+      "description": "Complete a Xeno-archive set (excluding Tower of Sisyphus)"
+    },
+    {
+      "apiname": "AllTrophies",
+      "achieved": 1,
+      "unlocktime": 1764177890,
+      "name": "Helios",
+      "description": "Collect all main Achievements"
+    },
+    {
+      "apiname": "FirstDeathInTower",
+      "achieved": 1,
+      "unlocktime": 1747506249,
+      "name": "Eternal Ascent",
+      "description": ""
+    },
+    {
+      "apiname": "SinglePhaseBoss",
+      "achieved": 1,
+      "unlocktime": 1747424524,
+      "name": "The Watcher",
+      "description": ""
+    },
+    {
+      "apiname": "ThreePhaseBoss",
+      "achieved": 1,
+      "unlocktime": 1747537414,
+      "name": "Eyes Closed",
+      "description": ""
+    },
+    {
+      "apiname": "KillWithSuperWeapons",
+      "achieved": 1,
+      "unlocktime": 1747538516,
+      "name": "Destroyer",
+      "description": ""
+    },
+    {
+      "apiname": "FinishHospital",
+      "achieved": 1,
+      "unlocktime": 1747506578,
+      "name": "Broken, Restored, Empty",
+      "description": ""
+    },
+    {
+      "apiname": "DLCEnding",
+      "achieved": 1,
+      "unlocktime": 1747512204,
+      "name": "Empty Embrace",
+      "description": ""
+    },
+    {
+      "apiname": "SecretEnding",
+      "achieved": 1,
+      "unlocktime": 1763840445,
+      "name": "Find Release",
+      "description": ""
+    }
+  ]
+}

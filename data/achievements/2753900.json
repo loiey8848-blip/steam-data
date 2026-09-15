@@ -1,0 +1,340 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2753900,
+  "game": "The King is Watching",
+  "total": 47,
+  "unlocked": 47,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:01.482214+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_challenge_no_gaze_upgrades",
+      "achieved": 1,
+      "unlocktime": 1783941588,
+      "name": "No Gaze Upgrades",
+      "description": "Beat a level without upgrading your Vision"
+    },
+    {
+      "apiname": "ach_challenge_no_limit_upgrades",
+      "achieved": 1,
+      "unlocktime": 1783941588,
+      "name": "No Army Limit Upgrades",
+      "description": "Beat a level without upgrading your army limit"
+    },
+    {
+      "apiname": "ach_challenge_no_spells",
+      "achieved": 1,
+      "unlocktime": 1782108414,
+      "name": "No Spells",
+      "description": "Beat a level without using any spells"
+    },
+    {
+      "apiname": "ach_challenge_no_castle_damage",
+      "achieved": 1,
+      "unlocktime": 1782217534,
+      "name": "No Castle Damage",
+      "description": "Beat a level without taking any castle damage"
+    },
+    {
+      "apiname": "ach_challenge_destroy_all_trees",
+      "achieved": 1,
+      "unlocktime": 1783943088,
+      "name": "Deforestation",
+      "description": "Get rid of all the trees on a level"
+    },
+    {
+      "apiname": "ach_challenge_army_quantity",
+      "achieved": 1,
+      "unlocktime": 1782234976,
+      "name": "Strength in Numbers",
+      "description": "Have 40 units on the battlefield at once"
+    },
+    {
+      "apiname": "ach_challenge_high_morale",
+      "achieved": 1,
+      "unlocktime": 1782185251,
+      "name": "High Morale",
+      "description": "Reach 100 morale"
+    },
+    {
+      "apiname": "ach_challenge_diversity",
+      "achieved": 1,
+      "unlocktime": 1782373942,
+      "name": "Collect them all",
+      "description": "Have at least one unit of every class on the battlefield at once"
+    },
+    {
+      "apiname": "ach_challenge_double_damage",
+      "achieved": 1,
+      "unlocktime": 1782233849,
+      "name": "Double Damage",
+      "description": "Reach +100% damage for any unit class"
+    },
+    {
+      "apiname": "ach_challenge_execution_grounds",
+      "achieved": 1,
+      "unlocktime": 1783941981,
+      "name": "Ungrounded Executions",
+      "description": "Execute a total of 200 of your own units"
+    },
+    {
+      "apiname": "ach_challenge_kill_enemies",
+      "achieved": 1,
+      "unlocktime": 1782389013,
+      "name": "Self-Defense",
+      "description": "Kill a total of 5000 enemies"
+    },
+    {
+      "apiname": "ach_challenge_royal_cellar",
+      "achieved": 1,
+      "unlocktime": 1782184896,
+      "name": "Royal Cellar",
+      "description": "Have 2000 Wine at once"
+    },
+    {
+      "apiname": "ach_challenge_first_blood",
+      "achieved": 1,
+      "unlocktime": 1782103532,
+      "name": "First Blood",
+      "description": "Kill your first enemy"
+    },
+    {
+      "apiname": "ach_challenge_you_x_not",
+      "achieved": 1,
+      "unlocktime": 1784347758,
+      "name": "Creative Limitations",
+      "description": "Secure a victory with both Betty and Wise tree"
+    },
+    {
+      "apiname": "ach_challenge_bosses_village",
+      "achieved": 1,
+      "unlocktime": 1782217529,
+      "name": "Lords of Village",
+      "description": "Beat each boss of the Village"
+    },
+    {
+      "apiname": "ach_challenge_bosses_graveyard",
+      "achieved": 1,
+      "unlocktime": 1784398383,
+      "name": "Lords of Graveyard",
+      "description": "Beat each boss of the Graveyard"
+    },
+    {
+      "apiname": "ach_challenge_ascension_0",
+      "achieved": 1,
+      "unlocktime": 1782106633,
+      "name": "Peasant",
+      "description": "Achieve victory for the first time"
+    },
+    {
+      "apiname": "ach_challenge_ascension_3",
+      "achieved": 1,
+      "unlocktime": 1782217534,
+      "name": "Militia",
+      "description": "Achieve victory on Threat level 3"
+    },
+    {
+      "apiname": "ach_challenge_ascension_5",
+      "achieved": 1,
+      "unlocktime": 1782235003,
+      "name": "Swordsman",
+      "description": "Achieve victory on Threat level 5"
+    },
+    {
+      "apiname": "ach_challenge_ascension_8",
+      "achieved": 1,
+      "unlocktime": 1782300866,
+      "name": "Knight",
+      "description": "Achieve victory on Threat level 8"
+    },
+    {
+      "apiname": "ach_challenge_ascension_9",
+      "achieved": 1,
+      "unlocktime": 1782374100,
+      "name": "General",
+      "description": "Achieve victory on Threat level 9"
+    },
+    {
+      "apiname": "ach_challenge_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1782386794,
+      "name": "King",
+      "description": "Achieve victory on Threat level 10"
+    },
+    {
+      "apiname": "ach_challenge_king_starter_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784386664,
+      "name": "Crown of the Sovereign",
+      "description": "Achieve victory on Threat level 10 with King Baldwin"
+    },
+    {
+      "apiname": "ach_challenge_king_diversity_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784383248,
+      "name": "Crown of the Conqueror",
+      "description": "Achieve victory on Threat level 10 with King Saladin"
+    },
+    {
+      "apiname": "ach_challenge_king_masked_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1782386794,
+      "name": "Crown of the Furious",
+      "description": "Achieve victory on Threat level 10 with King Leonid"
+    },
+    {
+      "apiname": "ach_challenge_king_magic_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784396689,
+      "name": "Crown of the Arcane",
+      "description": "Achieve victory on Threat level 10 with King Spellus"
+    },
+    {
+      "apiname": "ach_challenge_king_necro_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784388619,
+      "name": "Crown of the Eternal",
+      "description": "Achieve victory on Threat level 10 with King Alucard"
+    },
+    {
+      "apiname": "ach_challenge_king_tanky_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784403410,
+      "name": "Crown of the Unbroken",
+      "description": "Achieve victory on Threat level 10 with King Brezhnius"
+    },
+    {
+      "apiname": "ach_challenge_king_blueprint_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784345810,
+      "name": "Crown of the Sage",
+      "description": "Achieve victory on Threat level 10 with King Leo"
+    },
+    {
+      "apiname": "ach_challenge_bosses_volcano",
+      "achieved": 1,
+      "unlocktime": 1784342346,
+      "name": "Lords of Volcano",
+      "description": "Beat each boss of the Volcano"
+    },
+    {
+      "apiname": "ach_challenge_lava_ascension_6",
+      "achieved": 1,
+      "unlocktime": 1783964451,
+      "name": "Master of Ash and Flame",
+      "description": "Achieve victory on Volcano on Threat Level 6"
+    },
+    {
+      "apiname": "ach_challenge_lava_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784345810,
+      "name": "Sovereign of Ash and Flame",
+      "description": "Achieve victory on Volcano on Threat Level 10"
+    },
+    {
+      "apiname": "ach_challenge_village_ascension_6",
+      "achieved": 1,
+      "unlocktime": 1782275657,
+      "name": "Master of Hearth and Harvest",
+      "description": "Achieve victory on Village on Threat Level 6"
+    },
+    {
+      "apiname": "ach_challenge_village_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1782386794,
+      "name": "Sovereign of Hearth and Harvest",
+      "description": "Achieve victory on Village on Threat Level 10"
+    },
+    {
+      "apiname": "ach_challenge_graveyard_ascension_6",
+      "achieved": 1,
+      "unlocktime": 1783706008,
+      "name": "Master of Bone and Silence",
+      "description": "Achieve victory on Graveyard on Threat Level 6"
+    },
+    {
+      "apiname": "ach_challenge_graveyard_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1783840062,
+      "name": "Sovereign of Bone and Silence",
+      "description": "Achieve victory on Graveyard on Threat Level 10"
+    },
+    {
+      "apiname": "ach_challenge_dark_realm_ascension_6",
+      "achieved": 1,
+      "unlocktime": 1784347758,
+      "name": "Master of Madness and Shadow",
+      "description": "Achieve victory on Dark Realm on Threat Level 6"
+    },
+    {
+      "apiname": "ach_challenge_dark_realm_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784403410,
+      "name": "Sovereign of Madness and Shadow",
+      "description": "Achieve victory on Dark Realm on Threat Level 10"
+    },
+    {
+      "apiname": "ach_challenge_king_cannon_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784407747,
+      "name": "Crown of the Heaven",
+      "description": "Achieve victory on Threat level 10 with Emperor Taizong of Tang"
+    },
+    {
+      "apiname": "ach_challenge_king_glass_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784438137,
+      "name": "Crown of the Exalted",
+      "description": "Achieve victory on Threat level 10 with King Xerxes"
+    },
+    {
+      "apiname": "ach_challenge_king_cleopatra_ascension_10",
+      "achieved": 1,
+      "unlocktime": 1784435537,
+      "name": "Crown of the Rebirth",
+      "description": "Achieve victory on Threat level 10 with Queen Cleopatra"
+    },
+    {
+      "apiname": "ach_challenge_bosses_dark_realm",
+      "achieved": 1,
+      "unlocktime": 1784402739,
+      "name": "Lords of Dark Realm",
+      "description": "Beat each boss of the Dark Realm"
+    },
+    {
+      "apiname": "ach_challenge_free_mode_unlocked",
+      "achieved": 1,
+      "unlocktime": 1782275657,
+      "name": "The Rules Are Yours",
+      "description": "Unlock Free reign"
+    },
+    {
+      "apiname": "ach_challenge_customizable_level_333",
+      "achieved": 1,
+      "unlocktime": 1784440240,
+      "name": "Trial by Sand",
+      "description": "Beat the Shifting Sands with 333 Threat points"
+    },
+    {
+      "apiname": "ach_challenge_customizable_level_666",
+      "achieved": 1,
+      "unlocktime": 1784442375,
+      "name": "Master of the Dunes",
+      "description": "Beat the Shifting Sands with 666 Threat points"
+    },
+    {
+      "apiname": "ach_challenge_customizable_level_999",
+      "achieved": 1,
+      "unlocktime": 1784442375,
+      "name": "King of the Shifting Sands",
+      "description": "Beat the Shifting Sands with 999 Threat points"
+    },
+    {
+      "apiname": "ach_challenge_bosses_sands",
+      "achieved": 1,
+      "unlocktime": 1784454805,
+      "name": "Lords of Shifting Sands",
+      "description": "Beat each boss of the Shifting Sands"
+    }
+  ]
+}

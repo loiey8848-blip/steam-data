@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 992300,
+  "game": "嗜血印 Bloody Spell",
+  "total": 60,
+  "unlocked": 20,
+  "percent": 33.3,
+  "updated_at_utc": "2026-09-15T06:51:08.278732+00:00",
+  "achievements": [
+    {
+      "apiname": "a10001",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Mania for Destruction",
+      "description": "Destroy 250 items in scene."
+    },
+    {
+      "apiname": "a10002",
+      "achieved": 1,
+      "unlocktime": 1681401886,
+      "name": "Novice Detective",
+      "description": "Investigate for 10 times."
+    },
+    {
+      "apiname": "a10003",
+      "achieved": 1,
+      "unlocktime": 1681402215,
+      "name": "Blood Messenger",
+      "description": "Collect 6000 blood essence."
+    },
+    {
+      "apiname": "a10004",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Soul Envoy",
+      "description": "Collect 10 Torn Page of the Soul Pact."
+    },
+    {
+      "apiname": "a10005",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Lord of the Pit",
+      "description": "Fall into the pit for 5 times in a row."
+    },
+    {
+      "apiname": "a10006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Open 15 chests."
+    },
+    {
+      "apiname": "a10007",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "The No.1 Thief",
+      "description": "Open 5 big treasure chests."
+    },
+    {
+      "apiname": "a10008",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Sharp Eyes",
+      "description": "Guess 5 times in a guessing jar game."
+    },
+    {
+      "apiname": "a20001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walking Shadow",
+      "description": "Succeed to evade enemy attack for 20 times in a row."
+    },
+    {
+      "apiname": "a20002",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Silent Executioner",
+      "description": "Kill 20 enemies with Blood Sniff."
+    },
+    {
+      "apiname": "a20003",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Counterattack Proficient",
+      "description": "Succeed to counterattack enemy for 20 times."
+    },
+    {
+      "apiname": "a20004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darts Expert",
+      "description": "Succeed to counterattack enemy with darts for 20 times."
+    },
+    {
+      "apiname": "a20005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lower Void",
+      "description": "Kill 100 Lower Void."
+    },
+    {
+      "apiname": "a20006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ordinary void",
+      "description": "Kill 80 Ordinary void."
+    },
+    {
+      "apiname": "a20007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Void",
+      "description": "Kill 30 Super Void."
+    },
+    {
+      "apiname": "a20008",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Boss Bloodthirsty",
+      "description": "Defeat Bloodthirster."
+    },
+    {
+      "apiname": "a20009",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Boss Void",
+      "description": "Defeat Boss Void."
+    },
+    {
+      "apiname": "a20010",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Boss Tinghan Lu",
+      "description": "Defeat Boss Tinghan Lu."
+    },
+    {
+      "apiname": "a30001",
+      "achieved": 1,
+      "unlocktime": 1681401654,
+      "name": "Justice martial art",
+      "description": "Dressed all the equipment of sect."
+    },
+    {
+      "apiname": "a30002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Evil",
+      "description": "Unlock all Bloody Spell."
+    },
+    {
+      "apiname": "a30003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Blade",
+      "description": "Unlock all spell of Blade."
+    },
+    {
+      "apiname": "a30004",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Master of Spearstick",
+      "description": "Unlock all spell of Spearstick."
+    },
+    {
+      "apiname": "a30005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Great sword",
+      "description": "Unlock all spell of Great sword."
+    },
+    {
+      "apiname": "a40001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pursuing navigation",
+      "description": "Found the key of Yilong studio."
+    },
+    {
+      "apiname": "a30006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Kung Fu",
+      "description": "Unlock all spell of Knuckles."
+    },
+    {
+      "apiname": "a40002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great merit",
+      "description": "Donate protective clothing as prompted."
+    },
+    {
+      "apiname": "a10011",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Ore Collector",
+      "description": "Collect 10 Iron Ore."
+    },
+    {
+      "apiname": "a10012",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Drink a toast",
+      "description": "Collect 5 bottles of wine."
+    },
+    {
+      "apiname": "a10013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch mice",
+      "description": "Destroy 9 mice in the mini-game."
+    },
+    {
+      "apiname": "a10014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled craftsmen",
+      "description": "Successfully upgrade equipment 9 times in the mini-game."
+    },
+    {
+      "apiname": "a10015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marksman",
+      "description": "Nest 9 utensils in the ferrule mini-game."
+    },
+    {
+      "apiname": "a10016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Departure",
+      "description": "Clear the main storyline."
+    },
+    {
+      "apiname": "a10017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "Clear the main storyline on hard difficulty."
+    },
+    {
+      "apiname": "a10018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You are strong",
+      "description": "Clear the blood palace mode."
+    },
+    {
+      "apiname": "a10019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival",
+      "description": "Beat survival mode."
+    },
+    {
+      "apiname": "a10020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Priestess Trial",
+      "description": "Clear the Priestess Trial Mode (Fourth Floor)."
+    },
+    {
+      "apiname": "a10021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight by oneself",
+      "description": "Clear Arena mode."
+    },
+    {
+      "apiname": "a20017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mutant dog",
+      "description": "Kill 120 mutant dog."
+    },
+    {
+      "apiname": "a20018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bat",
+      "description": "Kill 100 Bat."
+    },
+    {
+      "apiname": "a20019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Female ghost",
+      "description": "Kill 9 Female ghost."
+    },
+    {
+      "apiname": "a20020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Demon",
+      "description": "Kill 90 Little Demon."
+    },
+    {
+      "apiname": "a20021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Demon",
+      "description": "Kill 30 Big Demon."
+    },
+    {
+      "apiname": "a20022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butcher",
+      "description": "Kill 20 Butcher."
+    },
+    {
+      "apiname": "a20023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guard",
+      "description": "Kill 20 Guard."
+    },
+    {
+      "apiname": "a20024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Priestess Phantom",
+      "description": "Kill 20 Priestess Phantom."
+    },
+    {
+      "apiname": "a20025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sombra",
+      "description": "Kill 5 Sombra."
+    },
+    {
+      "apiname": "a20026",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Boss Stone",
+      "description": "Defeat Boss Stone."
+    },
+    {
+      "apiname": "a20027",
+      "achieved": 1,
+      "unlocktime": 1681482005,
+      "name": "BOSS XiaoLi",
+      "description": "Defeat BOSS XiaoLi."
+    },
+    {
+      "apiname": "a20028",
+      "achieved": 1,
+      "unlocktime": 1681482103,
+      "name": "BOSS SuYejin",
+      "description": "Defeat BOSS SuYejin."
+    },
+    {
+      "apiname": "a20029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOSS Guard",
+      "description": "Defeat BOSS Guard."
+    },
+    {
+      "apiname": "a20030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOSS Priestess",
+      "description": "Defeat BOSS Priestess."
+    },
+    {
+      "apiname": "a20031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOSS Faceless",
+      "description": "Defeat BOSS Faceless."
+    },
+    {
+      "apiname": "a30007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Dual Blade",
+      "description": "Unlock all spell of Dual Blade."
+    },
+    {
+      "apiname": "a30008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Magic",
+      "description": "Unlock all spell of Magic."
+    },
+    {
+      "apiname": "a40003",
+      "achieved": 1,
+      "unlocktime": 1681477743,
+      "name": "Secret base",
+      "description": "Enter YiLong studio."
+    },
+    {
+      "apiname": "a40004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visitors from Outer Space",
+      "description": "Found the lost anti-epidemic medical staff."
+    },
+    {
+      "apiname": "a40005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inflatable Toys",
+      "description": "Find all inflatable weapons in the main map."
+    },
+    {
+      "apiname": "a40006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos' ultimate weapon",
+      "description": "Find all Chaos weapons in the main map."
+    },
+    {
+      "apiname": "a40007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Photographer",
+      "description": "Press F12 in photo mode to take 5 pictures."
+    },
+    {
+      "apiname": "a40008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No desire",
+      "description": "Push Uncle Li's chair in the clearance scene away from the desk."
+    }
+  ]
+}

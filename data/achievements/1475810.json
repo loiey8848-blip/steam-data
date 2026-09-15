@@ -1,0 +1,473 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1475810,
+  "game": "Ghostwire: Tokyo",
+  "total": 66,
+  "unlocked": 26,
+  "percent": 39.4,
+  "updated_at_utc": "2026-09-15T06:51:54.177423+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_001",
+      "achieved": 1,
+      "unlocktime": 1648139484,
+      "name": "Beginnings",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_002",
+      "achieved": 1,
+      "unlocktime": 1648192436,
+      "name": "Trouble",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_003",
+      "achieved": 1,
+      "unlocktime": 1648371372,
+      "name": "Connection",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_004",
+      "achieved": 1,
+      "unlocktime": 1648382044,
+      "name": "Contortion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_005",
+      "achieved": 1,
+      "unlocktime": 1648383334,
+      "name": "Severance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_006",
+      "achieved": 1,
+      "unlocktime": 1648385062,
+      "name": "Binding",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_007",
+      "achieved": 1,
+      "unlocktime": 1648385063,
+      "name": "Conclusions",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_008",
+      "achieved": 1,
+      "unlocktime": 1648480652,
+      "name": "Helping Hand",
+      "description": "Transfer 25% of the spirits in the city."
+    },
+    {
+      "apiname": "ACH_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior",
+      "description": "Transfer 50% of the spirits in the city."
+    },
+    {
+      "apiname": "ACH_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salvation of All",
+      "description": "Transfer at least 100% of the spirits in the city."
+    },
+    {
+      "apiname": "ACH_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of Shibuya",
+      "description": "Complete the main story after transferring at least 100% of the spirits in the city."
+    },
+    {
+      "apiname": "ACH_012",
+      "achieved": 1,
+      "unlocktime": 1648181926,
+      "name": "Problem Solver",
+      "description": "Complete a side mission."
+    },
+    {
+      "apiname": "ACH_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wishmaker",
+      "description": "Complete all side missions (excluding update content)."
+    },
+    {
+      "apiname": "ACH_014",
+      "achieved": 1,
+      "unlocktime": 1648139680,
+      "name": "Opening a Path",
+      "description": "Cleanse a torii gate."
+    },
+    {
+      "apiname": "ACH_015",
+      "achieved": 1,
+      "unlocktime": 1648560206,
+      "name": "Liberator",
+      "description": "Cleanse all torii gates (excluding update content)."
+    },
+    {
+      "apiname": "ACH_016",
+      "achieved": 1,
+      "unlocktime": 1648139705,
+      "name": "Treasure Hunter",
+      "description": "Acquire a relic."
+    },
+    {
+      "apiname": "ACH_017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Acquire all relics."
+    },
+    {
+      "apiname": "ACH_018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mind and Body",
+      "description": "Unlock all Spirit Skills (excluding update content)."
+    },
+    {
+      "apiname": "ACH_019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Same Wavelength",
+      "description": "Raise your synergy level to 50 or higher."
+    },
+    {
+      "apiname": "ACH_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shibuya Is My Back Yard",
+      "description": "Find all landmarks."
+    },
+    {
+      "apiname": "ACH_021",
+      "achieved": 1,
+      "unlocktime": 1648140324,
+      "name": "Echoes of the Past",
+      "description": "Acquire a voice log."
+    },
+    {
+      "apiname": "ACH_022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Whole Truth",
+      "description": "Acquire all voice logs."
+    },
+    {
+      "apiname": "ACH_023",
+      "achieved": 1,
+      "unlocktime": 1648207352,
+      "name": "It's All Thanks to Yokai",
+      "description": "Acquire a magatama."
+    },
+    {
+      "apiname": "ACH_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With Their Powers Combined",
+      "description": "Acquire 40 or more different magatama."
+    },
+    {
+      "apiname": "ACH_025",
+      "achieved": 1,
+      "unlocktime": 1648179037,
+      "name": "Roadside Spirituality",
+      "description": "Pray to a Jizo statue."
+    },
+    {
+      "apiname": "ACH_026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilgrim",
+      "description": "Pray to all Jizo statues."
+    },
+    {
+      "apiname": "ACH_027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Tail's Showing",
+      "description": "Find all of the missing tanuki."
+    },
+    {
+      "apiname": "ACH_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmand",
+      "description": "Acquire all types of food and drink."
+    },
+    {
+      "apiname": "ACH_029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DJ Akito",
+      "description": "Acquire all music tracks (excluding update content)."
+    },
+    {
+      "apiname": "ACH_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trendsetter",
+      "description": "Acquire all items for the Outfit menu (excluding bonus and update content)."
+    },
+    {
+      "apiname": "ACH_031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talismania",
+      "description": "Acquire all talismans (excluding update content)."
+    },
+    {
+      "apiname": "ACH_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Overwhelming",
+      "description": "Acquire all sets of prayer beads (excluding update content)."
+    },
+    {
+      "apiname": "ACH_033",
+      "achieved": 1,
+      "unlocktime": 1648372030,
+      "name": "Boundless Spirit",
+      "description": "Acquire the maximum number of katashiro."
+    },
+    {
+      "apiname": "ACH_034",
+      "achieved": 1,
+      "unlocktime": 1648178887,
+      "name": "Animal Lover",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_035",
+      "achieved": 1,
+      "unlocktime": 1750562386,
+      "name": "Amateur Photographer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_036",
+      "achieved": 1,
+      "unlocktime": 1648190074,
+      "name": "You Wouldn't Steal a Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Worry About It",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_038",
+      "achieved": 1,
+      "unlocktime": 1648374061,
+      "name": "Better Together",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visiting Hours Are Over",
+      "description": "Defeat at least one of every type of Visitor (excluding update content)."
+    },
+    {
+      "apiname": "ACH_040",
+      "achieved": 1,
+      "unlocktime": 1648138743,
+      "name": "Heartbreaker",
+      "description": "Defeat a Visitor by pulling out its core."
+    },
+    {
+      "apiname": "ACH_041",
+      "achieved": 1,
+      "unlocktime": 1648183310,
+      "name": "Soul Breaker",
+      "description": "Defeat 50 Visitors by pulling out their cores."
+    },
+    {
+      "apiname": "ACH_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Fell Swoop",
+      "description": "Defeat at least 5 Visitors simultaneously by pulling out their cores."
+    },
+    {
+      "apiname": "ACH_043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Couldn't Take the Heat",
+      "description": "Defeat at least 3 Visitors simultaneously by detonating a red ether crystal."
+    },
+    {
+      "apiname": "ACH_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Kill",
+      "description": "Defeat a total of 200 Visitors using Quick Purge."
+    },
+    {
+      "apiname": "ACH_045",
+      "achieved": 1,
+      "unlocktime": 1750564226,
+      "name": "Take a Bow",
+      "description": "Defeat a total of 50 Visitors using the bow."
+    },
+    {
+      "apiname": "ACH_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go For the Eyes",
+      "description": "Defeat a total of 20 Visitors with headshots."
+    },
+    {
+      "apiname": "ACH_047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freeze, Scumbag",
+      "description": "Defeat a total of 10 Visitors with Quick Purge while they are held by a Stun Talisman."
+    },
+    {
+      "apiname": "ACH_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Shrubbery!",
+      "description": "Defeat a total of 3 Visitors with Quick Purge while hiding in bushes created by a Thicket Talisman."
+    },
+    {
+      "apiname": "ACH_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Left Yourself Open",
+      "description": "Defeat a total of 10 Visitors by exposing their cores with Exposure Talismans and ripping them out."
+    },
+    {
+      "apiname": "ACH_051",
+      "achieved": 1,
+      "unlocktime": 1750005894,
+      "name": "Master of Blocking",
+      "description": "Perform a total of 30 Perfect Blocks."
+    },
+    {
+      "apiname": "ACH_052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Sync",
+      "description": "Wire In a total of 10 times."
+    },
+    {
+      "apiname": "ACH_053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walking on Air",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender",
+      "description": "Spend a total of 1,000,000 meika."
+    },
+    {
+      "apiname": "ACH_055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pious",
+      "description": "Put a total of 10,000 meika into offering boxes."
+    },
+    {
+      "apiname": "ACH_056",
+      "achieved": 1,
+      "unlocktime": 1750562432,
+      "name": "Lonely Tsukimi",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scary Stories to Tell at School",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Photographer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Further Liberation",
+      "description": "STU: Cleanse all newly-added torii gates."
+    },
+    {
+      "apiname": "ACH_060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On-The-Job Training",
+      "description": "STU: Unlock all newly-added Spirit Skills."
+    },
+    {
+      "apiname": "ACH_061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unparalleled Talismaniac",
+      "description": "STU: Acquire all newly-added talismans."
+    },
+    {
+      "apiname": "ACH_062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unexpected Visitors",
+      "description": "STU: Defeat at least one of every newly-added type of Visitor."
+    },
+    {
+      "apiname": "ACH_063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Figure Aficionado",
+      "description": "STU: Try your luck at capsule machines at least 50 times."
+    },
+    {
+      "apiname": "ACH_064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Views From the Abyss",
+      "description": "STU: Complete \"The Spider's Thread\" mode."
+    },
+    {
+      "apiname": "ACH_065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catalog Conqueror",
+      "description": "STU: Complete all nekomata jobs in \"The Spider's Thread\" mode."
+    },
+    {
+      "apiname": "ACH_066",
+      "achieved": 1,
+      "unlocktime": 1750005946,
+      "name": "Welcome to Shibuya",
+      "description": ""
+    }
+  ]
+}

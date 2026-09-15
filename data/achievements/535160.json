@@ -1,0 +1,319 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 535160,
+  "game": "Fire in the Goal",
+  "total": 44,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:07.908329+00:00",
+  "achievements": [
+    {
+      "apiname": "FirstGoal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where dream starts",
+      "description": "FirstGoal"
+    },
+    {
+      "apiname": "FirstWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner winner",
+      "description": "Won a game"
+    },
+    {
+      "apiname": "ThreeGoalOneMatch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hat trick",
+      "description": "Score 3 goals in a single game"
+    },
+    {
+      "apiname": "FirstUltraSkill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I feel the power",
+      "description": "Use your ultimate for the first time"
+    },
+    {
+      "apiname": "TwentyHealTrigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eating is love, eating is life",
+      "description": "Grab 20 meals in a single game"
+    },
+    {
+      "apiname": "TwentyPowerTrigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taurine accessive",
+      "description": "Grab 20 drinks in a single game"
+    },
+    {
+      "apiname": "WinByPistol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cowboy",
+      "description": "Won a game using pistol"
+    },
+    {
+      "apiname": "WinBySubmachineGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone gunner",
+      "description": "Won a game using SMG"
+    },
+    {
+      "apiname": "WinByHeavymachineGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firepower suppression",
+      "description": "Won a game using machine gun"
+    },
+    {
+      "apiname": "WinByRocket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wild power",
+      "description": "Won a game using rocket launcher"
+    },
+    {
+      "apiname": "WinByChainSaw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saw",
+      "description": "Won a game using chainsaw"
+    },
+    {
+      "apiname": "WinByFlameThrower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carry all before one",
+      "description": "Won a game using thrower"
+    },
+    {
+      "apiname": "WinByShotGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tough fighter",
+      "description": "Won a game using shotgun"
+    },
+    {
+      "apiname": "WinByTigerDaddy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who's your daddy",
+      "description": "Won a game using tiger"
+    },
+    {
+      "apiname": "WinByTeddyBear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bearish",
+      "description": "Won a game using brown bear"
+    },
+    {
+      "apiname": "WinBySheepard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey! Stop",
+      "description": "Won a game using sheep"
+    },
+    {
+      "apiname": "HitBallFiveByRocket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "RPG for the win",
+      "description": "Hit the ball for more than 5 times using RPG in a single game"
+    },
+    {
+      "apiname": "KillSixByHighNoon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More please",
+      "description": "Hexa-kill using Sharpshooter"
+    },
+    {
+      "apiname": "StayInCordial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting high",
+      "description": "Keep exhilarant for over one minute"
+    },
+    {
+      "apiname": "FreezeEnemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I like your gentleness",
+      "description": "Freeze over 20 enemy in a single game"
+    },
+    {
+      "apiname": "AccShield",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Face it",
+      "description": "Absorb over 15k damage using protection shield"
+    },
+    {
+      "apiname": "FlyingMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fly higher",
+      "description": "Stay air for over 10 seconds"
+    },
+    {
+      "apiname": "ControlByBass",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's dance",
+      "description": "Crowd control your enemy for over 30s"
+    },
+    {
+      "apiname": "ExcellentPistol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So?",
+      "description": "Hit all the bullets while using rapid fire"
+    },
+    {
+      "apiname": "CompleteWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey anyone else?",
+      "description": "Won a game without losing a single score"
+    },
+    {
+      "apiname": "GreatWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go find your mummy",
+      "description": "Won a game with over 10 goals scored"
+    },
+    {
+      "apiname": "ExcellentWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Landslide",
+      "description": "Won a game with goal difference over 10"
+    },
+    {
+      "apiname": "ExcellentAssaultRifle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How did you do this?",
+      "description": "Won a game with over 70% accuracy using rifle"
+    },
+    {
+      "apiname": "FirstKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Always a first time",
+      "description": "Your first kill"
+    },
+    {
+      "apiname": "KillThan30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Legend",
+      "description": "Kill 30 enemies in a single game"
+    },
+    {
+      "apiname": "ExcellentHeavyMachineGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Move out of my way",
+      "description": "Deal over 15k damage using machine gun in a single game"
+    },
+    {
+      "apiname": "ExcellentShotGun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get use to it",
+      "description": "Hit each fragment of your shotgun for 10 times in a single game"
+    },
+    {
+      "apiname": "BenchWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wait we won?",
+      "description": "Won a game without a single goal or assist"
+    },
+    {
+      "apiname": "WinByMoosecurity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immortality",
+      "description": "Won a game using moose"
+    },
+    {
+      "apiname": "CompleteTutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Training Accomplished",
+      "description": "Finished your traning session"
+    },
+    {
+      "apiname": "WinByPolarGangster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polar force",
+      "description": "Won a game using polar bear"
+    },
+    {
+      "apiname": "WinByPandaBro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meet the panda",
+      "description": "Won a game using panda"
+    },
+    {
+      "apiname": "WinByGazella",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endurance is key",
+      "description": "Won a game using gazelle"
+    },
+    {
+      "apiname": "WinByPumaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master knows it all",
+      "description": "Won a game using puma"
+    },
+    {
+      "apiname": "WinByPiglet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One for all",
+      "description": "Won a game using piglet"
+    },
+    {
+      "apiname": "WinByBugLady",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glider",
+      "description": "Won a game using ladybug"
+    },
+    {
+      "apiname": "WinByBeetleforce",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Past beckons",
+      "description": "Won a game using beetles"
+    },
+    {
+      "apiname": "AllRounder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AllRounder",
+      "description": "Won using each type of weapon once"
+    },
+    {
+      "apiname": "RacialEquality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "RacialEquality",
+      "description": "Won using each hero once"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 432990,
+  "game": "Green Game: TimeSwapper",
+  "total": 15,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:49.498345+00:00",
+  "achievements": [
+    {
+      "apiname": "com.greengame.scrolltimeline",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Timeswapper",
+      "description": "Make a full time axis rotation"
+    },
+    {
+      "apiname": "com.greengame.firstdeath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead already?",
+      "description": "Die for the first time"
+    },
+    {
+      "apiname": "com.greengame.die25TimesInSingleLv",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Persistance is a virtue",
+      "description": "Die 25 times on one level"
+    },
+    {
+      "apiname": "com.greengame.die1000TimesOveral",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Millenium of pain",
+      "description": "Die 1000 times in total"
+    },
+    {
+      "apiname": "com.greengame.finish5LevelsWith3Gears",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice Engineer",
+      "description": "Collect 3 gears on 5 levels"
+    },
+    {
+      "apiname": "com.greengame.finish25LevelsWith3Gears",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journeyman Engineer",
+      "description": "Collect three gears on 25 levels"
+    },
+    {
+      "apiname": "com.greengame.finishAllLevelsWith3Gears",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grandmaster Engineer",
+      "description": "Collect three gears on all of the levels"
+    },
+    {
+      "apiname": "com.greengame.finish25LevelsFlawless",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quantum Physics Adept",
+      "description": "Flawlessly complete 25 levels"
+    },
+    {
+      "apiname": "com.greengame.finishAllLevelsFlawless",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Einstein's descendant",
+      "description": "Flawlessly complete all of the levels"
+    },
+    {
+      "apiname": "com.greengame.finish25Levels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A half empty glass",
+      "description": "Complete 25 levels"
+    },
+    {
+      "apiname": "com.greengame.finishAllTheLevels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Right on schedule",
+      "description": "Complete all of the levels"
+    },
+    {
+      "apiname": "com.greengame.finish20LevelsOld",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm too old for this",
+      "description": "Complete 20 levels as a elderly bird"
+    },
+    {
+      "apiname": "com.greengame.finish20LevelsMiddle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Midlife crisis",
+      "description": "Complete 20 levels as a mid-aged bird"
+    },
+    {
+      "apiname": "com.greengame.finish20LevelsYoung",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destined for greatness",
+      "description": "Complete 20 levels as a young bird"
+    },
+    {
+      "apiname": "com.greengame.backToStart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going in circles",
+      "description": "Return to the starting cage"
+    }
+  ]
+}

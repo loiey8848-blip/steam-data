@@ -1,0 +1,536 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3159330,
+  "game": "Assassin's Creed Shadows",
+  "total": 75,
+  "unlocked": 75,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:26.735280+00:00",
+  "achievements": [
+    {
+      "apiname": "ACShadows_Ach_1",
+      "achieved": 1,
+      "unlocktime": 1771812370,
+      "name": "Prologue",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_2",
+      "achieved": 1,
+      "unlocktime": 1771946459,
+      "name": "A New League Rises",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_3",
+      "achieved": 1,
+      "unlocktime": 1772109542,
+      "name": "An Oath Fulfilled",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_4",
+      "achieved": 1,
+      "unlocktime": 1772202873,
+      "name": "Fall of the Shinbakufu",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_5",
+      "achieved": 1,
+      "unlocktime": 1772214211,
+      "name": "Epilogue",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_6",
+      "achieved": 1,
+      "unlocktime": 1772123653,
+      "name": "Death Blossom",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_7",
+      "achieved": 1,
+      "unlocktime": 1772027643,
+      "name": "The Thief",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_8",
+      "achieved": 1,
+      "unlocktime": 1772156431,
+      "name": "The Toxin Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_9",
+      "achieved": 1,
+      "unlocktime": 1772158834,
+      "name": "The Eager Assassin",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_10",
+      "achieved": 1,
+      "unlocktime": 1772157816,
+      "name": "The Ronin",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_11",
+      "achieved": 1,
+      "unlocktime": 1771845787,
+      "name": "The Warrior Monk",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_12",
+      "achieved": 1,
+      "unlocktime": 1772098850,
+      "name": "The Sharpshooter",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_13",
+      "achieved": 1,
+      "unlocktime": 1771931671,
+      "name": "Build Your League",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_14",
+      "achieved": 1,
+      "unlocktime": 1771943576,
+      "name": "Front of the Pack",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_15",
+      "achieved": 1,
+      "unlocktime": 1772380195,
+      "name": "Art of Ninjutsu",
+      "description": "Master the way of the shinobi"
+    },
+    {
+      "apiname": "ACShadows_Ach_16",
+      "achieved": 1,
+      "unlocktime": 1772381636,
+      "name": "Art of Kenjutsu",
+      "description": "Master the way of the samurai"
+    },
+    {
+      "apiname": "ACShadows_Ach_17",
+      "achieved": 1,
+      "unlocktime": 1771862813,
+      "name": "Make it Personal",
+      "description": "Engrave your first weapon"
+    },
+    {
+      "apiname": "ACShadows_Ach_18",
+      "achieved": 1,
+      "unlocktime": 1771835765,
+      "name": "Better than a Bucket",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_19",
+      "achieved": 1,
+      "unlocktime": 1771836634,
+      "name": "Limitless",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_20",
+      "achieved": 1,
+      "unlocktime": 1772162202,
+      "name": "In Case of Trouble",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_21",
+      "achieved": 1,
+      "unlocktime": 1772163558,
+      "name": "Suture Self",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_22",
+      "achieved": 1,
+      "unlocktime": 1771860594,
+      "name": "Sometimes",
+      "description": "Perform a landing roll"
+    },
+    {
+      "apiname": "ACShadows_Ach_23",
+      "achieved": 1,
+      "unlocktime": 1771944200,
+      "name": "Reeding is Fundamental",
+      "description": "Escape conflict by using a breathing reed to hide in shallow water"
+    },
+    {
+      "apiname": "ACShadows_Ach_24",
+      "achieved": 1,
+      "unlocktime": 1771931835,
+      "name": "Just Your Shadow",
+      "description": "Distract the same enemy 3 times with shinobi bells"
+    },
+    {
+      "apiname": "ACShadows_Ach_25",
+      "achieved": 1,
+      "unlocktime": 1771847330,
+      "name": "Hook, Line, and Swinger",
+      "description": "Stay airborne by swinging from one grappling hook point to another"
+    },
+    {
+      "apiname": "ACShadows_Ach_26",
+      "achieved": 1,
+      "unlocktime": 1771847267,
+      "name": "Acrobatics",
+      "description": "Perform a leap of faith from a grappling hook swing"
+    },
+    {
+      "apiname": "ACShadows_Ach_27",
+      "achieved": 1,
+      "unlocktime": 1771950901,
+      "name": "Leap of Fail",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_28",
+      "achieved": 1,
+      "unlocktime": 1771810210,
+      "name": "Adept Shinobi",
+      "description": "Perform your first assassination"
+    },
+    {
+      "apiname": "ACShadows_Ach_29",
+      "achieved": 1,
+      "unlocktime": 1771858357,
+      "name": "Master Shinobi",
+      "description": "Assassinate an enemy through a shoji door"
+    },
+    {
+      "apiname": "ACShadows_Ach_30",
+      "achieved": 1,
+      "unlocktime": 1771811556,
+      "name": "Unseen",
+      "description": "Perform 5 assassinations in a row without being noticed or entering combat"
+    },
+    {
+      "apiname": "ACShadows_Ach_31",
+      "achieved": 1,
+      "unlocktime": 1771962236,
+      "name": "Giant Slayer",
+      "description": "Assassinate a powerful guardian in one go"
+    },
+    {
+      "apiname": "ACShadows_Ach_32",
+      "achieved": 1,
+      "unlocktime": 1771809098,
+      "name": "Adept Samurai",
+      "description": "Perform your first Finisher as Yasuke"
+    },
+    {
+      "apiname": "ACShadows_Ach_33",
+      "achieved": 1,
+      "unlocktime": 1772068697,
+      "name": "Master Samurai",
+      "description": "Parry an incoming projectile"
+    },
+    {
+      "apiname": "ACShadows_Ach_34",
+      "achieved": 1,
+      "unlocktime": 1772362407,
+      "name": "Unstoppable",
+      "description": "Use Samurai Stand before performing a Finisher on an enemy"
+    },
+    {
+      "apiname": "ACShadows_Ach_35",
+      "achieved": 1,
+      "unlocktime": 1771950729,
+      "name": "This is Japan, Actually",
+      "description": "Kick an enemy from a high place"
+    },
+    {
+      "apiname": "ACShadows_Ach_36",
+      "achieved": 1,
+      "unlocktime": 1772001248,
+      "name": "Overdesign III",
+      "description": "Perform a Finisher on an enemy that is both Poisoned and Dazed"
+    },
+    {
+      "apiname": "ACShadows_Ach_37",
+      "achieved": 1,
+      "unlocktime": 1772002316,
+      "name": "Final Hearing",
+      "description": "Sheath your weapon immediately after an enemy dies from Bleed"
+    },
+    {
+      "apiname": "ACShadows_Ach_38",
+      "achieved": 1,
+      "unlocktime": 1771949363,
+      "name": "Adventurer",
+      "description": "Shoot an enemy in the knee with an arrow"
+    },
+    {
+      "apiname": "ACShadows_Ach_39",
+      "achieved": 1,
+      "unlocktime": 1771927768,
+      "name": "Mortal Reminder",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_40",
+      "achieved": 1,
+      "unlocktime": 1772109542,
+      "name": "Test Your Might",
+      "description": "Defeat the final enemy in the tournament"
+    },
+    {
+      "apiname": "ACShadows_Ach_41",
+      "achieved": 1,
+      "unlocktime": 1771847358,
+      "name": "Kofun Raider",
+      "description": "Complete your first kofun"
+    },
+    {
+      "apiname": "ACShadows_Ach_42",
+      "achieved": 1,
+      "unlocktime": 1771951291,
+      "name": "Good Form",
+      "description": "Complete your first kata"
+    },
+    {
+      "apiname": "ACShadows_Ach_43",
+      "achieved": 1,
+      "unlocktime": 1772155255,
+      "name": "Zen Master",
+      "description": "Complete all Kuji-kiri"
+    },
+    {
+      "apiname": "ACShadows_Ach_44",
+      "achieved": 1,
+      "unlocktime": 1772387317,
+      "name": "A Rare Occurrence",
+      "description": "Complete all legendary sumi-e"
+    },
+    {
+      "apiname": "ACShadows_Ach_45",
+      "achieved": 1,
+      "unlocktime": 1772155952,
+      "name": "Collector",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_46",
+      "achieved": 1,
+      "unlocktime": 1771831150,
+      "name": "Sole Sanctum",
+      "description": "Unlock the Hideout"
+    },
+    {
+      "apiname": "ACShadows_Ach_47",
+      "achieved": 1,
+      "unlocktime": 1771943034,
+      "name": "Chase the Morning",
+      "description": "Add a sumi-e to the Hideout"
+    },
+    {
+      "apiname": "ACShadows_Ach_48",
+      "achieved": 1,
+      "unlocktime": 1771862582,
+      "name": "Against Wood and Stone",
+      "description": "Fully upgrade a building in the Hideout"
+    },
+    {
+      "apiname": "ACShadows_Ach_49",
+      "achieved": 1,
+      "unlocktime": 1771846050,
+      "name": "Everybody Benefits!",
+      "description": "Adopt a pet"
+    },
+    {
+      "apiname": "ACShadows_Ach_50",
+      "achieved": 1,
+      "unlocktime": 1772127113,
+      "name": "Happy Place",
+      "description": "Reach the highest point on the map"
+    },
+    {
+      "apiname": "ACShadows_Ach_51",
+      "achieved": 1,
+      "unlocktime": 1772032364,
+      "name": "Pathfinder",
+      "description": "Visit every province on the map"
+    },
+    {
+      "apiname": "ACShadows_Ach_52",
+      "achieved": 1,
+      "unlocktime": 1771831388,
+      "name": "Scouting Mission",
+      "description": "Gather information using a scout"
+    },
+    {
+      "apiname": "ACShadows_Ach_53",
+      "achieved": 1,
+      "unlocktime": 1772041984,
+      "name": "Would You Kindly?",
+      "description": "Complete a contract in each province"
+    },
+    {
+      "apiname": "ACShadows_Ach_54",
+      "achieved": 1,
+      "unlocktime": 1772003510,
+      "name": "Made You Look!",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_55",
+      "achieved": 1,
+      "unlocktime": 1771992871,
+      "name": "Critical Hit!",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_56",
+      "achieved": 1,
+      "unlocktime": 1772219953,
+      "name": "Enjoy the Ride",
+      "description": "Reach Level 80"
+    },
+    {
+      "apiname": "ACShadows_Ach_57",
+      "achieved": 1,
+      "unlocktime": 1772387771,
+      "name": "Stars Unseen",
+      "description": "Reach Knowledge Rank 10"
+    },
+    {
+      "apiname": "ACShadows_Ach_58",
+      "achieved": 1,
+      "unlocktime": 1771927295,
+      "name": "Worth Its Wait",
+      "description": "Obtain two golden katana"
+    },
+    {
+      "apiname": "ACShadows_Ach_59",
+      "achieved": 1,
+      "unlocktime": 1772307235,
+      "name": "Ran",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_60",
+      "achieved": 1,
+      "unlocktime": 1772355404,
+      "name": "Hunters Hunted",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_61",
+      "achieved": 1,
+      "unlocktime": 1772358886,
+      "name": "Unity",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_62",
+      "achieved": 1,
+      "unlocktime": 1772384136,
+      "name": "Clawless",
+      "description": "Eliminate all targets in Awaji (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_63",
+      "achieved": 1,
+      "unlocktime": 1772307252,
+      "name": "The Stick of Truth",
+      "description": "Equip a Legendary Bo (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_64",
+      "achieved": 1,
+      "unlocktime": 1772307600,
+      "name": "One, Two, Sweep",
+      "description": "Eliminate an enemy after using all three postures of the Bo in a single combat (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_65",
+      "achieved": 1,
+      "unlocktime": 1772386401,
+      "name": "Slice of Life",
+      "description": "Kill 5 enemies with one single Wind Slash strike (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_66",
+      "achieved": 1,
+      "unlocktime": 1772386799,
+      "name": "Backfire",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_67",
+      "achieved": 1,
+      "unlocktime": 1772357631,
+      "name": "Assassin's Focus",
+      "description": "Eliminate 7 enemies through one single use of Windstep (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_68",
+      "achieved": 1,
+      "unlocktime": 1772382456,
+      "name": "Boat Rocked",
+      "description": ""
+    },
+    {
+      "apiname": "ACShadows_Ach_69",
+      "achieved": 1,
+      "unlocktime": 1772333219,
+      "name": "Breathtaking!",
+      "description": "Complete all Landscape Sumi-e in Awaji (Claws of Awaji)"
+    },
+    {
+      "apiname": "ACShadows_Ach_70",
+      "achieved": 1,
+      "unlocktime": 1772163597,
+      "name": "Master Builder",
+      "description": "Reach Hideout level 13"
+    },
+    {
+      "apiname": "ACShadows_Ach_71",
+      "achieved": 1,
+      "unlocktime": 1772164615,
+      "name": "Skill Swap",
+      "description": "Train Kinu and Kane"
+    },
+    {
+      "apiname": "ACShadows_Ach_72",
+      "achieved": 1,
+      "unlocktime": 1771998474,
+      "name": "All Clear",
+      "description": "Complete 5 Corrupted Castles"
+    },
+    {
+      "apiname": "ACShadows_Ach_73",
+      "achieved": 1,
+      "unlocktime": 1781931412,
+      "name": "End of Order",
+      "description": "Defeat the Templars"
+    },
+    {
+      "apiname": "ACShadows_Ach_74",
+      "achieved": 1,
+      "unlocktime": 1781762358,
+      "name": "Infinite Introduction",
+      "description": "Activate an Exploit"
+    },
+    {
+      "apiname": "ACShadows_Ach_75",
+      "achieved": 1,
+      "unlocktime": 1781783484,
+      "name": "MOD Runner",
+      "description": "Complete a Challenge Level 10 Domain"
+    }
+  ]
+}

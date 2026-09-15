@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 218680,
+  "game": "Scribblenauts Unlimited",
+  "total": 25,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:38.419443+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_ALL_STARITES_IN_A_LEVEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helping Hand",
+      "description": "Get all the Starites in any level"
+    },
+    {
+      "apiname": "ACH_3_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magical Globe for Rent",
+      "description": "Bring 3 Starites to Lily and unlock the world map"
+    },
+    {
+      "apiname": "ACH_8_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patches and his Kite",
+      "description": "Bring 8 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_12_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rex the Dinosaur Hunter",
+      "description": "Bring 12 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_16_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yarrr, matey!",
+      "description": "Bring 16 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_24_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chillin’ with Chilly",
+      "description": "Bring 24 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_30_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tony and the Outlaw",
+      "description": "Bring 30 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_40_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bubbles’ Magical Aquatic Adventure",
+      "description": "Bring 40 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_50_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buzzing to the Stars",
+      "description": "Bring 50 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_60_STARITES_TO_LILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sister Savior",
+      "description": "Bring 60 Starites to Lily"
+    },
+    {
+      "apiname": "ACH_106_STARITES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starite Get!",
+      "description": "Get all 106 Starites"
+    },
+    {
+      "apiname": "ACH_40_MAXWELL_BROTHERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brotherly Love",
+      "description": "Help all 40 of Maxwell’s brothers"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_LIVING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living Large",
+      "description": "Get all object Shards in the Living category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_FOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Food Fight",
+      "description": "Get all object Shards in the Food category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_VEHICLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cars, Trains, and Planes",
+      "description": "Get all object Shards in the Vehicle category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_MUSIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jamming Out",
+      "description": "Get all object Shards in the Music category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_TECH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Playing with Gadgets",
+      "description": "Get all object Shards in the Tech category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fun with Weapons",
+      "description": "Get all object Shards in the Weapon category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_CLOTHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Statement",
+      "description": "Get all object Shards in the Clothes category"
+    },
+    {
+      "apiname": "ACH_ALL_SHARDS_MISC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Kitchen Sink",
+      "description": "Get all object Shards in the Misc category"
+    },
+    {
+      "apiname": "ACH_217_OBJ_SHARDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Notepad Explorer",
+      "description": "Get all 217 object Shards"
+    },
+    {
+      "apiname": "ACH_CHANGE_AVATAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxwell in Disguise",
+      "description": "Change your Avatar"
+    },
+    {
+      "apiname": "ACH_USE_OBJECT_SUGGESTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Try This Instead",
+      "description": "Create an object using the Object Suggestor"
+    },
+    {
+      "apiname": "ACH_USE_OBJECT_EDITOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make it Yours",
+      "description": "Make a new object using the Object Editor"
+    },
+    {
+      "apiname": "ACH_DOWNLOAD_CUSTOM_OBJ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Window Shopping",
+      "description": "Download a custom object from another player"
+    }
+  ]
+}

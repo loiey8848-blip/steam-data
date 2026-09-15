@@ -1,0 +1,739 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 648800,
+  "game": "Raft",
+  "total": 104,
+  "unlocked": 10,
+  "percent": 9.6,
+  "updated_at_utc": "2026-09-15T06:50:19.194284+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_build_foundation_10",
+      "achieved": 1,
+      "unlocktime": 1668258508,
+      "name": "Beginner Builder!",
+      "description": "Build 10 foundations."
+    },
+    {
+      "apiname": "ach_playwithfriend",
+      "achieved": 1,
+      "unlocktime": 1668251778,
+      "name": "Teamplay!",
+      "description": "Team up with a friend in multiplayer."
+    },
+    {
+      "apiname": "ach_build_cookingstandOne",
+      "achieved": 1,
+      "unlocktime": 1751618564,
+      "name": "Dinnertime!",
+      "description": "Craft and place a simple grill."
+    },
+    {
+      "apiname": "ach_build_purifierOne",
+      "achieved": 1,
+      "unlocktime": 1751618543,
+      "name": "It's Better Without The Salt.",
+      "description": "Craft and place a simple purifier."
+    },
+    {
+      "apiname": "ach_sailor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aye Aye Captain!",
+      "description": "Place a sail and a stationary anchor on the same raft."
+    },
+    {
+      "apiname": "ach_hoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarder!",
+      "description": "Have 20 storages on the same raft."
+    },
+    {
+      "apiname": "ach_farmer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farmer!",
+      "description": "Have 20 cropplots on the same raft."
+    },
+    {
+      "apiname": "ach_researcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bookworm!",
+      "description": "Research everything in the research table."
+    },
+    {
+      "apiname": "ach_build_foundation_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Builder!",
+      "description": "Build 100 foundations."
+    },
+    {
+      "apiname": "ach_build_foundation_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Builder!",
+      "description": "Build 1000 foundations."
+    },
+    {
+      "apiname": "ach_sharkKiller_1",
+      "achieved": 1,
+      "unlocktime": 1668259021,
+      "name": "Beginner Shark Hunter!",
+      "description": "Kill 1 shark."
+    },
+    {
+      "apiname": "ach_sharkKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Shark Hunter!",
+      "description": "Kill 10 sharks."
+    },
+    {
+      "apiname": "ach_sharkKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Shark Hunter!",
+      "description": "Kill 50 sharks."
+    },
+    {
+      "apiname": "ach_gatherer_100",
+      "achieved": 1,
+      "unlocktime": 1668258122,
+      "name": "Beginner Gatherer!",
+      "description": "Hook 100 items."
+    },
+    {
+      "apiname": "ach_gatherer_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Gatherer!",
+      "description": "Hook 500 items."
+    },
+    {
+      "apiname": "ach_gatherer_5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Gatherer!",
+      "description": "Hook 5000 items."
+    },
+    {
+      "apiname": "ach_birdKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Bird Hunter!",
+      "description": "Kill 1 bird."
+    },
+    {
+      "apiname": "ach_birdKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Bird Hunter!",
+      "description": "Kill 10 birds."
+    },
+    {
+      "apiname": "ach_birdKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Bird Hunter!",
+      "description": "Kill 50 birds."
+    },
+    {
+      "apiname": "ach_build_painter_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Painter!",
+      "description": "Paint 50 blocks."
+    },
+    {
+      "apiname": "ach_build_painter_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Painter!",
+      "description": "Paint 200 blocks."
+    },
+    {
+      "apiname": "ach_build_painter_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Painter!",
+      "description": "Paint 1000 blocks."
+    },
+    {
+      "apiname": "ach_build_reorganizer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Goes Here!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_cemetary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Ocean Cemetery!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_radiotower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is There A Utopia?",
+      "description": ""
+    },
+    {
+      "apiname": "ach_diveDeep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exploring The depths!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_survivor_day",
+      "achieved": 1,
+      "unlocktime": 1668251820,
+      "name": "Beginner Survivor!",
+      "description": "Survive 1 day."
+    },
+    {
+      "apiname": "ach_survivor_week",
+      "achieved": 1,
+      "unlocktime": 1751170753,
+      "name": "Intermediate Survivor!",
+      "description": "Survive 7 days."
+    },
+    {
+      "apiname": "ach_survivor_month",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Survivor!",
+      "description": "Survive 30 days."
+    },
+    {
+      "apiname": "ach_survivor_year",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Survivor!",
+      "description": "Survive 365 days."
+    },
+    {
+      "apiname": "ach_pufferKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Poison-Puffer Hunter!",
+      "description": "Kill 1 Poison-puffer."
+    },
+    {
+      "apiname": "ach_pufferKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Poison-Puffer Hunter!",
+      "description": "Kill 10 Poison-puffers."
+    },
+    {
+      "apiname": "ach_pufferKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Poison-Puffer Hunter!",
+      "description": "Kill 50 Poison-puffers."
+    },
+    {
+      "apiname": "ach_stoneBirdKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Screecher Hunter!",
+      "description": "Kill 1 Screecher."
+    },
+    {
+      "apiname": "ach_stoneBirdKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Screecher Hunter!",
+      "description": "Kill 10 Screechers."
+    },
+    {
+      "apiname": "ach_stoneBirdKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Screecher Hunter!",
+      "description": "Kill 50 Screechers."
+    },
+    {
+      "apiname": "ach_reach_pilotIsland",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not A Great Landing!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_reach_bigIsland",
+      "achieved": 1,
+      "unlocktime": 1668256412,
+      "name": "Large Landmass Ahoy!",
+      "description": "Discover a large island."
+    },
+    {
+      "apiname": "ach_cookedRecipe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A More Complex Concoction!",
+      "description": "Cook a meal by following a recipe."
+    },
+    {
+      "apiname": "ach_captureAnimal_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Wrangler!",
+      "description": "Capture 1 animal."
+    },
+    {
+      "apiname": "ach_captureAnimal_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Wrangler!",
+      "description": "Capture 10 animals."
+    },
+    {
+      "apiname": "ach_captureAnimal_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Wrangler!",
+      "description": "Capture 50 animals."
+    },
+    {
+      "apiname": "ach_captureRareAnimal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Look Different!",
+      "description": "Capture a rare animal."
+    },
+    {
+      "apiname": "ach_boarKiller_1",
+      "achieved": 1,
+      "unlocktime": 1668257011,
+      "name": "Beginner Warthog Hunter!",
+      "description": "Kill 1 Warthog."
+    },
+    {
+      "apiname": "ach_boarKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Warthog Hunter!",
+      "description": "Kill 10 Warthogs."
+    },
+    {
+      "apiname": "ach_boarKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Warthog Hunter!",
+      "description": "Kill 50 Warthogs."
+    },
+    {
+      "apiname": "ach_reach_captainIsland",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "O Captain! My Captain!?",
+      "description": ""
+    },
+    {
+      "apiname": "ach_mamaBearKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mother Lode!",
+      "description": "Slay the Mama Bear."
+    },
+    {
+      "apiname": "ach_balboaBicycle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pling!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_fixErrol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fix Errol!",
+      "description": "There you go, Errol."
+    },
+    {
+      "apiname": "ach_brunosToolboard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Revelation!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_tinyLittleMurderer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiny Little Murderer",
+      "description": ""
+    },
+    {
+      "apiname": "ach_allNotes_RadioTower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Radio Tower Historian!",
+      "description": "Find all notes on the Radio Tower!"
+    },
+    {
+      "apiname": "ach_allNotes_Vasagatan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vasagatan Historian!",
+      "description": "Find all notes on Vasagatan!"
+    },
+    {
+      "apiname": "ach_allNotes_Balboa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balboa Historian!",
+      "description": "Find all notes on Balboa!"
+    },
+    {
+      "apiname": "ach_vasagatan_Bomb",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bootleg Fireworks!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_ratKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Lurker Hunter!",
+      "description": "Kill 1 Lurker."
+    },
+    {
+      "apiname": "ach_ratKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Lurker Hunter!",
+      "description": "Kill 10 Lurkers."
+    },
+    {
+      "apiname": "ach_ratKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Lurker Hunter!",
+      "description": "Kill 50 Lurkers."
+    },
+    {
+      "apiname": "ach_bearKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Bear Hunter!",
+      "description": "Kill 1 Bear."
+    },
+    {
+      "apiname": "ach_bearKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Bear Hunter!",
+      "description": "Kill 10 Bears."
+    },
+    {
+      "apiname": "ach_bearKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Bear Hunter!",
+      "description": "Kill 50 Bears."
+    },
+    {
+      "apiname": "ach_allRBPaintings",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artistic Collection!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_allNotes_Caravan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caravan Town Historian!",
+      "description": "Find all notes on Caravan Town!"
+    },
+    {
+      "apiname": "ach_allNotes_Tangaroa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tangaroa Historian! ",
+      "description": "Find all notes in Tangaroa!"
+    },
+    {
+      "apiname": "ach_zip_OneGo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zip Zap!",
+      "description": "Travel 50 meters on a zipline without disjointing."
+    },
+    {
+      "apiname": "ach_zip_100m",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Ziponaut!",
+      "description": "Travel 100 meters with the zipline tool."
+    },
+    {
+      "apiname": "ach_zip_500m",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Ziponaut!",
+      "description": "Travel 500 meters with the zipline tool."
+    },
+    {
+      "apiname": "ach_zip_1500m",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Ziponaut!",
+      "description": "Travel 1500 meters with the zipline tool."
+    },
+    {
+      "apiname": "ach_excevator_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Excavator!",
+      "description": "Dig up a treasure."
+    },
+    {
+      "apiname": "ach_excevator_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Excavator!",
+      "description": "Dig up 20 treasures."
+    },
+    {
+      "apiname": "ach_excevator_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Excavator!",
+      "description": "Dig up 50 treasures."
+    },
+    {
+      "apiname": "ach_tiki_completed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Former Glory!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_pipes_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plumber Power!",
+      "description": "Have 30 pipes placed at once."
+    },
+    {
+      "apiname": "ach_beekeeper_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bee Keeper!",
+      "description": "Have 10 beehives placed at once."
+    },
+    {
+      "apiname": "ach_beeCaptures_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Bee-nevolent!",
+      "description": "Capture 1 bee."
+    },
+    {
+      "apiname": "ach_beeCaptures_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Bee-nevolent!",
+      "description": "Capture 10 bees."
+    },
+    {
+      "apiname": "ach_beeCaptures_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Bee-nevolent!",
+      "description": "Capture 25 bees."
+    },
+    {
+      "apiname": "ach_secret_tangaroa_claw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boxed In!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_instrument_notes_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instrumentalist!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_token_tangaroa_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Spender! ",
+      "description": "Spend 10 tokens."
+    },
+    {
+      "apiname": "ach_token_tangaroa_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium Spender!",
+      "description": "Spend 20 tokens."
+    },
+    {
+      "apiname": "ach_token_tangaroa_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender!",
+      "description": "Spend 30 tokens."
+    },
+    {
+      "apiname": "ach_botKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Disruptor!",
+      "description": "Disrupt 1 Butler-Bot."
+    },
+    {
+      "apiname": "ach_botKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Disruptor!",
+      "description": "Disrupt 10 Butler-Bots."
+    },
+    {
+      "apiname": "ach_botKiller_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Disruptor!",
+      "description": "Disrupt 20 Butler-Bots."
+    },
+    {
+      "apiname": "ach_tangaroa_cockpitLaunch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Launch Initiated!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_fireworks_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Real Fireworks!",
+      "description": "Witness 50 firework explosions."
+    },
+    {
+      "apiname": "ach_hidden_tangaroa_room",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Should Not Be Here!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_allMysteryLootUnlocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Renovator!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_varunaBossKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explosive Force!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_anglerFishKiller_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Anglerfish Hunter!",
+      "description": "Kill 1 Anglerfish."
+    },
+    {
+      "apiname": "ach_anglerFishKiller_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Anglerfish Hunter!",
+      "description": "Kill 10 Anglerfish."
+    },
+    {
+      "apiname": "ach_anglerFishKiller_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Anglerfish Hunter!",
+      "description": "Kill 50 Anglerfish."
+    },
+    {
+      "apiname": "ach_finalCutscene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Is A Utopia!",
+      "description": ""
+    },
+    {
+      "apiname": "ach_allCharactersUnlocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Aboard!",
+      "description": "Unlock all playable characters."
+    },
+    {
+      "apiname": "ach_firstPurchaseAtTrader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Merchant!",
+      "description": "Purchase an item at a trading post."
+    },
+    {
+      "apiname": "ach_tier2Trader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intermediate Merchant!",
+      "description": "Reach tier 2 in the trading post."
+    },
+    {
+      "apiname": "ach_tier3Trader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Merchant!",
+      "description": "Reach tier 3 in the trading post."
+    },
+    {
+      "apiname": "ach_allFoodBuffs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powered Up!",
+      "description": "Have all buffs from meals and drinks active on you at the same time."
+    },
+    {
+      "apiname": "ach_snowmobileIsNotABoat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Not A Boat...",
+      "description": "Drive a snowmobile into the sea."
+    },
+    {
+      "apiname": "ach_grabbersNest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cache Collector!",
+      "description": "Locate all Grabber caches on Varuna Point."
+    },
+    {
+      "apiname": "ach_allNotes_Varuna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Varuna Point Historian!",
+      "description": "Find all notes in Varuna Point."
+    },
+    {
+      "apiname": "ach_allNotes_Temperance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Temperance Historian!",
+      "description": "Find all notes in Temperance."
+    }
+  ]
+}

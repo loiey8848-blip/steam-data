@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3167550,
+  "game": "Tiny Pasture",
+  "total": 55,
+  "unlocked": 42,
+  "percent": 76.4,
+  "updated_at_utc": "2026-09-15T06:53:27.114778+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_ANIMAL_ADULT_0",
+      "achieved": 1,
+      "unlocktime": 1740545187,
+      "name": "Novice Pasture Keeper",
+      "description": "Raise an animal to adulthood"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ADULT_1",
+      "achieved": 1,
+      "unlocktime": 1775130897,
+      "name": "Beginner Pasture Keeper",
+      "description": "Raise a total of 10 animals to adulthood"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ADULT_2",
+      "achieved": 1,
+      "unlocktime": 1775543611,
+      "name": "Skilled Pasture Keeper",
+      "description": "Raise a total of 50 animals to adulthood"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ADULT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Pasture Keeper",
+      "description": "Raise a total of 500 animals to adulthood"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ADULT_RAINBOW",
+      "achieved": 1,
+      "unlocktime": 1775543611,
+      "name": "Take Precious Good Care",
+      "description": "Raise the highest quality animal to adulthood for the first time"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_0",
+      "achieved": 1,
+      "unlocktime": 1775389979,
+      "name": "Encyclopedia Enthusiast: Rabbit",
+      "description": "Unlock all rabbit colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_1",
+      "achieved": 1,
+      "unlocktime": 1775647113,
+      "name": "Encyclopedia Enthusiast: Alpaca",
+      "description": "Unlock all alpaca colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_2",
+      "achieved": 1,
+      "unlocktime": 1775468432,
+      "name": "Encyclopedia Enthusiast: Fox",
+      "description": "Unlock all fox colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_3",
+      "achieved": 1,
+      "unlocktime": 1775469475,
+      "name": "Encyclopedia Enthusiast: Parrot",
+      "description": "Unlock all parrot colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_4",
+      "achieved": 1,
+      "unlocktime": 1775392580,
+      "name": "Encyclopedia Enthusiast: Cat",
+      "description": "Unlock all cat colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_5",
+      "achieved": 1,
+      "unlocktime": 1775467987,
+      "name": "Encyclopedia Enthusiast: Hamster",
+      "description": "Unlock all hamster colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_6",
+      "achieved": 1,
+      "unlocktime": 1775474421,
+      "name": "Encyclopedia Enthusiast: Chicken",
+      "description": "Unlock all chicken colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_7",
+      "achieved": 1,
+      "unlocktime": 1775473806,
+      "name": "Encyclopedia Enthusiast: Capybara",
+      "description": "Unlock all capybara colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_8",
+      "achieved": 1,
+      "unlocktime": 1775396179,
+      "name": "Encyclopedia Enthusiast: Corgi",
+      "description": "Unlock all corgi colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_9",
+      "achieved": 1,
+      "unlocktime": 1775488926,
+      "name": "Encyclopedia Enthusiast: Red Panda",
+      "description": "Unlock all red panda colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_10",
+      "achieved": 1,
+      "unlocktime": 1775647337,
+      "name": "Encyclopedia Enthusiast: Ghostie",
+      "description": "Unlock all ghostie colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_11",
+      "achieved": 1,
+      "unlocktime": 1776235382,
+      "name": "Encyclopedia Enthusiast: Slime",
+      "description": "Unlock all slime colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_12",
+      "achieved": 1,
+      "unlocktime": 1776235382,
+      "name": "Encyclopedia Enthusiast: Deer",
+      "description": "Unlock all deer colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_13",
+      "achieved": 1,
+      "unlocktime": 1776235382,
+      "name": "Encyclopedia Enthusiast: Zombie",
+      "description": "Unlock all zombie colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_14",
+      "achieved": 1,
+      "unlocktime": 1775567330,
+      "name": "Encyclopedia Enthusiast: Giant Panda",
+      "description": "Unlock all giant panda colors in the encyclopedia"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_0",
+      "achieved": 1,
+      "unlocktime": 1776342782,
+      "name": "Encyclopedia Collector: Rabbit",
+      "description": "Unlock all rabbit colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Alpaca",
+      "description": "Unlock all alpaca colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Fox",
+      "description": "Unlock all fox colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Parrot",
+      "description": "Unlock all parrot colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_4",
+      "achieved": 1,
+      "unlocktime": 1776592374,
+      "name": "Encyclopedia Collector: Cat",
+      "description": "Unlock all cat colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Hamster",
+      "description": "Unlock all hamster colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Chicken",
+      "description": "Unlock all chicken colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Capybara",
+      "description": "Unlock all capybara colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_8",
+      "achieved": 1,
+      "unlocktime": 1776592374,
+      "name": "Encyclopedia Collector: Corgi",
+      "description": "Unlock all corgi colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Red Panda",
+      "description": "Unlock all red panda colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Ghostie",
+      "description": "Unlock all ghostie colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Slime",
+      "description": "Unlock all slime colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Deer",
+      "description": "Unlock all deer colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encyclopedia Collector: Zombie",
+      "description": "Unlock all zombie colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_ANIMAL_ALL_COLOR_RAINBOW_14",
+      "achieved": 1,
+      "unlocktime": 1776235408,
+      "name": "Encyclopedia Collector: Giant Panda",
+      "description": "Unlock all giant panda colors in the encyclopedia and raise them to the highest quality"
+    },
+    {
+      "apiname": "ACH_DECO_UNLOCK_0",
+      "achieved": 1,
+      "unlocktime": 1774849674,
+      "name": "Decoration Novice",
+      "description": "Unlock decoration for the first time"
+    },
+    {
+      "apiname": "ACH_DECO_UNLOCK_1",
+      "achieved": 1,
+      "unlocktime": 1775219566,
+      "name": "Gardener",
+      "description": "Unlock 5 different decorations in total"
+    },
+    {
+      "apiname": "ACH_DECO_UNLOCK_2",
+      "achieved": 1,
+      "unlocktime": 1775566606,
+      "name": "Master Gardener",
+      "description": "Unlock 10 different decorations in total"
+    },
+    {
+      "apiname": "ACH_BG_UNLOCK_0",
+      "achieved": 1,
+      "unlocktime": 1775725315,
+      "name": "Change of Scenery",
+      "description": "Unlock Pasture background"
+    },
+    {
+      "apiname": "ACH_BG_UNLOCK_1",
+      "achieved": 1,
+      "unlocktime": 1775725322,
+      "name": "New Background, New Vibes",
+      "description": "Unlock 3 different Pasture backgrounds in total"
+    },
+    {
+      "apiname": "ACH_HARVEST",
+      "achieved": 1,
+      "unlocktime": 1775130897,
+      "name": "Organic Feeding",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SLOT_UNLOCK_0",
+      "achieved": 1,
+      "unlocktime": 1775108208,
+      "name": "More Animals",
+      "description": "Unlock Pasture slots"
+    },
+    {
+      "apiname": "ACH_SLOT_UNLOCK_1",
+      "achieved": 1,
+      "unlocktime": 1776235382,
+      "name": "Lots of Animals",
+      "description": "Unlock 21 Pasture Slots"
+    },
+    {
+      "apiname": "ACH_DEPOT_UNLOCK_0",
+      "achieved": 1,
+      "unlocktime": 1775473741,
+      "name": "Animal Storage",
+      "description": "Unlock Pasture warehouse"
+    },
+    {
+      "apiname": "ACH_DEPOT_UNLOCK_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storage Master",
+      "description": "Unlock all warehouses in the Pasture"
+    },
+    {
+      "apiname": "ACH_BD_UNLOCK_0",
+      "achieved": 1,
+      "unlocktime": 1775130897,
+      "name": "Poop Destroyer",
+      "description": "Unlock facility: Magic Broom"
+    },
+    {
+      "apiname": "ACH_BD_UNLOCK_1",
+      "achieved": 1,
+      "unlocktime": 1775108208,
+      "name": "Animal Collection Expert",
+      "description": "Unlock facility: Money Beehive"
+    },
+    {
+      "apiname": "ACH_BD_UNLOCK_2",
+      "achieved": 1,
+      "unlocktime": 1775219553,
+      "name": "New Life's Beginning",
+      "description": "Unlock facility: Mystery Curtain"
+    },
+    {
+      "apiname": "ACH_BD_UNLOCK_3",
+      "achieved": 1,
+      "unlocktime": 1775222905,
+      "name": "Material Production Device",
+      "description": "Unlock facility: Cuckoo House"
+    },
+    {
+      "apiname": "ACH_BD_LEVEL_0",
+      "achieved": 1,
+      "unlocktime": 1775566556,
+      "name": "Super Clean Pasture",
+      "description": "Upgrade the Magic Broom facility to the highest level"
+    },
+    {
+      "apiname": "ACH_BD_LEVEL_1",
+      "achieved": 1,
+      "unlocktime": 1775566556,
+      "name": "Turn In Everything",
+      "description": "Upgrade the Money Beehive facility to the highest level"
+    },
+    {
+      "apiname": "ACH_BD_LEVEL_2",
+      "achieved": 1,
+      "unlocktime": 1775566558,
+      "name": "High-Efficiency Breeding Room",
+      "description": "Upgrade the Mystery Curtain facility to the highest level"
+    },
+    {
+      "apiname": "ACH_BD_LEVEL_3",
+      "achieved": 1,
+      "unlocktime": 1775566562,
+      "name": "Never Go Hungry Again",
+      "description": "Upgrade the Cuckoo House facility to the highest level"
+    },
+    {
+      "apiname": "ACH_CREAT_BABY",
+      "achieved": 1,
+      "unlocktime": 1775219814,
+      "name": "New Animal!",
+      "description": "Use the Mystery Curtain to breed new animal"
+    },
+    {
+      "apiname": "ACH_CREAT_RAINBOW_BABY",
+      "achieved": 1,
+      "unlocktime": 1776260056,
+      "name": "Brilliant New Animal!",
+      "description": ""
+    }
+  ]
+}

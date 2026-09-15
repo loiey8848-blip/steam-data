@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2004680,
+  "game": "Voidling Bound",
+  "total": 35,
+  "unlocked": 35,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:26.014344+00:00",
+  "achievements": [
+    {
+      "apiname": "HatchEggs",
+      "achieved": 1,
+      "unlocktime": 1781235928,
+      "name": "Cheaper by the Dozen",
+      "description": "Hatch 12 eggs"
+    },
+    {
+      "apiname": "KwipeckDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781194358,
+      "name": "Birds of a Feather",
+      "description": "Discover your first Kwipeck"
+    },
+    {
+      "apiname": "GillickDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781196785,
+      "name": "Wrangler's Best Friend",
+      "description": "Discover your first Gilick"
+    },
+    {
+      "apiname": "KerapinDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781234482,
+      "name": "Voidling in a Half-Shell",
+      "description": "Discover your first Kerapin"
+    },
+    {
+      "apiname": "GwigoonDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781235928,
+      "name": "Goon Squad",
+      "description": "Discover your first Gwigoon"
+    },
+    {
+      "apiname": "NimiodDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781316815,
+      "name": "High Flyer",
+      "description": "Discover your first Nimiod"
+    },
+    {
+      "apiname": "MorfangDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781427123,
+      "name": "Lesions May Cry",
+      "description": "Discover your first Morfang"
+    },
+    {
+      "apiname": "Ur-SekDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781316815,
+      "name": "Dynamic Duo",
+      "description": "Discover your first Ur-Sek"
+    },
+    {
+      "apiname": "AnamiDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781316815,
+      "name": "Swift Bandit",
+      "description": "Discover your first Anami"
+    },
+    {
+      "apiname": "PackuranDiscovered",
+      "achieved": 1,
+      "unlocktime": 1781427123,
+      "name": "Bug Brained",
+      "description": "Discover your first Packuran"
+    },
+    {
+      "apiname": "VoidlingReleased01",
+      "achieved": 1,
+      "unlocktime": 1781262909,
+      "name": "Wildlife Caretaker",
+      "description": "Release 10 Voidlings "
+    },
+    {
+      "apiname": "VoidlingReleased02",
+      "achieved": 1,
+      "unlocktime": 1781589050,
+      "name": "Protector of the Ecosystem",
+      "description": "Release 100 Voidlings"
+    },
+    {
+      "apiname": "VoidlingReleased03",
+      "achieved": 1,
+      "unlocktime": 1781669674,
+      "name": "Savior of the Biosphere",
+      "description": "Release 250 Voidlings"
+    },
+    {
+      "apiname": "MissionStar01",
+      "achieved": 1,
+      "unlocktime": 1781195083,
+      "name": "Initiation",
+      "description": "Completed your first mission"
+    },
+    {
+      "apiname": "VoidlingEvolved01",
+      "achieved": 1,
+      "unlocktime": 1781237070,
+      "name": "Yeah, Science!",
+      "description": "Evolve Voidlings 10 times"
+    },
+    {
+      "apiname": "VoidlingEvolved02",
+      "achieved": 1,
+      "unlocktime": 1781427063,
+      "name": "Not Even It's Final Form",
+      "description": "Evolve Voidlings 50 times"
+    },
+    {
+      "apiname": "VoidlingEvolved03",
+      "achieved": 1,
+      "unlocktime": 1781588114,
+      "name": "Beyond Theory",
+      "description": "Evolve Voidlings 150 times"
+    },
+    {
+      "apiname": "VoidlingEvolved04",
+      "achieved": 1,
+      "unlocktime": 1781588114,
+      "name": "Genlife Finds a Way",
+      "description": "Evolve Voidlings 300 times"
+    },
+    {
+      "apiname": "AbyssDepth1",
+      "achieved": 1,
+      "unlocktime": 1781584791,
+      "name": "Scratching the Surface",
+      "description": "Reach Abyss level 10"
+    },
+    {
+      "apiname": "AbyssDepth2",
+      "achieved": 1,
+      "unlocktime": 1781585518,
+      "name": "Down Below",
+      "description": "Reach Abyss Level 20"
+    },
+    {
+      "apiname": "AbyssDepth3",
+      "achieved": 1,
+      "unlocktime": 1781586458,
+      "name": "Into the Dark",
+      "description": "Reach Abyss Level 30"
+    },
+    {
+      "apiname": "AbyssDepth4",
+      "achieved": 1,
+      "unlocktime": 1781668798,
+      "name": "Rolling in the Deep",
+      "description": "Reach Abyss Level 40"
+    },
+    {
+      "apiname": "AbyssDepth5",
+      "achieved": 1,
+      "unlocktime": 1781682790,
+      "name": "Crush Depth",
+      "description": "Reach Abyss Level 50"
+    },
+    {
+      "apiname": "UpgradesAcquired01",
+      "achieved": 1,
+      "unlocktime": 1781195696,
+      "name": "Enhance!",
+      "description": "Acquire 10 Upgrades"
+    },
+    {
+      "apiname": "UpgradesAcquired02",
+      "achieved": 1,
+      "unlocktime": 1781318646,
+      "name": "Better, Faster, Stronger",
+      "description": "Acquire 100 Upgrades"
+    },
+    {
+      "apiname": "UpgradesAcquired03",
+      "achieved": 1,
+      "unlocktime": 1781425962,
+      "name": "Strongest There Is",
+      "description": "Acquire 250 Upgrades"
+    },
+    {
+      "apiname": "MissionStar02",
+      "achieved": 1,
+      "unlocktime": 1781423978,
+      "name": "Smooth Operator",
+      "description": "Earn 20 Mission Stars"
+    },
+    {
+      "apiname": "MissionStar03",
+      "achieved": 1,
+      "unlocktime": 1781626011,
+      "name": "Master Wrangler",
+      "description": "Earn 44 Mission Stars"
+    },
+    {
+      "apiname": "VoidlingReleased04",
+      "achieved": 1,
+      "unlocktime": 1781682790,
+      "name": "Nature's Champion",
+      "description": "Release 500 Voidlings"
+    },
+    {
+      "apiname": "HatchEggs02",
+      "achieved": 1,
+      "unlocktime": 1781429450,
+      "name": "Hatching a Scheme",
+      "description": "Hatch 100 eggs"
+    },
+    {
+      "apiname": "HatchEggs03",
+      "achieved": 1,
+      "unlocktime": 1781589861,
+      "name": "Eggs-tra-ordinary",
+      "description": "Hatch 200 Eggs"
+    },
+    {
+      "apiname": "VoidlingBred01",
+      "achieved": 1,
+      "unlocktime": 1781667162,
+      "name": "Miracle of Life",
+      "description": "Breed Voidlings together 10 times"
+    },
+    {
+      "apiname": "VoidlingBred02",
+      "achieved": 1,
+      "unlocktime": 1781671808,
+      "name": "Extended Family",
+      "description": "Breed Voidlings together 50 times"
+    },
+    {
+      "apiname": "VoidlingBred03",
+      "achieved": 1,
+      "unlocktime": 1781683068,
+      "name": "Breeding Up a Storm",
+      "description": "Breed Voidlings together 100 times"
+    },
+    {
+      "apiname": "QuakiesFound",
+      "achieved": 1,
+      "unlocktime": 1781666313,
+      "name": "Duck Hunt",
+      "description": "Find all 26 Quackies"
+    }
+  ]
+}

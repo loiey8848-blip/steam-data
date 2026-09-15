@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1230530,
+  "game": "Atlas Fallen",
+  "total": 38,
+  "unlocked": 38,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:14.762847+00:00",
+  "achievements": [
+    {
+      "apiname": "trophy_01_level1_complete",
+      "achieved": 1,
+      "unlocktime": 1768924448,
+      "name": "Break Out",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_02_level2_complete",
+      "achieved": 1,
+      "unlocktime": 1768964985,
+      "name": "Find Allies",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_03_level3_complete",
+      "achieved": 1,
+      "unlocktime": 1768984300,
+      "name": "Powerful Allies",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_04_level4_complete",
+      "achieved": 1,
+      "unlocktime": 1769142038,
+      "name": "Calm before the Storm",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_05_level5_complete",
+      "achieved": 1,
+      "unlocktime": 1769165748,
+      "name": "To Battle",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_06_level6_complete",
+      "achieved": 1,
+      "unlocktime": 1769165910,
+      "name": "Godslayer",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_07_watchtowers",
+      "achieved": 1,
+      "unlocktime": 1769220629,
+      "name": "Clear Sight",
+      "description": "Clear all watchtowers in the game"
+    },
+    {
+      "apiname": "trophy_08_keeper_event",
+      "achieved": 1,
+      "unlocktime": 1768934769,
+      "name": "A Taste of Wrath",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_09_prisoner",
+      "achieved": 1,
+      "unlocktime": 1769167672,
+      "name": "The Mentor",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_10_all_weapons",
+      "achieved": 1,
+      "unlocktime": 1768960207,
+      "name": "Trinity",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_11_all_anvils",
+      "achieved": 1,
+      "unlocktime": 1769179178,
+      "name": "Forgemaster",
+      "description": "Find all anvils"
+    },
+    {
+      "apiname": "trophy_12_all_upgrade_shards",
+      "achieved": 1,
+      "unlocktime": 1769179178,
+      "name": "Shardbearer",
+      "description": "Collect all upgrade shards"
+    },
+    {
+      "apiname": "trophy_13_sandsurf_total",
+      "achieved": 1,
+      "unlocktime": 1768980090,
+      "name": "Adventurer",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_14_aerial_control",
+      "achieved": 1,
+      "unlocktime": 1769223629,
+      "name": "Airborne",
+      "description": "Stay in the air for 60 seconds in one go"
+    },
+    {
+      "apiname": "trophy_15_currency",
+      "achieved": 1,
+      "unlocktime": 1768965392,
+      "name": "Tributes of Caladrias",
+      "description": "Collect 10,000 Tributes in total"
+    },
+    {
+      "apiname": "trophy_16_shatter_full",
+      "achieved": 1,
+      "unlocktime": 1768990408,
+      "name": "Essence Blow",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_17_shatter_kill_count",
+      "achieved": 1,
+      "unlocktime": 1769075713,
+      "name": "Shatterer",
+      "description": "Kill 50 Wraiths by shattering them"
+    },
+    {
+      "apiname": "trophy_18_shatter_multi",
+      "achieved": 1,
+      "unlocktime": 1768959077,
+      "name": "Shatter Them All",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_19_elite_enemies",
+      "achieved": 1,
+      "unlocktime": 1769184628,
+      "name": "Slayer",
+      "description": "Slay all Elite Wraiths"
+    },
+    {
+      "apiname": "trophy_20_size3_kill_special",
+      "achieved": 1,
+      "unlocktime": 1769020907,
+      "name": "Flawless Victory",
+      "description": "Kill a Colossal Wraith without taking damage"
+    },
+    {
+      "apiname": "trophy_21_travelling_vendor",
+      "achieved": 1,
+      "unlocktime": 1769142175,
+      "name": "Big Bazar",
+      "description": "Find the Travelling Vendor in at least 6 different spots"
+    },
+    {
+      "apiname": "trophy_22_all_armors",
+      "achieved": 1,
+      "unlocktime": 1769187195,
+      "name": "Fine Feathers Make Fine Birds",
+      "description": "Collect all armours"
+    },
+    {
+      "apiname": "trophy_23_armor_upgrade_max",
+      "achieved": 1,
+      "unlocktime": 1768961600,
+      "name": "Geared Up",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_24_armor_upgrade_all",
+      "achieved": 1,
+      "unlocktime": 1769193598,
+      "name": "All There Is",
+      "description": "Unlock and fully upgrade all perks"
+    },
+    {
+      "apiname": "trophy_25_armor_dye",
+      "achieved": 1,
+      "unlocktime": 1768963191,
+      "name": "Fashion Victim",
+      "description": "Dye an armour for the first time"
+    },
+    {
+      "apiname": "trophy_26_lore_items",
+      "achieved": 1,
+      "unlocktime": 1768981796,
+      "name": "Scholar",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_27_sun_god_statues",
+      "achieved": 1,
+      "unlocktime": 1769182586,
+      "name": "False God",
+      "description": "Destroy all Heavenly Shrines"
+    },
+    {
+      "apiname": "trophy_28_animal_treasure",
+      "achieved": 1,
+      "unlocktime": 1768927087,
+      "name": "I Found It",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_29_treasure_hunt",
+      "achieved": 1,
+      "unlocktime": 1769188340,
+      "name": "All That Gold",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_30_upgrade_stone_max",
+      "achieved": 1,
+      "unlocktime": 1768991538,
+      "name": "Alchemist",
+      "description": "Upgrade an Essence Stone to Rank 7"
+    },
+    {
+      "apiname": "trophy_31_stone_collection",
+      "achieved": 1,
+      "unlocktime": 1768966031,
+      "name": "Stone Collection",
+      "description": "Own 25 Essence Stones"
+    },
+    {
+      "apiname": "trophy_33_mine_kill_special",
+      "achieved": 1,
+      "unlocktime": 1769076526,
+      "name": "Miner",
+      "description": "Kill a Scatterer with its own mines"
+    },
+    {
+      "apiname": "trophy_34_collectables",
+      "achieved": 1,
+      "unlocktime": 1768960502,
+      "name": "The Collector",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_35_vanity_items",
+      "achieved": 1,
+      "unlocktime": 1769223208,
+      "name": "Feeling Fancy",
+      "description": "Find all cosmetic items"
+    },
+    {
+      "apiname": "trophy_36_quest_queens_gift",
+      "achieved": 1,
+      "unlocktime": 1769220629,
+      "name": "A Queen's Tale",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_38_summiter",
+      "achieved": 1,
+      "unlocktime": 1769192089,
+      "name": "Summiter",
+      "description": ""
+    },
+    {
+      "apiname": "trophy_39_dlc_watcher_challenge",
+      "achieved": 1,
+      "unlocktime": 1768963157,
+      "name": "Painstaking Persistence",
+      "description": "Closed a Corruption Breach, including an optional goal"
+    },
+    {
+      "apiname": "trophy_40_dlc_thelos_questline",
+      "achieved": 1,
+      "unlocktime": 1769179701,
+      "name": "The Forgotten Realm",
+      "description": "Completed The Forgotten Realm's Quest"
+    }
+  ]
+}

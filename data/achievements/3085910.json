@@ -1,0 +1,445 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3085910,
+  "game": "Feastopia",
+  "total": 62,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:26.216021+00:00",
+  "achievements": [
+    {
+      "apiname": "1101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial I",
+      "description": "Complete Difficulty 1 under any conditions."
+    },
+    {
+      "apiname": "1102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial II",
+      "description": "Complete Difficulty 2 under any conditions."
+    },
+    {
+      "apiname": "1103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial III",
+      "description": "Complete Difficulty 3 under any conditions."
+    },
+    {
+      "apiname": "1104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial IV",
+      "description": "Complete Difficulty 4 under any conditions."
+    },
+    {
+      "apiname": "1105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial V",
+      "description": "Complete Difficulty 5 under any conditions."
+    },
+    {
+      "apiname": "1106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial VI",
+      "description": "Complete Difficulty 6 under any conditions."
+    },
+    {
+      "apiname": "1107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial VII",
+      "description": "Complete Difficulty 7 under any conditions."
+    },
+    {
+      "apiname": "1108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial VIII",
+      "description": "Complete Difficulty 8 under any conditions."
+    },
+    {
+      "apiname": "1109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial IX",
+      "description": "Complete Difficulty 9 under any conditions."
+    },
+    {
+      "apiname": "1110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial X",
+      "description": "Complete Difficulty 10 under any conditions."
+    },
+    {
+      "apiname": "1111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XI",
+      "description": "Complete Difficulty 11 under any conditions."
+    },
+    {
+      "apiname": "1112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XII",
+      "description": "Complete Difficulty 12 under any conditions."
+    },
+    {
+      "apiname": "1113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XIII",
+      "description": "Complete Difficulty 13 under any conditions."
+    },
+    {
+      "apiname": "1114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XIV",
+      "description": "Complete Difficulty 14 under any conditions."
+    },
+    {
+      "apiname": "1115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XV",
+      "description": "Complete Difficulty 15 under any conditions."
+    },
+    {
+      "apiname": "1116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XVI",
+      "description": "Complete Difficulty 16 under any conditions."
+    },
+    {
+      "apiname": "1117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XVII",
+      "description": "Complete Difficulty 17 under any conditions."
+    },
+    {
+      "apiname": "1118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XVIII",
+      "description": "Complete Difficulty 18 under any conditions."
+    },
+    {
+      "apiname": "1119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XIX",
+      "description": "Complete Difficulty 19 under any conditions."
+    },
+    {
+      "apiname": "1120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial XX",
+      "description": "Complete Difficulty 20 under any conditions."
+    },
+    {
+      "apiname": "1301",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sun Companion I",
+      "description": "Complete with Sun Dango Form (Difficulty 3)"
+    },
+    {
+      "apiname": "1302",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sun Companion II",
+      "description": "Complete with Sun Dango Form (Difficulty 12)"
+    },
+    {
+      "apiname": "1303",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sun Companion III",
+      "description": "Complete with Sun Dango Form (Difficulty 18)"
+    },
+    {
+      "apiname": "1304",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon Companion I",
+      "description": "Complete with Moon Dango Form (Difficulty 3)"
+    },
+    {
+      "apiname": "1305",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon Companion II",
+      "description": "Complete with Moon Dango Form (Difficulty 12)"
+    },
+    {
+      "apiname": "1306",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon Companion III",
+      "description": "Complete with Moon Dango Form (Difficulty 18)"
+    },
+    {
+      "apiname": "1307",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Companion I",
+      "description": "Complete with Star Dango Form (Difficulty 3)"
+    },
+    {
+      "apiname": "1308",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Companion II",
+      "description": "Complete with Star Dango Form (Difficulty 12)"
+    },
+    {
+      "apiname": "1309",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Companion III",
+      "description": "Complete with Star Dango Form (Difficulty 18)"
+    },
+    {
+      "apiname": "1901",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Vibes",
+      "description": "Reach 99 Order"
+    },
+    {
+      "apiname": "1902",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock Bottom",
+      "description": "Reach -99 Order"
+    },
+    {
+      "apiname": "2001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Fall",
+      "description": "Fail a run 1 time (cumulative)"
+    },
+    {
+      "apiname": "2002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resilience",
+      "description": "Fail a run 5 times (cumulative)"
+    },
+    {
+      "apiname": "2003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tenacity",
+      "description": "Fail a run 10 times (cumulative)"
+    },
+    {
+      "apiname": "2101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorations 100",
+      "description": "Clear 100 explorations (cumulative)"
+    },
+    {
+      "apiname": "2102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorations 200",
+      "description": "Clear 200 explorations (cumulative)"
+    },
+    {
+      "apiname": "2103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorations 300",
+      "description": "Clear 300 explorations (cumulative)"
+    },
+    {
+      "apiname": "2201",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunny Buster I",
+      "description": "Deal with 1 Boxbunny (cumulative)"
+    },
+    {
+      "apiname": "2202",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunny Buster II",
+      "description": "Deal with 10 Boxbunnies (cumulative)"
+    },
+    {
+      "apiname": "2203",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunny Buster III",
+      "description": "Deal with 100 Boxbunnies (cumulative)"
+    },
+    {
+      "apiname": "2204",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crate Cleaver I",
+      "description": "Deal with 1 Boxborne Monster (cumulative)"
+    },
+    {
+      "apiname": "2205",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crate Cleaver II",
+      "description": "Deal with 10 Boxborne Monsters (cumulative)"
+    },
+    {
+      "apiname": "2206",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crate Cleaver III",
+      "description": "Deal with 100 Boxborne Monsters (cumulative)"
+    },
+    {
+      "apiname": "2207",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flower Feuder I",
+      "description": "Deal with 1 Mawflower (cumulative)"
+    },
+    {
+      "apiname": "2208",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flower Feuder II",
+      "description": "Deal with 10 Mawflowers (cumulative)"
+    },
+    {
+      "apiname": "2209",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flower Feuder III",
+      "description": "Deal with 100 Mawflowers (cumulative)"
+    },
+    {
+      "apiname": "2210",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pan Patrol I",
+      "description": "Deal with 1 Pan Man (cumulative)"
+    },
+    {
+      "apiname": "2211",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pan Patrol II ",
+      "description": "Deal with 10 Pan Mans (cumulative)"
+    },
+    {
+      "apiname": "2212",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pan Patrol III",
+      "description": "Deal with 100 Pan Mans (cumulative)"
+    },
+    {
+      "apiname": "2401",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Offering I",
+      "description": "Fully satisfy Dango’s offerings 5 times (cumulative)"
+    },
+    {
+      "apiname": "2402",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Offering II",
+      "description": "Fully satisfy Dango’s offerings 50 times (cumulative)"
+    },
+    {
+      "apiname": "2403",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Offering III",
+      "description": "Fully satisfy Dango’s offerings 500 times (cumulative)"
+    },
+    {
+      "apiname": "2501",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Keeper I",
+      "description": "Complete 9 Wishlists (cumulative)"
+    },
+    {
+      "apiname": "2502",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Keeper II",
+      "description": "Complete 99 Wishlists (cumulative)"
+    },
+    {
+      "apiname": "2503",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Keeper III",
+      "description": "Complete 199 Wishlists (cumulative)"
+    },
+    {
+      "apiname": "2701",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guild Dealer",
+      "description": "Purchase 20 items from the Merchant Guild (cumulative)"
+    },
+    {
+      "apiname": "2702",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guild Tycoon",
+      "description": "Purchase 100 items from the Merchant Guild (cumulative)"
+    },
+    {
+      "apiname": "2703",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guild Magnate",
+      "description": "Purchase 500 items from the Merchant Guild (cumulative)"
+    },
+    {
+      "apiname": "2801",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Architect",
+      "description": "Collect all buildings."
+    },
+    {
+      "apiname": "2901",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Land Novice",
+      "description": "Unlock 5 Wish Land effects (cumulative)"
+    },
+    {
+      "apiname": "2902",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Land Adept",
+      "description": "Unlock 50 Wish Land effects (cumulative)"
+    },
+    {
+      "apiname": "2903",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Land Master ",
+      "description": "Unlock 100 Wish Land effects (cumulative)"
+    }
+  ]
+}

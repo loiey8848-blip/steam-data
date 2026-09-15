@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 336110,
+  "game": "Bloody Streets",
+  "total": 45,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:26.242788+00:00",
+  "achievements": [
+    {
+      "apiname": "Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer",
+      "description": "Kill 1000 enemies"
+    },
+    {
+      "apiname": "Zombie Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zombie Killer",
+      "description": "Kill 750 zombies"
+    },
+    {
+      "apiname": "Spider Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spider Killer",
+      "description": "Kill 750 spiders"
+    },
+    {
+      "apiname": "Leech Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leech Killer",
+      "description": "Kill 750 leeches"
+    },
+    {
+      "apiname": "Hell Zombie Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Zombie Killer",
+      "description": "Kill 750 hell zombies"
+    },
+    {
+      "apiname": "Giant Zombie Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Zombie Killer",
+      "description": "Kill 50 giant zombies"
+    },
+    {
+      "apiname": "Gas Tank Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gas Tank Kill",
+      "description": "Kill 500 enemies with gas tank"
+    },
+    {
+      "apiname": "Train Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Train Kill",
+      "description": "Kill 500 enemies with train"
+    },
+    {
+      "apiname": "Fire Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Kill",
+      "description": "Kill 500 enemies with fire"
+    },
+    {
+      "apiname": "Car Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car Kill",
+      "description": "Kill 500 enemies with car"
+    },
+    {
+      "apiname": "Mine Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mine Kill",
+      "description": "Kill 500 enemies with mine"
+    },
+    {
+      "apiname": "Bashing Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bashing Kill",
+      "description": "Kill 500 enemies with bashing"
+    },
+    {
+      "apiname": "Saw Kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saw Kill",
+      "description": "Kill 500 enemies with saw"
+    },
+    {
+      "apiname": "Rifle Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Shooter",
+      "description": "Kill 500 enemies with rifle"
+    },
+    {
+      "apiname": "Shotgun Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Shooter",
+      "description": "Kill 500 enemies with shotgun"
+    },
+    {
+      "apiname": "Desert Eagle Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desert Eagle Shooter",
+      "description": "Kill 500 enemies with desert eagle"
+    },
+    {
+      "apiname": "Heavy Rifle Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Rifle Shooter",
+      "description": "Kill 500 enemies with heavy rifle"
+    },
+    {
+      "apiname": "Magnum Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magnum Shooter",
+      "description": "Kill 500 enemies with magnum"
+    },
+    {
+      "apiname": "Machingun Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machingun Shooter",
+      "description": "Kill 500 enemies with machingun"
+    },
+    {
+      "apiname": "Double Barrel Shooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Barrel Shooter",
+      "description": "Kill 500 enemies with double barrel"
+    },
+    {
+      "apiname": "Slicer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slicer",
+      "description": "Kill 500 enemies with knife"
+    },
+    {
+      "apiname": "Bomber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bomber",
+      "description": "Kill 500 enemies with grenade"
+    },
+    {
+      "apiname": "Rage Man",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage Man",
+      "description": "Kill 500 enemies with rage"
+    },
+    {
+      "apiname": "Box Destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Box Destruction",
+      "description": "Destroy 500 Boxes"
+    },
+    {
+      "apiname": "Trash Bag Destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trash Bag Destruction",
+      "description": "Destroy 500 trash bags"
+    },
+    {
+      "apiname": "Construction Destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Construction Destruction",
+      "description": "Destroy 500 construction props"
+    },
+    {
+      "apiname": "No Health Pack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Health Pack",
+      "description": "Complete one level without getting health packs"
+    },
+    {
+      "apiname": "No Ammo Pack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Ammo Pack",
+      "description": "Complete one level without getting any ammo packs"
+    },
+    {
+      "apiname": "No Grenade Pack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Grenade Pack",
+      "description": "Complete one level without getting any grenade packs"
+    },
+    {
+      "apiname": "No Pack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Pack",
+      "description": "Complete one level without getting any packs"
+    },
+    {
+      "apiname": "No Grenade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Grenade",
+      "description": "Complete one level without using any grenade"
+    },
+    {
+      "apiname": "No Gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Gun",
+      "description": "Complete one level without using any gun"
+    },
+    {
+      "apiname": "Environment Weapon Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Environment Weapon Master",
+      "description": "Complete one level only by using environment weapons"
+    },
+    {
+      "apiname": "Patient",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient",
+      "description": "Complete one level without using rage"
+    },
+    {
+      "apiname": "Bames Jond !",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bames Jond !",
+      "description": "Switch weapon in roll !"
+    },
+    {
+      "apiname": "Became Ready",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Became Ready",
+      "description": "Complete tutorial and start first wave"
+    },
+    {
+      "apiname": "Cleaner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleaner",
+      "description": "Finish first level"
+    },
+    {
+      "apiname": "Rural cleaner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rural cleaner",
+      "description": "Finish first chapter"
+    },
+    {
+      "apiname": "Military Cleaner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Military Cleaner",
+      "description": "Finish second chapter"
+    },
+    {
+      "apiname": "City Cleaner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City Cleaner",
+      "description": "Finish third chapter"
+    },
+    {
+      "apiname": "Factory Cleaner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Factory Cleaner",
+      "description": "Finish forth chapter"
+    },
+    {
+      "apiname": "Night Hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Hunter",
+      "description": "Complete one level between 12:00 AM and 06:00 AM"
+    },
+    {
+      "apiname": "Thank You Dear Player",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thank You Dear Player",
+      "description": "Take a look at game developers credits"
+    },
+    {
+      "apiname": "Head",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Head",
+      "description": "Unlock all other achievements"
+    },
+    {
+      "apiname": "Never Surrender",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Surrender",
+      "description": "Retry the level after game over"
+    }
+  ]
+}

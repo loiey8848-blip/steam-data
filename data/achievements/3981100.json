@@ -1,0 +1,137 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3981100,
+  "game": "Leaf it Alone",
+  "total": 18,
+  "unlocked": 18,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:37.813036+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_OBTAIN_ANY_ITEM",
+      "achieved": 1,
+      "unlocktime": 1780642376,
+      "name": "Novice Investor",
+      "description": "Buy any item"
+    },
+    {
+      "apiname": "ACH_SEAL_BAGS",
+      "achieved": 1,
+      "unlocktime": 1780643737,
+      "name": "Seal the Deal",
+      "description": "Get 5000 leaves into tied bags"
+    },
+    {
+      "apiname": "ACH_THROW_LEAF_BAG",
+      "achieved": 1,
+      "unlocktime": 1780644177,
+      "name": "Trashketball",
+      "description": "Dump a leaf bag while being at least 15 meters away from the trash bin"
+    },
+    {
+      "apiname": "ACH_JUMP_INTO_LEAF_PILE",
+      "achieved": 1,
+      "unlocktime": 1780644087,
+      "name": "Leaf of Faith",
+      "description": "Jump into a pile of 1000 leaves"
+    },
+    {
+      "apiname": "ACH_UNLOCK_GARAGE",
+      "achieved": 1,
+      "unlocktime": 1780644252,
+      "name": "I am speed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_SHED",
+      "achieved": 1,
+      "unlocktime": 1780723824,
+      "name": "Shed Happens",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_GRILL",
+      "achieved": 1,
+      "unlocktime": 1780724039,
+      "name": "Vacationist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_GREENHOUSE",
+      "achieved": 1,
+      "unlocktime": 1780724920,
+      "name": "King of the Jungle",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_SECRET_ROOM",
+      "achieved": 1,
+      "unlocktime": 1780725608,
+      "name": "Infiltrator",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ACQUIRE_ABILITIES",
+      "achieved": 1,
+      "unlocktime": 1780645203,
+      "name": "Almighty",
+      "description": "Acquire bag tying, sprint and crouch ability"
+    },
+    {
+      "apiname": "ACH_SCORE_BASKETBALL",
+      "achieved": 1,
+      "unlocktime": 1780724901,
+      "name": "Dunk like you're drunk",
+      "description": "Hit the basket with a basketball, a beach ball and a leaf bag"
+    },
+    {
+      "apiname": "ACH_FIND_ALL_COLLECTABLES",
+      "achieved": 1,
+      "unlocktime": 1780725952,
+      "name": "Say Leaf!",
+      "description": "Collect all mysterious photos"
+    },
+    {
+      "apiname": "ACH_BUY_ALL_UPGRADES",
+      "achieved": 1,
+      "unlocktime": 1780725794,
+      "name": "Senior Investor",
+      "description": "Buy all tool upgrades"
+    },
+    {
+      "apiname": "ACH_CLEAN_UP_ALL_LEAVES",
+      "achieved": 1,
+      "unlocktime": 1780725779,
+      "name": "Leaf No Leaf Behind",
+      "description": "Clean up all leaves"
+    },
+    {
+      "apiname": "ACH_EARN_BIG_MONEY",
+      "achieved": 1,
+      "unlocktime": 1780727192,
+      "name": "Work smart, not hard",
+      "description": "Earn an immense number of shekleaves ($700)"
+    },
+    {
+      "apiname": "ACH_SPEEDRUN",
+      "achieved": 1,
+      "unlocktime": 1780727537,
+      "name": "Need for Sweep",
+      "description": "Complete the game in under 40 minutes"
+    },
+    {
+      "apiname": "ACH_INLETLESS_RUN",
+      "achieved": 1,
+      "unlocktime": 1780727537,
+      "name": "Craftsman",
+      "description": "Complete the game without repairing any leaf inlets"
+    },
+    {
+      "apiname": "ACH_COMPLETE_ALL_OBJECTIVES",
+      "achieved": 1,
+      "unlocktime": 1780726214,
+      "name": "Perfectionist",
+      "description": "Complete all objectives in the game"
+    }
+  ]
+}

@@ -1,0 +1,851 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3081280,
+  "game": "Wretch: Divine Ascent",
+  "total": 120,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:19.728986+00:00",
+  "achievements": [
+    {
+      "apiname": "G01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wretch",
+      "description": "Yet another brand new soul"
+    },
+    {
+      "apiname": "G02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's It",
+      "description": "Nothing can stand in your way"
+    },
+    {
+      "apiname": "G03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Enough",
+      "description": "Stopped at 10 wins"
+    },
+    {
+      "apiname": "G04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Reacher",
+      "description": "First step into the Advanced Challenge"
+    },
+    {
+      "apiname": "G05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ascension",
+      "description": "Reach 15 wins with any character"
+    },
+    {
+      "apiname": "G06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roll Call",
+      "description": "You, you, you... And YOU!!"
+    },
+    {
+      "apiname": "G07Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Challenger",
+      "description": "A new face in the Arena"
+    },
+    {
+      "apiname": "G08Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Apprentice",
+      "description": "Craft a new item"
+    },
+    {
+      "apiname": "G09Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1+1=1?",
+      "description": "Learn how to upgrade a Core Skill."
+    },
+    {
+      "apiname": "G10Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Might Sting",
+      "description": "Chain five Combos together for the first time"
+    },
+    {
+      "apiname": "G11Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shut Up!",
+      "description": ""
+    },
+    {
+      "apiname": "G12Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxed Out!",
+      "description": ""
+    },
+    {
+      "apiname": "G13Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stepping Stone",
+      "description": "A firm footing"
+    },
+    {
+      "apiname": "G14Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stoke the Flame",
+      "description": "Your Soulfire burns anew"
+    },
+    {
+      "apiname": "G15Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadowbreaker",
+      "description": "Slay the Shadow Warrior"
+    },
+    {
+      "apiname": "G16Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Offering",
+      "description": "Great power, terrible cost"
+    },
+    {
+      "apiname": "G17Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got caught !",
+      "description": "Watch the credits to the end"
+    },
+    {
+      "apiname": "B01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Running Water",
+      "description": "Inflict 200 stacks of Bleed on an enemy"
+    },
+    {
+      "apiname": "B02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sisyphean Boulder",
+      "description": "Grant 350 stacks of Armor Enhancement to your side"
+    },
+    {
+      "apiname": "B03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Spellweaver",
+      "description": "Inflict 50 stacks each of 4 different Debuffs on an enemy"
+    },
+    {
+      "apiname": "B04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessing Angel",
+      "description": "Grant 50 stacks each of 4 different Buffs to your side"
+    },
+    {
+      "apiname": "B05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hexbound",
+      "description": "Win a battle while afflicted with 200 stacks of Debuffs"
+    },
+    {
+      "apiname": "B06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Stacked Wheel",
+      "description": "Inflict a total of 200 stacks of Debuffs on an enemy"
+    },
+    {
+      "apiname": "B07Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Condemner",
+      "description": "Inflict 200 stacks of Increased Toughness Damage on an enemy"
+    },
+    {
+      "apiname": "B08Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash Strike",
+      "description": "Gain 200 stacks of Skill Damage Up"
+    },
+    {
+      "apiname": "B09Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarding disorder",
+      "description": "You can never have enough"
+    },
+    {
+      "apiname": "B10Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Stair Special",
+      "description": "One more round! Stay perfectly buzzed"
+    },
+    {
+      "apiname": "B11Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snap, Crackle, Pop!",
+      "description": "Detonate Ignite on an enemy"
+    },
+    {
+      "apiname": "B12Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowman",
+      "description": "Detonate Chill on an enemy"
+    },
+    {
+      "apiname": "B13Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crackle",
+      "description": "Detonate Shock on an enemy"
+    },
+    {
+      "apiname": "B14Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elemental Master",
+      "description": ""
+    },
+    {
+      "apiname": "B15Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evil May Cry",
+      "description": ""
+    },
+    {
+      "apiname": "B16Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still got it",
+      "description": ""
+    },
+    {
+      "apiname": "B17Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curtain Call",
+      "description": ""
+    },
+    {
+      "apiname": "B18Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Price",
+      "description": ""
+    },
+    {
+      "apiname": "B19Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Crow",
+      "description": ""
+    },
+    {
+      "apiname": "B20Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Garden",
+      "description": ""
+    },
+    {
+      "apiname": "B21Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter's Armament",
+      "description": "Cold outside, warm inside! Perfect for ice fishing"
+    },
+    {
+      "apiname": "B22Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Discipline!",
+      "description": "Lift more iron. Good for the muscles"
+    },
+    {
+      "apiname": "B23Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Loaded",
+      "description": "Used to its full potential"
+    },
+    {
+      "apiname": "B24Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jewelry Box",
+      "description": "Gather five to summon the dragon"
+    },
+    {
+      "apiname": "B25Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Crown for Every Day",
+      "description": "An enthusiast of plain iron crowns"
+    },
+    {
+      "apiname": "B26Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gambler",
+      "description": ""
+    },
+    {
+      "apiname": "B27Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ignition!",
+      "description": ""
+    },
+    {
+      "apiname": "B28Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veni, Vidi, Voravi",
+      "description": ""
+    },
+    {
+      "apiname": "B29Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Guillotine",
+      "description": ""
+    },
+    {
+      "apiname": "B30Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A handy weapon",
+      "description": ""
+    },
+    {
+      "apiname": "B32Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All mine!",
+      "description": ""
+    },
+    {
+      "apiname": "B33Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Rocks",
+      "description": ""
+    },
+    {
+      "apiname": "B34Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Step Closer...",
+      "description": ""
+    },
+    {
+      "apiname": "B35Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunderclap!",
+      "description": ""
+    },
+    {
+      "apiname": "B36Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Sweep",
+      "description": ""
+    },
+    {
+      "apiname": "B37Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "False Artifact!",
+      "description": ""
+    },
+    {
+      "apiname": "B38Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Castle's Fist",
+      "description": ""
+    },
+    {
+      "apiname": "B39Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior, Not Emperor",
+      "description": "Helm! Of! Malice!"
+    },
+    {
+      "apiname": "P01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Steps to Glory",
+      "description": "Win 10 matches in the Zenith Arena"
+    },
+    {
+      "apiname": "P02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arena Veteran",
+      "description": "Win 70 matches in the Zenith Arena"
+    },
+    {
+      "apiname": "P03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight Connoisseur",
+      "description": ""
+    },
+    {
+      "apiname": "P04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular at the Arena",
+      "description": "Complete 50 bouts in the Zenith Arena"
+    },
+    {
+      "apiname": "P05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arena Addict",
+      "description": "Complete 100 bouts in the Zenith Arena"
+    },
+    {
+      "apiname": "P06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight Maniac!",
+      "description": "Complete 200 bouts in the Zenith Arena"
+    },
+    {
+      "apiname": "C01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Just Happened?",
+      "description": "Reach 15 wins without losing your Soulfire"
+    },
+    {
+      "apiname": "C02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are You Done?",
+      "description": "Win a battle without taking any damage"
+    },
+    {
+      "apiname": "C03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me What You Got",
+      "description": "Win 15 battles without taking any damage"
+    },
+    {
+      "apiname": "C04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouched",
+      "description": "Win 50 battles without taking any damage"
+    },
+    {
+      "apiname": "C05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rags to Revenge",
+      "description": "Reach the summit without equipping any Armor"
+    },
+    {
+      "apiname": "C06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stripped Down",
+      "description": "Reach the summit without any Mythic or Legendary items"
+    },
+    {
+      "apiname": "C07Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slow Boil",
+      "description": "Defeat an enemy without equipping any Skills"
+    },
+    {
+      "apiname": "C08Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unrelenting",
+      "description": "Land a 15-hit Combo on an enemy"
+    },
+    {
+      "apiname": "C09Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miracle!",
+      "description": ""
+    },
+    {
+      "apiname": "C10Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inconceivable!",
+      "description": ""
+    },
+    {
+      "apiname": "C11Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Counter Master",
+      "description": ""
+    },
+    {
+      "apiname": "C13Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Before It Began",
+      "description": ""
+    },
+    {
+      "apiname": "C14Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Abstainer",
+      "description": ""
+    },
+    {
+      "apiname": "C15Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Strategist",
+      "description": ""
+    },
+    {
+      "apiname": "C16Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paragon of Defense",
+      "description": ""
+    },
+    {
+      "apiname": "M01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legacy",
+      "description": "Win 150 matches in Ranked Mode"
+    },
+    {
+      "apiname": "M02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demigod",
+      "description": "Surpasses the divine"
+    },
+    {
+      "apiname": "M03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apple, Watermelon, Lemon, Dragon Fruit",
+      "description": "Reach the summit with the Knight, Ronin, Plague Doctor, and WuJiang"
+    },
+    {
+      "apiname": "M04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Roster",
+      "description": "Save 10 characters to the Hall of Honor"
+    },
+    {
+      "apiname": "M06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adept",
+      "description": "Perform 50 Skill Fusions"
+    },
+    {
+      "apiname": "M07Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Sage",
+      "description": ""
+    },
+    {
+      "apiname": "M08Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ouch! Mind Your Fingers",
+      "description": "Perform 20 Item Fusions"
+    },
+    {
+      "apiname": "M09Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clang! Clang! Clang!",
+      "description": "Perform 70 Item Fusions"
+    },
+    {
+      "apiname": "M10Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Artificer",
+      "description": ""
+    },
+    {
+      "apiname": "M11Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fading Creed",
+      "description": "Complete 33 runs with the Knight"
+    },
+    {
+      "apiname": "M12Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wandering Edge",
+      "description": "Complete 33 runs with the Ronin"
+    },
+    {
+      "apiname": "M13Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ravenous Glove",
+      "description": "Complete 33 runs with the Plague Doctor"
+    },
+    {
+      "apiname": "M14Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burdened Plate",
+      "description": "Complete 33 runs with the WuJiang"
+    },
+    {
+      "apiname": "M15Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Tread",
+      "description": "Complete 33 runs with the Pirate"
+    },
+    {
+      "apiname": "M16Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight in a Can",
+      "description": "That's a lot of armor to carry"
+    },
+    {
+      "apiname": "M17Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Passing Through",
+      "description": "The greatest wanderer under heaven"
+    },
+    {
+      "apiname": "M18Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hazardous Air Quality",
+      "description": "Between us... there is only the mask"
+    },
+    {
+      "apiname": "M19Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blind General",
+      "description": "Fighting on instinct alone"
+    },
+    {
+      "apiname": "M20Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teeny Weeny Pirate",
+      "description": "A hole... through your heart!"
+    },
+    {
+      "apiname": "M21Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Picky One",
+      "description": ""
+    },
+    {
+      "apiname": "M22Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing Catches My Eye",
+      "description": ""
+    },
+    {
+      "apiname": "M23Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second-hand goods recycling",
+      "description": ""
+    },
+    {
+      "apiname": "M26Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Corpse",
+      "description": "You've perished 50 times!"
+    },
+    {
+      "apiname": "M27Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape Artist",
+      "description": ""
+    },
+    {
+      "apiname": "M28Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Masters",
+      "description": ""
+    },
+    {
+      "apiname": "A01Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Guard",
+      "description": ""
+    },
+    {
+      "apiname": "A02Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wandering Oracle",
+      "description": ""
+    },
+    {
+      "apiname": "A03Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmand",
+      "description": ""
+    },
+    {
+      "apiname": "A04Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resplendent General",
+      "description": ""
+    },
+    {
+      "apiname": "A05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deck Dancer",
+      "description": ""
+    },
+    {
+      "apiname": "A06Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whose Head?",
+      "description": ""
+    },
+    {
+      "apiname": "A07Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pack Mule!",
+      "description": ""
+    },
+    {
+      "apiname": "A08Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ahem... Just Calligraphy",
+      "description": ""
+    },
+    {
+      "apiname": "A09Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looks... Tarnished",
+      "description": ""
+    },
+    {
+      "apiname": "A10Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vitamin Supplement",
+      "description": ""
+    },
+    {
+      "apiname": "A11Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Friend",
+      "description": ""
+    },
+    {
+      "apiname": "A12Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Little Chickens",
+      "description": ""
+    },
+    {
+      "apiname": "A13Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Closet Cleanse",
+      "description": ""
+    },
+    {
+      "apiname": "A14Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barrage",
+      "description": ""
+    },
+    {
+      "apiname": "A15Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Against the Horde",
+      "description": ""
+    },
+    {
+      "apiname": "C12Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Climber",
+      "description": ""
+    },
+    {
+      "apiname": "M05Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Initiate",
+      "description": "Perform 10 Skill Fusions"
+    },
+    {
+      "apiname": "M24Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gilded Poverty",
+      "description": "Need a financial advisor?"
+    },
+    {
+      "apiname": "M25Z",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Red",
+      "description": ""
+    }
+  ]
+}

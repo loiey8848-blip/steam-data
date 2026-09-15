@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2215200,
+  "game": "LEGO® Batman™: Legacy of the Dark Knight",
+  "total": 52,
+  "unlocked": 52,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:43.662141+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_0_Id",
+      "achieved": 1,
+      "unlocktime": 1787620687,
+      "name": "\"I am Batman.\"",
+      "description": "Collect all Achievements"
+    },
+    {
+      "apiname": "Achievement_1_Id",
+      "achieved": 1,
+      "unlocktime": 1787497240,
+      "name": "\"A hero can be anyone.\"",
+      "description": "Complete Story Mode"
+    },
+    {
+      "apiname": "Achievement_2_Id",
+      "achieved": 1,
+      "unlocktime": 1787584067,
+      "name": "\"Hopefully, because he's busy.\"",
+      "description": "Complete every side activity in Gotham"
+    },
+    {
+      "apiname": "Achievement_3_Id",
+      "achieved": 1,
+      "unlocktime": 1787588767,
+      "name": "A Watchful Collector",
+      "description": "Collect all Collectibles"
+    },
+    {
+      "apiname": "Achievement_4_Id",
+      "achieved": 1,
+      "unlocktime": 1787585498,
+      "name": "\"I'm not wearing hockey pads.\"",
+      "description": "Unlock All Suits"
+    },
+    {
+      "apiname": "Achievement_5_Id",
+      "achieved": 1,
+      "unlocktime": 1787586012,
+      "name": "\"Wanna know how I got these cars?\"",
+      "description": "Unlock All Vehicles"
+    },
+    {
+      "apiname": "Achievement_6_Id",
+      "achieved": 1,
+      "unlocktime": 1787588825,
+      "name": "\"Holy Skill Upgrades, Batman!\"",
+      "description": "Unlock All Skill Upgrades"
+    },
+    {
+      "apiname": "Achievement_7_Id",
+      "achieved": 1,
+      "unlocktime": 1787561591,
+      "name": "\"This is too much power for one person.\"",
+      "description": "Collect all Red Bricks"
+    },
+    {
+      "apiname": "Achievement_8_Id",
+      "achieved": 1,
+      "unlocktime": 1787495820,
+      "name": "Up for the Challenge",
+      "description": "Complete 20 Challenges"
+    },
+    {
+      "apiname": "Achievement_9_Id",
+      "achieved": 1,
+      "unlocktime": 1787506118,
+      "name": "\"It's a big city. I can't be everywhere.\"",
+      "description": "Unlock all fast travel points"
+    },
+    {
+      "apiname": "Achievement_10_Id",
+      "achieved": 1,
+      "unlocktime": 1787369512,
+      "name": "A Friend",
+      "description": "Unlock Jim Gordon"
+    },
+    {
+      "apiname": "Achievement_11_Id",
+      "achieved": 1,
+      "unlocktime": 1787410284,
+      "name": "\"Hear me roar.\"",
+      "description": "Unlock Catwoman"
+    },
+    {
+      "apiname": "Achievement_12_Id",
+      "achieved": 1,
+      "unlocktime": 1787472562,
+      "name": "The Boy Wonder",
+      "description": "Unlock Robin"
+    },
+    {
+      "apiname": "Achievement_13_Id",
+      "achieved": 1,
+      "unlocktime": 1787481267,
+      "name": "\"Let's see what Batgirl can do!\"",
+      "description": "Unlock Batgirl"
+    },
+    {
+      "apiname": "Achievement_14_Id",
+      "achieved": 1,
+      "unlocktime": 1787492453,
+      "name": "A Grayson Graduation",
+      "description": "Unlock Nightwing"
+    },
+    {
+      "apiname": "Achievement_15_Id",
+      "achieved": 1,
+      "unlocktime": 1787493964,
+      "name": "Out of the Shadows",
+      "description": "Unlock Talia"
+    },
+    {
+      "apiname": "Achievement_16_Id",
+      "achieved": 1,
+      "unlocktime": 1787474263,
+      "name": "\"It's not exactly a normal world.\"",
+      "description": "Visit every District"
+    },
+    {
+      "apiname": "Achievement_17_Id",
+      "achieved": 1,
+      "unlocktime": 1787451174,
+      "name": "Wonderful Toys",
+      "description": "Purchase all Gadget Upgrades for any single character"
+    },
+    {
+      "apiname": "Achievement_18_Id",
+      "achieved": 1,
+      "unlocktime": 1787363772,
+      "name": "Beware the Gray Ghost!",
+      "description": "Complete Bruce's Gray Ghost costume"
+    },
+    {
+      "apiname": "Achievement_19_Id",
+      "achieved": 1,
+      "unlocktime": 1787367900,
+      "name": "\"A legend, Mr. Wayne.\"",
+      "description": "Complete the Prologue"
+    },
+    {
+      "apiname": "Achievement_20_Id",
+      "achieved": 1,
+      "unlocktime": 1787406310,
+      "name": "One Bad Day",
+      "description": "Complete Chapter One"
+    },
+    {
+      "apiname": "Achievement_21_Id",
+      "achieved": 1,
+      "unlocktime": 1787458079,
+      "name": "\"Do I look like I'm joking?\"",
+      "description": "Complete Chapter Two"
+    },
+    {
+      "apiname": "Achievement_22_Id",
+      "achieved": 1,
+      "unlocktime": 1787479495,
+      "name": "The Dynamic Duo",
+      "description": "Complete Chapter Three"
+    },
+    {
+      "apiname": "Achievement_23_Id",
+      "achieved": 1,
+      "unlocktime": 1787492549,
+      "name": "An Endless Winter",
+      "description": "Complete Chapter Four"
+    },
+    {
+      "apiname": "Achievement_24_Id",
+      "achieved": 1,
+      "unlocktime": 1787495608,
+      "name": "Knightfall",
+      "description": "Complete Chapter Five"
+    },
+    {
+      "apiname": "Achievement_25_Id",
+      "achieved": 1,
+      "unlocktime": 1787586814,
+      "name": "\"You have a name to maintain.\"",
+      "description": "Open every WayneTech Cache"
+    },
+    {
+      "apiname": "Achievement_26_Id",
+      "achieved": 1,
+      "unlocktime": 1787620686,
+      "name": "\"The idea was to be a symbol.\"",
+      "description": "Collect 25 Bat-Symbols"
+    },
+    {
+      "apiname": "Achievement_27_Id",
+      "achieved": 1,
+      "unlocktime": 1787588767,
+      "name": "\"Quite the collection, Master Bruce.\"",
+      "description": "Collect all Batcave Trophies"
+    },
+    {
+      "apiname": "Achievement_28_Id",
+      "achieved": 1,
+      "unlocktime": 1787583323,
+      "name": "Too Many Questions",
+      "description": "Complete every Puzzle Room"
+    },
+    {
+      "apiname": "Achievement_29_Id",
+      "achieved": 1,
+      "unlocktime": 1787445292,
+      "name": "\"Lighter, faster, more agile.\"",
+      "description": "Purchase a Skill Upgrade from each category"
+    },
+    {
+      "apiname": "Achievement_30_Id",
+      "achieved": 1,
+      "unlocktime": 1787401997,
+      "name": "Theatricality and Deception",
+      "description": "Purchase 3 Gadget Upgrades"
+    },
+    {
+      "apiname": "Achievement_31_Id",
+      "achieved": 1,
+      "unlocktime": 1787450442,
+      "name": "\"I own the place.\"",
+      "description": "Purchase all Batcave Expansions"
+    },
+    {
+      "apiname": "Achievement_32_Id",
+      "achieved": 1,
+      "unlocktime": 1787450258,
+      "name": "Not Just a Cave",
+      "description": "Place 5 Props or Trophies in the Batcave"
+    },
+    {
+      "apiname": "Achievement_33_Id",
+      "achieved": 1,
+      "unlocktime": 1787406469,
+      "name": "\"No, sir. The OTHER car.\"",
+      "description": "Purchase 3 Vehicles from the Batcave"
+    },
+    {
+      "apiname": "Achievement_34_Id",
+      "achieved": 1,
+      "unlocktime": 1787406963,
+      "name": "\"You either buy a hero…\"",
+      "description": "Purchase 5 Items from Shops"
+    },
+    {
+      "apiname": "Achievement_35_Id",
+      "achieved": 1,
+      "unlocktime": 1787451366,
+      "name": "\"Does it come in black?\"",
+      "description": "Equip a Red Brick"
+    },
+    {
+      "apiname": "Achievement_36_Id",
+      "achieved": 1,
+      "unlocktime": 1787490676,
+      "name": "\"Wouldn't wanna make things too easy.\"",
+      "description": "Get 5 Gold Medals in AR Trials"
+    },
+    {
+      "apiname": "Achievement_37_Id",
+      "achieved": 1,
+      "unlocktime": 1787406736,
+      "name": "Rebuilding Gotham",
+      "description": "Cash in a Challenge in the Batcave"
+    },
+    {
+      "apiname": "Achievement_38_Id",
+      "achieved": 1,
+      "unlocktime": 1787364324,
+      "name": "Collecting Evidence",
+      "description": "Roll the camera over 20 degrees in Photo Mode"
+    },
+    {
+      "apiname": "Achievement_39_Id",
+      "achieved": 1,
+      "unlocktime": 1787561409,
+      "name": "Computer Privileges",
+      "description": "Change the screensaver on the Batcomputer"
+    },
+    {
+      "apiname": "Achievement_40_Id",
+      "achieved": 1,
+      "unlocktime": 1787447748,
+      "name": "\"Life's been good to me.\"",
+      "description": "Collect 1,000,000 Studs"
+    },
+    {
+      "apiname": "Achievement_41_Id",
+      "achieved": 1,
+      "unlocktime": 1787388173,
+      "name": "Caped Defender",
+      "description": "Perform 100 Successful Counters"
+    },
+    {
+      "apiname": "Achievement_42_Id",
+      "achieved": 1,
+      "unlocktime": 1787383578,
+      "name": "\"Never do it for free.\"",
+      "description": "Collect 30,000 Studs within a single stud combo"
+    },
+    {
+      "apiname": "Achievement_43_Id",
+      "achieved": 1,
+      "unlocktime": 1787448081,
+      "name": "\"I'm good with calculation.\"",
+      "description": "Maintain Max Stud Combo for 60 Seconds"
+    },
+    {
+      "apiname": "Achievement_44_Id",
+      "achieved": 1,
+      "unlocktime": 1787366177,
+      "name": "The Strength to Fight",
+      "description": "Reach Combat Combo of 99 hits"
+    },
+    {
+      "apiname": "Achievement_45_Id",
+      "achieved": 1,
+      "unlocktime": 1787387333,
+      "name": "\"I am the shadows.\"",
+      "description": "Perform 100 Stealth Takedowns"
+    },
+    {
+      "apiname": "Achievement_46_Id",
+      "achieved": 1,
+      "unlocktime": 1787383792,
+      "name": "\"This is my city.\"",
+      "description": "Place a Pin on the Map"
+    },
+    {
+      "apiname": "Achievement_47_Id",
+      "achieved": 1,
+      "unlocktime": 1787491191,
+      "name": "\"You're becoming quite a celebrity.\"",
+      "description": "Discover 100 open world events"
+    },
+    {
+      "apiname": "Achievement_48_Id",
+      "achieved": 1,
+      "unlocktime": 1787459200,
+      "name": "Cowardly and Superstitious Lot",
+      "description": "Defeat every type of enemy once"
+    },
+    {
+      "apiname": "Achievement_49_Id",
+      "achieved": 1,
+      "unlocktime": 1787499415,
+      "name": "\"Gotham can feel a little safer.\"",
+      "description": "Prevent 30 Crimes"
+    },
+    {
+      "apiname": "Achievement_50_Id",
+      "achieved": 1,
+      "unlocktime": 1787581459,
+      "name": "\"Things have improved.\"",
+      "description": "Prevent each type of Crime in Gotham once"
+    },
+    {
+      "apiname": "Achievement_51_Id",
+      "achieved": 1,
+      "unlocktime": 1787584067,
+      "name": "\"Is that like parachuting?\"",
+      "description": "Glide in 10 different wind tunnels"
+    }
+  ]
+}

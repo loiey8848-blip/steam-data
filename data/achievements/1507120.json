@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1507120,
+  "game": "The Spirit of the Samurai",
+  "total": 20,
+  "unlocked": 20,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:07.404616+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_FINDER",
+      "achieved": 1,
+      "unlocktime": 1784017500,
+      "name": "The finder",
+      "description": "Give an item to Anako"
+    },
+    {
+      "apiname": "ACH_FIRSTIME_KODAMA",
+      "achieved": 1,
+      "unlocktime": 1784016964,
+      "name": "The tree spirit",
+      "description": "You talk to the kodamas in dreams"
+    },
+    {
+      "apiname": "ACH_FLYING_CAT",
+      "achieved": 1,
+      "unlocktime": 1786590782,
+      "name": "The flying cat",
+      "description": "Chisai surpasses the heights in Cemetery Level"
+    },
+    {
+      "apiname": "ACH_COLLECTED_OBJECTS_1",
+      "achieved": 1,
+      "unlocktime": 1786558395,
+      "name": "The collector",
+      "description": "Get 100 Incense"
+    },
+    {
+      "apiname": "ACH_COLLECTED_OBJECTS_2",
+      "achieved": 1,
+      "unlocktime": 1786585922,
+      "name": "Spiritual affluence",
+      "description": "Get 500 Incense"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_1",
+      "achieved": 1,
+      "unlocktime": 1786558285,
+      "name": "War rookie",
+      "description": "Get 20 kills"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_2",
+      "achieved": 1,
+      "unlocktime": 1786558872,
+      "name": "Master of war",
+      "description": "Get 60 kills"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_3",
+      "achieved": 1,
+      "unlocktime": 1786586532,
+      "name": "God of war",
+      "description": "Get 150 kills"
+    },
+    {
+      "apiname": "ACH_DEFEATED_REVENANT",
+      "achieved": 1,
+      "unlocktime": 1786590782,
+      "name": "Revenant",
+      "description": "Takeshi gets his body back"
+    },
+    {
+      "apiname": "ACH_KATANA_UNLOCK_1",
+      "achieved": 1,
+      "unlocktime": 1786558734,
+      "name": "Sword apprentice",
+      "description": "Unlock 2 hits"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_BYBOW_1",
+      "achieved": 1,
+      "unlocktime": 1786592059,
+      "name": "Bow apprentice",
+      "description": "Get 15 kills by bow"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_BYBOW_2",
+      "achieved": 1,
+      "unlocktime": 1786592599,
+      "name": "Bow Master",
+      "description": "Get 30 kills by bow"
+    },
+    {
+      "apiname": "ACH_KATANA_UNLOCK_2",
+      "achieved": 1,
+      "unlocktime": 1786585528,
+      "name": "Sword Master",
+      "description": "Unlock 4 hits"
+    },
+    {
+      "apiname": "ACH_FEARSOME",
+      "achieved": 1,
+      "unlocktime": 1786591514,
+      "name": "The fearsome",
+      "description": "Kill Sojobo"
+    },
+    {
+      "apiname": "ACH_DEFEATED_ENEMIES_BYBOW_3",
+      "achieved": 1,
+      "unlocktime": 1786592848,
+      "name": "God of the Bow",
+      "description": "Get 50 kills by bow"
+    },
+    {
+      "apiname": "ACH_KATANA_UNLOCK_3",
+      "achieved": 1,
+      "unlocktime": 1786585639,
+      "name": "God of the Sword",
+      "description": "Unlock 7 hits"
+    },
+    {
+      "apiname": "ACH_FLIYING_WEAPON_1",
+      "achieved": 1,
+      "unlocktime": 1786591277,
+      "name": "Kunai warrior",
+      "description": "Get 10 kills by Kunais"
+    },
+    {
+      "apiname": "ACH_FLIYING_WEAPON_2",
+      "achieved": 1,
+      "unlocktime": 1786592322,
+      "name": "Kunai master ",
+      "description": "Get 25 kills by Kunais"
+    },
+    {
+      "apiname": "ACH_END_GAME",
+      "achieved": 1,
+      "unlocktime": 1786593393,
+      "name": "The Spirit of the Samurai",
+      "description": "Finish the game."
+    },
+    {
+      "apiname": "ACH_INVINCIBLE",
+      "achieved": 1,
+      "unlocktime": 1786593160,
+      "name": "Invincible",
+      "description": "Kill the Gashadokuro"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 610840,
+  "game": "JASEM: Just Another Shooter with Electronic Music",
+  "total": 19,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:17.414334+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_EASY_BREEZY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "EASY BREEZY",
+      "description": "Complete tutorial"
+    },
+    {
+      "apiname": "ACH_NOT_SO_EASY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NOT SO EASY",
+      "description": "Die in the tutorial"
+    },
+    {
+      "apiname": "ACH_OF_COURSE_YOU_CAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OF COURSE YOU CAN",
+      "description": "Die in the menu"
+    },
+    {
+      "apiname": "ACH_J",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "J",
+      "description": "Pass the boss on level 1"
+    },
+    {
+      "apiname": "ACH_JJ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JJ",
+      "description": "Kill all the enemies on level 1"
+    },
+    {
+      "apiname": "ACH_JJJ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JJJ",
+      "description": "Pass the boss on level 1 without dying"
+    },
+    {
+      "apiname": "ACH_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A",
+      "description": "Pass the boss on level 2"
+    },
+    {
+      "apiname": "ACH_AA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AA",
+      "description": "Kill all the enemies on level 2"
+    },
+    {
+      "apiname": "ACH_AAA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AAA",
+      "description": "Pass the boss on level 2 without dying"
+    },
+    {
+      "apiname": "ACH_S",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "S",
+      "description": "Pass the boss on level 3"
+    },
+    {
+      "apiname": "ACH_SS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SS",
+      "description": "Kill all the enemies on level 3"
+    },
+    {
+      "apiname": "ACH_SSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SSS",
+      "description": "Pass the boss on level 3 without dying"
+    },
+    {
+      "apiname": "ACH_E",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "E",
+      "description": "Pass the boss on level 4"
+    },
+    {
+      "apiname": "ACH_EE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "EE",
+      "description": "Kill all the enemies on level 4"
+    },
+    {
+      "apiname": "ACH_EEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "EEE",
+      "description": "Pass the boss on level 4 without dying"
+    },
+    {
+      "apiname": "ACH_M",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M",
+      "description": "Pass the boss on level 5"
+    },
+    {
+      "apiname": "ACH_MM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MM",
+      "description": "Kill all the enemies on level 5"
+    },
+    {
+      "apiname": "ACH_MMM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MMM",
+      "description": "Pass the boss on level 5 without dying"
+    },
+    {
+      "apiname": "ACH_JASEM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JASEM",
+      "description": "Kill all the bosses on level 12345"
+    }
+  ]
+}

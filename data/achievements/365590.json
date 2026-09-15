@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 365590,
+  "game": "Tom Clancy's The Division",
+  "total": 60,
+  "unlocked": 41,
+  "percent": 68.3,
+  "updated_at_utc": "2026-09-15T06:49:33.968079+00:00",
+  "achievements": [
+    {
+      "apiname": "Division_Ach_1",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Activated",
+      "description": "Get to Manhattan."
+    },
+    {
+      "apiname": "Division_Ach_2",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Outbreak",
+      "description": "Secure a sample of the original virus strain."
+    },
+    {
+      "apiname": "Division_Ach_3",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Can't Stand the Heat!",
+      "description": "Eliminate the leader of the Cleaners and escape the Napalm Production Site."
+    },
+    {
+      "apiname": "Division_Ach_4",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Crime and Punishment",
+      "description": "Eliminate the leader of the Rikers gang and her bodyguards in Lexington Event Center."
+    },
+    {
+      "apiname": "Division_Ach_5",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "I've Got the Power",
+      "description": "Secure the power plant."
+    },
+    {
+      "apiname": "Division_Ach_6",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Fly on the Wall ",
+      "description": "Restore the JTF comm relay."
+    },
+    {
+      "apiname": "Division_Ach_7",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Last Man Standing",
+      "description": "Eliminate the leader of the Last Man Battalion."
+    },
+    {
+      "apiname": "Division_Ach_8",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "You Win Some, You Lose Some",
+      "description": "Recover Tchernenko's research data from the Russian Consulate."
+    },
+    {
+      "apiname": "Division_Ach_9",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "What Needs To Be Done",
+      "description": "Recover Charles Bliss' propaganda tape."
+    },
+    {
+      "apiname": "Division_Ach_10",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "The Final Curtain",
+      "description": "Uncover the fates of Gordon Amherst and Aaron Keener."
+    },
+    {
+      "apiname": "Division_Ach_11",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "On the Level",
+      "description": "Reach Level 30 with an Agent."
+    },
+    {
+      "apiname": "Division_Ach_12",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Marathon",
+      "description": "Discover ALL of the Safe Houses in Manhattan."
+    },
+    {
+      "apiname": "Division_Ach_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Know No Fear",
+      "description": "Finish all of the missions at Level 30 on the Hard difficulty."
+    },
+    {
+      "apiname": "Division_Ach_14",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Hardened Combatant",
+      "description": "Complete a mission in Challenge mode."
+    },
+    {
+      "apiname": "Division_Ach_15",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "United We Stand",
+      "description": "At lvl 30 start and complete a Co-op Mission without anyone being Downed or Dying."
+    },
+    {
+      "apiname": "Division_Ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadows of the past",
+      "description": "Activate 63 ECHO scenes."
+    },
+    {
+      "apiname": "Division_Ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Droning on...",
+      "description": "Extract 16 aerial photos from crashed drones."
+    },
+    {
+      "apiname": "Division_Ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivalist",
+      "description": "Recover 24 Survival Guide pages."
+    },
+    {
+      "apiname": "Division_Ach_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agent Diaries",
+      "description": "Extract 130 phone recordings from phones found in Manhattan."
+    },
+    {
+      "apiname": "Division_Ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Finder",
+      "description": "Retrieve 20 missing first wave Division agent profiles."
+    },
+    {
+      "apiname": "Division_Ach_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incident Reports",
+      "description": "Extract 40 audio incident reports from JTF laptops."
+    },
+    {
+      "apiname": "Division_Ach_22",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Gain a Foothold",
+      "description": "Regroup with Faye Lau in the Base of Operations."
+    },
+    {
+      "apiname": "Division_Ach_23",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "The Engineer",
+      "description": "Rescue Paul Rhodes."
+    },
+    {
+      "apiname": "Division_Ach_24",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "The Doctor",
+      "description": "Rescue and extract Dr. Jessica Kandel."
+    },
+    {
+      "apiname": "Division_Ach_25",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "The Captain",
+      "description": "Rescue Captain Roy Benitez."
+    },
+    {
+      "apiname": "Division_Ach_26",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "State of the Art",
+      "description": "Fully Upgrade the Base of Operations."
+    },
+    {
+      "apiname": "Division_Ach_27",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Skillz",
+      "description": "Equip 10 different skill mods."
+    },
+    {
+      "apiname": "Division_Ach_28",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Skill Kill",
+      "description": "Finish off 50 enemies using Skills."
+    },
+    {
+      "apiname": "Division_Ach_29",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "The Humanitarian",
+      "description": "Purchase the Canine Unit and Pediatric Care Base of Operations Upgrade."
+    },
+    {
+      "apiname": "Division_Ach_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Signature Moves",
+      "description": "Activate any of the Signature Skills 100 times."
+    },
+    {
+      "apiname": "Division_Ach_31",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Natural Talent",
+      "description": "Be attributed with a kill whilst having a talent active."
+    },
+    {
+      "apiname": "Division_Ach_32",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "One Down, Two to Go!",
+      "description": "Completely upgrade any one wing of the Base of Operations."
+    },
+    {
+      "apiname": "Division_Ach_33",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Fixer Upper",
+      "description": "Completely upgrade any two wings of the Base of Operations."
+    },
+    {
+      "apiname": "Division_Ach_34",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Bling! Bling!",
+      "description": "Equip all Equipment slots with Superior or High end Items."
+    },
+    {
+      "apiname": "Division_Ach_35",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Good With My Hands",
+      "description": "Craft 10 items."
+    },
+    {
+      "apiname": "Division_Ach_36",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Master Craftsman",
+      "description": "Craft a High end item."
+    },
+    {
+      "apiname": "Division_Ach_37",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Deconstructive Criticism",
+      "description": "Deconstruct 100 items."
+    },
+    {
+      "apiname": "Division_Ach_38",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Looking for Group",
+      "description": "Join or create a group."
+    },
+    {
+      "apiname": "Division_Ach_39",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Medic!",
+      "description": "Revive a team mate 20 times in co-op."
+    },
+    {
+      "apiname": "Division_Ach_40",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Lean On Me",
+      "description": "Heal or buff 100 times whilst in a group."
+    },
+    {
+      "apiname": "Division_Ach_41",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Networking",
+      "description": "Complete 20 Missions as part of a group."
+    },
+    {
+      "apiname": "Division_Ach_42",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Shut that door",
+      "description": "Close a car door whilst in cover."
+    },
+    {
+      "apiname": "Division_Ach_43",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Raid the Arsenal",
+      "description": "Kill 1 enemy with each of the 6 Gun classes."
+    },
+    {
+      "apiname": "Division_Ach_44",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Worth the Wait",
+      "description": "Successfully Extract a contaminated item from the Dark Zone."
+    },
+    {
+      "apiname": "Division_Ach_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mass Extraction",
+      "description": "Extract an item at all 8 Extraction Zones."
+    },
+    {
+      "apiname": "Division_Ach_46",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Plundered!",
+      "description": "Extract a Superior or High end Item from the Dark Zone"
+    },
+    {
+      "apiname": "Division_Ach_47",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Headhunter",
+      "description": "Kill a named Elite in the Dark Zone."
+    },
+    {
+      "apiname": "Division_Ach_48",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "You Just Made the List...",
+      "description": "Kill 10 Named Enemies in the Dark Zone."
+    },
+    {
+      "apiname": "Division_Ach_49",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "For Justice!",
+      "description": "Kill a player who has gone Rogue."
+    },
+    {
+      "apiname": "Division_Ach_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am the LAW!",
+      "description": "Kill 20 Rogue Agents."
+    },
+    {
+      "apiname": "Division_Ach_51",
+      "achieved": 1,
+      "unlocktime": 1772709030,
+      "name": "Begin with a BANG",
+      "description": "Access the Tactical Operations Centre"
+    },
+    {
+      "apiname": "Division_Ach_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Objectively Experienced",
+      "description": "Complete each of the 6 different mission objectives in the Underground"
+    },
+    {
+      "apiname": "Division_Ach_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Beast Below",
+      "description": "Reach Underground Rank 40"
+    },
+    {
+      "apiname": "Division_Ach_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier One",
+      "description": "In a group of 4 finish an Operation on Challenge with 5 Directives Enabled"
+    },
+    {
+      "apiname": "Division_Ach_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gone Spelunking",
+      "description": "Retrieve all 55 Audio Logs and 25 UrbEx Diaries in Underground"
+    },
+    {
+      "apiname": "Division_Ach_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Born Survivor",
+      "description": "Successfully survive and escape in Survival Mode."
+    },
+    {
+      "apiname": "Division_Ach_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Subzero Hero",
+      "description": "Obtain clothing to get a survivable temperature rating of -22°C / -7°F."
+    },
+    {
+      "apiname": "Division_Ach_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For the Hoarder…",
+      "description": "Successfully extract 100 items from the Survival Dark Zone."
+    },
+    {
+      "apiname": "Division_Ach_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Craft the Virus Filter and Flare Gun in Survival mode."
+    },
+    {
+      "apiname": "Division_Ach_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Instincts",
+      "description": "Achieve Master Rank rank in Survival Mode."
+    }
+  ]
+}

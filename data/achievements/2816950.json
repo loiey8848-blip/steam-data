@@ -1,0 +1,494 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2816950,
+  "game": "Yaoling: Mythical Journey",
+  "total": 69,
+  "unlocked": 1,
+  "percent": 1.4,
+  "updated_at_utc": "2026-09-15T06:53:01.854192+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHV_ZUICHUDEHUOBAN",
+      "achieved": 1,
+      "unlocktime": 1751630059,
+      "name": "First Love",
+      "description": "Pick your starter"
+    },
+    {
+      "apiname": "ACHV_YUYAODASHI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Mythical Journey",
+      "description": "Complete the main story"
+    },
+    {
+      "apiname": "ACHV_SHENGHUOZUOFAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fired Up",
+      "description": "Invite Collie to your village"
+    },
+    {
+      "apiname": "ACHV_SHENGYIKAIZHANG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entrepreneur",
+      "description": "Invite Chu-Chu to your village"
+    },
+    {
+      "apiname": "ACHV_KAIGENTUDI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Sprout",
+      "description": "Invite Holly to your village"
+    },
+    {
+      "apiname": "ACHV_JIANLILIECHANG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Hunt",
+      "description": "Invite Yamma to your village"
+    },
+    {
+      "apiname": "ACHV_KAISHIXIUXING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Lesson",
+      "description": "Invite Wu'er to your village"
+    },
+    {
+      "apiname": "ACHV_KAIZAOKUANGCHANG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mine over Matter",
+      "description": "Invite Gummy to your village"
+    },
+    {
+      "apiname": "ACHV_JIUXIANGSIYI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intoxicating",
+      "description": "Invite Mrs. Fortune to your village"
+    },
+    {
+      "apiname": "ACHV_XINDESHENGMING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Life",
+      "description": "Invite Mallet to your village"
+    },
+    {
+      "apiname": "ACHV_MEILIDONGREN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Vogue",
+      "description": "Invite Doromy to your village"
+    },
+    {
+      "apiname": "ACHV_CHUSHEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Chef",
+      "description": "Restaurant reaches max level"
+    },
+    {
+      "apiname": "ACHV_FUZHIDAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Scribe",
+      "description": "Charm House reaches max level"
+    },
+    {
+      "apiname": "ACHV_FANGXIANGSIYI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bountiful Harvest",
+      "description": "Spirit Garden reaches max level"
+    },
+    {
+      "apiname": "ACHV_MAITOUKUGAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock Solid",
+      "description": "Quarry reaches max level"
+    },
+    {
+      "apiname": "ACHV_DAPOPINGJING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limit Breaking",
+      "description": "Training Grounds reaches max level"
+    },
+    {
+      "apiname": "ACHV_SHENGYIXINGLONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Booming Business",
+      "description": "Shop reaches max level"
+    },
+    {
+      "apiname": "ACHV_SHOUHUOMANMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Headhunter",
+      "description": "Hunter's Cabin reaches max level"
+    },
+    {
+      "apiname": "ACHV_YUSHUZHICHAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baby Booming",
+      "description": "Jade Cabin reaches max level"
+    },
+    {
+      "apiname": "ACHV_BINGKEMANTANG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Tavern reaches max level"
+    },
+    {
+      "apiname": "ACHV_QUANDASHENMUZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splitting Wood",
+      "description": "Defeat the School of Nature"
+    },
+    {
+      "apiname": "ACHV_JIAOCAISHOUWANGZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taming Beasts",
+      "description": "Defeat the School of Beasts"
+    },
+    {
+      "apiname": "ACHV_HENGSAOCHONGMINGZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squashing Bugs",
+      "description": "Defeat the School of Insects"
+    },
+    {
+      "apiname": "ACHV_YINGGANGLIWANGZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bending Force",
+      "description": "Defeat the School of Force"
+    },
+    {
+      "apiname": "ACHV_DOUZHANXUESHANZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thawing Ice",
+      "description": "Defeat the School of Frost"
+    },
+    {
+      "apiname": "ACHV_TIGUANLINGJIANZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tempering Blades",
+      "description": "Defeat the School of Blades"
+    },
+    {
+      "apiname": "ACHV_BAODATIEDINGZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pounding Iron",
+      "description": "Defeat the School of Iron"
+    },
+    {
+      "apiname": "ACHV_ZHIDIANHONGYEZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweeping Maple",
+      "description": "Defeat the School of Maple"
+    },
+    {
+      "apiname": "ACHV_XIHAJINLEIZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Muting Thunder",
+      "description": "Defeat the School of Thunder"
+    },
+    {
+      "apiname": "ACHV_DUIZHANXUANJIAZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shattering Shields",
+      "description": "Defeat the School of Shields"
+    },
+    {
+      "apiname": "ACHV_DASHENGANYINGZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chasing Shadows",
+      "description": "Defeat the School of Shadow"
+    },
+    {
+      "apiname": "ACHV_QIFUSHENGYANZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defying Fate",
+      "description": "Defeat the School of Prophecy"
+    },
+    {
+      "apiname": "ACHV_DUIJUELIETIANZONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunting Prey",
+      "description": "Defeat the School of Hunt"
+    },
+    {
+      "apiname": "ACHV_XIAOCAIYIDIE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Souped Up",
+      "description": "Win your first Yaoling Keeper duel"
+    },
+    {
+      "apiname": "ACHV_JIAQINGJIUSHU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": "Successfully seal 15 Yaolings"
+    },
+    {
+      "apiname": "ACHV_YISE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exotic!",
+      "description": "Obtain a rare colored Yaoling"
+    },
+    {
+      "apiname": "ACHV_SHANGUANG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparkles!",
+      "description": "Obtain a shiny Yaoling"
+    },
+    {
+      "apiname": "ACHV_FUHU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roar of Fire",
+      "description": "Defeat the Lord of Flames"
+    },
+    {
+      "apiname": "ACHV_XIANGLONG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memory of Malice",
+      "description": "Defeat the Lord of Plague"
+    },
+    {
+      "apiname": "ACHV_BINGSHUANGZHIXIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of Winter",
+      "description": "Defeat the Lord of Frost"
+    },
+    {
+      "apiname": "ACHV_LEITINGYAOGUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roll of Thunder",
+      "description": "Defeat the Lord of Thunder"
+    },
+    {
+      "apiname": "ACHV_YAOWANGZHENGFUZHE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Demons",
+      "description": "Defeat the Lord of Destruction"
+    },
+    {
+      "apiname": "ACHV_XIANGMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeper Hongfu",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_LIMING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break of Dawn",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_FANGXIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Defense",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_MINGYUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weaver of Fate",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_XIANKUHOUTIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bitter and Sweet",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_TOUZHI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overdraft",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_LICAIZHUANJIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Financial Expert",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_GULIZHUAGUAI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inspiring Capture",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_ZHUYI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elitism",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_YANXUAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cautious Choice",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_LINGQI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spiritual Crisis",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_HAODUODIREN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overwhelming",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_YICIXING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Single-use Yaoling",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_TOUZI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Investor",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_JUBO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pillar of Finance",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_LIUYOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overflowing Wealth",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_KAPAI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cardmaster",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_XINGYUNER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shining Luck",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_HAOZHIQIANJIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_YOUXIUYUYAOSHI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outstanding Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_BUZHUO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capture Fanatic",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_FANGSHOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Defense",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_TIEBI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unwavering Command",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_POMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bane of Evil",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_WUMIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncrowned King",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_SASASHUILA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Dent",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_QIANJIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bread and Butter",
+      "description": ""
+    }
+  ]
+}

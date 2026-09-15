@@ -1,0 +1,480 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 606150,
+  "game": "Moonlighter",
+  "total": 67,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:17.010430+00:00",
+  "achievements": [
+    {
+      "apiname": "DEFEAT_GOLEM_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overthrow the king!",
+      "description": "Defeat the Golem King"
+    },
+    {
+      "apiname": "DEFEAT_FOREST_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prune the plant!",
+      "description": "Defeat Carnivurous Mutae"
+    },
+    {
+      "apiname": "DEFEAT_DESERT_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behead the snake!",
+      "description": "Defeat Naja"
+    },
+    {
+      "apiname": "DEFEAT_TECH_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unplug the energy!",
+      "description": "Defeat Energy Flux"
+    },
+    {
+      "apiname": "PERFECT_GOLEM_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Golem King",
+      "description": "Perfect Golem King"
+    },
+    {
+      "apiname": "PERFECT_FOREST_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Carnivurous Mutae",
+      "description": "Perfect Carnivurous Mutae"
+    },
+    {
+      "apiname": "PERFECT_DESERT_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Naja",
+      "description": "Perfect Naja"
+    },
+    {
+      "apiname": "PERFECT_TECH_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Energy Flux",
+      "description": "Perfect Energy Flux"
+    },
+    {
+      "apiname": "ALL_CRAZY_PETE_NOTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archeologist",
+      "description": "Read All Crazy Pete Notes"
+    },
+    {
+      "apiname": "CRAFT_ALL_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weaponmaster",
+      "description": "Craft all weapons"
+    },
+    {
+      "apiname": "CRAFT_ALL_SHORT_SWORDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balanced Warrior",
+      "description": "Craft All Short Swords"
+    },
+    {
+      "apiname": "CRAFT_ALL_BIG_SWORDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Warrior",
+      "description": "Craft All Big Swords"
+    },
+    {
+      "apiname": "CRAFT_ALL_GLOVES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Berserk Warrior",
+      "description": "Craft All Gloves"
+    },
+    {
+      "apiname": "CRAFT_ALL_SPEARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Piercing Warrior",
+      "description": "Craft All Spears"
+    },
+    {
+      "apiname": "CRAFT_ALL_BOWS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Distant Warrior",
+      "description": "Craft All Bows"
+    },
+    {
+      "apiname": "KILL_BOSSES_BROOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Janitor",
+      "description": "Kill all bosses with the broom"
+    },
+    {
+      "apiname": "COMPLETE_NOTEBOOK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scribe",
+      "description": "Complete the Notebook"
+    },
+    {
+      "apiname": "KILL_A_LOT_OF_ENEMIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savage!",
+      "description": "Kill a total of 10000 enemies"
+    },
+    {
+      "apiname": "COMPLETE_GAME_UNDER_DEATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful Merchant",
+      "description": "Complete the game under 40 deaths"
+    },
+    {
+      "apiname": "FINISH_GAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero or Merchant?",
+      "description": "Discover the mistery of the 5th door"
+    },
+    {
+      "apiname": "GOLD_QUANTITY_I",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saver",
+      "description": "Have a quantity of gold bigger than 5000"
+    },
+    {
+      "apiname": "GOLD_QUANTITY_II",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saver+",
+      "description": "Have a quantity of gold bigger than 50000"
+    },
+    {
+      "apiname": "GOLD_QUANTITY_III",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saver++",
+      "description": "Have a quantity of gold bigger than 100000"
+    },
+    {
+      "apiname": "GOLD_QUANTITY_IV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greedy",
+      "description": "Have a quantity of gold bigger than 1000000"
+    },
+    {
+      "apiname": "SHOP_SECOND_VERSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Investment",
+      "description": "Upgrade your shop to the second version"
+    },
+    {
+      "apiname": "SHOP_THIRD_VERSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expansion",
+      "description": "Upgrade your shop to the Third version"
+    },
+    {
+      "apiname": "SHOP_FOURTH_VERSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luxury",
+      "description": "Upgrade your shop to the fourth version"
+    },
+    {
+      "apiname": "SHOP_LAST_VERSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emporium",
+      "description": "Upgrade your shop to the last version"
+    },
+    {
+      "apiname": "ALL_TOWN_BOARD_IMPROVEMENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rynoka's Major!",
+      "description": "Buy all improvements in the Town Board"
+    },
+    {
+      "apiname": "ALL_ACHIEVEMENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100%",
+      "description": "Complete all achievements"
+    },
+    {
+      "apiname": "DEATH_INVENTORY_FULL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There is no avarice without penalty",
+      "description": ""
+    },
+    {
+      "apiname": "EMBLEM_BEFORE_BOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going for supplies...",
+      "description": ""
+    },
+    {
+      "apiname": "BUY_ITEMS_RIVAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wasteful Merchant",
+      "description": "Buy more than 10 times on Le Retalier"
+    },
+    {
+      "apiname": "GOLEM_THIRD_FLOOR_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golem Apasionate",
+      "description": "Arrive to the third floor of the Golem Dungeon 10 times"
+    },
+    {
+      "apiname": "FOREST_THIRD_FLOOR_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Apasionate",
+      "description": "Arrive to the third floor of the Forest Dungeon 10 times"
+    },
+    {
+      "apiname": "DESERT_THIRD_FLOOR_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desert Apasionate",
+      "description": "Arrive to the third floor of the Desert Dungeon 10 times"
+    },
+    {
+      "apiname": "TECH_THIRD_FLOOR_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tech Apasionate",
+      "description": "Arrive to the third floor of the Tech Dungeon 10 times"
+    },
+    {
+      "apiname": "EARN_MONEY_BANKER_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It takes a thief to catch a thief",
+      "description": "Earn money from the Banker 5 times."
+    },
+    {
+      "apiname": "ALL_DECORATIVE_ITEMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decorative Mind",
+      "description": "Buy all decorative Items"
+    },
+    {
+      "apiname": "3_WAVES_SECRET_ROOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horde Mode",
+      "description": "Defeat four Waves of enemies in a Wave room"
+    },
+    {
+      "apiname": "FIND_SECRET_ROOM_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Secrets",
+      "description": "Find a secret room 10 times."
+    },
+    {
+      "apiname": "WITCH_SLIME_HIT_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Protection Service",
+      "description": ""
+    },
+    {
+      "apiname": "MONEY_TREE_ONCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Does it grow on the trees?!?1",
+      "description": ""
+    },
+    {
+      "apiname": "MONEY_TREE_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Really?!?",
+      "description": ""
+    },
+    {
+      "apiname": "EARN_POTIONS_BREAKABLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Healthcare System",
+      "description": ""
+    },
+    {
+      "apiname": "KILL_GOLEM_ENEMIES_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage against the Golems",
+      "description": "Kill Golem Enemies 1000 Times"
+    },
+    {
+      "apiname": "KILL_FOREST_ENEMIES_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage against the Forest",
+      "description": "Kill Forest Enemies 1000 Times"
+    },
+    {
+      "apiname": "KILL_DESERT_ENEMIES_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage against the Desert",
+      "description": "Kill Desert Enemies 1000 Times"
+    },
+    {
+      "apiname": "KILL_TECH_ENEMIES_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage against the Machinery",
+      "description": "Kill Tech Enemies 1000 Times"
+    },
+    {
+      "apiname": "CRAZY_PETE_SPECIAL_PLACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special Place",
+      "description": ""
+    },
+    {
+      "apiname": "KILL_BUGS_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exterminator",
+      "description": ""
+    },
+    {
+      "apiname": "VISITORS_RUN_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Distracted Merchant",
+      "description": ""
+    },
+    {
+      "apiname": "SELL_ITEMS_OVERPRICED_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evil Merchant",
+      "description": "Sell 20 items slightly overpriced"
+    },
+    {
+      "apiname": "SELL_ITEMS_PERFECT_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Merchant",
+      "description": "Sell 20 items for the perfect price"
+    },
+    {
+      "apiname": "SELL_ITEMS_CHEAP_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naive Merchant",
+      "description": ""
+    },
+    {
+      "apiname": "SELL_ITEMS_EXPENSIVE_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scammer",
+      "description": ""
+    },
+    {
+      "apiname": "BEAT_GAME_UNDER_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta go fast!",
+      "description": "Beat Game Under 10 hours"
+    },
+    {
+      "apiname": "FIRST_ICT_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inter-Dimensional Blacksmith",
+      "description": ""
+    },
+    {
+      "apiname": "GREED_IS_OVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greed is Over",
+      "description": ""
+    },
+    {
+      "apiname": "A_BIGGER_FAMILY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Bigger Family",
+      "description": "Get all DLC companions"
+    },
+    {
+      "apiname": "SECOND_FLOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Floor",
+      "description": ""
+    },
+    {
+      "apiname": "FOURTH_FLOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fourth Floor",
+      "description": ""
+    },
+    {
+      "apiname": "SIXTH_FLOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sixth Floor",
+      "description": ""
+    },
+    {
+      "apiname": "EIGHT_FLOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eight Floor",
+      "description": ""
+    },
+    {
+      "apiname": "IMPROVE_YOURSELF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Improve Yourself",
+      "description": ""
+    },
+    {
+      "apiname": "STRANGE_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strange Weapon",
+      "description": "Get your first Trick Weapon"
+    },
+    {
+      "apiname": "TRICK_WEAPON_COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trick Weapon Collector",
+      "description": "Get all Trick Weapons from the Dimensional Watcher"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 209000,
+  "game": "Batman™: Arkham Origins",
+  "total": 60,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:37.574789+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Assassins",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One eye open",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nobody that matters",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone wears masks",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Rule",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perhaps sooner, Perhaps later",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shut Down",
+      "description": "Shut down an entire Tower Network"
+    },
+    {
+      "apiname": "Achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Counter-intelligence",
+      "description": "Decipher one Extortion File"
+    },
+    {
+      "apiname": "Achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enigma Unravelled",
+      "description": "Collect all Enigma items"
+    },
+    {
+      "apiname": "Achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Riddler Trophy",
+      "description": "Collect every collectible"
+    },
+    {
+      "apiname": "Achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One down, several to go",
+      "description": "Complete a Most Wanted entry"
+    },
+    {
+      "apiname": "Achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Innocent and the Predatory",
+      "description": "Capture all of Black Mask's Assassins"
+    },
+    {
+      "apiname": "Achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow Vigilante",
+      "description": "Master the Shadow Vigilante Dark Knight track"
+    },
+    {
+      "apiname": "Achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotham Protector",
+      "description": "Master the Gotham Protector Dark Knight track"
+    },
+    {
+      "apiname": "Achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worst Nightmare",
+      "description": "Master the Worst Nightmare Dark Knight track"
+    },
+    {
+      "apiname": "Achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World's Greatest Detective\t",
+      "description": "Master the World's Greatest Detective Dark Knight track\t"
+    },
+    {
+      "apiname": "Achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend of the Dark Knight",
+      "description": "Complete all Dark Knight challenges"
+    },
+    {
+      "apiname": "Achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crime Scene Investigator",
+      "description": "Complete all Casefiles"
+    },
+    {
+      "apiname": "Achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crime Fighter",
+      "description": "Stop 20 Crime in Progress"
+    },
+    {
+      "apiname": "Achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks, old friend",
+      "description": "Hear everything Alfred has to say"
+    },
+    {
+      "apiname": "Achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Personal Trainer",
+      "description": "Obtain all the medals on Combat Training maps"
+    },
+    {
+      "apiname": "Achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Obtain all the medals on Custom maps in Challenge mode"
+    },
+    {
+      "apiname": "Achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've Got This",
+      "description": "Acquire all upgrades"
+    },
+    {
+      "apiname": "Achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free Flow Fifty",
+      "description": "Reach x50 Combo"
+    },
+    {
+      "apiname": "Achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anyone see that?",
+      "description": "Complete a predator encounter without ever being spotted"
+    },
+    {
+      "apiname": "Achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What hit me?",
+      "description": "Take down 100 enemies who didn't know you were there"
+    },
+    {
+      "apiname": "Achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Knight",
+      "description": "Complete a predator encounter using only silent takedowns"
+    },
+    {
+      "apiname": "Achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Point to Point",
+      "description": "Glide across Bridge without touching ground"
+    },
+    {
+      "apiname": "Achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Around the World",
+      "description": "Use the Batwing to travel to all Fast Travel points"
+    },
+    {
+      "apiname": "Achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Display",
+      "description": "Successfully battle Shiva without taking any damage"
+    },
+    {
+      "apiname": "Achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Point Counter-Point",
+      "description": "Complete Deathstroke without failing a single counter"
+    },
+    {
+      "apiname": "Achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of Each",
+      "description": "Use every Freeflow Focus gadget in one combo"
+    },
+    {
+      "apiname": "Achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Marathon",
+      "description": "Glide 26 miles total"
+    },
+    {
+      "apiname": "Achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medalist",
+      "description": "Obtain all medals on the original Ranked Maps in Challenge mode (as Batman)"
+    },
+    {
+      "apiname": "Achievement_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Olympian",
+      "description": "Obtain all medals on the original Campaign maps in Challenge mode (as Batman)"
+    },
+    {
+      "apiname": "Achievement_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice of the People",
+      "description": "Scan 20 Anarky Tags"
+    },
+    {
+      "apiname": "Achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Streets",
+      "description": "Complete all Most Wanted missions"
+    },
+    {
+      "apiname": "Achievement_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give Them Something to Believe",
+      "description": "Complete New Game Plus"
+    },
+    {
+      "apiname": "Achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am The Night",
+      "description": "Finish I Am The Night Mode"
+    },
+    {
+      "apiname": "Achievement_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Predator Paragon",
+      "description": "Take down 6 different Elites in a match, using 6 different methods as Batman or Robin in multiplayer"
+    },
+    {
+      "apiname": "Achievement_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killing Joke",
+      "description": "Reach max level with the Joker faction in multiplayer"
+    },
+    {
+      "apiname": "Achievement_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallen Knight",
+      "description": "Reach max level with the Bane faction in multiplayer"
+    },
+    {
+      "apiname": "Achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotham All-Star",
+      "description": "Reach max overall level in multiplayer"
+    },
+    {
+      "apiname": "Achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clutch",
+      "description": "Kill a Hero to bring back your entire gang when at 0 reinforcements on a full multiplayer server"
+    },
+    {
+      "apiname": "Achievement_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tales of Gotham",
+      "description": "Win a round of each map with each faction in multiplayer"
+    },
+    {
+      "apiname": "Achievement_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Like Those Odds",
+      "description": "As a Hero, defeat 4 Elites within 40 seconds without using melee in multiplayer"
+    },
+    {
+      "apiname": "Achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not An Ordinary Criminal",
+      "description": "As an Elite, earn 4000 XP in a single multiplayer match"
+    },
+    {
+      "apiname": "Achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arsenal, Awesome",
+      "description": "Fully upgrade a weapon in multiplayer"
+    },
+    {
+      "apiname": "Achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend",
+      "description": "Earn a level of prestige in multiplayer"
+    },
+    {
+      "apiname": "Achievement_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Know Thy Enemy",
+      "description": "Defeat each of the enemy players at least once in a multiplayer match"
+    },
+    {
+      "apiname": "Achievement_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Wayne",
+      "description": "Take no damage when playing as Bruce Wayne"
+    },
+    {
+      "apiname": "Achievement_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let it Snow",
+      "description": "Receive the Extreme Environment Suit (XE Suit)"
+    },
+    {
+      "apiname": "Achievement_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drilling for Justice",
+      "description": "Assemble the cryonucleation tunneller - the cryodrill"
+    },
+    {
+      "apiname": "Achievement_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Auld Lang Syne",
+      "description": "Stop Freeze and bring Boyle to justice"
+    },
+    {
+      "apiname": "Achievement_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paint the Town Red",
+      "description": "Find all Activist tags in Cold, Cold Heart"
+    },
+    {
+      "apiname": "Achievement_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking the Ice",
+      "description": "Free all civilians frozen in cryogenic ice"
+    },
+    {
+      "apiname": "Achievement_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Down with the Revolution",
+      "description": "Stop Anarky thug operations in South Gotham"
+    },
+    {
+      "apiname": "Achievement_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowjob",
+      "description": "Get 3 enemies frozen in one attack"
+    },
+    {
+      "apiname": "Achievement_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalact-tactician",
+      "description": "Takedown 2 enemies with one stalactite"
+    },
+    {
+      "apiname": "Achievement_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Out of the Cold",
+      "description": "Perform 3 ice wall takedowns"
+    }
+  ]
+}

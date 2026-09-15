@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3734290,
+  "game": "Goblin Sushi",
+  "total": 43,
+  "unlocked": 10,
+  "percent": 23.3,
+  "updated_at_utc": "2026-09-15T06:53:33.501785+00:00",
+  "achievements": [
+    {
+      "apiname": "OBTAIN_PERK_CONVEYOR",
+      "achieved": 1,
+      "unlocktime": 1785607764,
+      "name": "Conveyor Whisperer",
+      "description": "Unlock the Conveyor Whisperer Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_EAT_PLATE",
+      "achieved": 1,
+      "unlocktime": 1789382962,
+      "name": "Tasty Plates",
+      "description": "Unlock the Tasty Plates Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_IKURA_MAKI_START",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egg Collector",
+      "description": "Unlock the Egg Collector Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_JUICE_EXTRA_SLOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Juice",
+      "description": "Unlock the Extra Juice Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_KNIFE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knife Master",
+      "description": "Unlock the Knife Master Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_LANDLORD_POOP_IMMUNITY",
+      "achieved": 1,
+      "unlocktime": 1785607765,
+      "name": "Immunity",
+      "description": "Unlock the Immunity Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_REFILL_SPEED",
+      "achieved": 1,
+      "unlocktime": 1789382962,
+      "name": "Big Spender",
+      "description": "Unlock the Big Spender Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_REROLL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another Try",
+      "description": "Unlock the Another Try Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_RICE_COOKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rice Apprentice",
+      "description": "Unlock the Rice Apprentice Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_SALMON_HOSO_MAKI_START",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salmon Farmer",
+      "description": "Unlock the Salmon Farmer Perk"
+    },
+    {
+      "apiname": "OBTAIN_PERK_YAKITORI_START",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chicken Hoarder",
+      "description": "Unlock the Chicken Hoarder Perk"
+    },
+    {
+      "apiname": "UNLOCK_GRILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All I want for sushi is meat!",
+      "description": "Unlock the Grill."
+    },
+    {
+      "apiname": "UNLOCK_JUICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Massive Juicer",
+      "description": "Unlock the Juice."
+    },
+    {
+      "apiname": "WIN_FIRST_TIME",
+      "achieved": 1,
+      "unlocktime": 1789384066,
+      "name": "End Landlordism",
+      "description": "Win for the first time!"
+    },
+    {
+      "apiname": "LOSE_FIRST_TIME",
+      "achieved": 1,
+      "unlocktime": 1785607715,
+      "name": "Eviction Notice",
+      "description": "Loose the first time!"
+    },
+    {
+      "apiname": "FIRST_ONIGIRI_CREATED",
+      "achieved": 1,
+      "unlocktime": 1785607029,
+      "name": "Onigiri Prodigy",
+      "description": "Create your first Onigiri."
+    },
+    {
+      "apiname": "FIRST_SASHIMI_CREATED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thinly Sliced",
+      "description": "Create your first Sashimi."
+    },
+    {
+      "apiname": "FIRST_GRILL_DISH_CREATED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grilled Sushi?",
+      "description": "Grill your first dish on the grill."
+    },
+    {
+      "apiname": "FIRST_HIGH_PRICE_SALE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Astronomical Bill",
+      "description": "Sell your first dish with a price higher than 100000"
+    },
+    {
+      "apiname": "FIRST_POOP_CREATED",
+      "achieved": 1,
+      "unlocktime": 1785607063,
+      "name": "Not a mistake!",
+      "description": "Create your first poop!"
+    },
+    {
+      "apiname": "FIRST_FROZEN_POOP_CREATED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Almost Ice Cream",
+      "description": "Create your first frozen poop!"
+    },
+    {
+      "apiname": "FIRST_BURNED_POOP_CREATED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oh no, the Kitchen is on Fire!",
+      "description": "Create your first burnt poop!"
+    },
+    {
+      "apiname": "CREATE_POOP_STAGE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Customer Protection Dismissed",
+      "description": "Create 10 poops."
+    },
+    {
+      "apiname": "CREATE_POOP_STAGE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Constipation Prescription",
+      "description": "Create 1500 poops."
+    },
+    {
+      "apiname": "CREATE_POOP_STAGE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Severe Food Safety Violation",
+      "description": "Create 10000 poops."
+    },
+    {
+      "apiname": "LANDLORD_STARVATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poorman’s Economics",
+      "description": "Starve the landlord 20 times."
+    },
+    {
+      "apiname": "LANDLORD_EXPLODE_STAGE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I need a lawyer!",
+      "description": "Explode the landlord 10 times."
+    },
+    {
+      "apiname": "LANDLORD_EXPLODE_STAGE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial Tenant",
+      "description": "Explode the landlord 30 times."
+    },
+    {
+      "apiname": "LANDLORD_EXPLODE_STAGE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reversed Eviction Notice",
+      "description": "Explode the landlord 100 times."
+    },
+    {
+      "apiname": "FEED_CUSTOMERS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restaurant Apprentice",
+      "description": "Feed 1000 customers."
+    },
+    {
+      "apiname": "FEED_CUSTOMERS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restaurant Prodigy",
+      "description": "Feed 5000 customers."
+    },
+    {
+      "apiname": "FEED_CUSTOMERS_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restaurant Expert",
+      "description": "Feed 10000 customers."
+    },
+    {
+      "apiname": "RICE_COOKER_USAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rice Factory",
+      "description": "Produce 50000 rice!"
+    },
+    {
+      "apiname": "MIXER_USAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can see it spinning!",
+      "description": "Use the mixer 100 times."
+    },
+    {
+      "apiname": "INTERACT_WITH_DEVIL",
+      "achieved": 1,
+      "unlocktime": 1785607283,
+      "name": "Devilish Delight",
+      "description": "Get a curse!"
+    },
+    {
+      "apiname": "INTERACT_WITH_TRASH_GOBLIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Garbage Goblin?",
+      "description": "Trash an upgrade with the trash goblin."
+    },
+    {
+      "apiname": "BUY_FROM_SHOP_GOBLIN",
+      "achieved": 1,
+      "unlocktime": 1785607402,
+      "name": "Shopping Spree",
+      "description": "Buy an upgrade from the shopkeeper goblin."
+    },
+    {
+      "apiname": "COLLECT_POOPS_IN_RUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waste Disposal Management",
+      "description": "Collect 50 poops in a single run!"
+    },
+    {
+      "apiname": "CREATE_SASHIMI_IN_RUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sashimi Maniac",
+      "description": "Create 1000 sashimis in a single run!"
+    },
+    {
+      "apiname": "WIN_DEVIL_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My blood is sushi!",
+      "description": "Win a run with the Devil difficulty"
+    },
+    {
+      "apiname": "WIN_KING_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Decree!",
+      "description": "Win a run with the King difficulty"
+    },
+    {
+      "apiname": "WIN_CHEF_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5 Gourmet Points!",
+      "description": "Win a run with the Chef difficulty"
+    },
+    {
+      "apiname": "WIN_NORMAL_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homecooking Advanced",
+      "description": "Win a run with the Normal difficulty"
+    }
+  ]
+}

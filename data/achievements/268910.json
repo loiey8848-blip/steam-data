@@ -1,0 +1,305 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 268910,
+  "game": "Cuphead",
+  "total": 42,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:01.295014+00:00",
+  "achievements": [
+    {
+      "apiname": "DefeatBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Names",
+      "description": "Defeat a boss"
+    },
+    {
+      "apiname": "CompleteWorld1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Walk in the Park",
+      "description": "Defeat every boss in Inkwell Isle I"
+    },
+    {
+      "apiname": "CompleteWorld2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Day at the Fair",
+      "description": "Defeat every boss in Inkwell Isle II"
+    },
+    {
+      "apiname": "CompleteWorld3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Trip Downtown",
+      "description": "Defeat every boss in Inkwell Isle III"
+    },
+    {
+      "apiname": "CompleteDicePalace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Casino Night",
+      "description": "Complete the Casino"
+    },
+    {
+      "apiname": "CompleteDevil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swing You Sinner",
+      "description": ""
+    },
+    {
+      "apiname": "BadEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Selling Out",
+      "description": ""
+    },
+    {
+      "apiname": "SRank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Put On a Show",
+      "description": "Get an S-Rank"
+    },
+    {
+      "apiname": "ARankWorld1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sheriff",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I"
+    },
+    {
+      "apiname": "ARankWorld2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle II"
+    },
+    {
+      "apiname": "ARankWorld3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mayor",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle III"
+    },
+    {
+      "apiname": "ARankWorld4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Hell"
+    },
+    {
+      "apiname": "GoodEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Souls Saved",
+      "description": "Complete the game on Normal"
+    },
+    {
+      "apiname": "NewGamePlus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat The Devil At His Own Game",
+      "description": "Complete the game on Expert"
+    },
+    {
+      "apiname": "BoughtAllItems",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butter-and-Egg Man",
+      "description": "Buy everything in Porkrind's Shop"
+    },
+    {
+      "apiname": "FoundSecretPassage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cutting Corners",
+      "description": ""
+    },
+    {
+      "apiname": "ExWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ceramic Strike",
+      "description": "Defeat a boss with an Extra Special move"
+    },
+    {
+      "apiname": "SuperWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Porcelain Power",
+      "description": "Defeat a boss with a Super Art"
+    },
+    {
+      "apiname": "SmallPlaneOnlyWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bravo Zulu P-26",
+      "description": ""
+    },
+    {
+      "apiname": "UnlockedAllSupers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magician Lord",
+      "description": "Obtain all Super Arts"
+    },
+    {
+      "apiname": "NoHitsTaken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Run",
+      "description": "Complete a level without getting hit"
+    },
+    {
+      "apiname": "FoundAllLevelMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coffers Full",
+      "description": "Get every coin in all of the levels"
+    },
+    {
+      "apiname": "ParryChain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouncing Ball",
+      "description": "Parry five times before hitting the ground"
+    },
+    {
+      "apiname": "ParryApprentice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parry Persistance",
+      "description": "Complete 20 parries"
+    },
+    {
+      "apiname": "ParryMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parry Performance",
+      "description": "Complete 100 parries"
+    },
+    {
+      "apiname": "NoHitsTakenDicePalace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rolling Sixes",
+      "description": ""
+    },
+    {
+      "apiname": "FoundAllMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Roller",
+      "description": ""
+    },
+    {
+      "apiname": "PacifistRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacifist",
+      "description": ""
+    },
+    {
+      "apiname": "CompleteWorldDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Vacation in the Wilds",
+      "description": "Defeat every boss in Inkwell Isle IV"
+    },
+    {
+      "apiname": "ARankWorldDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranger",
+      "description": "Obtain an A-Rank or Higher on all bosses in Inkwell Isle IV"
+    },
+    {
+      "apiname": "DefeatBossAsChalice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alive and Kicking",
+      "description": "Defeat a boss with Ms. Chalice"
+    },
+    {
+      "apiname": "DefeatXBossesAsChalice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decadent",
+      "description": "Defeat 10 bosses with Ms. Chalice"
+    },
+    {
+      "apiname": "ChaliceSuperWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Golden Touch",
+      "description": "Defeat a boss with one of Ms. Chalice's Super Arts"
+    },
+    {
+      "apiname": "DefeatBossDLCWeapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Latest Sensation",
+      "description": "Defeat a boss with one of Porkrind's new weapons"
+    },
+    {
+      "apiname": "DefeatAllKOG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Checkmate",
+      "description": "Defeat all of the King of Games' Champions"
+    },
+    {
+      "apiname": "DefeatKOGGauntlet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A King's Admiration",
+      "description": "Defeat the King's Gauntlet"
+    },
+    {
+      "apiname": "DefeatSaltbaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Compliments to the Chef",
+      "description": "Complete your quest on Inkwell Isle IV"
+    },
+    {
+      "apiname": "SRankAnyDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooked to Perfection",
+      "description": "Get an S-Rank on a stage of Inkwell Isle IV"
+    },
+    {
+      "apiname": "DefeatBossNoMinions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The High Hat",
+      "description": "Defeat a boss on Inkwell Isle IV without killing any of its minions"
+    },
+    {
+      "apiname": "HP9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hearty",
+      "description": "Have 9HP at one time"
+    },
+    {
+      "apiname": "DefeatDevilPhase2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Horrible Night To Have a Curse",
+      "description": ""
+    },
+    {
+      "apiname": "Paladin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paladin",
+      "description": ""
+    }
+  ]
+}

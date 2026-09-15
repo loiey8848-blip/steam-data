@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 617290,
+  "game": "Remnant: From the Ashes",
+  "total": 50,
+  "unlocked": 3,
+  "percent": 6.0,
+  "updated_at_utc": "2026-09-15T06:50:17.793378+00:00",
+  "achievements": [
+    {
+      "apiname": "Kill_Root_Dragon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire in the Sky",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Root_Ent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bigger They Are...",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Totem_Father",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watch the Totems!",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Pan_Wolf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wolf of the Woods",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Undying_King",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undying, Eh?",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Claviger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Keymaster",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Swamp_Guardian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butterfly Effect",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Dreamer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Awakening",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Boss_No_Damage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_100_Special_Enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not So Special",
+      "description": "Defeat 100 special enemies"
+    },
+    {
+      "apiname": "Acquire_1_Trait",
+      "achieved": 1,
+      "unlocktime": 1661095594,
+      "name": "First…But Not the Last!",
+      "description": "Acquire first trait"
+    },
+    {
+      "apiname": "Acquire_10_Traits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Start",
+      "description": "Acquire 10 traits"
+    },
+    {
+      "apiname": "Acquire_20_Traits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's a Lot of Traits!",
+      "description": "Acquire 20 traits"
+    },
+    {
+      "apiname": "Acquire_30_Traits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unleash Your Potential",
+      "description": "Acquire 30 traits"
+    },
+    {
+      "apiname": "Acquire_5_Armor_Sets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equipment Collector",
+      "description": "Acquire 5 armor sets"
+    },
+    {
+      "apiname": "Acquire_10_Armor_Sets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equipment Enthusiast ",
+      "description": "Acquire 10 armor sets"
+    },
+    {
+      "apiname": "Upgrade_Weapon",
+      "achieved": 1,
+      "unlocktime": 1661096139,
+      "name": "Hard Choices",
+      "description": "Upgrade first weapon"
+    },
+    {
+      "apiname": "Upgrade_Weapon_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halfway There",
+      "description": "Upgrade any weapon to +10"
+    },
+    {
+      "apiname": "Upgrade_Weapon_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Push It to the Limit",
+      "description": "Upgrade any weapon to +20"
+    },
+    {
+      "apiname": "Return_Swamp_Heart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shot Through the Heart",
+      "description": ""
+    },
+    {
+      "apiname": "Acquire_5_Weapon_Mods",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mod Collector",
+      "description": "Acquire 5 weapon mods"
+    },
+    {
+      "apiname": "Acquire_15_Weapon_Mods",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mod Enthusiast ",
+      "description": "Acquire 15 weapon mods"
+    },
+    {
+      "apiname": "Level_Trait_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trait Dabbler",
+      "description": "Upgrade any trait to 10"
+    },
+    {
+      "apiname": "Level_Trait_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trait Focus",
+      "description": "Upgrade any trait to 20"
+    },
+    {
+      "apiname": "Loot_50000_Scrap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Person's Scrap...",
+      "description": "Acquire 50,000 scrap"
+    },
+    {
+      "apiname": "Loot_1000000_Scrap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Harvester",
+      "description": "Acquire 100,000 scrap"
+    },
+    {
+      "apiname": "Loot_2000000_Scrap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Collector",
+      "description": "Acquire 200,000 scrap"
+    },
+    {
+      "apiname": "Craft_Boss_Weapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready For Action",
+      "description": "Craft a weapon using material from a defeated world boss"
+    },
+    {
+      "apiname": "Craft_Boss_Weapon_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a Boss",
+      "description": "Upgrade a boss weapon to 5"
+    },
+    {
+      "apiname": "Receive_Mudtooth_Watch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Watch...",
+      "description": "Acquire Mudtooth's pocket watch"
+    },
+    {
+      "apiname": "Upgrade_Dragon_Heart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of a Dragon",
+      "description": "Upgrade Dragon Heart"
+    },
+    {
+      "apiname": "Return_Ace_Coin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not So Lucky",
+      "description": ""
+    },
+    {
+      "apiname": "Return_Reggie_Ring",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Precious",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Tutorial",
+      "achieved": 1,
+      "unlocktime": 1661096376,
+      "name": "Fade to White",
+      "description": "Activate the Ward 13 World Stone"
+    },
+    {
+      "apiname": "Meet_Root_Mother",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are You Ok?",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Labyrinth_Keeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What is the Labyrinth?",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Undying_King",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Warmed Over",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Swamp_Queen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a Moth to a Flame",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Pan_Rebel_Leader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Changing of the Guard",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Andrew_Ford",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Founder",
+      "description": ""
+    },
+    {
+      "apiname": "Kill_Iskal_Queen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fall of the Iskal",
+      "description": ""
+    },
+    {
+      "apiname": "Level_Survival_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor",
+      "description": "Defeat 5 Bosses in a row in Survival Mode"
+    },
+    {
+      "apiname": "Level_Survival_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominator",
+      "description": "Defeat 10 Bosses in a row in Survival Mode"
+    },
+    {
+      "apiname": "Acquire_15_Armor_Skins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion!",
+      "description": "Purchase 15 Armor Skins"
+    },
+    {
+      "apiname": "Acquire_40_Armor_Skins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion is Danger",
+      "description": "Purchase 40 Armor Skins"
+    },
+    {
+      "apiname": "Kill_Harsgaard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nemesis",
+      "description": "Defeat the Final Boss"
+    },
+    {
+      "apiname": "Listen_Harsgaard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Other Voices",
+      "description": "Listen to all the Recordings in Ward Prime"
+    },
+    {
+      "apiname": "Travel_Reisum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Girl in the Snow",
+      "description": ""
+    },
+    {
+      "apiname": "Sebum_Deal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Bargain",
+      "description": ""
+    },
+    {
+      "apiname": "Visit_Homestead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lockdown",
+      "description": ""
+    }
+  ]
+}

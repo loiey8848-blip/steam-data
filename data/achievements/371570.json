@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 371570,
+  "game": "Tap Heroes",
+  "total": 50,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:46.828368+00:00",
+  "achievements": [
+    {
+      "apiname": "1e_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FIGHTER",
+      "description": "DEFEAT 100 ENEMIES"
+    },
+    {
+      "apiname": "1e_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SOLDIER",
+      "description": "DEFEAT 1000 ENEMIES"
+    },
+    {
+      "apiname": "1e_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WARRIOR",
+      "description": "DEFEAT 10000 ENEMIES"
+    },
+    {
+      "apiname": "1e_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "KNIGHT",
+      "description": "DEFEAT 100000 ENEMIES"
+    },
+    {
+      "apiname": "1e_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TAP HERO",
+      "description": "DEFEAT 1000000 ENEMIES"
+    },
+    {
+      "apiname": "2g_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LOADED",
+      "description": "COLLECT 1000 GOLD"
+    },
+    {
+      "apiname": "2g_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WEALTHY",
+      "description": "COLLECT 10000 GOLD"
+    },
+    {
+      "apiname": "2g_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WORTH A MILLION",
+      "description": "COLLECT 1000000 GOLD"
+    },
+    {
+      "apiname": "2g_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FILTHY RICH",
+      "description": "COLLECT 5000000 GOLD"
+    },
+    {
+      "apiname": "2g_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ROLLING IN IT",
+      "description": "COLLECT 10000000 GOLD"
+    },
+    {
+      "apiname": "3l_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "STARTING OUT",
+      "description": "LEVEL UP 50 TIMES"
+    },
+    {
+      "apiname": "3l_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "APPRENTICE",
+      "description": "LEVEL UP 150 TIMES"
+    },
+    {
+      "apiname": "3l_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JOURNEYMAN",
+      "description": "LEVEL UP 500 TIMES"
+    },
+    {
+      "apiname": "3l_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SKILLED",
+      "description": "LEVEL UP 1000 TIMES"
+    },
+    {
+      "apiname": "3l_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MASTER",
+      "description": "LEVEL UP 5000 TIMES"
+    },
+    {
+      "apiname": "4f_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TAP TAP TAP",
+      "description": "TAP 1000 TIMES"
+    },
+    {
+      "apiname": "4f_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TAPPER",
+      "description": "TAP 10000 TIMES"
+    },
+    {
+      "apiname": "4f_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SORE FINGER",
+      "description": "TAP 50000 TIMES"
+    },
+    {
+      "apiname": "4f_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FINGER BLASTER",
+      "description": "TAP 100000 TIMES"
+    },
+    {
+      "apiname": "4f_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MASTER TAPPER",
+      "description": "TAP 250000 TIMES"
+    },
+    {
+      "apiname": "5t_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LUCKY CHARM",
+      "description": "FIND 5 CHESTS"
+    },
+    {
+      "apiname": "5t_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "COLLECTOR",
+      "description": "FIND 25 CHESTS"
+    },
+    {
+      "apiname": "5t_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DIGGY HOLE",
+      "description": "FIND 75 CHESTS"
+    },
+    {
+      "apiname": "5t_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I AM A PIRATE!",
+      "description": "FIND 150 CHESTS"
+    },
+    {
+      "apiname": "5t_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TREASURE HUNTER",
+      "description": "FIND 300 CHESTS"
+    },
+    {
+      "apiname": "6p_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SPELLCASTER",
+      "description": "CAST 5 POWERS"
+    },
+    {
+      "apiname": "6p_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WARLOCK",
+      "description": "CAST 15 POWERS"
+    },
+    {
+      "apiname": "6p_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SORCERER",
+      "description": "CAST 35 POWERS"
+    },
+    {
+      "apiname": "6p_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WIZARD",
+      "description": "CAST 75 POWERS"
+    },
+    {
+      "apiname": "6p_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GOD",
+      "description": "CAST 150 POWERS"
+    },
+    {
+      "apiname": "7g_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SHINY",
+      "description": "COLLECT 5 GEMS"
+    },
+    {
+      "apiname": "7g_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SO SHINY",
+      "description": "COLLECT 10 GEMS"
+    },
+    {
+      "apiname": "7g_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ONLY MINE",
+      "description": "COLLECT 25 GEMS"
+    },
+    {
+      "apiname": "7g_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MINE MINE MINE",
+      "description": "COLLECT 50 GEMS"
+    },
+    {
+      "apiname": "7g_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MY PRECIOUS",
+      "description": "COLLECT 100 GEMS"
+    },
+    {
+      "apiname": "8z_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GOING PLACES",
+      "description": "REACH AREA LVL 25"
+    },
+    {
+      "apiname": "8z_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GETTING AROUND",
+      "description": "REACH AREA LVL 50"
+    },
+    {
+      "apiname": "8z_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TRAVELLER",
+      "description": "REACH AREA LVL 100"
+    },
+    {
+      "apiname": "8z_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SEE THE WORLD",
+      "description": "REACH AREA LVL 200"
+    },
+    {
+      "apiname": "8z_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GRASS IS GREENER",
+      "description": "REACH AREA LVL 300"
+    },
+    {
+      "apiname": "9b_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WOODCUTTER",
+      "description": "DEFEAT TRUSKY"
+    },
+    {
+      "apiname": "9b_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SWORDS ARE SHARPER",
+      "description": "DEFEAT GOGAPIK"
+    },
+    {
+      "apiname": "9b_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "KING SLAYER",
+      "description": "DEFEAT KINGURULLE"
+    },
+    {
+      "apiname": "9b_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "JUNGLE FEVER",
+      "description": "DEFEAT BIGGASTOMP"
+    },
+    {
+      "apiname": "9b_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WINGS AND CLAWS",
+      "description": "DEFEAT GARGLOT"
+    },
+    {
+      "apiname": "9b_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SMELLY",
+      "description": "DEFEAT BOBALOTS"
+    },
+    {
+      "apiname": "9b_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DAWN  OF THE TAP",
+      "description": "DEFEAT SIMON"
+    },
+    {
+      "apiname": "9b_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I PREFER CATS",
+      "description": "DEFEAT TOGRARO"
+    },
+    {
+      "apiname": "9b_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NO MILK DRINKERS",
+      "description": "DEFEAT DOOPA"
+    },
+    {
+      "apiname": "9b_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "IT IS GETTING HOT",
+      "description": "DEFEAT DRAGONA"
+    }
+  ]
+}

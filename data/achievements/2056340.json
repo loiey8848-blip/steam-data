@@ -1,0 +1,39 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2056340,
+  "game": "Room of Depression",
+  "total": 4,
+  "unlocked": 4,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:26.721135+00:00",
+  "achievements": [
+    {
+      "apiname": "A1",
+      "achieved": 1,
+      "unlocktime": 1774797889,
+      "name": "One Day",
+      "description": ""
+    },
+    {
+      "apiname": "A2",
+      "achieved": 1,
+      "unlocktime": 1774798810,
+      "name": "Society",
+      "description": ""
+    },
+    {
+      "apiname": "A3",
+      "achieved": 1,
+      "unlocktime": 1774799400,
+      "name": "Hope",
+      "description": ""
+    },
+    {
+      "apiname": "A4",
+      "achieved": 1,
+      "unlocktime": 1774800048,
+      "name": "Coexistence",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 268050,
+  "game": "The Evil Within",
+  "total": 71,
+  "unlocked": 19,
+  "percent": 26.8,
+  "updated_at_utc": "2026-09-15T06:49:00.953008+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_0",
+      "achieved": 1,
+      "unlocktime": 1770098774,
+      "name": "Weapon of Choice",
+      "description": ""
+    },
+    {
+      "apiname": "ach_1",
+      "achieved": 1,
+      "unlocktime": 1770127446,
+      "name": "Old Flame",
+      "description": ""
+    },
+    {
+      "apiname": "ach_2",
+      "achieved": 1,
+      "unlocktime": 1770142349,
+      "name": "Two on Two",
+      "description": ""
+    },
+    {
+      "apiname": "ach_3",
+      "achieved": 1,
+      "unlocktime": 1770188285,
+      "name": "What's in the Box?",
+      "description": ""
+    },
+    {
+      "apiname": "ach_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First, Not the Last",
+      "description": ""
+    },
+    {
+      "apiname": "ach_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arachnophobia",
+      "description": ""
+    },
+    {
+      "apiname": "ach_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slither into Oblivion",
+      "description": ""
+    },
+    {
+      "apiname": "ach_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One of the Many",
+      "description": ""
+    },
+    {
+      "apiname": "ach_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Step into Darkness",
+      "description": "Complete the game on Casual difficulty."
+    },
+    {
+      "apiname": "ach_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another Day on the Job",
+      "description": "Complete the game on Survival difficulty."
+    },
+    {
+      "apiname": "ach_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Horror",
+      "description": "Complete the game on Nightmare difficulty."
+    },
+    {
+      "apiname": "ach_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every Nook and Cranny",
+      "description": "Collect every collectable in the game."
+    },
+    {
+      "apiname": "ach_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Unlocking",
+      "description": "Open up all the lockers in the save room."
+    },
+    {
+      "apiname": "ach_13",
+      "achieved": 1,
+      "unlocktime": 1770186149,
+      "name": "Hardbody",
+      "description": "Fully upgrade all of Sebastian's attributes."
+    },
+    {
+      "apiname": "ach_14",
+      "achieved": 1,
+      "unlocktime": 1770109764,
+      "name": "My Best Friend",
+      "description": "Completely upgrade one weapon."
+    },
+    {
+      "apiname": "ach_15",
+      "achieved": 1,
+      "unlocktime": 1770186016,
+      "name": "The Power of Three",
+      "description": "Completely upgrade three weapons."
+    },
+    {
+      "apiname": "ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unstoppable Arsenal",
+      "description": "Completely upgrade all weapons."
+    },
+    {
+      "apiname": "ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Why Can't I Hold All This Ammo?",
+      "description": "Upgrade all options in the Stock menu."
+    },
+    {
+      "apiname": "ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blow Up the Playing Field",
+      "description": "Use a secret explosive weapon to kill 10 enemies. (Agony Bolt effects negate results)"
+    },
+    {
+      "apiname": "ach_19",
+      "achieved": 1,
+      "unlocktime": 1770209842,
+      "name": "Full House",
+      "description": "Kill 5 enemies with each type of Agony Bolt."
+    },
+    {
+      "apiname": "ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Kill",
+      "description": "Kill 5 enemies in a row with a sneak kill without being discovered."
+    },
+    {
+      "apiname": "ach_21",
+      "achieved": 1,
+      "unlocktime": 1770140251,
+      "name": "Burn, Baby, Burn!",
+      "description": "Kill 5 enemies with a torch."
+    },
+    {
+      "apiname": "ach_22",
+      "achieved": 1,
+      "unlocktime": 1770097385,
+      "name": "...And the Corpses Mount",
+      "description": "Kill 30 enemies."
+    },
+    {
+      "apiname": "ach_23",
+      "achieved": 1,
+      "unlocktime": 1770187582,
+      "name": "Krimson PD Fury",
+      "description": "Kill 200 enemies."
+    },
+    {
+      "apiname": "ach_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Man Army",
+      "description": "Kill 400 enemies."
+    },
+    {
+      "apiname": "ach_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ammo Conservationist",
+      "description": "Kill 25 enemies with melee attacks."
+    },
+    {
+      "apiname": "ach_26",
+      "achieved": 1,
+      "unlocktime": 1770144633,
+      "name": "Bloody Bar Brawl",
+      "description": "Sneak Kill an enemy after hitting them with a bottle."
+    },
+    {
+      "apiname": "ach_27",
+      "achieved": 1,
+      "unlocktime": 1770129000,
+      "name": "Drop It Like It's Hot",
+      "description": "Kill 3 living enemies with one drop of a match."
+    },
+    {
+      "apiname": "ach_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Quick and the Dead",
+      "description": "Finish the game with a clear time of under 5:00:00"
+    },
+    {
+      "apiname": "ach_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Is What It Is",
+      "description": "Finish the game without upgrading any skills with green gel."
+    },
+    {
+      "apiname": "ach_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Asked For It",
+      "description": "Finish the game on 悪夢(AKUMU) mode."
+    },
+    {
+      "apiname": "ach_31",
+      "achieved": 1,
+      "unlocktime": 1770146858,
+      "name": "À la Corvo",
+      "description": "Have they lost their minds? Better get past them without a fight.  (Ch.2)"
+    },
+    {
+      "apiname": "ach_32",
+      "achieved": 1,
+      "unlocktime": 1770169694,
+      "name": "Knife Beats Chainsaw",
+      "description": "His engine roars, but my knife is strong enough to take him out. (Ch.3) "
+    },
+    {
+      "apiname": "ach_33",
+      "achieved": 1,
+      "unlocktime": 1770107372,
+      "name": "Home is Where the Hospice is",
+      "description": "That vision in the hospice... why here? Why now? (Ch. 4)"
+    },
+    {
+      "apiname": "ach_34",
+      "achieved": 1,
+      "unlocktime": 1770125958,
+      "name": "Not Part of the Job Description",
+      "description": "The water's rising, but we'll get out of this without a scratch. (Ch. 5)"
+    },
+    {
+      "apiname": "ach_35",
+      "achieved": 1,
+      "unlocktime": 1770140960,
+      "name": "Everybody Gets One",
+      "description": "Who wouldn't reach out for a man clinging for his life? (Ch. 6)"
+    },
+    {
+      "apiname": "ach_36",
+      "achieved": 1,
+      "unlocktime": 1770205637,
+      "name": "I Don't Have Time for This!",
+      "description": "It won't stay dead! Better only fight when I have to. (Ch. 7)"
+    },
+    {
+      "apiname": "ach_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Management",
+      "description": "This cave echoes like crazy. Better put the gun away and keep quiet. (Ch. 8)"
+    },
+    {
+      "apiname": "ach_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bathed in Flames",
+      "description": "Enough running! I'll burn her to the ground right here! (Ch. 10)"
+    },
+    {
+      "apiname": "ach_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Scratch on Her!",
+      "description": "I'm not taking any chances, this bus can't take much more damage. (Ch. 12)"
+    },
+    {
+      "apiname": "ach_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entry Level Electrician",
+      "description": "I should get this whole generator panel running just in case. (Ch. 14)"
+    },
+    {
+      "apiname": "ach_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prank Call",
+      "description": "Lure an enemy with a phone call and lock them in a room. (Ch. 1)"
+    },
+    {
+      "apiname": "ach_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clutch!",
+      "description": "Use a single trap to kill two or more enemies in The Assignment. (Ch. 2)"
+    },
+    {
+      "apiname": "ach_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All You Need is Axe",
+      "description": "Survive the duel without using any electronic devices in the environment. (Ch. 2)"
+    },
+    {
+      "apiname": "ach_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Grip",
+      "description": "Get a Cadaver to grab and kill a Haunted. (Ch. 2)"
+    },
+    {
+      "apiname": "ach_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Different Beginning",
+      "description": ""
+    },
+    {
+      "apiname": "ach_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not as it Seems",
+      "description": ""
+    },
+    {
+      "apiname": "ach_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor's Notes",
+      "description": "Collect all Research Documents in The Assignment."
+    },
+    {
+      "apiname": "ach_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Piece of My Past",
+      "description": "Collect all Personnel Files in The Assignment."
+    },
+    {
+      "apiname": "ach_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Warning",
+      "description": "Complete the hidden letter in The Assignment."
+    },
+    {
+      "apiname": "ach_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Afraid of the Dark",
+      "description": "Clear The Assignment in KURAYAMI Mode."
+    },
+    {
+      "apiname": "ach_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fumbling in the Dark",
+      "description": ""
+    },
+    {
+      "apiname": "ach_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Real Hero",
+      "description": "Save Sebastian's life in the hotel. (Ch. 4)"
+    },
+    {
+      "apiname": "ach_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Will Not Be Blood",
+      "description": "Get through the hotel without being spotted or killing any enemies. (Ch. 4)"
+    },
+    {
+      "apiname": "ach_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stick to the Script",
+      "description": "Defeat Ruvik before the final showdown in The Consequence. (Ch. 4)"
+    },
+    {
+      "apiname": "ach_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things Fall Apart",
+      "description": ""
+    },
+    {
+      "apiname": "ach_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where Do We Go From Here?",
+      "description": ""
+    },
+    {
+      "apiname": "ach_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's All Your Fault",
+      "description": "Collect all Research Documents in The Consequence."
+    },
+    {
+      "apiname": "ach_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Becoming an Agent",
+      "description": "Collect all Personnel Files in The Consequence."
+    },
+    {
+      "apiname": "ach_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is Just the Beginning",
+      "description": "Complete the hidden letter in The Consequence."
+    },
+    {
+      "apiname": "ach_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "None More Dark",
+      "description": "Clear The Consequence in KURAYAMI Mode."
+    },
+    {
+      "apiname": "ach_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nosy Parent",
+      "description": ""
+    },
+    {
+      "apiname": "ach_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cruel and Unusual",
+      "description": ""
+    },
+    {
+      "apiname": "ach_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Might Close Early",
+      "description": ""
+    },
+    {
+      "apiname": "ach_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Krimson Chainsaw Massacre",
+      "description": ""
+    },
+    {
+      "apiname": "ach_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trapper and Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "ach_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got to Destroy the Brain",
+      "description": ""
+    },
+    {
+      "apiname": "ach_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Invasion",
+      "description": ""
+    },
+    {
+      "apiname": "ach_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Craftsman's Tools",
+      "description": ""
+    },
+    {
+      "apiname": "ach_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've Got Box of Steel",
+      "description": ""
+    },
+    {
+      "apiname": "ach_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Had This Coming",
+      "description": ""
+    }
+  ]
+}

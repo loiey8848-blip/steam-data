@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2124490,
+  "game": "SILENT HILL 2",
+  "total": 43,
+  "unlocked": 43,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:42.028576+00:00",
+  "achievements": [
+    {
+      "apiname": "TryToLeaveObservationDeck",
+      "achieved": 1,
+      "unlocktime": 1785097201,
+      "name": "No Turning Back Now",
+      "description": ""
+    },
+    {
+      "apiname": "ReachSilentHill",
+      "achieved": 1,
+      "unlocktime": 1757575744,
+      "name": "Enjoy Your Stay",
+      "description": ""
+    },
+    {
+      "apiname": "ReachWoodsideApartments",
+      "achieved": 1,
+      "unlocktime": 1757591652,
+      "name": "Nice and Cozy",
+      "description": ""
+    },
+    {
+      "apiname": "ShootBalloonsWoodsideApart",
+      "achieved": 1,
+      "unlocktime": 1757696018,
+      "name": "Let's NOT Party!",
+      "description": ""
+    },
+    {
+      "apiname": "ReachBlueCreekApartments",
+      "achieved": 1,
+      "unlocktime": 1757697302,
+      "name": "Otherworldly",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatPyramidHead",
+      "achieved": 1,
+      "unlocktime": 1757774359,
+      "name": "Passed",
+      "description": ""
+    },
+    {
+      "apiname": "MeetMaria",
+      "achieved": 1,
+      "unlocktime": 1757775310,
+      "name": "Uncanny",
+      "description": ""
+    },
+    {
+      "apiname": "SH3Reference",
+      "achieved": 1,
+      "unlocktime": 1785101038,
+      "name": "All Seems in Order",
+      "description": ""
+    },
+    {
+      "apiname": "PizzaInBowling",
+      "achieved": 1,
+      "unlocktime": 1785143230,
+      "name": "Leftovers",
+      "description": ""
+    },
+    {
+      "apiname": "ReachBrookhavenHospital",
+      "achieved": 1,
+      "unlocktime": 1757778693,
+      "name": "Admitted",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatFleshLip",
+      "achieved": 1,
+      "unlocktime": 1772593590,
+      "name": "Nightmare Fuel",
+      "description": ""
+    },
+    {
+      "apiname": "SurvivePyramidHeadChase",
+      "achieved": 1,
+      "unlocktime": 1785100403,
+      "name": "Alone Again",
+      "description": ""
+    },
+    {
+      "apiname": "ReachLongStaircaseEnd",
+      "achieved": 1,
+      "unlocktime": 1785101201,
+      "name": "Into the Abyss",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatAbstractDaddy",
+      "achieved": 1,
+      "unlocktime": 1785132020,
+      "name": "Unforgivable",
+      "description": ""
+    },
+    {
+      "apiname": "FindPyramindHeadRoom",
+      "achieved": 1,
+      "unlocktime": 1785132020,
+      "name": "Inner Sanctum",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatEddy",
+      "achieved": 1,
+      "unlocktime": 1785133147,
+      "name": "A Human Being",
+      "description": ""
+    },
+    {
+      "apiname": "LongSwimInTolucaLake",
+      "achieved": 1,
+      "unlocktime": 1785134113,
+      "name": "Scourge of Toluca Lake",
+      "description": ""
+    },
+    {
+      "apiname": "ReachLakeViewHotel",
+      "achieved": 1,
+      "unlocktime": 1785134807,
+      "name": "Glimmer of Hope",
+      "description": ""
+    },
+    {
+      "apiname": "ReachRoom312",
+      "achieved": 1,
+      "unlocktime": 1785137278,
+      "name": "Truly Special",
+      "description": ""
+    },
+    {
+      "apiname": "InteractWithBread",
+      "achieved": 1,
+      "unlocktime": 1785136619,
+      "name": "It's Bread",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatPyramidHeadTwins",
+      "achieved": 1,
+      "unlocktime": 1785138117,
+      "name": "Obsolete",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatBossMary",
+      "achieved": 1,
+      "unlocktime": 1785137847,
+      "name": "That Part of Me",
+      "description": ""
+    },
+    {
+      "apiname": "FindChainsaw",
+      "achieved": 1,
+      "unlocktime": 1785139034,
+      "name": "Lumberjack",
+      "description": ""
+    },
+    {
+      "apiname": "FinishEnemiesWithStomp",
+      "achieved": 1,
+      "unlocktime": 1785100527,
+      "name": "Merciless",
+      "description": "Finish off 50 enemies with a stomp attack."
+    },
+    {
+      "apiname": "KillEnemiesRanged",
+      "achieved": 1,
+      "unlocktime": 1772593942,
+      "name": "No Big Deal",
+      "description": "Kill 75 enemies with ranged weapons."
+    },
+    {
+      "apiname": "KillEnemiesMelee",
+      "achieved": 1,
+      "unlocktime": 1757730038,
+      "name": "Blunt Force Trauma",
+      "description": "Kill 75 enemies with melee weapons."
+    },
+    {
+      "apiname": "TryToOpenClosedDoors",
+      "achieved": 1,
+      "unlocktime": 1757589552,
+      "name": "You Never Know...",
+      "description": "Try to open locked doors 50 times."
+    },
+    {
+      "apiname": "SelfLoathing",
+      "achieved": 1,
+      "unlocktime": 1757579441,
+      "name": "Shattered",
+      "description": "Destroy 50 windows."
+    },
+    {
+      "apiname": "EndingLeave",
+      "achieved": 1,
+      "unlocktime": 1785165615,
+      "name": "Making Peace",
+      "description": ""
+    },
+    {
+      "apiname": "EndingMaria",
+      "achieved": 1,
+      "unlocktime": 1785164037,
+      "name": "Vicious Circle",
+      "description": ""
+    },
+    {
+      "apiname": "EndingInWater",
+      "achieved": 1,
+      "unlocktime": 1785138526,
+      "name": "Only Way Out",
+      "description": ""
+    },
+    {
+      "apiname": "EndingRebirth",
+      "achieved": 1,
+      "unlocktime": 1785199660,
+      "name": "Defy Even Death",
+      "description": ""
+    },
+    {
+      "apiname": "EndingDog",
+      "achieved": 1,
+      "unlocktime": 1785198505,
+      "name": "The Goodest Boi",
+      "description": ""
+    },
+    {
+      "apiname": "EndingUFO",
+      "achieved": 1,
+      "unlocktime": 1785198906,
+      "name": "Tinfoil Hat",
+      "description": ""
+    },
+    {
+      "apiname": "CompleteNewGamePlus",
+      "achieved": 1,
+      "unlocktime": 1785164037,
+      "name": "I Saw That Town",
+      "description": "Complete New Game Plus on any difficulty."
+    },
+    {
+      "apiname": "RadioSilence",
+      "achieved": 1,
+      "unlocktime": 1785164037,
+      "name": "Radio Silence",
+      "description": "Complete the game without using the radio."
+    },
+    {
+      "apiname": "UseAllWeapons",
+      "achieved": 1,
+      "unlocktime": 1785101853,
+      "name": "James of All Trades",
+      "description": ""
+    },
+    {
+      "apiname": "FindPhotos",
+      "achieved": 1,
+      "unlocktime": 1785163112,
+      "name": "Pieces Unarranged",
+      "description": ""
+    },
+    {
+      "apiname": "FastAsFog",
+      "achieved": 1,
+      "unlocktime": 1785164037,
+      "name": "Faster Than Fog",
+      "description": "Finish the game in under 10 hours."
+    },
+    {
+      "apiname": "Archivist",
+      "achieved": 1,
+      "unlocktime": 1785162902,
+      "name": "Archivist",
+      "description": "Collect all memos in a single playthrough."
+    },
+    {
+      "apiname": "FinishGameNoRangeWeapon",
+      "achieved": 1,
+      "unlocktime": 1785164037,
+      "name": "As Close as You Like",
+      "description": "Finish the game without killing enemies using ranged weapons."
+    },
+    {
+      "apiname": "SeeAllCanonEndings",
+      "achieved": 1,
+      "unlocktime": 1785199660,
+      "name": "Party Like It's 2001",
+      "description": ""
+    },
+    {
+      "apiname": "FindAllPastLocations",
+      "achieved": 1,
+      "unlocktime": 1785162727,
+      "name": "Echoes",
+      "description": ""
+    }
+  ]
+}

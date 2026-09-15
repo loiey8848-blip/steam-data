@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 644830,
+  "game": "The Surge 2",
+  "total": 57,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:19.028067+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHV_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little Banged Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jailbreak",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Again",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overheated",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Studied The Blade",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Invasion",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Court Martial",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mommy Dearest",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Dog",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corrupted Beauty",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Denying Prophecy",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reverse Engineering",
+      "description": "Kill a Gideon's Rock statue with its own weapon"
+    },
+    {
+      "apiname": "ACHV_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Own Medicine",
+      "description": "Kill a Delver Echo with the Helix of the Delver or Helix of the Delver V2.0"
+    },
+    {
+      "apiname": "ACHV_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reborn",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hello Darkness My Old Friend",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Lives! It Sniffs! It Conquers!",
+      "description": "Equip the IRONMAUS set and the Justice of the Iron Maus weapon"
+    },
+    {
+      "apiname": "ACHV_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Following In Their Footsteps",
+      "description": "Collect 10 Strange Visions"
+    },
+    {
+      "apiname": "ACHV_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Survivor",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defense in Depth",
+      "description": "Upgrade all gear pieces in a set to maximum level"
+    },
+    {
+      "apiname": "ACHV_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marked For Success",
+      "description": "Upgrade a weapon to maximum level"
+    },
+    {
+      "apiname": "ACHV_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stimulating The Local Economy",
+      "description": "Spend 50,000 tech scrap at vendors"
+    },
+    {
+      "apiname": "ACHV_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Offensive Defense",
+      "description": "Perform 30 directional blocks"
+    },
+    {
+      "apiname": "ACHV_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HEADSHOT!",
+      "description": "Kill an enemy with a headshot"
+    },
+    {
+      "apiname": "ACHV_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Craft 'em All",
+      "description": "Craft 20 Gear Sets"
+    },
+    {
+      "apiname": "ACHV_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Arsenal",
+      "description": "Collect 50 weapons"
+    },
+    {
+      "apiname": "ACHV_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rigged And Ready",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Performance",
+      "description": "Receive a special reward from a boss"
+    },
+    {
+      "apiname": "ACHV_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Cut",
+      "description": "Cut an enemy's limb with the follow-up to a backstab kick"
+    },
+    {
+      "apiname": "ACHV_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triplets",
+      "description": "Defeat all Delver Echoes"
+    },
+    {
+      "apiname": "ACHV_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powered Up",
+      "description": "Reach Core Power 50"
+    },
+    {
+      "apiname": "ACHV_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where It All Began",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remote Surgery",
+      "description": "Cut off each limb of a humanoid enemy using your drone"
+    },
+    {
+      "apiname": "ACHV_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swiss Army Drone",
+      "description": "Acquire all combat drone modules"
+    },
+    {
+      "apiname": "ACHV_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shocking",
+      "description": "Use the EMP-44 'Starfish' on an enemy"
+    },
+    {
+      "apiname": "ACHV_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sleeping With The Fishes",
+      "description": "Drown an enemy in deep water"
+    },
+    {
+      "apiname": "ACHV_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Trust Banks",
+      "description": "Carry 100,000 Techscrap"
+    },
+    {
+      "apiname": "ACHV_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luminary",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Risk Tolerant",
+      "description": "Kill a boss while carrying 30,000 Tech Scrap"
+    },
+    {
+      "apiname": "ACHV_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't I Know You...?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Birds With One Stone",
+      "description": "Kill 3 enemies at once using the homing missile"
+    },
+    {
+      "apiname": "ACHV_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suited and Booted",
+      "description": "Equip a full gear set"
+    },
+    {
+      "apiname": "ACHV_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sorry, Didn't See You There",
+      "description": "Kill a cloaked Hunter"
+    },
+    {
+      "apiname": "ACHV_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What A Catchy Song",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Counter-Sniper",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a Trap",
+      "description": "Disable an A.I.D. checkpoint scanner gate without triggering its alarm."
+    },
+    {
+      "apiname": "ACHV_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unforeseeable Consequences",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Geronimo!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbo Booster",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Box Office Smash",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrimp Cocktail",
+      "description": "Killed 30 robotic crabs (any type)"
+    },
+    {
+      "apiname": "ACHV_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homewrecker",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Juiced Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Postal",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Easy Way Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plank of Wood",
+      "description": "Pushed the pirate attacker from the plank"
+    },
+    {
+      "apiname": "ACHV_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squid Pro Quo",
+      "description": ""
+    },
+    {
+      "apiname": "ACHV_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loot, Pillage & Craft",
+      "description": "Crafted all gear sets of the Kraken DLC"
+    }
+  ]
+}

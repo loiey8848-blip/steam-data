@@ -1,0 +1,452 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1850570,
+  "game": "DEATH STRANDING DIRECTOR'S CUT",
+  "total": 63,
+  "unlocked": 45,
+  "percent": 71.4,
+  "updated_at_utc": "2026-09-15T06:52:20.947365+00:00",
+  "achievements": [
+    {
+      "apiname": "000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greatest of Great Deliverers",
+      "description": "Obtained all Death Stranding achievements."
+    },
+    {
+      "apiname": "001",
+      "achieved": 1,
+      "unlocktime": 1773970793,
+      "name": "Delivering Is What I Do",
+      "description": ""
+    },
+    {
+      "apiname": "002",
+      "achieved": 1,
+      "unlocktime": 1774055110,
+      "name": "Rebuilding America",
+      "description": ""
+    },
+    {
+      "apiname": "003",
+      "achieved": 1,
+      "unlocktime": 1774155292,
+      "name": "We Need You",
+      "description": ""
+    },
+    {
+      "apiname": "004",
+      "achieved": 1,
+      "unlocktime": 1774500278,
+      "name": "I Won't Break",
+      "description": ""
+    },
+    {
+      "apiname": "005",
+      "achieved": 1,
+      "unlocktime": 1774503821,
+      "name": "BB...",
+      "description": ""
+    },
+    {
+      "apiname": "006",
+      "achieved": 1,
+      "unlocktime": 1774701496,
+      "name": "We're Whole Again",
+      "description": ""
+    },
+    {
+      "apiname": "007",
+      "achieved": 1,
+      "unlocktime": 1774757495,
+      "name": "BBs: A Bridge Between This World and the One Beyond",
+      "description": ""
+    },
+    {
+      "apiname": "008",
+      "achieved": 1,
+      "unlocktime": 1774759260,
+      "name": "\"BB\"",
+      "description": ""
+    },
+    {
+      "apiname": "009",
+      "achieved": 1,
+      "unlocktime": 1774836072,
+      "name": "Sixty Deaths and Sixty Births in a Day",
+      "description": ""
+    },
+    {
+      "apiname": "010",
+      "achieved": 1,
+      "unlocktime": 1774844992,
+      "name": "The Particle of God",
+      "description": ""
+    },
+    {
+      "apiname": "011",
+      "achieved": 1,
+      "unlocktime": 1774869894,
+      "name": "I'm Your Die-Hardman",
+      "description": ""
+    },
+    {
+      "apiname": "012",
+      "achieved": 1,
+      "unlocktime": 1774871348,
+      "name": "Bring Back My Baby",
+      "description": ""
+    },
+    {
+      "apiname": "013",
+      "achieved": 1,
+      "unlocktime": 1774876460,
+      "name": "She's waiting for you on the Beach.",
+      "description": ""
+    },
+    {
+      "apiname": "014",
+      "achieved": 1,
+      "unlocktime": 1774947901,
+      "name": "Thank You, Sam",
+      "description": ""
+    },
+    {
+      "apiname": "015",
+      "achieved": 1,
+      "unlocktime": 1774952518,
+      "name": "Thanks for Everything",
+      "description": ""
+    },
+    {
+      "apiname": "016",
+      "achieved": 1,
+      "unlocktime": 1774068799,
+      "name": "Everyday Delivery",
+      "description": "Complete a standard order."
+    },
+    {
+      "apiname": "017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deliveries Done",
+      "description": "Complete 36 standard orders."
+    },
+    {
+      "apiname": "018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birth of a Legend",
+      "description": "Complete at least 10 unique premium deliveries in each order category with an evaluation of \"Legend,\" \"Legend of Legends,\" or \"Legend of Legends of Legends.\" "
+    },
+    {
+      "apiname": "019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Growth of a Legend",
+      "description": "Complete at least 20 unique premium deliveries in each order category with an evaluation of \"Legend of Legends\" or \"Legend of Legends of Legends.\" "
+    },
+    {
+      "apiname": "020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Helping Hand",
+      "description": "Issue your first supply request."
+    },
+    {
+      "apiname": "021",
+      "achieved": 1,
+      "unlocktime": 1774323357,
+      "name": "The Automation Revolution",
+      "description": "Complete a standard order with a delivery bot."
+    },
+    {
+      "apiname": "022",
+      "achieved": 1,
+      "unlocktime": 1774057887,
+      "name": "Apprentice Builder",
+      "description": "Complete your first structure (signs, ladders, and climbing anchors also count.)"
+    },
+    {
+      "apiname": "023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Builder",
+      "description": "Complete at least one of every type of structure (including signs, ladders, and climbing anchors.)"
+    },
+    {
+      "apiname": "024",
+      "achieved": 1,
+      "unlocktime": 1774058493,
+      "name": "A New Day for the UCA",
+      "description": ""
+    },
+    {
+      "apiname": "025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Sam We Trust",
+      "description": ""
+    },
+    {
+      "apiname": "026",
+      "achieved": 1,
+      "unlocktime": 1774063653,
+      "name": "Well Connected",
+      "description": "Reach connection level three with a facility."
+    },
+    {
+      "apiname": "027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Beloved",
+      "description": ""
+    },
+    {
+      "apiname": "028",
+      "achieved": 1,
+      "unlocktime": 1773974289,
+      "name": "Like and Be Liked",
+      "description": ""
+    },
+    {
+      "apiname": "029",
+      "achieved": 1,
+      "unlocktime": 1774071536,
+      "name": "The People's Porter",
+      "description": ""
+    },
+    {
+      "apiname": "030",
+      "achieved": 1,
+      "unlocktime": 1774696963,
+      "name": "The World's Most Popular Porter",
+      "description": ""
+    },
+    {
+      "apiname": "031",
+      "achieved": 1,
+      "unlocktime": 1773970726,
+      "name": "Good Samaritan",
+      "description": "Deliver your first piece of lost cargo."
+    },
+    {
+      "apiname": "032",
+      "achieved": 1,
+      "unlocktime": 1774754993,
+      "name": "Giver of Gifts",
+      "description": "Make your first donation of weapons, equipment, etc."
+    },
+    {
+      "apiname": "033",
+      "achieved": 1,
+      "unlocktime": 1774063773,
+      "name": "Chiral Crafter",
+      "description": ""
+    },
+    {
+      "apiname": "034",
+      "achieved": 1,
+      "unlocktime": 1774068851,
+      "name": "A Thirst for Knowledge",
+      "description": ""
+    },
+    {
+      "apiname": "035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fount of Knowledge",
+      "description": ""
+    },
+    {
+      "apiname": "036",
+      "achieved": 1,
+      "unlocktime": 1774063640,
+      "name": "The Custom Kid",
+      "description": ""
+    },
+    {
+      "apiname": "037",
+      "achieved": 1,
+      "unlocktime": 1774406815,
+      "name": "Soak and Sigh",
+      "description": ""
+    },
+    {
+      "apiname": "038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Post Guides the Present",
+      "description": "Read 100 mails."
+    },
+    {
+      "apiname": "039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Past Guides the Present",
+      "description": "Read 100 interviews."
+    },
+    {
+      "apiname": "040",
+      "achieved": 1,
+      "unlocktime": 1774241100,
+      "name": "Pathfinder",
+      "description": "Help porters through a MULE or terrorist area for the first time."
+    },
+    {
+      "apiname": "041",
+      "achieved": 1,
+      "unlocktime": 1774844778,
+      "name": "Childminder",
+      "description": "Reach maximum connection level with BB."
+    },
+    {
+      "apiname": "042",
+      "achieved": 1,
+      "unlocktime": 1774059071,
+      "name": "A Baby Blessing",
+      "description": "Get a Like from BB."
+    },
+    {
+      "apiname": "043",
+      "achieved": 1,
+      "unlocktime": 1774063834,
+      "name": "Prominent Porter",
+      "description": "Reach Grade 10 in any delivery evaluation category."
+    },
+    {
+      "apiname": "044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Deliverer",
+      "description": ""
+    },
+    {
+      "apiname": "045",
+      "achieved": 1,
+      "unlocktime": 1774155269,
+      "name": "Catcher Crusher",
+      "description": "Defeat a Catcher."
+    },
+    {
+      "apiname": "046",
+      "achieved": 1,
+      "unlocktime": 1774061745,
+      "name": "Snooze 'n' Soothe",
+      "description": "Heal by sleeping for the first time."
+    },
+    {
+      "apiname": "047",
+      "achieved": 1,
+      "unlocktime": 1774072691,
+      "name": "Boots Are a Porter's Best Friend",
+      "description": "Change footwear for the first time."
+    },
+    {
+      "apiname": "048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hooked on Delivering!?",
+      "description": "Deliver 700 items of cargo."
+    },
+    {
+      "apiname": "049",
+      "achieved": 1,
+      "unlocktime": 1774754696,
+      "name": "Pumped Porter",
+      "description": "Deliver 3,000 kg of cargo."
+    },
+    {
+      "apiname": "050",
+      "achieved": 1,
+      "unlocktime": 1774335212,
+      "name": "Well-Traveled",
+      "description": "Travel 80 km and complete an order."
+    },
+    {
+      "apiname": "051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God Particle Go-Getter",
+      "description": ""
+    },
+    {
+      "apiname": "052",
+      "achieved": 1,
+      "unlocktime": 1774760576,
+      "name": "Rest In Pieces",
+      "description": "In a BT area, cut an umbilical cord for the first time without the BT noticing."
+    },
+    {
+      "apiname": "053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Any Porter in a Storm",
+      "description": ""
+    },
+    {
+      "apiname": "054",
+      "achieved": 1,
+      "unlocktime": 1774697253,
+      "name": "Sleep Tight, Little BB",
+      "description": "Soothe a crying BB and stop the crying for the first time."
+    },
+    {
+      "apiname": "055",
+      "achieved": 1,
+      "unlocktime": 1774066530,
+      "name": "A Shout in the Dark",
+      "description": "Send a shout out and have it returned for the first time."
+    },
+    {
+      "apiname": "056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Public Service Porter",
+      "description": "Dispose of chiralium-contaminated cargo in the crater lake for the first time."
+    },
+    {
+      "apiname": "057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trail-Blazer",
+      "description": "Upgrade all types of structure to the maximum level."
+    },
+    {
+      "apiname": "058",
+      "achieved": 1,
+      "unlocktime": 1774240139,
+      "name": "I Couldn't Hold it In!",
+      "description": ""
+    },
+    {
+      "apiname": "059",
+      "achieved": 1,
+      "unlocktime": 1774320064,
+      "name": "All Roads Lead to the UCA",
+      "description": "Complete your first road."
+    },
+    {
+      "apiname": "060",
+      "achieved": 1,
+      "unlocktime": 1774061214,
+      "name": "Soothing Sounds",
+      "description": ""
+    },
+    {
+      "apiname": "061",
+      "achieved": 1,
+      "unlocktime": 1774066647,
+      "name": "Building Bridges",
+      "description": "Reach Bridge Link Grade 1."
+    },
+    {
+      "apiname": "062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homo Faber",
+      "description": "Fabricate all available weapons and equipment."
+    }
+  ]
+}

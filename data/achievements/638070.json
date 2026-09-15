@@ -1,0 +1,1026 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 638070,
+  "game": "Murderous Pursuits",
+  "total": 145,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:18.863372+00:00",
+  "achievements": [
+    {
+      "apiname": "WIN_GAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking The Egg",
+      "description": "Win a game"
+    },
+    {
+      "apiname": "WIN_GAME_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilamalink",
+      "description": "Win 100 games"
+    },
+    {
+      "apiname": "WIN_GAME_NODEATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back Slang It!",
+      "description": "Win a game without being killed"
+    },
+    {
+      "apiname": "KILL_QUARRY_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Batty-Fang",
+      "description": "Kill 25 Quarries"
+    },
+    {
+      "apiname": "KILL_QUARRY_250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out on a benjo",
+      "description": "Kill 250 Quarries"
+    },
+    {
+      "apiname": "KILL_QUARRY_2500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead As A Doornail",
+      "description": "Kill 1000 Quarries"
+    },
+    {
+      "apiname": "KILL_QUARRY_MAXBONUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butter Upon Bacon",
+      "description": "Kill a Quarry with a five star weapon and gain all bonuses"
+    },
+    {
+      "apiname": "KILL_HUNTER_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chucked Up Their Bunch O'Fives",
+      "description": "Stun 25 Hunters"
+    },
+    {
+      "apiname": "KILL_HUNTER_250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Proper Argol-Bargol",
+      "description": "Stun 250 Hunters"
+    },
+    {
+      "apiname": "KILL_HUNTER_2500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Right Ol'Collie Shangle",
+      "description": "Stun 1000 Hunters"
+    },
+    {
+      "apiname": "ABILITY_COUNTER_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Afternoonified For Them",
+      "description": "Counter 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "ABILITY_FLASH_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arf'Arf'An'Arf",
+      "description": "Flash 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "ABILITY_HUMILIATE_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Poked Up",
+      "description": "Humiliate 100 Quarries"
+    },
+    {
+      "apiname": "ABILITY_DISGUISE_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Phantom Of Whitechapel",
+      "description": "Kill 100 Quarries or Hunters while disguised"
+    },
+    {
+      "apiname": "ABILITY_REVEAL_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Sell Me The Dog",
+      "description": "Reveal 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "WIN_GAME_ALLARCHETYPES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bang Up The Elephant",
+      "description": "Win a game with each character"
+    },
+    {
+      "apiname": "ABILITY_HUMILIATE_NEARBYHUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bricky",
+      "description": "Humiliate a Quarry while a Hunter is nearby"
+    },
+    {
+      "apiname": "ABILITY_COUNTER_NEARBYGUARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blind-Eyed Mutton Shunter",
+      "description": "Kill a Quarry or stun a Hunter while a nearby guard is distracted"
+    },
+    {
+      "apiname": "KILL_QUARRY_REVEALED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elementary My Dear",
+      "description": "Reveal and kill a Quarry"
+    },
+    {
+      "apiname": "VIGNETTE_EAT_1897",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pies Of Fleet Street",
+      "description": "Eat 1897 pies"
+    },
+    {
+      "apiname": "FAVOUR_ADMIRAL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maverick",
+      "description": "Earn 100 Favour as the Admiral"
+    },
+    {
+      "apiname": "FAVOUR_ADMIRAL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wellington",
+      "description": "Earn 250 Favour as the Admiral"
+    },
+    {
+      "apiname": "FAVOUR_ADMIRAL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen's Guard",
+      "description": "Earn 500 Favour as the Admiral"
+    },
+    {
+      "apiname": "FAVOUR_ASSASSIN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sea Breeze",
+      "description": "Earn 100 Favour as the Assassin"
+    },
+    {
+      "apiname": "FAVOUR_ASSASSIN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cherry Blossom",
+      "description": "Earn 250 Favour as the Assassin"
+    },
+    {
+      "apiname": "FAVOUR_ASSASSIN_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Midnight",
+      "description": "Earn 500 Favour as the Assassin"
+    },
+    {
+      "apiname": "FAVOUR_BRUTE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Star",
+      "description": "Earn 100 Favour as the Brute"
+    },
+    {
+      "apiname": "FAVOUR_BRUTE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Sickle",
+      "description": "Earn 250 Favour as the Brute"
+    },
+    {
+      "apiname": "FAVOUR_BRUTE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Motherland",
+      "description": "Earn 500 Favour as the Brute"
+    },
+    {
+      "apiname": "FAVOUR_DODGER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barrow",
+      "description": "Earn 100 Favour as the Dodger"
+    },
+    {
+      "apiname": "FAVOUR_DODGER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soot",
+      "description": "Earn 250 Favour as the Dodger"
+    },
+    {
+      "apiname": "FAVOUR_DODGER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coal",
+      "description": "Earn 500 Favour as the Dodger"
+    },
+    {
+      "apiname": "FAVOUR_DOXY_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daffodil",
+      "description": "Earn 100 Favour as the Doxy"
+    },
+    {
+      "apiname": "FAVOUR_DOXY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lavender",
+      "description": "Earn 250 Favour as the Doxy"
+    },
+    {
+      "apiname": "FAVOUR_DOXY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clover",
+      "description": "Earn 500 Favour as the Doxy"
+    },
+    {
+      "apiname": "FAVOUR_DUCHESS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thistle",
+      "description": "Earn 100 Favour as the Duchess"
+    },
+    {
+      "apiname": "FAVOUR_DUCHESS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Munro",
+      "description": "Earn 250 Favour as the Duchess"
+    },
+    {
+      "apiname": "FAVOUR_DUCHESS_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heather",
+      "description": "Earn 500 Favour as the Duchess"
+    },
+    {
+      "apiname": "FAVOUR_PRINCE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruby",
+      "description": "Earn 100 Favour as the Prince"
+    },
+    {
+      "apiname": "FAVOUR_PRINCE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Topaz",
+      "description": "Earn 250 Favour as the Prince"
+    },
+    {
+      "apiname": "FAVOUR_PRINCE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Onyx",
+      "description": "Earn 500 Favour as the Prince"
+    },
+    {
+      "apiname": "FAVOUR_TRACKER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marsh",
+      "description": "Earn 100 Favour as the Tracker"
+    },
+    {
+      "apiname": "FAVOUR_TRACKER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest",
+      "description": "Earn 250 Favour as the Tracker"
+    },
+    {
+      "apiname": "FAVOUR_TRACKER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain",
+      "description": "Earn 500 Favour as the Tracker"
+    },
+    {
+      "apiname": "PURCHASED_DELUXE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DeluXe Edition",
+      "description": "Purchase the Mr. X edition"
+    },
+    {
+      "apiname": "LEVEL_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 10",
+      "description": "Reach level 10"
+    },
+    {
+      "apiname": "LEVEL_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 25",
+      "description": "Reach level 25"
+    },
+    {
+      "apiname": "LEVEL_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 50",
+      "description": "Reach level 50"
+    },
+    {
+      "apiname": "LEVEL_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 100",
+      "description": "Reach level 100"
+    },
+    {
+      "apiname": "LEVEL_250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 250",
+      "description": "Reach level 250"
+    },
+    {
+      "apiname": "FAVOUR_ADMIRAL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coffyn",
+      "description": "Earn 750 Favour as the Admiral"
+    },
+    {
+      "apiname": "FAVOUR_ASSASSIN_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kitsune",
+      "description": "Earn 750 Favour as the Assassin"
+    },
+    {
+      "apiname": "FAVOUR_BRUTE_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Katorga",
+      "description": "Earn 750 Favour as the Brute"
+    },
+    {
+      "apiname": "FAVOUR_DODGER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hustler",
+      "description": "Earn 750 Favour as the Dodger"
+    },
+    {
+      "apiname": "FAVOUR_DOXY_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lovett",
+      "description": "Earn 750 Favour as the Doxy"
+    },
+    {
+      "apiname": "FAVOUR_DUCHESS_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stewart",
+      "description": "Earn 750 Favour as the Duchess"
+    },
+    {
+      "apiname": "FAVOUR_PRINCE_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger",
+      "description": "Earn 750 Favour as the Prince"
+    },
+    {
+      "apiname": "FAVOUR_TRACKER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Game",
+      "description": "Earn 750 Favour as the Tracker"
+    },
+    {
+      "apiname": "WIN_ADMIRAL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Up Ye",
+      "description": "Win 10 games as the Admiral or Privateer"
+    },
+    {
+      "apiname": "WIN_ASSASSIN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dance",
+      "description": "Win 10 games as the Assassin or Gokudo."
+    },
+    {
+      "apiname": "WIN_BRUTE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thoughtful",
+      "description": "Win 10 games as the Brute or Moujik"
+    },
+    {
+      "apiname": "WIN_DODGER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ey Up",
+      "description": "Win 10 games as the Dodger or Gentleman."
+    },
+    {
+      "apiname": "WIN_DOXY_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curtsy",
+      "description": "Win 10 games as the Doxy or Soothsayer"
+    },
+    {
+      "apiname": "WIN_DUCHESS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crabbit",
+      "description": "Win 10 games as the Duchess or Widow."
+    },
+    {
+      "apiname": "WIN_PRINCE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow",
+      "description": "Win 10 games as the Prince or Adventurer."
+    },
+    {
+      "apiname": "WIN_TRACKER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Win 10 games as the Tracker or Saurian Hunter"
+    },
+    {
+      "apiname": "RANK_INITIATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Initiate",
+      "description": "Reach the Kairos Rank of Initiate"
+    },
+    {
+      "apiname": "RANK_DISCIPLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disciple",
+      "description": "Reach the Kairos Rank of Disciple"
+    },
+    {
+      "apiname": "RANK_ACOLYTE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acolyte",
+      "description": "Reach the Kairos Rank of Acolyte"
+    },
+    {
+      "apiname": "RANK_CHOSEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chosen",
+      "description": "Reach the Kairos Rank of Chosen"
+    },
+    {
+      "apiname": "RANK_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "Reach the Kairos Rank of Master"
+    },
+    {
+      "apiname": "RANK_GRANDMASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Master",
+      "description": "Reach the Kairos Rank of Grand Master"
+    },
+    {
+      "apiname": "WIN_ADMIRAL_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marine",
+      "description": "Win 5 games as the Admiral or Privateer"
+    },
+    {
+      "apiname": "WIN_ASSASSIN_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Koi",
+      "description": "Win 5 games as the Assassin or Gokudo."
+    },
+    {
+      "apiname": "WIN_BRUTE_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proletarian",
+      "description": "Win 5 games as the Brute or Moujik"
+    },
+    {
+      "apiname": "WIN_DODGER_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mudlark",
+      "description": "Win 5 games as the Dodger or Gentleman."
+    },
+    {
+      "apiname": "WIN_DOXY_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rose",
+      "description": "Win 5 games as the Doxy or Soothsayer"
+    },
+    {
+      "apiname": "WIN_DUCHESS_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glen",
+      "description": "Win 5 games as the Duchess or Widow."
+    },
+    {
+      "apiname": "WIN_PRINCE_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jade",
+      "description": "Win 5 games as the Prince or Adventurer."
+    },
+    {
+      "apiname": "WIN_TRACKER_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savannah",
+      "description": "Win 5 games as the Tracker or Saurian Hunter"
+    },
+    {
+      "apiname": "WIN_ADMIRAL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sea Wolf",
+      "description": "Win 25 games as the Admiral or Privateer"
+    },
+    {
+      "apiname": "WIN_ASSASSIN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Katana",
+      "description": "Win 25 games as the Assassin or Gokudo."
+    },
+    {
+      "apiname": "WIN_BRUTE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squat",
+      "description": "Win 25 games as the Brute or Moujik"
+    },
+    {
+      "apiname": "WIN_DODGER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heel Click",
+      "description": "Win 25 games as the Dodger or Gentleman."
+    },
+    {
+      "apiname": "WIN_DOXY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mwah",
+      "description": "Win 25 games as the Doxy or Soothsayer"
+    },
+    {
+      "apiname": "WIN_DUCHESS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Afternoon Tea",
+      "description": "Win 25 games as the Duchess or Widow."
+    },
+    {
+      "apiname": "WIN_PRINCE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sword Dance",
+      "description": "Win 25 games as the Prince or Adventurer."
+    },
+    {
+      "apiname": "WIN_TRACKER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tracking",
+      "description": "Win 25 games as the Tracker or Saurian Hunter"
+    },
+    {
+      "apiname": "ABILITY_DISRUPT_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flabberdegaz",
+      "description": "Disrupt 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "FAVOUR_BRUTE_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medved",
+      "description": "Earn 1000 Favour as the Brute"
+    },
+    {
+      "apiname": "FAVOUR_DOXY_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortune",
+      "description": "Earn 1000 Favour as the Doxy"
+    },
+    {
+      "apiname": "FAVOUR_MOUJIK_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seraya Gora",
+      "description": "Earn 250 Favour as the Moujik"
+    },
+    {
+      "apiname": "FAVOUR_MOUJIK_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Osen",
+      "description": "Earn 500 Favour as the Moujik"
+    },
+    {
+      "apiname": "FAVOUR_MOUJIK_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zelenyy Les",
+      "description": "Earn 750 Favour as the Moujik"
+    },
+    {
+      "apiname": "FAVOUR_SOOTHSAYER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riverside",
+      "description": "Earn 250 Favour as the Soothsayer"
+    },
+    {
+      "apiname": "FAVOUR_SOOTHSAYER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Autumnal",
+      "description": "Earn 500 Favour as the Soothsayer"
+    },
+    {
+      "apiname": "FAVOUR_SOOTHSAYER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moonlight",
+      "description": "Earn 750 Favour as the Soothsayer"
+    },
+    {
+      "apiname": "ABILITY_SUBVERT_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dash Yer Wig",
+      "description": "Subvert 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "PIEBOMB_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meater",
+      "description": "Use the pie bomb on 100 Quarries or Hunters"
+    },
+    {
+      "apiname": "FAVOUR_ADMIRAL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tortuga",
+      "description": "Earn 1000 Favour as the Admiral"
+    },
+    {
+      "apiname": "FAVOUR_TRACKER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mesozoic",
+      "description": "Earn 1000 Favour as the Tracker"
+    },
+    {
+      "apiname": "FAVOUR_PRIVATEER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nassau",
+      "description": "Earn 250 Favour as the Privateer"
+    },
+    {
+      "apiname": "FAVOUR_PRIVATEER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sainte Marie",
+      "description": "Earn 500 Favour as the Privateer"
+    },
+    {
+      "apiname": "FAVOUR_PRIVATEER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Port Royal",
+      "description": "Earn 750 Favour as the Privateer"
+    },
+    {
+      "apiname": "FAVOUR_SAURIANHUNTER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triassic",
+      "description": "Earn 250 Favour as the Saurian Hunter"
+    },
+    {
+      "apiname": "FAVOUR_SAURIANHUNTER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jurassic",
+      "description": "Earn 500 Favour as the Saurian Hunter"
+    },
+    {
+      "apiname": "FAVOUR_SAURIANHUNTER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cretaceous",
+      "description": "Earn 750 Favour as the Saurian Hunter"
+    },
+    {
+      "apiname": "FAVOUR_DODGER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thames",
+      "description": "Earn 1000 Favour as the Dodger"
+    },
+    {
+      "apiname": "FAVOUR_GENTLEMAN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buckingham",
+      "description": "Earn 250 Favour as the Gentleman"
+    },
+    {
+      "apiname": "FAVOUR_GENTLEMAN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hyde",
+      "description": "Earn 500 Favour as the Gentleman"
+    },
+    {
+      "apiname": "FAVOUR_GENTLEMAN_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Westminster",
+      "description": "Earn 750 Favour as the Gentleman"
+    },
+    {
+      "apiname": "FAVOUR_ASSASSIN_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ka",
+      "description": "Earn 1000 Favour as the Assassin"
+    },
+    {
+      "apiname": "FAVOUR_GOKUDO_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mizu",
+      "description": "Earn 250 Favour as the Gokudo"
+    },
+    {
+      "apiname": "FAVOUR_GOKUDO_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tsuchi",
+      "description": "Earn 500 Favour as the Gokudo"
+    },
+    {
+      "apiname": "FAVOUR_GOKUDO_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sora",
+      "description": "Earn 750 Favour as the Gokudo"
+    },
+    {
+      "apiname": "FAVOUR_DUCHESS_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sable",
+      "description": "Earn 1000 Favour as the Duchess"
+    },
+    {
+      "apiname": "FAVOUR_BLACKWIDOW_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarlet",
+      "description": "Earn 250 Favour as the Black Widow"
+    },
+    {
+      "apiname": "FAVOUR_BLACKWIDOW_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal",
+      "description": "Earn 500 Favour as the Black Widow"
+    },
+    {
+      "apiname": "FAVOUR_BLACKWIDOW_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ivory",
+      "description": "Earn 750 Favour as the Black Widow"
+    },
+    {
+      "apiname": "FAVOUR_PRINCE_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shanhai",
+      "description": "Earn 1000 Favour as the Prince"
+    },
+    {
+      "apiname": "FAVOUR_ADVENTURER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delphi",
+      "description": "Earn 250 Favour as the Adventurer"
+    },
+    {
+      "apiname": "FAVOUR_ADVENTURER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Petra",
+      "description": "Earn 500 Favour as the Adventurer"
+    },
+    {
+      "apiname": "FAVOUR_ADVENTURER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pompeii",
+      "description": "Earn 750 Favour as the Adventurer"
+    },
+    {
+      "apiname": "WIN_GAME_NOSTUNS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Such Nanty Narking",
+      "description": "Win a game without being stunned"
+    },
+    {
+      "apiname": "WIN_GAME_NOEXPOSED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Social E",
+      "description": "Win a game without being exposed"
+    },
+    {
+      "apiname": "FAVOUR_GAME_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Windfall",
+      "description": "Earn 100 favour in a single game"
+    },
+    {
+      "apiname": "KILL_QUARRY_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ripper",
+      "description": "Kill 10 Quarries in a single game"
+    },
+    {
+      "apiname": "KILL_QUARRY_STUN_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Draw",
+      "description": "Kill a Quarry and Stun a hunter within 3 seconds of each other"
+    },
+    {
+      "apiname": "KILL_STUN_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Floozy",
+      "description": "Kill or stun all other players in a game"
+    },
+    {
+      "apiname": "WIN_10_PERK_UNDERDOG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underdog",
+      "description": "Win 10 games with no perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_SCAVENGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scavenger",
+      "description": "Win 10 games with the Scavenger perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_CHAMELEON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chameleon",
+      "description": "Win 10 games with the Chameleon perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_INCOGNITO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incognito",
+      "description": "Win 10 games with the Incognito perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_RESOURCEFUL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resourceful",
+      "description": "Win 10 games with the Resourceful perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_DETERMINED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Determined",
+      "description": "Win 10 games with the Determined perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_GAMBLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gambler",
+      "description": "Win 10 games with the Gambler perk equipped"
+    },
+    {
+      "apiname": "WIN_10_PERK_NIMBLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nimble",
+      "description": "Win 10 games with the Nimble perk equipped"
+    },
+    {
+      "apiname": "WIN_GAME_HUNT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Win 25 games of Hunt"
+    },
+    {
+      "apiname": "WIN_GAME_DEATHMATCH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer",
+      "description": "Win 25 games of Deathmatch"
+    },
+    {
+      "apiname": "WIN_GAME_ELIMINATION_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor",
+      "description": "Win 25 games of Elimination"
+    },
+    {
+      "apiname": "WIN_ALL_LEVELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traveler",
+      "description": "Win a game in each of the levels aboard the H.M.S Britannic"
+    },
+    {
+      "apiname": "FAVOUR_TOTAL_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basher",
+      "description": "Earn a total of 10000 favour"
+    },
+    {
+      "apiname": "FLASH_QUARRY_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fifteen Puzzle",
+      "description": "Flash a Quarry and Hunter at the same time "
+    },
+    {
+      "apiname": "ABILITY_DISGUISE_NEARBYQUARRYHUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kruger-Spoof",
+      "description": "Use disguise while a Quarry and Hunter is nearby"
+    },
+    {
+      "apiname": "CALLING_CARDS_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Collect 25 Calling Cards"
+    }
+  ]
+}

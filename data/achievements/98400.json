@@ -1,0 +1,816 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 98400,
+  "game": "Hard Reset",
+  "total": 115,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:36.094860+00:00",
+  "achievements": [
+    {
+      "apiname": "GAME_FINISHED_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sergeant",
+      "description": "Complete all Bezoar levels on difficulty Normal or higher"
+    },
+    {
+      "apiname": "LEVEL_NO_DEATH_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resistant",
+      "description": "Complete any other level than the first one with no deaths on difficulty Normal"
+    },
+    {
+      "apiname": "LEVEL_UP_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookie",
+      "description": "Collect 10 full N.A.N.O. bars"
+    },
+    {
+      "apiname": "KILL_COUNT_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Boy",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "KILL_BY_ENV_COUNT_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge",
+      "description": "Kill 20 enemies using environmental damage only"
+    },
+    {
+      "apiname": "DESTRO_COUNT_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naughty",
+      "description": "Destroy 50 destructible items"
+    },
+    {
+      "apiname": "DESTRO_TEMPLATE_barrel_battery_01_big_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromaniac",
+      "description": "Blow up 50 explosive barrels"
+    },
+    {
+      "apiname": "SECRETS_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perceptive",
+      "description": "Find 5 secrets"
+    },
+    {
+      "apiname": "ALL_UPGRADES_BOUGHT_kin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer",
+      "description": "Buy all CLN Firearm Upgrades"
+    },
+    {
+      "apiname": "ALL_UPGRADES_BOUGHT_el",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electrician",
+      "description": "Buy all N.R.G. Weapon Upgrades"
+    },
+    {
+      "apiname": "ALL_UPGRADES_BOUGHT_misc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armoured",
+      "description": "Buy all Combat Gear Upgrades"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_999999_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient (Tier: Easy)",
+      "description": "Kill a Heavy Grenadier on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_999999_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient (Tier: Normal)",
+      "description": "Kill a Heavy Grenadier on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_999999_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient (Tier: Hard)",
+      "description": "Kill a Heavy Grenadier on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_999999_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient (Tier: Insane)",
+      "description": "Kill a Heavy Grenadier on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_10_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pissed Off (Tier: Easy)",
+      "description": "Kill 10 enemies within 10 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_10_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pissed Off (Tier: Normal)",
+      "description": "Kill 10 enemies within 10 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_10_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pissed Off (Tier: Hard)",
+      "description": "Kill 10 enemies within 10 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_10_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pissed Off (Tier: Insane)",
+      "description": "Kill 10 enemies within 10 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME__5_0_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retirement (Tier: Easy)",
+      "description": "Kill 5 enemies with one shot on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__5_0_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retirement (Tier: Normal)",
+      "description": "Kill 5 enemies with one shot on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__5_0_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retirement (Tier: Hard)",
+      "description": "Kill 5 enemies with one shot on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__5_0_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retirement (Tier: Insane)",
+      "description": "Kill 5 enemies with one shot on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_1_5_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monkey Business (Tier: Easy)",
+      "description": "Kill a Gorilla within 5 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_1_5_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monkey Business (Tier: Normal)",
+      "description": "Kill a Gorilla within 5 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_1_5_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monkey Business (Tier: Hard)",
+      "description": "Kill a Gorilla within 5 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_1_5_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monkey Business (Tier: Insane)",
+      "description": "Kill a Gorilla within 5 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "GAME_FINISHED_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonel",
+      "description": "Complete all Bezoar levels on difficulty Hard or higher"
+    },
+    {
+      "apiname": "LEVEL_NO_DEATH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immune",
+      "description": "Complete any other level than the first one with no deaths on difficulty Hard"
+    },
+    {
+      "apiname": "LEVEL_UP_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran",
+      "description": "Collect 20 full N.A.N.O. bars"
+    },
+    {
+      "apiname": "KILL_COUNT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer",
+      "description": "Kill 1000 enemies"
+    },
+    {
+      "apiname": "KILL_BY_ENV_COUNT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retaliation",
+      "description": "Kill 200 enemies using environmental damage only"
+    },
+    {
+      "apiname": "DESTRO_COUNT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hooligan",
+      "description": "Destroy 500 destructible items"
+    },
+    {
+      "apiname": "SECRETS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Searcher",
+      "description": "Find 25 secrets"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_15_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furious (Tier: Easy)",
+      "description": "Kill 20 enemies within 15 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_15_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furious (Tier: Normal)",
+      "description": "Kill 20 enemies within 15 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_15_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furious (Tier: Hard)",
+      "description": "Kill 20 enemies within 15 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_15_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furious (Tier: Insane)",
+      "description": "Kill 20 enemies within 15 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_0_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill (Tier: Easy)",
+      "description": "Kill 10 enemies with one shot on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_0_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill (Tier: Normal)",
+      "description": "Kill 10 enemies with one shot on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_0_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill (Tier: Hard)",
+      "description": "Kill 10 enemies with one shot on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__10_0_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill (Tier: Insane)",
+      "description": "Kill 10 enemies with one shot on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_2_20_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bananas Today (Tier: Easy)",
+      "description": "Kill 2 Gorillas within 20 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_2_20_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bananas Today (Tier: Normal)",
+      "description": "Kill 2 Gorillas within 20 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_2_20_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bananas Today (Tier: Hard)",
+      "description": "Kill 2 Gorillas within 20 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_melee_2_20_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bananas Today (Tier: Insane)",
+      "description": "Kill 2 Gorillas within 20 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "BOSS_cauldron_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanic (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_cauldron_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanic (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_cauldron_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanic (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_cauldron_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanic (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "GAME_FINISHED_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General",
+      "description": "Complete all Bezoar levels on difficulty Insane"
+    },
+    {
+      "apiname": "LEVEL_NO_DEATH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immortal",
+      "description": "Complete any other level than the first one with no deaths on difficulty Insane"
+    },
+    {
+      "apiname": "LEVEL_UP_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite",
+      "description": "Collect 41 full N.A.N.O. bars"
+    },
+    {
+      "apiname": "KILL_COUNT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Incarnate",
+      "description": "Kill 10000 enemies"
+    },
+    {
+      "apiname": "KILL_BY_ENV_COUNT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Avenging Angel",
+      "description": "Kill 2000 enemies using environmental damage only"
+    },
+    {
+      "apiname": "DESTRO_COUNT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vandal",
+      "description": "Destroy 5000 destructible items"
+    },
+    {
+      "apiname": "SECRETS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Find all the secrets in Bezoar"
+    },
+    {
+      "apiname": "KILL_IN_TIME__30_20_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enraged (Tier: Easy)",
+      "description": "Kill 30 enemies within 20 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__30_20_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enraged (Tier: Normal)",
+      "description": "Kill 30 enemies within 20 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__30_20_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enraged (Tier: Hard)",
+      "description": "Kill 30 enemies within 20 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__30_20_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enraged (Tier: Insane)",
+      "description": "Kill 30 enemies within 20 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_0_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extermination (Tier: Easy)",
+      "description": "Kill 20 enemies with one shot on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_0_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extermination (Tier: Normal)",
+      "description": "Kill 20 enemies with one shot on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_0_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extermination (Tier: Hard)",
+      "description": "Kill 20 enemies with one shot on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME__20_0_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extermination (Tier: Insane)",
+      "description": "Kill 20 enemies with one shot on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_30_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boredom No More (Tier: Easy)",
+      "description": "Kill a Heavy Grenadier within 30 seconds on difficulty Easy or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_30_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boredom No More (Tier: Normal)",
+      "description": "Kill a Heavy Grenadier within 30 seconds on difficulty Normal or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_30_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boredom No More (Tier: Hard)",
+      "description": "Kill a Heavy Grenadier within 30 seconds on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_gorilla_grenadier_1_30_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boredom No More (Tier: Insane)",
+      "description": "Kill a Heavy Grenadier within 30 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "BOSS_atlas_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Down (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_atlas_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Down (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_atlas_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Down (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_atlas_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Down (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_schrimp_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suicide Mission (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_schrimp_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suicide Mission (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_schrimp_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suicide Mission (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_schrimp_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suicide Mission (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "DESTRO_TEMPLATE_cctv_destro_cam_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Brother's Eyes",
+      "description": ""
+    },
+    {
+      "apiname": "DESTRO_TEMPLATE_zep_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hawk Eye",
+      "description": ""
+    },
+    {
+      "apiname": "ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chinese Farmer",
+      "description": ""
+    },
+    {
+      "apiname": "SPECIAL_KILL_BY_ELECTRICITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blizzard (Special)",
+      "description": "Kill 50 enemies with electricity only"
+    },
+    {
+      "apiname": "GAME_FINISHED_dlc1_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Wanderer",
+      "description": "Complete all Barrens levels on difficulty Normal or higher"
+    },
+    {
+      "apiname": "DESTRO_TEMPLATE_emp_barrel_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Shock'em!",
+      "description": "Blow up 30 fussion cells"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_999999_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Pest Control (Tier: Easy)",
+      "description": "Kill a Heavy Scarab on difficulty Easy"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_999999_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Pest Control (Tier: Normal)",
+      "description": "Kill a Heavy Scarab on difficulty Normal"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_999999_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Pest Control (Tier: Hard)",
+      "description": "Kill a Heavy Scarab on difficulty Hard"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_999999_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Pest Control (Tier: Insane)",
+      "description": "Kill a Heavy Scarab on difficulty Insane"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_1_5_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Fugitive (Tier: Easy)",
+      "description": "Destroy a CLN Gunship within 5 seconds on difficulty Easy"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_1_5_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Fugitive (Tier: Normal)",
+      "description": "Destroy a CLN Gunship within 5 seconds on difficulty Normal"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_1_5_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Fugitive (Tier: Hard)",
+      "description": "Destroy a CLN Gunship within 5 seconds on difficulty Hard"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_1_5_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Fugitive (Tier: Insane)",
+      "description": "Destroy a CLN Gunship within 5 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "GAME_FINISHED_dlc1_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Discoverer",
+      "description": "Complete all Barrens levels on difficulty Hard or higher"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_2_20_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Cop Killer (Tier: Easy)",
+      "description": "Destroy 2 CLN Gunships within 20 seconds on difficulty Easy"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_2_20_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Cop Killer (Tier: Normal)",
+      "description": "Destroy 2 CLN Gunships within 20 seconds on difficulty Normal"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_2_20_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Cop Killer (Tier: Hard)",
+      "description": "Destroy 2 CLN Gunships within 20 seconds on difficulty Hard"
+    },
+    {
+      "apiname": "KILL_IN_TIME_police_gunship_2_20_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Cop Killer (Tier: Insane)",
+      "description": "Destroy 2 CLN Gunships within 20 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "CUSTOM_SUCKER_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Sucker! (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_SUCKER_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Sucker! (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_SUCKER_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Sucker! (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_SUCKER_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Sucker! (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "GAME_FINISHED_dlc1_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Conqueror",
+      "description": "Complete all Barrens levels on difficulty Insane"
+    },
+    {
+      "apiname": "SECRETS_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Millionaire",
+      "description": "Find all the secrets in Barrens"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_20_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Bug Splatter (Tier: Easy)",
+      "description": "Kill a Heavy Scarab within 20 seconds on difficulty Easy"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_20_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Bug Splatter (Tier: Normal)",
+      "description": "Kill a Heavy Scarab within 20 seconds on difficulty Normal"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_20_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Bug Splatter (Tier: Hard)",
+      "description": "Kill a Heavy Scarab within 20 seconds on difficulty Hard"
+    },
+    {
+      "apiname": "KILL_IN_TIME_scarab_heavy_1_20_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Bug Splatter (Tier: Insane)",
+      "description": "Kill a Heavy Scarab within 20 seconds on difficulty Insane"
+    },
+    {
+      "apiname": "BOSS_jet_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Deconstruction (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_jet_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Deconstruction (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_jet_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Deconstruction (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "BOSS_jet_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Deconstruction (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_PRESS_tier0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Crush'em! (Tier: Easy)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_PRESS_tier1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Crush'em! (Tier: Normal)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_PRESS_tier2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Crush'em! (Tier: Hard)",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_PRESS_tier3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Crush'em! (Tier: Insane)",
+      "description": ""
+    },
+    {
+      "apiname": "GAME_FINISHED_dlc1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exile: Achilles",
+      "description": "Complete all Bezoar and Barrens levels on Heroic mode"
+    }
+  ]
+}

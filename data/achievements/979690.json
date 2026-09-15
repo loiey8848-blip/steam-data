@@ -1,0 +1,473 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 979690,
+  "game": "The Ascent",
+  "total": 66,
+  "unlocked": 9,
+  "percent": 13.6,
+  "updated_at_utc": "2026-09-15T06:51:07.376097+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRST_ENEMY_KILL",
+      "achieved": 1,
+      "unlocktime": 1786217813,
+      "name": "We're just getting started",
+      "description": "First enemy kill"
+    },
+    {
+      "apiname": "DIE_100_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suicidal",
+      "description": "Die more than 100 times"
+    },
+    {
+      "apiname": "RESET_PROFICIENCIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do Over",
+      "description": "Reset your proficiencies once"
+    },
+    {
+      "apiname": "SELL_SOMETHING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fair trade",
+      "description": "Sell Something"
+    },
+    {
+      "apiname": "KILLED_BY_KATANA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sashimi",
+      "description": "Get killed by a katana"
+    },
+    {
+      "apiname": "REVIVE_FRIEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helping hand",
+      "description": "Revive a DBNO friend"
+    },
+    {
+      "apiname": "MAIN_MISSION_01",
+      "achieved": 1,
+      "unlocktime": 1786219401,
+      "name": "What just happened?",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_02",
+      "achieved": 1,
+      "unlocktime": 1786449065,
+      "name": "Party crashed",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A new friend",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Hungry",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Data Digging",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mnemonic Hunt",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone's a smuggler",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magenta Power",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing personal",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Severed Board",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protocol 61A",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Something out there",
+      "description": ""
+    },
+    {
+      "apiname": "MAIN_MISSION_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Win",
+      "description": ""
+    },
+    {
+      "apiname": "IMP_UPGRADE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Next level AI",
+      "description": ""
+    },
+    {
+      "apiname": "PRAISE_FROM_KIRA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Appreciation",
+      "description": ""
+    },
+    {
+      "apiname": "ENEMY_DROP_GRENADE",
+      "achieved": 1,
+      "unlocktime": 1786448753,
+      "name": "Drop your weapon!",
+      "description": "Make an enemy drop an exploding grenade"
+    },
+    {
+      "apiname": "EQUIP_AUGS_AND_MODULE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Added extras",
+      "description": "Equip two augmentations and a module"
+    },
+    {
+      "apiname": "FULLCHROME_APPEARANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fullchrome",
+      "description": "Equip augmentations and upgrade attributes resulting in the fullchrome appearance"
+    },
+    {
+      "apiname": "SPEND_PROFICIENCY_POINTS",
+      "achieved": 1,
+      "unlocktime": 1786219205,
+      "name": "Self improvement",
+      "description": "Allocate 3 proficiency points"
+    },
+    {
+      "apiname": "COOP_SESSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork",
+      "description": "Start your first co-op session"
+    },
+    {
+      "apiname": "FULLY_UPGRADE_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aficionado",
+      "description": "Fully upgrade a weapon"
+    },
+    {
+      "apiname": "FINISH_SIDE_MISSION",
+      "achieved": 1,
+      "unlocktime": 1786448032,
+      "name": "Getting things done",
+      "description": "Finish a side mission"
+    },
+    {
+      "apiname": "FINISH_SIDE_MISSION_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For both our benefits",
+      "description": "Complete all side missions"
+    },
+    {
+      "apiname": "HACK_ATM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anonymous withdrawal",
+      "description": "Hack an ATM"
+    },
+    {
+      "apiname": "HACK_AND_DESTROY_VENDING_MACHINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free candy",
+      "description": "Get the goods by both hacking and destroying vending machines"
+    },
+    {
+      "apiname": "HACK_ALL_CATEGORIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Omnihacker",
+      "description": "Hack at least one of each hackable category"
+    },
+    {
+      "apiname": "BLACK_ICE_HACKER_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black ICE",
+      "description": "Deploy black ICE against hacker enemy"
+    },
+    {
+      "apiname": "GET_UCREDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting out of the slums",
+      "description": "Collect 200'000 uCreds "
+    },
+    {
+      "apiname": "CLAIM_BOUNTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Claim a bounty"
+    },
+    {
+      "apiname": "TRY_SNOOZE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snooze or lose",
+      "description": "Try Snooze"
+    },
+    {
+      "apiname": "KILL_ROBOT_WITH_ENERGY_DAMAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight smart",
+      "description": "Kill a robot with energy damage type"
+    },
+    {
+      "apiname": "STASIS_DAMAGE_TARGET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extreme Overcharge",
+      "description": "Deliver 4000 amount of stasis damage on one target"
+    },
+    {
+      "apiname": "KILL_ENEMIES_EXPLODING_BARRELS",
+      "achieved": 1,
+      "unlocktime": 1786218922,
+      "name": "Opportunist",
+      "description": "Kill 10 enemies using exploding barrels"
+    },
+    {
+      "apiname": "KILL_BY_OVERCHARGE_ENEMY_IN_STASIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill",
+      "description": "Kill another enemy by overcharging an enemy while it's in stasis"
+    },
+    {
+      "apiname": "WASH_HANDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hygiene",
+      "description": "Use the sink after flushing a toilet"
+    },
+    {
+      "apiname": "DISCOVER_LOCATION_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Discover all locations"
+    },
+    {
+      "apiname": "TAKE_TRAIN",
+      "achieved": 1,
+      "unlocktime": 1786449478,
+      "name": "Tourist",
+      "description": "Ride the Interlink Express"
+    },
+    {
+      "apiname": "FILL_CODEX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comprehensive",
+      "description": "Fill the Codex"
+    },
+    {
+      "apiname": "READ_DATA_PADS",
+      "achieved": 1,
+      "unlocktime": 1786449791,
+      "name": "Curious consumer",
+      "description": "Read 10 datapads"
+    },
+    {
+      "apiname": "UNLOCK_CODEX_ENEMY_ENTRIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flatliner",
+      "description": "Unlock all enemy Codex entries"
+    },
+    {
+      "apiname": "EXTRACTION_MAIN_MISSION_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One step forward",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_MAIN_MISSION_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All the way",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_LOST_RUBY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tenuous Grasp",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_MAIN_MISSION_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completed Main Mission",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_ALL_MISSIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completed All Missions",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_KARLAN_ENGINEERING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karlan Engineering",
+      "description": "Destroy a Karlan controlled Siege Mech"
+    },
+    {
+      "apiname": "EXTRACTION_BIG_LEAGUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big leagues",
+      "description": "Kill 50 level 35 or higher enemies"
+    },
+    {
+      "apiname": "EXTRACTION_KNIFE_TO_GUNFIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bring a knife to a gunfight",
+      "description": "Obtain your first melee weapon"
+    },
+    {
+      "apiname": "EXTRACTION_VIP_NO_MORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VIP no more",
+      "description": "Kill a level 35 bounty"
+    },
+    {
+      "apiname": "EXTRACTION_MAKING_CONCESSIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Concessions",
+      "description": "Completed Making Concessions"
+    },
+    {
+      "apiname": "EXTRACTION_UNSHACKLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unshackled",
+      "description": "Complete Unshackled"
+    },
+    {
+      "apiname": "EXTRACTION_LOVE_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Love Kills",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_SIDE_MISSIONS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Complete all Side Missions",
+      "description": "Completed all Cyber Heist Side Missions"
+    },
+    {
+      "apiname": "EXTRACTION_FIRST_MELEE_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hammering",
+      "description": "Perform your first Hammer kill"
+    },
+    {
+      "apiname": "EXTRACTION_FIRST_MELEE_SPECIAL_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Melee Special Move Kill",
+      "description": "Kill an enemy using melee's special move"
+    },
+    {
+      "apiname": "EXTRACTION_KILL_SKULLSQUAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not so special",
+      "description": "Take down a member of Zells' guard"
+    },
+    {
+      "apiname": "EXTRACTION_KILL_ZELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zell is dead",
+      "description": "Take down Zell"
+    },
+    {
+      "apiname": "EXTRACTION_BRAVE_NEW_WORLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brave New World",
+      "description": "Discover the Dark Playground"
+    },
+    {
+      "apiname": "EXTRACTION_VICE_EXPRESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vice Express",
+      "description": ""
+    },
+    {
+      "apiname": "EXTRACTION_OPEN_SESAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open Sesame",
+      "description": "Find a secret route"
+    }
+  ]
+}

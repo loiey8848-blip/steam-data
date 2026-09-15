@@ -1,0 +1,109 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3511030,
+  "game": "Mini Cozy Room: Lo-Fi",
+  "total": 14,
+  "unlocked": 9,
+  "percent": 64.3,
+  "updated_at_utc": "2026-09-15T06:53:31.615692+00:00",
+  "achievements": [
+    {
+      "apiname": "LEVEL_UP_2",
+      "achieved": 1,
+      "unlocktime": 1772545009,
+      "name": "Level Up!",
+      "description": "Reach level 2 for the first time."
+    },
+    {
+      "apiname": "UNLOCK_PET_10002",
+      "achieved": 1,
+      "unlocktime": 1772545858,
+      "name": "New Companion",
+      "description": "Unlock a new pet."
+    },
+    {
+      "apiname": "PLAY_BGM_10",
+      "achieved": 1,
+      "unlocktime": 1772546165,
+      "name": "Lo-Fi Critic",
+      "description": "Listen to 10 different tracks."
+    },
+    {
+      "apiname": "PLAY_AMBIENCE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Layers of Calm",
+      "description": "Listen to 10 different ambiences."
+    },
+    {
+      "apiname": "DECO_UNLOCK_10",
+      "achieved": 1,
+      "unlocktime": 1775131090,
+      "name": "Home Stylist",
+      "description": "Purchase 10 decorations."
+    },
+    {
+      "apiname": "UNLOCK_ROOM_10002",
+      "achieved": 1,
+      "unlocktime": 1772601702,
+      "name": "New Space",
+      "description": "Unlock your second room."
+    },
+    {
+      "apiname": "COMPLETE_TIMER_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time Master",
+      "description": "Complete 10 timer sessions."
+    },
+    {
+      "apiname": "COMPLETE_TODO_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Task Master",
+      "description": "Complete 100 to-do items."
+    },
+    {
+      "apiname": "PLAY_BGM_TIME_HOUR_10",
+      "achieved": 1,
+      "unlocktime": 1772641231,
+      "name": "Lo-Fi Lover",
+      "description": "Listen to music for 10 hours."
+    },
+    {
+      "apiname": "DECO_UNLOCK_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cozy Curator",
+      "description": "Purchase 100 decorations."
+    },
+    {
+      "apiname": "UNLOCK_PET_31001",
+      "achieved": 1,
+      "unlocktime": 1772641269,
+      "name": "Hello, Little Fox!",
+      "description": "Unlock a fox."
+    },
+    {
+      "apiname": "UNLOCK_ROOM_10003",
+      "achieved": 1,
+      "unlocktime": 1772688176,
+      "name": "Cozy Room",
+      "description": "Unlock your third room."
+    },
+    {
+      "apiname": "LEVEL_UP_100",
+      "achieved": 1,
+      "unlocktime": 1772868397,
+      "name": "Level 100",
+      "description": "Reach level 100."
+    },
+    {
+      "apiname": "PLAY_BGM_TIME_HOUR_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lo-Fi Room",
+      "description": "Listen to music for 100 hours."
+    }
+  ]
+}

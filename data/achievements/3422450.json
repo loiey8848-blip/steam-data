@@ -1,0 +1,697 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3422450,
+  "game": "Whisker Wanderlust: The Mosaic of Souls",
+  "total": 98,
+  "unlocked": 98,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:30.721948+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1766738002,
+      "name": "Cat’s Vision I",
+      "description": "Soul Stray: 1"
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1766739014,
+      "name": "Nimble Paws I",
+      "description": "Soul Strays: 40"
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1766741228,
+      "name": "Feline Shadow I",
+      "description": "Soul Strays: 150"
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1766742181,
+      "name": "Agile Claws I",
+      "description": "Soul Strays: 270"
+    },
+    {
+      "apiname": "5",
+      "achieved": 1,
+      "unlocktime": 1766743445,
+      "name": "King Cat’s Treasure I",
+      "description": "Soul Strays: 400"
+    },
+    {
+      "apiname": "6",
+      "achieved": 1,
+      "unlocktime": 1766744435,
+      "name": "Meow Explorer",
+      "description": "Soul Strays: 500"
+    },
+    {
+      "apiname": "7",
+      "achieved": 1,
+      "unlocktime": 1766738990,
+      "name": "Light And Shadow",
+      "description": "Complete Chapter 1"
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1766739813,
+      "name": "Play Among Flowers",
+      "description": "Complete Chapter 2"
+    },
+    {
+      "apiname": "9",
+      "achieved": 1,
+      "unlocktime": 1766741010,
+      "name": "Time To Rest",
+      "description": "Complete Chapter 3"
+    },
+    {
+      "apiname": "10",
+      "achieved": 1,
+      "unlocktime": 1766741514,
+      "name": "So Many People!",
+      "description": "Complete Chapter 4"
+    },
+    {
+      "apiname": "11",
+      "achieved": 1,
+      "unlocktime": 1766741924,
+      "name": "Sea Breeze And Sunshine",
+      "description": "Complete Chapter 5"
+    },
+    {
+      "apiname": "12",
+      "achieved": 1,
+      "unlocktime": 1766742305,
+      "name": "Star Collector",
+      "description": "Complete Chapter 6"
+    },
+    {
+      "apiname": "13",
+      "achieved": 1,
+      "unlocktime": 1766742726,
+      "name": "Busy Captain",
+      "description": "Complete Chapter 7"
+    },
+    {
+      "apiname": "14",
+      "achieved": 1,
+      "unlocktime": 1766743251,
+      "name": "The Sleeping Sea God",
+      "description": "Complete Chapter 8"
+    },
+    {
+      "apiname": "15",
+      "achieved": 1,
+      "unlocktime": 1766743976,
+      "name": "When Light Becomes Poetry",
+      "description": "Complete Chapter 9"
+    },
+    {
+      "apiname": "16",
+      "achieved": 1,
+      "unlocktime": 1766744646,
+      "name": "Part-Time Cupid",
+      "description": "Complete Chapter 10"
+    },
+    {
+      "apiname": "17",
+      "achieved": 1,
+      "unlocktime": 1766738702,
+      "name": "Sanity Check",
+      "description": "Complete Chapter 1 - 1"
+    },
+    {
+      "apiname": "18",
+      "achieved": 1,
+      "unlocktime": 1766738308,
+      "name": "Don’t Starve",
+      "description": "Complete Chapter 1 - 2"
+    },
+    {
+      "apiname": "19",
+      "achieved": 1,
+      "unlocktime": 1766738302,
+      "name": "Who’s The Joker?",
+      "description": "Complete Chapter 1 - 3"
+    },
+    {
+      "apiname": "20",
+      "achieved": 1,
+      "unlocktime": 1766740239,
+      "name": "Buzz Buzz Buzz",
+      "description": "Complete Chapter 2 - 1"
+    },
+    {
+      "apiname": "21",
+      "achieved": 1,
+      "unlocktime": 1766740563,
+      "name": "Lockpicker",
+      "description": "Complete Chapter 2 - 2"
+    },
+    {
+      "apiname": "22",
+      "achieved": 1,
+      "unlocktime": 1766739469,
+      "name": "Sheep Counter",
+      "description": "Complete Chapter 2 - 3"
+    },
+    {
+      "apiname": "23",
+      "achieved": 1,
+      "unlocktime": 1766741117,
+      "name": "Sleep In",
+      "description": "Complete Chapter 3 - 1"
+    },
+    {
+      "apiname": "24",
+      "achieved": 1,
+      "unlocktime": 1766741065,
+      "name": "The Third Wish",
+      "description": "Complete Chapter 3 - 2"
+    },
+    {
+      "apiname": "25",
+      "achieved": 1,
+      "unlocktime": 1766740979,
+      "name": "Artistic Cleaner",
+      "description": "Complete Chapter 3 - 3"
+    },
+    {
+      "apiname": "26",
+      "achieved": 1,
+      "unlocktime": 1766741403,
+      "name": "Tentacle Trouble",
+      "description": "Complete Chapter 4 - 1"
+    },
+    {
+      "apiname": "27",
+      "achieved": 1,
+      "unlocktime": 1766741626,
+      "name": "Squeak Squeak",
+      "description": "Complete Chapter 4 - 2"
+    },
+    {
+      "apiname": "28",
+      "achieved": 1,
+      "unlocktime": 1766741641,
+      "name": "More Tentacles?!",
+      "description": "Complete Chapter 4 - 3"
+    },
+    {
+      "apiname": "29",
+      "achieved": 1,
+      "unlocktime": 1766741959,
+      "name": "Drifting Along",
+      "description": "Complete Chapter 5 - 1"
+    },
+    {
+      "apiname": "30",
+      "achieved": 1,
+      "unlocktime": 1766742096,
+      "name": "Cat’s Supply Stash",
+      "description": "Complete Chapter 5 - 2"
+    },
+    {
+      "apiname": "31",
+      "achieved": 1,
+      "unlocktime": 1766741794,
+      "name": "Knowledge Is Power",
+      "description": "Complete Chapter 5 - 3"
+    },
+    {
+      "apiname": "32",
+      "achieved": 1,
+      "unlocktime": 1766742283,
+      "name": "Puffed Up",
+      "description": "Complete Chapter 6 - 1"
+    },
+    {
+      "apiname": "33",
+      "achieved": 1,
+      "unlocktime": 1766742347,
+      "name": "The Meaning Of Life",
+      "description": "Complete Chapter 6 - 2"
+    },
+    {
+      "apiname": "34",
+      "achieved": 1,
+      "unlocktime": 1766742340,
+      "name": "Still In Time",
+      "description": "Complete Chapter 6 - 3"
+    },
+    {
+      "apiname": "35",
+      "achieved": 1,
+      "unlocktime": 1766742811,
+      "name": "Bounty Hunter",
+      "description": "Complete Chapter 7 - 1"
+    },
+    {
+      "apiname": "36",
+      "achieved": 1,
+      "unlocktime": 1766742682,
+      "name": "Bone Collector",
+      "description": "Complete Chapter 7 - 2"
+    },
+    {
+      "apiname": "37",
+      "achieved": 1,
+      "unlocktime": 1766742731,
+      "name": "Rising Up",
+      "description": "Complete Chapter 7 - 3"
+    },
+    {
+      "apiname": "38",
+      "achieved": 1,
+      "unlocktime": 1766743077,
+      "name": "Coral Anxiety",
+      "description": "Complete Chapter 8 - 1"
+    },
+    {
+      "apiname": "39",
+      "achieved": 1,
+      "unlocktime": 1766743410,
+      "name": "Family Matters",
+      "description": "Complete Chapter 8 - 2"
+    },
+    {
+      "apiname": "40",
+      "achieved": 1,
+      "unlocktime": 1766743279,
+      "name": "New Contacts",
+      "description": "Complete Chapter 8 - 3"
+    },
+    {
+      "apiname": "41",
+      "achieved": 1,
+      "unlocktime": 1766744364,
+      "name": "Flying High",
+      "description": "Complete Chapter 9 - 1"
+    },
+    {
+      "apiname": "42",
+      "achieved": 1,
+      "unlocktime": 1766744097,
+      "name": "Box Office Hit",
+      "description": "Complete Chapter 9 - 2"
+    },
+    {
+      "apiname": "43",
+      "achieved": 1,
+      "unlocktime": 1766743780,
+      "name": "Wish Storage",
+      "description": "Complete Chapter 9 - 3"
+    },
+    {
+      "apiname": "44",
+      "achieved": 1,
+      "unlocktime": 1766744642,
+      "name": "Love In Form",
+      "description": "Complete Chapter 10 - 1"
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1766744566,
+      "name": "Secrets Of The Heart",
+      "description": "Complete Chapter 10 - 2"
+    },
+    {
+      "apiname": "46",
+      "achieved": 1,
+      "unlocktime": 1766744484,
+      "name": "Sunny Day",
+      "description": "Complete Chapter 10 - 3"
+    },
+    {
+      "apiname": "47",
+      "achieved": 1,
+      "unlocktime": 1766744713,
+      "name": "Open A Can I",
+      "description": "Can Found: 1"
+    },
+    {
+      "apiname": "48",
+      "achieved": 1,
+      "unlocktime": 1766744963,
+      "name": "Can Collector I",
+      "description": "Cans Found: 70"
+    },
+    {
+      "apiname": "49",
+      "achieved": 1,
+      "unlocktime": 1766758953,
+      "name": "Can Hoarder I",
+      "description": "Cans Found: 180"
+    },
+    {
+      "apiname": "50",
+      "achieved": 1,
+      "unlocktime": 1766759856,
+      "name": "Can Tycoon I",
+      "description": "Cans Found: 300"
+    },
+    {
+      "apiname": "51",
+      "achieved": 1,
+      "unlocktime": 1766768501,
+      "name": "Can Magnate I",
+      "description": "Cans Found: 500"
+    },
+    {
+      "apiname": "52",
+      "achieved": 1,
+      "unlocktime": 1766769564,
+      "name": "Can Collector Elite I",
+      "description": "Cans Found: 650"
+    },
+    {
+      "apiname": "53",
+      "achieved": 1,
+      "unlocktime": 1766770570,
+      "name": "Can Wholesaler I",
+      "description": "Cans Found: 800"
+    },
+    {
+      "apiname": "54",
+      "achieved": 1,
+      "unlocktime": 1766771482,
+      "name": "Can Empire",
+      "description": "Cans Found: 900"
+    },
+    {
+      "apiname": "56",
+      "achieved": 1,
+      "unlocktime": 1766759300,
+      "name": "Sharp Eyes",
+      "description": "Complete Hide N Seek - Stage 2"
+    },
+    {
+      "apiname": "57",
+      "achieved": 1,
+      "unlocktime": 1766759881,
+      "name": "Deep Gaze",
+      "description": "Complete Hide N Seek - Stage 3"
+    },
+    {
+      "apiname": "58",
+      "achieved": 1,
+      "unlocktime": 1766767891,
+      "name": "Piercing Stare",
+      "description": "Complete Hide N Seek - Stage 4"
+    },
+    {
+      "apiname": "59",
+      "achieved": 1,
+      "unlocktime": 1766768516,
+      "name": "Quick Wit",
+      "description": "Complete Hide N Seek - Stage 5"
+    },
+    {
+      "apiname": "60",
+      "achieved": 1,
+      "unlocktime": 1766769074,
+      "name": "Fast Hands",
+      "description": "Complete Hide N Seek - Stage 6"
+    },
+    {
+      "apiname": "61",
+      "achieved": 1,
+      "unlocktime": 1766770080,
+      "name": "Speed Reader",
+      "description": "Complete Hide N Seek - Stage 7"
+    },
+    {
+      "apiname": "62",
+      "achieved": 1,
+      "unlocktime": 1766770964,
+      "name": "Piercing Gaze",
+      "description": "Complete Hide N Seek - Stage 8"
+    },
+    {
+      "apiname": "63",
+      "achieved": 1,
+      "unlocktime": 1766771700,
+      "name": "Unmatched Speed",
+      "description": "Complete Hide N Seek - Stage 9"
+    },
+    {
+      "apiname": "64",
+      "achieved": 1,
+      "unlocktime": 1766772088,
+      "name": "Photographic Memory",
+      "description": "Complete Hide N Seek - Stage 10"
+    },
+    {
+      "apiname": "65",
+      "achieved": 1,
+      "unlocktime": 1766744646,
+      "name": "Good Job Meow!",
+      "description": "Complete Story Mode"
+    },
+    {
+      "apiname": "66",
+      "achieved": 1,
+      "unlocktime": 1766772088,
+      "name": "Feline Approval",
+      "description": "Complete Hide N Seek Mode"
+    },
+    {
+      "apiname": "55",
+      "achieved": 1,
+      "unlocktime": 1766745664,
+      "name": "Keen Eyes",
+      "description": "Complete Hide N Seek - Stage 1"
+    },
+    {
+      "apiname": "67",
+      "achieved": 1,
+      "unlocktime": 1766744743,
+      "name": "Open A Can II",
+      "description": "Cans Found: 10"
+    },
+    {
+      "apiname": "68",
+      "achieved": 1,
+      "unlocktime": 1766744811,
+      "name": "Open A Can III",
+      "description": "Cans Found: 20"
+    },
+    {
+      "apiname": "69",
+      "achieved": 1,
+      "unlocktime": 1766744844,
+      "name": "Open A Can IV",
+      "description": "Cans Found: 30"
+    },
+    {
+      "apiname": "70",
+      "achieved": 1,
+      "unlocktime": 1766744911,
+      "name": "Open A Can V",
+      "description": "Cans Found: 50"
+    },
+    {
+      "apiname": "71",
+      "achieved": 1,
+      "unlocktime": 1766745038,
+      "name": "Can Collector II",
+      "description": "Cans Found: 90"
+    },
+    {
+      "apiname": "72",
+      "achieved": 1,
+      "unlocktime": 1766758425,
+      "name": "Can Collector III",
+      "description": "Cans Found: 120"
+    },
+    {
+      "apiname": "73",
+      "achieved": 1,
+      "unlocktime": 1766758785,
+      "name": "Can Collector IV",
+      "description": "Cans Found: 150"
+    },
+    {
+      "apiname": "74",
+      "achieved": 1,
+      "unlocktime": 1766759320,
+      "name": "Can Hoarder II",
+      "description": "Cans Found: 210"
+    },
+    {
+      "apiname": "75",
+      "achieved": 1,
+      "unlocktime": 1766759540,
+      "name": "Can Hoarder III",
+      "description": "Cans Found: 240"
+    },
+    {
+      "apiname": "76",
+      "achieved": 1,
+      "unlocktime": 1766759705,
+      "name": "Can Hoarder IV",
+      "description": "Cans Found: 270"
+    },
+    {
+      "apiname": "77",
+      "achieved": 1,
+      "unlocktime": 1766760203,
+      "name": "Can Tycoon II",
+      "description": "Cans Found: 350"
+    },
+    {
+      "apiname": "78",
+      "achieved": 1,
+      "unlocktime": 1766767275,
+      "name": "Can Tycoon III",
+      "description": "Cans Found: 400"
+    },
+    {
+      "apiname": "79",
+      "achieved": 1,
+      "unlocktime": 1766768170,
+      "name": "Can Tycoon IV",
+      "description": "Cans Found: 450"
+    },
+    {
+      "apiname": "80",
+      "achieved": 1,
+      "unlocktime": 1766768762,
+      "name": "Can Magnate II",
+      "description": "Cans Found: 550"
+    },
+    {
+      "apiname": "81",
+      "achieved": 1,
+      "unlocktime": 1766769067,
+      "name": "Can Magnate III",
+      "description": "Cans Found: 600"
+    },
+    {
+      "apiname": "82",
+      "achieved": 1,
+      "unlocktime": 1766769799,
+      "name": "Can Collector Elite II",
+      "description": "Cans Found: 700"
+    },
+    {
+      "apiname": "83",
+      "achieved": 1,
+      "unlocktime": 1766770265,
+      "name": "Can Collector Elite III",
+      "description": "Cans Found: 750"
+    },
+    {
+      "apiname": "84",
+      "achieved": 1,
+      "unlocktime": 1766771035,
+      "name": "Can Wholesaler II",
+      "description": "Cans Found: 850"
+    },
+    {
+      "apiname": "85",
+      "achieved": 1,
+      "unlocktime": 1766738006,
+      "name": "Cat’s Vision II",
+      "description": "Soul Strays: 5"
+    },
+    {
+      "apiname": "86",
+      "achieved": 1,
+      "unlocktime": 1766738024,
+      "name": "Cat’s Vision III",
+      "description": "Soul Strays: 10"
+    },
+    {
+      "apiname": "87",
+      "achieved": 1,
+      "unlocktime": 1766738085,
+      "name": "Cat’s Vision IV",
+      "description": "Soul Strays: 20"
+    },
+    {
+      "apiname": "88",
+      "achieved": 1,
+      "unlocktime": 1766738133,
+      "name": "Cat’s Vision V",
+      "description": "Soul Strays: 30"
+    },
+    {
+      "apiname": "89",
+      "achieved": 1,
+      "unlocktime": 1766739036,
+      "name": "Nimble Paws II",
+      "description": "Soul Strays: 50"
+    },
+    {
+      "apiname": "90",
+      "achieved": 1,
+      "unlocktime": 1766740715,
+      "name": "Nimble Paws IV",
+      "description": "Soul Strays: 90"
+    },
+    {
+      "apiname": "91",
+      "achieved": 1,
+      "unlocktime": 1766740809,
+      "name": "Nimble Paws V",
+      "description": "Soul Strays: 120"
+    },
+    {
+      "apiname": "92",
+      "achieved": 1,
+      "unlocktime": 1766741648,
+      "name": "Feline Shadow II",
+      "description": "Soul Strays: 180"
+    },
+    {
+      "apiname": "93",
+      "achieved": 1,
+      "unlocktime": 1766741689,
+      "name": "Feline Shadow III",
+      "description": "Soul Strays: 210"
+    },
+    {
+      "apiname": "94",
+      "achieved": 1,
+      "unlocktime": 1766742108,
+      "name": "Feline Shadow IV",
+      "description": "Soul Strays: 240"
+    },
+    {
+      "apiname": "95",
+      "achieved": 1,
+      "unlocktime": 1766742377,
+      "name": "Agile Claws II",
+      "description": "Soul Strays: 300"
+    },
+    {
+      "apiname": "96",
+      "achieved": 1,
+      "unlocktime": 1766742865,
+      "name": "Agile Claws III",
+      "description": "Soul Strays: 350"
+    },
+    {
+      "apiname": "97",
+      "achieved": 1,
+      "unlocktime": 1766744382,
+      "name": "Illusion Genesis",
+      "description": "Complete Level 1"
+    },
+    {
+      "apiname": "98",
+      "achieved": 1,
+      "unlocktime": 1766739125,
+      "name": "Urban Camouflage",
+      "description": "Complete Level 3"
+    }
+  ]
+}

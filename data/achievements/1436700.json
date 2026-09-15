@@ -1,0 +1,445 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1436700,
+  "game": "Trine 5: A Clockwork Conspiracy",
+  "total": 62,
+  "unlocked": 8,
+  "percent": 12.9,
+  "updated_at_utc": "2026-09-15T06:51:51.100394+00:00",
+  "achievements": [
+    {
+      "apiname": "CompleteLevel01",
+      "achieved": 1,
+      "unlocktime": 1727465619,
+      "name": "Quiet as a mouse",
+      "description": "Complete The Town Library"
+    },
+    {
+      "apiname": "CompleteLevel02",
+      "achieved": 1,
+      "unlocktime": 1727466743,
+      "name": "Stone into sand",
+      "description": "Complete The Garden of Eternal Shade"
+    },
+    {
+      "apiname": "CompleteLevel03",
+      "achieved": 1,
+      "unlocktime": 1727468570,
+      "name": "Solitary spa time",
+      "description": "Complete The Well of Tranquility"
+    },
+    {
+      "apiname": "CompleteLevel04",
+      "achieved": 1,
+      "unlocktime": 1727937367,
+      "name": "Cake and betrayal",
+      "description": "Complete The Astral Academy Gardens"
+    },
+    {
+      "apiname": "CompleteLevel05",
+      "achieved": 1,
+      "unlocktime": 1727942804,
+      "name": "Means to an end",
+      "description": "Complete The Long Way to Town"
+    },
+    {
+      "apiname": "CompleteLevel06",
+      "achieved": 1,
+      "unlocktime": 1727946173,
+      "name": "Shady shortcut of a thief",
+      "description": "Complete Sinister Back Alleys"
+    },
+    {
+      "apiname": "CompleteLevel07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Council",
+      "description": "Complete The Royal Castle"
+    },
+    {
+      "apiname": "CompleteLevel08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The shameful Villains of Trine",
+      "description": "Complete The Tallest Tower"
+    },
+    {
+      "apiname": "CompleteLevel09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trapped and forgotten",
+      "description": "Complete Dungeons and Sewer Rats"
+    },
+    {
+      "apiname": "CompleteLevel10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watery Woes",
+      "description": "Complete Smuggler's Way"
+    },
+    {
+      "apiname": "CompleteLevel11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goodbye, Sweet Gems",
+      "description": "Complete Gemstone Caverns"
+    },
+    {
+      "apiname": "CompleteLevel12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some climbing to do",
+      "description": "Complete Brackenridge Path"
+    },
+    {
+      "apiname": "CompleteLevel13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barbara! We're coming!",
+      "description": "Complete The Astral Observatory"
+    },
+    {
+      "apiname": "CompleteLevel14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Autumn Light",
+      "description": "Complete Autumn Woods"
+    },
+    {
+      "apiname": "CompleteLevel15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Swamp Witch",
+      "description": "Complete Petrified Marshes"
+    },
+    {
+      "apiname": "CompleteLevel16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memoirs of a squire",
+      "description": "Complete The Bastion of Hope"
+    },
+    {
+      "apiname": "CompleteLevel17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wings and Metal and Hot Air",
+      "description": "Complete The Magnificent Airship"
+    },
+    {
+      "apiname": "CompleteLevel18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lampaca Lands",
+      "description": "Complete The Floating Archipelago"
+    },
+    {
+      "apiname": "CompleteLevel19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Humble House",
+      "description": "Complete The Clockwork Palace"
+    },
+    {
+      "apiname": "CompleteLevel20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Empty Throne",
+      "description": "Complete The Dethroning"
+    },
+    {
+      "apiname": "CompleteGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Clockwork Conspiracy",
+      "description": "Thwart Sunny's and Goderic's plans"
+    },
+    {
+      "apiname": "FindAllExperienceLevel01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Checking out Everything",
+      "description": "Collect all experience in The Town Library"
+    },
+    {
+      "apiname": "FindAllExperienceLevel02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Haunted Hunt",
+      "description": "Collect all experience in The Garden of Eternal Shade"
+    },
+    {
+      "apiname": "FindAllExperienceLevel03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More than Soap Bubbles",
+      "description": "Collect all experience in The Well of Tranquility"
+    },
+    {
+      "apiname": "FindAllExperienceLevel04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Juiciest Fruits",
+      "description": "Collect all experience in The Astral Academy Gardens"
+    },
+    {
+      "apiname": "FindAllExperienceLevel05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thoroughfare Tracking",
+      "description": "Collect all experience in The Long Way to Town"
+    },
+    {
+      "apiname": "FindAllExperienceLevel06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Shady Spoils",
+      "description": "Collect all experience in Sinister Back Alleys"
+    },
+    {
+      "apiname": "FindAllExperienceLevel07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combing Through the Castle",
+      "description": "Collect all experience in The Royal Castle"
+    },
+    {
+      "apiname": "FindAllExperienceLevel08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasures from the Tower",
+      "description": "Collect all experience in The Tallest Tower"
+    },
+    {
+      "apiname": "FindAllExperienceLevel09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escaping, yet exploring",
+      "description": "Collect all experience in Dungeons and Sewer Rats"
+    },
+    {
+      "apiname": "FindAllExperienceLevel10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Casting the Hook",
+      "description": "Collect all experience in Smuggler's Way"
+    },
+    {
+      "apiname": "FindAllExperienceLevel11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leaving No Stone Unturned",
+      "description": "Collect all experience in Gemstone Caverns"
+    },
+    {
+      "apiname": "FindAllExperienceLevel12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looking High and Low",
+      "description": "Collect all experience in Brackenridge Path"
+    },
+    {
+      "apiname": "FindAllExperienceLevel13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gazing Stars",
+      "description": "Collect all experience in The Astral Observatory"
+    },
+    {
+      "apiname": "FindAllExperienceLevel14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Woodsy Wisdom",
+      "description": "Collect all experience in Autumn Woods"
+    },
+    {
+      "apiname": "FindAllExperienceLevel15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scouting the Swamp",
+      "description": "Collect all experience in Petrified Marshes"
+    },
+    {
+      "apiname": "FindAllExperienceLevel16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight's Quest",
+      "description": "Collect all experience in The Bastion of Hope"
+    },
+    {
+      "apiname": "FindAllExperienceLevel17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shipwide Search",
+      "description": "Collect all experience in The Magnificent Airship"
+    },
+    {
+      "apiname": "FindAllExperienceLevel18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Floating Bounty",
+      "description": "Collect all experience in The Floating Archipelago"
+    },
+    {
+      "apiname": "FindAllExperienceLevel19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Palace Pursuit",
+      "description": "Collect all experience in The Clockwork Palace"
+    },
+    {
+      "apiname": "FindAllExperience",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Heroes",
+      "description": "Collect all experience throughout Acts I-V"
+    },
+    {
+      "apiname": "CollectAllLetters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Postmaster",
+      "description": "Collect all Letters throughout Acts I-V"
+    },
+    {
+      "apiname": "CollectAllCosmetics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fashionmonger",
+      "description": "Collect all Bags and Hats throughout Acts I-V"
+    },
+    {
+      "apiname": "CollectAllTidbits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gossip",
+      "description": "Collect all Tidbits throughout Acts I-V"
+    },
+    {
+      "apiname": "Strike",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boreal Bowling",
+      "description": "Use Amadeus's Spinning Ball to destroy a chilled enemy"
+    },
+    {
+      "apiname": "NatureFightsBack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ferocious Flora",
+      "description": "Destroy an enemy using a projectile from a Wall Spitter Plant"
+    },
+    {
+      "apiname": "PestControl",
+      "achieved": 1,
+      "unlocktime": 1727941097,
+      "name": "Ace Boom-Boom",
+      "description": "When a defeated Clockwork Mosquito is exploding, use the blast to destroy another Clockwork Mosquito"
+    },
+    {
+      "apiname": "BornWithTalent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Out for a Spin",
+      "description": "During a single fight, make a Clockwork Guardian use the Spin Attack five times"
+    },
+    {
+      "apiname": "TheFloorIsLava",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Made of Sugar",
+      "description": "Cross all the rivers in the Long Way to Town without touching the water"
+    },
+    {
+      "apiname": "NoPropertyDamage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fragile: Handle with Care",
+      "description": "Complete a level without breaking any of the Wooden Boxes"
+    },
+    {
+      "apiname": "Effortless",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "As Luck Would Have It",
+      "description": "Complete a level without taking any damage"
+    },
+    {
+      "apiname": "ThisOneIsACelebrity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Famous Box Wizard",
+      "description": "Conjure a box to comply with the Shopkeeper's request in The Tallest Tower"
+    },
+    {
+      "apiname": "ToAwakeTheDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Driving Out the Evil",
+      "description": "Charge the Church Bell in the Garden of Eternal Shade"
+    },
+    {
+      "apiname": "FoodForTheRoad",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Red Rose Inn Takeout",
+      "description": "Deliver the Pie from the Red Rose Inn to the end of the level"
+    },
+    {
+      "apiname": "FunkyFungi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frolicking Fungi",
+      "description": "Find the Dancing Mushrooms in the Autumn Woods"
+    },
+    {
+      "apiname": "SeafoodNoThanks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tentacle Tag",
+      "description": "Don't let Kraken's tentacles hit you in the Smuggler's Way"
+    },
+    {
+      "apiname": "FriendsInNotSoHighPlaces",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends in High Places, literally",
+      "description": "Meet all the three Astral Observatory Wizards"
+    },
+    {
+      "apiname": "TheseArentTheHeroesYoureLookingFor",
+      "achieved": 1,
+      "unlocktime": 1727942667,
+      "name": "Flimflam Doppelgangers",
+      "description": "Defeat the Clockwork Knights posing as the Heroes of Trine in the Red Rose Inn"
+    },
+    {
+      "apiname": "TwoRobotsWithOneArrow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Fell Swoop",
+      "description": "Destroy two enemies with a single arrow"
+    },
+    {
+      "apiname": "Shadowboxing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "See-through Fisticuffs",
+      "description": "Destroy an enemy using an unarmed Pontius Clone"
+    },
+    {
+      "apiname": "BeholdTheMightOfTheBoxWizard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better than Fireballs",
+      "description": "Use Amadeus to destroy a Clockwork Mosquito with a conjured item"
+    },
+    {
+      "apiname": "ThanksForTheRide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sledding Stretch",
+      "description": "How far can you go with Pontius's Shield Sliding?"
+    }
+  ]
+}

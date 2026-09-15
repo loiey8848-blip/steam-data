@@ -1,0 +1,1201 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1948980,
+  "game": "大侠立志传：碧血丹心",
+  "total": 170,
+  "unlocked": 13,
+  "percent": 7.6,
+  "updated_at_utc": "2026-09-15T06:52:25.086412+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undefeated",
+      "description": "Main Character's Strength stat reaches 15."
+    },
+    {
+      "apiname": "2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vital Energy Overflow",
+      "description": "Main Character's Constitution stat reaches 15."
+    },
+    {
+      "apiname": "3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultra Speed",
+      "description": "Main Character's Dexterity stat reaches 15."
+    },
+    {
+      "apiname": "4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Effective Learner",
+      "description": "Main Character's Intelligence stat reaches 15."
+    },
+    {
+      "apiname": "5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Instinct",
+      "description": "Main Character's Luck stat reaches 15."
+    },
+    {
+      "apiname": "6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Throwing Master",
+      "description": "Main Character's Throwing stat reaches 200."
+    },
+    {
+      "apiname": "7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poisonous Body",
+      "description": "Main Character's Toxicology stat reaches 200."
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1778782217,
+      "name": "Fast Runner",
+      "description": "Main Character's Qinggong stat reaches 200."
+    },
+    {
+      "apiname": "9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poison Expert",
+      "description": "Main Character's Toxicology stat reaches 100."
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medical Expert",
+      "description": "Main Character's Medical stat reaches 100."
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medical Master",
+      "description": "Main Character's Medical stat reaches 200."
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Esteem",
+      "description": "Achieve 100 relationship with 20 NPCs."
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Money",
+      "description": "Gain a total of 100 Guans."
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Expert",
+      "description": "Complete all Langya Sword Pavillion events."
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Spirit",
+      "description": "Complete all Blue Wind Camp events."
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sleight of Hand",
+      "description": "Complete all Nest of Swallow events."
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Discerning Eyes",
+      "description": "Complete all Crime Investigation Bureau events."
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Authentic Taoist",
+      "description": "Complete all Taoist Sect events."
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy as Pie",
+      "description": "Reach max level of any Resource skill."
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dexterous Hands",
+      "description": "Reach max level of any Craft skill."
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eye for Details",
+      "description": "Reach max level of any Appraise skill."
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Expert",
+      "description": "Reach max level of any Survival skill."
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scoundrel's Way",
+      "description": "Reach max level of any Rogue skill."
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": "Any weapon stat reaches 200."
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cautious and Careful",
+      "description": "Courage stat reaches -100."
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Saint",
+      "description": "All six personality stats reaches 100."
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rebellious",
+      "description": "All six personality stats reaches -100."
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Village Hermits",
+      "description": "Recruit all Nameless Village characters (Hunter, Informant, Blacksmith, Doctor, Innkeeper)."
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chicken Hero",
+      "description": "Trigger \"Chicken Hero\" ending."
+    },
+    {
+      "apiname": "30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death by Poison",
+      "description": "Trigger \"Death by Poison\" ending."
+    },
+    {
+      "apiname": "31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jianghu Master",
+      "description": "Achieve Jianghu Master ending."
+    },
+    {
+      "apiname": "32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jianghu Conqueror",
+      "description": "Achieve Jianghu Conqueror ending."
+    },
+    {
+      "apiname": "33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Fist",
+      "description": "Main Character's Fist stat reaches 200."
+    },
+    {
+      "apiname": "34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Sword",
+      "description": "Main Character's Sword stat reaches 200."
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Blade",
+      "description": "Main Character's Blade stat reaches 200."
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Long Weapon",
+      "description": "Main Character's Long stat reaches 200."
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Short Weapon",
+      "description": "Main Character's Short stat reaches 200."
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Music",
+      "description": "Main Character's Musical stat reaches 200."
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feigning Weakness",
+      "description": "At the start of the game, defeat Nest of Swallow's reinforcement force."
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Blue Wind Camp",
+      "description": "Destroy Blue Wind Camp in an official way."
+    },
+    {
+      "apiname": "41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Nest of Swallow",
+      "description": "Destroy Nest of Swallow in an official way."
+    },
+    {
+      "apiname": "42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Crime Investigation Bureau",
+      "description": "Destroy Crime Investigation Bureau in an official way."
+    },
+    {
+      "apiname": "43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Langya Sword Pavillion",
+      "description": "Destroy Langya Sword Pavillion in an official way."
+    },
+    {
+      "apiname": "44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Taoist Sect",
+      "description": "Destroy Taoist Sect in an official way."
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1778781991,
+      "name": "Easy Challenge",
+      "description": "Survive 3 days in Easy Mode."
+    },
+    {
+      "apiname": "46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Challenge",
+      "description": "Survive 20 days in Easy Mode."
+    },
+    {
+      "apiname": "47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Challenge",
+      "description": "Survive 40 days in Easy Mode."
+    },
+    {
+      "apiname": "48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Challenge",
+      "description": "Survive 60 days in Easy Mode."
+    },
+    {
+      "apiname": "49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Challenge",
+      "description": "Survive 100 days in Easy Mode."
+    },
+    {
+      "apiname": "50",
+      "achieved": 1,
+      "unlocktime": 1778781991,
+      "name": "Normal Challenge",
+      "description": "Survive 3 days in Normal Mode."
+    },
+    {
+      "apiname": "51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Challenge",
+      "description": "Survive 20 days in Normal Mode."
+    },
+    {
+      "apiname": "52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Challenge",
+      "description": "Survive 40 days in Normal Mode."
+    },
+    {
+      "apiname": "53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Challenge",
+      "description": "Survive 60 days in Normal Mode."
+    },
+    {
+      "apiname": "54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Challenge",
+      "description": "Survive 100 days in Normal Mode."
+    },
+    {
+      "apiname": "55",
+      "achieved": 1,
+      "unlocktime": 1778781991,
+      "name": "Hard Challenge",
+      "description": "Survive 3 days in Hard Mode."
+    },
+    {
+      "apiname": "56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Challenge",
+      "description": "Survive 20 days in Hard Mode."
+    },
+    {
+      "apiname": "57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Challenge",
+      "description": "Survive 40 days in Hard Mode."
+    },
+    {
+      "apiname": "58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Challenge",
+      "description": "Survive 60 days in Hard Mode."
+    },
+    {
+      "apiname": "59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Challenge",
+      "description": "Survive 100 days in Hard Mode."
+    },
+    {
+      "apiname": "60",
+      "achieved": 1,
+      "unlocktime": 1778781991,
+      "name": "Nightmare Challenge",
+      "description": "Survive 3 days in Nightmare Mode."
+    },
+    {
+      "apiname": "61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare Challenge",
+      "description": "Survive 20 days in Nightmare Mode."
+    },
+    {
+      "apiname": "62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare Challenge",
+      "description": "Survive 40 days in Nightmare Mode."
+    },
+    {
+      "apiname": "63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare Challenge",
+      "description": "Survive 60 days in Nightmare Mode."
+    },
+    {
+      "apiname": "64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare Challenge",
+      "description": "Survive 100 days in Nightmare Mode."
+    },
+    {
+      "apiname": "65",
+      "achieved": 1,
+      "unlocktime": 1778774148,
+      "name": "The First Coin",
+      "description": "Gain a total of 1 Coin."
+    },
+    {
+      "apiname": "66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Blue Wind Camp."
+    },
+    {
+      "apiname": "67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Nest of Swallow."
+    },
+    {
+      "apiname": "68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Crime Investigation Bureau."
+    },
+    {
+      "apiname": "69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Langya Sword Pavillion."
+    },
+    {
+      "apiname": "70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Taoist Sect."
+    },
+    {
+      "apiname": "71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Faction",
+      "description": "Join the General Faction."
+    },
+    {
+      "apiname": "72",
+      "achieved": 1,
+      "unlocktime": 1778774196,
+      "name": "Newcomer",
+      "description": "Main Character reaches Level 5."
+    },
+    {
+      "apiname": "73",
+      "achieved": 1,
+      "unlocktime": 1778775191,
+      "name": "Level 10",
+      "description": "Main Character reaches Level 10."
+    },
+    {
+      "apiname": "74",
+      "achieved": 1,
+      "unlocktime": 1778782222,
+      "name": "Level 20",
+      "description": "Main Character reaches Level 20."
+    },
+    {
+      "apiname": "75",
+      "achieved": 1,
+      "unlocktime": 1779364680,
+      "name": "Level 30",
+      "description": "Main Character reaches Level 30."
+    },
+    {
+      "apiname": "76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 40",
+      "description": "Main Character reaches Level 40."
+    },
+    {
+      "apiname": "77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 50",
+      "description": "Main Character reaches Level 50."
+    },
+    {
+      "apiname": "78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 60",
+      "description": "Main Character reaches Level 60"
+    },
+    {
+      "apiname": "79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 70",
+      "description": "Main Character reaches Level 70."
+    },
+    {
+      "apiname": "80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 80",
+      "description": "Main Character reaches Level 80."
+    },
+    {
+      "apiname": "81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level 90",
+      "description": "Main Character reaches Level 90."
+    },
+    {
+      "apiname": "82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Master",
+      "description": "Main Character reaches Level 100."
+    },
+    {
+      "apiname": "83",
+      "achieved": 1,
+      "unlocktime": 1778781991,
+      "name": "Recognized",
+      "description": "Fame reaches Level 1"
+    },
+    {
+      "apiname": "84",
+      "achieved": 1,
+      "unlocktime": 1778818759,
+      "name": "Well-known",
+      "description": "Fame reaches Level 2"
+    },
+    {
+      "apiname": "85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reputable",
+      "description": "Fame reaches Level 3"
+    },
+    {
+      "apiname": "86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Star",
+      "description": "Fame reaches Level 4"
+    },
+    {
+      "apiname": "87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Famous",
+      "description": "Fame reaches Level 5"
+    },
+    {
+      "apiname": "88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acclaimed",
+      "description": "Fame reaches Level 6"
+    },
+    {
+      "apiname": "89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prominent",
+      "description": "Fame reaches Level 7"
+    },
+    {
+      "apiname": "90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revered",
+      "description": "Fame reaches Level 8"
+    },
+    {
+      "apiname": "91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Historical",
+      "description": "Fame reaches Level 9"
+    },
+    {
+      "apiname": "92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary",
+      "description": "Fame reaches Level 10"
+    },
+    {
+      "apiname": "93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Love",
+      "description": "Form a bond with a female companion for the first time."
+    },
+    {
+      "apiname": "94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Romantic",
+      "description": "Form bonds with 7 female companions."
+    },
+    {
+      "apiname": "95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gambler",
+      "description": "Win all money from the dealer for the first time."
+    },
+    {
+      "apiname": "96",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God of Gambling",
+      "description": "Win all money from the dealer 20 times in total."
+    },
+    {
+      "apiname": "97",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak of Jianghu",
+      "description": "Trigger \"Peak of Jianghu\" ending."
+    },
+    {
+      "apiname": "98",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enlightened Monk",
+      "description": "Trigger the \"Enlightened Monk\" illustration."
+    },
+    {
+      "apiname": "99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cake of God",
+      "description": "Win the \"Dragon Cooking Contest\"."
+    },
+    {
+      "apiname": "100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Direct Assault",
+      "description": "Storm into Yan Army Camp and annihilate all enemies."
+    },
+    {
+      "apiname": "101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imperial Noble",
+      "description": "Receive an official title and reward after Kang Wang ascends the throne."
+    },
+    {
+      "apiname": "102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Achiever",
+      "description": "Win the titles Provincial Top Examiner, Country Top Examiner and Top Achiever."
+    },
+    {
+      "apiname": "103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Destroy Shifa Temple in an official way."
+    },
+    {
+      "apiname": "104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Shifa Temple"
+    },
+    {
+      "apiname": "105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foreign Duke",
+      "description": "Trigger \"Foreign Duke\" ending."
+    },
+    {
+      "apiname": "106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Yan Empire",
+      "description": "Destroy Yan Army."
+    },
+    {
+      "apiname": "107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining Sect",
+      "description": "Join the Confucius Temple."
+    },
+    {
+      "apiname": "108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroy Confucius Temple",
+      "description": "Destroy Confucius Temple in an official way."
+    },
+    {
+      "apiname": "109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confucius's Glory",
+      "description": "Complete all Confucius Temple events."
+    },
+    {
+      "apiname": "110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of Buddha",
+      "description": "Complete all Shifa Temple events."
+    },
+    {
+      "apiname": "111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confucius Saint",
+      "description": "Trigger the \"Sage of Confucianism\" illustration."
+    },
+    {
+      "apiname": "112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenging Fate",
+      "description": "Achieve True Ending in Freedom Mode 300."
+    },
+    {
+      "apiname": "113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit of Steel",
+      "description": "Achieve True Ending in Freedom Mode 600."
+    },
+    {
+      "apiname": "114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellish Journey",
+      "description": "Achieve True Ending in Freedom Mode 900."
+    },
+    {
+      "apiname": "115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best of the Best",
+      "description": "Achieve True Ending in Freedom Mode 1200."
+    },
+    {
+      "apiname": "116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incompetent Gate Master",
+      "description": "Trigger \"Incompetent Gate Master\" ending."
+    },
+    {
+      "apiname": "117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unify the Jianghu",
+      "description": "Choose the \"Unify the Jianghu\" ambition,Eventually become the Jianghu Master or Jianghu Conqueror"
+    },
+    {
+      "apiname": "118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Country defender",
+      "description": "Choose the \"Protect The Country\" ambition,Trigger \"Duty to the Nation\" ending."
+    },
+    {
+      "apiname": "119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The best of best",
+      "description": "Choose the \"Peak of Jianghu\" ambition,Trigger \"Peak of Jianghu\" ending."
+    },
+    {
+      "apiname": "120",
+      "achieved": 1,
+      "unlocktime": 1779364102,
+      "name": "Joining the Army",
+      "description": "Join Ye Family Battalion"
+    },
+    {
+      "apiname": "121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining the Army",
+      "description": "Join Yan Army"
+    },
+    {
+      "apiname": "122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broad-minded Gourmet",
+      "description": "Consume 20 or more Epic or above rarity foods."
+    },
+    {
+      "apiname": "123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Stranger to Poison",
+      "description": "Consume 20 or more Epic or above rarity poisons."
+    },
+    {
+      "apiname": "124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unyielding Drinker",
+      "description": "Consume 20 or more Epic or above rarity wines."
+    },
+    {
+      "apiname": "125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reincarnation of Mengchang",
+      "description": "Establish relationships with 100 NPCs, all reaching a level of 100."
+    },
+    {
+      "apiname": "126",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surrounded by Beauties",
+      "description": "Form bonds with 15 female companions."
+    },
+    {
+      "apiname": "127",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealthy Beyond Measure",
+      "description": "Accumulate a wealth of 1000 Guan."
+    },
+    {
+      "apiname": "128",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special Guest Invitation",
+      "description": "Encounter the special Easter egg scene for the first time in the game."
+    },
+    {
+      "apiname": "129",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stargazing Enlightenment",
+      "description": "Activate the \"Stargazing Enlightenment\" illustration."
+    },
+    {
+      "apiname": "130",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Hua Siniang",
+      "description": "Form a bond with Hua Siniang"
+    },
+    {
+      "apiname": "131",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Luo Qianxue",
+      "description": "Form a bond with Luo Qianxue."
+    },
+    {
+      "apiname": "132",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Hua Qingqing",
+      "description": "Form a bond with Hua Qingqing."
+    },
+    {
+      "apiname": "133",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Ye Yinpeng",
+      "description": "Form a bond with Ye Yinpeng."
+    },
+    {
+      "apiname": "134",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Jiang Ziyan",
+      "description": "Form a bond with Jiang Ziyan."
+    },
+    {
+      "apiname": "135",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Princess Fuqing",
+      "description": "Form a bond with Princess Fuqing."
+    },
+    {
+      "apiname": "136",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Man Tuoluo",
+      "description": "Form a bond with Man Tuoluo."
+    },
+    {
+      "apiname": "137",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Qu Wangyou",
+      "description": "Form a bond with Qu Wangyou."
+    },
+    {
+      "apiname": "138",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Han Hongyu",
+      "description": "Form a bond with Han Hongyu."
+    },
+    {
+      "apiname": "139",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Gu Qingcheng",
+      "description": "Form a bond with Gu Qingcheng."
+    },
+    {
+      "apiname": "140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Ya Qin",
+      "description": "Form a bond with Ya Qin."
+    },
+    {
+      "apiname": "141",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Miao Caidie",
+      "description": "Form a bond with Miao Caidie."
+    },
+    {
+      "apiname": "142",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Ling Mengdie",
+      "description": "Form a bond with Ling Mengdie."
+    },
+    {
+      "apiname": "143",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Yan Rurui",
+      "description": "Form a bond with Yan Rurui."
+    },
+    {
+      "apiname": "144",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Yizhihua",
+      "description": "Form a bond with Yizhihua."
+    },
+    {
+      "apiname": "145",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Yu Weier",
+      "description": "Form a bond with Yu Weier."
+    },
+    {
+      "apiname": "146",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Wanyan Zhaoning",
+      "description": "Form a bond with Wanyan Zhaoning."
+    },
+    {
+      "apiname": "147",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Fu Yaoqin",
+      "description": "Form a bond with Fu Yaoqin."
+    },
+    {
+      "apiname": "148",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bond with Tang Wan'er",
+      "description": "Establish a deep bond with Tang Wan'er."
+    },
+    {
+      "apiname": "149",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation of the Jiuli Tribe",
+      "description": "Righteously exterminate the Jiuli Tribe through open and honorable means."
+    },
+    {
+      "apiname": "150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation of the Melody House",
+      "description": "Righteously exterminate the Melody House through open and honorable means."
+    },
+    {
+      "apiname": "151",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation of the Beasts Manor",
+      "description": "Righteously exterminate the Beasts Manor through open and honorable means."
+    },
+    {
+      "apiname": "152",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation of the Jiujiang Water Camp",
+      "description": "Righteously exterminate the Jiujiang Water Camp through open and honorable means."
+    },
+    {
+      "apiname": "153",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joining the Army",
+      "description": "Become a member of the Jiujiang Water Camp."
+    },
+    {
+      "apiname": "154",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peerless",
+      "description": "Reach the true ending with a difficulty level of 2000 on the Custom difficulty mode."
+    },
+    {
+      "apiname": "155",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Breaker Tower Challenge",
+      "description": "Reach a high score of 200 in the Tower of Trials."
+    },
+    {
+      "apiname": "156",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Breaker Tower Challenge",
+      "description": "Reach a high score of 500 in the Tower of Trials."
+    },
+    {
+      "apiname": "157",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Breaker Tower Challenge",
+      "description": "Reach a high score of 800 in the Tower of Trials."
+    },
+    {
+      "apiname": "158",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Breaker Tower Challenge",
+      "description": "Reach a high score of 1200 in the Tower of Trials."
+    },
+    {
+      "apiname": "159",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eradicate the Cold Skin Gang",
+      "description": "Eliminate the Cold Skin Gang in a fair and honorable manner."
+    },
+    {
+      "apiname": "160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eradicate the Divine Flame Sect",
+      "description": "Eliminate the Divine Flame Sect in a fair and honorable manner."
+    },
+    {
+      "apiname": "161",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bond with Feng Xuanji",
+      "description": "Form a bond with Feng Xuanji"
+    },
+    {
+      "apiname": "162",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bond with Haitang Qiu",
+      "description": "Form a bond with Haitang Qiu."
+    },
+    {
+      "apiname": "163",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bond with Dinghaitang",
+      "description": "Form a bond with Dinghaitang."
+    },
+    {
+      "apiname": "164",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bond with Tsukuyo Sakuraha",
+      "description": "Form a bond with Tsukuyo Sakuraha."
+    },
+    {
+      "apiname": "165",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Step Ahead",
+      "description": "Gather evidence against King Chai and have him convicted and imprisoned."
+    },
+    {
+      "apiname": "166",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sworn Kinship",
+      "description": "Establish sworn brotherhood with 2 companions."
+    },
+    {
+      "apiname": "167",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wide Brotherhood",
+      "description": "Establish sworn brotherhood with 5 companions."
+    },
+    {
+      "apiname": "168",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thriving Alliance",
+      "description": "Establish sworn brotherhood with 10 companions."
+    },
+    {
+      "apiname": "169",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hall of Allies",
+      "description": "Establish sworn brotherhood with 20 companions."
+    },
+    {
+      "apiname": "170",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cloud of Comrades",
+      "description": "Establish sworn brotherhood with 40 companions."
+    }
+  ]
+}

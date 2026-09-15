@@ -1,0 +1,578 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2358720,
+  "game": "Black Myth: Wukong",
+  "total": 81,
+  "unlocked": 81,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:48.193932+00:00",
+  "achievements": [
+    {
+      "apiname": "81001",
+      "achieved": 1,
+      "unlocktime": 1724121205,
+      "name": "Home is Behind",
+      "description": "The old monkey has told his tale. Onward you must go."
+    },
+    {
+      "apiname": "81002",
+      "achieved": 1,
+      "unlocktime": 1724124974,
+      "name": "Hammer and Hew",
+      "description": "Armed head to toe, dread not the foe."
+    },
+    {
+      "apiname": "81003",
+      "achieved": 1,
+      "unlocktime": 1724125793,
+      "name": "Warring with Wolves",
+      "description": ""
+    },
+    {
+      "apiname": "81004",
+      "achieved": 1,
+      "unlocktime": 1724126882,
+      "name": "Absorb and Cultivate",
+      "description": ""
+    },
+    {
+      "apiname": "81005",
+      "achieved": 1,
+      "unlocktime": 1724128169,
+      "name": "Brew of Bravery",
+      "description": "Fresh brew in an old cask. May it stir a great task!"
+    },
+    {
+      "apiname": "81006",
+      "achieved": 1,
+      "unlocktime": 1724128783,
+      "name": "Slithering Snake",
+      "description": ""
+    },
+    {
+      "apiname": "81007",
+      "achieved": 1,
+      "unlocktime": 1724129482,
+      "name": "Handy and Hardy",
+      "description": "A good match calls for a good weapon."
+    },
+    {
+      "apiname": "81008",
+      "achieved": 1,
+      "unlocktime": 1724340454,
+      "name": "Enduring Echoes",
+      "description": ""
+    },
+    {
+      "apiname": "81009",
+      "achieved": 1,
+      "unlocktime": 1724340825,
+      "name": "Temple of Taint",
+      "description": ""
+    },
+    {
+      "apiname": "81010",
+      "achieved": 1,
+      "unlocktime": 1724131735,
+      "name": "Blazing Black Wind",
+      "description": ""
+    },
+    {
+      "apiname": "81011",
+      "achieved": 1,
+      "unlocktime": 1724133247,
+      "name": "Creative Concoction",
+      "description": "Tonics are well and good, but not to be wolfed like food!"
+    },
+    {
+      "apiname": "81012",
+      "achieved": 1,
+      "unlocktime": 1724433658,
+      "name": "Cursed Clan",
+      "description": ""
+    },
+    {
+      "apiname": "81013",
+      "achieved": 1,
+      "unlocktime": 1724254639,
+      "name": "Cage of Claws",
+      "description": ""
+    },
+    {
+      "apiname": "81014",
+      "achieved": 1,
+      "unlocktime": 1724433250,
+      "name": "Sound in Stone",
+      "description": ""
+    },
+    {
+      "apiname": "81015",
+      "achieved": 1,
+      "unlocktime": 1724254273,
+      "name": "Death in Despair",
+      "description": ""
+    },
+    {
+      "apiname": "81016",
+      "achieved": 1,
+      "unlocktime": 1724140976,
+      "name": "The Stone's Secret",
+      "description": ""
+    },
+    {
+      "apiname": "81017",
+      "achieved": 1,
+      "unlocktime": 1724432700,
+      "name": "Oṃ Maṇi Padme Hūm",
+      "description": ""
+    },
+    {
+      "apiname": "81018",
+      "achieved": 1,
+      "unlocktime": 1724259221,
+      "name": "Buried in the Sand",
+      "description": ""
+    },
+    {
+      "apiname": "81019",
+      "achieved": 1,
+      "unlocktime": 1724477289,
+      "name": "Gleams of Gold",
+      "description": ""
+    },
+    {
+      "apiname": "81020",
+      "achieved": 1,
+      "unlocktime": 1724477608,
+      "name": "The Tiger Family",
+      "description": ""
+    },
+    {
+      "apiname": "81021",
+      "achieved": 1,
+      "unlocktime": 1724478294,
+      "name": "Shifting Sands",
+      "description": ""
+    },
+    {
+      "apiname": "81022",
+      "achieved": 1,
+      "unlocktime": 1724475758,
+      "name": "Precious Pills",
+      "description": ""
+    },
+    {
+      "apiname": "81023",
+      "achieved": 1,
+      "unlocktime": 1724155154,
+      "name": "A Great Gust",
+      "description": ""
+    },
+    {
+      "apiname": "81024",
+      "achieved": 1,
+      "unlocktime": 1724491198,
+      "name": "Thousand-Mile Quest",
+      "description": ""
+    },
+    {
+      "apiname": "81025",
+      "achieved": 1,
+      "unlocktime": 1724155154,
+      "name": "Voice Vanquished",
+      "description": ""
+    },
+    {
+      "apiname": "81026",
+      "achieved": 1,
+      "unlocktime": 1724158344,
+      "name": "Karma of Kang-Jin",
+      "description": ""
+    },
+    {
+      "apiname": "81027",
+      "achieved": 1,
+      "unlocktime": 1724511784,
+      "name": "Boundless Bitterness",
+      "description": ""
+    },
+    {
+      "apiname": "81028",
+      "achieved": 1,
+      "unlocktime": 1724160761,
+      "name": "Shell and Scales",
+      "description": ""
+    },
+    {
+      "apiname": "81029",
+      "achieved": 1,
+      "unlocktime": 1724514347,
+      "name": "Secret in the Scroll",
+      "description": ""
+    },
+    {
+      "apiname": "81030",
+      "achieved": 1,
+      "unlocktime": 1724341328,
+      "name": "Pound and Perfect",
+      "description": ""
+    },
+    {
+      "apiname": "81031",
+      "achieved": 1,
+      "unlocktime": 1724514347,
+      "name": "The Soaring Slash",
+      "description": ""
+    },
+    {
+      "apiname": "81032",
+      "achieved": 1,
+      "unlocktime": 1724567915,
+      "name": "Happy Harvest",
+      "description": ""
+    },
+    {
+      "apiname": "81033",
+      "achieved": 1,
+      "unlocktime": 1724554795,
+      "name": "Marvelous Melon",
+      "description": ""
+    },
+    {
+      "apiname": "81034",
+      "achieved": 1,
+      "unlocktime": 1760761256,
+      "name": "Lust and Dust",
+      "description": ""
+    },
+    {
+      "apiname": "81035",
+      "achieved": 1,
+      "unlocktime": 1724566348,
+      "name": "Corrupted Captains",
+      "description": ""
+    },
+    {
+      "apiname": "81036",
+      "achieved": 1,
+      "unlocktime": 1724566054,
+      "name": "Devoted Disciples",
+      "description": ""
+    },
+    {
+      "apiname": "81037",
+      "achieved": 1,
+      "unlocktime": 1724168192,
+      "name": "Matches with the Macaque",
+      "description": ""
+    },
+    {
+      "apiname": "81038",
+      "achieved": 1,
+      "unlocktime": 1724168192,
+      "name": "Nifty Nonsense",
+      "description": ""
+    },
+    {
+      "apiname": "81039",
+      "achieved": 1,
+      "unlocktime": 1724244206,
+      "name": "Mud on His Face",
+      "description": ""
+    },
+    {
+      "apiname": "81040",
+      "achieved": 1,
+      "unlocktime": 1724247341,
+      "name": "Gnashing Grudge",
+      "description": ""
+    },
+    {
+      "apiname": "81041",
+      "achieved": 1,
+      "unlocktime": 1724247341,
+      "name": "Passion Passes",
+      "description": ""
+    },
+    {
+      "apiname": "81042",
+      "achieved": 1,
+      "unlocktime": 1760716770,
+      "name": "The Loong Pattern",
+      "description": ""
+    },
+    {
+      "apiname": "81043",
+      "achieved": 1,
+      "unlocktime": 1760704608,
+      "name": "Secret in Purple Cloud",
+      "description": ""
+    },
+    {
+      "apiname": "81044",
+      "achieved": 1,
+      "unlocktime": 1760725675,
+      "name": "The Wayward Ways",
+      "description": ""
+    },
+    {
+      "apiname": "81045",
+      "achieved": 1,
+      "unlocktime": 1760716148,
+      "name": "A Family Finished",
+      "description": ""
+    },
+    {
+      "apiname": "81046",
+      "achieved": 1,
+      "unlocktime": 1760714749,
+      "name": "The Cockerel Crowed",
+      "description": ""
+    },
+    {
+      "apiname": "81047",
+      "achieved": 1,
+      "unlocktime": 1760717265,
+      "name": "Misfit with Merit",
+      "description": ""
+    },
+    {
+      "apiname": "81048",
+      "achieved": 1,
+      "unlocktime": 1724251840,
+      "name": "Behold the Betrayal",
+      "description": ""
+    },
+    {
+      "apiname": "81049",
+      "achieved": 1,
+      "unlocktime": 1760766398,
+      "name": "Always Accompanied",
+      "description": ""
+    },
+    {
+      "apiname": "81050",
+      "achieved": 1,
+      "unlocktime": 1724291692,
+      "name": "The Furnace Boy",
+      "description": ""
+    },
+    {
+      "apiname": "81051",
+      "achieved": 1,
+      "unlocktime": 1760790996,
+      "name": "Urge Unfulfilled",
+      "description": ""
+    },
+    {
+      "apiname": "81052",
+      "achieved": 1,
+      "unlocktime": 1760794691,
+      "name": "Seeds to Sow",
+      "description": "Take more as fruit as your plants take root."
+    },
+    {
+      "apiname": "81053",
+      "achieved": 1,
+      "unlocktime": 1760771334,
+      "name": "Souls in the Stalks",
+      "description": ""
+    },
+    {
+      "apiname": "81054",
+      "achieved": 1,
+      "unlocktime": 1760769230,
+      "name": "A Willing Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "81055",
+      "achieved": 1,
+      "unlocktime": 1760773891,
+      "name": "Scenic Seeker",
+      "description": "The most marvelous places for meditation have all met your gaze."
+    },
+    {
+      "apiname": "81056",
+      "achieved": 1,
+      "unlocktime": 1760769741,
+      "name": "Three Teams of Two",
+      "description": ""
+    },
+    {
+      "apiname": "81057",
+      "achieved": 1,
+      "unlocktime": 1760794691,
+      "name": "With Full Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "81058",
+      "achieved": 1,
+      "unlocktime": 1760770420,
+      "name": "Frost and Flame",
+      "description": ""
+    },
+    {
+      "apiname": "81059",
+      "achieved": 1,
+      "unlocktime": 1724294130,
+      "name": "Flaming Fury",
+      "description": ""
+    },
+    {
+      "apiname": "81060",
+      "achieved": 1,
+      "unlocktime": 1760714911,
+      "name": "Treasure Trove",
+      "description": ""
+    },
+    {
+      "apiname": "81061",
+      "achieved": 1,
+      "unlocktime": 1760771932,
+      "name": "Mei of Memory",
+      "description": ""
+    },
+    {
+      "apiname": "81062",
+      "achieved": 1,
+      "unlocktime": 1760773234,
+      "name": "Meet the Match",
+      "description": ""
+    },
+    {
+      "apiname": "81063",
+      "achieved": 1,
+      "unlocktime": 1760799738,
+      "name": "Full of Forms",
+      "description": "Each guise grants a new horizon."
+    },
+    {
+      "apiname": "81064",
+      "achieved": 1,
+      "unlocktime": 1760704199,
+      "name": "Brews and Barrels",
+      "description": "Now you can sate yourself with all the drinks."
+    },
+    {
+      "apiname": "81065",
+      "achieved": 1,
+      "unlocktime": 1724296328,
+      "name": "The Cloud Claimed",
+      "description": ""
+    },
+    {
+      "apiname": "81066",
+      "achieved": 1,
+      "unlocktime": 1760778193,
+      "name": "The Clamor of Frogs",
+      "description": ""
+    },
+    {
+      "apiname": "81067",
+      "achieved": 1,
+      "unlocktime": 1760798582,
+      "name": "A Curious Collection",
+      "description": "Every rare wonder the world can offer, collected and kept."
+    },
+    {
+      "apiname": "81068",
+      "achieved": 1,
+      "unlocktime": 1760788276,
+      "name": "The Five Skandhas",
+      "description": ""
+    },
+    {
+      "apiname": "81069",
+      "achieved": 1,
+      "unlocktime": 1760788276,
+      "name": "Medicine Meal",
+      "description": "\"Here, have it, have it all.\""
+    },
+    {
+      "apiname": "81070",
+      "achieved": 1,
+      "unlocktime": 1760789115,
+      "name": "Treaded Tracks",
+      "description": ""
+    },
+    {
+      "apiname": "81071",
+      "achieved": 1,
+      "unlocktime": 1724302465,
+      "name": "Guardian of Gear",
+      "description": ""
+    },
+    {
+      "apiname": "81072",
+      "achieved": 1,
+      "unlocktime": 1724306714,
+      "name": "A Duel of Destiny",
+      "description": ""
+    },
+    {
+      "apiname": "81073",
+      "achieved": 1,
+      "unlocktime": 1760799738,
+      "name": "Portraits Perfected",
+      "description": "Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted."
+    },
+    {
+      "apiname": "81074",
+      "achieved": 1,
+      "unlocktime": 1724306714,
+      "name": "Six Senses Secured",
+      "description": ""
+    },
+    {
+      "apiname": "81075",
+      "achieved": 1,
+      "unlocktime": 1724554797,
+      "name": "Master of Magic",
+      "description": "All spells we know are derived from the same source."
+    },
+    {
+      "apiname": "81076",
+      "achieved": 1,
+      "unlocktime": 1760799542,
+      "name": "Gourds Gathered",
+      "description": "Rare is not the gourd but a friend to drink with."
+    },
+    {
+      "apiname": "81077",
+      "achieved": 1,
+      "unlocktime": 1760769333,
+      "name": "Page Preserver",
+      "description": "\"All the tattered pages can now be compiled in full.\""
+    },
+    {
+      "apiname": "81078",
+      "achieved": 1,
+      "unlocktime": 1760799428,
+      "name": "Brewer's Bounty",
+      "description": "A blend for every brew to bring out its best."
+    },
+    {
+      "apiname": "81079",
+      "achieved": 1,
+      "unlocktime": 1760796666,
+      "name": "Mantled with Might",
+      "description": "Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!"
+    },
+    {
+      "apiname": "81080",
+      "achieved": 1,
+      "unlocktime": 1760795623,
+      "name": "Staffs and Spears",
+      "description": "A walking vault of arms you have become!"
+    },
+    {
+      "apiname": "81081",
+      "achieved": 1,
+      "unlocktime": 1760799738,
+      "name": "Final Fulfillment",
+      "description": "Each ordeal paves your path to what you are meant to be."
+    }
+  ]
+}

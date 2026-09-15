@@ -1,0 +1,3511 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2218750,
+  "game": "Halls of Torment",
+  "total": 500,
+  "unlocked": 169,
+  "percent": 33.8,
+  "updated_at_utc": "2026-09-15T06:52:43.884543+00:00",
+  "achievements": [
+    {
+      "apiname": "q_Caverns_Boss_1",
+      "achieved": 1,
+      "unlocktime": 1751114753,
+      "name": "The Imp Chieftain",
+      "description": "Defeat the Imp Chieftain."
+    },
+    {
+      "apiname": "q_Ember_Boss_1",
+      "achieved": 1,
+      "unlocktime": 1751459940,
+      "name": "Flamedancer",
+      "description": "Defeat the Flamedancer."
+    },
+    {
+      "apiname": "q_Ember_Boss_2",
+      "achieved": 1,
+      "unlocktime": 1751461617,
+      "name": "Wraith Warlord",
+      "description": "Defeat the Wraith Warlord."
+    },
+    {
+      "apiname": "q_Ember_Boss_3",
+      "achieved": 1,
+      "unlocktime": 1751693526,
+      "name": "Wyrm Queen",
+      "description": "Defeat the Wyrm Queen."
+    },
+    {
+      "apiname": "q_Ember_ImpKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imp Slayer I",
+      "description": "Kill 30 000 Imps."
+    },
+    {
+      "apiname": "q_Ember_Kills_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ember Dominator III",
+      "description": "Kill 15 000 enemies in one visit to the Ember Grounds."
+    },
+    {
+      "apiname": "q_Ember_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1751616670,
+      "name": "Lord of Regret",
+      "description": "Defeat the Lord of Regret."
+    },
+    {
+      "apiname": "q_Ember_Survive_3",
+      "achieved": 1,
+      "unlocktime": 1751616384,
+      "name": "Ember Survivor III",
+      "description": "Survive the Ember Grounds until there are only 2 minutes left."
+    },
+    {
+      "apiname": "q_Ember_Wellkeeper_1",
+      "achieved": 1,
+      "unlocktime": 1751459652,
+      "name": "The Wellkeeper",
+      "description": "Enter the Ember Grounds and rescue the Wellkeeper."
+    },
+    {
+      "apiname": "q_Caverns_Boss_2",
+      "achieved": 1,
+      "unlocktime": 1751115297,
+      "name": "The Skeleton Lord",
+      "description": "Defeat the Skeleton Lord."
+    },
+    {
+      "apiname": "q_Caverns_Boss_3",
+      "achieved": 1,
+      "unlocktime": 1751115887,
+      "name": "The Lich",
+      "description": "Defeat the Lich."
+    },
+    {
+      "apiname": "q_Caverns_HellhoundsKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751706473,
+      "name": "Hellhound Slayer I",
+      "description": "Kill 30 000 Hellhounds."
+    },
+    {
+      "apiname": "q_Caverns_Kills_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Dominator III",
+      "description": "Kill 25 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Caverns_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1751162034,
+      "name": "Lord of Pain",
+      "description": "Defeat the Lord of Pain."
+    },
+    {
+      "apiname": "q_Caverns_SkeletonKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751585659,
+      "name": "Skeleton Slayer I",
+      "description": "Kill 30 000 Skeletons."
+    },
+    {
+      "apiname": "q_Caverns_SlimesKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751692126,
+      "name": "Slime Slayer I",
+      "description": "Kill 25 000 Slimes."
+    },
+    {
+      "apiname": "q_Caverns_Survive_3",
+      "achieved": 1,
+      "unlocktime": 1751116221,
+      "name": "Cavern Survivor III",
+      "description": "Survive the Haunted Caverns until there are only 2 minutes left."
+    },
+    {
+      "apiname": "q_Archer_Crits_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archery Master III",
+      "description": "[Archer] Crit enemies 50 000 times in one run."
+    },
+    {
+      "apiname": "q_Archer_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1751585807,
+      "name": "Piercing Through",
+      "description": "[Archer] Kill 20 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Archer_Evade_1",
+      "achieved": 1,
+      "unlocktime": 1751297392,
+      "name": "Untouchable",
+      "description": "[Archer] Avoid being hit for 3 minutes."
+    },
+    {
+      "apiname": "q_Archer_Level_2",
+      "achieved": 1,
+      "unlocktime": 1751298936,
+      "name": "Trained Archer",
+      "description": "[Archer] Reach level 60."
+    },
+    {
+      "apiname": "q_Archer_Walk_1",
+      "achieved": 1,
+      "unlocktime": 1752291350,
+      "name": "Forward Evermore",
+      "description": "[Archer] Walk 50 000 meters."
+    },
+    {
+      "apiname": "q_Archer_Tries_1",
+      "achieved": 1,
+      "unlocktime": 1751299273,
+      "name": "Confident",
+      "description": "[Archer] Enter the Halls of Torment 3 times and survive at least 10 minutes."
+    },
+    {
+      "apiname": "q_Archer_Trait_1",
+      "achieved": 1,
+      "unlocktime": 1751298167,
+      "name": "Breathless",
+      "description": "[Archer] Acquire the trait 'Quick Hands IV'."
+    },
+    {
+      "apiname": "q_Archer_Stay_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Aim",
+      "description": "[Archer] Wait 180 seconds before starting to move. You must move to complete the quest."
+    },
+    {
+      "apiname": "q_Archer_MovingSpeed_1",
+      "achieved": 1,
+      "unlocktime": 1751297865,
+      "name": "Guided by the Wind",
+      "description": "[Archer] Increase your movement speed to 8m/s."
+    },
+    {
+      "apiname": "q_Exterminator_ApplyBurn_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firestarter III",
+      "description": "[Exterminator] Apply Burn to 200 000 enemies."
+    },
+    {
+      "apiname": "q_Exterminator_BurnDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751461044,
+      "name": "Incinerated I",
+      "description": "[Exterminator] Deal 200 000 Burn damage in one run."
+    },
+    {
+      "apiname": "q_Exterminator_Destroyer_1",
+      "achieved": 1,
+      "unlocktime": 1751587424,
+      "name": "Flammable",
+      "description": "[Exterminator] Destroy 200 objects."
+    },
+    {
+      "apiname": "q_Exterminator_EffectKills_1",
+      "achieved": 1,
+      "unlocktime": 1751587996,
+      "name": "Prolonged Suffering",
+      "description": "Kill 50 000 enemies with effects."
+    },
+    {
+      "apiname": "q_Exterminator_FireDamage_3",
+      "achieved": 1,
+      "unlocktime": 1751461397,
+      "name": "Inferno III",
+      "description": "[Exterminator] Deal 3 000 000 Fire damage in one run."
+    },
+    {
+      "apiname": "q_Exterminator_Kills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Killer",
+      "description": "[Exterminator] Kill 50 000 enemies."
+    },
+    {
+      "apiname": "q_Exterminator_Level_2",
+      "achieved": 1,
+      "unlocktime": 1751588046,
+      "name": "Trained Exterminator",
+      "description": "[Exterminator] Reach level 60."
+    },
+    {
+      "apiname": "q_Exterminator_MassBurn_1",
+      "achieved": 1,
+      "unlocktime": 1751587283,
+      "name": "Burning Masses",
+      "description": "[Exterminator] Have 30 or more Burn effects active at the same time."
+    },
+    {
+      "apiname": "q_Exterminator_Walk_1",
+      "achieved": 1,
+      "unlocktime": 1751587983,
+      "name": "Firewalker",
+      "description": "[Exterminator] Walk 8 000 meters in one run."
+    },
+    {
+      "apiname": "q_Swordsman_BossKills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undaunted",
+      "description": "[Swordsman] Kill a total of 10 Bosses."
+    },
+    {
+      "apiname": "q_Sworsdman_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swordplay Mastery III",
+      "description": "[Swordsman] Deal 3 000 000 damage with your main weapon."
+    },
+    {
+      "apiname": "q_Swordsman_GetHit_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a Flesh Wound",
+      "description": "[Swordsman] Get hit a total of 500 times."
+    },
+    {
+      "apiname": "q_Swordsman_HitDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751115589,
+      "name": "Power Hitter",
+      "description": "[Swordsman] Hit 1 000 enemies for 300 or more damage each in one run. (Main Weapon)"
+    },
+    {
+      "apiname": "q_Swordsman_Level_2",
+      "achieved": 1,
+      "unlocktime": 1751642911,
+      "name": "Trained Swordsman",
+      "description": "[Swordsman] Reach level 60."
+    },
+    {
+      "apiname": "q_Swordsman_Walk_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forward",
+      "description": "[Beast Huntress] Walk 10 000 meters in one run."
+    },
+    {
+      "apiname": "q_Swordsman_Trait_1",
+      "achieved": 1,
+      "unlocktime": 1751115397,
+      "name": "Strong Arms",
+      "description": "[Swordsman] Acquire the trait 'Strength IV'."
+    },
+    {
+      "apiname": "q_Swordsman_Regenerate_1",
+      "achieved": 1,
+      "unlocktime": 1751115983,
+      "name": "Blood's Taste",
+      "description": "[Swordsman] Recover 2 000 HP in one run."
+    },
+    {
+      "apiname": "q_Swordsman_RingBladeMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ring Blades Mastery III",
+      "description": "Deal 3 000 000 damage with Ring Blades."
+    },
+    {
+      "apiname": "q_Sworsdman_HitsPerAttack_1",
+      "achieved": 1,
+      "unlocktime": 1751159267,
+      "name": "Wide Sweep",
+      "description": "[Swordsman] Hit 25 enemies with a single attack."
+    },
+    {
+      "apiname": "q_Archer_TransfixionMastery_3",
+      "achieved": 1,
+      "unlocktime": 1751588558,
+      "name": "Transfixion Mastery III",
+      "description": "Deal 3 000 000 damage with Transfixion."
+    },
+    {
+      "apiname": "q_Exterminator_DragonsBreathMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon's Breath Mastery III",
+      "description": "Deal 2 000 000 damage with Dragon's Breath."
+    },
+    {
+      "apiname": "q_Caverns_ArcaneSplinterMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Splinters Mastery III",
+      "description": "Deal 3 000 000 damage with Arcane Splinters. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_AstronomersOrbsMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Astronomer's Orbs Mastery III",
+      "description": "Deal 3 000 000 damage with Astronomer's Orbs. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_LightningStrikeMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strikes Mastery III",
+      "description": "Deal 3 000 000 damage with Lightning Strikes. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_NeedleMastery_3",
+      "achieved": 1,
+      "unlocktime": 1752251252,
+      "name": "Phantom Needles Mastery III",
+      "description": "Deal 3 000 000 damage with Phantom Needles. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_ScorchedKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Slayer I",
+      "description": "Kill 20 000 Scorched."
+    },
+    {
+      "apiname": "q_Viaduct_WraithKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wraith Slayer I",
+      "description": "Kill 20 000 Wraiths"
+    },
+    {
+      "apiname": "q_Viaduct_Survive_3",
+      "achieved": 1,
+      "unlocktime": 1751588389,
+      "name": "Viaduct Survivor III",
+      "description": "Survive the Forgotten Viaduct until there are only 2 minutes left."
+    },
+    {
+      "apiname": "q_Viaduct_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1751588575,
+      "name": "Lord of Despair",
+      "description": "Defeat the Lord of Despair."
+    },
+    {
+      "apiname": "q_Viaduct_Kills_3",
+      "achieved": 1,
+      "unlocktime": 1751588396,
+      "name": "Viaduct Dominator III",
+      "description": "Kill 10 000 enemies in one visit to the Forgotten Viaduct."
+    },
+    {
+      "apiname": "q_Viaduct_GargoyleKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gargoyle Slayer I",
+      "description": "Kill 15 000 Gargoyles"
+    },
+    {
+      "apiname": "q_Viaduct_Boss_3",
+      "achieved": 1,
+      "unlocktime": 1751587983,
+      "name": "Hydra",
+      "description": "Defeat the Hydra."
+    },
+    {
+      "apiname": "q_Viaduct_Boss_2",
+      "achieved": 1,
+      "unlocktime": 1751587433,
+      "name": "Frost Knight",
+      "description": "Defeat the Frost Knight."
+    },
+    {
+      "apiname": "q_Viaduct_Boss_1",
+      "achieved": 1,
+      "unlocktime": 1751586882,
+      "name": "Wraith Horseman",
+      "description": "Defeat the Wraith Horseman."
+    },
+    {
+      "apiname": "q_Cleric_Trait_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unction",
+      "description": "[Cleric] Acquire the trait 'Metabolism V'."
+    },
+    {
+      "apiname": "q_Cleric_Regenerate_1",
+      "achieved": 1,
+      "unlocktime": 1751161206,
+      "name": "Cleric's Stand",
+      "description": "[Cleric] Regenerate 1 500 HP in one run. Only passive Regeneration is counted."
+    },
+    {
+      "apiname": "q_Cleric_RadiantAuraMastery_3",
+      "achieved": 1,
+      "unlocktime": 1751693054,
+      "name": "Radiant Aura Mastery III",
+      "description": "Deal 3 000 000 damage with Radiant Aura."
+    },
+    {
+      "apiname": "q_Cleric_NoRegeneration_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fragile Stamina",
+      "description": "Survive 20 min without Regenerating health. Other health sources (e.g. potions) are allowed."
+    },
+    {
+      "apiname": "q_Cleric_NoMaxHealth_1",
+      "achieved": 1,
+      "unlocktime": 1751585768,
+      "name": "Fragile Body",
+      "description": "Survive 28 minutes with your original max. health. Don't use items, blessings, or traits."
+    },
+    {
+      "apiname": "q_Cleric_MagicDamage_3",
+      "achieved": 1,
+      "unlocktime": 1751161676,
+      "name": "False Blessing III",
+      "description": "[Cleric] Deal 5 000 000 Magic damage in one run."
+    },
+    {
+      "apiname": "q_Cleric_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Cleric",
+      "description": "[Cleric] Reach level 60."
+    },
+    {
+      "apiname": "q_Cleric_FragileStacks_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broken Body",
+      "description": "[Cleric] Apply 10 Fragile stacks on a single enemy."
+    },
+    {
+      "apiname": "q_Cleric_DebuffEnemies_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unholy Touch",
+      "description": "[Cleric] Apply 50 000 debuffs over all runs."
+    },
+    {
+      "apiname": "q_Cleric_BurnDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Belief",
+      "description": "[Cleric] Deal 500 000 Burn damage in one run."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Trait_1",
+      "achieved": 1,
+      "unlocktime": 1751692839,
+      "name": "Invincible",
+      "description": "[Shield Maiden] Acquire the trait 'Parry V'."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Stay_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tower",
+      "description": "[Shield Maiden] Wait 180 seconds before starting to move. You must move to complete the quest."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Regenerate_1",
+      "achieved": 1,
+      "unlocktime": 1752508562,
+      "name": "Maiden's Blessing",
+      "description": "Recover 20 000 HP over all runs."
+    },
+    {
+      "apiname": "q_Shieldmaiden_NoDefense_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who needs defense?",
+      "description": "[Shield Maiden] Survive 28 minutes without changing Defense stat, including bonuses from gear."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1751693841,
+      "name": "Duelist",
+      "description": "[Shield Maiden] Defeat a Lord."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Level_2",
+      "achieved": 1,
+      "unlocktime": 1751693068,
+      "name": "Trained Shield Maiden",
+      "description": "[Shield Maiden] Reach level 60."
+    },
+    {
+      "apiname": "q_Shieldmaiden_KugelblitzMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kugelblitz Mastery III",
+      "description": "Deal 3 000 000 damage with Kugelblitz."
+    },
+    {
+      "apiname": "q_Shieldmaiden_HitsPerAttack_1",
+      "achieved": 1,
+      "unlocktime": 1751704192,
+      "name": "Stomp",
+      "description": "[Shield Maiden] Hit 20 enemies with a single attack. Can't be done with Shield Bash."
+    },
+    {
+      "apiname": "q_Shieldmaiden_GetHit_1",
+      "achieved": 1,
+      "unlocktime": 1751693348,
+      "name": "Bulwark",
+      "description": "[Shield Maiden] Get hit 180 times in one run."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shield Mastery III",
+      "description": "[Shield Maiden] Deal 3 000 000 damage with Shield Bash."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Crits_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Direct Hits",
+      "description": "[Shield Maiden] Crit 2 000 enemies with your main attack in one run. Shield Bash doesn't count."
+    },
+    {
+      "apiname": "q_Sorceress_MovingSpeed_1",
+      "achieved": 1,
+      "unlocktime": 1752252782,
+      "name": "Electrostasis",
+      "description": "[Sorceress] Increase your movement speed to 11m/s."
+    },
+    {
+      "apiname": "q_Sorceress_MeteorstrikeMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Mastery III",
+      "description": "Deal 3 000 000 damage with Meteor Strike."
+    },
+    {
+      "apiname": "q_Sorceress_LightningDamage_3",
+      "achieved": 1,
+      "unlocktime": 1751615591,
+      "name": "Thunderstorm III",
+      "description": "[Sorceress] Deal 5 000 000 Lightning damage in one run."
+    },
+    {
+      "apiname": "q_Sorceress_Level_2",
+      "achieved": 1,
+      "unlocktime": 1751616154,
+      "name": "Trained Sorceress",
+      "description": "[Sorceress] Reach level 60."
+    },
+    {
+      "apiname": "q_Sorceress_HitDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751615021,
+      "name": "Thunderstrike",
+      "description": "[Sorceress] Hit 1 000 enemies for 500 or more damage each in one run. (Main Attack)"
+    },
+    {
+      "apiname": "q_Sorceress_ElectrifyStacks_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charged Up",
+      "description": "[Sorceress] Apply 20 Spark stacks on a single enemy."
+    },
+    {
+      "apiname": "q_Sorceress_ElectrifyDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electrified",
+      "description": "[Sorceress] Deal 500 000 Spark damage in one run."
+    },
+    {
+      "apiname": "q_Sorceress_BlockHits_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Step",
+      "description": "[Sorceress] Block 90 attacks in one run."
+    },
+    {
+      "apiname": "q_Sorceress_ApplyElectrify_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen of Thunder",
+      "description": "Apply Spark 100 000 times."
+    },
+    {
+      "apiname": "q_Sorceress_ApplyBurn_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Touch",
+      "description": "[Sorceress] Apply Burn to 1 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Warlock_Trait_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long-Living",
+      "description": "[Warlock] Acquire the trait 'Channeling V'."
+    },
+    {
+      "apiname": "q_Warlock_TakeDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark of Madness",
+      "description": "[Warlock] Take a total of 15 000 damage over all runs."
+    },
+    {
+      "apiname": "q_Warlock_SummonDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Commander III",
+      "description": "[Warlock] Deal 5 000 000 Summon damage in one run."
+    },
+    {
+      "apiname": "q_Warlock_NoMainDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Observer",
+      "description": "[Warlock] Survive 28 minutes without using your main weapon."
+    },
+    {
+      "apiname": "q_Warlock_MaxHealthLimit_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Exchange",
+      "description": "[Warlock] Survive 5 minutes with a maximum health of 500 or less."
+    },
+    {
+      "apiname": "q_Warlock_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Warlock",
+      "description": "[Warlock] Reach level 60."
+    },
+    {
+      "apiname": "q_Warlock_HellhoundsKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beastmaster",
+      "description": "[Warlock] Kill 5 000 Hellhounds in one run."
+    },
+    {
+      "apiname": "q_Warlock_GolemMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golem Mastery III",
+      "description": "Deal 3 000 000 damage with the Golem."
+    },
+    {
+      "apiname": "q_Warlock_Evade_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stepping Back",
+      "description": "[Warlock] Avoid being hit for 3 minutes."
+    },
+    {
+      "apiname": "q_Caverns_Survive_2",
+      "achieved": 1,
+      "unlocktime": 1751115385,
+      "name": "Cavern Survivor II",
+      "description": "Survive the Haunted Caverns until there are only 14 minutes left."
+    },
+    {
+      "apiname": "q_Caverns_Survive_1",
+      "achieved": 1,
+      "unlocktime": 1751114479,
+      "name": "Cavern Survivor I",
+      "description": "Survive the Haunted Caverns until there are only 26 minutes left."
+    },
+    {
+      "apiname": "q_Caverns_NeedleMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751116023,
+      "name": "Phantom Needles Mastery II",
+      "description": "Deal 1 500 000 damage with Phantom Needles. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_NeedleMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751115616,
+      "name": "Phantom Needles Mastery I",
+      "description": "Deal 750 000 damage with Phantom Needles. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_LightningStrikeMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751115969,
+      "name": "Lightning Strikes Mastery II",
+      "description": "Deal 1 500 000 damage with Lightning Strikes. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_LightningStrikeMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751115458,
+      "name": "Lightning Strikes Mastery I",
+      "description": "Deal 750 000 damage with Lightning Strikes. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_Kills_2",
+      "achieved": 1,
+      "unlocktime": 1751299017,
+      "name": "Cavern Dominator II",
+      "description": "Kill 15 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Caverns_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1751115562,
+      "name": "Cavern Dominator I",
+      "description": "Kill 5 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Caverns_AstronomersOrbsMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751643108,
+      "name": "Astronomer's Orbs Mastery II",
+      "description": "Deal 1 500 000 damage with Astronomer's Orbs. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_AstronomersOrbsMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751161801,
+      "name": "Astronomer's Orbs Mastery I",
+      "description": "Deal 750 000 damage with Astronomer's Orbs. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_ArcaneSplinterMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751693801,
+      "name": "Arcane Splinters Mastery II",
+      "description": "Deal 1 500 000 damage with Arcane Splinters. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Caverns_ArcaneSplinterMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751161921,
+      "name": "Arcane Splinters Mastery I",
+      "description": "Deal 750 000 damage with Arcane Splinters. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_Wellkeeper_3",
+      "achieved": 1,
+      "unlocktime": 1751614308,
+      "name": "Additional Fees",
+      "description": "Purchase an item from the Wellkeeper."
+    },
+    {
+      "apiname": "q_Ember_Wellkeeper_2",
+      "achieved": 1,
+      "unlocktime": 1751460972,
+      "name": "Finders, Keepers",
+      "description": "Send 1 item up from the Halls of Torment."
+    },
+    {
+      "apiname": "q_Ember_Survive_2",
+      "achieved": 1,
+      "unlocktime": 1751615631,
+      "name": "Ember Survivor II",
+      "description": "Survive the Ember Grounds until there are only 12 minutes left."
+    },
+    {
+      "apiname": "q_Ember_Survive_1",
+      "achieved": 1,
+      "unlocktime": 1751459993,
+      "name": "Ember Survivor I",
+      "description": "Survive the Ember Grounds until there are only 22 minutes left."
+    },
+    {
+      "apiname": "q_Ember_SplinterLevel_1",
+      "achieved": 1,
+      "unlocktime": 1751585413,
+      "name": "Ability Expert: Arcane Splinters",
+      "description": "Get Arcane Splinters to rank 3 to be able to select ability upgrades."
+    },
+    {
+      "apiname": "q_Ember_OrbsLevel_1",
+      "achieved": 1,
+      "unlocktime": 1751115441,
+      "name": "Ability Expert: Astronomer's Orbs",
+      "description": "Get Astronomer's Orbs to rank 3 to be able to select ability upgrades."
+    },
+    {
+      "apiname": "q_Ember_NeedlesLevel_1",
+      "achieved": 1,
+      "unlocktime": 1751115213,
+      "name": "Ability Expert: Phantom Needles",
+      "description": "Get Phantom Needles to rank 3 to be able to select ability upgrades."
+    },
+    {
+      "apiname": "q_Ember_LightningLevel_1",
+      "achieved": 1,
+      "unlocktime": 1751115348,
+      "name": "Ability Expert: Lightning Strikes",
+      "description": "Get Lightning Strikes to rank 3 to be able to select ability upgrades."
+    },
+    {
+      "apiname": "q_Ember_Kills_2",
+      "achieved": 1,
+      "unlocktime": 1751461372,
+      "name": "Ember Dominator II",
+      "description": "Kill 5 000 enemies in one visit to the Ember Grounds."
+    },
+    {
+      "apiname": "q_Ember_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1751459897,
+      "name": "Ember Dominator I",
+      "description": "Kill 1 000 enemies in one visit to the Ember Grounds."
+    },
+    {
+      "apiname": "q_Viaduct_Survive_2",
+      "achieved": 1,
+      "unlocktime": 1751587836,
+      "name": "Viaduct Survivor II",
+      "description": "Survive the Forgotten Viaduct until there are only 10 minutes left."
+    },
+    {
+      "apiname": "q_Viaduct_Survive_1",
+      "achieved": 1,
+      "unlocktime": 1751587232,
+      "name": "Viaduct Survivor I",
+      "description": "Survive the Forgotten Viaduct until there are only 18 minutes left."
+    },
+    {
+      "apiname": "q_Viaduct_Kills_2",
+      "achieved": 1,
+      "unlocktime": 1751587874,
+      "name": "Viaduct Dominator II",
+      "description": "Kill 5 000 enemies in one visit to the Forgotten Viaduct."
+    },
+    {
+      "apiname": "q_Viaduct_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1751587013,
+      "name": "Viaduct Dominator I",
+      "description": "Kill 1 000 enemies in one visit to the Forgotten Viaduct."
+    },
+    {
+      "apiname": "q_Archer_TransfixionMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751585572,
+      "name": "Transfixion Mastery II",
+      "description": "Deal 1 500 000 damage with Transfixion."
+    },
+    {
+      "apiname": "q_Archer_TransfixionMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751585212,
+      "name": "Transfixion Mastery I",
+      "description": "Deal 750 000 damage with Transfixion."
+    },
+    {
+      "apiname": "q_Archer_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Archer",
+      "description": "[Archer] Reach Agony III in the Haunted Caverns."
+    },
+    {
+      "apiname": "q_Archer_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751297881,
+      "name": "Novice Archer",
+      "description": "[Archer] Reach level 30."
+    },
+    {
+      "apiname": "q_Archer_Crits_2",
+      "achieved": 1,
+      "unlocktime": 1751299117,
+      "name": "Archery Master II",
+      "description": "[Archer] Crit enemies 20 000 times in one run."
+    },
+    {
+      "apiname": "q_Archer_Crits_1",
+      "achieved": 1,
+      "unlocktime": 1751298129,
+      "name": "Archery Master I",
+      "description": "[Archer] Crit enemies 5 000 times in one run."
+    },
+    {
+      "apiname": "q_Cleric_RadiantAuraMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751642894,
+      "name": "Radiant Aura Mastery II",
+      "description": "Deal 1 500 000 damage with Radiant Aura."
+    },
+    {
+      "apiname": "q_Cleric_RadiantAuraMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751642463,
+      "name": "Radiant Aura Mastery I",
+      "description": "Deal 750 000 damage with Radiant Aura."
+    },
+    {
+      "apiname": "q_Cleric_MagicDamage_2",
+      "achieved": 1,
+      "unlocktime": 1751160883,
+      "name": "False Blessing II",
+      "description": "[Cleric] Deal 1 500 000 Magic damage in one run."
+    },
+    {
+      "apiname": "q_Cleric_MagicDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751160396,
+      "name": "False Blessing I",
+      "description": "[Cleric] Deal 500 000 Magic damage in one run."
+    },
+    {
+      "apiname": "q_Cleric_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Cleric",
+      "description": "[Cleric] Reach Agony III in the Haunted Caverns."
+    },
+    {
+      "apiname": "q_Cleric_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751160764,
+      "name": "Novice Cleric",
+      "description": "[Cleric] Reach level 30."
+    },
+    {
+      "apiname": "q_Exterminator_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Exterminator",
+      "description": "[Exterminator] Reach Agony III in the Ember Grounds."
+    },
+    {
+      "apiname": "q_Exterminator_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751460932,
+      "name": "Novice Exterminator",
+      "description": "[Exterminator] Reach level 30."
+    },
+    {
+      "apiname": "q_Exterminator_FireDamage_2",
+      "achieved": 1,
+      "unlocktime": 1751460943,
+      "name": "Inferno II",
+      "description": "[Exterminator] Deal 1 000 000 Fire damage in one run."
+    },
+    {
+      "apiname": "q_Exterminator_FireDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751460654,
+      "name": "Inferno I",
+      "description": "[Exterminator] Deal 300 000 Fire damage in one run."
+    },
+    {
+      "apiname": "q_Exterminator_DragonsBreathMastery_2",
+      "achieved": 1,
+      "unlocktime": 1752545760,
+      "name": "Dragon's Breath Mastery II",
+      "description": "Deal 1 000 000 damage with Dragon's Breath."
+    },
+    {
+      "apiname": "q_Exterminator_DragonsBreathMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751585581,
+      "name": "Dragon's Breath Mastery I",
+      "description": "Deal 500 000 damage with Dragon's Breath."
+    },
+    {
+      "apiname": "q_Exterminator_ApplyBurn_2",
+      "achieved": 1,
+      "unlocktime": 1752544637,
+      "name": "Firestarter II",
+      "description": "[Exterminator] Apply Burn to 50 000 enemies."
+    },
+    {
+      "apiname": "q_Exterminator_ApplyBurn_1",
+      "achieved": 1,
+      "unlocktime": 1751587762,
+      "name": "Firestarter I",
+      "description": "[Exterminator] Apply Burn to 10 000 enemies."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Shield Maiden",
+      "description": "[Shield Maiden] Reach Agony III in the Forgotten Viaduct."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751644189,
+      "name": "Novice Shield Maiden",
+      "description": "[Shield Maiden] Reach level 30."
+    },
+    {
+      "apiname": "q_Shieldmaiden_KugelblitzMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kugelblitz Mastery II",
+      "description": "Deal 1 500 000 damage with Kugelblitz."
+    },
+    {
+      "apiname": "q_Shieldmaiden_KugelblitzMastery_1",
+      "achieved": 1,
+      "unlocktime": 1752545510,
+      "name": "Kugelblitz Mastery I",
+      "description": "Deal 750 000 damage with Kugelblitz."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Damage_2",
+      "achieved": 1,
+      "unlocktime": 1751693792,
+      "name": "Shield Mastery II",
+      "description": "[Shield Maiden] Deal 1 500 000 damage with Shield Bash."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Damage_1",
+      "achieved": 1,
+      "unlocktime": 1751692452,
+      "name": "Shield Mastery I",
+      "description": "[Shield Maiden] Deal 300 000 damage with Shield Bash."
+    },
+    {
+      "apiname": "q_Sorceress_MeteorstrikeMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Mastery II",
+      "description": "Deal 1 500 000 damage with Meteor Strike."
+    },
+    {
+      "apiname": "q_Sorceress_MeteorstrikeMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Mastery I",
+      "description": "Deal 750 000 damage with Meteor Strike."
+    },
+    {
+      "apiname": "q_Sorceress_LightningDamage_2",
+      "achieved": 1,
+      "unlocktime": 1751615136,
+      "name": "Thunderstorm II",
+      "description": "[Sorceress] Deal 2 000 000 Lightning damage in one run."
+    },
+    {
+      "apiname": "q_Sorceress_LightningDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751614691,
+      "name": "Thunderstorm I",
+      "description": "[Sorceress] Deal 500 000 Lightning damage in one run."
+    },
+    {
+      "apiname": "q_Sorceress_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Sorceress",
+      "description": "[Sorceress] Reach Agony III in the Forgotten Viaduct."
+    },
+    {
+      "apiname": "q_Sorceress_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751615001,
+      "name": "Novice Sorceress",
+      "description": "[Sorceress] Reach level 30."
+    },
+    {
+      "apiname": "q_Swordsman_RingBladeMastery_2",
+      "achieved": 1,
+      "unlocktime": 1751642838,
+      "name": "Ring Blades Mastery II",
+      "description": "Deal 1 500 000 damage with Ring Blades."
+    },
+    {
+      "apiname": "q_Swordsman_RingBladeMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751642356,
+      "name": "Ring Blades Mastery I",
+      "description": "Deal 750 000 damage with Ring Blades."
+    },
+    {
+      "apiname": "q_Swordsman_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Swordsman",
+      "description": "[Swordsman] Reach Agony III in the Haunted Caverns."
+    },
+    {
+      "apiname": "q_Swordsman_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751115232,
+      "name": "Novice Swordsman",
+      "description": "[Swordsman] Reach level 30."
+    },
+    {
+      "apiname": "q_Sworsdman_Damage_2",
+      "achieved": 1,
+      "unlocktime": 1751115819,
+      "name": "Swordplay Mastery II",
+      "description": "[Swordsman] Deal 1 000 000 damage with your main weapon."
+    },
+    {
+      "apiname": "q_Sworsdman_Damage_1",
+      "achieved": 1,
+      "unlocktime": 1751114763,
+      "name": "Swordplay Mastery I",
+      "description": "[Swordsman] Deal 200 000 damage with your main weapon."
+    },
+    {
+      "apiname": "q_Warlock_SummonDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Commander II",
+      "description": "[Warlock] Deal 2 000 000 Summon damage in one run."
+    },
+    {
+      "apiname": "q_Warlock_SummonDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751694399,
+      "name": "Demonic Commander I",
+      "description": "[Warlock] Deal 500 000 Summon damage in one run."
+    },
+    {
+      "apiname": "q_Warlock_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Warlock",
+      "description": "[Warlock] Reach Agony III in the Ember Grounds."
+    },
+    {
+      "apiname": "q_Warlock_Level_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Warlock",
+      "description": "[Warlock] Reach level 30."
+    },
+    {
+      "apiname": "q_Warlock_GolemMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golem Mastery II",
+      "description": "Deal 1 500 000 damage with the Golem."
+    },
+    {
+      "apiname": "q_Warlock_GolemMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751706926,
+      "name": "Golem Mastery I",
+      "description": "Deal 750 000 damage with the Golem."
+    },
+    {
+      "apiname": "q_Main_BossesKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751298134,
+      "name": "Boss Slayer I",
+      "description": "Kill a total of 10 Bosses."
+    },
+    {
+      "apiname": "q_Main_BossesKilled_2",
+      "achieved": 1,
+      "unlocktime": 1752251134,
+      "name": "Boss Slayer II",
+      "description": "Kill a total of 40 Bosses."
+    },
+    {
+      "apiname": "q_Main_CriticalHit_1",
+      "achieved": 1,
+      "unlocktime": 1751299025,
+      "name": "Pinpoint I",
+      "description": "Crit enemies 50 000 times."
+    },
+    {
+      "apiname": "q_Main_CriticalHit_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pinpoint II",
+      "description": "Crit enemies 500 000 times."
+    },
+    {
+      "apiname": "q_Main_Damage_1",
+      "achieved": 1,
+      "unlocktime": 1751161006,
+      "name": "Mass Destruction I",
+      "description": "Deal 10 000 000 damage over all runs."
+    },
+    {
+      "apiname": "q_Main_Damage_2",
+      "achieved": 1,
+      "unlocktime": 1751693833,
+      "name": "Mass Destruction II",
+      "description": "Deal 100 000 000 damage over all runs."
+    },
+    {
+      "apiname": "q_Main_DotApplied_1",
+      "achieved": 1,
+      "unlocktime": 1751585949,
+      "name": "Tormentor I",
+      "description": "Apply damage effects 20 000 times."
+    },
+    {
+      "apiname": "q_Main_DotApplied_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tormentor II",
+      "description": "Apply damage effects 200 000 times."
+    },
+    {
+      "apiname": "q_Main_EffectApplied_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pestbringer I",
+      "description": "Apply debuffs 50 000 times."
+    },
+    {
+      "apiname": "q_Main_EffectApplied_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pestbringer II",
+      "description": "Apply debuffs 400 000 times."
+    },
+    {
+      "apiname": "q_Main_ElitesKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751692590,
+      "name": "Elite Slayer I",
+      "description": "Kill a total of 50 Elite enemies."
+    },
+    {
+      "apiname": "q_Main_ElitesKilled_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Slayer II",
+      "description": "Kill a total of 150 Elite enemies."
+    },
+    {
+      "apiname": "q_Main_EnemiesKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751616589,
+      "name": "Horde Slayer I",
+      "description": "Kill 100 000 enemies over all runs."
+    },
+    {
+      "apiname": "q_Main_EnemiesKilled_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horde Slayer II",
+      "description": "Kill 300 000 enemies over all runs."
+    },
+    {
+      "apiname": "q_Main_GoldCollected_1",
+      "achieved": 1,
+      "unlocktime": 1751115128,
+      "name": "Obolus",
+      "description": "Collect a total of 300 gold."
+    },
+    {
+      "apiname": "q_Main_GoldCollected_2",
+      "achieved": 1,
+      "unlocktime": 1751585976,
+      "name": "Greed Rising",
+      "description": "Collect a total of 20 000 gold."
+    },
+    {
+      "apiname": "q_Main_GoldCollected_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasurer",
+      "description": "Collect a total of 200 000 gold."
+    },
+    {
+      "apiname": "q_Main_HallsEntered_1",
+      "achieved": 1,
+      "unlocktime": 1751114177,
+      "name": "First Try",
+      "description": "Enter the Halls of Torment."
+    },
+    {
+      "apiname": "q_Main_HallsEntered_2",
+      "achieved": 1,
+      "unlocktime": 1751299272,
+      "name": "Determined",
+      "description": "Enter the Halls of Torment 5 times and survive at least 3 minutes."
+    },
+    {
+      "apiname": "q_Main_HallsEntered_3",
+      "achieved": 1,
+      "unlocktime": 1751708686,
+      "name": "Steadfast",
+      "description": "Enter the Halls of Torment 20 times and survive at least 3 minutes."
+    },
+    {
+      "apiname": "q_Main_ItemPurchased_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trader",
+      "description": "Purchase 10 items from the Wellkeeper."
+    },
+    {
+      "apiname": "q_Main_ItemPurchased_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greed",
+      "description": "Purchase 30 items from the Wellkeeper."
+    },
+    {
+      "apiname": "q_Main_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751615762,
+      "name": "Novice",
+      "description": "Level up 500 times."
+    },
+    {
+      "apiname": "q_Main_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seasoned",
+      "description": "Level up 2000 times."
+    },
+    {
+      "apiname": "q_Main_LordsKilled_1",
+      "achieved": 1,
+      "unlocktime": 1751162034,
+      "name": "Survivor I",
+      "description": "Kill a total of 1 Lords."
+    },
+    {
+      "apiname": "q_Main_LordsKilled_2",
+      "achieved": 1,
+      "unlocktime": 1752510185,
+      "name": "Survivor II",
+      "description": "Kill a total of 10 Lords."
+    },
+    {
+      "apiname": "q_Main_Playtime_1",
+      "achieved": 1,
+      "unlocktime": 1751706981,
+      "name": "Guest of Hell",
+      "description": "Play for 333 minutes."
+    },
+    {
+      "apiname": "q_Main_Playtime_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Dweller",
+      "description": "Play for 666 minutes."
+    },
+    {
+      "apiname": "q_Main_PotionsCollected_1",
+      "achieved": 1,
+      "unlocktime": 1751161798,
+      "name": "Thirsty",
+      "description": "Consume a total of 10 Health Potions."
+    },
+    {
+      "apiname": "q_Main_PotionsCollected_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tippler",
+      "description": "Consume a total of 100 Health Potions."
+    },
+    {
+      "apiname": "q_Viaduct_Cupbearer_1",
+      "achieved": 1,
+      "unlocktime": 1751586710,
+      "name": "The Cupbearer",
+      "description": "Enter the Forgotten Viaduct and rescue the Cupbearer."
+    },
+    {
+      "apiname": "q_Ember_FlameStrikeMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Strike Mastery I",
+      "description": "Deal 500 000 damage with Flame Strike. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_FlameStrikeMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Strike Mastery II",
+      "description": "Deal 1 000 000 damage with Flame Strike. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_FlameStrikeMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Strike Mastery III",
+      "description": "Deal 2 000 000 damage with Flame Strike. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_FrostAvalancheMastery_1",
+      "achieved": 1,
+      "unlocktime": 1751693378,
+      "name": "Frost Avalanche Mastery I",
+      "description": "Deal 750 000 damage with Frost Avalanche. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_FrostAvalancheMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Avalanche Mastery II",
+      "description": "Deal 1 500 000 damage with Frost Avalanche. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Ember_FrostAvalancheMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Avalanche Mastery III",
+      "description": "Deal 3 000 000 damage with Frost Avalanche. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Frozen_BeastsKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Slayer I",
+      "description": "Kill 7 500 Beasts."
+    },
+    {
+      "apiname": "q_Frozen_Boss_1",
+      "achieved": 1,
+      "unlocktime": 1751707936,
+      "name": "Basilisk",
+      "description": "Defeat the Basilisk."
+    },
+    {
+      "apiname": "q_Frozen_Boss_2",
+      "achieved": 1,
+      "unlocktime": 1752251135,
+      "name": "Twisted Construct",
+      "description": "Defeat the Twisted Construct."
+    },
+    {
+      "apiname": "q_Frozen_Boss_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elder Giant",
+      "description": "Defeat the Elder Giant."
+    },
+    {
+      "apiname": "q_Frozen_GhoulsKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghoul Slayer I",
+      "description": "Kill 10 000 Ghouls."
+    },
+    {
+      "apiname": "q_Frozen_IceCreaturesKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Slayer I",
+      "description": "Kill 5 000 creatures made of ice."
+    },
+    {
+      "apiname": "q_Frozen_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1751707571,
+      "name": "Depths Dominator I",
+      "description": "Kill 500 enemies in one visit to the Frozen Depths."
+    },
+    {
+      "apiname": "q_Frozen_Kills_2",
+      "achieved": 1,
+      "unlocktime": 1751708122,
+      "name": "Depths Dominator II",
+      "description": "Kill 3 000 enemies in one visit to the Frozen Depths."
+    },
+    {
+      "apiname": "q_Frozen_Kills_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Depths Dominator III",
+      "description": "Kill 7 500 enemies in one visit to the Frozen Depths."
+    },
+    {
+      "apiname": "q_Frozen_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1752510185,
+      "name": "Lord of Hate",
+      "description": "Defeat the Lord of Hate."
+    },
+    {
+      "apiname": "q_Frozen_Survive_1",
+      "achieved": 1,
+      "unlocktime": 1751708175,
+      "name": "Depths Survivor I",
+      "description": "Survive the Frozen Depths until there are only 18 minutes left."
+    },
+    {
+      "apiname": "q_Frozen_Survive_2",
+      "achieved": 1,
+      "unlocktime": 1752251125,
+      "name": "Depths Survivor II",
+      "description": "Survive the Frozen Depths until there are only 10 minutes left."
+    },
+    {
+      "apiname": "q_Frozen_Survive_3",
+      "achieved": 1,
+      "unlocktime": 1752509744,
+      "name": "Depths Survivor III",
+      "description": "Survive the Frozen Depths until there are only 2 minutes left."
+    },
+    {
+      "apiname": "q_Norseman_FrostKill_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash Freeze",
+      "description": "[Norseman] Kill 4 000 enemies with the Frost effect in one run."
+    },
+    {
+      "apiname": "q_Norseman_HitsPerNova_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Wave",
+      "description": "[Norseman] Hit 30 enemies with a single Frost Nova."
+    },
+    {
+      "apiname": "q_Norseman_HitsTotalAxe_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Rage",
+      "description": "[Norseman] Land 20 000 hits on enemies with your axes in one run."
+    },
+    {
+      "apiname": "q_Norseman_Level_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Norseman",
+      "description": "[Norseman] Reach level 30."
+    },
+    {
+      "apiname": "q_Norseman_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Norseman",
+      "description": "[Norseman] Reach level 60."
+    },
+    {
+      "apiname": "q_Norseman_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Norseman",
+      "description": "[Norseman] Reach Agony III in the Frozen Depths."
+    },
+    {
+      "apiname": "q_Norseman_PhysicalDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bladestorm I",
+      "description": "[Norseman] Deal 500 000 Ice damage in one run."
+    },
+    {
+      "apiname": "q_Norseman_PhysicalDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bladestorm II",
+      "description": "[Norseman] Deal 2 000 000 Ice damage in one run."
+    },
+    {
+      "apiname": "q_Norseman_PhysicalDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bladestorm III",
+      "description": "[Norseman] Deal 5 000 000 Ice damage in one run."
+    },
+    {
+      "apiname": "q_Norseman_SpiritWarriorMastery_1",
+      "achieved": 1,
+      "unlocktime": 1752251299,
+      "name": "Spirit Warrior Mastery I",
+      "description": "Deal 750 000 damage with the Spirit Warrior."
+    },
+    {
+      "apiname": "q_Norseman_SpiritWarriorMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Warrior Mastery II",
+      "description": "Deal 1 500 000 damage with the Spirit Warrior."
+    },
+    {
+      "apiname": "q_Norseman_SpiritWarriorMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Warrior Mastery III",
+      "description": "Deal 3 000 000 damage with the Spirit Warrior."
+    },
+    {
+      "apiname": "q_BeastHuntress_ArcaneRiftMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Rift Mastery I",
+      "description": "Deal 750 000 damage with Arcane Rift."
+    },
+    {
+      "apiname": "q_BeastHuntress_ArcaneRiftMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Rift Mastery II",
+      "description": "Deal 1 500 000 damage with Arcane Rift."
+    },
+    {
+      "apiname": "q_BeastHuntress_ArcaneRiftMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Rift Mastery III",
+      "description": "Deal 3 000 000 damage with Arcane Rift."
+    },
+    {
+      "apiname": "q_BeastHuntress_DogDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dog Trainer",
+      "description": "[Beast Huntress] Have your Hound deal 1 000 000 damage."
+    },
+    {
+      "apiname": "q_BeastHuntress_FrostDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Permafrost I",
+      "description": "[Norseman] Deal 1 000 000 Frost damage in one run."
+    },
+    {
+      "apiname": "q_BeastHuntress_IceDamage_1",
+      "achieved": 1,
+      "unlocktime": 1751891402,
+      "name": "Deadly Fangs I",
+      "description": "[Beast Huntress] Deal 500 000 Physical damage in one run."
+    },
+    {
+      "apiname": "q_BeastHuntress_IceDamage_2",
+      "achieved": 1,
+      "unlocktime": 1751891983,
+      "name": "Deadly Fangs II",
+      "description": "[Beast Huntress] Deal 2 000 000 Physical damage in one run."
+    },
+    {
+      "apiname": "q_BeastHuntress_IceDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Fangs III",
+      "description": "[Beast Huntress] Deal 5 000 000 Physical damage in one run."
+    },
+    {
+      "apiname": "q_BeastHuntress_Level_1",
+      "achieved": 1,
+      "unlocktime": 1751891745,
+      "name": "Novice Beast Huntress",
+      "description": "[Beast Huntress] Reach level 30."
+    },
+    {
+      "apiname": "q_BeastHuntress_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Beast Huntress",
+      "description": "[Beast Huntress] Reach level 60."
+    },
+    {
+      "apiname": "q_BeastHuntress_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Beast Huntress",
+      "description": "[Beast Huntress] Reach Agony III in the Frozen Depths."
+    },
+    {
+      "apiname": "q_Frozen_HailstormMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hailstorm Mastery I",
+      "description": "Deal 750 000 damage with Hailstorm. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Frozen_HailstormMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hailstorm Mastery II",
+      "description": "Deal 1 500 000 damage with Hailstorm. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Frozen_HailstormMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hailstorm Mastery III",
+      "description": "Deal 3 000 000 damage with Hailstorm. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Viaduct_NeedleSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phantom Needles Specialist",
+      "description": "Deal 5 000 over-crits with Phantom Needles. *Req. more than 100% Crit Chance."
+    },
+    {
+      "apiname": "q_Viaduct_OrbSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Astronomer's Orbs Specialist",
+      "description": "Hit enemies 30 000 times with Astronomer's Orbs. *Quest can be completed on any stage."
+    },
+    {
+      "apiname": "q_Viaduct_SlowApplies_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crippling Strikes",
+      "description": "Apply 100 000 Slow stacks in one run."
+    },
+    {
+      "apiname": "q_Archer_TransfixionSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transfixion Specialist",
+      "description": "Apply 50 000 effect stacks with Transfixion."
+    },
+    {
+      "apiname": "q_Warlock_SummonCount_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horde Summoner",
+      "description": "[Warlock] Have 20 Summons active at the same time. *Attack projectiles do not count."
+    },
+    {
+      "apiname": "q_Norseman_Powerups_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior's Fervor",
+      "description": "[Norseman] Collect 10 Power Ups in one run."
+    },
+    {
+      "apiname": "q_Viaduct_SplinterSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Splinters Specialist",
+      "description": "Have 200 Arcane Splinters active at the same time."
+    },
+    {
+      "apiname": "q_Viaduct_StrikesSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strikes Specialist",
+      "description": "One hit kill 100 enemies that have 2 000+ health w/ Lightning Strikes in one run."
+    },
+    {
+      "apiname": "q_Cleric_RadiantAuraSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Radiant Aura Specialist",
+      "description": "Deal a 100 000+ damage hit on one enemy with Radiant Aura without using Fragile."
+    },
+    {
+      "apiname": "q_Exterminator_DragonsBreathSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon's Breath Specialist",
+      "description": "Trigger direct Burn damage 1 000 times with Dragon's Breath. (Apply Burn on enemies with 20 Burn stacks)"
+    },
+    {
+      "apiname": "q_Sorceress_MeteorSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Specialist",
+      "description": "Deal 100 critical hits with a single meteor. Overcrits count multiple times."
+    },
+    {
+      "apiname": "q_Swordsman_RingBladeSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ring Blades Specialist",
+      "description": "Have all Ring Blades projectiles travel a combined distance of 250000 meters in one run."
+    },
+    {
+      "apiname": "q_Warlock_GolemSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golem Specialist",
+      "description": "Have the Golem roll for a total duration of 15 minutes in one run."
+    },
+    {
+      "apiname": "q_Dissonance_Boss_1",
+      "achieved": 1,
+      "unlocktime": 1752543620,
+      "name": "Void Caller",
+      "description": "Defeat the Void Caller."
+    },
+    {
+      "apiname": "q_Dissonance_Boss_2",
+      "achieved": 1,
+      "unlocktime": 1752544495,
+      "name": "The Village",
+      "description": "Defeat the Village."
+    },
+    {
+      "apiname": "q_Dissonance_Boss_3",
+      "achieved": 1,
+      "unlocktime": 1752545529,
+      "name": "Twisted Knight",
+      "description": "Defeat the Twisted Knight."
+    },
+    {
+      "apiname": "q_Dissonance_Kills_1",
+      "achieved": 1,
+      "unlocktime": 1752544100,
+      "name": "Dissonance Dominator I",
+      "description": "Kill 5 000 enemies in one visit to the Chambers of Dissonance."
+    },
+    {
+      "apiname": "q_Dissonance_Kills_2",
+      "achieved": 1,
+      "unlocktime": 1752545163,
+      "name": "Dissonance Dominator II",
+      "description": "Kill 10 000 enemies in one visit to the Chambers of Dissonance."
+    },
+    {
+      "apiname": "q_Dissonance_Kills_3",
+      "achieved": 1,
+      "unlocktime": 1752545903,
+      "name": "Dissonance Dominator III",
+      "description": "Kill 15 000 enemies in one visit to the Chambers of Dissonance."
+    },
+    {
+      "apiname": "q_Dissonance_Lord_1",
+      "achieved": 1,
+      "unlocktime": 1752546135,
+      "name": "Lord of Discord",
+      "description": "Defeat the Lord of Discord."
+    },
+    {
+      "apiname": "q_Dissonance_Survive_1",
+      "achieved": 1,
+      "unlocktime": 1752500181,
+      "name": "Dissonance Survivor I",
+      "description": "Survive the Chambers of Dissonance until there are only 20 minutes left."
+    },
+    {
+      "apiname": "q_Dissonance_Survive_2",
+      "achieved": 1,
+      "unlocktime": 1752544558,
+      "name": "Dissonance Survivor II",
+      "description": "Survive the Chambers of Dissonance until there are only 12 minutes left."
+    },
+    {
+      "apiname": "q_Dissonance_Survive_3",
+      "achieved": 1,
+      "unlocktime": 1752545688,
+      "name": "Dissonance Survivor III",
+      "description": "Survive the Chambers of Dissonance until there are only 4 minutes left."
+    },
+    {
+      "apiname": "q_Dissonance_Survive_Agony",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Agony",
+      "description": "Survive the Chambers of Dissonance in Agony Mode until the Lord appears."
+    },
+    {
+      "apiname": "q_Landsknecht_DamagePeak_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Markswoman",
+      "description": "[Landsknecht] Deal 10 000 damage with a single hit."
+    },
+    {
+      "apiname": "q_Landsknecht_GrenadeDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grenadier I",
+      "description": "Deal 1 500 000 damage with Grenades."
+    },
+    {
+      "apiname": "q_Landsknecht_GrenadeDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grenadier II",
+      "description": "Deal 3 500 000 damage with Grenades."
+    },
+    {
+      "apiname": "q_Landsknecht_ItemDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Technician I",
+      "description": "[Landsknecht] Deal 2 000 000 damage with items."
+    },
+    {
+      "apiname": "q_Landsknecht_ItemDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Technician II",
+      "description": "[Landsknecht] Deal 5 000 000 damage with items."
+    },
+    {
+      "apiname": "q_Landsknecht_Level_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Landsknecht",
+      "description": "[Landsknecht] Reach level 40."
+    },
+    {
+      "apiname": "q_Landsknecht_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Landsknecht",
+      "description": "[Landsknecht] Reach level 80."
+    },
+    {
+      "apiname": "q_Landsknecht_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Landsknecht",
+      "description": "[Landsknecht] Reach Agony III in the Chambers of Dissonance."
+    },
+    {
+      "apiname": "q_Landsknecht_MorningStarMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Morning Star Mastery I",
+      "description": "Deal 1 000 000 damage with Morning Star."
+    },
+    {
+      "apiname": "q_Landsknecht_MorningStarMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Morning Star Mastery II",
+      "description": "Deal 2 000 000 damage with Morning Star."
+    },
+    {
+      "apiname": "q_Landsknecht_MorningStarMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Morning Star Mastery III",
+      "description": "Deal 5 000 000 damage with Morning Star."
+    },
+    {
+      "apiname": "q_Landsknecht_ProjectileDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riflewoman I",
+      "description": "[Landsknecht] Deal 1 000 000 Projectile damage in one run."
+    },
+    {
+      "apiname": "q_Landsknecht_ProjectileDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riflewoman II",
+      "description": "[Landsknecht] Deal 4 000 000 Projectile damage in one run."
+    },
+    {
+      "apiname": "q_Landsknecht_ProjectileDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riflewoman III",
+      "description": "[Landsknecht] Deal 10 000 000 Projectile damage in one run."
+    },
+    {
+      "apiname": "q_Sage_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ability Mastery I",
+      "description": "[Sage] Deal 5 000 000 direct damage with abilities."
+    },
+    {
+      "apiname": "q_Sage_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ability Mastery II",
+      "description": "[Sage] Deal 15 000 000 direct damage with abilities."
+    },
+    {
+      "apiname": "q_Sage_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ability Mastery III",
+      "description": "[Sage] Deal 50 000 000 direct damage with abilities."
+    },
+    {
+      "apiname": "q_Sage_Level_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Sage",
+      "description": "[Sage] Reach level 50."
+    },
+    {
+      "apiname": "q_Sage_Level_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trained Sage",
+      "description": "[Sage] Reach level 100."
+    },
+    {
+      "apiname": "q_Sage_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Sage",
+      "description": "[Sage] Reach Agony IV in the Chambers of Dissonance."
+    },
+    {
+      "apiname": "q_Sage_MainDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ability Focus I",
+      "description": "[Sage] Deal 10 000 000 damage with your main ability."
+    },
+    {
+      "apiname": "q_Sage_MainDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ability Focus II",
+      "description": "[Sage] Deal 100 000 000 damage with your main ability."
+    },
+    {
+      "apiname": "q_Sage_SpectralFistsMastery_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectral Fists Mastery I",
+      "description": "Deal 2 000 000 damage with Spectral Fists."
+    },
+    {
+      "apiname": "q_Sage_SpectralFistsMastery_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectral Fists Mastery II",
+      "description": "Deal 5 000 000 damage with Spectral Fists."
+    },
+    {
+      "apiname": "q_Sage_SpectralFistsMastery_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectral Fists Mastery III",
+      "description": "Deal 10 000 000 damage with Spectral Fists."
+    },
+    {
+      "apiname": "q_Sage_SpectralFistsSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectral Fists Specialist",
+      "description": "Hit 100 enemies for 10 000 damage or more each. Overkill damage counts."
+    },
+    {
+      "apiname": "q_Frozen_HailstormSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hailstorm Specialist",
+      "description": "Apply Frost 50 000 times with Hailstorm."
+    },
+    {
+      "apiname": "q_Landsknecht_MorningStarSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Morning Star Specialist",
+      "description": "Hit 25 enemies with a single instance of Morning Star 100 times."
+    },
+    {
+      "apiname": "q_Norseman_SpiritWarriorSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Warrior Specialist",
+      "description": "Deal 10 000 000 damage with the Spirit Warrior's dash or dash explosion in one run."
+    },
+    {
+      "apiname": "q_Ember_FrostAvalancheSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Avalanche Specialist",
+      "description": "Have Frost Avalanche fire projectiles or place obstacles 5 000 times per minute."
+    },
+    {
+      "apiname": "q_Sorceress_CritsPerSecond_1",
+      "achieved": 1,
+      "unlocktime": 1751640670,
+      "name": "Fatal Strikes",
+      "description": "[Sorceress] Reach an average of 10 critical hits per second with the Sorceress's main attack."
+    },
+    {
+      "apiname": "q_Ember_FlameStrikeSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Strike Specialist",
+      "description": "Deal 100 000 damage with a single hit."
+    },
+    {
+      "apiname": "q_BeastHuntress_ArcaneRiftSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arcane Rift Specialist",
+      "description": "Kill 2 000 enemies at full health with a single hit of Arcane Rift."
+    },
+    {
+      "apiname": "q_Shieldmaiden_KugelblitzSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kugelblitz Specialist",
+      "description": "Trigger direct Spark damage 100 times using Kugelblitz. (Apply Spark on enemies with 20 Spark stacks)"
+    },
+    {
+      "apiname": "q_Dissonance_CarpaKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capra Slayer I",
+      "description": "Kill 10 000 Capras."
+    },
+    {
+      "apiname": "q_Dissonance_ConstructKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Construct Slayer I",
+      "description": "Kill 10 000 Constructs."
+    },
+    {
+      "apiname": "q_Dissonance_HomunculusKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homunculus Slayer I",
+      "description": "Kill 10 000 Homunculi."
+    },
+    {
+      "apiname": "q_BeastHuntress_FrostDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Permafrost II",
+      "description": "[Norseman] Deal 10 000 000 Frost damage in one run."
+    },
+    {
+      "apiname": "q_Norseman_Evade_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable II",
+      "description": "[Norseman] Avoid being hit for 360 seconds."
+    },
+    {
+      "apiname": "q_BeastHuntress_Regenerate_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood's Blessing",
+      "description": "[Beast Huntress] Recover 5 000 HP in one run."
+    },
+    {
+      "apiname": "q_Archer_ApplySpark_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparking Eye",
+      "description": "[Archer] Apply Spark 100 000 times in one run."
+    },
+    {
+      "apiname": "q_Archer_Evade_2",
+      "achieved": 1,
+      "unlocktime": 1751705172,
+      "name": "Untouchable III",
+      "description": "[Archer] Avoid being hit for 9 minutes."
+    },
+    {
+      "apiname": "q_Archer_MovingSpeed_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guided by the Wind II",
+      "description": "[Archer] Increase your movement speed to 20m/s."
+    },
+    {
+      "apiname": "q_Archer_NoCrits_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dull Point",
+      "description": "[Archer] Avoid dealing critical hits for 15 minutes."
+    },
+    {
+      "apiname": "q_Art_ApocryphalCurse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apocryphal Curse",
+      "description": "Defeat a Lord with the artifact 'Apocryphal Curse' active."
+    },
+    {
+      "apiname": "q_Art_ArcheologistsThread",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archeologist's Thread",
+      "description": "Defeat a Lord with the artifact 'Archeologist's Thread' active."
+    },
+    {
+      "apiname": "q_Art_BurdeningStone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burdening Stone",
+      "description": "Defeat a Lord with the artifact 'Burdening Stone' active."
+    },
+    {
+      "apiname": "q_Art_ConfusingLens",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confusing Lens",
+      "description": "Defeat a Lord with the artifact 'Confusing Lens' active."
+    },
+    {
+      "apiname": "q_Art_CurseOfCommitment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curse of Commitment",
+      "description": "Defeat a Lord with the artifact 'Curse of Commitment' active."
+    },
+    {
+      "apiname": "q_Art_DemonicCube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Cube",
+      "description": "Defeat a Lord with the artifact 'Demonic Cube' active."
+    },
+    {
+      "apiname": "q_Art_FaceOfRegret",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Face of Regret",
+      "description": "Defeat a Lord with the artifact 'Face of Regret' active."
+    },
+    {
+      "apiname": "q_Art_FallenStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallen Star",
+      "description": "Defeat a Lord with the artifact 'Fallen Star' active."
+    },
+    {
+      "apiname": "q_Art_FlagellantsFootcuff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flagellant's Foot Cuff",
+      "description": "Defeat a Lord with the artifact 'Flagellant's Foot Cuff' active."
+    },
+    {
+      "apiname": "q_Art_GoldenScarab",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Scarab",
+      "description": "Defeat a Lord with the artifact 'Golden Scarab' active."
+    },
+    {
+      "apiname": "q_Art_HastingSands",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hastening Sands",
+      "description": "Defeat a Lord with the artifact 'Hastening Sands' active."
+    },
+    {
+      "apiname": "q_Art_HiltlessDagger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hiltless Dagger",
+      "description": "Defeat a Lord with the artifact 'Hiltless Dagger' active."
+    },
+    {
+      "apiname": "q_Art_IdolOfHunger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Idol of Hunger",
+      "description": "Defeat a Lord with the artifact 'Idol of Hunger' active."
+    },
+    {
+      "apiname": "q_Art_IvoryDice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ivory Dice",
+      "description": "Defeat a Lord with the artifact 'Ivory Dice' active."
+    },
+    {
+      "apiname": "q_Art_KillingGaze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killing Gaze",
+      "description": "Defeat a Lord with the artifact 'Killing Gaze' active."
+    },
+    {
+      "apiname": "q_Art_LivingDarkness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living Darkness",
+      "description": "Defeat a Lord with the artifact 'Living Darkness' active."
+    },
+    {
+      "apiname": "q_Art_MagmaVessel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magma Vessel",
+      "description": "Defeat a Lord with the artifact 'Magma Vessel' active."
+    },
+    {
+      "apiname": "q_Art_MalignantMirror",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Malignant Mirror",
+      "description": "Defeat a Lord with the artifact 'Malignant Mirror' active."
+    },
+    {
+      "apiname": "q_Art_MastersVice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master's Vice",
+      "description": "Defeat a Lord with the artifact 'Master's Vice' active."
+    },
+    {
+      "apiname": "q_Art_MindVeil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mind Veil",
+      "description": "Defeat a Lord with the artifact 'Mind Veil' active."
+    },
+    {
+      "apiname": "q_Art_MountainIdol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain Idol",
+      "description": "Defeat a Lord with the artifact 'Mountain Idol' active."
+    },
+    {
+      "apiname": "q_Art_ObsidianDice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obsidian Dice",
+      "description": "Defeat a Lord with the artifact 'Obsidian Dice' active."
+    },
+    {
+      "apiname": "q_Art_PrimordialEdict",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Primordial Edict",
+      "description": "Defeat a Lord with the artifact 'Primordial Edict' active."
+    },
+    {
+      "apiname": "q_Art_RestlessWheel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restless Wheel",
+      "description": "Defeat a Lord with the artifact 'Restless Wheel' active."
+    },
+    {
+      "apiname": "q_Art_ScalesOfPain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scales of Pain",
+      "description": "Defeat a Lord with the artifact 'Scales of Pain' active."
+    },
+    {
+      "apiname": "q_Art_ScorchedHand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Hand",
+      "description": "Defeat a Lord with the artifact 'Scorched Hand' active."
+    },
+    {
+      "apiname": "q_Art_SilverCut",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Cut",
+      "description": "Defeat a Lord with the artifact 'Silver Cut' active."
+    },
+    {
+      "apiname": "q_Art_TormentBanner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Torment Banner",
+      "description": "Defeat a Lord with the artifact 'Torment Banner' active."
+    },
+    {
+      "apiname": "q_Art_TrickstersChime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trickster's Chime",
+      "description": "Defeat a Lord with the artifact 'Trickster's Chime' active."
+    },
+    {
+      "apiname": "q_Art_UrnOfTheDamned",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Urn of the Damned",
+      "description": "Defeat a Lord with the artifact 'Urn of the Damned' active."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionCarpa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capra Huntress",
+      "description": "Hunt 3 'Capra' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionGargoyle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gargoyle Huntress",
+      "description": "Hunt 3 'Gargoyle' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionGhoul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghoul Huntress",
+      "description": "Hunt 3 'Frost Ghoul' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionHomunculus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homunculus Huntress",
+      "description": "Hunt 3 'Homunculus' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionImp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imp Huntress",
+      "description": "Hunt 3 'Imp' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionPolarBeast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polar Huntress",
+      "description": "Hunt 2 'Polar Beast' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionScorched",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Huntress",
+      "description": "Hunt 5 'Scorched' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionSkeleton",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeleton Huntress",
+      "description": "Hunt 3 'Skeleton' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionsKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Championess",
+      "description": "[Beast Huntress] Kill 15 Champions in one run."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionSlime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Huntress",
+      "description": "Hunt 3 'Slime' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_ChampionWraith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wraith Huntress",
+      "description": "Hunt 3 'Wraith' Champions."
+    },
+    {
+      "apiname": "q_BeastHuntress_DogDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dog Trainer II",
+      "description": "[Beast Huntress] Have your Hound deal 10 000 000 damage."
+    },
+    {
+      "apiname": "q_BeastHuntress_GoldCollected_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Trail",
+      "description": "[Beast Huntress] Collect 1 000 gold with the artifact 'Golden Scarab' active."
+    },
+    {
+      "apiname": "q_BeastHuntress_GoldSlimeFound",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniffer",
+      "description": "[Beast Huntress] Sniff out 3 Gold Slimes."
+    },
+    {
+      "apiname": "q_BeastHuntress_MovingSpeed_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flight and Fight",
+      "description": "[Beast Huntress] Decrease your movement speed to -12m/s with the artifact 'Confusing Lens'."
+    },
+    {
+      "apiname": "q_BeastHuntress_NoEffectKills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pure Strength",
+      "description": "[Beast Huntress] Do not kill enemies with effects for 30 minutes."
+    },
+    {
+      "apiname": "q_Caverns_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Caverns_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Caverns_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Caverns_Kills_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Army of the Dead",
+      "description": "Kill 50 666 enemies in one run."
+    },
+    {
+      "apiname": "q_Caverns_LordQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Secret",
+      "description": "Collect the Protective Pendant."
+    },
+    {
+      "apiname": "q_Caverns_NoAbilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavern Adept",
+      "description": "Don't deal damage with abilities for 30 minutes. Must be completed before Lord spawns."
+    },
+    {
+      "apiname": "q_Cleric_FragileWhileFootcuff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste Your Medicine",
+      "description": "[Cleric] Apply Fragile 100 000 times with the artifact 'Flagellant's Foot Cuff' active."
+    },
+    {
+      "apiname": "q_Cleric_Pacifist_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacifist",
+      "description": "Do not deal damage for 10 minutes."
+    },
+    {
+      "apiname": "q_Cleric_Regenerate_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleric's Stand II",
+      "description": "[Cleric] Regenerate 10 000 HP in one run. Only passive Regeneration is counted."
+    },
+    {
+      "apiname": "q_Cleric_SingleTargetDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banish Evil",
+      "description": "[Cleric] Deal 15 000 damage with a single hit."
+    },
+    {
+      "apiname": "q_Dissonance_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Dissonance_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Dissonance_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Dissonance_FindAbilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obsidian Skill",
+      "description": "Acquire 10 abilities with the artifact 'Obsidian Dice' active."
+    },
+    {
+      "apiname": "q_Dissonance_FindChests",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ivory Find",
+      "description": "Find 5 items with the artifact 'Ivory Dice' active."
+    },
+    {
+      "apiname": "q_Dissonance_LordQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Secret",
+      "description": "Deal 100 000 damage with the Dissonator Monolith."
+    },
+    {
+      "apiname": "q_Dissonance_NoAbilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Adept",
+      "description": "Don't deal damage with abilities for 30 minutes. Must be completed before Lord spawns."
+    },
+    {
+      "apiname": "q_Dissonance_TimeAttack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dissonance Speedster",
+      "description": "Activate the Dissonator Monolith within 3 minutes."
+    },
+    {
+      "apiname": "q_Ember_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ember Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Ember_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ember Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Ember_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ember Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Ember_LordQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ember Secret",
+      "description": "Collect the Cracked Ember Eye."
+    },
+    {
+      "apiname": "q_Ember_NoAbilities",
+      "achieved": 1,
+      "unlocktime": 1751616512,
+      "name": "Ember Adept",
+      "description": "Don't deal damage with abilities for 30 minutes. Must be completed before Lord spawns."
+    },
+    {
+      "apiname": "q_Exterminator_ApplyFrost_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold as Fire",
+      "description": "[Exterminator] Apply Frost 100 000 times."
+    },
+    {
+      "apiname": "q_Exterminator_BurnKills_1",
+      "achieved": 1,
+      "unlocktime": 1751587505,
+      "name": "Death by Fire",
+      "description": "[Exterminator] Kill 10 000 enemies with effects."
+    },
+    {
+      "apiname": "q_Exterminator_CritChance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critical Burn",
+      "description": "[Exterminator] Reach 50% Crit Chance."
+    },
+    {
+      "apiname": "q_Exterminator_MassBurn_2",
+      "achieved": 1,
+      "unlocktime": 1751588472,
+      "name": "Burning Masses II",
+      "description": "[Exterminator] Have 80 or more Burn effects active at the same time."
+    },
+    {
+      "apiname": "q_Frozen_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Depths Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Frozen_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Depths Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Frozen_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Depths Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Frozen_LordQuest",
+      "achieved": 1,
+      "unlocktime": 1751707718,
+      "name": "Frozen Secret",
+      "description": "Collect the Hating Heart."
+    },
+    {
+      "apiname": "q_Frozen_NoAbilities",
+      "achieved": 1,
+      "unlocktime": 1752509870,
+      "name": "Depths Adept",
+      "description": "Don't deal damage with abilities for 30 minutes. Must be completed before Lord spawns."
+    },
+    {
+      "apiname": "q_Frozen_Scriptor",
+      "achieved": 1,
+      "unlocktime": 1751707731,
+      "name": "Scriptor",
+      "description": "Enter the Frozen Depths and rescue the Scriptor."
+    },
+    {
+      "apiname": "q_Frozen_Scriptor_2",
+      "achieved": 1,
+      "unlocktime": 1751708773,
+      "name": "Improvement",
+      "description": "Use the Scriptor's service for the first time."
+    },
+    {
+      "apiname": "q_Landsknecht_BulletStorm_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bulletstorm",
+      "description": "[Landsknecht] Deal Projectile damage 6 000 times in one minute."
+    },
+    {
+      "apiname": "q_Landsknecht_DamagePeak_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Markswoman II",
+      "description": "[Landsknecht] Deal 25  000 damage with a single hit."
+    },
+    {
+      "apiname": "q_Landsknecht_GrenadePeakDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holy Grenade",
+      "description": "[Landsknecht] Deal 50 000 damage with a single Grenade."
+    },
+    {
+      "apiname": "q_Main_Abilities_1",
+      "achieved": 1,
+      "unlocktime": 1751160800,
+      "name": "Literate I",
+      "description": "Acquire 10 abilities or ability upgrades."
+    },
+    {
+      "apiname": "q_Main_Abilities_2",
+      "achieved": 1,
+      "unlocktime": 1752543656,
+      "name": "Literate II",
+      "description": "Acquire 100 abilities or ability upgrades."
+    },
+    {
+      "apiname": "q_Main_Abilities_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Literate III",
+      "description": "Acquire 500 abilities or ability upgrades."
+    },
+    {
+      "apiname": "q_Main_Agony_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agony I",
+      "description": "Increase Agony rank 10 times. Reaching the same Agony rank multiple times per run does not count."
+    },
+    {
+      "apiname": "q_Main_Agony_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agony II",
+      "description": "Increase Agony rank 50 times. Reaching the same Agony rank multiple times per run does not count."
+    },
+    {
+      "apiname": "q_Main_Agony_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agony III",
+      "description": "Increase Agony rank 150 times. Reaching the same Agony rank multiple times per run does not count."
+    },
+    {
+      "apiname": "q_Main_Artifacts_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artifact of Doom",
+      "description": "Send up your first artifact."
+    },
+    {
+      "apiname": "q_Main_Artifacts_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raider of Artifacts",
+      "description": "Five makes a collection."
+    },
+    {
+      "apiname": "q_Main_Artifacts_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artifact Crusade",
+      "description": "20 artifacts—no treasure is safe!"
+    },
+    {
+      "apiname": "q_Main_BlockedDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank I",
+      "description": "Block 30 000 damage."
+    },
+    {
+      "apiname": "q_Main_BlockedDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank II",
+      "description": "Block 100 000 damage."
+    },
+    {
+      "apiname": "q_Main_BlockedDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank III",
+      "description": "Block 300 000 damage."
+    },
+    {
+      "apiname": "q_Main_BossesKilled_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss Slayer III",
+      "description": "Kill a total of 100 Bosses."
+    },
+    {
+      "apiname": "q_Main_ChampionsKilled_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion Slayer I",
+      "description": "Kill a total of 10 Champion enemies. Champions can only be found in Agony Mode."
+    },
+    {
+      "apiname": "q_Main_ChampionsKilled_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion Slayer II",
+      "description": "Kill a total of 100 Champion enemies. Champions can only be found in Agony Mode."
+    },
+    {
+      "apiname": "q_Main_ChampionsKilled_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion Slayer III",
+      "description": "Kill a total of 400 Champion enemies. Champions can only be found in Agony Mode."
+    },
+    {
+      "apiname": "q_Main_CriticalHit_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pinpoint III",
+      "description": "Crit enemies 1 500 000 times."
+    },
+    {
+      "apiname": "q_Main_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mass Destruction III",
+      "description": "Deal 1 000 000 000 damage over all runs."
+    },
+    {
+      "apiname": "q_Main_Distance_1",
+      "achieved": 1,
+      "unlocktime": 1751705824,
+      "name": "Wanderer I",
+      "description": "Walk a total distance of 100 000 meters."
+    },
+    {
+      "apiname": "q_Main_Distance_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanderer II",
+      "description": "Walk a total distance of 250 000 meters."
+    },
+    {
+      "apiname": "q_Main_Distance_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanderer III",
+      "description": "Walk a total distance of 500 000 meters."
+    },
+    {
+      "apiname": "q_Main_DotApplied_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tormentor III",
+      "description": "Apply damage effects 2 000 000 times."
+    },
+    {
+      "apiname": "q_Main_EffectApplied_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pestbringer III",
+      "description": "Apply debuffs 1 000 000 times."
+    },
+    {
+      "apiname": "q_Main_EffectsMaxed_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcharged I",
+      "description": "Hit 20+ damage effect stacks 5 000 times. (Burn, Spark, or Frost)"
+    },
+    {
+      "apiname": "q_Main_EffectsMaxed_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcharged II",
+      "description": "Hit 20+ damage effect stacks 20 000 times. (Burn, Spark, or Frost)"
+    },
+    {
+      "apiname": "q_Main_EffectsMaxed_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcharged III",
+      "description": "Hit 20+ damage effect stacks 100 000 times. (Burn, Spark, or Frost)"
+    },
+    {
+      "apiname": "q_Main_ElitesKilled_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Slayer III",
+      "description": "Kill a total of 250 Elite enemies."
+    },
+    {
+      "apiname": "q_Main_EnemiesKilled_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horde Slayer III",
+      "description": "Kill 500 000 enemies over all runs."
+    },
+    {
+      "apiname": "q_Main_ItemDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attuned I",
+      "description": "Deal 1 000 000 damage with items over all runs."
+    },
+    {
+      "apiname": "q_Main_ItemDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attuned II",
+      "description": "Deal 10 000 000 damage with items over all runs."
+    },
+    {
+      "apiname": "q_Main_ItemDamage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attuned III",
+      "description": "Deal 100 000 000 damage with items over all runs."
+    },
+    {
+      "apiname": "q_Main_Level_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary",
+      "description": "Level up 5 000 times."
+    },
+    {
+      "apiname": "q_Main_LordsKilled_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor III",
+      "description": "Kill a total of 50 Lords."
+    },
+    {
+      "apiname": "q_Main_Playtime_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Upside Down",
+      "description": "Play for 999 minutes."
+    },
+    {
+      "apiname": "q_Main_PotionsCollected_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacked Out",
+      "description": "Consume a total of 500 Health Potions."
+    },
+    {
+      "apiname": "q_Main_PowerUpCollected_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Boost I",
+      "description": "Collect a total of 100 Power Ups."
+    },
+    {
+      "apiname": "q_Main_PowerUpCollected_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Boost II",
+      "description": "Collect a total of 300 Power Ups."
+    },
+    {
+      "apiname": "q_Main_PowerUpCollected_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Boost III",
+      "description": "Collect a total of 500 Power Ups."
+    },
+    {
+      "apiname": "q_Main_Regenerated_1",
+      "achieved": 1,
+      "unlocktime": 1751459645,
+      "name": "Recovery I",
+      "description": "Recover 10 000 HP over all runs."
+    },
+    {
+      "apiname": "q_Main_Regenerated_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recovery II",
+      "description": "Recover 50 000 HP over all runs."
+    },
+    {
+      "apiname": "q_Main_Regenerated_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recovery III",
+      "description": "Recover 150 000 HP over all runs."
+    },
+    {
+      "apiname": "q_Main_ShardsCollected_1",
+      "achieved": 1,
+      "unlocktime": 1751616670,
+      "name": "Power Surge I",
+      "description": "Collect a total of 5 Torment Shards."
+    },
+    {
+      "apiname": "q_Main_ShardsCollected_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Surge II",
+      "description": "Collect a total of 20 Torment Shards."
+    },
+    {
+      "apiname": "q_Main_ShardsCollected_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Surge III",
+      "description": "Collect a total of 50 Torment Shards."
+    },
+    {
+      "apiname": "q_Norseman_ApplyBurn_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Blooded",
+      "description": "[Norseman] Apply Burn 100 000 times."
+    },
+    {
+      "apiname": "q_Norseman_BannerKills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Berserker's Blood",
+      "description": "[Norseman] Kill 2 222 enemies in the Frozen Depths within 5 minutes. (Use the artifact 'Torment Banner')"
+    },
+    {
+      "apiname": "q_Norseman_FrostKill_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash Freeze II",
+      "description": "[Norseman] Kill 12 000 enemies with the Frost effect in one run."
+    },
+    {
+      "apiname": "q_Norseman_HitsTotalAxe_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Rage II",
+      "description": "[Norseman] Land 200 000 hits on enemies with your axes in one run."
+    },
+    {
+      "apiname": "q_Norseman_MaxHealthLimit_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vitality",
+      "description": "[Norseman] Keep your max. health above 500 for 10 minutes with the artifact 'Master's Vice' active."
+    },
+    {
+      "apiname": "q_Norseman_Powerups_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior's Fervor II",
+      "description": "[Norseman] Collect 60 Power Ups in one run."
+    },
+    {
+      "apiname": "q_Sage_Abilities_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge Collector I",
+      "description": "[Sage] Acquire 9 abilities or ability upgrades."
+    },
+    {
+      "apiname": "q_Sage_Abilities_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge Collector II",
+      "description": "[Sage] Acquire 15 abilities or ability upgrades."
+    },
+    {
+      "apiname": "q_Sage_AvoidAbilities_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limited Knowledge",
+      "description": "[Sage] Avoid acquiring abilities for 26 minutes. Does not count after Lord spawns."
+    },
+    {
+      "apiname": "q_Sage_CriticalHitsPerMinute_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcritter",
+      "description": "[Sage] Deal 10 000 critical hits in a minute. Overcrits count multiple times."
+    },
+    {
+      "apiname": "q_Sage_Level_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experience Hoard",
+      "description": "[Sage] Reach level 140."
+    },
+    {
+      "apiname": "q_Shieldmaiden_BlockHits_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immortal",
+      "description": "[Shield Maiden] Block 900 attacks in one run."
+    },
+    {
+      "apiname": "q_ShieldMaiden_CriticalHitPeak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critical Prowess",
+      "description": "[Shield Maiden] Deal 33 333 damage with a single hit."
+    },
+    {
+      "apiname": "q_Shieldmaiden_GetHit_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bastion",
+      "description": "[Shield Maiden] Get hit 360 times in one run with the artifact 'Scales of Pain' active."
+    },
+    {
+      "apiname": "q_ShieldMaiden_GoldSlime_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slippery Little Crawler",
+      "description": "[Shield Maiden] Squish a slippery Gold Slime."
+    },
+    {
+      "apiname": "q_ShieldMaiden_MontainIdol_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indomitable Giant Head",
+      "description": "[Shield Maiden] Demolish the Mountain Idol's guardians."
+    },
+    {
+      "apiname": "q_Shieldmaiden_ShieldBashPeakDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloody Shield",
+      "description": "[Shield Maiden] Deal 20000 damage with a single Shield Bash."
+    },
+    {
+      "apiname": "q_Shieldmaiden_Stay_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tower II",
+      "description": "[Shield Maiden] Wait 900 seconds before starting to move. You must move to complete the quest."
+    },
+    {
+      "apiname": "q_Sorceress_CritsPerSecond_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fatal Strikes II",
+      "description": "[Sorceress] Reach an average of 50 critical hits per second with the Sorceress's main attack."
+    },
+    {
+      "apiname": "q_Sorceress_MovingSpeed_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electrostasis II",
+      "description": "[Sorceress] Increase your movement speed to 25m/s."
+    },
+    {
+      "apiname": "q_Sorceress_SparkKills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death by Electrocution",
+      "description": "[Sorceress] Kill 10 000 enemies with Spark."
+    },
+    {
+      "apiname": "q_Sworsdman_HitsPerAttack_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wide Sweep II",
+      "description": "[Swordsman] Hit 80 enemies with a single attack."
+    },
+    {
+      "apiname": "q_Swordsman_HitDamage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Hitter II",
+      "description": "[Swordsman] Hit 500 enemies for 1 500 or more damage each in one run. (Main Weapon)"
+    },
+    {
+      "apiname": "q_Swordsman_Regenerate_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood's Taste II",
+      "description": "[Swordsman] Recover 10 000 HP in one run."
+    },
+    {
+      "apiname": "q_Archer_Stay_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Aim II",
+      "description": "[Archer] Wait 360 seconds before starting to move. You must move to complete the quest."
+    },
+    {
+      "apiname": "q_Vault_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Vault_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Vault_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Vault_Kills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Dominator I",
+      "description": "Kill 5 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Vault_Kills_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Dominator II",
+      "description": "Kill 15 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Vault_Kills_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Dominator III",
+      "description": "Kill 30 000 enemies in one run."
+    },
+    {
+      "apiname": "q_Vault_Modifier_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Challenge",
+      "description": "Enter the Vault with 4 active modifiers."
+    },
+    {
+      "apiname": "q_Vault_ShardsCollected_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Challenger I",
+      "description": "Collect 2 Torment Shards in a single run."
+    },
+    {
+      "apiname": "q_Vault_ShardsCollected_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Challenger II",
+      "description": "Collect 4 Torment Shards in a single run."
+    },
+    {
+      "apiname": "q_Vault_ShardsCollected_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Challenger III",
+      "description": "Collect 6 Torment Shards in a single run."
+    },
+    {
+      "apiname": "q_Vault_Survive_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Survivor I",
+      "description": "Survive the Vault for 10 minutes."
+    },
+    {
+      "apiname": "q_Vault_Survive_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Survivor II",
+      "description": "Survive the Vault for 30 minutes."
+    },
+    {
+      "apiname": "q_Vault_Survive_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Survivor III",
+      "description": "Survive the Vault for 45 minutes."
+    },
+    {
+      "apiname": "q_Vault_TimeTrial_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Speedster I",
+      "description": "Defeat the Lord of Greed in under 15 minutes"
+    },
+    {
+      "apiname": "q_Vault_TimeTrial_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Speedster II",
+      "description": "Defeat the Lord of Greed in under 12 minutes"
+    },
+    {
+      "apiname": "q_Vault_TimeTrial_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vault Speedster III",
+      "description": "Defeat the Lord of Greed in under 9 minutes"
+    },
+    {
+      "apiname": "q_Vault_Tribute_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tribute I",
+      "description": "Pay a total of 15 000 gold as tribute."
+    },
+    {
+      "apiname": "q_Vault_Tribute_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tribute II",
+      "description": "Pay a total of 50 000 gold as tribute."
+    },
+    {
+      "apiname": "q_Vault_Tribute_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tribute III",
+      "description": "Pay a total of 150 000 gold as tribute."
+    },
+    {
+      "apiname": "q_Viaduct_Cupbearer_2",
+      "achieved": 1,
+      "unlocktime": 1751614380,
+      "name": "Gatherer",
+      "description": "Use the 'Gatherer's Charm' and find your first potion ingredient."
+    },
+    {
+      "apiname": "q_Viaduct_Damage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viaduct Berserker I",
+      "description": "Deal 50 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Viaduct_Damage_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viaduct Berserker II",
+      "description": "Deal 150 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Viaduct_Damage_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viaduct Berserker III",
+      "description": "Deal 500 000 000 damage in one run."
+    },
+    {
+      "apiname": "q_Viaduct_GhostWall_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proof of Concept",
+      "description": "Kill a Marching Ghost."
+    },
+    {
+      "apiname": "q_Viaduct_GhostWall_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Juggernaut",
+      "description": "Kill 24 Marching Ghosts."
+    },
+    {
+      "apiname": "q_Viaduct_LordQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viaduct Secret",
+      "description": "Collect the Sentinel Orb."
+    },
+    {
+      "apiname": "q_Viaduct_NoAbilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viaduct Adept",
+      "description": "Don't deal damage with abilities for 30 minutes. Must be completed before Lord spawns."
+    },
+    {
+      "apiname": "q_Viaduct_SpeedAbilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Up and Down",
+      "description": "Acquire 5 abilities within the first 3 minutes."
+    },
+    {
+      "apiname": "q_Warlock_DogDamage_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dog Walker",
+      "description": "[Warlock] Borrow the Beast Huntress's pet and have it deal 20 000 000 damage."
+    },
+    {
+      "apiname": "q_Warlock_Evade_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stepping Back II",
+      "description": "[Warlock] Avoid being hit for 10 minutes."
+    },
+    {
+      "apiname": "q_Warlock_MaxHealthLimit_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Exchange II",
+      "description": "[Warlock] Survive 5 minutes with a maximum health of 300 or less."
+    },
+    {
+      "apiname": "q_Warlock_MaxHealthLimit_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Craze",
+      "description": "[Warlock] Find a way to reduce your max. health to 1."
+    },
+    {
+      "apiname": "q_Warlock_SummonCount_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horde Summoner II",
+      "description": "[Warlock] Have 60 Summons active at the same time. *Attack projectiles do not count."
+    },
+    {
+      "apiname": "q_Vault_Lord_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Penny Dropped",
+      "description": ""
+    }
+  ]
+}

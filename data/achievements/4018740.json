@@ -1,0 +1,67 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4018740,
+  "game": "Hariti",
+  "total": 8,
+  "unlocked": 8,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:38.531448+00:00",
+  "achievements": [
+    {
+      "apiname": "捉迷藏",
+      "achieved": 1,
+      "unlocktime": 1786850903,
+      "name": "Hide and Seek",
+      "description": "No matter what, I will find you."
+    },
+    {
+      "apiname": "迷途之人",
+      "achieved": 1,
+      "unlocktime": 1786851768,
+      "name": "Lost Souls",
+      "description": "Those Trapped in the Same Space"
+    },
+    {
+      "apiname": "红色女人",
+      "achieved": 1,
+      "unlocktime": 1786852276,
+      "name": "The Woman in Red",
+      "description": "She is blood-red."
+    },
+    {
+      "apiname": "异响",
+      "achieved": 1,
+      "unlocktime": 1786852736,
+      "name": "Strange Noise",
+      "description": "Who flushed the toilet?"
+    },
+    {
+      "apiname": "“妈妈”",
+      "achieved": 1,
+      "unlocktime": 1786854757,
+      "name": "\"Mommy\"",
+      "description": "Are they calling me, or her?"
+    },
+    {
+      "apiname": "婴儿",
+      "achieved": 1,
+      "unlocktime": 1786854028,
+      "name": "Baby",
+      "description": "Not yet fully formed."
+    },
+    {
+      "apiname": "人偶之家",
+      "achieved": 1,
+      "unlocktime": 1786855436,
+      "name": "Dollhouse",
+      "description": "Her extensive collection."
+    },
+    {
+      "apiname": "鬼子母",
+      "achieved": 1,
+      "unlocktime": 1786856010,
+      "name": "Hariti",
+      "description": "\"I will protect you forever.\""
+    }
+  ]
+}

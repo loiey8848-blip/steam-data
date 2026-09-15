@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1335790,
+  "game": "Operation Tango",
+  "total": 30,
+  "unlocked": 10,
+  "percent": 33.3,
+  "updated_at_utc": "2026-09-15T06:51:24.363318+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_Name_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angel, Agent Extraordinaire",
+      "description": "Complete A Viral Heist as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_2",
+      "achieved": 1,
+      "unlocktime": 1668268056,
+      "name": "Fleming, Alistair B. Fleming",
+      "description": "Complete A Viral Heist as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forever and a Day",
+      "description": "Complete A High-Tech Target as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_4",
+      "achieved": 1,
+      "unlocktime": 1668272363,
+      "name": "Spectre",
+      "description": "Complete A High-Tech Target as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Die Another Day",
+      "description": "Complete Business on the Go as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_6",
+      "achieved": 1,
+      "unlocktime": 1668355925,
+      "name": "No Time to Die",
+      "description": "Complete Business on the Go as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost Protocol",
+      "description": "Complete Digital Dive as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_8",
+      "achieved": 1,
+      "unlocktime": 1668435879,
+      "name": "Skyfall",
+      "description": "Complete Digital Dive as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_9",
+      "achieved": 1,
+      "unlocktime": 1668441542,
+      "name": "Quantum of Solace",
+      "description": "Complete Institutional Cleanup as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The World Is Not Enough",
+      "description": "Complete Institutional Cleanup as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_11",
+      "achieved": 1,
+      "unlocktime": 1668608545,
+      "name": "It Takes Two...",
+      "description": "Complete Big-Bang Theory as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...to Save the World!",
+      "description": "Complete Big-Bang Theory as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_13",
+      "achieved": 1,
+      "unlocktime": 1668607238,
+      "name": "The Living Daylights",
+      "description": "Locate the bomb as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zero Minus Ten",
+      "description": "Locate the bomb as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Special Services",
+      "description": "Complete all missions as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_16",
+      "achieved": 1,
+      "unlocktime": 1676557707,
+      "name": "On Her Majesty's Secret Service",
+      "description": "Complete all missions as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Only Live Twice",
+      "description": "Complete all missions with both characters"
+    },
+    {
+      "apiname": "Achievement_Name_18",
+      "achieved": 1,
+      "unlocktime": 1668268533,
+      "name": "For Your Eyes Only",
+      "description": "Request a Hint"
+    },
+    {
+      "apiname": "Achievement_Name_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "License to Kill",
+      "description": "Kill your partner as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live and Let Die",
+      "description": "Kill your partner as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Spy Who Loved Me",
+      "description": "Use all emotes as an agent"
+    },
+    {
+      "apiname": "Achievement_Name_22",
+      "achieved": 1,
+      "unlocktime": 1668353590,
+      "name": "Icebreaker",
+      "description": "Send three messages to your partner as a hacker"
+    },
+    {
+      "apiname": "Achievement_Name_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Montreal, with Love",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_Name_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Operation: Tango - Mission Complete!",
+      "description": "Complete all other Achievements"
+    },
+    {
+      "apiname": "Achievement_Name_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field training complete",
+      "description": "Complete all challenges as an Agent"
+    },
+    {
+      "apiname": "Achievement_Name_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Online training complete",
+      "description": "Complete all challenges as a Hacker"
+    },
+    {
+      "apiname": "Achievement_Name_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack of all trades, master of all",
+      "description": "Complete all challenges with both characters"
+    },
+    {
+      "apiname": "Achievement_Name_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All bronze",
+      "description": "Earn a bronze medal or better in all challenges"
+    },
+    {
+      "apiname": "Achievement_Name_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Silver",
+      "description": "Earn a silver medal or better in all challenges"
+    },
+    {
+      "apiname": "Achievement_Name_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All gold",
+      "description": "Earn a gold medal in all challenges"
+    }
+  ]
+}

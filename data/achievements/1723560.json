@@ -1,0 +1,571 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1723560,
+  "game": "Ballads of Hongye",
+  "total": 80,
+  "unlocked": 1,
+  "percent": 1.2,
+  "updated_at_utc": "2026-09-15T06:52:18.992223+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_WIN_HONGYE",
+      "achieved": 1,
+      "unlocktime": 1668518118,
+      "name": "New Blood",
+      "description": "Complete Hongye challenge and proved you can rule"
+    },
+    {
+      "apiname": "ACH_WIN_XILING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breath of Life",
+      "description": "Complete West Ridge challenge"
+    },
+    {
+      "apiname": "ACH_WIN_DONGQIAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Chance",
+      "description": "Complete East Plain challenge"
+    },
+    {
+      "apiname": "ACH_WIN_SISHIGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of Refugees",
+      "description": "Complete Season Vale challenge"
+    },
+    {
+      "apiname": "ACH_WIN_XIANTIANGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land of Wonders",
+      "description": "Complete Sacrifice Vale challenge"
+    },
+    {
+      "apiname": "ACH_WIN_DANXIAAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Narrow Roads, Strong Hearts",
+      "description": "Complete Danxia Basin challenge"
+    },
+    {
+      "apiname": "ACH_WIN_YUNKU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preparation for War",
+      "description": "Complete Cloud Grotto challenge"
+    },
+    {
+      "apiname": "ACH_WIN_BEIDAMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Border Crisis",
+      "description": "Complete North Desert challenge"
+    },
+    {
+      "apiname": "ACH_WIN_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ding Hong's Great Success",
+      "description": "Complete all challenges"
+    },
+    {
+      "apiname": "ACH_WIN_S_HONGYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Hongye",
+      "description": "Complete Hongye challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_XILING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of West Ridge",
+      "description": "Complete West Ridge challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_DONGQIAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of East Plain",
+      "description": "Complete East Plain challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_SISHIGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Season Vale",
+      "description": "Complete Season Vale challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_XIANTIANGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Sacrifice Vale",
+      "description": "Complete Sacrifice Vale challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_DANXIAAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Danxia Basin",
+      "description": "Complete Danxia Basin challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_YUNKU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Cloud Grotto",
+      "description": "Complete Cloud Grotto challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_S_BEIDAMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of North Desert",
+      "description": "Complete North Desert challenge with an S+"
+    },
+    {
+      "apiname": "ACH_WIN_V_HONGYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - Hongye",
+      "description": "In Relaxed Mode, complete Hongye with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_XILING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - West Ridge",
+      "description": "In Relaxed Mode, complete West Ridge with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_DONGQIAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - East Plain",
+      "description": "In Relaxed Mode, complete East Plain with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_SISHIGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - Season Vale",
+      "description": "In Relaxed Mode, complete Season Vale with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_XIANTIANGU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - Sacrifice Vale",
+      "description": "In Relaxed Mode, complete Sacrifice Vale with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_DANXIAAO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - Danxia Basin",
+      "description": "In Relaxed Mode, complete Danxia Basin with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_YUNKU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - Cloud Grotto",
+      "description": "In Relaxed Mode, complete Cloud Grotto with three platinum medals"
+    },
+    {
+      "apiname": "ACH_WIN_V_BEIDAMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speed Demon - North Desert",
+      "description": "In Relaxed Mode, complete North Desert with three platinum medals"
+    },
+    {
+      "apiname": "ADVISER_MISSION_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonded with Loyalty",
+      "description": "Have an adviser with peak commitment"
+    },
+    {
+      "apiname": "ADVISER_PERFECT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Qualification",
+      "description": "Recruit a perfect adviser"
+    },
+    {
+      "apiname": "TALENT_0_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zero to Hero",
+      "description": "Unlock all talents"
+    },
+    {
+      "apiname": "TALENT_0_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steady Growth",
+      "description": "Completely upgrade the talent tree"
+    },
+    {
+      "apiname": "BUILDING_NUM_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Architect",
+      "description": "Acquire 100 architectural drawings"
+    },
+    {
+      "apiname": "BUILDING_NUM_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grandmaster Architect",
+      "description": "Acquire 200 architectural drawings"
+    },
+    {
+      "apiname": "WONDER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "State of the Art - Agriculture",
+      "description": "Complete the construction of Agriculture Wonder"
+    },
+    {
+      "apiname": "WONDER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "State of the Art - Commerce",
+      "description": "Complete the construction of Commerce Wonder"
+    },
+    {
+      "apiname": "WONDER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "State of the Art - Recreational",
+      "description": "Complete the construction of Recreational Wonder"
+    },
+    {
+      "apiname": "WONDER_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "State of the Art - Security",
+      "description": "Complete the construction of Security Wonder"
+    },
+    {
+      "apiname": "BOOMLEVEL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 1",
+      "description": "Promote your county to Tier 1"
+    },
+    {
+      "apiname": "BOOMLEVEL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 2",
+      "description": "Promote your county to Tier 2 "
+    },
+    {
+      "apiname": "BOOMLEVEL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 3",
+      "description": "Promote your county to Tier 3"
+    },
+    {
+      "apiname": "BOOMLEVEL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 4",
+      "description": "Promote your county to Tier 4"
+    },
+    {
+      "apiname": "BOOMLEVEL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 5",
+      "description": "Promote your county to Tier 5"
+    },
+    {
+      "apiname": "BOOMLEVEL_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 6",
+      "description": "Promote your county to Tier 6"
+    },
+    {
+      "apiname": "BOOMLEVEL_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Development - Tier 7",
+      "description": "Promote your county to Tier 7"
+    },
+    {
+      "apiname": "BOOMLEVEL_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land of Riches",
+      "description": "Promote your county to Rich Land"
+    },
+    {
+      "apiname": "BOOMLEVEL_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Convergence of Talents",
+      "description": "Promote your county to Talent Hotspot"
+    },
+    {
+      "apiname": "BOOMLEVEL_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Setting the Trends",
+      "description": "Promote your county to Trend Setter"
+    },
+    {
+      "apiname": "BOOMLEVEL_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hongye Dream",
+      "description": "Promote your county to Miracle City"
+    },
+    {
+      "apiname": "BOOMLEVEL_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oriental Pearl",
+      "description": "Promote your county to Oriental Pearl"
+    },
+    {
+      "apiname": "BOOMLEVEL_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Utopia",
+      "description": "Promote your county to Utopia"
+    },
+    {
+      "apiname": "ALL_ADVISER_LEVEL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adviser Team - Rank C",
+      "description": "Have a team of advisers with rank C"
+    },
+    {
+      "apiname": "ALL_ADVISER_LEVEL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adviser Team - Rank B",
+      "description": "Have a team of advisers with rank B"
+    },
+    {
+      "apiname": "ALL_ADVISER_LEVEL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adviser Team - Rank A",
+      "description": "Have a team of advisers with rank A"
+    },
+    {
+      "apiname": "ALL_ADVISER_LEVEL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adviser Team - Rank S",
+      "description": "Have a team of advisers with rank S"
+    },
+    {
+      "apiname": "FAMOUS_CITY_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Place to Live",
+      "description": "Get an award for being the Best City"
+    },
+    {
+      "apiname": "FAMOUS_CITY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Culture",
+      "description": "Awarded with City of Culture in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Minerals",
+      "description": "Awarded with City of Mining in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Forestry",
+      "description": "Awarded with City of Forestry in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Clothing",
+      "description": "Awarded with City of Clothing in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Military Power",
+      "description": "Awarded with Strongest Army in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Misery",
+      "description": "Awarded with City of Misery in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Economic Capital",
+      "description": "Awarded with City of Economy in Best City Awards"
+    },
+    {
+      "apiname": "FAMOUS_CITY_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land of Delicious Food",
+      "description": "Awarded with City of Nourishment in Best City Awards"
+    },
+    {
+      "apiname": "ANECDOTE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Literate - Grade 1",
+      "description": "Read Volume 1 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preliminary Understanding",
+      "description": "Read Volume 2 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scratched The Surface",
+      "description": "Read Volume 3 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Becoming a Legend",
+      "description": "Read Volume 4 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pen with a Style",
+      "description": "Read Volume 5 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exquisite Writer",
+      "description": "Read Volume 6 of Ballads of Hongye"
+    },
+    {
+      "apiname": "ANECDOTE_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accomplished Writer",
+      "description": "Read Volume 7 of Ballads of Hongye"
+    },
+    {
+      "apiname": "OTHER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lack of Virtue",
+      "description": "Taken to court 10 times."
+    },
+    {
+      "apiname": "OTHER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "(not) Free Real Estate",
+      "description": "Sell 100 adviser residences."
+    },
+    {
+      "apiname": "OTHER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alturism",
+      "description": "Triggered petition efforts once."
+    },
+    {
+      "apiname": "OTHER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rush Hour",
+      "description": "Open 5 markets at a Grand Fair"
+    },
+    {
+      "apiname": "OTHER_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Friday",
+      "description": "Open 50 markets at a Grand Fair"
+    },
+    {
+      "apiname": "OTHER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preserving the History",
+      "description": "Remove 100 ancient tombs and hand it over to the state"
+    },
+    {
+      "apiname": "OTHER_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halo of Success",
+      "description": "Earned every other achievement."
+    },
+    {
+      "apiname": "HANDBOOK_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrial Chain Archives",
+      "description": "\tYou've activated all industrial chains in Hongye!"
+    },
+    {
+      "apiname": "HANDBOOK_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\tBuilding Archives",
+      "description": "\tYou've acquired all building blueprints!"
+    },
+    {
+      "apiname": "HANDBOOK_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\tAdviser Archives",
+      "description": "\tYou've hired all advisers!"
+    },
+    {
+      "apiname": "HANDBOOK_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\tHorse Archives",
+      "description": "\tYou've acquired all horses!"
+    },
+    {
+      "apiname": "HANDBOOK_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hongye Archives\t",
+      "description": "You've collected all the archives!"
+    }
+  ]
+}

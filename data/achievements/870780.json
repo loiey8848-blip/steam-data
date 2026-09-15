@@ -1,0 +1,480 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 870780,
+  "game": "Control Ultimate Edition",
+  "total": 67,
+  "unlocked": 67,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:04.501047+00:00",
+  "achievements": [
+    {
+      "apiname": "HILT_OF_CALIBURN_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749280814,
+      "name": "Choose to be Chosen",
+      "description": "Obtain the Service Weapon"
+    },
+    {
+      "apiname": "FRAMED_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750444819,
+      "name": "Altered Manifestations May Occur",
+      "description": ""
+    },
+    {
+      "apiname": "THE_MOLD_ONE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750442669,
+      "name": "Aggressive Growth",
+      "description": ""
+    },
+    {
+      "apiname": "SILENCE_IS_GOLDEN_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750486782,
+      "name": "Head of Communications",
+      "description": ""
+    },
+    {
+      "apiname": "TIME_TO_DIE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750446889,
+      "name": "Living Archetypes",
+      "description": ""
+    },
+    {
+      "apiname": "HERES_MUD_IN_YOUR_EYE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750074678,
+      "name": "Astral Phenomena",
+      "description": ""
+    },
+    {
+      "apiname": "ITS_A_SHIFTING_PLACE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749281443,
+      "name": "Welcome to the Oldest House",
+      "description": ""
+    },
+    {
+      "apiname": "HOTLINE_RING_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749283279,
+      "name": "Unknown Caller ",
+      "description": ""
+    },
+    {
+      "apiname": "LOCK_DOWN_WITH_YOUR_SOCKS_ON_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749296894,
+      "name": "Directorial Override",
+      "description": ""
+    },
+    {
+      "apiname": "MARSHALL_MARSHALL_MARSHALL_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749300246,
+      "name": "Old Boys' Club",
+      "description": ""
+    },
+    {
+      "apiname": "ROCK_OUT_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749302528,
+      "name": "Threshold",
+      "description": ""
+    },
+    {
+      "apiname": "BROTHERS_KEEPER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749313375,
+      "name": "My Brother's Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "ORDINARY_WORLD_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749317163,
+      "name": "The Face of the Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "THE_FISHER_KING_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749319269,
+      "name": "Finnish Tango",
+      "description": ""
+    },
+    {
+      "apiname": "LARGE_HEDRON_COLLIDER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749320335,
+      "name": "Polaris",
+      "description": ""
+    },
+    {
+      "apiname": "WAKE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749321656,
+      "name": "Take Control",
+      "description": ""
+    },
+    {
+      "apiname": "PARANATURAL_POWERHOUSE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749281929,
+      "name": "Paranatural Powerhouse",
+      "description": "Obtain the Launch Ability"
+    },
+    {
+      "apiname": "INSULAR_TELEKINESIS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749285544,
+      "name": "Insular Telekinesis",
+      "description": "Obtain the Shield Ability"
+    },
+    {
+      "apiname": "SHIFTING_POSITIONS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749284694,
+      "name": "Shifting Positions",
+      "description": "Obtain the Evade Ability"
+    },
+    {
+      "apiname": "PSYCHIC_OCCUPATION_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749298400,
+      "name": "Psychic Occupation",
+      "description": "Obtain the Seize Ability"
+    },
+    {
+      "apiname": "RISING_THOUGHT_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749312779,
+      "name": "Rising Thought",
+      "description": "Obtain the Levitate Ability"
+    },
+    {
+      "apiname": "URBAN_SPELUNKER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750489614,
+      "name": "Niche Position",
+      "description": "Find all hidden locations in the Foundation"
+    },
+    {
+      "apiname": "FEELING_LUCKY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750493047,
+      "name": "One of Us",
+      "description": ""
+    },
+    {
+      "apiname": "TICKET_TO_RIDE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749647186,
+      "name": "Star Performance",
+      "description": ""
+    },
+    {
+      "apiname": "PHANTOM_POOP_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749646104,
+      "name": "Astral Plumbing",
+      "description": ""
+    },
+    {
+      "apiname": "TAKING_THE_HISS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750076980,
+      "name": "Familiar Methodologies",
+      "description": ""
+    },
+    {
+      "apiname": "URBAN_SPELUNKER_AGAIN_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750250629,
+      "name": "Chief Investigator",
+      "description": "Find 80% of the hidden locations in the Investigations Sector"
+    },
+    {
+      "apiname": "VIVA_PINATA_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750425333,
+      "name": "Vending Spree",
+      "description": ""
+    },
+    {
+      "apiname": "HARTFELT_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750425836,
+      "name": "The Third Thing",
+      "description": ""
+    },
+    {
+      "apiname": "RETRO_GAMER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750077460,
+      "name": "Workplace Recreation",
+      "description": "Play a single game in Arcade Mode"
+    },
+    {
+      "apiname": "WERE_GOING_SHOPPING_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749283433,
+      "name": "Astral Construction",
+      "description": "Construct a Weapon Form or Mod"
+    },
+    {
+      "apiname": "THREEFOLD_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749321670,
+      "name": "Non-Standard Issue",
+      "description": "Upgrade any Weapon Form to Level 3"
+    },
+    {
+      "apiname": "TRINARY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749317291,
+      "name": "Career Development",
+      "description": "Unlock all 3 Personal Mod slots"
+    },
+    {
+      "apiname": "HELPING_HAND_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749303518,
+      "name": "The Importance of Synergy",
+      "description": "Complete 5 Side Missions"
+    },
+    {
+      "apiname": "STAFF_SUPPORT_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749647427,
+      "name": "Inter-Departmental Cooperation",
+      "description": "Complete 10 Side Missions"
+    },
+    {
+      "apiname": "PILLAR_OF_THE_COMMUNITY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750077460,
+      "name": "FBC Crisis Solution Task Force",
+      "description": "Complete 15 Side Missions"
+    },
+    {
+      "apiname": "PERSONAL_WEALTH_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749311916,
+      "name": "Paranatural Collection",
+      "description": "Collect more than 100,000 Source"
+    },
+    {
+      "apiname": "HISSTERICAL_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749560394,
+      "name": "Interdimensional Defender",
+      "description": "Killed 1000 Hiss"
+    },
+    {
+      "apiname": "EMPOWERED_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749283385,
+      "name": "Parautilitarian",
+      "description": "Unlock 1 Ability Upgrade"
+    },
+    {
+      "apiname": "UNRIVALED_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749643843,
+      "name": "Expert Parautilitarian",
+      "description": "Spend 50 Ability Points"
+    },
+    {
+      "apiname": "UNLIMITED_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750441877,
+      "name": "Master Parautilitarian",
+      "description": "Spend 100 Ability Points"
+    },
+    {
+      "apiname": "BUREAU_ACQUAINTANCE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749285060,
+      "name": "Ritualistic Thinking",
+      "description": "Cleanse 5 Control Points"
+    },
+    {
+      "apiname": "BUREAU_BUDDY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749297842,
+      "name": "Ritual Intuition",
+      "description": "Cleanse 10 Control Points"
+    },
+    {
+      "apiname": "BUREAU_HERO_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749321912,
+      "name": "Discerning the Pattern",
+      "description": "Cleanse 25 Control Points"
+    },
+    {
+      "apiname": "THE_JOURNEY_OF_1000_MILES_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749282737,
+      "name": "Strange Collection",
+      "description": "Collect 40 Collectibles"
+    },
+    {
+      "apiname": "BEGINS_WITH_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749297635,
+      "name": "Record Keeper",
+      "description": "Collect 80 Collectibles"
+    },
+    {
+      "apiname": "ONE_STEP_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749303997,
+      "name": "Bureau Archivist",
+      "description": "Collect 120 Collectibles"
+    },
+    {
+      "apiname": "PUPPET_MASTER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749298642,
+      "name": "Cognitive Intruder",
+      "description": "Compel 10 enemies with the Seize Ability"
+    },
+    {
+      "apiname": "INTERCEPT_TRAJECTORY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749285553,
+      "name": "Unstable Matter",
+      "description": "Kill 50 enemies with the Launch Ability"
+    },
+    {
+      "apiname": "SHIELD_BASH_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749642679,
+      "name": "Volatile Debris",
+      "description": "Kill 10 enemies with the Shield Burst Ability"
+    },
+    {
+      "apiname": "RETURN_TO_SENDER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749297378,
+      "name": "Proper Handling Procedures",
+      "description": "Use Launch to throw a grenade or rocket"
+    },
+    {
+      "apiname": "TRIAL_LEWOUS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749299788,
+      "name": "War Games",
+      "description": "Complete 5 Board Countermeasures"
+    },
+    {
+      "apiname": "FIRST_CLASS_DIRECTOR_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750491047,
+      "name": "Astral Tactician",
+      "description": "Complete 25 Board Countermeasures"
+    },
+    {
+      "apiname": "FIRST_RESPONDER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749297047,
+      "name": "First On the Scene",
+      "description": "Complete 1 Bureau Alert"
+    },
+    {
+      "apiname": "PROBLEM_SOLVER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749645096,
+      "name": "Crisis Management",
+      "description": "Complete 5 Bureau Alerts"
+    },
+    {
+      "apiname": "CREATE_DESTROY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749559497,
+      "name": "< Make/Unmake >",
+      "description": "Use Shape and Fracture a combined total of 100 times"
+    },
+    {
+      "apiname": "X_RAYS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749646729,
+      "name": "Hostile Work Environment",
+      "description": "Kill 50 Hiss Sharpened"
+    },
+    {
+      "apiname": "BATTERING_RAM_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750447325,
+      "name": "Rush Job",
+      "description": "Kill 100 enemies with Shield Rush"
+    },
+    {
+      "apiname": "DIGGING_FOR_CLUES_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750494388,
+      "name": "Subterranean Research",
+      "description": "Collect all Collectibles in the Foundation"
+    },
+    {
+      "apiname": "RECRUITMENT_OFFICER_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749646050,
+      "name": "Supportive Staff",
+      "description": "Have a Deployed Ranger kill 5 enemies"
+    },
+    {
+      "apiname": "MASTER_OF_TARTARUS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750488414,
+      "name": "A Strong Foundation",
+      "description": "Complete all Missions in the Foundation"
+    },
+    {
+      "apiname": "EXPLOSIONS_WITH_FRIENDS_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750250211,
+      "name": "Surge Protector",
+      "description": "Kill 50 enemies with Surge"
+    },
+    {
+      "apiname": "AIR_SUPERIORITY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750471019,
+      "name": "Elevated Mind",
+      "description": "Kill 25 Airborne Rangers"
+    },
+    {
+      "apiname": "MULTI_LAUNCH_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1749644683,
+      "name": "Multiple Applications",
+      "description": "Use Multi-Launch to hit 3 targets"
+    },
+    {
+      "apiname": "DLC2_LORE_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750250954,
+      "name": "In-depth Investigations",
+      "description": "Find 80% of the Collectibles in the Investigations Sector"
+    },
+    {
+      "apiname": "SPECIAL_DELIVERY_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750207513,
+      "name": "Work Smarter, Not Harder",
+      "description": ""
+    },
+    {
+      "apiname": "CUSTOM_BUILT_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1750443083,
+      "name": "Surge of Power",
+      "description": ""
+    }
+  ]
+}

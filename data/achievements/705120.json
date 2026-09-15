@@ -1,0 +1,137 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 705120,
+  "game": "DeathComing",
+  "total": 18,
+  "unlocked": 6,
+  "percent": 33.3,
+  "updated_at_utc": "2026-09-15T06:50:29.664335+00:00",
+  "achievements": [
+    {
+      "apiname": "achievement_100",
+      "achieved": 1,
+      "unlocktime": 1510131783,
+      "name": "First blood",
+      "description": "Harvest your first soul."
+    },
+    {
+      "apiname": "achievement_101",
+      "achieved": 1,
+      "unlocktime": 1510132050,
+      "name": "5-Combo",
+      "description": "Complete a 5-combo kill"
+    },
+    {
+      "apiname": "achievement_102",
+      "achieved": 1,
+      "unlocktime": 1510132125,
+      "name": "10-Combo",
+      "description": "Complete a 10-combo kill"
+    },
+    {
+      "apiname": "achievement_103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Clear",
+      "description": "Clear all Acts"
+    },
+    {
+      "apiname": "achievement_104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Reaper",
+      "description": "Achieve the highest rating in all Acts"
+    },
+    {
+      "apiname": "achievement_105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fateful Choice",
+      "description": "Kill all the marked characters"
+    },
+    {
+      "apiname": "achievement_106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Trap",
+      "description": "Spotted all Death Traps in every Stage"
+    },
+    {
+      "apiname": "achievement_107",
+      "achieved": 1,
+      "unlocktime": 1510132547,
+      "name": "Death of the Matron",
+      "description": "Kill the Matron in Act 1."
+    },
+    {
+      "apiname": "achievement_108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Nuclear",
+      "description": "Successfully launch the missile in Act 2"
+    },
+    {
+      "apiname": "achievement_109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Murder on the Express Train",
+      "description": "Kill all the passengers on the train in Act 4."
+    },
+    {
+      "apiname": "achievement_110",
+      "achieved": 1,
+      "unlocktime": 1510221434,
+      "name": "Monarch Monkey's Rage",
+      "description": "Trigger Monarch Monkey's cutscene in Act 5."
+    },
+    {
+      "apiname": "achievement_111",
+      "achieved": 1,
+      "unlocktime": 1510203780,
+      "name": "Wonderful Evening",
+      "description": "Resurrect the Werewolf, Dinosaur, Vampire and Pharaoh in Act 3."
+    },
+    {
+      "apiname": "achievement_112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alien",
+      "description": "Trigger the Alien Robot event in the Slaughter"
+    },
+    {
+      "apiname": "achievement_113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Five Flowerpot Failures",
+      "description": ""
+    },
+    {
+      "apiname": "achievement_114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angel's Favorite",
+      "description": ""
+    },
+    {
+      "apiname": "achievement_115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Christmas Present Guardian",
+      "description": "Kill 50 Thieves in Bonus 2."
+    },
+    {
+      "apiname": "achievement_116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dodge This!",
+      "description": ""
+    },
+    {
+      "apiname": "achievement_117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curtain Call",
+      "description": "Kill the 8 starred characters in Act 7 and trigger the curtain call."
+    }
+  ]
+}

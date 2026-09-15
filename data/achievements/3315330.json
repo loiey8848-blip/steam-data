@@ -1,0 +1,711 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3315330,
+  "game": "Big Winner",
+  "total": 100,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:28.485024+00:00",
+  "achievements": [
+    {
+      "apiname": "a10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Victory",
+      "description": "Win 1 Big Winner battle."
+    },
+    {
+      "apiname": "a11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert",
+      "description": "Win 5 Big Winner battles."
+    },
+    {
+      "apiname": "a12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minor Success",
+      "description": "Win 10 Big Winner battles."
+    },
+    {
+      "apiname": "a13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Star",
+      "description": "Win 20 Big Winner battles."
+    },
+    {
+      "apiname": "a14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "Win 35 Big Winner battles."
+    },
+    {
+      "apiname": "a15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unflappable",
+      "description": "Win 50 Big Winner battles."
+    },
+    {
+      "apiname": "a16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-known",
+      "description": "Win 75 Big Winner battles."
+    },
+    {
+      "apiname": "a17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outstanding",
+      "description": "Win 100 Big Winner battles."
+    },
+    {
+      "apiname": "a18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unsheathed Blade",
+      "description": "Win 130 Big Winner battles."
+    },
+    {
+      "apiname": "a19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regional Champion",
+      "description": "Win 160 Big Winner battles."
+    },
+    {
+      "apiname": "a1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Mastery",
+      "description": "Win 200 Big Winner battles."
+    },
+    {
+      "apiname": "a1001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Feat",
+      "description": "Win 250 Big Winner battles."
+    },
+    {
+      "apiname": "a1002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unrivaled",
+      "description": "Win 300 Big Winner battles."
+    },
+    {
+      "apiname": "a20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gimme One",
+      "description": "Scratch 1 lottery ticket."
+    },
+    {
+      "apiname": "a21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Isn't Much",
+      "description": "Scratch 10 lottery tickets."
+    },
+    {
+      "apiname": "a22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give Me a Dozen",
+      "description": "Scratch 20 lottery tickets."
+    },
+    {
+      "apiname": "a23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One more",
+      "description": "Scratch 40 lottery tickets."
+    },
+    {
+      "apiname": "a24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Stop",
+      "description": "Scratch 70 lottery tickets."
+    },
+    {
+      "apiname": "a25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Hundred",
+      "description": "Scratch 100 lottery tickets."
+    },
+    {
+      "apiname": "a26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pile of Discards",
+      "description": "Scratch 130 lottery tickets."
+    },
+    {
+      "apiname": "a27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ticket Dependent",
+      "description": "Scratch 160 lottery tickets."
+    },
+    {
+      "apiname": "a28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Hundred",
+      "description": "Scratch 200 lottery tickets."
+    },
+    {
+      "apiname": "a29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain of Discards",
+      "description": "Scratch 240 lottery tickets."
+    },
+    {
+      "apiname": "a2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Hundred",
+      "description": "Scratch 300 lottery tickets."
+    },
+    {
+      "apiname": "a2001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Scratching",
+      "description": "Scratch 500 lottery tickets."
+    },
+    {
+      "apiname": "a2002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limitless",
+      "description": "Scratch 1000 lottery tickets."
+    },
+    {
+      "apiname": "a30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Work Too",
+      "description": "Participate in 1 job."
+    },
+    {
+      "apiname": "a31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Survival",
+      "description": "Participate in 3 job."
+    },
+    {
+      "apiname": "a32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Working Stiff",
+      "description": "Participate in 5 job."
+    },
+    {
+      "apiname": "a33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Busy Bee",
+      "description": "Participate in 8 job."
+    },
+    {
+      "apiname": "a34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Work Pays",
+      "description": "Participate in 10 job."
+    },
+    {
+      "apiname": "a35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minor Gains",
+      "description": "Participate in 15 job."
+    },
+    {
+      "apiname": "a36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honorary Employee",
+      "description": "Participate in 20 job."
+    },
+    {
+      "apiname": "a37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Workplace Elite",
+      "description": "Participate in 25 job."
+    },
+    {
+      "apiname": "a38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Manager",
+      "description": "Participate in 30 job."
+    },
+    {
+      "apiname": "a39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Executive",
+      "description": "Participate in 35 job."
+    },
+    {
+      "apiname": "a3000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "big boss",
+      "description": "Participate in 40 job."
+    },
+    {
+      "apiname": "a3001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Board Chairman",
+      "description": "Participate in 50 job."
+    },
+    {
+      "apiname": "a3002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "River Town Tycoon",
+      "description": "Participate in 70 job."
+    },
+    {
+      "apiname": "a3003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "National Magnate",
+      "description": "Participate in 100 job."
+    },
+    {
+      "apiname": "a40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Genius",
+      "description": "Reach average ability level 5."
+    },
+    {
+      "apiname": "a41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minor Accomplishment",
+      "description": "Reach average ability level 10."
+    },
+    {
+      "apiname": "a42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scholar",
+      "description": "Reach average ability level 15."
+    },
+    {
+      "apiname": "a43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accomplished Scholar",
+      "description": "Reach average ability level 20."
+    },
+    {
+      "apiname": "a44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Provincial Candidate",
+      "description": "Reach average ability level 25."
+    },
+    {
+      "apiname": "a45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cultured Mind",
+      "description": "Reach average ability level 30."
+    },
+    {
+      "apiname": "a46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Historical Savant",
+      "description": "Reach average ability level 35."
+    },
+    {
+      "apiname": "a47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metropolitan Scholar",
+      "description": "Reach average ability level 40."
+    },
+    {
+      "apiname": "a48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walking Library",
+      "description": "Reach average ability level 45."
+    },
+    {
+      "apiname": "a49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imperial Champion",
+      "description": "Reach average ability level 50."
+    },
+    {
+      "apiname": "a50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moving Out",
+      "description": "Rent a place 1 time."
+    },
+    {
+      "apiname": "a51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomadic Life",
+      "description": "Rent a place 3 time."
+    },
+    {
+      "apiname": "a60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got Wheels!",
+      "description": "Own 1 bicycle/electric scooter."
+    },
+    {
+      "apiname": "a61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overwhelmed",
+      "description": "Own 5 bicycle/electric scooter."
+    },
+    {
+      "apiname": "a62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fleet",
+      "description": "Own 10 bicycle/electric scooter."
+    },
+    {
+      "apiname": "a70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Then...",
+      "description": "Checked the dumpster 1 time."
+    },
+    {
+      "apiname": "a71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disheveled",
+      "description": "Checked the dumpster 10 time."
+    },
+    {
+      "apiname": "a72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dumpster Diver",
+      "description": "Checked the dumpster 20 time."
+    },
+    {
+      "apiname": "a73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trash Alchemist",
+      "description": "Checked the dumpster 30 time."
+    },
+    {
+      "apiname": "a74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recycling Guru",
+      "description": "Checked the dumpster 50 time."
+    },
+    {
+      "apiname": "a75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trash King",
+      "description": "Checked the dumpster 100 time."
+    },
+    {
+      "apiname": "a80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karma Cards",
+      "description": "Purchased Karma Cards 1 time."
+    },
+    {
+      "apiname": "a81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Karma",
+      "description": "Purchased Karma Cards 5 time."
+    },
+    {
+      "apiname": "a82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karma Reversal",
+      "description": "Purchased Karma Cards 10 time."
+    },
+    {
+      "apiname": "a90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Budding Popularity",
+      "description": "Reach 1-heart favorability with 1 important NPC."
+    },
+    {
+      "apiname": "a91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noticed",
+      "description": "Reach 1-heart favorability with 3 important NPCs."
+    },
+    {
+      "apiname": "a92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Chaser",
+      "description": "Reach 3-heart favorability with 5 important NPCs"
+    },
+    {
+      "apiname": "a93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spotlight",
+      "description": "Reach 3-heart favorability with 10 important NPCs"
+    },
+    {
+      "apiname": "a100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Starve Me...",
+      "description": "Develop 1 recipe."
+    },
+    {
+      "apiname": "a101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Cooking Skills",
+      "description": "Develop 10 recipe."
+    },
+    {
+      "apiname": "a102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Cook",
+      "description": "Develop 20 recipe."
+    },
+    {
+      "apiname": "a103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Culinary Artist",
+      "description": "Develop 30 recipe."
+    },
+    {
+      "apiname": "a104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Food Connoisseur",
+      "description": "Develop 50 recipe."
+    },
+    {
+      "apiname": "a105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Chef",
+      "description": "Develop 70 recipe."
+    },
+    {
+      "apiname": "a106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imperial Banquet Master",
+      "description": "Develop 100 recipe."
+    },
+    {
+      "apiname": "a110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Hair, Green Hair",
+      "description": "Obtain 5 hairstyles."
+    },
+    {
+      "apiname": "a111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trendsetter",
+      "description": "Obtain 10 hairstyles."
+    },
+    {
+      "apiname": "a112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Counterculture",
+      "description": "Obtain 20 hairstyles."
+    },
+    {
+      "apiname": "a113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Style Icon",
+      "description": "Obtain 50 hairstyles."
+    },
+    {
+      "apiname": "a114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hair Emperor",
+      "description": "Obtain 80 hairstyles."
+    },
+    {
+      "apiname": "a115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Star",
+      "description": "Obtain 100 hairstyles."
+    },
+    {
+      "apiname": "a116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trend Master",
+      "description": "Obtain 150 hairstyles."
+    },
+    {
+      "apiname": "a117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rainbow Tresses",
+      "description": "Obtain 200 hairstyles."
+    },
+    {
+      "apiname": "a120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Wardrobe",
+      "description": "Obtain 5 clothing items or accessories."
+    },
+    {
+      "apiname": "a121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Style Enthusiast",
+      "description": "Obtain 10 clothing items or accessories."
+    },
+    {
+      "apiname": "a122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Wardrobe",
+      "description": "Obtain 20 clothing items or accessories."
+    },
+    {
+      "apiname": "a123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daily Fresh",
+      "description": "Obtain 40 clothing items or accessories."
+    },
+    {
+      "apiname": "a124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multiple Wardrobes",
+      "description": "Obtain 70 clothing items or accessories."
+    },
+    {
+      "apiname": "a125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thousand Outfits",
+      "description": "Obtain 100 clothing items or accessories."
+    },
+    {
+      "apiname": "a191",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forbidden+",
+      "description": "Clear normal ending."
+    },
+    {
+      "apiname": "a192",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leopard!",
+      "description": "Clear true ending."
+    },
+    {
+      "apiname": "a193",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loop!",
+      "description": "Clear any ending in Hard Mode."
+    },
+    {
+      "apiname": "a200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T8",
+      "description": "Reach Citizen Tier 8."
+    },
+    {
+      "apiname": "a201",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T7",
+      "description": "Reach Citizen Tier 7."
+    },
+    {
+      "apiname": "a202",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T6",
+      "description": "Reach Citizen Tier 6."
+    },
+    {
+      "apiname": "a203",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T5",
+      "description": "Reach Citizen Tier 5."
+    },
+    {
+      "apiname": "a204",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T4",
+      "description": "Reach Citizen Tier 4."
+    },
+    {
+      "apiname": "a205",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T3",
+      "description": "Reach Citizen Tier 3."
+    },
+    {
+      "apiname": "a206",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T2",
+      "description": "Reach Citizen Tier 2."
+    },
+    {
+      "apiname": "a207",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T1",
+      "description": "Reach Citizen Tier 1."
+    }
+  ]
+}

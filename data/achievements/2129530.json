@@ -1,0 +1,298 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2129530,
+  "game": "REANIMAL",
+  "total": 41,
+  "unlocked": 14,
+  "percent": 34.1,
+  "updated_at_utc": "2026-09-15T06:52:42.224102+00:00",
+  "achievements": [
+    {
+      "apiname": "CompletePelicanQuest",
+      "achieved": 1,
+      "unlocktime": 1773422709,
+      "name": "Tarred and Feathered",
+      "description": ""
+    },
+    {
+      "apiname": "ReachSandCity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a Trap!",
+      "description": ""
+    },
+    {
+      "apiname": "CompleteOrphanage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Days",
+      "description": ""
+    },
+    {
+      "apiname": "CrumbleSpiderKids",
+      "achieved": 1,
+      "unlocktime": 1785077390,
+      "name": "Scared to Dust",
+      "description": "Break all petrified kids in the clock tower"
+    },
+    {
+      "apiname": "KillMotherKids",
+      "achieved": 1,
+      "unlocktime": 1785080565,
+      "name": "Shot Through the Heart",
+      "description": "Kill 10 Spider Kids while fighting the Mother"
+    },
+    {
+      "apiname": "BreakPopcorn",
+      "achieved": 1,
+      "unlocktime": 1773818173,
+      "name": "Rock 'n Pop",
+      "description": "Break open the popcorn machine in the cinema"
+    },
+    {
+      "apiname": "PlayPiano",
+      "achieved": 1,
+      "unlocktime": 1785080131,
+      "name": "Lullabye",
+      "description": ""
+    },
+    {
+      "apiname": "ComfortPig",
+      "achieved": 1,
+      "unlocktime": 1785079775,
+      "name": "Creature Comforts",
+      "description": ""
+    },
+    {
+      "apiname": "ReachVillage",
+      "achieved": 1,
+      "unlocktime": 1773417576,
+      "name": "Home From Home",
+      "description": ""
+    },
+    {
+      "apiname": "CompleteForest",
+      "achieved": 1,
+      "unlocktime": 1773420394,
+      "name": "Save Our Skins",
+      "description": ""
+    },
+    {
+      "apiname": "ReachWar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Abyss",
+      "description": ""
+    },
+    {
+      "apiname": "CompleteWar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All is Well",
+      "description": ""
+    },
+    {
+      "apiname": "AllCritters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critter Kill Hit",
+      "description": "Kill every critter"
+    },
+    {
+      "apiname": "SitDown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a Load Off",
+      "description": "Rest your legs at 10 places around the world"
+    },
+    {
+      "apiname": "AllAltars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prayer for the Dying",
+      "description": "Pay tribute at all hidden statues"
+    },
+    {
+      "apiname": "AllPosters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Proper Gander",
+      "description": "Find and tear down all posters"
+    },
+    {
+      "apiname": "AllMasks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beneath the Mask",
+      "description": "Find all masks"
+    },
+    {
+      "apiname": "SecretsChapter1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden among the pines",
+      "description": "Find all secrets in the first three chapters"
+    },
+    {
+      "apiname": "SecretsChapter2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden among rats",
+      "description": "Find all secrets in the middle three chapters"
+    },
+    {
+      "apiname": "SecretsChapter3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden in rubble",
+      "description": "Find all secrets in the final three chapters"
+    },
+    {
+      "apiname": "SecretEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends Reunited",
+      "description": "Find all coffins and unlock the secret ending"
+    },
+    {
+      "apiname": "PushChair",
+      "achieved": 1,
+      "unlocktime": 1773815716,
+      "name": "Dark Tourism",
+      "description": ""
+    },
+    {
+      "apiname": "KillTheKing",
+      "achieved": 1,
+      "unlocktime": 1785078472,
+      "name": "Long Live The King",
+      "description": ""
+    },
+    {
+      "apiname": "ShootPlayer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends Like These",
+      "description": ""
+    },
+    {
+      "apiname": "BoatTravel",
+      "achieved": 1,
+      "unlocktime": 1785083221,
+      "name": "Lost at Sea",
+      "description": "Travel a great distance with the boat"
+    },
+    {
+      "apiname": "FailToSave",
+      "achieved": 1,
+      "unlocktime": 1785077999,
+      "name": "Survival Instinct",
+      "description": ""
+    },
+    {
+      "apiname": "CodeMachine",
+      "achieved": 1,
+      "unlocktime": 1785081725,
+      "name": "Secret Bunker",
+      "description": ""
+    },
+    {
+      "apiname": "CannonTarget",
+      "achieved": 1,
+      "unlocktime": 1785082504,
+      "name": "Non-Cannonical",
+      "description": ""
+    },
+    {
+      "apiname": "MineSweep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naval Blazing",
+      "description": ""
+    },
+    {
+      "apiname": "DestructionDerby",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destruction Derby",
+      "description": ""
+    },
+    {
+      "apiname": "KickSniper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Making Sure",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1Completed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Down",
+      "description": "Complete 'The Prisoner' DLC"
+    },
+    {
+      "apiname": "DLC1MercyKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Dark",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1TakePicture",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smile for the Camera",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1Fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warm Bodies",
+      "description": "Rest your weary bones and warm up beside the fire"
+    },
+    {
+      "apiname": "DLC1CraterView",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remains of the Day",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1AllPosters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Fly Poster",
+      "description": "Put up all of the posters"
+    },
+    {
+      "apiname": "DLC1Shame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Definition of Insanity",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1Suitcases",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blood Hound",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1Shadows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frame Fatale",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1PetrifiedKids",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust Buster",
+      "description": "Shatter all petrified Spider Kids with the axe"
+    }
+  ]
+}

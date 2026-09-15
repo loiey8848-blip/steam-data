@@ -1,0 +1,109 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 238320,
+  "game": "Outlast",
+  "total": 14,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:46.735866+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ILLUMINATED",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FLUSHED",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SOAKED",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "EMANCIPATED",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "EDUCATED",
+      "description": "Collect 15 documents and complete 15 recordings"
+    },
+    {
+      "apiname": "Achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "PUNISHED",
+      "description": "Finish the game"
+    },
+    {
+      "apiname": "Achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "PULITZER",
+      "description": "Collect all documents and complete all recordings"
+    },
+    {
+      "apiname": "Achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LUNATIC",
+      "description": "Finish the game in Insane mode"
+    },
+    {
+      "apiname": "Achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GAS LEAKER",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SHOCKER",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WHISTLEBLOWER",
+      "description": "Finish the Whistleblower DLC"
+    },
+    {
+      "apiname": "Achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOWELWHISTLER",
+      "description": "Finish the DLC in Insane mode"
+    },
+    {
+      "apiname": "Achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ARCHIVIST",
+      "description": "Collect all documents"
+    },
+    {
+      "apiname": "Achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LEGACY",
+      "description": "Complete all recordings"
+    }
+  ]
+}

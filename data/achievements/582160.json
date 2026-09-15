@@ -1,0 +1,480 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 582160,
+  "game": "Assassin's Creed Origins",
+  "total": 67,
+  "unlocked": 11,
+  "percent": 16.4,
+  "updated_at_utc": "2026-09-15T06:50:15.884625+00:00",
+  "achievements": [
+    {
+      "apiname": "001",
+      "achieved": 1,
+      "unlocktime": 1510328589,
+      "name": "First Steps",
+      "description": ""
+    },
+    {
+      "apiname": "002",
+      "achieved": 1,
+      "unlocktime": 1510426790,
+      "name": "I'm Just Getting Started",
+      "description": ""
+    },
+    {
+      "apiname": "003",
+      "achieved": 1,
+      "unlocktime": 1516452562,
+      "name": "The Sea",
+      "description": ""
+    },
+    {
+      "apiname": "004",
+      "achieved": 1,
+      "unlocktime": 1516451863,
+      "name": "The Scarab",
+      "description": ""
+    },
+    {
+      "apiname": "005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hyena",
+      "description": ""
+    },
+    {
+      "apiname": "006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Crocodile",
+      "description": ""
+    },
+    {
+      "apiname": "007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lizard",
+      "description": ""
+    },
+    {
+      "apiname": "008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Siege",
+      "description": ""
+    },
+    {
+      "apiname": "009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wake Up!",
+      "description": ""
+    },
+    {
+      "apiname": "010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Almost There",
+      "description": ""
+    },
+    {
+      "apiname": "011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End",
+      "description": ""
+    },
+    {
+      "apiname": "012",
+      "achieved": 1,
+      "unlocktime": 1516434448,
+      "name": "I'm a Legend",
+      "description": "Be equipped with only Legendary equipment."
+    },
+    {
+      "apiname": "013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Done Learning",
+      "description": "Activate a Master ability."
+    },
+    {
+      "apiname": "014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overheating",
+      "description": "Witness raining bugs in the desert."
+    },
+    {
+      "apiname": "015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Those About to Die…",
+      "description": "Complete all arena events in the Krokodilopolis Arena."
+    },
+    {
+      "apiname": "016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fatality!",
+      "description": "Finish an arena boss with an Overpower Attack."
+    },
+    {
+      "apiname": "017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ben-Hur",
+      "description": "Win the first Hippodrome tournament."
+    },
+    {
+      "apiname": "018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Road Rage",
+      "description": "Destroy an opponent in a Hippodrome race."
+    },
+    {
+      "apiname": "019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Harder They Fall",
+      "description": "Defeat the war elephants Qetesh & Resheph."
+    },
+    {
+      "apiname": "020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slasher",
+      "description": "Kill 3 enemies with one hit."
+    },
+    {
+      "apiname": "021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Arrow Whisperer",
+      "description": "Kill an enemy with the predator bow from more than 60 meters while controlling the arrow."
+    },
+    {
+      "apiname": "022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words of Wisdom",
+      "description": "Complete all hermit locations."
+    },
+    {
+      "apiname": "023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Circle of Life",
+      "description": "Feed a predator with a corpse."
+    },
+    {
+      "apiname": "024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seven Farmers",
+      "description": ""
+    },
+    {
+      "apiname": "025",
+      "achieved": 1,
+      "unlocktime": 1510339666,
+      "name": "The Festival",
+      "description": ""
+    },
+    {
+      "apiname": "026",
+      "achieved": 1,
+      "unlocktime": 1510581502,
+      "name": "Shadow of Egypt",
+      "description": "Kill 10 enemies in a row without being detected."
+    },
+    {
+      "apiname": "027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smash!",
+      "description": ""
+    },
+    {
+      "apiname": "028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Know My Land",
+      "description": "Defog the whole map."
+    },
+    {
+      "apiname": "029",
+      "achieved": 1,
+      "unlocktime": 1510324803,
+      "name": "Raider of the Lost Tomb",
+      "description": "Complete a tomb."
+    },
+    {
+      "apiname": "030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can See My House From Here!",
+      "description": "Reach the \"Top of the World\" in the Black Desert territory."
+    },
+    {
+      "apiname": "031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Set-up Date",
+      "description": "Bring a tamed lion to a crocodile."
+    },
+    {
+      "apiname": "032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where's My Black Flag?",
+      "description": ""
+    },
+    {
+      "apiname": "033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reporter",
+      "description": "Take 1 photo in 5 different territories."
+    },
+    {
+      "apiname": "034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overdesign",
+      "description": "Kill a poisoned level 35+ enemy with the torch in less than 30 seconds."
+    },
+    {
+      "apiname": "035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free as a Bird",
+      "description": ""
+    },
+    {
+      "apiname": "036",
+      "achieved": 1,
+      "unlocktime": 1510580884,
+      "name": "Triathlete",
+      "description": ""
+    },
+    {
+      "apiname": "037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archer of the Month",
+      "description": "Headshot kill an enemy with the bow while in the air."
+    },
+    {
+      "apiname": "038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOOM!",
+      "description": "Kill 30 enemies by shooting a fire arrow at oil jars."
+    },
+    {
+      "apiname": "039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rider's Licence",
+      "description": "Use all types of vehicle at least once."
+    },
+    {
+      "apiname": "040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Habits",
+      "description": "Complete all locations."
+    },
+    {
+      "apiname": "041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Run For Your Life!",
+      "description": ""
+    },
+    {
+      "apiname": "042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elementary, My Dear Bayek",
+      "description": "Solve a papyrus mystery."
+    },
+    {
+      "apiname": "043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reduce, Reuse, Recycle",
+      "description": "Sell 100 trinkets at once."
+    },
+    {
+      "apiname": "044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Namaste",
+      "description": ""
+    },
+    {
+      "apiname": "045",
+      "achieved": 1,
+      "unlocktime": 1516450388,
+      "name": "You still need 8880...",
+      "description": "Reach level 20."
+    },
+    {
+      "apiname": "046",
+      "achieved": 1,
+      "unlocktime": 1510424677,
+      "name": "Stargazer",
+      "description": "Complete all 12 Stone Circles."
+    },
+    {
+      "apiname": "047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Diver",
+      "description": "Complete 15 underwater locations."
+    },
+    {
+      "apiname": "048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defy Authority",
+      "description": "Defeat a Phylakes."
+    },
+    {
+      "apiname": "049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handy Man",
+      "description": "Craft 20 items."
+    },
+    {
+      "apiname": "050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roooaaarrrrr!",
+      "description": "Tame a lion."
+    },
+    {
+      "apiname": "051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Time is It?",
+      "description": "Perform a leap of faith from Arsinoe's sundial obelisk between 10 am and noon (The Hidden Ones)"
+    },
+    {
+      "apiname": "052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zip it Off",
+      "description": "Perform 3 Assassinations from a zipline (The Hidden Ones)"
+    },
+    {
+      "apiname": "053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prison Break",
+      "description": "Free 20 Rebels (The Hidden Ones)"
+    },
+    {
+      "apiname": "054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Team Play",
+      "description": "Kill an enemy with a headshot while they are being harassed by Senu (The Hidden Ones)"
+    },
+    {
+      "apiname": "055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walls of the Ruler",
+      "description": "Complete the Walls-of-the-Ruler citadel (The Hidden Ones)"
+    },
+    {
+      "apiname": "056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Surgical Strikes",
+      "description": ""
+    },
+    {
+      "apiname": "057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Recruits",
+      "description": ""
+    },
+    {
+      "apiname": "058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Greater Good",
+      "description": ""
+    },
+    {
+      "apiname": "059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Visit",
+      "description": "Complete one tour"
+    },
+    {
+      "apiname": "060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archeologist",
+      "description": "Complete all tours in the Daily Life category"
+    },
+    {
+      "apiname": "061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polymorph",
+      "description": "Complete tours with at least 5 different characters"
+    },
+    {
+      "apiname": "062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lift the Curse",
+      "description": ""
+    },
+    {
+      "apiname": "063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Higher Power",
+      "description": "Reach level 55 (The Curse of the Pharaohs)"
+    },
+    {
+      "apiname": "064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Horse",
+      "description": "Acquire Eternal Maw for use outside the Afterlifes (The Curse of the Pharaohs)"
+    },
+    {
+      "apiname": "065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sting in the Tale",
+      "description": "Complete the 5 Serqet locations (The Curse of the Pharaohs)"
+    },
+    {
+      "apiname": "066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Project Comet",
+      "description": "Craft an upgrade using Shards of a Star (The Curse of the Pharaohs)"
+    },
+    {
+      "apiname": "067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromaniac",
+      "description": "Kill a Mummy by setting it on fire (The Curse of the Pharaohs)"
+    }
+  ]
+}

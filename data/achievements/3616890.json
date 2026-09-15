@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3616890,
+  "game": "Blade & Soul Heroes",
+  "total": 43,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:32.324206+00:00",
+  "achievements": [
+    {
+      "apiname": "achievement_steam_001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Conqueror",
+      "description": "Clear Boss Trial (Solo) in Normal Mode"
+    },
+    {
+      "apiname": "achievement_steam_002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solitary Legend",
+      "description": "Clear Boss Trial (Solo) in Hard Mode"
+    },
+    {
+      "apiname": "achievement_steam_004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Cooperation",
+      "description": "Clear Boss Trial (Party) in Normal Mode"
+    },
+    {
+      "apiname": "achievement_steam_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend of Teamwork",
+      "description": "Clear Boss Trial (Party) in Hard Mode"
+    },
+    {
+      "apiname": "achievement_steam_007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trusted Problem Solver",
+      "description": "Complete a Request"
+    },
+    {
+      "apiname": "achievement_steam_008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Explorer",
+      "description": "Complete Exploration"
+    },
+    {
+      "apiname": "achievement_steam_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Darkness",
+      "description": "Defeat Underground Dungeon Monsters"
+    },
+    {
+      "apiname": "achievement_steam_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infinite Challenger",
+      "description": "Enter Legacy Grounds"
+    },
+    {
+      "apiname": "achievement_steam_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duel Master",
+      "description": "Win a Showdown"
+    },
+    {
+      "apiname": "achievement_steam_014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inner strength",
+      "description": "Clear Mind Training"
+    },
+    {
+      "apiname": "achievement_steam_015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Bounty Hunt Victory"
+    },
+    {
+      "apiname": "achievement_steam_016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Predator of the Earth",
+      "description": "Contribute in Defeating a Field Boss"
+    },
+    {
+      "apiname": "achievement_steam_017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Flames",
+      "description": "Reinforce Equipment"
+    },
+    {
+      "apiname": "achievement_steam_018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolition Expert",
+      "description": "Salvage Equipment"
+    },
+    {
+      "apiname": "achievement_steam_019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hand of Creation",
+      "description": "Craft"
+    },
+    {
+      "apiname": "achievement_steam_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fusion Technician",
+      "description": "Fuse"
+    },
+    {
+      "apiname": "achievement_steam_021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guide of the Divine",
+      "description": "Complete Divine Idol Collection"
+    },
+    {
+      "apiname": "achievement_steam_022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shining Legacy",
+      "description": "Engrave Clan Astral Map Slot"
+    },
+    {
+      "apiname": "achievement_steam_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Symbol of Devotion",
+      "description": "Donate Guild Artifact"
+    },
+    {
+      "apiname": "achievement_steam_026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prestige of a Noble Clan",
+      "description": "Clan Fame"
+    },
+    {
+      "apiname": "achievement_steam_027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limit Breaker",
+      "description": "Imbue Hero"
+    },
+    {
+      "apiname": "achievement_steam_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of Growth",
+      "description": "Hero Level Up"
+    },
+    {
+      "apiname": "achievement_steam_029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Martial Arts",
+      "description": "Enhance a Hero's Field Skill"
+    },
+    {
+      "apiname": "achievement_steam_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Making of a Hero",
+      "description": "Claim Hero Goal Completion Rewards"
+    },
+    {
+      "apiname": "achievement_steam_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heroes' Bond",
+      "description": "Acquire a Hero"
+    },
+    {
+      "apiname": "achievement_steam_033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian's Friend",
+      "description": "Acquire a Guardian"
+    },
+    {
+      "apiname": "achievement_steam_034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arms Expert",
+      "description": "Obtain Equipment"
+    },
+    {
+      "apiname": "achievement_steam_035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Timing",
+      "description": "Block Skills with Joint Attack"
+    },
+    {
+      "apiname": "achievement_steam_036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Evasion",
+      "description": "Parry"
+    },
+    {
+      "apiname": "achievement_steam_037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heir to the Secret Arts",
+      "description": "Use Clan Secret Art"
+    },
+    {
+      "apiname": "achievement_steam_038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strike the Opening",
+      "description": "Activate Monster's Weakness"
+    },
+    {
+      "apiname": "achievement_steam_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finishing Blow",
+      "description": "Use Ultimate Skill in Tactics Battle"
+    },
+    {
+      "apiname": "achievement_steam_040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battlefield Commander",
+      "description": "Activate Combo Effect"
+    },
+    {
+      "apiname": "achievement_steam_041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss Hunter",
+      "description": "Clear Raid Battle in Normal Mode"
+    },
+    {
+      "apiname": "achievement_steam_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indomitable Spirit",
+      "description": "Dead"
+    },
+    {
+      "apiname": "achievement_steam_043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Trial",
+      "description": "Clear Tactical Trial"
+    },
+    {
+      "apiname": "achievement_steam_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birth of a Masterpiece",
+      "description": "Crafting Great Success"
+    },
+    {
+      "apiname": "achievement_steam_045",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Skills",
+      "description": "Use Consumables in Field Battle"
+    },
+    {
+      "apiname": "achievement_steam_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joint Charge",
+      "description": "Participate in a Guild Raid"
+    },
+    {
+      "apiname": "achievement_steam_047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Returning the Favor",
+      "description": "Claim Guild Request Reward"
+    },
+    {
+      "apiname": "achievement_steam_048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenge of Fortune",
+      "description": "Spin the Wheel of Fate"
+    },
+    {
+      "apiname": "achievement_steam_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Art of Consumption",
+      "description": "Use Gold"
+    },
+    {
+      "apiname": "achievement_steam_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Belt of the Realm",
+      "description": "Claim Belt"
+    }
+  ]
+}

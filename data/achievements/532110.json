@@ -1,0 +1,123 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 532110,
+  "game": "Rusty Lake: Roots",
+  "total": 16,
+  "unlocked": 9,
+  "percent": 56.2,
+  "updated_at_utc": "2026-09-15T06:50:07.734342+00:00",
+  "achievements": [
+    {
+      "apiname": "tree",
+      "achieved": 1,
+      "unlocktime": 1516186840,
+      "name": "Plant a Tree",
+      "description": "The Vanderboom family tree"
+    },
+    {
+      "apiname": "nipple",
+      "achieved": 1,
+      "unlocktime": 1516187126,
+      "name": "The Nipple",
+      "description": "Nipplegate"
+    },
+    {
+      "apiname": "triplets",
+      "achieved": 1,
+      "unlocktime": 1516187837,
+      "name": "Triplets",
+      "description": "Difficult delivery"
+    },
+    {
+      "apiname": "elixir",
+      "achieved": 1,
+      "unlocktime": 1516188126,
+      "name": "The Elixir",
+      "description": "The elixir of life and death"
+    },
+    {
+      "apiname": "mask",
+      "achieved": 1,
+      "unlocktime": 1516196300,
+      "name": "The Moon Mask",
+      "description": "To the Moon and Back"
+    },
+    {
+      "apiname": "eye",
+      "achieved": 1,
+      "unlocktime": 1516197619,
+      "name": "The Eye",
+      "description": "An eye for an eye"
+    },
+    {
+      "apiname": "piss",
+      "achieved": 1,
+      "unlocktime": 1516199142,
+      "name": "The Cup",
+      "description": "A refreshing drink"
+    },
+    {
+      "apiname": "dale",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Date",
+      "description": "The day he was born"
+    },
+    {
+      "apiname": "rebirth",
+      "achieved": 1,
+      "unlocktime": 1516206775,
+      "name": "Rebirth",
+      "description": "The circle of life"
+    },
+    {
+      "apiname": "dress",
+      "achieved": 1,
+      "unlocktime": 1516200014,
+      "name": "The Dress",
+      "description": "A familiar dress"
+    },
+    {
+      "apiname": "medals",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Emblem",
+      "description": "Back to your roots"
+    },
+    {
+      "apiname": "daughter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Laura",
+      "description": "She will return to the lake"
+    },
+    {
+      "apiname": "black_cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Cube",
+      "description": "Dark memories"
+    },
+    {
+      "apiname": "white_cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Cube",
+      "description": "Light memories"
+    },
+    {
+      "apiname": "cocktail",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rusty Lake Cocktail",
+      "description": "You look like you can use a drink"
+    },
+    {
+      "apiname": "crow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Crow",
+      "description": "The crow and his brother"
+    }
+  ]
+}

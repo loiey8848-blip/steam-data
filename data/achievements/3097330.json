@@ -1,0 +1,480 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3097330,
+  "game": "ReMix",
+  "total": 67,
+  "unlocked": 16,
+  "percent": 23.9,
+  "updated_at_utc": "2026-09-15T06:53:26.402196+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVE_10010",
+      "achieved": 1,
+      "unlocktime": 1725631881,
+      "name": "Beyond the limit I",
+      "description": "Complete difficulty 0 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the Limits II",
+      "description": "Complete difficulty 1 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the Limits III",
+      "description": "Complete difficulty 2 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the Limit IV",
+      "description": "Complete difficulty 3 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the limitV",
+      "description": "Complete difficulty 4 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the limit VI",
+      "description": "Complete difficulty 5 with any hero"
+    },
+    {
+      "apiname": "ACHIEVE_10016",
+      "achieved": 1,
+      "unlocktime": 1725630845,
+      "name": "Out of the world",
+      "description": "Defeat 100 musical monsters in total"
+    },
+    {
+      "apiname": "ACHIEVE_10020",
+      "achieved": 1,
+      "unlocktime": 1725631034,
+      "name": "Out of the world I",
+      "description": "Defeat 500 musical monsters in total"
+    },
+    {
+      "apiname": "ACHIEVE_10021",
+      "achieved": 1,
+      "unlocktime": 1725631432,
+      "name": "Out of the world II",
+      "description": "Defeat a total of 1,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10022",
+      "achieved": 1,
+      "unlocktime": 1725631811,
+      "name": "Out of the world III",
+      "description": "Defeat a total of 2,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the world IV",
+      "description": "Defeat a total of 4,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the world V",
+      "description": "Defeat a total of 8,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the world VI",
+      "description": "Defeated a total of 10,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the world VII",
+      "description": "Defeat a total of 12,000 rhythm monsters"
+    },
+    {
+      "apiname": "ACHIEVE_10027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the world VIII",
+      "description": "Defeat 15,000 musical monsters in total"
+    },
+    {
+      "apiname": "ACHIEVE_10030",
+      "achieved": 1,
+      "unlocktime": 1725630845,
+      "name": "First Blood",
+      "description": "Kill 100 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10031",
+      "achieved": 1,
+      "unlocktime": 1725631034,
+      "name": "Killing Spree",
+      "description": "Kill 500 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10032",
+      "achieved": 1,
+      "unlocktime": 1725631811,
+      "name": "Rampage",
+      "description": "Kill 1,000 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10033",
+      "achieved": 1,
+      "unlocktime": 1725631881,
+      "name": "Unstoppable",
+      "description": "Kill 1,300 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominating",
+      "description": "Kill 1800 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monsterlike",
+      "description": "Kill 2,000 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Godlike",
+      "description": "Kill 2,500 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wicked Sick!",
+      "description": "Kill 4,000 monsters in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10040",
+      "achieved": 1,
+      "unlocktime": 1725631506,
+      "name": "Worker",
+      "description": "Get 2000 money"
+    },
+    {
+      "apiname": "ACHIEVE_10050",
+      "achieved": 1,
+      "unlocktime": 1725630852,
+      "name": "Rapid Progress",
+      "description": "The team reaches level 5 in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maestro",
+      "description": "The team reaches level 20 in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Band Manager",
+      "description": "The team reaches level 25 in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10075",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Manager",
+      "description": "The team reaches level 30 in a single game"
+    },
+    {
+      "apiname": "ACHIEVE_10080",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monopoly",
+      "description": "Have 1000 money"
+    },
+    {
+      "apiname": "ACHIEVE_10090",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charlie",
+      "description": "Win a game with Charlie"
+    },
+    {
+      "apiname": "ACHIEVE_10100",
+      "achieved": 1,
+      "unlocktime": 1725631881,
+      "name": "Amaya",
+      "description": "Win a game with Amaya"
+    },
+    {
+      "apiname": "ACHIEVE_10110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Akash",
+      "description": "Win a game with Akash"
+    },
+    {
+      "apiname": "ACHIEVE_10111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freddie",
+      "description": "Win a game with Freddie"
+    },
+    {
+      "apiname": "ACHIEVE_10112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paul",
+      "description": "Win a game with Paul"
+    },
+    {
+      "apiname": "ACHIEVE_10113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor Akash",
+      "description": "Win a game with Akash"
+    },
+    {
+      "apiname": "ACHIEVE_10114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undertaker Freddie",
+      "description": "Complete any difficulty using The Undertaker Freddie."
+    },
+    {
+      "apiname": "ACHIEVE_10120",
+      "achieved": 1,
+      "unlocktime": 1725631186,
+      "name": "Musician-Aeolian",
+      "description": "The highest quality Aeolian joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10130",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Dorian",
+      "description": "Dorian of the highest quality joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician - Harmonia",
+      "description": "The highest quality harmonies join the band"
+    },
+    {
+      "apiname": "ACHIEVE_10150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Locria",
+      "description": "The highest quality Locria joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Lytian",
+      "description": "Lydian of the highest quality joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10170",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician - Melodia",
+      "description": "The highest quality melodies join the band"
+    },
+    {
+      "apiname": "ACHIEVE_10180",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Mixolydian",
+      "description": "Mixolydian of the highest quality joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10190",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Phrygian",
+      "description": "The highest quality Phrygian joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Rhythmia",
+      "description": "The highest quality Rhythmia joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10210",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Tempo",
+      "description": "The highest quality Tempo joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10220",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Raga",
+      "description": "The highest quality Legato joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10230",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician-Allegro",
+      "description": "The highest quality Allegro joins the band"
+    },
+    {
+      "apiname": "ACHIEVE_10300",
+      "achieved": 1,
+      "unlocktime": 1725630940,
+      "name": "Work hard and forge ahead",
+      "description": "Completed 5 waves of battles in total"
+    },
+    {
+      "apiname": "ACHIEVE_10310",
+      "achieved": 1,
+      "unlocktime": 1725631657,
+      "name": "Sleepless",
+      "description": "Completed 15 waves of battles in total"
+    },
+    {
+      "apiname": "ACHIEVE_10320",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nine to Nine",
+      "description": "Completed 30 waves of battles in total"
+    },
+    {
+      "apiname": "ACHIEVE_10330",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crunch Time",
+      "description": "Completed a total of 75 waves of battles"
+    },
+    {
+      "apiname": "ACHIEVE_10340",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking Point",
+      "description": "Completed a total of 150 waves of battles"
+    },
+    {
+      "apiname": "ACHIEVE_10400",
+      "achieved": 1,
+      "unlocktime": 1725631921,
+      "name": "Whisper",
+      "description": "Unlock 1 echo clue"
+    },
+    {
+      "apiname": "ACHIEVE_10410",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doubt",
+      "description": "Unlock 3 echo clues"
+    },
+    {
+      "apiname": "ACHIEVE_10420",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curious",
+      "description": "Unlock 10 echo clues"
+    },
+    {
+      "apiname": "ACHIEVE_10430",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fear",
+      "description": "Unlock 20 echo clues"
+    },
+    {
+      "apiname": "ACHIEVE_10440",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Echo",
+      "description": "Unlock 35 echo clues"
+    },
+    {
+      "apiname": "ACHIEVE_11450",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Octavia - Expert Level",
+      "description": "Complete difficulty 5 with Octavia without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11460",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amaya - Expert Level",
+      "description": "Complete difficulty 5 with Amaya without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11470",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Akash - Expert Level",
+      "description": "Complete difficulty 5 with Akash without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11480",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freddie - Expert Level",
+      "description": "Complete difficulty 5 with Freddie without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11490",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paul - Expert Level",
+      "description": "Complete difficulty 5 with Paul without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor Akash - Expert Level",
+      "description": "Complete difficulty 5 with Doctor Akash without equipping any Relic."
+    },
+    {
+      "apiname": "ACHIEVE_11510",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Undertaker Freddie - Expert Level",
+      "description": "Complete difficulty level 5 with The Undertaker Freddie without equipping any charms."
+    },
+    {
+      "apiname": "ACHIEVE_11999",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Venus in Furs - Expert Level",
+      "description": "Complete all expert level achievements."
+    },
+    {
+      "apiname": "ACHIEVE_11010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Platinum",
+      "description": "Complete all achievements"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1622770,
+  "game": "Doors: Paradox",
+  "total": 30,
+  "unlocked": 30,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:15.922683+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_TUTORIAL",
+      "achieved": 1,
+      "unlocktime": 1786800178,
+      "name": "First Steps",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CAMERA",
+      "achieved": 1,
+      "unlocktime": 1786840713,
+      "name": "The Director",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TREE",
+      "achieved": 1,
+      "unlocktime": 1786842976,
+      "name": "Tree of Life",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ASTRO",
+      "achieved": 1,
+      "unlocktime": 1786843802,
+      "name": "Astronomer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CANNON",
+      "achieved": 1,
+      "unlocktime": 1786844704,
+      "name": "Bullseye",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ARCH",
+      "achieved": 1,
+      "unlocktime": 1786844855,
+      "name": "Archaeologist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LIGHT",
+      "achieved": 1,
+      "unlocktime": 1786846340,
+      "name": "Lightbringer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DARK",
+      "achieved": 1,
+      "unlocktime": 1786846595,
+      "name": "The Dark Side",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_AWAKE",
+      "achieved": 1,
+      "unlocktime": 1786846601,
+      "name": "The Awakened",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MONSTER",
+      "achieved": 1,
+      "unlocktime": 1786877346,
+      "name": "Monster Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ELECTRIC",
+      "achieved": 1,
+      "unlocktime": 1786878186,
+      "name": "The Electrician",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BANK",
+      "achieved": 1,
+      "unlocktime": 1786879420,
+      "name": "Bank Buster",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MIX",
+      "achieved": 1,
+      "unlocktime": 1786880762,
+      "name": "The Mixologist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WEATHER",
+      "achieved": 1,
+      "unlocktime": 1786880404,
+      "name": "Weather Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SAVIOUR",
+      "achieved": 1,
+      "unlocktime": 1786881332,
+      "name": "The Hero",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DESTROY",
+      "achieved": 1,
+      "unlocktime": 1786881596,
+      "name": "The Destroyer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SEER",
+      "achieved": 1,
+      "unlocktime": 1786881621,
+      "name": "The Seer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TREASURE",
+      "achieved": 1,
+      "unlocktime": 1786882153,
+      "name": "Treasure Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MONKE",
+      "achieved": 1,
+      "unlocktime": 1786882025,
+      "name": "Rude!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BOMB",
+      "achieved": 1,
+      "unlocktime": 1786883126,
+      "name": "Bomberman",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KNIGHT",
+      "achieved": 1,
+      "unlocktime": 1786882735,
+      "name": "The Knight Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CAR",
+      "achieved": 1,
+      "unlocktime": 1786883488,
+      "name": "The Game Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DJ",
+      "achieved": 1,
+      "unlocktime": 1786884003,
+      "name": "The DJ",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_VAMPIRE",
+      "achieved": 1,
+      "unlocktime": 1786884796,
+      "name": "Buddy the Vampire Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SPIDER",
+      "achieved": 1,
+      "unlocktime": 1786885377,
+      "name": "Spooky Scary Spiders",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAOS",
+      "achieved": 1,
+      "unlocktime": 1786885673,
+      "name": "Chaos Reborn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ORDER",
+      "achieved": 1,
+      "unlocktime": 1786885874,
+      "name": "Order Prevail",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TRAVEL",
+      "achieved": 1,
+      "unlocktime": 1786885873,
+      "name": "The Traveller",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COLLECT",
+      "achieved": 1,
+      "unlocktime": 1786886071,
+      "name": "The Collector",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINAL",
+      "achieved": 1,
+      "unlocktime": 1786886071,
+      "name": "Overachiever",
+      "description": ""
+    }
+  ]
+}

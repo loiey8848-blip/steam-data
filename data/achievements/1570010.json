@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1570010,
+  "game": "FAR: Changing Tides",
+  "total": 35,
+  "unlocked": 35,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:14.500650+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_FACTORY_BATTERY",
+      "achieved": 1,
+      "unlocktime": 1780172337,
+      "name": "Cast Off",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FACTORY_LEAVE_FIRST_CITY",
+      "achieved": 1,
+      "unlocktime": 1780173069,
+      "name": "So it Begins",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SAWMILL_REPAIR_LEVER",
+      "achieved": 1,
+      "unlocktime": 1780174401,
+      "name": "Fixed it!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_TRAINSTATION_BATTERY",
+      "achieved": 1,
+      "unlocktime": 1780176235,
+      "name": "Heart Core",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_DOCKYARD_ENTER_TOTEM",
+      "achieved": 1,
+      "unlocktime": 1780178254,
+      "name": "Discover the Ancients",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_DOCKYARD_INSTALL_SHIP_BACK",
+      "achieved": 1,
+      "unlocktime": 1780178438,
+      "name": "All Patched Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SANDBANK_BATTERY",
+      "achieved": 1,
+      "unlocktime": 1780180587,
+      "name": "20,000 Leagues",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_UNIVERSITY_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1780182094,
+      "name": "Turn on the Lights",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SEAGATE_BATTERY",
+      "achieved": 1,
+      "unlocktime": 1780183537,
+      "name": "Ancient Energy",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_CONSTRUCTION_SITE_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1780186573,
+      "name": "Are You Qualified For That?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_UNDERWATER_LABORATORY_ICE",
+      "achieved": 1,
+      "unlocktime": 1780263419,
+      "name": "Northwest Passage",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_ICEBERG_MELTED",
+      "achieved": 1,
+      "unlocktime": 1780264870,
+      "name": "Reunited",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_WATERFALL_BALLOON_RISE",
+      "achieved": 1,
+      "unlocktime": 1780266259,
+      "name": "Aeronaut",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LIGHTHOUSE_HORN",
+      "achieved": 1,
+      "unlocktime": 1780266864,
+      "name": "A Familiar Sound?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_MEETING_LONE",
+      "achieved": 1,
+      "unlocktime": 1780267108,
+      "name": "Arrival",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_PLANT_PLANTED",
+      "achieved": 1,
+      "unlocktime": 1780178665,
+      "name": "Cultivating",
+      "description": "Plant the flower in the vessel"
+    },
+    {
+      "apiname": "ACHIEVEMENT_PLANT_MAX_STAGE",
+      "achieved": 1,
+      "unlocktime": 1784025341,
+      "name": "Beauty in Disaster",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SHIP_FULL_SPEED",
+      "achieved": 1,
+      "unlocktime": 1780184782,
+      "name": "King of the World!",
+      "description": "Stand at the prow of the vessel while travelling at full speed"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SHIP_UNDERWATER_CAVE_PRISTINE",
+      "achieved": 1,
+      "unlocktime": 1784022981,
+      "name": "Steady as you Go",
+      "description": "Navigate the underwater caves near the waterfall without bumping into them"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SHIP_DIVE_UNITS_GLOBAL",
+      "achieved": 1,
+      "unlocktime": 1784024551,
+      "name": "Submariner",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SPEEDRUN",
+      "achieved": 1,
+      "unlocktime": 1784032844,
+      "name": "At a Rate of Knots",
+      "description": "Complete the journey in less than 210 minutes"
+    },
+    {
+      "apiname": "ACHIEVEMENT_TRAINSTATION_START_ENGINE",
+      "achieved": 1,
+      "unlocktime": 1780175507,
+      "name": "Fireman",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_ZONE2_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1780184483,
+      "name": "Seafarer",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FLOATING_CITY_ASCENDED",
+      "achieved": 1,
+      "unlocktime": 1780261156,
+      "name": "Risen From the Depths",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_FLOATING_CITY_COMPLETED",
+      "achieved": 1,
+      "unlocktime": 1780261650,
+      "name": "What Now?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_PLANT_WATERED",
+      "achieved": 1,
+      "unlocktime": 1784018226,
+      "name": "I'm Rooting For You!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_BOOST_UNITS_GLOBAL",
+      "achieved": 1,
+      "unlocktime": 1783999741,
+      "name": "Full Steam Ahead",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_BURN_LAST_ITEM",
+      "achieved": 1,
+      "unlocktime": 1784018226,
+      "name": "Running on Fumes",
+      "description": "Burned the last item onboard"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FUEL_AMOUNT_GLOBAL",
+      "achieved": 1,
+      "unlocktime": 1784018503,
+      "name": "Fuel-guzzler",
+      "description": "Burn 100 fuel"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SALVAGE_AMOUNT",
+      "achieved": 1,
+      "unlocktime": 1783989851,
+      "name": "Salvage Hunter",
+      "description": "Salvage the contents of 6 containers in a single journey"
+    },
+    {
+      "apiname": "ACHIEVEMENT_REPAIR_AMOUNT_GLOBAL",
+      "achieved": 1,
+      "unlocktime": 1780179473,
+      "name": "Running a Tight Ship",
+      "description": "Successfully repair key parts of the vessel 10 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_PUSH_ALL_BUOYS",
+      "achieved": 1,
+      "unlocktime": 1783988093,
+      "name": "Oh Buoy",
+      "description": "Push all the buoys out of the way"
+    },
+    {
+      "apiname": "ACHIEVEMENT_BURN_FLOWER",
+      "achieved": 1,
+      "unlocktime": 1783999741,
+      "name": "Going Green",
+      "description": "Burn the flower"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DOUSE_ENGINE",
+      "achieved": 1,
+      "unlocktime": 1780184377,
+      "name": "Fire Warden",
+      "description": "Douse the engine to keep it cooled"
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALL_ACHIEVEMENTS",
+      "achieved": 1,
+      "unlocktime": 1784032844,
+      "name": "Changed Tides",
+      "description": "Attain all other achievements"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1206070,
+  "game": "Phonopolis",
+  "total": 20,
+  "unlocked": 20,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:14.229192+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_01_ELDERS",
+      "achieved": 1,
+      "unlocktime": 1784279504,
+      "name": "All Eyes On You",
+      "description": "Three observers hiding in the dark."
+    },
+    {
+      "apiname": "ACH_02_HEADPHONES",
+      "achieved": 1,
+      "unlocktime": 1780498986,
+      "name": "Hear Your Own Thoughts",
+      "description": "Tuning out the authority."
+    },
+    {
+      "apiname": "ACH_03_WOMAN",
+      "achieved": 1,
+      "unlocktime": 1784290821,
+      "name": "Locked Out",
+      "description": "On the wrong side of the door."
+    },
+    {
+      "apiname": "ACH_04_ART_INSPECTOR",
+      "achieved": 1,
+      "unlocktime": 1784290018,
+      "name": "Art Inspector",
+      "description": "Brushstrokes of the past."
+    },
+    {
+      "apiname": "ACH_05_BROKEN_ARM",
+      "achieved": 1,
+      "unlocktime": 1784282737,
+      "name": "Disarmed",
+      "description": "Literally disarmed."
+    },
+    {
+      "apiname": "ACH_06_WET_COPS",
+      "achieved": 1,
+      "unlocktime": 1784279504,
+      "name": "Wet Cops",
+      "description": "A very thorough wash."
+    },
+    {
+      "apiname": "ACH_07_ESCAPE",
+      "achieved": 1,
+      "unlocktime": 1784283483,
+      "name": "Silent Escape",
+      "description": "The sirens remained quiet."
+    },
+    {
+      "apiname": "ACH_08_SYNCED",
+      "achieved": 1,
+      "unlocktime": 1784295331,
+      "name": "Triadic Routine",
+      "description": "Perfectly synchronized."
+    },
+    {
+      "apiname": "ACH_09_HALLWAY_SPRINT",
+      "achieved": 1,
+      "unlocktime": 1784313947,
+      "name": "Hallway Sprint",
+      "description": "Not a second wasted in the bureaucratic maze."
+    },
+    {
+      "apiname": "ACH_10_PHOTO",
+      "achieved": 1,
+      "unlocktime": 1784296726,
+      "name": "Model Citizen",
+      "description": "The lens loves you."
+    },
+    {
+      "apiname": "ACH_11_CHERRY",
+      "achieved": 1,
+      "unlocktime": 1784271052,
+      "name": "The Cherry on Top",
+      "description": "Sweet perfection."
+    },
+    {
+      "apiname": "ACH_12_MESS",
+      "achieved": 1,
+      "unlocktime": 1784272207,
+      "name": "Kitchen Nightmare",
+      "description": "Absolute culinary chaos."
+    },
+    {
+      "apiname": "ACH_13_MASTER_CHEF",
+      "achieved": 1,
+      "unlocktime": 1784290018,
+      "name": "Master Chef",
+      "description": "Approved for consumption."
+    },
+    {
+      "apiname": "ACH_14_PLINTH",
+      "achieved": 1,
+      "unlocktime": 1784280965,
+      "name": "Factory Settings",
+      "description": "Pin untouched."
+    },
+    {
+      "apiname": "ACH_15_SILENCE",
+      "achieved": 1,
+      "unlocktime": 1784297939,
+      "name": "Enjoy the Silence",
+      "description": "A modernist composition."
+    },
+    {
+      "apiname": "ACH_16_LEADER",
+      "achieved": 1,
+      "unlocktime": 1784270116,
+      "name": "End of an Era",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_17_ETUDY",
+      "achieved": 1,
+      "unlocktime": 1784338827,
+      "name": "Street Theatre",
+      "description": "Every citizen played their part."
+    },
+    {
+      "apiname": "ACH_18_POSTERS",
+      "achieved": 1,
+      "unlocktime": 1784338191,
+      "name": "Poster Boy",
+      "description": "Fully informed."
+    },
+    {
+      "apiname": "ACH_19_LOUDSPEEKERS",
+      "achieved": 1,
+      "unlocktime": 1784281792,
+      "name": "Playing Leader",
+      "description": "Extensive loudspeaker validation."
+    },
+    {
+      "apiname": "ACH_20_ALL",
+      "achieved": 1,
+      "unlocktime": 1784352046,
+      "name": "Perfect Record",
+      "description": "File closed."
+    }
+  ]
+}

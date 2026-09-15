@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 990080,
+  "game": "Hogwarts Legacy",
+  "total": 45,
+  "unlocked": 25,
+  "percent": 55.6,
+  "updated_at_utc": "2026-09-15T06:51:08.102465+00:00",
+  "achievements": [
+    {
+      "apiname": "PFA_1",
+      "achieved": 1,
+      "unlocktime": 1676088036,
+      "name": "The Sort Who Makes an Entrance",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Toast of the Town",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Auror's Apprentice",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_4",
+      "achieved": 1,
+      "unlocktime": 1676186234,
+      "name": "The Gryffindor in the Graveyard",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wise Owl",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_6",
+      "achieved": 1,
+      "unlocktime": 1676095002,
+      "name": "First Class Student",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_7",
+      "achieved": 1,
+      "unlocktime": 1676121758,
+      "name": "Troll with the Punches",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_8",
+      "achieved": 1,
+      "unlocktime": 1676190607,
+      "name": "That's a Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising From the Ashes",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_10",
+      "achieved": 1,
+      "unlocktime": 1676782929,
+      "name": "Grappling with a Graphorn",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_11",
+      "achieved": 1,
+      "unlocktime": 1676782842,
+      "name": "The One Who Mastered Memories",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_12",
+      "achieved": 1,
+      "unlocktime": 1676713328,
+      "name": "The Hallowed Hero",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_13",
+      "achieved": 1,
+      "unlocktime": 1676784692,
+      "name": "The Hero of Hogwarts",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Seeker of Knowledge",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_15",
+      "achieved": 1,
+      "unlocktime": 1776235433,
+      "name": "The Avenging Gazelle",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_16",
+      "achieved": 1,
+      "unlocktime": 1676474627,
+      "name": "The Defender of Dragons",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_17",
+      "achieved": 1,
+      "unlocktime": 1776235991,
+      "name": "Beast Friends",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_18",
+      "achieved": 1,
+      "unlocktime": 1776247012,
+      "name": "A Sallow Grave",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_19",
+      "achieved": 1,
+      "unlocktime": 1776243296,
+      "name": "Flight the Good Flight",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Good Samaritan",
+      "description": "Complete all side quests"
+    },
+    {
+      "apiname": "PFA_21",
+      "achieved": 1,
+      "unlocktime": 1676777659,
+      "name": "Challenge Accepted",
+      "description": "Complete all tiers of a challenge"
+    },
+    {
+      "apiname": "PFA_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector's Edition",
+      "description": "Complete all collections"
+    },
+    {
+      "apiname": "PFA_23",
+      "achieved": 1,
+      "unlocktime": 0,
+      "name": "A Keen Sense of Spell",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_24",
+      "achieved": 1,
+      "unlocktime": 0,
+      "name": "Loom for Improvement",
+      "description": "Upgrade a piece of gear"
+    },
+    {
+      "apiname": "PFA_25",
+      "achieved": 1,
+      "unlocktime": 1776238934,
+      "name": "The Root of the Problem",
+      "description": "Stun 10 different enemies using a Mandrake"
+    },
+    {
+      "apiname": "PFA_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nature of the Beast",
+      "description": "Breed every type of beast"
+    },
+    {
+      "apiname": "PFA_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Through the Potions",
+      "description": "Brew every type of potion"
+    },
+    {
+      "apiname": "PFA_28",
+      "achieved": 1,
+      "unlocktime": 1676694546,
+      "name": "Put Down Roots",
+      "description": "Grow every type of plant"
+    },
+    {
+      "apiname": "PFA_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Third Time's a Charm",
+      "description": "Upgrade a piece of gear 3 times"
+    },
+    {
+      "apiname": "PFA_30",
+      "achieved": 1,
+      "unlocktime": 1676186418,
+      "name": "A Talent for Spending",
+      "description": "Spend 5 Talent Points"
+    },
+    {
+      "apiname": "PFA_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savvy Spender",
+      "description": "Spend all Talent Points"
+    },
+    {
+      "apiname": "PFA_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Room with a View",
+      "description": "Reach the highest point in the castle, the Headmaster's upper study"
+    },
+    {
+      "apiname": "PFA_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spilled Milk",
+      "description": "Use Flipendo ten times – to tip one cow or several"
+    },
+    {
+      "apiname": "PFA_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Floo Around the World",
+      "description": "Unlock all Floo Flames"
+    },
+    {
+      "apiname": "PFA_35",
+      "achieved": 1,
+      "unlocktime": 1676477001,
+      "name": "Followed the Butterflies",
+      "description": "Follow butterflies to a treasure"
+    },
+    {
+      "apiname": "PFA_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise to the Challenges",
+      "description": "Defeat enemies in all battle arenas"
+    },
+    {
+      "apiname": "PFA_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merlin's Beard!",
+      "description": "Complete all Merlin Trials"
+    },
+    {
+      "apiname": "PFA_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Intrepid Explorer",
+      "description": "Discover all cairn dungeons"
+    },
+    {
+      "apiname": "PFA_39",
+      "achieved": 1,
+      "unlocktime": 1676778119,
+      "name": "Coasting Along",
+      "description": ""
+    },
+    {
+      "apiname": "PFA_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demiguise Dread",
+      "description": "Find all Demiguise statues"
+    },
+    {
+      "apiname": "PFA_41",
+      "achieved": 1,
+      "unlocktime": 1676477551,
+      "name": "The Ends Petrify the Means",
+      "description": "Defeat a total of fifty enemies using Petrificus Totalus"
+    },
+    {
+      "apiname": "PFA_42",
+      "achieved": 1,
+      "unlocktime": 1676783243,
+      "name": "Raising Expectations",
+      "description": "Reach a combo of 100"
+    },
+    {
+      "apiname": "PFA_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finishing Touches",
+      "description": "Use Ancient Magic on every enemy in the game"
+    },
+    {
+      "apiname": "PFA_44",
+      "achieved": 1,
+      "unlocktime": 1676777589,
+      "name": "The Spell Master",
+      "description": "Learn all spells"
+    },
+    {
+      "apiname": "PFA_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Forte for Achievement",
+      "description": "Reach Level 40"
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1938090,
+  "game": "Call of Duty®",
+  "total": 157,
+  "unlocked": 7,
+  "percent": 4.5,
+  "updated_at_utc": "2026-09-15T06:52:24.699667+00:00",
+  "achievements": [
+    {
+      "apiname": "acrappywaytodie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Crappy Way to Die",
+      "description": "Kill the enemy in the porta-potty."
+    },
+    {
+      "apiname": "backpackguy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backpack Guy",
+      "description": "Kill gassed or blinded enemies using a Molotov, Semtex and Frag in 'Prison Break'."
+    },
+    {
+      "apiname": "crocodile",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crocodile",
+      "description": "Shoot three enemies while underwater in 'Wetwork'."
+    },
+    {
+      "apiname": "daredevil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daredevil",
+      "description": "While affected by one Flashbang, kill two enemies in the Campaign or in Co-op.\t"
+    },
+    {
+      "apiname": "gentlemanthief",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gentleman Thief",
+      "description": "Open three safes in the Campaign."
+    },
+    {
+      "apiname": "ghostintraining",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost-in-Training",
+      "description": "Reach the penthouse in 'El Sin Nombre' without killing anyone or triggering the alarm."
+    },
+    {
+      "apiname": "mustbewind",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Must be Wind",
+      "description": "Rescue the hostages in 'Countdown' without the enemies firing their weapons."
+    },
+    {
+      "apiname": "nessy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nessie",
+      "description": "Reach the barge without being seen in 'Wetwork'."
+    },
+    {
+      "apiname": "nobodywasthere",
+      "achieved": 1,
+      "unlocktime": 1666323225,
+      "name": "Nobody was There",
+      "description": "Never trigger the alarm in 'Recon by Fire'."
+    },
+    {
+      "apiname": "noshootwounded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunless",
+      "description": "Finish 'Alone' without firing a gun."
+    },
+    {
+      "apiname": "notimetolose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No time to lose",
+      "description": "Complete the CCTV sequence in four minutes."
+    },
+    {
+      "apiname": "onehijack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping this One",
+      "description": "Reach Price using the first vehicle you hijack."
+    },
+    {
+      "apiname": "practicemakesperfect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice makes Perfect",
+      "description": "Shoot all the targets in the training area in 'Ghost Team'."
+    },
+    {
+      "apiname": "spfinish",
+      "achieved": 1,
+      "unlocktime": 1666353507,
+      "name": "Time for Pints",
+      "description": "Finish the Campaign on any difficulty."
+    },
+    {
+      "apiname": "testdrive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Test Drive",
+      "description": "Drive five vehicle types in 'Violence and Timing'."
+    },
+    {
+      "apiname": "thefloorislava",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don’t touch the deck!",
+      "description": "In 'Dark Water' advance 90 meters towards the front of the ship without touching the deck."
+    },
+    {
+      "apiname": "vetfinish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cutting heads off Snakes",
+      "description": "Finish all Campaign missions on Veteran or Realism difficulty."
+    },
+    {
+      "apiname": "wallofduty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wall of Duty",
+      "description": "Kill three Enemies with the Riot Shield in the Campaign or in Co-op."
+    },
+    {
+      "apiname": "fullsse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full SSE",
+      "description": "Find 20 intel fragments in Co-op."
+    },
+    {
+      "apiname": "noalarmbadsit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Dark",
+      "description": "Complete 'Low Profile' without triggering any Alarms."
+    },
+    {
+      "apiname": "onestarcp",
+      "achieved": 1,
+      "unlocktime": 1667020940,
+      "name": "Only the Beginning",
+      "description": "Earn at least one Star in Co-op."
+    },
+    {
+      "apiname": "threestarbadsit",
+      "achieved": 1,
+      "unlocktime": 1667020940,
+      "name": "Night Fight",
+      "description": "Earn three Stars in 'Low Profile'."
+    },
+    {
+      "apiname": "threestarobservatory",
+      "achieved": 1,
+      "unlocktime": 1667022434,
+      "name": "Kings of the Mountain",
+      "description": "Earn three Stars in 'Defender: Mt. Zaya'."
+    },
+    {
+      "apiname": "threestarvehesc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellride",
+      "description": "Earn three Stars in 'Denied Area'."
+    },
+    {
+      "apiname": "jup_sp_boundandmagged",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Such Thing as Too Many",
+      "description": "Find and use all Armaments in Open Combat Missions"
+    },
+    {
+      "apiname": "jup_sp_timeforanewplan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dialed In",
+      "description": "Customize your loadout in every Open Combat Mission"
+    },
+    {
+      "apiname": "jup_sp_professionalhoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gearhead",
+      "description": "Collect all Weapons and Field Upgrades from Supply Boxes in Open Combat Missions"
+    },
+    {
+      "apiname": "jup_sp_partyfavors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sample Platter",
+      "description": "Use 5 different Armaments in Open Combat Missions"
+    },
+    {
+      "apiname": "jup_sp_engineeringdegree",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Call Shotgun!",
+      "description": "Drive a vehicle with a Sentry Gun on the back and have it kill 5 enemies"
+    },
+    {
+      "apiname": "jup_sp_iliketopretendihaveaplan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tag, You're it!",
+      "description": "Use the Spotter Scope to tag 60 enemies or items in Open Combat Missions"
+    },
+    {
+      "apiname": "jup_sp_suit_up",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bulletproof",
+      "description": "Find all Plate Carrier Upgrades in Open Combat Missions"
+    },
+    {
+      "apiname": "jup_sp_haveyoutriedturningitoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have You Tried Turning it Off and On?",
+      "description": "Use a Shock Stick to disable an enemy Sentry Gun"
+    },
+    {
+      "apiname": "jup_sp_thatsonewaytodoit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's One Way to Do It...",
+      "description": "Destroy an airborne enemy helicopter with a Mortar Strike"
+    },
+    {
+      "apiname": "jup_sp_heycatch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey, Catch!",
+      "description": "Throw and hit an enemy directly with a Flammable Cannister then blow them up with it"
+    },
+    {
+      "apiname": "jup_sp_frequentflier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frequent Flyer",
+      "description": "BASE jump and travel more than 150 m with your parachute"
+    },
+    {
+      "apiname": "jup_sp_driveby",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Wire Act",
+      "description": "Kill 10 enemies while using a zipline"
+    },
+    {
+      "apiname": "jup_sp_whatthehellkindofnameis",
+      "achieved": 1,
+      "unlocktime": 1698994961,
+      "name": "Never Bury Your Enemies Alive",
+      "description": "Complete the campaign"
+    },
+    {
+      "apiname": "jup_sp_141ready",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "141 Ready",
+      "description": "Complete the campaign on Veteran"
+    },
+    {
+      "apiname": "jup_sp_deathpenalty",
+      "achieved": 1,
+      "unlocktime": 1698944519,
+      "name": "Death Row",
+      "description": "Kill 12 enemies while descending in the panopticon in 'Operation 627'"
+    },
+    {
+      "apiname": "jup_sp_fightorflight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Floater",
+      "description": "Parachute off a Gantry Crane onto the roof of the Harbormaster's Building in 'Precious Cargo'"
+    },
+    {
+      "apiname": "jup_sp_jackofallweapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helo Hat Trick",
+      "description": "Destroy each objective helicopter in 'Reactor' with a different Armament"
+    },
+    {
+      "apiname": "jup_sp_cccollateral",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2-fer",
+      "description": "Using the EBR-14, kill 2 enemies with 1 bullet 5 times in 'Payload' without sounding the alarm"
+    },
+    {
+      "apiname": "jup_sp_oldhabitsdiehard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back in the Field",
+      "description": "Acquire the Major's keycard in 'Deep Cover' within 90 seconds without being detected"
+    },
+    {
+      "apiname": "jup_sp_shotblocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shot Blocked",
+      "description": "Shoot the gun out of the air in 'Flashpoint' before a terrorist catches it"
+    },
+    {
+      "apiname": "jup_sp_enjoythelittlethings",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Think She'll Notice?",
+      "description": "Destroy all of the cars in the mansion garage in 'Oligarch'"
+    },
+    {
+      "apiname": "jup_sp_fullsweep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elevator Out of Order",
+      "description": "Reach the roof in 'Highrise' under 45 seconds"
+    },
+    {
+      "apiname": "jup_sp_hushhush",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snow Angel",
+      "description": "Execute the forest sniper in 'Frozen Tundra' with a takedown"
+    },
+    {
+      "apiname": "jup_sp_hitchhiker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hitchhiker",
+      "description": "Defuse the bomb on the truck in 'Gora Dam' while it is in motion"
+    },
+    {
+      "apiname": "jup_sp_yourtaxdollarsatwork",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your tax dollars at work",
+      "description": "Use a missile to take out a single enemy in 'Danger Close'"
+    },
+    {
+      "apiname": "jup_mp_thefirststep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First Step",
+      "description": "Reach Level 55"
+    },
+    {
+      "apiname": "jup_ob_andsoitbegins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And So It Begins",
+      "description": "Successfully Exfil in MWZ"
+    },
+    {
+      "apiname": "jup_ob_writeoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Write Off",
+      "description": "Kill 500 Enemies using an Insured Weapon in MWZ"
+    },
+    {
+      "apiname": "jup_ob_perkaholic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perkaholic",
+      "description": "Have 9 perks active at the same time in MWZ"
+    },
+    {
+      "apiname": "jup_ob_gravestone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gravestone",
+      "description": "Kill 100 Zombies with a vehicle in a single deployment in MWZ"
+    },
+    {
+      "apiname": "jup_ob_backfromthedead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back From The Dead",
+      "description": "Reclaim your gear from a Tombstone in MWZ"
+    },
+    {
+      "apiname": "jup_ob_helpfulstranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helpful Stranger",
+      "description": "Revive a player from a different Squad in MWZ"
+    },
+    {
+      "apiname": "jup_ob_youcanpetthedog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Can Pet The Dog",
+      "description": ""
+    },
+    {
+      "apiname": "jup_ob_hiredgun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hired Gun",
+      "description": "Complete 20 Contracts in MWZ"
+    },
+    {
+      "apiname": "jup_ob_seeingred",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeing Red",
+      "description": "Complete 5 Contracts in the High Threat Zone in a single deployment in MWZ"
+    },
+    {
+      "apiname": "jup_ob_theend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End?",
+      "description": "Complete Act III in MWZ"
+    },
+    {
+      "apiname": "jup_ob_slaughterhouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slaughterhouse",
+      "description": "Kill 50,000 total Enemies in MWZ"
+    },
+    {
+      "apiname": "jup_ob_conqueror",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror",
+      "description": "Defeat a Warlord in MWZ"
+    },
+    {
+      "apiname": "jup_ob_oneagainstall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Against All",
+      "description": ""
+    },
+    {
+      "apiname": "t10_sp_complete_any",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Case Closed",
+      "description": "Complete the Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_complete_veteran",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Case in Point",
+      "description": "Complete the Campaign on Veteran difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_intro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unexpected Move",
+      "description": "Complete Bishop Takes Rook in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_contract",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talent Acquisition",
+      "description": "Complete Blood Feud in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_union",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking News",
+      "description": "Complete Most Wanted in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_sandbox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunker Busters",
+      "description": "Complete Hunting Season and The Cradle in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_redacted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Head Games",
+      "description": "Complete Emergence in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_heist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot",
+      "description": "Complete High Rollers in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_storm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grounded",
+      "description": "Complete Ground Control in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_sabotage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Consolation Prize",
+      "description": "Complete Under the Radar in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_interrogation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capitol Punishment",
+      "description": "Complete Separation Anxiety in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_mission_safehouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buried at Sea",
+      "description": "Complete Checkmate in Campaign on any difficulty"
+    },
+    {
+      "apiname": "t10_sp_contract_covert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Covert Agent",
+      "description": "In Blood Feud, reach the Guild meeting without ever breaking stealth"
+    },
+    {
+      "apiname": "t10_sp_union_takedowns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party's Over",
+      "description": "In Most Wanted, perform 5 takedowns on guards in the gala without being spotted"
+    },
+    {
+      "apiname": "t10_sp_sandbox_full",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Clear",
+      "description": "In Hunting Season, complete every POI on the Tac Map"
+    },
+    {
+      "apiname": "t10_sp_sabotage_target",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skewer the Winged Beast",
+      "description": "In Under the Radar, have the SAM target itself and the helicopter"
+    },
+    {
+      "apiname": "t10_sp_storm_crush",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bulldozed",
+      "description": "In Ground Control, crush 25 enemies while driving the tank"
+    },
+    {
+      "apiname": "t10_sp_safehouse_apc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "David vs Goliath",
+      "description": "In Checkmate, destroy the APC using an RC-XD"
+    },
+    {
+      "apiname": "t10_sp_safehouse_purchase",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dipped in Gold",
+      "description": "Purchase all Safehouse and Player Upgrades in Campaign"
+    },
+    {
+      "apiname": "t10_sp_safehouse_puzzles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Puzzles, Mason",
+      "description": "Complete all Safehouse Puzzles in Campaign"
+    },
+    {
+      "apiname": "t10_sp_remote_knife",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seek & Destroy",
+      "description": "Get 2 Kills with a single remote controlled Throwing Knife from at least 50 meters away in Campaign"
+    },
+    {
+      "apiname": "t10_sp_adrenaline",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rapid Reflexes",
+      "description": "Get 5 Headshot Kills during a single use of the Adrenaline Stim in Campaign"
+    },
+    {
+      "apiname": "t10_sp_takedowns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Combat Specialist",
+      "description": "Perform 10 takedowns in Campaign"
+    },
+    {
+      "apiname": "t10_sp_killstreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destructive Wake",
+      "description": "Get 5 or more Kills with a single Scorestreak in Campaign"
+    },
+    {
+      "apiname": "t10_global_return_king",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return of the King",
+      "description": "Enter Prestige 1"
+    },
+    {
+      "apiname": "t10_global_showoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Off",
+      "description": "Earn a Mastery Badge for any weapon"
+    },
+    {
+      "apiname": "t10_global_camosforever",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Camos Are Forever",
+      "description": "Unlock any Diamond or Opal Camo"
+    },
+    {
+      "apiname": "t10_mp_palehorse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pale Horse Arrives",
+      "description": "Get 500 Eliminations in Multiplayer"
+    },
+    {
+      "apiname": "t10_mp_podiumfinish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Podium Finish",
+      "description": "Win 25 Multiplayer Matches"
+    },
+    {
+      "apiname": "t10_mp_rushhour",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rush Hour",
+      "description": "Get a Double Kill with the RC-XD in Multiplayer"
+    },
+    {
+      "apiname": "t10_mp_redcarpet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Carpet",
+      "description": "Get featured in the Best Play 3 times in Multiplayer"
+    },
+    {
+      "apiname": "t10_mp_doingyourpart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doing Your Part",
+      "description": "Complete the Training Course in Multiplayer"
+    },
+    {
+      "apiname": "t10_mp_betrayal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Betrayal",
+      "description": "Kill an enemy from behind at close range while disguised by the Sleeper Agent"
+    },
+    {
+      "apiname": "t10_mp_heavyordinance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Ordinance Specialist",
+      "description": "Destroy 50 Aerial Scorestreaks with Launchers in Multiplayer"
+    },
+    {
+      "apiname": "t10_mp_stylishkill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stylish Kill",
+      "description": "Get 75 Eliminations while having an active Combat Speciality Perk in Multiplayer"
+    },
+    {
+      "apiname": "t10_zm_complete_quartz_mq",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mo' Modi",
+      "description": ""
+    },
+    {
+      "apiname": "t10_zm_culinary_delight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Culinary Delight",
+      "description": "In Terminus, consume a fish cooked with a special ingredient"
+    },
+    {
+      "apiname": "t10_zm_treasure_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "In Terminus, find the final Talisman"
+    },
+    {
+      "apiname": "t10_zm_complete_garnet_mq",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bye-Bye, Dark Aether",
+      "description": ""
+    },
+    {
+      "apiname": "t10_zm_world_domination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Domination",
+      "description": "In Liberty Falls, tap into your Supervillain side"
+    },
+    {
+      "apiname": "t10_zm_deadwood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadwood",
+      "description": "In Liberty Falls, achieve a sporting high score"
+    },
+    {
+      "apiname": "t10_zm_knowyourenemy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Know Your Enemy...",
+      "description": "Get 100 Kills while using Mutant Injections in Zombies"
+    },
+    {
+      "apiname": "t10_zm_cyberized",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cyberized",
+      "description": "Research all Augments for 10 Items in Zombies"
+    },
+    {
+      "apiname": "t10_zm_annihilation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation",
+      "description": "Get 100 Elite Zombie Eliminations in Zombies"
+    },
+    {
+      "apiname": "sat_global_newdynasty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Dynasty",
+      "description": "Enter Prestige in Black Ops 7"
+    },
+    {
+      "apiname": "sat_global_myrifle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is My Rifle",
+      "description": "Earn any Arclight, Moonstone, or Bloodstone Camo"
+    },
+    {
+      "apiname": "sat_global_masterofarms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Arms",
+      "description": "Enter Weapon Prestige with any Weapon"
+    },
+    {
+      "apiname": "sat_global_drippedout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dripped Out",
+      "description": "Earn Diamond Badges for any category of Mastery Badges"
+    },
+    {
+      "apiname": "sat_global_decoratedveteran",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decorated Veteran",
+      "description": "Earn 100 unique Medals across Multiplayer or Zombies"
+    },
+    {
+      "apiname": "sat_mp_maximumoverdrive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maximum Overdrive",
+      "description": "Equip an Overclock on a Lethal, Tactical, Field Upgrade and 3 Scorestreaks at once"
+    },
+    {
+      "apiname": "sat_mp_frontlineoffensive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frontline Offensive",
+      "description": "Win 25 Multiplayer Matches"
+    },
+    {
+      "apiname": "sat_mp_destroyer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroyer",
+      "description": "Get 1000 Eliminations in Multiplayer"
+    },
+    {
+      "apiname": "sat_mp_glamorshot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glamor Shot",
+      "description": "Get featured in the Best Play 3 times"
+    },
+    {
+      "apiname": "sat_mp_takingnames",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Names",
+      "description": "Complete all 6 Calling Card Challenges in any Multiplayer Category"
+    },
+    {
+      "apiname": "sat_mp_archenemy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archenemy",
+      "description": "Kill your Nemesis 10 times"
+    },
+    {
+      "apiname": "sat_mp_perfected",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfected",
+      "description": "Get 100 Eliminations while having an active Combat Hybrid Perk in Multiplayer"
+    },
+    {
+      "apiname": "sat_mp_callingforbackup",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calling For Backup",
+      "description": "Call in 50 Scorestreaks in Multiplayer"
+    },
+    {
+      "apiname": "sat_mp_notinmyhouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not In My House",
+      "description": "Destroy 5 items with the Hunter Bot in a single match"
+    },
+    {
+      "apiname": "sat_mp_legitimatestrategy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legitimate Strategy",
+      "description": "Get 3 Kills while defending an Objective Zone without leaving it"
+    },
+    {
+      "apiname": "sat_mp_readyforaction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready For Action",
+      "description": "Complete the Black Ops 7 Training Course"
+    },
+    {
+      "apiname": "sat_mp_pathfinder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pathfinder",
+      "description": "Get a Direct Hit Kill from at least 30 meters away with the Needle Drone."
+    },
+    {
+      "apiname": "sat_mp_farsight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farsight",
+      "description": "Get 3 Kills with a single use of the Gravemaker Scorestreak"
+    },
+    {
+      "apiname": "sat_mp_freshmoves",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Moves",
+      "description": "Get a Kill while airborne from a wallhop"
+    },
+    {
+      "apiname": "sat_zm_dusttodust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust To Dust",
+      "description": "Complete the Main Quest in Ashes Of The Damned"
+    },
+    {
+      "apiname": "sat_zm_corpseaplenty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse Aplenty",
+      "description": "Eliminate 10,000 Zombies"
+    },
+    {
+      "apiname": "sat_zm_survivalfittest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Of The Fittest",
+      "description": "Reach Round 30 on a Survival Map"
+    },
+    {
+      "apiname": "sat_zm_expertcurator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Curator",
+      "description": "Unlock 3 Relics in Ashes of the Damned"
+    },
+    {
+      "apiname": "sat_zm_hoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarder",
+      "description": "Complete all 6 Calling Card Challenges in any Zombies Category"
+    },
+    {
+      "apiname": "sat_zm_mixologist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mixologist",
+      "description": "Drink 4 different well prepared drinks"
+    },
+    {
+      "apiname": "sat_zm_chewonthis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chew On This",
+      "description": "Consume 15 GobbleGums in a single match"
+    },
+    {
+      "apiname": "sat_zm_intesitea",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Builder's Brew",
+      "description": "Kill an Elite Zombie with the final hit coming from a Wisp"
+    },
+    {
+      "apiname": "sat_zm_youlikeupgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Heard You Like Upgrades",
+      "description": "Fully upgrade Ol' Tessie"
+    },
+    {
+      "apiname": "sat_zm_goodsoldiers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Soldiers",
+      "description": "Discover the secrets of a war hero"
+    },
+    {
+      "apiname": "sat_zm_poisonparadise",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poison Paradise",
+      "description": "Get 50 Critical Kills on Zombies slowed by Toxic Growth"
+    },
+    {
+      "apiname": "sat_zm_yoursoulismine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Stealer",
+      "description": "Kill 50 Zombies with the Life Drain from a Disciple Injection"
+    },
+    {
+      "apiname": "sat_zm_scientificbreakthrough",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scientific Breakthrough",
+      "description": "Equip 2 Minor Augments each on a Field Upgrade, Perk, and Ammo Mod"
+    },
+    {
+      "apiname": "sat_zm_enforcedfreedom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enforced Freedom",
+      "description": "Kill 100 Zombies with explosions from Fire Works"
+    },
+    {
+      "apiname": "sat_doa_reunited",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunited with Fidolina",
+      "description": "Defeat the Papaback and save your dear friend in Dead Ops Arcade"
+    },
+    {
+      "apiname": "sat_doa_foreverfated",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forever Fated",
+      "description": "Find your destiny in the Room of Fate in Dead Ops Arcade"
+    },
+    {
+      "apiname": "sat_doa_fowlfivepiece",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fowl Five Piece",
+      "description": "Get a Chain of 5 chickens strung together in Dead Ops Arcade"
+    },
+    {
+      "apiname": "sat_wc_completecampaign",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmares To Dreams",
+      "description": "Complete the Black Ops 7 Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_turbocharged",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbocharged",
+      "description": "Upgrade an Operator to max Combat Rating Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_loremaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loremaster",
+      "description": "Collect all Intel in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_purveyoroffinegoods",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purveyor Of Fine Goods",
+      "description": "Get 250 Kills with Exotic Weapons in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Familiar Face",
+      "description": "Complete Exposure in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission2and3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of Darkness",
+      "description": "Complete Inside and Distortion in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission4and5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Didn't Need a Bigger Boat",
+      "description": "Complete Escalation and Disruption in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission6and7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bigger They Are…",
+      "description": "Complete Collapse and Fracture in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission8and9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prison Break",
+      "description": "Complete Quarantine and Suppression in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_mission10and11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under Pressure",
+      "description": "Complete Breakpoint and Containment in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_dontdieonme",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Die On Me",
+      "description": "Revive a teammate in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_glide800m",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Believe I Can Glide",
+      "description": "Glide 800m continuously with the wingsuit in Co-Op Campaign"
+    },
+    {
+      "apiname": "sat_wc_capricorn_stealth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectral",
+      "description": "Successfully Sneak Across the Yacht's Deck in Disruption"
+    },
+    {
+      "apiname": "sat_wc_complete10assignments",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Checking Boxes",
+      "description": "Complete 10 Assignments in Zone IV in Co-Op Campaign"
+    }
+  ]
+}

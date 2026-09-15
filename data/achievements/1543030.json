@@ -1,0 +1,389 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1543030,
+  "game": "Sword and Fairy 7",
+  "total": 54,
+  "unlocked": 13,
+  "percent": 24.1,
+  "updated_at_utc": "2026-09-15T06:52:07.806917+00:00",
+  "achievements": [
+    {
+      "apiname": "Achiement_DefeatXiQV",
+      "achieved": 1,
+      "unlocktime": 1635078083,
+      "name": "Karma Is Here",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_BlockXIQV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullfighter",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatKuiYu",
+      "achieved": 1,
+      "unlocktime": 1635080936,
+      "name": "Power of Protoss",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatBingXianShou",
+      "achieved": 1,
+      "unlocktime": 1635255950,
+      "name": "Thanks For Your Test",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatHualiu",
+      "achieved": 1,
+      "unlocktime": 1635526316,
+      "name": "Fire Master",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatChiRu",
+      "achieved": 1,
+      "unlocktime": 1635583926,
+      "name": "Executioner",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatKuiyuSecondBattle",
+      "achieved": 1,
+      "unlocktime": 1635781398,
+      "name": "Zero-Sum Game",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatDuZhangWeiShu",
+      "achieved": 1,
+      "unlocktime": 1635786959,
+      "name": "Pass The Test",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatMoNian",
+      "achieved": 1,
+      "unlocktime": 1635786328,
+      "name": "Reunion",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatHuoXianShou",
+      "achieved": 1,
+      "unlocktime": 1660468038,
+      "name": "Follow My Lead",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatChongLou",
+      "achieved": 1,
+      "unlocktime": 1660468746,
+      "name": "Demon Lord",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatJingJianRenOu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny Master",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatJingJianRenOuWithOutJudged",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bring Justice",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatMengZhang",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Down",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatJiuying",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "9+1=0?",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatShenGuanXuYing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll Protect You",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_DefeatShenGuanBenti",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crazy to Survive",
+      "description": ""
+    },
+    {
+      "apiname": "Achiement_TongGuan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paean Of Sword",
+      "description": "All stages clear"
+    },
+    {
+      "apiname": "Achiement_LearnAllSkill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Learn all abilities"
+    },
+    {
+      "apiname": "Achiement_XianXueJia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immortality",
+      "description": "Archive 70%"
+    },
+    {
+      "apiname": "Achiement_NiShiHaoRen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Are So Nice",
+      "description": "Complete any 20 branch tasks"
+    },
+    {
+      "apiname": "Achiement_ChuYiJingZhan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Cook",
+      "description": "Make 10 dishes"
+    },
+    {
+      "apiname": "Achiement_KuaiBuYanXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet",
+      "description": "Have dishes for 30 times"
+    },
+    {
+      "apiname": "Achiement_DuanLianShenTi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exercise",
+      "description": "Successfully clear one jumping game"
+    },
+    {
+      "apiname": "Achiement_XiangQinXiangAi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Team",
+      "description": "Use all combos"
+    },
+    {
+      "apiname": "Achiement_JingRanNengChi",
+      "achieved": 1,
+      "unlocktime": 1635076868,
+      "name": "Not bad",
+      "description": "Make dishes for the first time"
+    },
+    {
+      "apiname": "Achiement_DuShen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God of Gamblers",
+      "description": "Successfully pass the mid-level challenge from all NPCs in the card game."
+    },
+    {
+      "apiname": "Achiement_ZuiJiaTingZhong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Listener",
+      "description": "Listen to a complete storytelling in Lulong Town"
+    },
+    {
+      "apiname": "Achiement_DuanZaoDaShi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Blacksmith",
+      "description": "Enhance for 20 times"
+    },
+    {
+      "apiname": "Achiement_WeiWoJiuJianXian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wine God's Here",
+      "description": "Summon the Wine God"
+    },
+    {
+      "apiname": "Achiement_YiGeDouBuNengShao",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No One's Left Behind",
+      "description": "Collect all spirit beasts"
+    },
+    {
+      "apiname": "Achiement_QinMiHuoBan",
+      "achieved": 1,
+      "unlocktime": 1635075819,
+      "name": "Close Partner",
+      "description": "Adjust the attributes of spirit beast for the first time"
+    },
+    {
+      "apiname": "Achiement_MoWuLieRen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Hunter",
+      "description": "Destroy all elite monsters"
+    },
+    {
+      "apiname": "Achiement_GongYuShanQiShi",
+      "achieved": 1,
+      "unlocktime": 1635076322,
+      "name": "Best Weapon",
+      "description": "Enhance a weapon to the top level"
+    },
+    {
+      "apiname": "Achiement_YuLingDaShi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Beast Master",
+      "description": "All spirit beasts are upgraded to full level"
+    },
+    {
+      "apiname": "Achiement_BingFeiXiShuo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not A Legend",
+      "description": "Summon all Gods"
+    },
+    {
+      "apiname": "Achiement_GuYueChuanChengRen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music Inheritor",
+      "description": "Complete the branch task of \"Music Inheritor\""
+    },
+    {
+      "apiname": "Achiement_LeiZhiXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunder's Breath",
+      "description": "Learned Boltdash"
+    },
+    {
+      "apiname": "Achiement_LeiZhiLing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunder Spirit",
+      "description": "Collected all Condensed Spirits in Spirit Realm: Thunder."
+    },
+    {
+      "apiname": "Achiement_XiWangChongRan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rekindled Hope",
+      "description": "Completed the Main Story Quest: Mystifying Memories"
+    },
+    {
+      "apiname": "Achiement_JiYiDeShenChu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Depths of Memory",
+      "description": "Collected all memory fragments in Mystifying Memories"
+    },
+    {
+      "apiname": "Achiement_FengZhiXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wind's Breath",
+      "description": "Learned Windglide"
+    },
+    {
+      "apiname": "Achiement_FengZhiLing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wind Spirit",
+      "description": "Collected all Condensed Spirits in Spirit Realm: Wind."
+    },
+    {
+      "apiname": "Achiement_TuZhiXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth's Breath",
+      "description": "Learned Earthbinding"
+    },
+    {
+      "apiname": "Achiement_TuZhiLing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Spirit",
+      "description": "Collected all Condensed Spirits in Spirit Realm: Earth."
+    },
+    {
+      "apiname": "Achiement_YuanGuoTongShen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divinity from Divine Fruit",
+      "description": "Completed the Main Story Quest: Clues Within a Dream"
+    },
+    {
+      "apiname": "Achiement_QueYiBuKe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "None Left Behind",
+      "description": "Collected all memory fragments in Mystifying Memories and Clues Within a Dream"
+    },
+    {
+      "apiname": "Achiement_HuoZhiXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire's Breath",
+      "description": "Learned Flameburst."
+    },
+    {
+      "apiname": "Achiement_HuoZhiLing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Spirit",
+      "description": "Collected all Condensed Spirits in Spirit Realm: Fire."
+    },
+    {
+      "apiname": "Achiement_ShuiZhiXi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Water's Breath",
+      "description": "Learned Glaciate"
+    },
+    {
+      "apiname": "Achiement_ShuiZhiLing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Water Spirit",
+      "description": "Collected all Condensed Spirits in Spirit Realm: Water."
+    },
+    {
+      "apiname": "Achiement_DaoTongChuanCheng",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inheriting Legacy",
+      "description": "Completed the Mingshu Cultivation Trials."
+    },
+    {
+      "apiname": "Achiement_GuiFu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reawakening",
+      "description": "Defeated the Illusory Space's nightmare."
+    },
+    {
+      "apiname": "Achiement_RenJianRuMeng",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life is a Fleeting Dream",
+      "description": "Completed Sword and Fairy - Life is a Fleeting Dream"
+    }
+  ]
+}

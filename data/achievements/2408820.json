@@ -1,0 +1,851 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2408820,
+  "game": "Luma Island",
+  "total": 120,
+  "unlocked": 1,
+  "percent": 0.8,
+  "updated_at_utc": "2026-09-15T06:52:49.376072+00:00",
+  "achievements": [
+    {
+      "apiname": "Game_Started",
+      "achieved": 1,
+      "unlocktime": 1773363725,
+      "name": "Welcome to Luma Island!",
+      "description": "Started Luma Island for the first time!"
+    },
+    {
+      "apiname": "Tutorial_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're so Happy you Moved Here!",
+      "description": "Finished the tutorial"
+    },
+    {
+      "apiname": "Vanity_Books_Collected",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Read",
+      "description": "Collected all books for Balthazar's Lost Library in a single playthrough!"
+    },
+    {
+      "apiname": "5K_Gold_Dropped",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quickly, Pick That Up!",
+      "description": "Dropped over 5,000 Coins worth of items in one go."
+    },
+    {
+      "apiname": "Mushroom_Hit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying High",
+      "description": "Got a little too close to a mushroom."
+    },
+    {
+      "apiname": "Arianne_Cave",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hole New World",
+      "description": "Found an ancient cave. "
+    },
+    {
+      "apiname": "Discover_Everseed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack and the Beanstalk",
+      "description": "Found a magical Everseed."
+    },
+    {
+      "apiname": "500_Crop_Harvest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oligoculture",
+      "description": "Harvested 500 crops in a single playthrough."
+    },
+    {
+      "apiname": "Farm_Rabbit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep Calm and Carrot On",
+      "description": "Placed a Rabbit in a Rabbit Hutch."
+    },
+    {
+      "apiname": "Farm_Chicken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best of Cluck!",
+      "description": "Placed a Chicken in a Chicken Coop."
+    },
+    {
+      "apiname": "Farm_Goat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Baaa-d Day",
+      "description": "Placed a Goat in a Goat Shed."
+    },
+    {
+      "apiname": "Farm_Pig",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bringing Home the Bacon",
+      "description": "Placed a Pig in a Pig Pen."
+    },
+    {
+      "apiname": "Farm_Cow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Milky Way",
+      "description": "Placed a Cow in a Cow Barn."
+    },
+    {
+      "apiname": "Farm_Pirate_Pig",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Piracy Pork",
+      "description": "Yarrr! Got a rare pirate Pig!"
+    },
+    {
+      "apiname": "Caught_100_Fish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gone Fishing!",
+      "description": "Caught 100 Fish in a single playthrough."
+    },
+    {
+      "apiname": "Caught_All_Unique_Fish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don’t be Koi With Me",
+      "description": "Caught every Fish in the game once in a single playthrough."
+    },
+    {
+      "apiname": "Spider_Death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caught in a Web",
+      "description": "Got caught by a Spider or a Ghost in a cave."
+    },
+    {
+      "apiname": "Unique_Gems_Saved",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Know How to Rock and Roll",
+      "description": "Mined every Gem in the game in a single playthrough."
+    },
+    {
+      "apiname": "Ghost_Death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who you Gonna Call?",
+      "description": "Caught by a Ghost! Spooky."
+    },
+    {
+      "apiname": "Farm_Key",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Key to the Beginning",
+      "description": "Unlocked the path to Luma Island’s secrets."
+    },
+    {
+      "apiname": "Forest_Key",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Following the Trail",
+      "description": ""
+    },
+    {
+      "apiname": "Mountain_Key",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Better Understanding",
+      "description": ""
+    },
+    {
+      "apiname": "Jungle_Key",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unraveling the Truth",
+      "description": ""
+    },
+    {
+      "apiname": "Ending_Gemnod",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hard Decision",
+      "description": ""
+    },
+    {
+      "apiname": "Mastered_All_Professions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of All",
+      "description": "Mastered all Professions in a single playthrough."
+    },
+    {
+      "apiname": "Cook_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Cook",
+      "description": "Started a new Profession as a Cook!"
+    },
+    {
+      "apiname": "Cook_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Cook",
+      "description": "Became a Novice Cook!"
+    },
+    {
+      "apiname": "Cook_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Cook",
+      "description": "Became a Skilled Cook!"
+    },
+    {
+      "apiname": "Cook_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Cook",
+      "description": "Became an Expert Cook!"
+    },
+    {
+      "apiname": "Cook_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Cook",
+      "description": "Became a Master Cook!"
+    },
+    {
+      "apiname": "Brewer_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Brewer",
+      "description": "Started a new Profession as a Brewer!"
+    },
+    {
+      "apiname": "Brewer_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Brewer",
+      "description": "Became a Novice Brewer!"
+    },
+    {
+      "apiname": "Brewer_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Brewer",
+      "description": "Became a Skilled Brewer!"
+    },
+    {
+      "apiname": "Brewer_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Brewer",
+      "description": "Became an Expert Brewer!"
+    },
+    {
+      "apiname": "Brewer_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Brewer",
+      "description": "Became a Master Brewer!"
+    },
+    {
+      "apiname": "Jewelrycrafter_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Jewelrycrafter",
+      "description": "Started a new Profession as a Jewelrycrafter!"
+    },
+    {
+      "apiname": "Jewelrycrafter_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Jewelrycrafter",
+      "description": "Became a Novice Jewelrycrafter!"
+    },
+    {
+      "apiname": "Jewelrycrafter_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Jewelrycrafter",
+      "description": "Became a Skilled Jewelrycrafter!"
+    },
+    {
+      "apiname": "Jewelrycrafter_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Jewelrycrafter",
+      "description": "Became an Expert Jewelrycrafter!"
+    },
+    {
+      "apiname": "Jewelrycrafter_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Jewelrycrafter",
+      "description": "Became a Master Jewelrycrafter!"
+    },
+    {
+      "apiname": "Blacksmith_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Blacksmith",
+      "description": "Started a new Profession as a Blacksmith!"
+    },
+    {
+      "apiname": "Blacksmith_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Blacksmith",
+      "description": "Became a Novice Blacksmith!"
+    },
+    {
+      "apiname": "Blacksmith_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Blacksmith",
+      "description": "Became a Skilled Blacksmith!"
+    },
+    {
+      "apiname": "Blacksmith_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Blacksmith",
+      "description": "Became an Expert Blacksmith!"
+    },
+    {
+      "apiname": "Blacksmith_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Blacksmith",
+      "description": "Became a Master Blacksmith!"
+    },
+    {
+      "apiname": "Fisherman_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Fisherman",
+      "description": "Started a new Profession as a Fisherman!"
+    },
+    {
+      "apiname": "Fisherman_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Fisherman",
+      "description": "Became a Novice Fisherman!"
+    },
+    {
+      "apiname": "Fisherman_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Fisherman",
+      "description": "Became a Skilled Fisherman!"
+    },
+    {
+      "apiname": "Fisherman_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Fisherman",
+      "description": "Became an Expert Fisherman!"
+    },
+    {
+      "apiname": "Fisherman_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Fisherman",
+      "description": "Became a Master Fisherman!"
+    },
+    {
+      "apiname": "TreasureHunter_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Treasure Hunter",
+      "description": "Started a new Profession as a Treasure Hunter!"
+    },
+    {
+      "apiname": "TreasureHunter_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Treasure Hunter",
+      "description": "Became a Novice Treasure Hunter!"
+    },
+    {
+      "apiname": "TreasureHunter_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Treasure Hunter",
+      "description": "Became a Skilled Treasure Hunter!"
+    },
+    {
+      "apiname": "TreasureHunter_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Treasure Hunter",
+      "description": "Became an Expert Treasure Hunter!"
+    },
+    {
+      "apiname": "TreasureHunter_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Treasure Hunter",
+      "description": "Became a Master Treasure Hunter!"
+    },
+    {
+      "apiname": "Archaeologist_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as an Archaeologist",
+      "description": "Started a new Profession as an Archaeologist!"
+    },
+    {
+      "apiname": "Archaeologist_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Archaeologist",
+      "description": "Became a Novice Archaeologist!"
+    },
+    {
+      "apiname": "Archaeologist_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Archaeologist",
+      "description": "Became a Skilled Archaeologist!"
+    },
+    {
+      "apiname": "Archaeologist_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Archaeologist",
+      "description": "Became an Expert Archaeologist!"
+    },
+    {
+      "apiname": "Archaeologist_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Archaeologist",
+      "description": "Became a Master Archaeologist!"
+    },
+    {
+      "apiname": "Earthquake_Survived",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Was That?",
+      "description": ""
+    },
+    {
+      "apiname": "Pet_Shop_Repaired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pet Project",
+      "description": ""
+    },
+    {
+      "apiname": "Town_Repaired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Urban Revival",
+      "description": ""
+    },
+    {
+      "apiname": "Pier_Repaired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Repaired the Pier",
+      "description": ""
+    },
+    {
+      "apiname": "General_Store_Repaired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retail Revival",
+      "description": ""
+    },
+    {
+      "apiname": "Lighthouse_Repaired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Beacon of Hope",
+      "description": ""
+    },
+    {
+      "apiname": "10K_Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rainy Day Fund",
+      "description": "Had 10,000 Coins in your pocket! "
+    },
+    {
+      "apiname": "500K_Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death and Taxes",
+      "description": "Had 500,000 Coins in your pocket! "
+    },
+    {
+      "apiname": "1M_Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The 1%",
+      "description": "Had 1,000,000 Coins in your pocket!"
+    },
+    {
+      "apiname": "Built_Cottage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Property Ladder",
+      "description": "Built the Cottage! "
+    },
+    {
+      "apiname": "Built_Villa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moving on Up",
+      "description": ""
+    },
+    {
+      "apiname": "Built_Castle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royalty",
+      "description": ""
+    },
+    {
+      "apiname": "Forest_Explorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Explorer",
+      "description": ""
+    },
+    {
+      "apiname": "Mountain_Explorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain Explorer",
+      "description": ""
+    },
+    {
+      "apiname": "Jungle_Explorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jungle Explorer",
+      "description": ""
+    },
+    {
+      "apiname": "Catch_Woodgrouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Outrun Me!",
+      "description": "Followed a Wood Grouse to her nest!"
+    },
+    {
+      "apiname": "Open_Shrine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Search Party",
+      "description": "Opened a Shrine found in any zone."
+    },
+    {
+      "apiname": "Complete_Ground_Rune",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pressure plates",
+      "description": "Finished a Ground Rune puzzle."
+    },
+    {
+      "apiname": "Complete_Flower_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green Fingers",
+      "description": "Brought a flower back from the brink of death."
+    },
+    {
+      "apiname": "Complete_Color_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memory games",
+      "description": "Solved a Color puzzle."
+    },
+    {
+      "apiname": "Complete_Mimic_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Won't Fool Me!",
+      "description": "Solved a Mimic puzzle."
+    },
+    {
+      "apiname": "Complete_Throwing_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Throw!",
+      "description": "Opened a Shrine by hitting each pillar with an item."
+    },
+    {
+      "apiname": "Complete_TalkingStone_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Were You Listening?",
+      "description": "Solved a Talking Stone puzzle."
+    },
+    {
+      "apiname": "Complete_Firefly_Puzzle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bright Lights in the Night Sky.",
+      "description": "Solved a Firefly puzzle."
+    },
+    {
+      "apiname": "Shrine_Offering",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Gift to the Gods",
+      "description": "Gave an offering."
+    },
+    {
+      "apiname": "Spawned_Luma",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Alive!",
+      "description": "Hatched your first Luma! "
+    },
+    {
+      "apiname": "Collect_All_Lumas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collect'em All!",
+      "description": "Hatched one of every Luma in a single playthrough."
+    },
+    {
+      "apiname": "Luma_Petted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They Don't Bite!",
+      "description": "Pet a Luma. Cute."
+    },
+    {
+      "apiname": "Bought_Pet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Man's Best Friends",
+      "description": "Own a Cat or Dog."
+    },
+    {
+      "apiname": "First_Tool_Upgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Upgraded a tool for the first time! Many more to come!"
+    },
+    {
+      "apiname": "New_Tool_Material",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Tool Material!",
+      "description": "Upgraded a tool to the next material!"
+    },
+    {
+      "apiname": "Max_Pickaxe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterwork Pickaxe",
+      "description": "Upgraded the Pickaxe to the max level."
+    },
+    {
+      "apiname": "Max_Axe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterwork Axe",
+      "description": "Upgraded the Axe to the max level."
+    },
+    {
+      "apiname": "Max_Hoe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterwork Hoe",
+      "description": "Upgraded the Hoe to the max level."
+    },
+    {
+      "apiname": "Max_Whip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterwork Whip",
+      "description": "Upgraded the Whip to the max level."
+    },
+    {
+      "apiname": "Max_FishingRod",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterwork Fishing Rod",
+      "description": "Upgraded the Fishing Rod to the max level."
+    },
+    {
+      "apiname": "Built_A_Mega_Structure",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Took Some Time!",
+      "description": "Built a Mega-Structure decorative item!"
+    },
+    {
+      "apiname": "Built_All_Mega_Structures",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Took a LOT of Time!",
+      "description": "Built all Mega-Structure decorative items! You are insane but well done!"
+    },
+    {
+      "apiname": "Pirates_Entered_Pirate_Cove",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pirate vibes, salty tides!",
+      "description": ""
+    },
+    {
+      "apiname": "Caught_Bee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beekeeper",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Found_3_Pirate_Lumas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Me Hearties",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Finished_Pirate_Temple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walked the Plank",
+      "description": ""
+    },
+    {
+      "apiname": "Pinned_Point_Of_Interest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marked",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Hit_By_Skeleton",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skull and Bones",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Unlocked_1_Pirate_Outfit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dress the Part: Crew",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Unlocked_All_Pirate_Outfits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dress the Part: Captain",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Unlocked_All_Pirate_Emotes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shiver Me Timbers",
+      "description": ""
+    },
+    {
+      "apiname": "Shipwright_Starter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Started as a Shipwright",
+      "description": ""
+    },
+    {
+      "apiname": "Shipwright_Novice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Shipwright",
+      "description": ""
+    },
+    {
+      "apiname": "Shipwright_Skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled Shipwright",
+      "description": ""
+    },
+    {
+      "apiname": "Shipwright_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Shipwright",
+      "description": ""
+    },
+    {
+      "apiname": "Shipwright_Master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Shipwright",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Won_ArmWrestling",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Grip!",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Won_AxeThrowing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire in the Hole!",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Won_Sea_Shanty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rum & Bass!",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Won_Duel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Men Tell no Tales",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Finished_Treasure_Map",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "X Marks the Spot",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Spun_Wheel_Of_Fortune",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Luck!",
+      "description": ""
+    },
+    {
+      "apiname": "Pirates_Won_Biggest_Prize_On_Wheel_Of_Fortune",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Roller",
+      "description": ""
+    },
+    {
+      "apiname": "Built_Pirate_Hideout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Pirate's Life For Me",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2592160,
+  "game": "Dispatch",
+  "total": 36,
+  "unlocked": 36,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:52.345269+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_MENTOR_FAIL",
+      "achieved": 1,
+      "unlocktime": 1767509449,
+      "name": "\"Didn’t see that coming?\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MENTOR_SUCCESS",
+      "achieved": 1,
+      "unlocktime": 1767469581,
+      "name": "\"Sorry, kid.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CONVOY",
+      "achieved": 1,
+      "unlocktime": 1767524102,
+      "name": "\"All gas no brakes baby.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MERCY",
+      "achieved": 1,
+      "unlocktime": 1767476036,
+      "name": "\"I can confirm he’s a bad ass.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_VENGEANCE",
+      "achieved": 1,
+      "unlocktime": 1767469951,
+      "name": "\"Muuuuurrrdaaaaah!\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STRETCHER",
+      "achieved": 1,
+      "unlocktime": 1767469909,
+      "name": "\"I'm a bleeder.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CAR",
+      "achieved": 1,
+      "unlocktime": 1767525538,
+      "name": "\"Any plans tonight?\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FRIENDS",
+      "achieved": 1,
+      "unlocktime": 1767509449,
+      "name": "\"We can just be friends.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TRUTH_TOLD",
+      "achieved": 1,
+      "unlocktime": 1767458120,
+      "name": "\"That’s, like, a real superhero.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TRUTH_HID",
+      "achieved": 1,
+      "unlocktime": 1767472635,
+      "name": "\"I’m the guy behind the desk.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FIRST_SHOT",
+      "achieved": 1,
+      "unlocktime": 1767454760,
+      "name": "\"It smells very chemically in here.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SECOND_CHANCE",
+      "achieved": 1,
+      "unlocktime": 1767474865,
+      "name": "\"I wish to make love to you again.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TIE",
+      "achieved": 1,
+      "unlocktime": 1767288039,
+      "name": "\"Watch your back, Robert.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KNIFE",
+      "achieved": 1,
+      "unlocktime": 1767472363,
+      "name": "\"But I cheered for Invisigal...\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PERFORMANCE",
+      "achieved": 1,
+      "unlocktime": 1767512853,
+      "name": "Career Development",
+      "description": "Aced Your Performance Review"
+    },
+    {
+      "apiname": "ACH_HACK_ALL",
+      "achieved": 1,
+      "unlocktime": 1767524102,
+      "name": "H4ck3d by R0b3rt",
+      "description": "Succeeded On All Hacking Levels"
+    },
+    {
+      "apiname": "ACH_SYNERGY",
+      "achieved": 1,
+      "unlocktime": 1767465841,
+      "name": "Work Spouse",
+      "description": "Reached Max Synergy With a Hero Duo"
+    },
+    {
+      "apiname": "ACH_VIRUS",
+      "achieved": 1,
+      "unlocktime": 1767456846,
+      "name": "Anti-Antivirus Club",
+      "description": "Destroyed 3 Antiviruses in Less Than 15 Seconds"
+    },
+    {
+      "apiname": "ACH_TRAIN",
+      "achieved": 1,
+      "unlocktime": 1767455467,
+      "name": "Power Trip",
+      "description": "Expanded Powers for 4 Different Heroes"
+    },
+    {
+      "apiname": "ACH_DONUT",
+      "achieved": 1,
+      "unlocktime": 1767473161,
+      "name": "\"Love ‘em from my mouth to my butt.\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORE",
+      "achieved": 1,
+      "unlocktime": 1767474055,
+      "name": "\"There. You happy now?\"",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HIRED",
+      "achieved": 1,
+      "unlocktime": 1767257491,
+      "name": "\"Did I drool on you?\"",
+      "description": "Hired at SDN"
+    },
+    {
+      "apiname": "ACH_LISTEN",
+      "achieved": 1,
+      "unlocktime": 1767284042,
+      "name": "\"You gonna eat those twinks?\"",
+      "description": "Disobeyed by Invisigal"
+    },
+    {
+      "apiname": "ACH_PERFECT",
+      "achieved": 1,
+      "unlocktime": 1767504526,
+      "name": "Shift Was Lit",
+      "description": "Completed a Z-Team Shift Without Missing or Failing a Call"
+    },
+    {
+      "apiname": "ACH_POWER",
+      "achieved": 1,
+      "unlocktime": 1767287137,
+      "name": "Getting to Know Yous",
+      "description": "Discovered Every Hero's Starting Power"
+    },
+    {
+      "apiname": "ACH_SCEN_SUCCESS",
+      "achieved": 1,
+      "unlocktime": 1767504526,
+      "name": "Fool's Luck",
+      "description": "Succeeded a Call with <15% of Success"
+    },
+    {
+      "apiname": "ACH_SCEN_FAIL",
+      "achieved": 1,
+      "unlocktime": 1767455789,
+      "name": "Snake Eyes",
+      "description": "Failed a Call with >70% of Success"
+    },
+    {
+      "apiname": "ACH_SCEN_PERFECT",
+      "achieved": 1,
+      "unlocktime": 1767465391,
+      "name": "Nailed It",
+      "description": "Achieved a Perfect Dispatch With Only One Hero"
+    },
+    {
+      "apiname": "ACH_SCEN_MAX",
+      "achieved": 1,
+      "unlocktime": 1767459535,
+      "name": "Overkill",
+      "description": "Covered the Entire Graph on a Single Call"
+    },
+    {
+      "apiname": "ACH_SCEN_MODS",
+      "achieved": 1,
+      "unlocktime": 1767463218,
+      "name": "Modded",
+      "description": "Reached all bonuses and successfully avoid all failures"
+    },
+    {
+      "apiname": "ACH_HEAL_TWICE",
+      "achieved": 1,
+      "unlocktime": 1767511305,
+      "name": "Phoenixes Down",
+      "description": "Healed the Same Hero Twice in a Shift"
+    },
+    {
+      "apiname": "ACH_HACK_SLOW",
+      "achieved": 1,
+      "unlocktime": 1767505675,
+      "name": "Time's Running Out",
+      "description": "Completed a Hacking Level With less than 5 Seconds Left"
+    },
+    {
+      "apiname": "ACH_HACK_FAST",
+      "achieved": 1,
+      "unlocktime": 1767282716,
+      "name": "Burning Chrome",
+      "description": "Completed a Hacking Level With at least a third of the Timer Left"
+    },
+    {
+      "apiname": "ACH_STAT_MAX",
+      "achieved": 1,
+      "unlocktime": 1767504553,
+      "name": "Min Max",
+      "description": "Upgraded a Stat to 10"
+    },
+    {
+      "apiname": "ACH_HERO_MAX",
+      "achieved": 1,
+      "unlocktime": 1767462809,
+      "name": "From Zero To Hero",
+      "description": "Maxed Out a Hero"
+    },
+    {
+      "apiname": "ACH_DISPATCH_ALL",
+      "achieved": 1,
+      "unlocktime": 1767525538,
+      "name": "Dispatched",
+      "description": "Collected All Achievements"
+    }
+  ]
+}

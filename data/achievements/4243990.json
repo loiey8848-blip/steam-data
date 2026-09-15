@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4243990,
+  "game": "Path of Idle: Old Gods Rising",
+  "total": 25,
+  "unlocked": 25,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:39.579538+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_stele_level_1",
+      "achieved": 1,
+      "unlocktime": 1789039176,
+      "name": "Dim Stele",
+      "description": "Stele reaches Tier 6"
+    },
+    {
+      "apiname": "ach_stele_level_2",
+      "achieved": 1,
+      "unlocktime": 1789177461,
+      "name": "Glimmering Stele",
+      "description": "Stele reaches Tier 12"
+    },
+    {
+      "apiname": "ach_stele_level_3",
+      "achieved": 1,
+      "unlocktime": 1789309289,
+      "name": "Radiant Stele",
+      "description": "Stele reaches Tier 20"
+    },
+    {
+      "apiname": "ach_hero_level_1",
+      "achieved": 1,
+      "unlocktime": 1788915262,
+      "name": "Novice Godsworn",
+      "description": "Any Godsworn reaches Level 10"
+    },
+    {
+      "apiname": "ach_hero_level_2",
+      "achieved": 1,
+      "unlocktime": 1789038713,
+      "name": "Adept Godsworn",
+      "description": "Any Godsworn reaches Level 30"
+    },
+    {
+      "apiname": "ach_hero_level_3",
+      "achieved": 1,
+      "unlocktime": 1789053582,
+      "name": "Elite Godsworn",
+      "description": "Any Godsworn reaches Level 60"
+    },
+    {
+      "apiname": "ach_hero_level_100",
+      "achieved": 1,
+      "unlocktime": 1789053582,
+      "name": "Ultimate Godsworn",
+      "description": "Any Godsworn reaches Level 100"
+    },
+    {
+      "apiname": "ach_field_count_1",
+      "achieved": 1,
+      "unlocktime": 1788927544,
+      "name": "Second Team",
+      "description": "Unlock Adventure Slot 2"
+    },
+    {
+      "apiname": "ach_field_count_2",
+      "achieved": 1,
+      "unlocktime": 1789086307,
+      "name": "Third Team",
+      "description": "Unlock Adventure Slot 3"
+    },
+    {
+      "apiname": "ach_max_chap_1",
+      "achieved": 1,
+      "unlocktime": 1789039153,
+      "name": "Adventure Expeditioner I",
+      "description": "Complete Campaign Chapter 5"
+    },
+    {
+      "apiname": "ach_max_chap_2",
+      "achieved": 1,
+      "unlocktime": 1789086307,
+      "name": "Adventure Expeditioner II",
+      "description": "Complete Campaign Chapter 10"
+    },
+    {
+      "apiname": "ach_max_chap_3",
+      "achieved": 1,
+      "unlocktime": 1789096912,
+      "name": "Adventure Expeditioner III",
+      "description": "Complete Campaign Chapter 15"
+    },
+    {
+      "apiname": "ach_max_chap_4",
+      "achieved": 1,
+      "unlocktime": 1789228197,
+      "name": "Adventure Expeditioner IV",
+      "description": "Complete Campaign Chapter 20"
+    },
+    {
+      "apiname": "ach_max_probe_1",
+      "achieved": 1,
+      "unlocktime": 1789084872,
+      "name": "Treasure Seeker I",
+      "description": "Exploration Level reaches 6"
+    },
+    {
+      "apiname": "ach_max_probe_2",
+      "achieved": 1,
+      "unlocktime": 1789209260,
+      "name": "Treasure Seeker II",
+      "description": "Exploration Level reaches 12"
+    },
+    {
+      "apiname": "ach_max_probe_3",
+      "achieved": 1,
+      "unlocktime": 1789352530,
+      "name": "Treasure Seeker III",
+      "description": "Exploration Level reaches 20"
+    },
+    {
+      "apiname": "ach_max_tower_1",
+      "achieved": 1,
+      "unlocktime": 1789129912,
+      "name": "Tower Challenger I",
+      "description": "Divine Tower reaches Floor 30"
+    },
+    {
+      "apiname": "ach_max_tower_2",
+      "achieved": 1,
+      "unlocktime": 1789226419,
+      "name": "Tower Challenger II",
+      "description": "Divine Tower reaches Floor 60"
+    },
+    {
+      "apiname": "ach_max_tower_3",
+      "achieved": 1,
+      "unlocktime": 1789312788,
+      "name": "Tower Challenger III",
+      "description": "Divine Tower reaches Floor 100"
+    },
+    {
+      "apiname": "ach_max_outlands_1",
+      "achieved": 1,
+      "unlocktime": 1789274445,
+      "name": "Outlands Invader I",
+      "description": "Outlands reaches Stage 3"
+    },
+    {
+      "apiname": "ach_max_outlands_2",
+      "achieved": 1,
+      "unlocktime": 1789309441,
+      "name": "Outlands Invader II",
+      "description": "Outlands reaches Stage 6"
+    },
+    {
+      "apiname": "ach_max_outlands_3",
+      "achieved": 1,
+      "unlocktime": 1789380976,
+      "name": "Outlands Invader III",
+      "description": "Outlands reaches Stage 9"
+    },
+    {
+      "apiname": "ach_pass_doom_1",
+      "achieved": 1,
+      "unlocktime": 1789309784,
+      "name": "Godslayer I",
+      "description": "Clear Doom Stage 1"
+    },
+    {
+      "apiname": "ach_pass_doom_2",
+      "achieved": 1,
+      "unlocktime": 1789311102,
+      "name": "Godslayer II",
+      "description": "Clear Doom Stage 2"
+    },
+    {
+      "apiname": "ach_pass_doom_3",
+      "achieved": 1,
+      "unlocktime": 1789312108,
+      "name": "Godslayer III",
+      "description": "Clear Doom Stage 3"
+    }
+  ]
+}

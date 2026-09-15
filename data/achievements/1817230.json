@@ -1,0 +1,508 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1817230,
+  "game": "Hi-Fi RUSH",
+  "total": 71,
+  "unlocked": 9,
+  "percent": 12.7,
+  "updated_at_utc": "2026-09-15T06:52:20.047371+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_001",
+      "achieved": 1,
+      "unlocktime": 1675085881,
+      "name": "Start with a bang!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_002",
+      "achieved": 1,
+      "unlocktime": 1675258191,
+      "name": "Cream of the Crop",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This will cost you big time",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Negotiator",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Headliner",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to pay up!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who's the boss now?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Listening",
+      "description": "Finish the game completing every level on the Easy difficulty."
+    },
+    {
+      "apiname": "ACH_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well that was a rush!",
+      "description": "Finish the game and complete every level on the Normal difficulty."
+    },
+    {
+      "apiname": "ACH_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I think I deserve some praise, here!",
+      "description": "Finish the game and complete every level on the Hard difficulty."
+    },
+    {
+      "apiname": "ACH_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And the crowd goes wild!",
+      "description": "Finish the game and complete every level on the Very Hard difficulty."
+    },
+    {
+      "apiname": "ACH_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Didn't skip a beat!",
+      "description": "Finish the game and complete every level on the Rhythm Master difficulty."
+    },
+    {
+      "apiname": "ACH_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Problem solved... wait, what?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can't see this ever being a problem again",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_015",
+      "achieved": 1,
+      "unlocktime": 1675258496,
+      "name": "Thanks for the free chip, Peppermint!",
+      "description": "Purchase and equip your first upgrade chip."
+    },
+    {
+      "apiname": "ACH_016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chip-tuned",
+      "description": "Increase your chip slots to the maximum capacity."
+    },
+    {
+      "apiname": "ACH_017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I play my own way!",
+      "description": "Purchase and equip your first Special Attack."
+    },
+    {
+      "apiname": "ACH_018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whoa! There's ANOTHER health bar!?",
+      "description": "Increase your health to where you unlock a second tier."
+    },
+    {
+      "apiname": "ACH_019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I think that's enough health for now",
+      "description": "Fully upgrade your health bar by collecting all Life Gauges."
+    },
+    {
+      "apiname": "ACH_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Powered Up!",
+      "description": "Fully upgrade your Reverb Gauge to the maximum."
+    },
+    {
+      "apiname": "ACH_021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I have to read these things?",
+      "description": "Find and read half of the Vandelay Vlogs on the campus."
+    },
+    {
+      "apiname": "ACH_022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I have to read ALL of these things?",
+      "description": "Find and read every Vandelay Vlog on the campus."
+    },
+    {
+      "apiname": "ACH_023",
+      "achieved": 1,
+      "unlocktime": 1675085634,
+      "name": "Feeling the beat!",
+      "description": "Land 20 beat-hit attacks on enemies."
+    },
+    {
+      "apiname": "ACH_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beat-hit mania",
+      "description": "Land 500 beat-hit attacks on enemies."
+    },
+    {
+      "apiname": "ACH_025",
+      "achieved": 1,
+      "unlocktime": 1675259039,
+      "name": "You got this, Peppermint?",
+      "description": "Destroy 10 barriers by calling in Peppermint."
+    },
+    {
+      "apiname": "ACH_026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You must like calling me in, Chai",
+      "description": "Destroy 50 barriers by calling in Peppermint."
+    },
+    {
+      "apiname": "ACH_027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Z-shielding's got nothing on us!",
+      "description": "Shatter 10 enemy shields by calling in Macaron."
+    },
+    {
+      "apiname": "ACH_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I think I found your calling, Macaron",
+      "description": "Shatter 50 enemy shields by calling in Macaron."
+    },
+    {
+      "apiname": "ACH_029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out in a puff of smoke",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is a breeze!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_031",
+      "achieved": 1,
+      "unlocktime": 1675434922,
+      "name": "Perfect Parry",
+      "description": "Sucessfully parry with perfect timing 15 times."
+    },
+    {
+      "apiname": "ACH_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfecter Parry-er!",
+      "description": "Sucessfully parry with perfect timing 200 times."
+    },
+    {
+      "apiname": "ACH_033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uh, they were broken when I got here",
+      "description": "Destroy 200 Vandelay security robots."
+    },
+    {
+      "apiname": "ACH_034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's a lot of junk metal…",
+      "description": "Destroy 500 Vandelay security robots."
+    },
+    {
+      "apiname": "ACH_035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OK, well THEY came after ME!",
+      "description": "Destroy 1000 Vandelay security robots."
+    },
+    {
+      "apiname": "ACH_036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kissing the sky!",
+      "description": "Perform 50 Aerial Raves."
+    },
+    {
+      "apiname": "ACH_037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're Jammin'",
+      "description": "Successfully pull off 20 Jam Combos"
+    },
+    {
+      "apiname": "ACH_038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm not done with you yet",
+      "description": "Overkill 20 enemies."
+    },
+    {
+      "apiname": "ACH_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First we parry, then we counter",
+      "description": "Perform 20 parry counters using any partner."
+    },
+    {
+      "apiname": "ACH_040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now this is how you fight like a team!",
+      "description": "Perform 100 parry counters using any partner."
+    },
+    {
+      "apiname": "ACH_041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Ultimate Setlist",
+      "description": "Complete all the floors in the Rhythm Tower."
+    },
+    {
+      "apiname": "ACH_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I look cool. But I can look COOLER.",
+      "description": "Equip any costume."
+    },
+    {
+      "apiname": "ACH_043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What a journey it was...",
+      "description": "Complete the Wall of Fame in the hideout."
+    },
+    {
+      "apiname": "ACH_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This was... not what I expected.",
+      "description": "Have \"The Artist\" decorate your hideout."
+    },
+    {
+      "apiname": "ACH_045",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's such a thing as TOO helpful",
+      "description": "Find and engage with every Smidge, while completing all of his practice tips."
+    },
+    {
+      "apiname": "ACH_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have we met before?",
+      "description": "Find Vandelay HR's investigator and hear all of its monologues."
+    },
+    {
+      "apiname": "ACH_047",
+      "achieved": 1,
+      "unlocktime": 1675255618,
+      "name": "Who put gears in there?",
+      "description": "Destroyed your first golden statue of Kale."
+    },
+    {
+      "apiname": "ACH_048",
+      "achieved": 1,
+      "unlocktime": 1675435150,
+      "name": "Alright, that felt AWESOME!",
+      "description": "Defeated your first enemy with a Rhythm Parry Attack."
+    },
+    {
+      "apiname": "ACH_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I hit things with a guitar really well.",
+      "description": "Finish a stage with a S rank for every Chorus. (Any difficulty.)"
+    },
+    {
+      "apiname": "ACH_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm untouchable!",
+      "description": "Finish a stage without taking any damage. (Any difficulty.)"
+    },
+    {
+      "apiname": "ACH_051",
+      "achieved": 1,
+      "unlocktime": 1675258508,
+      "name": "You can pet the cat!",
+      "description": "Play with 808 in the hideout."
+    },
+    {
+      "apiname": "ACH_052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanna hear my playlist?",
+      "description": "Change the background music in the hideout."
+    },
+    {
+      "apiname": "ACH_053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Does that say weakpoint?",
+      "description": "Destroy QA-1MIL's face, revealing its shame."
+    },
+    {
+      "apiname": "ACH_054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I told you I'd be fine, Peppermint!",
+      "description": "Complete the ride through production on the transit rail without taking damage."
+    },
+    {
+      "apiname": "ACH_055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You ever parry a volcano?",
+      "description": "Successfully parry a volcanic rock outside of research and development."
+    },
+    {
+      "apiname": "ACH_056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am a good person who likes to help",
+      "description": "Help out 3 Vandelay robots with their pressing issues."
+    },
+    {
+      "apiname": "ACH_057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm trying to FOCUS HERE!",
+      "description": "Find and shoot down every hovering announcement drone."
+    },
+    {
+      "apiname": "ACH_058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With our powers combined…and to the rhythm…",
+      "description": "Perfectly time your take down of your largest foe yet in a musical finale."
+    },
+    {
+      "apiname": "ACH_059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I saw all those hits coming a measure away!",
+      "description": "Perfectly parry every non-boss enemy's Rhythm Parry attack. (Only for enemies in the main game.)"
+    },
+    {
+      "apiname": "ACH_060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Check out my moves!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OK, I THINK I know what I'm doing now",
+      "description": "Successfully pull off every combo and attack in the Training Room."
+    },
+    {
+      "apiname": "ACH_062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NOW we got a kickass hideout!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call me Turbo Chai",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Choose your own adventure",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It'll do, CNMN",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Please don't make this awkward",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That was just EVIL",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_068",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New bad guys? No problem!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It was all for this",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voices from within",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Low budget finish",
+      "description": ""
+    }
+  ]
+}

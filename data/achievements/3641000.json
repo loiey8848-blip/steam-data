@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3641000,
+  "game": "The Incident at Galley House",
+  "total": 15,
+  "unlocked": 2,
+  "percent": 13.3,
+  "updated_at_utc": "2026-09-15T06:53:32.991007+00:00",
+  "achievements": [
+    {
+      "apiname": "seance",
+      "achieved": 1,
+      "unlocktime": 1786889112,
+      "name": "Seance",
+      "description": "Viewed your first scene"
+    },
+    {
+      "apiname": "inciting",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inciting Incident",
+      "description": ""
+    },
+    {
+      "apiname": "not_over_yet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Over Yet",
+      "description": ""
+    },
+    {
+      "apiname": "fullhouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Unlocked every location in Galley House"
+    },
+    {
+      "apiname": "hallucination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hallucination",
+      "description": ""
+    },
+    {
+      "apiname": "persistence",
+      "achieved": 1,
+      "unlocktime": 1786890555,
+      "name": "Persistence",
+      "description": "Tried the same incorrect code twice"
+    },
+    {
+      "apiname": "typehelp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TYPE HE-L-P",
+      "description": "Asked the machine for help"
+    },
+    {
+      "apiname": "spectronoeticist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spectronoeticist",
+      "description": "Found all of the scenes"
+    },
+    {
+      "apiname": "deathnote",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Note",
+      "description": "Marked a death on the timeline"
+    },
+    {
+      "apiname": "housetour",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "House Tour",
+      "description": "Watched a scene in every room of the house"
+    },
+    {
+      "apiname": "lawrence",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Shocking Revelation",
+      "description": ""
+    },
+    {
+      "apiname": "supervisor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machine Supervisor",
+      "description": "Restored the power when something went wrong"
+    },
+    {
+      "apiname": "researcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Researcher",
+      "description": "Restored the power for a second time"
+    },
+    {
+      "apiname": "technical",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Technical Engineer",
+      "description": "Restored the power for a third time"
+    },
+    {
+      "apiname": "still_alive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Alive",
+      "description": "Tried to view a scene containing only living people"
+    }
+  ]
+}

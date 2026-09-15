@@ -1,0 +1,907 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1366540,
+  "game": "Dyson Sphere Program",
+  "total": 128,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:37.437356+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Know any campfire songs? ",
+      "description": "Consume at least 40 wood by burning it."
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't underestimate Plant Fuel",
+      "description": "Consume at least 100 Plant Fuel by burning it."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Surprise 1",
+      "description": "Obtain at least 100 Titanium Ore by collecting Stone."
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Surprise 2",
+      "description": "Obtain at least 100 Silicon Ore by collecting Stone."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Surprise 3",
+      "description": "Obtain at least 100 Organic Crystals by collecting plants."
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Surprise 4",
+      "description": "Obtain at least 100 Sulfuric Acid by collecting plants."
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Surprise 5",
+      "description": "Obtain at least 10 Carbon Nanotubes by collecting plants."
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chemist",
+      "description": "Make 20 Organic Crystals by hand using the original formula."
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blackbox designer",
+      "description": "Copy and save a Blueprint."
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm gonna need more drones!",
+      "description": "Control 10 or more Construction Drones."
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sail away with me",
+      "description": "Unlock upgrade to make the Solar Sail last 2 hours."
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who approved this?",
+      "description": "Unlock technology to make the construction latitude of the Dyson Sphere node reach 45 degrees."
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light-footed",
+      "description": "Unlock upgrade to make mecha reach 12m/s movement speed."
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Employee of the month",
+      "description": "Unlock upgrade to allow Pile Sorters to load and unload cargos simultaneously."
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magpie",
+      "description": "Discover 7 kinds of rare minerals, and collect at least 10 by hand."
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space invaders",
+      "description": "Use the mineral burial function to bury at least 20 Veins."
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mineral field depleted",
+      "description": "Deplete 1 Vein."
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minerals by the dozen",
+      "description": "Cover at least 12 Veins with one Mining machine."
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slip 'n' slide",
+      "description": "Fill 10 tanks of fluid in a game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now Boarding",
+      "description": "Have at least 100 Logistics Drones for a planet in transit."
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interstellar convoy",
+      "description": "Have at least 50 Interstellar Logistics Vessels in space."
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forgot about that",
+      "description": "Build Wind Turbines on a planet with no atmosphere."
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High-rise",
+      "description": "Build a building at least 7 stories tall."
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Determination",
+      "description": "Use more than 80K foundations on a Waterworld planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't sand so close to me",
+      "description": "Collect at least 4M units of sand in a game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I saw this in a movie once",
+      "description": "Cover a planet with a Foundation."
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tickets please!",
+      "description": "Establish an Interstellar Logistics Transportation line."
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intergalactic logistics",
+      "description": "Establish 5 Interstellar Logistics Transportation lines between different planetary systems."
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Low battery",
+      "description": "Have Icarus’ energy below 5% for more than 3 minutes when on the ground."
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space junk",
+      "description": "Exhaust both fuel and energy while flying in space."
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Running on fumes",
+      "description": "Manually collect 20 Hydrogen with Icarus on a Gas Giant while energy is at 5% or less."
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No diving!",
+      "description": "Have a mecha run out of energy and fall into water."
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power surge",
+      "description": "Use 12 Wireless Power Towers to charge a mecha at the same time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn baby burn",
+      "description": "Have Icarus burn at least 16 different fuels in a game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can see my house from here!",
+      "description": "Get Icarus 40m above sea level without entering flight mode."
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sonic boom!",
+      "description": "Exceed a sailing speed of 340m/s in the atmosphere."
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faster than light",
+      "description": "Reach a sailing speed of 3000m/s in non-warp transportation."
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My planet, my rules!",
+      "description": "Name a planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One giant leap for mankind!",
+      "description": "Leave the original planet and land on another within an hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where no coal has gone before",
+      "description": "Use coal as the only fuel to move from one planet to another."
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only impossible until it's not",
+      "description": "Start warp engine."
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Before our time",
+      "description": "Land on another planet outside the initial planetary system before unlocking Warp drive."
+    },
+    {
+      "apiname": "ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planet Explorer I",
+      "description": "Land on 5 different planets!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planet Explorer II",
+      "description": "Land on 15 different planets!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What time is it?",
+      "description": "Find and land on a planet with day and night tidal locking."
+    },
+    {
+      "apiname": "ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm not tilted",
+      "description": "Find and land on a planet rotating on a horizontal axis."
+    },
+    {
+      "apiname": "ACHIEVEMENT_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The sun rises in the...West?",
+      "description": "Find and land on a planet rotating on a reverse axis."
+    },
+    {
+      "apiname": "ACHIEVEMENT_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are you proud of me, Stephen?",
+      "description": "Find and orbit a Black Hole."
+    },
+    {
+      "apiname": "ACHIEVEMENT_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boy genius",
+      "description": "Find and orbit a Neutron Star."
+    },
+    {
+      "apiname": "ACHIEVEMENT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bon voyage!",
+      "description": "Travel to the planetary system farthest from your original system."
+    },
+    {
+      "apiname": "ACHIEVEMENT_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well traveled",
+      "description": "Travel to at least 32 planetary systems in a game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let there be light!",
+      "description": "Light an Artificial Star on the North and South Pole of the original planet, an Ice Field Gelisol Planet, and the eternal night side of a tide-locked planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lean mean cleaning machine",
+      "description": "Use Icarus' garbage clearing function to absorb 50,000 units of Iron Ingot at the same time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Environmental nightmare",
+      "description": "Drop 3000 units of Titanium Ingot at once while flying through space."
+    },
+    {
+      "apiname": "ACHIEVEMENT_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Build it and they will come",
+      "description": "Build 10 Orbital Collectors."
+    },
+    {
+      "apiname": "ACHIEVEMENT_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maximum efficiency",
+      "description": "Build and maintain 100 Ray Receivers with a receiving efficiency of over 85%."
+    },
+    {
+      "apiname": "ACHIEVEMENT_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Data rules everything around me",
+      "description": "Achieve a Matrix Lab upload rate of 1M hash/s."
+    },
+    {
+      "apiname": "ACHIEVEMENT_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firing on all cylinders",
+      "description": "Unlock upgrade to decrease the mineral mining consumption rate to less than 15%."
+    },
+    {
+      "apiname": "ACHIEVEMENT_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memento!",
+      "description": "Don't dismantle the landing capsule before completing the game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Icarus, PhD",
+      "description": "Unlock all technologies (upgrade Unlimited Technology at least once)."
+    },
+    {
+      "apiname": "ACHIEVEMENT_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission accomplished",
+      "description": "Complete the game."
+    },
+    {
+      "apiname": "ACHIEVEMENT_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "x0.5 Resource completion",
+      "description": "Complete the game on x0.5 resource difficulty."
+    },
+    {
+      "apiname": "ACHIEVEMENT_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Didn't break a sweat!",
+      "description": "Complete the game within 25 hours on x1 (or less) resource difficulty."
+    },
+    {
+      "apiname": "ACHIEVEMENT_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission impossible!",
+      "description": "Complete the game within 10 hours on x1 (or less) resource difficulty."
+    },
+    {
+      "apiname": "ACHIEVEMENT_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solar Sail? No thank you!",
+      "description": "Complete the game without launching a Solar Sail."
+    },
+    {
+      "apiname": "ACHIEVEMENT_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Environmentalist",
+      "description": "Complete the game without using Foundations."
+    },
+    {
+      "apiname": "ACHIEVEMENT_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alien Mineral Protection Act",
+      "description": "Complete the game without gathering rare veins to obtain rare ores."
+    },
+    {
+      "apiname": "ACHIEVEMENT_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Launch a total of 100K Solar Sails."
+    },
+    {
+      "apiname": "ACHIEVEMENT_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We have lift-off",
+      "description": "Launch a total of 30,000 Small Carrier Rockets."
+    },
+    {
+      "apiname": "ACHIEVEMENT_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critical thinker",
+      "description": "Produce a total of 60,000 Critical Photons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets of the universe I",
+      "description": "Upload a total of 1M Universe matrices."
+    },
+    {
+      "apiname": "ACHIEVEMENT_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets of the universe II",
+      "description": "Upload a total of 10M Universe matrices."
+    },
+    {
+      "apiname": "ACHIEVEMENT_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got Deuterium?",
+      "description": "Use Fractionators to produce at least 100K Deuterium per hour on a single planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green power",
+      "description": "Produce at least 43,200 Electromagnetic turbines per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electromagnetic matrix",
+      "description": "Produce at least 43,200 Electromagnetic matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Energy matrix",
+      "description": "Produce at least 43,200 Energy matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Structure matrix",
+      "description": "Produce at least 43,200 Structure matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Information matrix",
+      "description": "Produce at least 43,200 Information matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gravity matrix",
+      "description": "Produce at least 43,200 Gravity matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Universe matrix, Yellow Belt",
+      "description": "Produce at least 21,600 Universe matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Universe matrix, Green Belt",
+      "description": "Produce at least 43,200 Universe matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Universe matrix, Blue Belt",
+      "description": "Produce at least 108,000 Universe matrices per hour."
+    },
+    {
+      "apiname": "ACHIEVEMENT_83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No coal? No problem!",
+      "description": "Generate more than 60MW of electricity on a planet using Wind Turbines."
+    },
+    {
+      "apiname": "ACHIEVEMENT_84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunbather",
+      "description": "Generate more than 180MW of electricity on a planet using Solar Panels."
+    },
+    {
+      "apiname": "ACHIEVEMENT_85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All systems are go!",
+      "description": "Achieve discharge power of more than 300MW on a planet using Energy Hubs."
+    },
+    {
+      "apiname": "ACHIEVEMENT_86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going nuclear",
+      "description": "Generate more than 600MW of power on a planet using Mini Fusion Power Plants."
+    },
+    {
+      "apiname": "ACHIEVEMENT_87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a diamond in the sky",
+      "description": "Light a star that belongs to you in the Milky Way View."
+    },
+    {
+      "apiname": "ACHIEVEMENT_88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "CentreBrain needs more energy I",
+      "description": "Total power generation of the Dyson Sphere reaches 200MW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "CentreBrain needs more energy II",
+      "description": "Total power generation of the Dyson Sphere reaches 1GW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "CentreBrain needs more energy III",
+      "description": "Total power generation of the Dyson Sphere reaches 1TW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We can make it if we try",
+      "description": "Build a Dyson Sphere around a Red Giant star with a power generation performance of more than 10GW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backup plan",
+      "description": "Build a Star Cluster with an energy storage capacity of 27GJ or more."
+    },
+    {
+      "apiname": "ACHIEVEMENT_93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small factory",
+      "description": "Reach a total power generation of 20MW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium factory",
+      "description": "Reach a total power generation of 100MW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Large factory",
+      "description": "Reach a total power generation of 1GW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_96",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant factory",
+      "description": "Reach a total power generation of 5GW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_97",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Universe factory",
+      "description": "Reach a total power generation of 50GW."
+    },
+    {
+      "apiname": "ACHIEVEMENT_98",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infinite Factory I",
+      "description": "Exceed a total energy consumption of 1GJ."
+    },
+    {
+      "apiname": "ACHIEVEMENT_99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infinite Factory II",
+      "description": "Exceed a total energy consumption of 1TJ."
+    },
+    {
+      "apiname": "ACHIEVEMENT_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infinite Factory III",
+      "description": "Exceed a total energy consumption of 1PJ."
+    },
+    {
+      "apiname": "ACHIEVEMENT_101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust to dust I",
+      "description": "Collect 1M soil piles from Dark Fog."
+    },
+    {
+      "apiname": "ACHIEVEMENT_102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust to dust II",
+      "description": "Collect 10M soil piles from Dark Fog."
+    },
+    {
+      "apiname": "ACHIEVEMENT_103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust to dust III",
+      "description": "Collect 100M soil piles from Dark Fog."
+    },
+    {
+      "apiname": "ACHIEVEMENT_104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Hunting I",
+      "description": "Neutralize 100 Dark Fog space units."
+    },
+    {
+      "apiname": "ACHIEVEMENT_105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Hunting II",
+      "description": "Neutralize 1000 Dark Fog space units."
+    },
+    {
+      "apiname": "ACHIEVEMENT_106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Hunting III",
+      "description": "Neutralize 10000 Dark Fog space units."
+    },
+    {
+      "apiname": "ACHIEVEMENT_107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullet Storm",
+      "description": "Bullet consumption reaches 360/min on any planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Penny Saved",
+      "description": "Complete the mission without any buildings destroyed at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strangle in the cradle",
+      "description": "Wipe out a Dark Fog Planetary Base within 1 hour at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peace & Love",
+      "description": "Complete the mission without any Dark Fog buildings neutralized at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Spotlight",
+      "description": "Have 40 Laser Towers shoot the same target at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War has Changed",
+      "description": "Complete the mission without building any Turrets at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Won't Lie Low",
+      "description": "Attract an attack from a space unit within 1 hour at Difficulty 1.0 or above."
+    },
+    {
+      "apiname": "ACHIEVEMENT_114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Kill",
+      "description": "Icarus neutralizes over 1,000 Dark Fog units within 1 minute."
+    },
+    {
+      "apiname": "ACHIEVEMENT_115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "POPCORN!",
+      "description": "Implosion Cannon neutralizes 40 enemies or more with 1 shot."
+    },
+    {
+      "apiname": "ACHIEVEMENT_116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbowed, Unbent, Unbroken",
+      "description": "Keep Icarus' energy shield's power consumption at 1GW while resisting damage for over 1 minute."
+    },
+    {
+      "apiname": "ACHIEVEMENT_117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Base radius of Icarus' Energy Shield reaches 25m."
+    },
+    {
+      "apiname": "ACHIEVEMENT_118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A.T Field",
+      "description": "Planetary Shield's coverage reaches 100% over a planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Nova!",
+      "description": "Activate Supernova."
+    },
+    {
+      "apiname": "ACHIEVEMENT_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shoot Oneself in the Foot",
+      "description": "Lure Lancers to destroy a Planetary Base."
+    },
+    {
+      "apiname": "ACHIEVEMENT_121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Started It",
+      "description": "Have Icarus destroyed by Dark Fog at Passive Dark Fog aggressiveness."
+    },
+    {
+      "apiname": "ACHIEVEMENT_122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Right Under My Nose",
+      "description": "Land on a planet that is 8000m or closer to a Dark Fog Hive."
+    },
+    {
+      "apiname": "ACHIEVEMENT_123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Shall Not Pass!",
+      "description": "Neutralize a Relay Station before it lands on a planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Global Offense",
+      "description": "Be simultaneously assaulted by 12 Planetary Bases on a planet."
+    },
+    {
+      "apiname": "ACHIEVEMENT_125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrong Place",
+      "description": "Land on a planet occupied by over 20 Planetary Bases."
+    },
+    {
+      "apiname": "ACHIEVEMENT_126",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotcha",
+      "description": "Find Dark Fog Communicator."
+    },
+    {
+      "apiname": "ACHIEVEMENT_127",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's on Fire",
+      "description": "Icarus' Replicator speed reaches 400%."
+    },
+    {
+      "apiname": "ACHIEVEMENT_128",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Calculated",
+      "description": "Unlock all secret technologies."
+    }
+  ]
+}

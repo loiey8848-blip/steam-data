@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 939850,
+  "game": "The Dark Pictures Anthology: Man of Medan",
+  "total": 30,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:05.687937+00:00",
+  "achievements": [
+    {
+      "apiname": "FOUND_SECRETS_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For a dollar he told me his secrets",
+      "description": "Found 25 Secrets!"
+    },
+    {
+      "apiname": "FOUND_SECRETS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets! Lies! Conspiracies, man!",
+      "description": "Found all Secrets!"
+    },
+    {
+      "apiname": "FOUND_PICTURES_BLACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quite a lot of deaths that night",
+      "description": "Found all of the black framed Pictures"
+    },
+    {
+      "apiname": "FOUND_PICTURES_WHITE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Possible futures",
+      "description": "Found all of the white framed Pictures"
+    },
+    {
+      "apiname": "FOUND_PICTURES_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost ships are just a myth, right?",
+      "description": "Found all Pictures"
+    },
+    {
+      "apiname": "RELATIONSHIP_ALEX_JULIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lovebirds",
+      "description": ""
+    },
+    {
+      "apiname": "RELATIONSHIP_CONRAD_FLISS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You got a better way?",
+      "description": ""
+    },
+    {
+      "apiname": "RELATIONSHIP_BRAD_ALEX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium bro",
+      "description": ""
+    },
+    {
+      "apiname": "KILLED_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a sole survivor",
+      "description": "No-one survived!"
+    },
+    {
+      "apiname": "SAVED_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's something, I suppose",
+      "description": "Everybody survived!"
+    },
+    {
+      "apiname": "COMPLETED_SOLO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going it alone",
+      "description": "Completed the Solo Story"
+    },
+    {
+      "apiname": "PLAYED_MODE_SHARED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learning to work together",
+      "description": "Finished the Shared Story"
+    },
+    {
+      "apiname": "PLAYED_MODE_MOVIENIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like that movie with the ship",
+      "description": "Finished Movie Night"
+    },
+    {
+      "apiname": "KILLED_MALES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Girls' night out",
+      "description": "Only the women survived!"
+    },
+    {
+      "apiname": "KILLED_FEMALES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Right there with ya, boys",
+      "description": "Only the men survived!"
+    },
+    {
+      "apiname": "UNLOCKED_BOLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big man on campus",
+      "description": ""
+    },
+    {
+      "apiname": "UNLOCKED_ARROGANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aye, aye captain",
+      "description": ""
+    },
+    {
+      "apiname": "UNLOCKED_ENVIOUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brother thing, you know",
+      "description": ""
+    },
+    {
+      "apiname": "UNLOCKED_SPOILT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remember who's signing the checks",
+      "description": ""
+    },
+    {
+      "apiname": "UNLOCKED_HUMOROUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If you're selling, I'm buying",
+      "description": ""
+    },
+    {
+      "apiname": "COMBAT_TRAINING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karate Master",
+      "description": "Beat the Training Dummy"
+    },
+    {
+      "apiname": "QTES_TEN_IN_A_ROW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "As long as you're quick",
+      "description": "Completed 10 QTEs in succession"
+    },
+    {
+      "apiname": "JULIA_ACCEPTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yes! Yes, I’ll marry you!",
+      "description": ""
+    },
+    {
+      "apiname": "BAD_CALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The name of this vessel",
+      "description": ""
+    },
+    {
+      "apiname": "CALMED_JUNIOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's all gone changing on me",
+      "description": ""
+    },
+    {
+      "apiname": "CONRAD_FLIRTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A pint of frosty amber liquid",
+      "description": ""
+    },
+    {
+      "apiname": "CONRAD_ESCAPES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't catch him with this old junker",
+      "description": ""
+    },
+    {
+      "apiname": "EIGHT_MILES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break 'em during the thunder",
+      "description": "Opened the window without making noise"
+    },
+    {
+      "apiname": "CHOOSE_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go with your gut",
+      "description": "Chose all of the Heart decisions"
+    },
+    {
+      "apiname": "CHOOSE_HEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Consider all the permutations",
+      "description": "Chose all of the Head decisions"
+    }
+  ]
+}

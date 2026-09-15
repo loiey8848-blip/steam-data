@@ -1,0 +1,340 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1693980,
+  "game": "Dead Space",
+  "total": 47,
+  "unlocked": 19,
+  "percent": 40.4,
+  "updated_at_utc": "2026-09-15T06:52:18.294448+00:00",
+  "achievements": [
+    {
+      "apiname": "ach01",
+      "achieved": 1,
+      "unlocktime": 1676809051,
+      "name": "Welcome Aboard",
+      "description": "Complete Chapter 1 on any difficulty setting."
+    },
+    {
+      "apiname": "ach02",
+      "achieved": 1,
+      "unlocktime": 1676811703,
+      "name": "Lab Rat",
+      "description": "Complete Chapter 2 on any difficulty setting."
+    },
+    {
+      "apiname": "ach03",
+      "achieved": 1,
+      "unlocktime": 1676909094,
+      "name": "All Systems Go",
+      "description": "Complete Chapter 3 on any difficulty setting."
+    },
+    {
+      "apiname": "ach04",
+      "achieved": 1,
+      "unlocktime": 1676989194,
+      "name": "Cannon Fodder",
+      "description": "Complete Chapter 4 on any difficulty setting."
+    },
+    {
+      "apiname": "ach05",
+      "achieved": 1,
+      "unlocktime": 1676990968,
+      "name": "True Believer",
+      "description": "Complete Chapter 5 on any difficulty setting."
+    },
+    {
+      "apiname": "ach06",
+      "achieved": 1,
+      "unlocktime": 1676994023,
+      "name": "Greenhouse Effect",
+      "description": "Complete Chapter 6 on any difficulty setting."
+    },
+    {
+      "apiname": "ach07",
+      "achieved": 1,
+      "unlocktime": 1677253569,
+      "name": "S.O.S.",
+      "description": "Complete Chapter 7 on any difficulty setting."
+    },
+    {
+      "apiname": "ach08",
+      "achieved": 1,
+      "unlocktime": 1677297827,
+      "name": "Strange Transmissions",
+      "description": "Complete Chapter 8 on any difficulty setting."
+    },
+    {
+      "apiname": "ach09",
+      "achieved": 1,
+      "unlocktime": 1677300356,
+      "name": "Wreckage",
+      "description": "Complete Chapter 9 on any difficulty setting."
+    },
+    {
+      "apiname": "ach10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeper of the Faith",
+      "description": "Complete Chapter 10 on any difficulty setting."
+    },
+    {
+      "apiname": "ach11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Betrayed",
+      "description": "Complete Chapter 11 on any difficulty setting."
+    },
+    {
+      "apiname": "ach12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exodus",
+      "description": "Complete Chapter 12 on any difficulty setting."
+    },
+    {
+      "apiname": "ach13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Regeneration",
+      "description": "Discover the Hunter's origins."
+    },
+    {
+      "apiname": "ach14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whole Again",
+      "description": "Pursue Nicole's investigation."
+    },
+    {
+      "apiname": "ach15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Set A Benchmark",
+      "description": "Complete the game on Medium difficulty or above."
+    },
+    {
+      "apiname": "ach16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable",
+      "description": "Complete the game in Impossible Mode."
+    },
+    {
+      "apiname": "ach17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trusted Contractor",
+      "description": "Complete New Game Plus on any difficulty mode."
+    },
+    {
+      "apiname": "ach18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Arsenal",
+      "description": "Own every weapon in the game."
+    },
+    {
+      "apiname": "ach19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Built To Order",
+      "description": "Install every weapon upgrade."
+    },
+    {
+      "apiname": "ach20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Autofire",
+      "description": "Kill 30 enemies with the Pulse Rifle."
+    },
+    {
+      "apiname": "ach21",
+      "achieved": 1,
+      "unlocktime": 1676991877,
+      "name": "Live with the Hot Ones",
+      "description": "Kill 30 enemies with the Flamethrower."
+    },
+    {
+      "apiname": "ach22",
+      "achieved": 1,
+      "unlocktime": 1676909993,
+      "name": "A Cut Above",
+      "description": "Kill 30 enemies with the Ripper."
+    },
+    {
+      "apiname": "ach23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pusher",
+      "description": "Kill 30 enemies with the Force Gun."
+    },
+    {
+      "apiname": "ach24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eviscerator",
+      "description": "Kill 30 enemies with the Line Gun."
+    },
+    {
+      "apiname": "ach25",
+      "achieved": 1,
+      "unlocktime": 1677073562,
+      "name": "Full Contact",
+      "description": "Kill 30 enemies with the Contact Beam."
+    },
+    {
+      "apiname": "ach26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Gun",
+      "description": "Beat the game using only the Plasma Cutter."
+    },
+    {
+      "apiname": "ach27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pack Rat",
+      "description": "Place 25 items in Storage."
+    },
+    {
+      "apiname": "ach28",
+      "achieved": 1,
+      "unlocktime": 1676993959,
+      "name": "Story Teller",
+      "description": "Collect 75 Logs."
+    },
+    {
+      "apiname": "ach29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend Teller",
+      "description": "Collect 150 Logs."
+    },
+    {
+      "apiname": "ach30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchant",
+      "description": "Collect all Schematics."
+    },
+    {
+      "apiname": "ach31",
+      "achieved": 1,
+      "unlocktime": 1676807733,
+      "name": "Marksman",
+      "description": "Dismember 50 Limbs."
+    },
+    {
+      "apiname": "ach32",
+      "achieved": 1,
+      "unlocktime": 1676991535,
+      "name": "Surgeon",
+      "description": "Dismember 500 Limbs."
+    },
+    {
+      "apiname": "ach33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wishbone",
+      "description": "Rip off a dangling limb using Kinesis."
+    },
+    {
+      "apiname": "ach34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raise The Stakes",
+      "description": "Pin an enemy."
+    },
+    {
+      "apiname": "ach35",
+      "achieved": 1,
+      "unlocktime": 1676990803,
+      "name": "Freeze",
+      "description": "Use Stasis on 50 enemies."
+    },
+    {
+      "apiname": "ach36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backbreaker",
+      "description": "Kill 10 enemies with a stomp attack."
+    },
+    {
+      "apiname": "ach37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxed Out",
+      "description": "Fully upgrade all weapons and equipment."
+    },
+    {
+      "apiname": "ach38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Front Toward Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "ach39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Z-Baller",
+      "description": ""
+    },
+    {
+      "apiname": "ach40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's Always Peng!",
+      "description": ""
+    },
+    {
+      "apiname": "ach41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Clearance",
+      "description": ""
+    },
+    {
+      "apiname": "ach42",
+      "achieved": 1,
+      "unlocktime": 1676909645,
+      "name": "Brute Force",
+      "description": ""
+    },
+    {
+      "apiname": "ach43",
+      "achieved": 1,
+      "unlocktime": 1676993940,
+      "name": "Exterminator",
+      "description": ""
+    },
+    {
+      "apiname": "ach44",
+      "achieved": 1,
+      "unlocktime": 1677255470,
+      "name": "Get Off My Ship!",
+      "description": ""
+    },
+    {
+      "apiname": "ach45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mindless Prey",
+      "description": ""
+    },
+    {
+      "apiname": "ach46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marked",
+      "description": ""
+    },
+    {
+      "apiname": "ach47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunion",
+      "description": ""
+    }
+  ]
+}

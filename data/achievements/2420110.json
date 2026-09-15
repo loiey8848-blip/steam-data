@@ -1,0 +1,571 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2420110,
+  "game": "Horizon Forbidden West™ Complete Edition",
+  "total": 80,
+  "unlocked": 80,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:49.990845+00:00",
+  "achievements": [
+    {
+      "apiname": "Trophy000",
+      "achieved": 1,
+      "unlocktime": 1765259537,
+      "name": "All Achievements Obtained",
+      "description": "Obtained all Horizon Forbidden West Achievements."
+    },
+    {
+      "apiname": "Trophy001",
+      "achieved": 1,
+      "unlocktime": 1763226263,
+      "name": "Reached Level 20",
+      "description": "Reached player level 20."
+    },
+    {
+      "apiname": "Trophy002",
+      "achieved": 1,
+      "unlocktime": 1763357551,
+      "name": "Reached Level 30",
+      "description": "Reached player level 30."
+    },
+    {
+      "apiname": "Trophy003",
+      "achieved": 1,
+      "unlocktime": 1763616038,
+      "name": "Reached Level 50",
+      "description": "Reached player level 50."
+    },
+    {
+      "apiname": "Trophy004",
+      "achieved": 1,
+      "unlocktime": 1760281076,
+      "name": "Reached the Daunt",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy005",
+      "achieved": 1,
+      "unlocktime": 1760285145,
+      "name": "Secured Passage to the Embassy",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy006",
+      "achieved": 1,
+      "unlocktime": 1760377855,
+      "name": "Attended the Embassy",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy007",
+      "achieved": 1,
+      "unlocktime": 1763141080,
+      "name": "Established the Base",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy008",
+      "achieved": 1,
+      "unlocktime": 1763269332,
+      "name": "Recovered AETHER",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy009",
+      "achieved": 1,
+      "unlocktime": 1763361900,
+      "name": "Recovered POSEIDON",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy010",
+      "achieved": 1,
+      "unlocktime": 1763481498,
+      "name": "Recovered DEMETER",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy011",
+      "achieved": 1,
+      "unlocktime": 1763271180,
+      "name": "Recovered Beta",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy012",
+      "achieved": 1,
+      "unlocktime": 1763527369,
+      "name": "Discovered Faro's Fate",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy013",
+      "achieved": 1,
+      "unlocktime": 1763530086,
+      "name": "Flew on the Wings of the Ten",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy014",
+      "achieved": 1,
+      "unlocktime": 1763745202,
+      "name": "Discovered Nemesis",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy015",
+      "achieved": 1,
+      "unlocktime": 1764059070,
+      "name": "Chose a Desert Commander",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy016",
+      "achieved": 1,
+      "unlocktime": 1763531155,
+      "name": "Saved the Daunt",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy017",
+      "achieved": 1,
+      "unlocktime": 1765133204,
+      "name": "Aided Kotallo",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy018",
+      "achieved": 1,
+      "unlocktime": 1763614169,
+      "name": "Healed the Land-gods",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy019",
+      "achieved": 1,
+      "unlocktime": 1763567686,
+      "name": "Recovered Alva's Data",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy020",
+      "achieved": 1,
+      "unlocktime": 1763136697,
+      "name": "First Tallneck Overridden",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy021",
+      "achieved": 1,
+      "unlocktime": 1763836454,
+      "name": "All Tallnecks Overridden",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy022",
+      "achieved": 1,
+      "unlocktime": 1763048525,
+      "name": "First Rebel Camp Completed",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy023",
+      "achieved": 1,
+      "unlocktime": 1763894310,
+      "name": "Defeated Asera",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy024",
+      "achieved": 1,
+      "unlocktime": 1763364568,
+      "name": "First Core Overridden",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy025",
+      "achieved": 1,
+      "unlocktime": 1763927882,
+      "name": "All Cores Overridden",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy026",
+      "achieved": 1,
+      "unlocktime": 1764052078,
+      "name": "Obtained 3 Stripes at a Hunting Ground",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy027",
+      "achieved": 1,
+      "unlocktime": 1764055723,
+      "name": "Obtained 3 Stripes at All Hunting Grounds",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy028",
+      "achieved": 1,
+      "unlocktime": 1763879915,
+      "name": "All Acquisition Machines Killed",
+      "description": "Killed at least one of every type of Acquisition machine."
+    },
+    {
+      "apiname": "Trophy029",
+      "achieved": 1,
+      "unlocktime": 1763485572,
+      "name": "All Recon Machines Killed",
+      "description": "Killed at least one of every type of Reconnaissance machine."
+    },
+    {
+      "apiname": "Trophy030",
+      "achieved": 1,
+      "unlocktime": 1763612922,
+      "name": "All Combat Machines Killed",
+      "description": "Killed at least one of every type of Combat machine."
+    },
+    {
+      "apiname": "Trophy031",
+      "achieved": 1,
+      "unlocktime": 1763357109,
+      "name": "All Transport Machines Killed",
+      "description": "Killed at least one of every type of Transport machine."
+    },
+    {
+      "apiname": "Trophy032",
+      "achieved": 1,
+      "unlocktime": 1763880259,
+      "name": "Rode All Regular Mounts",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy033",
+      "achieved": 1,
+      "unlocktime": 1763924433,
+      "name": "All Machine Types Scanned",
+      "description": "Encountered and Focus scanned every type of machine."
+    },
+    {
+      "apiname": "Trophy034",
+      "achieved": 1,
+      "unlocktime": 1763881557,
+      "name": "Completed a Long Glide",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy035",
+      "achieved": 1,
+      "unlocktime": 1763919750,
+      "name": "Completed 2 Flying Mount Quests",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy036",
+      "achieved": 1,
+      "unlocktime": 1763488228,
+      "name": "Won 2 Gauntlet Runs",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy037",
+      "achieved": 1,
+      "unlocktime": 1760541399,
+      "name": "Completed a Set of Salvage Contracts",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy038",
+      "achieved": 1,
+      "unlocktime": 1763884147,
+      "name": "Completed 4 Rebel Outposts",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy039",
+      "achieved": 1,
+      "unlocktime": 1763967291,
+      "name": "Completed 3 Relic Ruins",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy040",
+      "achieved": 1,
+      "unlocktime": 1763964941,
+      "name": "Completed Arena Challenge Set",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy041",
+      "achieved": 1,
+      "unlocktime": 1763925671,
+      "name": "Defeated Machine Strike Challengers",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy042",
+      "achieved": 1,
+      "unlocktime": 1763660758,
+      "name": "Obtained All Weapon Classes",
+      "description": "Obtained 1 weapon from every weapon class."
+    },
+    {
+      "apiname": "Trophy043",
+      "achieved": 1,
+      "unlocktime": 1763869157,
+      "name": "Used all Elemental States",
+      "description": "Inflicted every elemental state on an enemy at least once."
+    },
+    {
+      "apiname": "Trophy044",
+      "achieved": 1,
+      "unlocktime": 1763880259,
+      "name": "Performed 3 Melee Combos",
+      "description": "Successfully performed 3 different unlockable melee combos."
+    },
+    {
+      "apiname": "Trophy045",
+      "achieved": 1,
+      "unlocktime": 1760205823,
+      "name": "Stealth Killed 10 Machines",
+      "description": "Performed a stealth kill on 10 machines."
+    },
+    {
+      "apiname": "Trophy046",
+      "achieved": 1,
+      "unlocktime": 1763138110,
+      "name": "Tore off 100 Components",
+      "description": "Detached 100 components from machines."
+    },
+    {
+      "apiname": "Trophy047",
+      "achieved": 1,
+      "unlocktime": 1763362522,
+      "name": "Picked up 5 Heavy Weapons",
+      "description": "Picked up 5 different heavy weapons."
+    },
+    {
+      "apiname": "Trophy048",
+      "achieved": 1,
+      "unlocktime": 1763822576,
+      "name": "10 Types of Machine Overridden",
+      "description": "Unlocked and used the overrides for 10 different types of machine."
+    },
+    {
+      "apiname": "Trophy049",
+      "achieved": 1,
+      "unlocktime": 1763922701,
+      "name": "Defeated the Enduring",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy050",
+      "achieved": 1,
+      "unlocktime": 1763266750,
+      "name": "Fully Upgraded a Valor Surge",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy051",
+      "achieved": 1,
+      "unlocktime": 1763137816,
+      "name": "Upgraded 3 Weapons",
+      "description": "Fully upgraded 3 weapons."
+    },
+    {
+      "apiname": "Trophy052",
+      "achieved": 1,
+      "unlocktime": 1763225513,
+      "name": "Upgraded 3 Outfits",
+      "description": "Fully upgraded 3 different outfits."
+    },
+    {
+      "apiname": "Trophy053",
+      "achieved": 1,
+      "unlocktime": 1765259537,
+      "name": "Upgraded Every Pouch Type",
+      "description": "Upgraded the Food Pouch, Potion Pouch, Resource Pouch, Trap Pouch, and any ammo pouch at least once."
+    },
+    {
+      "apiname": "Trophy054",
+      "achieved": 1,
+      "unlocktime": 1763137911,
+      "name": "Enhanced Weapon with Coils",
+      "description": "Equipped a weapon of any tier with 2 coils."
+    },
+    {
+      "apiname": "Trophy055",
+      "achieved": 1,
+      "unlocktime": 1760379840,
+      "name": "Unlocked 3 Weapon Techniques",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy056",
+      "achieved": 1,
+      "unlocktime": 1763362641,
+      "name": "Skill Tree Learned",
+      "description": "Learned all available skills on one tree."
+    },
+    {
+      "apiname": "Trophy057",
+      "achieved": 1,
+      "unlocktime": 1763964941,
+      "name": "Recovered 5 Different Collectables",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy058",
+      "achieved": 1,
+      "unlocktime": 1763568478,
+      "name": "Used Dye Flowers",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy059",
+      "achieved": 1,
+      "unlocktime": 1765252279,
+      "name": "Completed New Game+",
+      "description": "Completed a New Game+ playthrough on any difficulty."
+    },
+    {
+      "apiname": "Trophy060",
+      "achieved": 1,
+      "unlocktime": 1765252279,
+      "name": "Completed Ultra Hard",
+      "description": "Completed a new or New Game+ playthrough on Ultra Hard difficulty."
+    },
+    {
+      "apiname": "Trophy061",
+      "achieved": 1,
+      "unlocktime": 1765259234,
+      "name": "Obtained All New Game+ Rewards",
+      "description": "Obtained all New Game+ weapons, dyes, and face paints."
+    },
+    {
+      "apiname": "Trophy062",
+      "achieved": 1,
+      "unlocktime": 1765165445,
+      "name": "All Quests Completed",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy063",
+      "achieved": 1,
+      "unlocktime": 1765085358,
+      "name": "Discovered the Ascension",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy064",
+      "achieved": 1,
+      "unlocktime": 1765120630,
+      "name": "Confronted Londra",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy065",
+      "achieved": 1,
+      "unlocktime": 1765165445,
+      "name": "Aided the Quen",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy066",
+      "achieved": 1,
+      "unlocktime": 1765125805,
+      "name": "Defeated Londra and His Horus",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy067",
+      "achieved": 1,
+      "unlocktime": 1765167885,
+      "name": "All New Skills Learned",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy068",
+      "achieved": 1,
+      "unlocktime": 1763836454,
+      "name": "Reached Level 60",
+      "description": "Reached player level 60."
+    },
+    {
+      "apiname": "Trophy069",
+      "achieved": 1,
+      "unlocktime": 1763747244,
+      "name": "Used Brimshine",
+      "description": "Used Brimshine to purchase 1 outfit and 1 weapon."
+    },
+    {
+      "apiname": "Trophy070",
+      "achieved": 1,
+      "unlocktime": 1763748016,
+      "name": "Equipped an Elite Coil or Weave",
+      "description": "Equipped an elite coil on a weapon or an elite weave on an outfit."
+    },
+    {
+      "apiname": "Trophy071",
+      "achieved": 1,
+      "unlocktime": 1765125998,
+      "name": "Specter Gauntlet Upgraded",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy072",
+      "achieved": 1,
+      "unlocktime": 1763869954,
+      "name": "Cauldron THETA Core Overridden",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy073",
+      "achieved": 1,
+      "unlocktime": 1765129716,
+      "name": "All New Machines Scanned",
+      "description": "Encountered and Focus scanned every new machine in the Burning Shores."
+    },
+    {
+      "apiname": "Trophy074",
+      "achieved": 1,
+      "unlocktime": 1765199018,
+      "name": "Completed the Dino Digits Quiz",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy075",
+      "achieved": 1,
+      "unlocktime": 1765199018,
+      "name": "Recovered the Delvers' Trove",
+      "description": ""
+    },
+    {
+      "apiname": "Trophy076",
+      "achieved": 1,
+      "unlocktime": 1765209868,
+      "name": "Recovered All Aerial Captures",
+      "description": "Discovered and completed all Aerial Captures."
+    },
+    {
+      "apiname": "Trophy077",
+      "achieved": 1,
+      "unlocktime": 1763880705,
+      "name": "Used Grapple Strike on Machines",
+      "description": "Used Grapple Strike on 5 unique machines."
+    },
+    {
+      "apiname": "Trophy078",
+      "achieved": 1,
+      "unlocktime": 1765130797,
+      "name": "Killed Machines While Gliding",
+      "description": "Killed 5 machines with the Specter Gauntlet while gliding."
+    },
+    {
+      "apiname": "Trophy079",
+      "achieved": 1,
+      "unlocktime": 1765128052,
+      "name": "Killed Bileguts and Stingspawn",
+      "description": "Killed 5 Bileguts and 50 Stingspawn."
+    }
+  ]
+}

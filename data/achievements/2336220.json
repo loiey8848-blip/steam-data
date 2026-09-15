@@ -1,0 +1,466 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2336220,
+  "game": "Feed The Cups",
+  "total": 65,
+  "unlocked": 19,
+  "percent": 29.2,
+  "updated_at_utc": "2026-09-15T06:52:45.289726+00:00",
+  "achievements": [
+    {
+      "apiname": "TUTORIAL",
+      "achieved": 1,
+      "unlocktime": 1710329051,
+      "name": "Complete Tutorial",
+      "description": "Completed the Tutorial level."
+    },
+    {
+      "apiname": "LEVEL_1",
+      "achieved": 1,
+      "unlocktime": 1710516897,
+      "name": "Neighborhood Area Complete",
+      "description": "Completed 4 shops at the lowest difficulty level in the Neighborhood Area."
+    },
+    {
+      "apiname": "LEVEL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet Street Complete",
+      "description": "Completed 4 shops at the lowest difficulty level in Gourmet Street."
+    },
+    {
+      "apiname": "LEVEL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Office Buildings Complete",
+      "description": "Completed 4 shops at the lowest difficulty level in Office Building."
+    },
+    {
+      "apiname": "LEVEL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trending Park Complete",
+      "description": "Completed 4 shops at the lowest difficulty level in Trending Park."
+    },
+    {
+      "apiname": "HOUSE_1",
+      "achieved": 1,
+      "unlocktime": 1710601613,
+      "name": "Expanding Slightly Bigger House",
+      "description": "Expanded Slightly Bigger House for the first time."
+    },
+    {
+      "apiname": "HOUSE_2",
+      "achieved": 1,
+      "unlocktime": 1710675888,
+      "name": "Expanding Bedroom",
+      "description": "Expanded bedroom for the second time."
+    },
+    {
+      "apiname": "HOUSE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Living Room",
+      "description": "Expanded living Room for the third time."
+    },
+    {
+      "apiname": "HOUSE_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Bathroom",
+      "description": "Expanded bathroom for the fourth time."
+    },
+    {
+      "apiname": "HOUSE_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Workroom",
+      "description": "Expanded Workroom for the fifth time."
+    },
+    {
+      "apiname": "HOUSE_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Kitchen",
+      "description": "Expanded kitchen for the sixth time."
+    },
+    {
+      "apiname": "HOUSE_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Green House",
+      "description": ""
+    },
+    {
+      "apiname": "AVATAR_1",
+      "achieved": 1,
+      "unlocktime": 1710599622,
+      "name": "New Companion: Wolf",
+      "description": "Unlocked new companion - Wolf."
+    },
+    {
+      "apiname": "AVATAR_2",
+      "achieved": 1,
+      "unlocktime": 1710599623,
+      "name": "New Companion: Fox",
+      "description": "Unlocked new companion - Fox."
+    },
+    {
+      "apiname": "AVATAR_3",
+      "achieved": 1,
+      "unlocktime": 1710599623,
+      "name": "New Companion: Ghost",
+      "description": ""
+    },
+    {
+      "apiname": "AVATAR_4",
+      "achieved": 1,
+      "unlocktime": 1710645250,
+      "name": "New Companion: Beaver",
+      "description": ""
+    },
+    {
+      "apiname": "AVATAR_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Companion: Slime",
+      "description": ""
+    },
+    {
+      "apiname": "AVATAR_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Companion: Panda",
+      "description": ""
+    },
+    {
+      "apiname": "AVATAR_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Companion: Crocodile",
+      "description": ""
+    },
+    {
+      "apiname": "CUPCOIN_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zeroed Out",
+      "description": ""
+    },
+    {
+      "apiname": "SHOWCASE_1",
+      "achieved": 1,
+      "unlocktime": 1710645263,
+      "name": "Adorned Showcase",
+      "description": "The DisplayCase is equipped with any decorations."
+    },
+    {
+      "apiname": "SAVE_1",
+      "achieved": 1,
+      "unlocktime": 1710683846,
+      "name": "Assist a Teammate",
+      "description": "Assist a teammate in need once."
+    },
+    {
+      "apiname": "COMBO_99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "99 COMBO",
+      "description": "Achieve a Maximum Combo of 99."
+    },
+    {
+      "apiname": "MULTIPLAY_1",
+      "achieved": 1,
+      "unlocktime": 1710329098,
+      "name": "Host Friends",
+      "description": "Have any friends come to visit your home."
+    },
+    {
+      "apiname": "HIGHINCOME_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Income",
+      "description": ""
+    },
+    {
+      "apiname": "MANAGER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Bear",
+      "description": "Bear achieved Reserve Shop Manager level."
+    },
+    {
+      "apiname": "MANAGER_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Wolf",
+      "description": "Wolf achieved Reserve Shop Manager level."
+    },
+    {
+      "apiname": "MANAGER_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Fox",
+      "description": "Fox achieved Reserve Shop Manager level."
+    },
+    {
+      "apiname": "MANAGER_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Ghost",
+      "description": ""
+    },
+    {
+      "apiname": "MANAGER_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Beaver",
+      "description": ""
+    },
+    {
+      "apiname": "MANAGER_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Slime",
+      "description": ""
+    },
+    {
+      "apiname": "MANAGER_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Panda",
+      "description": ""
+    },
+    {
+      "apiname": "MANAGER_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shop Manager Crocodile",
+      "description": ""
+    },
+    {
+      "apiname": "UNPACKING_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Box Breaker",
+      "description": "Disassemble 1000 empty cardboard boxes."
+    },
+    {
+      "apiname": "OPENGIFT_1",
+      "achieved": 1,
+      "unlocktime": 1710658501,
+      "name": "Gift Recipient",
+      "description": "Open 50 gifts."
+    },
+    {
+      "apiname": "REOPEN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Re-draw Once",
+      "description": "Refresh gifts 100 times."
+    },
+    {
+      "apiname": "CHALLENGE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner Challenge",
+      "description": "Complete 12 demon level challenges."
+    },
+    {
+      "apiname": "CHALLENGE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Challenge",
+      "description": "Complete 40 demon level challenges."
+    },
+    {
+      "apiname": "TRASH_1",
+      "achieved": 1,
+      "unlocktime": 1710658501,
+      "name": "Trash Picker",
+      "description": "Throw 100 pieces of garbage into outdoor trash cans."
+    },
+    {
+      "apiname": "PEFRECTSHIFT_1",
+      "achieved": 1,
+      "unlocktime": 1710683846,
+      "name": "Night Shift Pro",
+      "description": "Perfectly clean up 100 times at Night Shift."
+    },
+    {
+      "apiname": "CUPCOIN_1",
+      "achieved": 1,
+      "unlocktime": 1773636067,
+      "name": "Minor Achievement",
+      "description": "Earn a total of 50,000 CupCoins."
+    },
+    {
+      "apiname": "CUPCOIN_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealthy",
+      "description": "Earn a total of 10,000,000 CupCoins."
+    },
+    {
+      "apiname": "TIPS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Target",
+      "description": "Earn 10,000 tips."
+    },
+    {
+      "apiname": "TIPS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender",
+      "description": "Earn 1,000,000 tips."
+    },
+    {
+      "apiname": "UPGRADE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upgrade Required",
+      "description": "Upgrade equipment 100 times"
+    },
+    {
+      "apiname": "UPGRADE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upgrade Master",
+      "description": "Upgrade equipment 1000 times."
+    },
+    {
+      "apiname": "CRITICAL_1",
+      "achieved": 1,
+      "unlocktime": 1773635845,
+      "name": "Lucky Star",
+      "description": "Perform 100 tip critical hits."
+    },
+    {
+      "apiname": "CRITICAL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Critical Expert",
+      "description": "Perform 2000 tip critical hits."
+    },
+    {
+      "apiname": "DIFFERENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drink Connoisseur",
+      "description": "Create 100 different Drink Recipes."
+    },
+    {
+      "apiname": "COMPLETE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full-time Employee",
+      "description": "Successfully operate 100 times."
+    },
+    {
+      "apiname": "DAY_1",
+      "achieved": 1,
+      "unlocktime": 1710333065,
+      "name": "One Month",
+      "description": "Operate for 30 days."
+    },
+    {
+      "apiname": "DAY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Year",
+      "description": "Operate for 365 days."
+    },
+    {
+      "apiname": "DAY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Four Years",
+      "description": "Operate for 1461 days."
+    },
+    {
+      "apiname": "PERFECT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Benchmark Maker",
+      "description": "Get 10,000 Good Reviews."
+    },
+    {
+      "apiname": "TRASHIN_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waste Disposer",
+      "description": "Throw 500 items into the Trashbin."
+    },
+    {
+      "apiname": "ADDICE_1",
+      "achieved": 1,
+      "unlocktime": 1773636067,
+      "name": "IceMachine Expert",
+      "description": "Add ice to 500 cups of drinks."
+    },
+    {
+      "apiname": "ADDSUGAR_1",
+      "achieved": 1,
+      "unlocktime": 1710683831,
+      "name": "FructoseMachine Expert",
+      "description": "Add fructose to 500 cups of drinks."
+    },
+    {
+      "apiname": "TOTALSELL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Bartender",
+      "description": "Sell a total of 10,000 cups of drinks be Sell Server."
+    },
+    {
+      "apiname": "TOTALORDER_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Order Taker",
+      "description": "Take orders from customers 10,000 times."
+    },
+    {
+      "apiname": "LEVEL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stadium Complete",
+      "description": ""
+    },
+    {
+      "apiname": "LEVEL_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Street Complete",
+      "description": ""
+    },
+    {
+      "apiname": "LEVEL_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Park Complete",
+      "description": ""
+    },
+    {
+      "apiname": "LEVEL_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bar Complete",
+      "description": ""
+    },
+    {
+      "apiname": "CHALLENGE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Challenge",
+      "description": ""
+    },
+    {
+      "apiname": "HOUSE_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Game Room",
+      "description": ""
+    }
+  ]
+}

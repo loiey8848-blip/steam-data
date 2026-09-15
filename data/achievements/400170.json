@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 400170,
+  "game": "The Incredible Adventures of Van Helsing: Final Cut",
+  "total": 50,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:48.039197+00:00",
+  "achievements": [
+    {
+      "apiname": "forgotten_knowledge_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forgotten knowledge",
+      "description": "Reach level 100 with an Elementalist or Umbralist (character classes)."
+    },
+    {
+      "apiname": "steam_lord_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Steam Lord",
+      "description": "Reach level 100 with a Constructor or Phlogistoneer (character classes)."
+    },
+    {
+      "apiname": "good_ole_hunter_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a good ole' hunter",
+      "description": "Reach level 100 with a Bounty Hunter or Protector (character classes)."
+    },
+    {
+      "apiname": "circle_unbroken_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Circle Unbroken",
+      "description": "Complete the \"Forgotten Knowledge\", \"Steam Lord\" and \"Just a Good ole' hunter\" achievements."
+    },
+    {
+      "apiname": "requiem_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Requiem for a dream",
+      "description": "Die with a level 60 or higher hardcore character."
+    },
+    {
+      "apiname": "glory_100_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eternal Glory",
+      "description": "Reach Glory level 100."
+    },
+    {
+      "apiname": "legend_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glory of a legend",
+      "description": "Reach Reputation level 15."
+    },
+    {
+      "apiname": "skill_branch_complete_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Specialist",
+      "description": "Learn every Skill, Powerup and Mastery on a single branch of the Skill Tree with any Character Class."
+    },
+    {
+      "apiname": "td_mission_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tower Defender",
+      "description": "Finish a Tower Defense mission."
+    },
+    {
+      "apiname": "resistance_mission_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viva la Resistance!",
+      "description": "Finish a Resistance mission."
+    },
+    {
+      "apiname": "potions_drunk_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a sip",
+      "description": "Drink lots of potions (shouldn't be that hard)."
+    },
+    {
+      "apiname": "looted_chest_count_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Let's be honest here. The most important part of a game like Van Helsing is the LOOT! So go out there and gather as much as you can! From chests."
+    },
+    {
+      "apiname": "good_catch_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A good catch",
+      "description": "Collect 1 million gold with any character."
+    },
+    {
+      "apiname": "set_equipped_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A hunter with style",
+      "description": "Equip a full collection of Set items."
+    },
+    {
+      "apiname": "manservant_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Manservant",
+      "description": ""
+    },
+    {
+      "apiname": "reach_borgova_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reach Borgova",
+      "description": ""
+    },
+    {
+      "apiname": "kill_breda_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breda and Butter",
+      "description": ""
+    },
+    {
+      "apiname": "kill_fulmigati_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfulmigator",
+      "description": ""
+    },
+    {
+      "apiname": "perun_2_completed_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shock and Awe",
+      "description": ""
+    },
+    {
+      "apiname": "defeat_drillingtorony_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spanner in the works",
+      "description": ""
+    },
+    {
+      "apiname": "defeat_harker_dryad_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The roots of evil",
+      "description": ""
+    },
+    {
+      "apiname": "crystal_bastion_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Bastion",
+      "description": ""
+    },
+    {
+      "apiname": "follow_the_leader_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Follow the Leader",
+      "description": ""
+    },
+    {
+      "apiname": "defying_death_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defying Death",
+      "description": ""
+    },
+    {
+      "apiname": "ride_into_the_sunset_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ride into the Sunset",
+      "description": ""
+    },
+    {
+      "apiname": "hardcore_ending_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm so Hardcore!",
+      "description": "Finish the game with a Hardcore character."
+    },
+    {
+      "apiname": "mostly_coop_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Walk Alone",
+      "description": "Finish the game playing mostly in coop."
+    },
+    {
+      "apiname": "full_solo_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf",
+      "description": "Finish the game in single player all the way through."
+    },
+    {
+      "apiname": "daily_quest_completed_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "But wait! There's more!",
+      "description": "Complete a Daily Quest."
+    },
+    {
+      "apiname": "scenario_completed_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A change of pace",
+      "description": "Finish a Scenario."
+    },
+    {
+      "apiname": "scenario_types_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tour the World",
+      "description": "Play every Scenario type."
+    },
+    {
+      "apiname": "td_mission_perfect_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Plan",
+      "description": "Finish a Tower Defense mission without letting any monster reach the gate."
+    },
+    {
+      "apiname": "killed_monsters_total_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monsters' Bane",
+      "description": "Killing lots of monsters will make you famous among the populace and infamous among the monsters."
+    },
+    {
+      "apiname": "ghost_of_war_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let loose the ghost of war",
+      "description": "Let Lady Katarina kill a Boss. (Delivering the final blow is enough.)"
+    },
+    {
+      "apiname": "killed_monsters_boss_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nemesis",
+      "description": "Defeat Bosses to gain reputation!"
+    },
+    {
+      "apiname": "killed_monsters_miniboss_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archhero",
+      "description": "Defeat Special Enemies to gain reputation!"
+    },
+    {
+      "apiname": "godlike_maxed_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Godlike",
+      "description": "Upgrade a Godlike item to its full potential."
+    },
+    {
+      "apiname": "jones_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In your face, Jones!",
+      "description": "Collect 10 Relics for the Resistance."
+    },
+    {
+      "apiname": "bunnyslayer_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunnyslayer",
+      "description": ""
+    },
+    {
+      "apiname": "riddle_me_wisp_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riddle me Wisp",
+      "description": ""
+    },
+    {
+      "apiname": "rightful_heir_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rightful Heir",
+      "description": ""
+    },
+    {
+      "apiname": "gandalf_looted_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grey Treasures",
+      "description": ""
+    },
+    {
+      "apiname": "bomb_expert_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It was a blast!",
+      "description": ""
+    },
+    {
+      "apiname": "jack_not_free_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Profiler",
+      "description": ""
+    },
+    {
+      "apiname": "murky_waters_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Murky waters",
+      "description": ""
+    },
+    {
+      "apiname": "grimm_truth_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Grimm truth",
+      "description": ""
+    },
+    {
+      "apiname": "poni_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Her little pony",
+      "description": ""
+    },
+    {
+      "apiname": "katarina_rokon_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family reunion",
+      "description": ""
+    },
+    {
+      "apiname": "all_achievements_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incredible Adventures",
+      "description": "Complete all Achievements."
+    },
+    {
+      "apiname": "lock_and_key_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lock and Key",
+      "description": ""
+    }
+  ]
+}

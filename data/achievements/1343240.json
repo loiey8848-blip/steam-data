@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1343240,
+  "game": "Thymesia",
+  "total": 38,
+  "unlocked": 9,
+  "percent": 23.7,
+  "updated_at_utc": "2026-09-15T06:51:24.546676+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_DEFEAT_VARG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Varg",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_MAGICIAN",
+      "achieved": 1,
+      "unlocktime": 1768412247,
+      "name": "Odur",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_BAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hanged Queen",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_CORVUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corvus",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_URD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Urd",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_MAGICIAN_LV2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mutated Odur",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_PUPPET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God of the Fools",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_BUG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sound of the Abyss",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaotic Power",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Vile Blood",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessing of Pure Blood",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harmonized Force",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power of Cleansing",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COMPLETE_LEVEL_TUTORIAL",
+      "achieved": 1,
+      "unlocktime": 1768407269,
+      "name": "Darkness!!!",
+      "description": "Finish the tutorial."
+    },
+    {
+      "apiname": "ACH_COMPLETE_LEVEL_CIRCUS",
+      "achieved": 1,
+      "unlocktime": 1768412281,
+      "name": "Sea of Trees",
+      "description": "Finish \"Sea of Trees\" level."
+    },
+    {
+      "apiname": "ACH_COMPLETE_LEVEL_GARDEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Garden",
+      "description": "Finish \"Royal Garden\" level."
+    },
+    {
+      "apiname": "ACH_COMPLETE_LEVEL_FORTRESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hermes Fortress",
+      "description": "Finish \"Hermes Fortress\" level."
+    },
+    {
+      "apiname": "ACH_COMPLETE_ALL_LEVELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completed Memory",
+      "description": "Finish all levels."
+    },
+    {
+      "apiname": "ACH_FIRST_ENTER_LEVEL",
+      "achieved": 1,
+      "unlocktime": 1768409580,
+      "name": "Start Recalling",
+      "description": "Start recalling for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_REAVE_WEAPON",
+      "achieved": 1,
+      "unlocktime": 1768406556,
+      "name": "Test Ride",
+      "description": "Reave a plague weapon for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_REACH_BEACON",
+      "achieved": 1,
+      "unlocktime": 1768406592,
+      "name": "Take a break",
+      "description": "Rest at the beacon for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_DEATH",
+      "achieved": 1,
+      "unlocktime": 1768406674,
+      "name": "Memory Interrupted",
+      "description": "Dead for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_UNLOCK_WEAPON",
+      "achieved": 1,
+      "unlocktime": 1768410427,
+      "name": "It's mine now!",
+      "description": "Unlock a plague weapon for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_CRAFT_FORMULA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is this Alchemy?",
+      "description": "Craft a potion recipe for the first time"
+    },
+    {
+      "apiname": "ACH_FIRST_MAX_LEVEL_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": "Fully upgrade a plague weapon for the first time."
+    },
+    {
+      "apiname": "ACH_FIRST_FULL_UPGRADE_POTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alchemist",
+      "description": "Fully upgrade a potion."
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_INGREDIENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Herb Gatherer",
+      "description": "Collect all potion ingredients."
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_FORMULAS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Doctor",
+      "description": "Craft all potion recipes."
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of Plague",
+      "description": "Unlock all plague weapons."
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_LORES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Listener",
+      "description": "Collect all lore."
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_STORIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memory Weaver",
+      "description": "Collect all story bits."
+    },
+    {
+      "apiname": "ACH_COLLECT_EVERYTHING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Collector",
+      "description": "Collect all entries in the collection."
+    },
+    {
+      "apiname": "ACH_DEFEAT_TUTORIAL_VARG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "YOU SHALL NOT PASS!!!",
+      "description": "Empty the first health bar of Varg in the tutorial."
+    },
+    {
+      "apiname": "ACH_DEFEAT_BOSS_NO_POTION",
+      "achieved": 1,
+      "unlocktime": 1768412248,
+      "name": "Piece of Cake",
+      "description": "Defeat any boss without using potion."
+    },
+    {
+      "apiname": "ACH_MISC_BREAK_1000_BARRELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rolling Required Ahead",
+      "description": "Break 1000 barrels."
+    },
+    {
+      "apiname": "ACH_MISC_MAX_LEVEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Performance",
+      "description": "Reach max level."
+    },
+    {
+      "apiname": "ACH_ALL_ENDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memory Seeker",
+      "description": "Reach all endings."
+    },
+    {
+      "apiname": "ACH_ALL_ACHIEVEMENT_DESC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thymesia",
+      "description": "Unlock all achievements."
+    }
+  ]
+}

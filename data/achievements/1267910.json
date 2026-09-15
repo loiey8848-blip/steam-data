@@ -1,0 +1,613 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1267910,
+  "game": "Melvor Idle",
+  "total": 86,
+  "unlocked": 86,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:15.654618+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 1,
+      "unlocktime": 1750988147,
+      "name": "The Beginning",
+      "description": "Create a Character"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 1,
+      "unlocktime": 1750990357,
+      "name": "This Feels Nice",
+      "description": "Level up any Skill for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 1,
+      "unlocktime": 1751131886,
+      "name": "My Little Companion",
+      "description": "Find your first Pet"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 1,
+      "unlocktime": 1751204422,
+      "name": "One down... More to go.",
+      "description": "Acquire Level 99 in any Skill"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 1,
+      "unlocktime": 1751204422,
+      "name": "A Touch of Mastery",
+      "description": "Acquire Mastery Level 99 for any item in any Skill"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 1,
+      "unlocktime": 1751628078,
+      "name": "Attack Master",
+      "description": "Reach Level 99 for Attack in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 1,
+      "unlocktime": 1751454244,
+      "name": "Strength Master",
+      "description": "Reach Level 99 for Strength in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 1,
+      "unlocktime": 1751579435,
+      "name": "Defence Master",
+      "description": "Reach Level 99 for Defence in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 1,
+      "unlocktime": 1751579435,
+      "name": "Hitpoints Master",
+      "description": "Reach Level 99 for Hitpoints in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 1,
+      "unlocktime": 1752629106,
+      "name": "Ranged Master",
+      "description": "Reach Level 99 for Ranged in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 1,
+      "unlocktime": 1752926454,
+      "name": "Magic Master",
+      "description": "Reach Level 99 for Magic in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 1,
+      "unlocktime": 1752926455,
+      "name": "Prayer Mastery",
+      "description": "Reach Level 99 for Prayer in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 1,
+      "unlocktime": 1751938196,
+      "name": "Slayer Master",
+      "description": "Reach Level 99 for Slayer in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 1,
+      "unlocktime": 1751443549,
+      "name": "Woodcutting Master",
+      "description": "Reach Level 99 for Woodcutting in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 1,
+      "unlocktime": 1751443549,
+      "name": "Fishing Master",
+      "description": "Reach Level 99 for Fishing in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 1,
+      "unlocktime": 1751544880,
+      "name": "Firemaking Master",
+      "description": "Reach Level 99 for Firemaking in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 1,
+      "unlocktime": 1751544880,
+      "name": "Cooking Master",
+      "description": "Reach Level 99 for Cooking in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 1,
+      "unlocktime": 1751294539,
+      "name": "Mining Master",
+      "description": "Reach Level 99 for Mining in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 1,
+      "unlocktime": 1751384297,
+      "name": "Smithing Master",
+      "description": "Reach Level 99 for Smithing in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 1,
+      "unlocktime": 1751801100,
+      "name": "Thieving Master",
+      "description": "Reach Level 99 for Thieving in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 1,
+      "unlocktime": 1751801100,
+      "name": "Farming Master",
+      "description": "Reach Level 99 for Farming in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 1,
+      "unlocktime": 1751849749,
+      "name": "Fletching Master",
+      "description": "Reach Level 99 for Fletching in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 1,
+      "unlocktime": 1752021203,
+      "name": "Crafting Master",
+      "description": "Reach Level 99 for Crafting in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 1,
+      "unlocktime": 1752021202,
+      "name": "Runecrafting Master",
+      "description": "Reach Level 99 for Runecrafting in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 1,
+      "unlocktime": 1752629106,
+      "name": "Herblore Master",
+      "description": "Reach Level 99 for Herblore in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 1,
+      "unlocktime": 1752926455,
+      "name": "Skill Master",
+      "description": "Reach Maximum Skill Level in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 1,
+      "unlocktime": 1759221818,
+      "name": "Item Master",
+      "description": "Achieve 100% Item Completion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "Pet Master",
+      "description": "Achieve 100% Pet Completion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 1,
+      "unlocktime": 1753963453,
+      "name": "Mastery Master",
+      "description": "Achieve 100% Mastery Completion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 1,
+      "unlocktime": 1754726694,
+      "name": "Monster Master",
+      "description": "Achieve 100% Monster Completion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 1,
+      "unlocktime": 1759221818,
+      "name": "The Completionist",
+      "description": "Achieve 100% Completion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 1,
+      "unlocktime": 1751131886,
+      "name": "Big Chick",
+      "description": "Defeat Mumma Chicken in the Chicken Coop in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_0",
+      "achieved": 1,
+      "unlocktime": 1751155944,
+      "name": "The Undead",
+      "description": "Defeat Zombie Leader in the Undead Graveyard in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 1,
+      "unlocktime": 1751443549,
+      "name": "Not so Tough",
+      "description": "Defeat Bandit Leader in the Bandit Base in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 1,
+      "unlocktime": 1751887539,
+      "name": "A Magical Worry",
+      "description": "Defeat Elder Wizard in the Hall of Wizards in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 1,
+      "unlocktime": 1751384298,
+      "name": "Yes, I'm Still Scared",
+      "description": "Defeat Spider King in the Spider Forest in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_4",
+      "achieved": 1,
+      "unlocktime": 1751501378,
+      "name": "Take Note Jack Sparrow",
+      "description": "Defeat The Kraken in the Deep Sea Ship in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_5",
+      "achieved": 1,
+      "unlocktime": 1751887539,
+      "name": "The Chills",
+      "description": "Defeat Protector of Ice in the Frozen Cove in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_6",
+      "achieved": 1,
+      "unlocktime": 1751887539,
+      "name": "Old and Dumb",
+      "description": "Defeat Elder Dragon in the Dragons Den in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_7",
+      "achieved": 1,
+      "unlocktime": 1751887539,
+      "name": "Could be Harder",
+      "description": "Defeat Prat, the Protector of Secrets in the Volcanic Cave in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_8",
+      "achieved": 1,
+      "unlocktime": 1752926455,
+      "name": "Who?",
+      "description": "Defeat Malcs, the Guardian of Melvor in the Volcanic Cave in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_9",
+      "achieved": 1,
+      "unlocktime": 1754113394,
+      "name": "The Air God",
+      "description": "Defeat Aeris in the Air God Dungeon in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_10",
+      "achieved": 1,
+      "unlocktime": 1754113394,
+      "name": "The Water God",
+      "description": "Defeat Glacia in the Water God Dungeon in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_11",
+      "achieved": 1,
+      "unlocktime": 1754129333,
+      "name": "The Earth God",
+      "description": "Defeat Terran in the Earth God Dungeon in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_12",
+      "achieved": 1,
+      "unlocktime": 1754129333,
+      "name": "The Fire God",
+      "description": "Defeat Ragnar in the Fire God Dungeon in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_13",
+      "achieved": 1,
+      "unlocktime": 1751384298,
+      "name": "Time to Idle",
+      "description": "Acquire the Amulet of Looting"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_14",
+      "achieved": 1,
+      "unlocktime": 1752926455,
+      "name": "This thing is HOT",
+      "description": "Acquire the Fire Cape"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_15",
+      "achieved": 1,
+      "unlocktime": 1754730015,
+      "name": "Where's the fire?",
+      "description": "Acquire the Dragonfire Shield"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_16",
+      "achieved": 1,
+      "unlocktime": 1754113394,
+      "name": "Nice Bow",
+      "description": "Acquire the Stormsnap"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_17",
+      "achieved": 1,
+      "unlocktime": 1754719676,
+      "name": "A Frozen Touch",
+      "description": "Acquire the Cloudburst Staff"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_18",
+      "achieved": 1,
+      "unlocktime": 1754129333,
+      "name": "I can't even lift this",
+      "description": "Acquire the Earth Layered Shield"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_19",
+      "achieved": 1,
+      "unlocktime": 1754719676,
+      "name": "But will I use it?",
+      "description": "Acquire the Big ol' Ron"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_20",
+      "achieved": 1,
+      "unlocktime": 1759221818,
+      "name": "Ummm...",
+      "description": "Acquire a Lemon"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_21",
+      "achieved": 1,
+      "unlocktime": 1751384298,
+      "name": "Now I can play the game",
+      "description": "Acquire the Ancient Ring of Skills"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_22",
+      "achieved": 1,
+      "unlocktime": 1751384298,
+      "name": "This is a cool item",
+      "description": "Acquire the Ancient Ring of Masteries"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_23",
+      "achieved": 1,
+      "unlocktime": 1754189916,
+      "name": "Time to brag",
+      "description": "Acquire the Red Party Hat"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_24",
+      "achieved": 1,
+      "unlocktime": 1754282633,
+      "name": "Wow I really do need more slots",
+      "description": "Reach 80 Total Bank Slots in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_25",
+      "achieved": 1,
+      "unlocktime": 1751330540,
+      "name": "A Cozy Inventory",
+      "description": "Reach 100 Total Bank Slots"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_26",
+      "achieved": 1,
+      "unlocktime": 1751765930,
+      "name": "Still not enough",
+      "description": "Reach 200 Total Bank Slots"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_27",
+      "achieved": 1,
+      "unlocktime": 1752384386,
+      "name": "I die with honor",
+      "description": "Get killed by a Plant in Standard Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_28",
+      "achieved": 1,
+      "unlocktime": 1751628078,
+      "name": "Nice",
+      "description": "Acquire the 69th Item (Based on Item ID)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_29",
+      "achieved": 1,
+      "unlocktime": 1751163166,
+      "name": "It was good while it lasted",
+      "description": "Lose your Hardcore Character by dying"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_30",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "8",
+      "description": "8"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_31",
+      "achieved": 1,
+      "unlocktime": 1754454223,
+      "name": "Attack Master (Hardcore)",
+      "description": "Reach Level 99 for Attack in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_0",
+      "achieved": 1,
+      "unlocktime": 1754271781,
+      "name": "Strength Master (Hardcore)",
+      "description": "Reach Level 99 for Strength in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_1",
+      "achieved": 1,
+      "unlocktime": 1754282633,
+      "name": "Defence Master (Hardcore)",
+      "description": "Reach Level 99 for Defence in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_2",
+      "achieved": 1,
+      "unlocktime": 1754454223,
+      "name": "Hitpoints Master (Hardcore)",
+      "description": "Reach Level 99 for Hitpoints in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_25",
+      "achieved": 1,
+      "unlocktime": 1754314587,
+      "name": "Big Chick (Hardcore)",
+      "description": "Defeat Mumma Chicken in the Chicken Coop in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_26",
+      "achieved": 1,
+      "unlocktime": 1754392576,
+      "name": "The Undead (Hardcore)",
+      "description": "Defeat Zombie Leader in the Undead Graveyard in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_27",
+      "achieved": 1,
+      "unlocktime": 1754392576,
+      "name": "Not so Tough (Hardcore)",
+      "description": "Defeat Bandit Leader in the Bandit Base in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_28",
+      "achieved": 1,
+      "unlocktime": 1754392576,
+      "name": "A Magical Worry (Hardcore)",
+      "description": "Defeat Elder Wizard in the Hall of Wizards in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_29",
+      "achieved": 1,
+      "unlocktime": 1754314587,
+      "name": "Yes, I'm Still Scared (Hardcore)",
+      "description": "Defeat Spider King in the Spider Forest in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_30",
+      "achieved": 1,
+      "unlocktime": 1754454223,
+      "name": "Take Note Jack Sparrow (Hardcore)",
+      "description": "Defeat The Kraken in the Deep Sea Ship in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_31",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "The Chills (Hardcore)",
+      "description": "Defeat Protector of Ice in the Frozen Cove in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_0",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "Old and Dumb (Hardcore)",
+      "description": "Defeat Elder Dragon in the Dragons Den in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_1",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "Could be Harder (Hardcore)",
+      "description": "Defeat Prat, the Protector of Secrets in the Volcanic Cave in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_3",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "The Air God (Hardcore)",
+      "description": "Defeat Aeris in the Air God Dungeon in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_4",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "The Water God (Hardcore)",
+      "description": "Defeat Glacia in the Water God Dungeon in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_5",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "The Earth God (Hardcore)",
+      "description": "Defeat Terran in the Earth God Dungeon in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_6",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "The Fire God (Hardcore)",
+      "description": "Defeat Ragnar in the Fire God Dungeon in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_7",
+      "achieved": 1,
+      "unlocktime": 1759219414,
+      "name": "Who? (Hardcore)",
+      "description": "Defeat Malcs, the Guardian of Melvor in the Volcanic Cave in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_3",
+      "achieved": 1,
+      "unlocktime": 1754454223,
+      "name": "Range Master (Hardcore)",
+      "description": "Reach Level 99 for Range in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_4",
+      "achieved": 1,
+      "unlocktime": 1754468856,
+      "name": "Magic Master (Hardcore)",
+      "description": "Reach Level 99 for Magic in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_5",
+      "achieved": 1,
+      "unlocktime": 1754478662,
+      "name": "Prayer Master (Hardcore)",
+      "description": "Reach Level 99 for Prayer in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_6",
+      "achieved": 1,
+      "unlocktime": 1754454223,
+      "name": "Slayer Master (Hardcore)",
+      "description": "Reach Level 99 for Slayer in Hardcore Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_12",
+      "achieved": 1,
+      "unlocktime": 1751544880,
+      "name": "Agility Master",
+      "description": "Reach Level 99 for Agility in any Gamemode"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 326120,
+  "game": "Horizon Shift",
+  "total": 12,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:26.054422+00:00",
+  "achievements": [
+    {
+      "apiname": "Good Start",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's a Good Start",
+      "description": "Complete First Level"
+    },
+    {
+      "apiname": "One Down",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Down",
+      "description": "Destroy First Boss"
+    },
+    {
+      "apiname": "FlawLess",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Victory",
+      "description": "Perfect a Bonus Stage"
+    },
+    {
+      "apiname": "Boom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boom!",
+      "description": "Bank a Chain Over 5,000"
+    },
+    {
+      "apiname": "BigBoom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Boom!",
+      "description": "Bank a Chain Over 10,000"
+    },
+    {
+      "apiname": "1Up",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1Up",
+      "description": "Collect a 1Up"
+    },
+    {
+      "apiname": "Hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horizon Hero",
+      "description": "Score Over 100,000"
+    },
+    {
+      "apiname": "Legend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horizon Legend",
+      "description": "Score Over 250,000"
+    },
+    {
+      "apiname": "wow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wow!",
+      "description": "Kill 2nd Boss in Tournament mode"
+    },
+    {
+      "apiname": "Fin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FIN",
+      "description": "Complete Horizon Shift"
+    },
+    {
+      "apiname": "Retro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retro",
+      "description": "Complete Shift-Out Mode"
+    },
+    {
+      "apiname": "GiantKiller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Killer",
+      "description": "Complete Boss Challenge"
+    }
+  ]
+}

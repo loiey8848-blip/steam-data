@@ -1,0 +1,578 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2864560,
+  "game": "Rune Factory: Guardians of Azuma",
+  "total": 81,
+  "unlocked": 7,
+  "percent": 8.6,
+  "updated_at_utc": "2026-09-15T06:53:02.410006+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Dancer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_001",
+      "achieved": 1,
+      "unlocktime": 1749292221,
+      "name": "Clash of Dragons",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_002",
+      "achieved": 1,
+      "unlocktime": 1749293026,
+      "name": "The Spring God's Dream Visit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_003",
+      "achieved": 1,
+      "unlocktime": 1749293225,
+      "name": "Ulalaka's Return",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_004",
+      "achieved": 1,
+      "unlocktime": 1749293839,
+      "name": "A Village Reborn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooking 101",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defeating Mezuki",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defeating the Cursed Tree",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The White Dragon's Transformation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Summer God's Dream Visit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Matsuri's Entrance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Autumn God's Dream Visit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kurama the Great Storm Tengu",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Winter God's Dream Visit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Wolf Fubuki",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Fated Reunion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Astral Shrine 1",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Astral Shrine 2",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Astral Shrine 3",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Astral Shrine 4",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Second Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Oni God Restored",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Third Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Moonlit Party",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Severance and the Rite of Sacrifice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Prayer for the Future",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hostilities with the Hound",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infiltrating the Tagesanbruch",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fifth Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Power",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Castle in the Sky",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dance of the Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sixth Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Seventh Meeting of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Glory Forevermore",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_036",
+      "achieved": 1,
+      "unlocktime": 1749293134,
+      "name": "Purification",
+      "description": "Purify Blight for the first time."
+    },
+    {
+      "apiname": "ACH_037",
+      "achieved": 1,
+      "unlocktime": 1749293134,
+      "name": "Drum Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sword Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parasol Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mask Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staff Dance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooking Together",
+      "description": "Cook with someone for the first time."
+    },
+    {
+      "apiname": "ACH_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blushing Beauty",
+      "description": "Go on your first date."
+    },
+    {
+      "apiname": "ACH_045",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonds Everlasting",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Murasame",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Mauro",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Kai",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Kurama",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Fubuki",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Ikaruga",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Ulalaka",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Iroha",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Matsuri",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Kanata",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Hina",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Marriage to Clarice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Fruit of Our Love",
+      "description": "Have a child."
+    },
+    {
+      "apiname": "ACH_059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cooking Contest",
+      "description": "Win the Cooking Contest."
+    },
+    {
+      "apiname": "ACH_060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Meal Contest",
+      "description": "Win the Quick Meal Contest."
+    },
+    {
+      "apiname": "ACH_061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curry Contest",
+      "description": "Win the Curry Contest."
+    },
+    {
+      "apiname": "ACH_062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvest Contest",
+      "description": "Win a Harvest Contest."
+    },
+    {
+      "apiname": "ACH_063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freshwater Fishing Frenzy",
+      "description": "Win the Freshwater Fishing Frenzy."
+    },
+    {
+      "apiname": "ACH_064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saltwater Fish Contest",
+      "description": "Win the Saltwater Fish Contest."
+    },
+    {
+      "apiname": "ACH_065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pond Smelt Catch Contest",
+      "description": "Win the Pond Smelt Catch Contest."
+    },
+    {
+      "apiname": "ACH_066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squid Catch Contest",
+      "description": "Win the Squid Catch Contest."
+    },
+    {
+      "apiname": "ACH_067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Not Scared! Nope! Not Me!",
+      "description": "Befriend a monster."
+    },
+    {
+      "apiname": "ACH_068",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aiming High",
+      "description": "Reach Lv.50"
+    },
+    {
+      "apiname": "ACH_069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aiming Even Higher",
+      "description": "Reach Lv.100"
+    },
+    {
+      "apiname": "ACH_070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Better with Friends",
+      "description": "Form your first party."
+    },
+    {
+      "apiname": "ACH_071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Power of Magatama",
+      "description": "Equip a magatama for the first time."
+    },
+    {
+      "apiname": "ACH_072",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racing Across the Land",
+      "description": "Ride a monster for the first time."
+    },
+    {
+      "apiname": "ACH_073",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Village Problem Solver",
+      "description": "Complete your first ema plaque request."
+    },
+    {
+      "apiname": "ACH_074",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Village Counselor",
+      "description": "Complete your first personal request."
+    },
+    {
+      "apiname": "ACH_075",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to Fish",
+      "description": "Catch your first fish."
+    },
+    {
+      "apiname": "ACH_076",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Away from It All",
+      "description": "Take your first bath."
+    },
+    {
+      "apiname": "ACH_077",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Oughta Brighten Things Up",
+      "description": "Have over 1,000,000G at once."
+    },
+    {
+      "apiname": "ACH_078",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Four Seasons",
+      "description": "Experience a full calendar year."
+    },
+    {
+      "apiname": "ACH_079",
+      "achieved": 1,
+      "unlocktime": 1749293949,
+      "name": "A Prosperous Village",
+      "description": "Have a village turn a profit for the first time."
+    },
+    {
+      "apiname": "ACH_080",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hidden Power of Equipment",
+      "description": "Upgrade your equipment for the first time."
+    }
+  ]
+}

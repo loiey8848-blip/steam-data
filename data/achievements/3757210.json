@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3757210,
+  "game": "利用規約に同意したい",
+  "total": 15,
+  "unlocked": 15,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:36.416795+00:00",
+  "achievements": [
+    {
+      "apiname": "AGREE_1",
+      "achieved": 1,
+      "unlocktime": 1773925073,
+      "name": "第1条同意",
+      "description": "利用規約第1条に同意した！"
+    },
+    {
+      "apiname": "AGREE_2",
+      "achieved": 1,
+      "unlocktime": 1773925099,
+      "name": "第2条同意",
+      "description": "利用規約第2条に同意した！"
+    },
+    {
+      "apiname": "AGREE_3",
+      "achieved": 1,
+      "unlocktime": 1773925110,
+      "name": "第3条同意",
+      "description": "利用規約第3条に同意した！"
+    },
+    {
+      "apiname": "AGREE_4",
+      "achieved": 1,
+      "unlocktime": 1773925124,
+      "name": "第4条同意",
+      "description": "利用規約第4条に同意した！"
+    },
+    {
+      "apiname": "AGREE_5",
+      "achieved": 1,
+      "unlocktime": 1773925130,
+      "name": "第5条同意",
+      "description": "利用規約第5条に同意した！"
+    },
+    {
+      "apiname": "AGREE_6",
+      "achieved": 1,
+      "unlocktime": 1773925509,
+      "name": "第6条同意",
+      "description": "利用規約第6条に同意した！"
+    },
+    {
+      "apiname": "AGREE_7",
+      "achieved": 1,
+      "unlocktime": 1773926226,
+      "name": "第7条同意",
+      "description": "利用規約第7条に同意した！"
+    },
+    {
+      "apiname": "AGREE_8",
+      "achieved": 1,
+      "unlocktime": 1773926312,
+      "name": "第8条同意",
+      "description": "利用規約第8条に同意した！"
+    },
+    {
+      "apiname": "AGREE_9",
+      "achieved": 1,
+      "unlocktime": 1773926451,
+      "name": "第9条同意",
+      "description": "利用規約第9条に同意した！"
+    },
+    {
+      "apiname": "AGREE_10",
+      "achieved": 1,
+      "unlocktime": 1773926493,
+      "name": "第10条同意",
+      "description": "利用規約第10条に同意した！"
+    },
+    {
+      "apiname": "AGREE_11",
+      "achieved": 1,
+      "unlocktime": 1773926852,
+      "name": "第11条同意",
+      "description": "利用規約第11条に同意した！"
+    },
+    {
+      "apiname": "AGREE_12",
+      "achieved": 1,
+      "unlocktime": 1773927132,
+      "name": "第12条同意",
+      "description": "利用規約第12条に同意した！"
+    },
+    {
+      "apiname": "COMPLETE_INGAME",
+      "achieved": 1,
+      "unlocktime": 1776648120,
+      "name": "ドキドキアクションゲームクリア",
+      "description": "利用規約に同意し、ドキドキアクションゲームをクリアした！"
+    },
+    {
+      "apiname": "ALL_FOUND",
+      "achieved": 1,
+      "unlocktime": 1776620851,
+      "name": "100%発見",
+      "description": "全ての利用規約UIを発見した！"
+    },
+    {
+      "apiname": "ALL_AGREE",
+      "achieved": 1,
+      "unlocktime": 1776651113,
+      "name": "100%同意",
+      "description": "全ての利用規約UIに同意した！"
+    }
+  ]
+}

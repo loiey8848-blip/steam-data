@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2543180,
+  "game": "POPUCOM",
+  "total": 35,
+  "unlocked": 27,
+  "percent": 77.1,
+  "updated_at_utc": "2026-09-15T06:52:51.656395+00:00",
+  "achievements": [
+    {
+      "apiname": "SteamAchievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Hero",
+      "description": "Unlock all achievements."
+    },
+    {
+      "apiname": "SteamAchievement_2",
+      "achieved": 1,
+      "unlocktime": 1750163389,
+      "name": "Minor Milestone",
+      "description": "Start building the missile"
+    },
+    {
+      "apiname": "SteamAchievement_3",
+      "achieved": 1,
+      "unlocktime": 1750474707,
+      "name": "Stacko Builder",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_4",
+      "achieved": 1,
+      "unlocktime": 1750771038,
+      "name": "Locked and Loaded",
+      "description": "Complete the missile"
+    },
+    {
+      "apiname": "SteamAchievement_5",
+      "achieved": 1,
+      "unlocktime": 1751383020,
+      "name": "Source of All Sins",
+      "description": "Defeat Andrew"
+    },
+    {
+      "apiname": "SteamAchievement_6",
+      "achieved": 1,
+      "unlocktime": 1750521643,
+      "name": "A Reborn Dragon Slayer",
+      "description": "Defeat Soaring Popuwurm"
+    },
+    {
+      "apiname": "SteamAchievement_7",
+      "achieved": 1,
+      "unlocktime": 1750685523,
+      "name": "Call Gambol to Collect Scrap",
+      "description": "\tDefeat Binka 2600"
+    },
+    {
+      "apiname": "SteamAchievement_8",
+      "achieved": 1,
+      "unlocktime": 1751079211,
+      "name": "Goodbye, All of PAH",
+      "description": "Defeat PAH"
+    },
+    {
+      "apiname": "SteamAchievement_9",
+      "achieved": 1,
+      "unlocktime": 1751381848,
+      "name": "Meowtopia Champion",
+      "description": "Clear all Battle for Meowtopia stages"
+    },
+    {
+      "apiname": "SteamAchievement_10",
+      "achieved": 1,
+      "unlocktime": 1751378190,
+      "name": "Pancake Table Game Master",
+      "description": "Play Match-n-POP 5 times in total"
+    },
+    {
+      "apiname": "SteamAchievement_11",
+      "achieved": 1,
+      "unlocktime": 1750475727,
+      "name": "Planet Sweeper",
+      "description": "Clear 300 enemies in total"
+    },
+    {
+      "apiname": "SteamAchievement_12",
+      "achieved": 1,
+      "unlocktime": 1750686963,
+      "name": "From Small Gains to Big Wins",
+      "description": "Collect 10000 coins in total"
+    },
+    {
+      "apiname": "SteamAchievement_13",
+      "achieved": 1,
+      "unlocktime": 1750522942,
+      "name": "Escape Master",
+      "description": "Break free from bubbles for 30 times in total"
+    },
+    {
+      "apiname": "SteamAchievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "POPUU Pro!",
+      "description": "Score 200000 points in POPUU-2"
+    },
+    {
+      "apiname": "SteamAchievement_15",
+      "achieved": 1,
+      "unlocktime": 1751379332,
+      "name": "Volley-Boink Rookie",
+      "description": "Play Volley-Boink 5 times in total"
+    },
+    {
+      "apiname": "SteamAchievement_16",
+      "achieved": 1,
+      "unlocktime": 1750163850,
+      "name": "Oops, Slippery Fingers",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_18",
+      "achieved": 1,
+      "unlocktime": 1750521196,
+      "name": "Ultimate Fashion Novice",
+      "description": "Purchase attire for the first time"
+    },
+    {
+      "apiname": "SteamAchievement_19",
+      "achieved": 1,
+      "unlocktime": 1750163358,
+      "name": "Finally a Place to Shop",
+      "description": "Rescue Gambol"
+    },
+    {
+      "apiname": "SteamAchievement_20",
+      "achieved": 1,
+      "unlocktime": 1750163966,
+      "name": "Thank Goodie-ness",
+      "description": "Rescue a Goodiebot for the first time"
+    },
+    {
+      "apiname": "SteamAchievement_21",
+      "achieved": 1,
+      "unlocktime": 1750474939,
+      "name": "Hero or Bandit",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_22",
+      "achieved": 1,
+      "unlocktime": 1750474962,
+      "name": "Mysterious Dice",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Fashion Guru",
+      "description": "Collect 50 clothing items"
+    },
+    {
+      "apiname": "SteamAchievement_24",
+      "achieved": 1,
+      "unlocktime": 1751079215,
+      "name": "Goodiebot Rescuer",
+      "description": "Rescue 100 Goodiebots"
+    },
+    {
+      "apiname": "SteamAchievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Sticker Collector",
+      "description": "Collect 100 stickers"
+    },
+    {
+      "apiname": "SteamAchievement_26",
+      "achieved": 1,
+      "unlocktime": 1751085885,
+      "name": "Home Discovery",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_27",
+      "achieved": 1,
+      "unlocktime": 1750252252,
+      "name": "No Slacking",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tales of a Headless Puppet",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retro Gameplay",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_30",
+      "achieved": 1,
+      "unlocktime": 1750166057,
+      "name": "Alien World Pathfinder",
+      "description": "Clear all stages within the inner ring"
+    },
+    {
+      "apiname": "SteamAchievement_31",
+      "achieved": 1,
+      "unlocktime": 1751377095,
+      "name": "Alien World Conqueror",
+      "description": "Clear all Story Mode stages"
+    },
+    {
+      "apiname": "SteamAchievement_32",
+      "achieved": 1,
+      "unlocktime": 1750478735,
+      "name": "Alien World Roamer",
+      "description": "Clear all stages within the mid ring"
+    },
+    {
+      "apiname": "SteamAchievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strong Bond",
+      "description": "Clear 10 Party Mode stages"
+    },
+    {
+      "apiname": "SteamAchievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Team Building",
+      "description": "Play in Party Mode"
+    },
+    {
+      "apiname": "SteamAchievement_35",
+      "achieved": 1,
+      "unlocktime": 1750252971,
+      "name": "Baddie Pal",
+      "description": ""
+    },
+    {
+      "apiname": "SteamAchievement_17",
+      "achieved": 1,
+      "unlocktime": 1750473537,
+      "name": "Leisure Break",
+      "description": "Play an arcade game once"
+    }
+  ]
+}

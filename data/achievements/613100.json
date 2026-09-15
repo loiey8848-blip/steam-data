@@ -1,0 +1,683 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 613100,
+  "game": "House Flipper",
+  "total": 96,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:17.626343+00:00",
+  "achievements": [
+    {
+      "apiname": "BigFamily",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family man",
+      "description": "Family isn't just an important thing, it's everything."
+    },
+    {
+      "apiname": "ChangChoi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Geek",
+      "description": "I'm not a genius, but I am smarter than you are."
+    },
+    {
+      "apiname": "DolanTrusk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worth every penny",
+      "description": "Mind over matter. Money over all."
+    },
+    {
+      "apiname": "GorgioShanua",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm a Belieber",
+      "description": "Fashion is my armor against the realities of everyday life."
+    },
+    {
+      "apiname": "JackTarinton",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wall Street Shark",
+      "description": "It's business. Leave your feelings at the door."
+    },
+    {
+      "apiname": "JimmyTraitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Mystery",
+      "description": "Bra off, party on!"
+    },
+    {
+      "apiname": "MrAndMrsJantart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just enough",
+      "description": "Age is just a number. Live life fully, no matter how old you are."
+    },
+    {
+      "apiname": "Lonewolf37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tactical Prepper",
+      "description": "Always be prepared for the unknown."
+    },
+    {
+      "apiname": "PreppersFamily",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Survivalist",
+      "description": "Remember: when disaster strikes, the time to prepare has passed."
+    },
+    {
+      "apiname": "PrepperWoman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doomsday Prepper",
+      "description": "Better to prep 10 years too early than 10 minutes too late!"
+    },
+    {
+      "apiname": "RafaelErko",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alpha Male",
+      "description": "What happens in the cave stays in the cave."
+    },
+    {
+      "apiname": "SmothFamily",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pro-creative",
+      "description": "You know, when you're in love, you can't get any sleep… because of your kids screaming around the clock!"
+    },
+    {
+      "apiname": "VeronicaLiptson",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artistic soul",
+      "description": "Every child is an artist. The challenge lies in remaining an artist throughout one's adult life."
+    },
+    {
+      "apiname": "FirstMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First money",
+      "description": "Complete first job!"
+    },
+    {
+      "apiname": "Millionaire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Millionaire",
+      "description": "Earn your first million euro."
+    },
+    {
+      "apiname": "GameOver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Game over",
+      "description": "Finish the game."
+    },
+    {
+      "apiname": "DoItASAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do it ASAP",
+      "description": "Complete a job in less than 1 minute."
+    },
+    {
+      "apiname": "Perfectionist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Complete every job all the way."
+    },
+    {
+      "apiname": "KnockKnock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knock, knock",
+      "description": "I am the one who knocks."
+    },
+    {
+      "apiname": "Negotiator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Negotiator",
+      "description": "Successfully negotiate a sale earning no less than 50,000 Euro."
+    },
+    {
+      "apiname": "Strongman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strongman",
+      "description": "Do you even lift?"
+    },
+    {
+      "apiname": "CarMechanic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car mechanic",
+      "description": "You'll need a car mechanic."
+    },
+    {
+      "apiname": "YouDoItWrong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're doing it wrong.",
+      "description": "Kill a cockroach with a hammer."
+    },
+    {
+      "apiname": "JuniorEstateAgent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior estate agent",
+      "description": "Sell 10 houses."
+    },
+    {
+      "apiname": "EstateAgent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Estate agent",
+      "description": "Sell 20 houses."
+    },
+    {
+      "apiname": "SeniorEstateAgent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Real estate agent",
+      "description": "Sell 50 houses."
+    },
+    {
+      "apiname": "WorkOnFreshAir",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give it some fresh air",
+      "description": "Don't forget to take it out of the rain!"
+    },
+    {
+      "apiname": "BeginnerGardener",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner gardener",
+      "description": "It's time to broaden my qualifications!"
+    },
+    {
+      "apiname": "Competitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Competitor",
+      "description": "Look at my garden, it's amazing!"
+    },
+    {
+      "apiname": "GoodLayout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Layout",
+      "description": "Feel Shi… Fence Shi… Well, I tried."
+    },
+    {
+      "apiname": "FollowingTheRules",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "According to the rules.",
+      "description": "Blue flower, red thorns…"
+    },
+    {
+      "apiname": "FullyEquipped",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully equipped.",
+      "description": "Haven't you forgotten about a place for a few flowers between this sofa and the carousel?"
+    },
+    {
+      "apiname": "CallMeEdward",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call me Edward.",
+      "description": "You can't hide from my mover!"
+    },
+    {
+      "apiname": "Gardener",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gardener",
+      "description": "I feel this gardener aura inside of me…"
+    },
+    {
+      "apiname": "Vegan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vegan",
+      "description": "Tell the meatatarians my last word is… Carrot…"
+    },
+    {
+      "apiname": "LetsSwim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's go swimming.",
+      "description": "Bath time?"
+    },
+    {
+      "apiname": "WhacMole",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whack-A-Mole",
+      "description": "Your time has come, Mr. Mole…"
+    },
+    {
+      "apiname": "DonKichot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don Quixote",
+      "description": "Is this hammer even real?"
+    },
+    {
+      "apiname": "DownToTheLastPenny",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Down to the last penny",
+      "description": "Care to do something more with all that's left?"
+    },
+    {
+      "apiname": "TrulyOpenSpace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Truly open space",
+      "description": "Must-have: lots of space."
+    },
+    {
+      "apiname": "WholeFamily",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whole family",
+      "description": "Must-have: room for family gatherings."
+    },
+    {
+      "apiname": "AllThePossibilities",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All the possibilities!",
+      "description": "On the other hand…"
+    },
+    {
+      "apiname": "ChimneySweeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chimney sweeper",
+      "description": "Can you hear it?"
+    },
+    {
+      "apiname": "ModernSolutions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Modern solutions",
+      "description": "Can't have a leak when there are no pipes!"
+    },
+    {
+      "apiname": "TimeWarp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time warp",
+      "description": "Let's do the time warp again!"
+    },
+    {
+      "apiname": "OliviersWay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oliver's way",
+      "description": "Now we're talking!"
+    },
+    {
+      "apiname": "GretasTouch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greta's touch",
+      "description": "This place could use a woman's touch!"
+    },
+    {
+      "apiname": "HomersHouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homer's house",
+      "description": "I will not click on the map."
+    },
+    {
+      "apiname": "Renovator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Renovator",
+      "description": "Fix them all!"
+    },
+    {
+      "apiname": "BeachPlease",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beach please",
+      "description": ""
+    },
+    {
+      "apiname": "IHopeTheresNoCellar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I hope there's no cellar",
+      "description": "Now, who’s in for a pool party?"
+    },
+    {
+      "apiname": "WindowsUpdate",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Windows update",
+      "description": "Replace 10 windows"
+    },
+    {
+      "apiname": "TheFurnisher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The furnisher",
+      "description": "One man’s trash is another man’s treasure"
+    },
+    {
+      "apiname": "IFixedIt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I fixed it!",
+      "description": "All it takes is a good smack with a hammer"
+    },
+    {
+      "apiname": "Panorama",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panorama",
+      "description": "Take a picture of the city from the Cliff House"
+    },
+    {
+      "apiname": "LuxuryIsAlwaysInStyle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luxury is always in style",
+      "description": "Finish all jobs in Moonrise Bay"
+    },
+    {
+      "apiname": "IAmRich",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am rich",
+      "description": "Purchase one of the houses from Luxury DLC"
+    },
+    {
+      "apiname": "AnyOneKnowsTheWiFiPassword",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wi-Fi password, anyone?",
+      "description": "The next step is to hire a butler"
+    },
+    {
+      "apiname": "YouAreTooCreative",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You are too creative!",
+      "description": "If we allowed you to do this, the game would crash"
+    },
+    {
+      "apiname": "StepUpYourGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Step up your game",
+      "description": "Did someone call a stair specialist?"
+    },
+    {
+      "apiname": "TheChoiceIsYours",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The choice is yours",
+      "description": "Will you follow your client's dream?"
+    },
+    {
+      "apiname": "Pets_Achv_Box",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What's in the box?",
+      "description": "Tons of cuteness to say the least!"
+    },
+    {
+      "apiname": "Pets_Achv_JourneyFluffiness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A journey full of fluffiness",
+      "description": "Morgan is proud of you."
+    },
+    {
+      "apiname": "Pets_Achv_WelcomeCozyVillage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Cozy Village",
+      "description": "Hope you enjoy the countryside."
+    },
+    {
+      "apiname": "Pets_Achv_Caretaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caretaker",
+      "description": "Feels like the beginning of something special."
+    },
+    {
+      "apiname": "Pets_Achv_FreshCleanDry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh, clean, and dry",
+      "description": "Now your pup can get all dirty again."
+    },
+    {
+      "apiname": "Pets_Achv_Playtime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's playtime!",
+      "description": "The best part of the day."
+    },
+    {
+      "apiname": "Pets_Achv_TapTap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tap-tap-tap...",
+      "description": "Can you hear those little paws behind you?"
+    },
+    {
+      "apiname": "Pets_Achv_VersatileCaretaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Versatile caretaker",
+      "description": "You're not gonna stop here, are you?"
+    },
+    {
+      "apiname": "Pets_Achv_FloorIsYourCanvas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The floor is your canvas",
+      "description": "Now, that's not a happy little accident."
+    },
+    {
+      "apiname": "Pets_Achv_Teamwork",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork",
+      "description": "A helping paw is never a bad thing, eh?"
+    },
+    {
+      "apiname": "Pets_Achv_GrowFast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They grow up so fast...",
+      "description": "It feels like we've met yesterday!"
+    },
+    {
+      "apiname": "Pets_Achv_PicturePerfect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Picture perfect",
+      "description": "It's hard to get a good photo when they move around so quickly."
+    },
+    {
+      "apiname": "ThisBelongsToMuseum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This belongs in a museum",
+      "description": "Careful now, it’s obviously a family heirloom!"
+    },
+    {
+      "apiname": "Farm_Achiv_OldMcDonald",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old McDonald",
+      "description": "Is there an animal you haven’t got?"
+    },
+    {
+      "apiname": "Farm_Achv_DroneMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drone master",
+      "description": "Making photos, watering, spraying… Everything on the fly!"
+    },
+    {
+      "apiname": "Farm_Achv_TheBiggerTheBetter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The bigger the better",
+      "description": "House extensions are just too much fun!"
+    },
+    {
+      "apiname": "Farm_Achv_MusicToMyEars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music to my ears",
+      "description": "Your house, your rules, your radio."
+    },
+    {
+      "apiname": "Farm_Achv_CaptainHook",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captain Hook",
+      "description": "Hope you're not afraid of heights!"
+    },
+    {
+      "apiname": "Farm_Achv_Don’tHoldYourHorses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don’t hold your horses",
+      "description": "Ride like the wind!"
+    },
+    {
+      "apiname": "Farm_Achv_HardworkingFarmer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardworking farmer",
+      "description": "Your efforts have yielded a harvest."
+    },
+    {
+      "apiname": "Farm_Achv_They'reAllInOneBasket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They're all in one basket",
+      "description": "Still looking for a golden egg?"
+    },
+    {
+      "apiname": "Farm_Achv_SweetDreams",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just don't get lost!",
+      "description": "Fancy an afternoon snack with a Minotaur?"
+    },
+    {
+      "apiname": "Farm_Achiv_LongDayCountryside",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A long day in the countryside",
+      "description": "Hard work pays off!"
+    },
+    {
+      "apiname": "Farm_Achv_TalentedRoofer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talented roofer",
+      "description": "Show your true colors!"
+    },
+    {
+      "apiname": "Farm_Achv_FreeSpirit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free spirit",
+      "description": "Finally, nothing limits your imagination!"
+    },
+    {
+      "apiname": "DineOut_Achv_Appetite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Appetite comes with eating",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_WayToHeart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The way to one's heart…",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_IcingOnCake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The cherry on top",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_FlipperFiveStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5 Flipper stars",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_BreadAndWater",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Why live on bread and water?",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_PropertyManager",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Property manager",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_LandInHotWater",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land in hot water",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_TableDeckYourself",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Table, Deck Yourself!",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_RestaurantSign",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't judge a restaurant by its sign",
+      "description": ""
+    },
+    {
+      "apiname": "DineOut_Achv_FlavoursHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flavours Hunter",
+      "description": ""
+    }
+  ]
+}

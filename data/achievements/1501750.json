@@ -1,0 +1,550 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1501750,
+  "game": "Lords of the Fallen",
+  "total": 77,
+  "unlocked": 77,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:00.846246+00:00",
+  "achievements": [
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_001",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "Wayfarer",
+      "description": "Visited all of the areas in the game."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_002",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "A Veil Lifted",
+      "description": "Died in Axiom for the first time."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_003",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Lost and Found",
+      "description": "Retrieved vigor lost upon death."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_004",
+      "achieved": 1,
+      "unlocktime": 1768022160,
+      "name": "Weapon Collector",
+      "description": "Collected all weapons."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_005",
+      "achieved": 1,
+      "unlocktime": 1768035700,
+      "name": "Ironclad",
+      "description": "Collected all armour pieces."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_006",
+      "achieved": 1,
+      "unlocktime": 1767774707,
+      "name": "What Sights Contained Within",
+      "description": "Collected all Umbral Eyes."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_007",
+      "achieved": 1,
+      "unlocktime": 1768015261,
+      "name": "Trinket Collector",
+      "description": "Collected all rings and pendants."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_008",
+      "achieved": 1,
+      "unlocktime": 1767961639,
+      "name": "Ammunition Collector",
+      "description": "Collected all ammo types."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_009",
+      "achieved": 1,
+      "unlocktime": 1767960426,
+      "name": "Inferno Adept",
+      "description": "Collected all Inferno spells."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_010",
+      "achieved": 1,
+      "unlocktime": 1767961034,
+      "name": "Radiant Adept",
+      "description": "Collected all Radiance spells."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_011",
+      "achieved": 1,
+      "unlocktime": 1767960861,
+      "name": "Umbral Adept",
+      "description": "Collected all Umbral spells."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_012",
+      "achieved": 1,
+      "unlocktime": 1767961549,
+      "name": "Throwable Collector",
+      "description": "Collected all throwables."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_013",
+      "achieved": 1,
+      "unlocktime": 1767959792,
+      "name": "Gesture Collector",
+      "description": "Collected all gestures."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_014",
+      "achieved": 1,
+      "unlocktime": 1767739511,
+      "name": "Salvation in Blood",
+      "description": "Fully upgraded the Sanguinarix."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_015",
+      "achieved": 1,
+      "unlocktime": 1697735124,
+      "name": "Honed to Perfection",
+      "description": "Fully upgraded a weapon."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_016",
+      "achieved": 1,
+      "unlocktime": 1767254966,
+      "name": "Rune Novice",
+      "description": "Placed a rune in a socket for the first time."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_017",
+      "achieved": 1,
+      "unlocktime": 1767754679,
+      "name": "Rune Master",
+      "description": "Fully socketed a 3-rune weapon or shield."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_018",
+      "achieved": 1,
+      "unlocktime": 1767592799,
+      "name": "Carving Out Victory",
+      "description": "Fully upgraded the Umbral lamp."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_019",
+      "achieved": 1,
+      "unlocktime": 1767592829,
+      "name": "Utmost Insight",
+      "description": "Fully socketed the Umbral lamp with Umbral Eyes."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_020",
+      "achieved": 1,
+      "unlocktime": 1767252824,
+      "name": "Comrades",
+      "description": "Beckoned a co-op partner."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_021",
+      "achieved": 1,
+      "unlocktime": 1767842099,
+      "name": "Shared Triumph",
+      "description": "Defeated a boss alongside a co-op partner."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_022",
+      "achieved": 1,
+      "unlocktime": 1767151388,
+      "name": "Vengeance for the Fallen",
+      "description": "Avenged a fallen lampbearer."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_023",
+      "achieved": 1,
+      "unlocktime": 1767950227,
+      "name": "No Mercy",
+      "description": "Defeated another player in PVP."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_024",
+      "achieved": 1,
+      "unlocktime": 1767929176,
+      "name": "Infernal Offerings",
+      "description": "Donated a total of 10 Severed Hands."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_025",
+      "achieved": 1,
+      "unlocktime": 1767785582,
+      "name": "Radiant Offerings",
+      "description": "Donated a total of 10 Pilfered Coins."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_026",
+      "achieved": 1,
+      "unlocktime": 1767785652,
+      "name": "Umbral Offerings",
+      "description": "Donated a total of 10 Plucked Eyeballs."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_027",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Shades of Violence",
+      "description": "Applied a tinct to a piece of gear."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_028",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Rise and Fall",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_029",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Together in Death",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_030",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Burying the Past",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_031",
+      "achieved": 1,
+      "unlocktime": 1697735124,
+      "name": "Unwanted",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_032",
+      "achieved": 1,
+      "unlocktime": 1697735124,
+      "name": "Unbroken to the End",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_033",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Wings of Grief",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_034",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "Twin Faces of Sin",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_035",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "Judgement",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_036",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Hunt's End",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_037",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "The King is Dead",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_038",
+      "achieved": 1,
+      "unlocktime": 1767632691,
+      "name": "A Hunger Sated",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_039",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "Fallen",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_040",
+      "achieved": 1,
+      "unlocktime": 1767951651,
+      "name": "None Shall be Spared",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_041",
+      "achieved": 1,
+      "unlocktime": 1767921171,
+      "name": "The Price of Knowledge",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_042",
+      "achieved": 1,
+      "unlocktime": 1767878764,
+      "name": "Part of the Divine",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_043",
+      "achieved": 1,
+      "unlocktime": 1767754679,
+      "name": "Travels Resumed",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_044",
+      "achieved": 1,
+      "unlocktime": 1767744833,
+      "name": "Moving On",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_045",
+      "achieved": 1,
+      "unlocktime": 1767632008,
+      "name": "Hero Worship",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_046",
+      "achieved": 1,
+      "unlocktime": 1767928425,
+      "name": "Antanas' Legacy",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_047",
+      "achieved": 1,
+      "unlocktime": 1767929059,
+      "name": "Faithful",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_048",
+      "achieved": 1,
+      "unlocktime": 1767627551,
+      "name": "Without Purpose",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_049",
+      "achieved": 1,
+      "unlocktime": 1767879158,
+      "name": "A Queen's Rest",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_050",
+      "achieved": 1,
+      "unlocktime": 1767959792,
+      "name": "The Last Step",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_051",
+      "achieved": 1,
+      "unlocktime": 1767950759,
+      "name": "Vengeful Reflection",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_052",
+      "achieved": 1,
+      "unlocktime": 1767776776,
+      "name": "Lord of the Risen",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_053",
+      "achieved": 1,
+      "unlocktime": 1697871968,
+      "name": "In Light we Walk",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_054",
+      "achieved": 1,
+      "unlocktime": 1767632883,
+      "name": "Back to the Void",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_055",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "A Shadow Dispelled",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_056",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Essence of Death",
+      "description": "Defeated an enemy with an Umbral finisher."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_057",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Thriving in Darkness",
+      "description": "Used a Vestige Seed."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_058",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "Seasoned",
+      "description": "Reached Level 100."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_059",
+      "achieved": 1,
+      "unlocktime": 1768035700,
+      "name": "Lord of The Fallen",
+      "description": "Earned all achievements."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_060",
+      "achieved": 1,
+      "unlocktime": 1697735822,
+      "name": "The Past Shapes the Present",
+      "description": "Offered Molhu the Bowl of Revelations."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_061",
+      "achieved": 1,
+      "unlocktime": 1767981419,
+      "name": "Lingering Moments",
+      "description": "Viewed all Umbral stigmas."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_062",
+      "achieved": 1,
+      "unlocktime": 1697640846,
+      "name": "A Rest Among the Dead",
+      "description": "Reached the Skyrest Bridge interior."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_063",
+      "achieved": 1,
+      "unlocktime": 1767928570,
+      "name": "A Trace of Venom",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_065",
+      "achieved": 1,
+      "unlocktime": 1767776776,
+      "name": "Fickle Fortune",
+      "description": "Reached an ending with the Pre-upgraded Weapons and Random Loot modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_067",
+      "achieved": 1,
+      "unlocktime": 1768062651,
+      "name": "Inefficient Medicine",
+      "description": "Reached an ending with the Ironman and Withered Health modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_068",
+      "achieved": 1,
+      "unlocktime": 1767776776,
+      "name": "Trail of the Dead",
+      "description": "Reached an ending with the Random Enemies and Withered Health modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_069",
+      "achieved": 1,
+      "unlocktime": 1767776776,
+      "name": "Making Do",
+      "description": "Reached an ending with the Withered Health and the Random Loot modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_073",
+      "achieved": 1,
+      "unlocktime": 1767776776,
+      "name": "Come What May",
+      "description": "Reached an ending with the Random Loot and Random Enemies modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_074",
+      "achieved": 1,
+      "unlocktime": 1768062651,
+      "name": "A Gruelling Journey",
+      "description": "Reached an ending with the Tremendous Vestige Decay and Ironman modifiers enabled"
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_075",
+      "achieved": 1,
+      "unlocktime": 1768062651,
+      "name": "Lord of Slaughter",
+      "description": "Reached an ending with the Ironman and Enemy Density modifiers enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_076",
+      "achieved": 1,
+      "unlocktime": 1767776867,
+      "name": "Indomitable",
+      "description": "Reached an ending with Random Enemies and Loot, Enemy Density, Tremendous Vestige Decay modifiers on."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_077",
+      "achieved": 1,
+      "unlocktime": 1767120055,
+      "name": "Altered Prospects",
+      "description": "Started a new game with a modifier enabled."
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_083",
+      "achieved": 1,
+      "unlocktime": 1767633825,
+      "name": "The Worm Stirs",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_084",
+      "achieved": 1,
+      "unlocktime": 1767633825,
+      "name": "Promise Kept",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_085",
+      "achieved": 1,
+      "unlocktime": 1767633825,
+      "name": "Brought Low",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_086",
+      "achieved": 1,
+      "unlocktime": 1767739718,
+      "name": "Adyr's Chosen",
+      "description": ""
+    },
+    {
+      "apiname": "TLOTF_ACHIEVEMENT_087",
+      "achieved": 1,
+      "unlocktime": 1767633825,
+      "name": "Conqueror of Hardships",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1369720,
+  "game": "Innchanted",
+  "total": 26,
+  "unlocked": 1,
+  "percent": 3.8,
+  "updated_at_utc": "2026-09-15T06:51:37.824271+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRST_3_STARS",
+      "achieved": 1,
+      "unlocktime": 1710339379,
+      "name": "A Wonderful Inn",
+      "description": "Received your first 3 star rating!"
+    },
+    {
+      "apiname": "FISHING_3_STARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fishing Champion",
+      "description": "Received 3 stars at Gudoo's fishing competition"
+    },
+    {
+      "apiname": "TABLE_REPAIR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't mind the burn marks",
+      "description": "Repaired a table that was broken by a Fire Elemental"
+    },
+    {
+      "apiname": "POTION_SERVING_TOTAL_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Potions Pronto!",
+      "description": "Served 100 potions"
+    },
+    {
+      "apiname": "SPEED_POTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curse-B-Gone!",
+      "description": "Blew away a curse with help from a Wind potion"
+    },
+    {
+      "apiname": "THIEF_SCARED_WHILE_STEALING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And I Would Have Gotten Away With It Too!",
+      "description": "Stopped 20 catburglars who were escaping with your shells"
+    },
+    {
+      "apiname": "MONEY_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pay Day!",
+      "description": "Made 200 Shells"
+    },
+    {
+      "apiname": "MONEY_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Stacks",
+      "description": "Made 500 Shells"
+    },
+    {
+      "apiname": "HAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hat's Off",
+      "description": "Dressed a monster up with a Trenchcoat Customer’s hat"
+    },
+    {
+      "apiname": "HYDRA_3_STARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hydra-tion",
+      "description": "Got 3 stars in the Hydra encounter"
+    },
+    {
+      "apiname": "HYDRA_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "4 heads are better than 3!",
+      "description": "Survived an encounter with the Hydra"
+    },
+    {
+      "apiname": "WIZARD_3_STARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Co-operation conquers all!",
+      "description": "Got 4 stars in the final day"
+    },
+    {
+      "apiname": "WIZARD_SUCCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "De-Colin Iser",
+      "description": "Removed that pesky Wizard"
+    },
+    {
+      "apiname": "MISTAKE_DISPEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oops...",
+      "description": "Drank a dispel potion but missed the furniture tornado."
+    },
+    {
+      "apiname": "STRENGTH_POTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Strength!",
+      "description": "Brushed a wombat with help from a Strength potion"
+    },
+    {
+      "apiname": "CHARISMA_POTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charmer",
+      "description": "Got an order out of a shy Water Elemental with help from a Charisma Potion"
+    },
+    {
+      "apiname": "DISPEL_POTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rainbow Power",
+      "description": "Drank a dispel potion and stopped a Wizard's Spell"
+    },
+    {
+      "apiname": "SHOP_PURCHASE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Inn-vestment!",
+      "description": "Purchased 10 upgrades"
+    },
+    {
+      "apiname": "SHOP_PURCHASE_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey big spender",
+      "description": "Purchased every upgrade"
+    },
+    {
+      "apiname": "STARS_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Notable on InnStarGran",
+      "description": "Received 40 stars"
+    },
+    {
+      "apiname": "STARS_3_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inn-spiring",
+      "description": "Received 3 stars on every level"
+    },
+    {
+      "apiname": "STARS_4_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inn-credible",
+      "description": "Received 4 stars on every level"
+    },
+    {
+      "apiname": "DECOR_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finally, good decorating",
+      "description": "Decorated your first piece of furniture"
+    },
+    {
+      "apiname": "DECOR_HALF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decorator’s Dream",
+      "description": "Purchase half of the decorations from the store"
+    },
+    {
+      "apiname": "DECOR_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masterpiece",
+      "description": "Purchased all the decorations from the store"
+    },
+    {
+      "apiname": "STARS_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Star",
+      "description": "Received 80 stars total"
+    }
+  ]
+}

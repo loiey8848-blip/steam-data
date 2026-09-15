@@ -1,0 +1,473 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1294810,
+  "game": "Redfall",
+  "total": 66,
+  "unlocked": 30,
+  "percent": 45.5,
+  "updated_at_utc": "2026-09-15T06:51:16.512719+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_001",
+      "achieved": 1,
+      "unlocktime": 1683039455,
+      "name": "Neighborhood Revitalization",
+      "description": "Complete all of the required main missions in Redfall Commons."
+    },
+    {
+      "apiname": "Achievement_002",
+      "achieved": 1,
+      "unlocktime": 1683096018,
+      "name": "Revelations",
+      "description": "Listen to the Pastor's thrall recording."
+    },
+    {
+      "apiname": "Achievement_003",
+      "achieved": 1,
+      "unlocktime": 1683004493,
+      "name": "Home Is Where the Heart Is",
+      "description": "Unlock your first safehouse."
+    },
+    {
+      "apiname": "Achievement_004",
+      "achieved": 1,
+      "unlocktime": 1683020548,
+      "name": "Enter of Your Own Free Will",
+      "description": "Enter your first nest door."
+    },
+    {
+      "apiname": "Achievement_006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contingency Plans",
+      "description": "Complete all optional campaign missions."
+    },
+    {
+      "apiname": "Achievement_007",
+      "achieved": 1,
+      "unlocktime": 1683040317,
+      "name": "Deforestation",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_008",
+      "achieved": 1,
+      "unlocktime": 1683017677,
+      "name": "Blood Will Have Blood",
+      "description": "Loot your first blood remnant."
+    },
+    {
+      "apiname": "Achievement_009",
+      "achieved": 1,
+      "unlocktime": 1683001446,
+      "name": "Ne Plus Ultra",
+      "description": "Loot your first unrivaled item."
+    },
+    {
+      "apiname": "Achievement_010",
+      "achieved": 1,
+      "unlocktime": 1683017898,
+      "name": "Welcome to the Neighborhood",
+      "description": "Complete your first neighborhood."
+    },
+    {
+      "apiname": "Achievement_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Block Party",
+      "description": "Complete all neighborhoods in Redfall Commons."
+    },
+    {
+      "apiname": "Achievement_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neighborhood Watch",
+      "description": "Complete all neighborhoods in Burial Point."
+    },
+    {
+      "apiname": "Achievement_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scream Team",
+      "description": "Gain Layla's complete trust and confidence."
+    },
+    {
+      "apiname": "Achievement_014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Hunters Club",
+      "description": "Gain Devinder's complete trust and confidence."
+    },
+    {
+      "apiname": "Achievement_015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Brother",
+      "description": "Gain Jacob’s complete trust and confidence."
+    },
+    {
+      "apiname": "Achievement_016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friendgineering",
+      "description": "Gain Remi’s complete trust and confidence."
+    },
+    {
+      "apiname": "Achievement_017",
+      "achieved": 1,
+      "unlocktime": 1683087868,
+      "name": "Bad Wiring",
+      "description": "Disable a tripwire using a rewire kit."
+    },
+    {
+      "apiname": "Achievement_018",
+      "achieved": 1,
+      "unlocktime": 1683003447,
+      "name": "Spit Take",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_019",
+      "achieved": 1,
+      "unlocktime": 1683001291,
+      "name": "I Like My Stakes Rare!",
+      "description": "Stake your first vampire."
+    },
+    {
+      "apiname": "Achievement_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sic Transit Umbra",
+      "description": "Complete all of the required main missions in Burial Point."
+    },
+    {
+      "apiname": "Achievement_021",
+      "achieved": 1,
+      "unlocktime": 1683039365,
+      "name": "Radio Silence",
+      "description": "Destroy the Hollow Man."
+    },
+    {
+      "apiname": "Achievement_022",
+      "achieved": 1,
+      "unlocktime": 1683098851,
+      "name": "Bell-ringer",
+      "description": "Destroy Bloody Tom."
+    },
+    {
+      "apiname": "Achievement_023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silence Is Golden",
+      "description": "Destroy Miss Whisper."
+    },
+    {
+      "apiname": "Achievement_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Morning",
+      "description": "Destroy The Black Sun."
+    },
+    {
+      "apiname": "Achievement_025",
+      "achieved": 1,
+      "unlocktime": 1683036901,
+      "name": "Grounded",
+      "description": "Destroy your first Rook."
+    },
+    {
+      "apiname": "Achievement_026",
+      "achieved": 1,
+      "unlocktime": 1683003190,
+      "name": "Fly Fisher",
+      "description": "Destroy your first Angler."
+    },
+    {
+      "apiname": "Achievement_027",
+      "achieved": 1,
+      "unlocktime": 1683006478,
+      "name": "Peek-a-boo",
+      "description": "Destroy your first Shroud."
+    },
+    {
+      "apiname": "Achievement_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Clean It Up",
+      "description": "Destroy a Blood Bag without triggering it to explode."
+    },
+    {
+      "apiname": "Achievement_029",
+      "achieved": 1,
+      "unlocktime": 1683018081,
+      "name": "Throw The First Stone",
+      "description": "Destroy your first Sin-Eater."
+    },
+    {
+      "apiname": "Achievement_030",
+      "achieved": 1,
+      "unlocktime": 1683006631,
+      "name": "ICU",
+      "description": "Destroy your first Watcher."
+    },
+    {
+      "apiname": "Achievement_031",
+      "achieved": 1,
+      "unlocktime": 1683017403,
+      "name": "Sucks To Be You",
+      "description": "Destroy your first Siphon."
+    },
+    {
+      "apiname": "Achievement_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faith Healer",
+      "description": "Collect all grave locks."
+    },
+    {
+      "apiname": "Achievement_033",
+      "achieved": 1,
+      "unlocktime": 1683003061,
+      "name": "Wounded Whispers",
+      "description": "Collect your first grave lock."
+    },
+    {
+      "apiname": "Achievement_034",
+      "achieved": 1,
+      "unlocktime": 1683009318,
+      "name": "Catch and Release",
+      "description": "Rescue a civilian hostage."
+    },
+    {
+      "apiname": "Achievement_035",
+      "achieved": 1,
+      "unlocktime": 1683046740,
+      "name": "From the Shadows",
+      "description": "Destroy Gloria during The Key to Wellness."
+    },
+    {
+      "apiname": "Achievement_036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Cry in the Dark",
+      "description": "Destroy the Wailing Shadow."
+    },
+    {
+      "apiname": "Achievement_037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sisterhood",
+      "description": "Discover the fate of the Blackwood sisters and collect their heirloom."
+    },
+    {
+      "apiname": "Achievement_038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Lies Below",
+      "description": "Uncover the Irving family mausoleum."
+    },
+    {
+      "apiname": "Achievement_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Check, Please!",
+      "description": "Loot the table 12 remnant."
+    },
+    {
+      "apiname": "Achievement_040",
+      "achieved": 1,
+      "unlocktime": 1683020832,
+      "name": "Heart Attack",
+      "description": "Destroy your first nest heart."
+    },
+    {
+      "apiname": "Achievement_041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empty Nest Syndrome",
+      "description": "Destroy a nest heart without waking or killing any vampires."
+    },
+    {
+      "apiname": "Achievement_043",
+      "achieved": 1,
+      "unlocktime": 1683021989,
+      "name": "Starve the Beast",
+      "description": "Complete Metamorphosis without the vampire being nourished."
+    },
+    {
+      "apiname": "Achievement_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Someplace to Be",
+      "description": "Reach a landing site before the supplies land."
+    },
+    {
+      "apiname": "Achievement_045",
+      "achieved": 1,
+      "unlocktime": 1683017547,
+      "name": "Skin of Their Teeth",
+      "description": "Complete A Voice in the Dark with all hostages alive."
+    },
+    {
+      "apiname": "Achievement_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ask Not For Whom The Horns Blow",
+      "description": "Disable foghorns before going to the Tempestas during Fall Like Lightning."
+    },
+    {
+      "apiname": "Achievement_048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloody Initiate",
+      "description": "Reach the end of the infiltration mission path during One of Us."
+    },
+    {
+      "apiname": "Achievement_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sepsis",
+      "description": "Poison the Bellkeeper’s blood offering during One of Us."
+    },
+    {
+      "apiname": "Achievement_050",
+      "achieved": 1,
+      "unlocktime": 1683087596,
+      "name": "So Anyway I Started Blasting",
+      "description": "Break infiltration during One of Us by shooting a friendly cultist at the Campgrounds."
+    },
+    {
+      "apiname": "Achievement_051",
+      "achieved": 1,
+      "unlocktime": 1683039788,
+      "name": "Right This Way",
+      "description": "Navigate the Psychic Woods without going through the wrong door."
+    },
+    {
+      "apiname": "Achievement_052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice Try",
+      "description": "Go through the wrong door at least three times in the Psychic Woods."
+    },
+    {
+      "apiname": "Achievement_053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvest’s End",
+      "description": "Kill The Harvestman during “The Festival.”"
+    },
+    {
+      "apiname": "Achievement_055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacklight Down",
+      "description": "Turn off Bellwether's defensive UV lights and leave them off."
+    },
+    {
+      "apiname": "Achievement_056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rum Runner",
+      "description": "Enter Bellwether's stronghold via the bootlegger tunnel in the mission What Does Bellwether Know."
+    },
+    {
+      "apiname": "Achievement_057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under a Bushel",
+      "description": "Get the lamp without encountering The Keeper."
+    },
+    {
+      "apiname": "Achievement_058",
+      "achieved": 1,
+      "unlocktime": 1683048396,
+      "name": "Enemy of My Enemy",
+      "description": "Free Trevor Ash from the UV lights."
+    },
+    {
+      "apiname": "Achievement_059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dexterity Save",
+      "description": "Take the survival tips without triggering the tripwires."
+    },
+    {
+      "apiname": "Achievement_060",
+      "achieved": 1,
+      "unlocktime": 1683021021,
+      "name": "Saw That Coming",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bob’s Final Hour",
+      "description": "Kill Bob the Radio Host during Lost in the Fog after playing the PSA in Taking Back the Airwaves."
+    },
+    {
+      "apiname": "Achievement_062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lights Out",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helping Hand",
+      "description": "Complete all side missions in Redfall Commons."
+    },
+    {
+      "apiname": "Achievement_064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Samaritan",
+      "description": "Complete all side missions in Burial Point."
+    },
+    {
+      "apiname": "Achievement_065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curious Finch",
+      "description": "Read Nurse Tran’s mother’s dedication in his birdwatching book."
+    },
+    {
+      "apiname": "Achievement_066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say Goodbye, Joe",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle Eyes",
+      "description": "Complete The Lost Unit without triggering any Bellwether tripwires."
+    },
+    {
+      "apiname": "Achievement_069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends 'Til The End",
+      "description": "Reach highest tier of trust with three other heroes at once."
+    },
+    {
+      "apiname": "Achievement_070",
+      "achieved": 1,
+      "unlocktime": 1683022369,
+      "name": "Avenging the Good Doctor",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Spit On Your Grave",
+      "description": "Steal Dr. Hunt’s father’s pocket watch."
+    }
+  ]
+}

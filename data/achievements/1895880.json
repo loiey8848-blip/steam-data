@@ -1,0 +1,340 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1895880,
+  "game": "Ratchet & Clank: Rift Apart",
+  "total": 47,
+  "unlocked": 1,
+  "percent": 2.1,
+  "updated_at_utc": "2026-09-15T06:52:23.886004+00:00",
+  "achievements": [
+    {
+      "apiname": "Platinum_Trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Masters of the Multiverse",
+      "description": "Collect all Achievements"
+    },
+    {
+      "apiname": "Rift_Apart",
+      "achieved": 1,
+      "unlocktime": 1766510467,
+      "name": "Rift Apart",
+      "description": ""
+    },
+    {
+      "apiname": "Sarg_Seekerpede",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide 'N Seekerpede",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Arena",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory!",
+      "description": "Complete a Battleplex Challenge"
+    },
+    {
+      "apiname": "Complete_Arena_Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Stop Me",
+      "description": "Complete a Gold Cup Battleplex Challenge"
+    },
+    {
+      "apiname": "Jukebox_Three",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey Lombax DJ",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Blizar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Crystal Is My Things",
+      "description": ""
+    },
+    {
+      "apiname": "Reach_Archives",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Walk Away From Me",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Cord",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Loose!",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Mol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emotional Support Robot",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Ard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rated Aaarrr!",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Sarg_Return",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return to Sender",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Sav_Return",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Bones About It",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Zord",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm the Warden Now",
+      "description": ""
+    },
+    {
+      "apiname": "Complete_Fin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2 Fuzz 2 Nefarious",
+      "description": ""
+    },
+    {
+      "apiname": "First_Pocket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Than Lint",
+      "description": ""
+    },
+    {
+      "apiname": "Acquire_First_Vanity_Item",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sartorial Steel",
+      "description": "Acquire a Piece of Armor"
+    },
+    {
+      "apiname": "Equip_Vanity_In_All_Slots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Does This Make My Tail Look Big?",
+      "description": "Acquire and Equip Head, Torso, and Leg Armor"
+    },
+    {
+      "apiname": "Collect_First_Gold_Bolt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shiny!",
+      "description": "Collect a Gold Bolt"
+    },
+    {
+      "apiname": "Collect_5_Gold_Bolts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nooks and Crannies",
+      "description": "Collect Five Gold Bolts"
+    },
+    {
+      "apiname": "Repair_Anomaly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quantum Mechanic",
+      "description": "Repair a Dimensional Anomaly"
+    },
+    {
+      "apiname": "Weapon_to_Level_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They Blow Up So Fast",
+      "description": "Get a Weapon to Level Five"
+    },
+    {
+      "apiname": "Fully_Upgrade_Weapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's Even a Cupholder",
+      "description": "Fully Upgrade a Weapon"
+    },
+    {
+      "apiname": "Get_8_Weapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Rack",
+      "description": "Fill a Weapon Wheel"
+    },
+    {
+      "apiname": "Buy_All_Weapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Stacked",
+      "description": "Purchase All Weapons"
+    },
+    {
+      "apiname": "Complete_HAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glitch, Uh, Finds a Way",
+      "description": ""
+    },
+    {
+      "apiname": "All_Blizon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shifty Character",
+      "description": "Hit Every Blizon Crystal on Blizar and Cordelion"
+    },
+    {
+      "apiname": "Balloon_Bounce",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOING!",
+      "description": "Bounce on Big Al, Clank, and Qwark's Parade Balloons"
+    },
+    {
+      "apiname": "Hot_Springs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Max Relax",
+      "description": "Find the Nefarious Citizens by the Hot Springs"
+    },
+    {
+      "apiname": "Rivet_TV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lombax and Chill",
+      "description": ""
+    },
+    {
+      "apiname": "Grindrail_Trick_Jumps",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alert the Sponsors",
+      "description": "Perform Five Trick Jumps on a Grind Rail"
+    },
+    {
+      "apiname": "Melee_Frozen_Enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Icebreaker",
+      "description": "Melee Five Frozen Enemies"
+    },
+    {
+      "apiname": "Ricochet_Multikill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Need for Multiball",
+      "description": "Kill Two Enemies With a Single Ricochet Round"
+    },
+    {
+      "apiname": "Kills_With_Magshield_Return",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return Policy",
+      "description": "Kill 10 Enemies by Returning Shots with the Void Reactor"
+    },
+    {
+      "apiname": "Fossilizer_Headshots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hole Puncher",
+      "description": "Get 20 Headshots with the Headhunter"
+    },
+    {
+      "apiname": "FunGuy_Uses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life of the Party",
+      "description": "Deploy 50 Mr. Fungis"
+    },
+    {
+      "apiname": "Kill_Topiaried_Enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extreme Gardening",
+      "description": "Defeat 30 Enemies While They are Topiary'd"
+    },
+    {
+      "apiname": "First_CraigBear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's So Fluffy!",
+      "description": "Find a CraiggerBear"
+    },
+    {
+      "apiname": "All_CraigBears",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "UnBEARably Awesome",
+      "description": "Find all CraiggerBears"
+    },
+    {
+      "apiname": "Kill_Grunthors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extinction Event",
+      "description": "Kill Five Grunthors"
+    },
+    {
+      "apiname": "Kill_Detached_NefTrooper_Heads",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Stay Down",
+      "description": "Defeat 30 Ejected Nefarious Trooper Heads"
+    },
+    {
+      "apiname": "Max_Speed_Hoverboot_Double_Jumps",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Must Go Faster",
+      "description": "Do a Trick Jump While Going at Max Speed with the Hoverboots"
+    },
+    {
+      "apiname": "Collect_First_RYNO_Plan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planning Some Destruction",
+      "description": "Collect a Spybot"
+    },
+    {
+      "apiname": "Acquire_RYNO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aim to Misbehave",
+      "description": "Acquire the RYNO"
+    },
+    {
+      "apiname": "Zerpstones_Intro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeding Friendsy",
+      "description": "Collect 10 Zurpstones for Trudi"
+    },
+    {
+      "apiname": "Blizar_Honey",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet, Sweet Victory",
+      "description": "Collect Honey for Chef Tulio"
+    },
+    {
+      "apiname": "Sav_Lorbs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might've Broken Something",
+      "description": "Collect Three Lorbs"
+    }
+  ]
+}

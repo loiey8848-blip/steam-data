@@ -1,0 +1,543 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 602960,
+  "game": "Barotrauma",
+  "total": 76,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:16.810766+00:00",
+  "achievements": [
+    {
+      "apiname": "killmoloch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killed a Moloch",
+      "description": "Take down a Moloch."
+    },
+    {
+      "apiname": "killhammerhead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stop the Hammertime",
+      "description": "Kill a Hammerhead."
+    },
+    {
+      "apiname": "killendworm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bigger They Are, the Harder They Fall",
+      "description": "Kill an Endworm."
+    },
+    {
+      "apiname": "artifactmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Xenoarchaeologist",
+      "description": "Complete an artifact mission."
+    },
+    {
+      "apiname": "combatmission1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For the Coalition",
+      "description": "Defeat the Separatists in a PvP submarine-vs-submarine mission."
+    },
+    {
+      "apiname": "combatmission2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viva la Revolution",
+      "description": "Defeat the Coalition crew in a PvP submarine-vs-submarine mission."
+    },
+    {
+      "apiname": "healcrit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Die on Me!",
+      "description": "Heal someone back from a critical state by performing CPR."
+    },
+    {
+      "apiname": "repairdevice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "As Good As New",
+      "description": "Repair a broken device."
+    },
+    {
+      "apiname": "traitorwin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Insurgency",
+      "description": "Successfully complete a traitor objective."
+    },
+    {
+      "apiname": "killtraitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not On My Watch",
+      "description": "Take down a traitor before they manage to complete their objective."
+    },
+    {
+      "apiname": "killclown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Fun Allowed",
+      "description": "Kill a clown."
+    },
+    {
+      "apiname": "healopiateaddiction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Clean",
+      "description": "Recover from an opiate addiction."
+    },
+    {
+      "apiname": "survivecrushdepth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Gaze into the Abyss",
+      "description": "Take the submarine down to crush depth and survive."
+    },
+    {
+      "apiname": "survivereactormeltdown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nuclear Blast Survivor",
+      "description": "Complete a round after a nuclear meltdown."
+    },
+    {
+      "apiname": "healhusk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am the Cure",
+      "description": "Cure a husk infection."
+    },
+    {
+      "apiname": "killpoison",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poisoner",
+      "description": "Kill something with morbusine."
+    },
+    {
+      "apiname": "killnuke",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am Become Death",
+      "description": "Kill something with nuclear explosives."
+    },
+    {
+      "apiname": "killtool",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whatever Works",
+      "description": "Kill something with a plasma cutter, welding tool or a wrench."
+    },
+    {
+      "apiname": "clowncostume",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Praise the Honkmother",
+      "description": "Obtain a full clown costume."
+    },
+    {
+      "apiname": "lastmanstanding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last Man Standing",
+      "description": "Complete a round alone after everyone else in the crew has perished."
+    },
+    {
+      "apiname": "lonesailor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lone Sailor",
+      "description": "Complete a round alone from start to finish."
+    },
+    {
+      "apiname": "subhighvelocity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Go Fast",
+      "description": "Accelerate a submarine to over 50 km/h."
+    },
+    {
+      "apiname": "nodamagerun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smooth Sailing",
+      "description": "Complete a round without any casualties or damage to the submarine."
+    },
+    {
+      "apiname": "subdeep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where No Man Has Gone Before",
+      "description": "Descend below 5000 meters."
+    },
+    {
+      "apiname": "maxintensity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is Fine.",
+      "description": "Face a complete and utter disaster."
+    },
+    {
+      "apiname": "discovercoldcaverns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cold Caverns",
+      "description": "Discover the Cold Caverns."
+    },
+    {
+      "apiname": "discovereuropanridge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Europan Ridge",
+      "description": "Discover the Europan Ridge."
+    },
+    {
+      "apiname": "discoverhydrothermalwastes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hydrothermal Wastes",
+      "description": "Discover the Hydrothermal Wastes."
+    },
+    {
+      "apiname": "discovertheaphoticplateau",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Aphotic Plateau",
+      "description": "Discover the Aphotic Plateau"
+    },
+    {
+      "apiname": "discoverthegreatsea",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Sea",
+      "description": "Discover the Great Sea."
+    },
+    {
+      "apiname": "travel10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Seafarer",
+      "description": "Travel over 10 kilometers."
+    },
+    {
+      "apiname": "travel100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Seafarer",
+      "description": "Travel over 100 kilometers."
+    },
+    {
+      "apiname": "xenocide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Xenocide",
+      "description": "Kill 100 creatures."
+    },
+    {
+      "apiname": "genocide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genocide",
+      "description": ""
+    },
+    {
+      "apiname": "cargomission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freighter",
+      "description": "Complete a cargo mission."
+    },
+    {
+      "apiname": "subeditor24h",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naval Architect",
+      "description": "Spend 24 hours in the submarine editor in total."
+    },
+    {
+      "apiname": "crewaway",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extravehicular Activity",
+      "description": "Venture 500 meters away from the sub."
+    },
+    {
+      "apiname": "captainround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Here I Recognize No Superiors",
+      "description": "Complete a round as a Captain."
+    },
+    {
+      "apiname": "securityofficerround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am the Law",
+      "description": "Complete a round as a Security Officer."
+    },
+    {
+      "apiname": "engineerround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ever Increasing in Speed and Power",
+      "description": "Complete a round as an Electrical Engineer."
+    },
+    {
+      "apiname": "mechanicround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Truth in Simplicity",
+      "description": "Complete a round as a Mechanic."
+    },
+    {
+      "apiname": "medicaldoctorround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "According to Ability and Judgment",
+      "description": "Complete a round as a Medical Doctor."
+    },
+    {
+      "apiname": "assistantround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do What You Love",
+      "description": "Complete a round as an Assistant."
+    },
+    {
+      "apiname": "campaigncompleted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End is the Beginning",
+      "description": "Finish the campaign."
+    },
+    {
+      "apiname": "salvagewreckmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underwater Coffin",
+      "description": "Complete a wreck salvage mission."
+    },
+    {
+      "apiname": "escortmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Safety Not Guaranteed",
+      "description": "Complete an escort mission."
+    },
+    {
+      "apiname": "killcharybdis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Abyss Gazes Back",
+      "description": "Kill a Charybdis."
+    },
+    {
+      "apiname": "killlatcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The King of Cling",
+      "description": "Kill a latcher."
+    },
+    {
+      "apiname": "killspineling_giant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spinal Tapped",
+      "description": "Kill a giant spineling."
+    },
+    {
+      "apiname": "killcrawlerbroodmother",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill It Before It Lays Eggs!",
+      "description": "Kill a crawler Broodmother."
+    },
+    {
+      "apiname": "ascension",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ascension",
+      "description": "Become a perfect example of symbiotic harmony."
+    },
+    {
+      "apiname": "campaignmetadata_pathofthebikehorn_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Grandest of Jesters",
+      "description": "Learn to laugh at the Grand Joke of the Universe."
+    },
+    {
+      "apiname": "campaignmetadata_coalitionspecialhire1_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Brass",
+      "description": "Reinforce your crew with an eminent Coalition leader."
+    },
+    {
+      "apiname": "campaignmetadata_coalitionspecialhire2_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cream of the Crop",
+      "description": "Employ the skills of a celebrity chef to your crew."
+    },
+    {
+      "apiname": "campaignmetadata_separatistspecialhire1_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Force for the Forceless",
+      "description": "Bolster your crew by hiring a steadfast Separatist leader."
+    },
+    {
+      "apiname": "campaignmetadata_separatistspecialhire2_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Men Just Want to Watch the World Burn",
+      "description": "Enlist the services of an elusive explosives expert."
+    },
+    {
+      "apiname": "campaignmetadata_huskcultspecialhire1_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heralds of the Tide",
+      "description": "Allow an enigmatic religious leader to assist your crew."
+    },
+    {
+      "apiname": "campaignmetadata_clownspecialhire1_hired_true",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Teacher of Nothing",
+      "description": "Accept the offer of a senior humorist to join your crew."
+    },
+    {
+      "apiname": "scanruin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruin Raider",
+      "description": "Complete a \"scan alien ruin\" mission."
+    },
+    {
+      "apiname": "clearruin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aggressive Archaeology",
+      "description": "Complete a \"clear alien ruin\" mission."
+    },
+    {
+      "apiname": "beaconmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Light in the Darkness",
+      "description": "Restore a run-down beacon station."
+    },
+    {
+      "apiname": "abandonedoutpostrescue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight in Rusty Armor",
+      "description": "Complete a \"rescue hostages\" mission."
+    },
+    {
+      "apiname": "abandonedoutpostassassinate",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Complete an \"assassinate bandit leader\" mission."
+    },
+    {
+      "apiname": "abandonedoutpostdestroyhumans",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unwanted Guests",
+      "description": "Complete a \"destroy bandit outpost\" mission."
+    },
+    {
+      "apiname": "abandonedoutpostdestroymonsters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": "Complete a \"destroy monster-infested outpost\" mission."
+    },
+    {
+      "apiname": "nestmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Count Them Before They Hatch",
+      "description": "Complete a \"destroy monster nest\" mission."
+    },
+    {
+      "apiname": "miningmission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amateur Geologist",
+      "description": "Complete a mining mission."
+    },
+    {
+      "apiname": "combatmissionseparatistsvscoalition",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight the Power",
+      "description": "Defeat a Coalition submarine in a PvE submarine-vs-submarine mission."
+    },
+    {
+      "apiname": "combatmissioncoalitionvsseparatists",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resistance is Futile",
+      "description": "Defeat a Separatist submarine in a PvE submarine-vs-submarine mission."
+    },
+    {
+      "apiname": "getoutalive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Out Alive",
+      "description": "Get through the entirety of the Cold Caverns without losing your character in permadeath mode"
+    },
+    {
+      "apiname": "abyssbeckons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Abyss Beckons",
+      "description": "Lose a character permanently."
+    },
+    {
+      "apiname": "europasfinest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Europa's Finest",
+      "description": "Complete a campaign on permadeath or ironman mode in multiplayer."
+    },
+    {
+      "apiname": "kingofthehull",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of the Hull",
+      "description": "Win a PvP King of the Hull mission"
+    },
+    {
+      "apiname": "killmantis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide And Seek",
+      "description": ""
+    },
+    {
+      "apiname": "ancientnovelty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Novelty",
+      "description": "Destroy an alien terminal using alien curio."
+    },
+    {
+      "apiname": "whatsmirksbelow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Smirks Below",
+      "description": ""
+    }
+  ]
+}

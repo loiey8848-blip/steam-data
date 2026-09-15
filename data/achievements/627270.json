@@ -1,0 +1,529 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 627270,
+  "game": "Injustice™ 2",
+  "total": 74,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:18.124980+00:00",
+  "achievements": [
+    {
+      "apiname": "TROPHY_ID_MT_TRAIN_TRANSITION_AT_430",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch The 4:30 To Metropolis",
+      "description": "Knock an opponent into the Memorial Station Arena Transition at 4:30"
+    },
+    {
+      "apiname": "TROPHY_ID_GC_TRANSITION_AT_8PM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Showtime",
+      "description": "Knock an opponent into the Empire Theatre Arena Transition at 8:00pm"
+    },
+    {
+      "apiname": "TROPHY_ID_GRODD_THROW_3_KEGS_MATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Ape",
+      "description": "Throw 3 kegs during a match with Gorilla Grodd at the Ace o' Clubs"
+    },
+    {
+      "apiname": "TROPHY_ID_GC_3_BGND_BOUNCES_MATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor Fate-Ality",
+      "description": "Perform 3 background bounces on the Empire Theatre background"
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_10_RANKED_MATCHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winning Is Fun",
+      "description": "Win 10 ranked matches"
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_50_PLAYER_MATCHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Stop Me Now",
+      "description": "Win 50 player matches"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_200_ONLINE_MATCHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Real Contender",
+      "description": "Play 200 online matches"
+    },
+    {
+      "apiname": "TROPHY_ID_PERFORM_EVERY_TRANSITION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Down",
+      "description": "Knock an opponent into an Arena Transition 25 times"
+    },
+    {
+      "apiname": "TROPHY_ID_FINAL_HIT_WITH_SS_CROCODILE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer Croc",
+      "description": "Have the final hit come from the crocodile in Slaughter Swamp"
+    },
+    {
+      "apiname": "TROPHY_ID_PERFORM_10_DUCKS_IN_A_ROW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Would You Like Some Crumpets With That?",
+      "description": "Duck 10 times in a row during a match"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_50_PERCENT_STORYMODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half Way There",
+      "description": "Complete 50% of Story mode"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_100_PERCENT_STORYMODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who's Next?",
+      "description": "Complete 100% of Story mode"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_ALL_ALTERNATE_PATHS_STORYMODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll Do It Again",
+      "description": "Complete Story mode after doing all alternate paths"
+    },
+    {
+      "apiname": "TROPHY_ID_KOTH_VOTE_CORRECTLY_10_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Voted",
+      "description": "Vote correctly 10 times in King of the Hill"
+    },
+    {
+      "apiname": "TROPHY_ID_KOTH_DETHRONE_A_KING_5_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Off With His Head",
+      "description": "Dethrone a King 5 times in King of the Hill"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_25_PORTAL_EVENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Event-full",
+      "description": "Complete 25 Multiverse events"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_100_PORTAL_EVENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pulling Overtime",
+      "description": "Complete 100 Multiverse events"
+    },
+    {
+      "apiname": "TROPHY_ID_JOIN_A_GUILD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Have Friends Now",
+      "description": "Join a Guild"
+    },
+    {
+      "apiname": "TROPHY_ID_OPEN_100_CHESTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Many Presents",
+      "description": "Open 100 Mother Boxes"
+    },
+    {
+      "apiname": "TROPHY_ID_PERFORM_EVERY_SUPERMOVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeling Super",
+      "description": "Perform every Supermove"
+    },
+    {
+      "apiname": "TROPHY_ID_BANE_KILL_BATMAN_WITH_BACK_BREAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OUTTA NOWHERE!!!!!!",
+      "description": "Bane must defeat Batman with the final hit coming from a Meter Burn Bane Bomb"
+    },
+    {
+      "apiname": "TROPHY_ID_BC_WIN_WITH_LEVEL_3_SCREAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "When Canaries Cry",
+      "description": "Black Canary must defeat any opponent with the final hit coming from a level 3 Canary Cry"
+    },
+    {
+      "apiname": "TROPHY_ID_CW_KILL_CH_WITH_ISIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cat Fight",
+      "description": "Catwoman must defeat Cheetah with the final hit coming from Cat Call"
+    },
+    {
+      "apiname": "TROPHY_ID_PI_WIN_WITH_METER_BURN_KISS_DURING_BED_OF_THORNS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Nightshade",
+      "description": "Poison Ivy must defeat any opponent with the final hit coming from Kiss of Death"
+    },
+    {
+      "apiname": "TROPHY_ID_CH_KILL_WW_WITH_METER_BURN_BLOOD_LUNGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Claw Your Eyes Out",
+      "description": "Cheetah must defeat Wonder Woman with her Meter Burn Blood Lunge"
+    },
+    {
+      "apiname": "TROPHY_ID_AT_KILL_GL_WITH_METER_BURN_SYPHON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage Consumes You",
+      "description": "Atrocitus must defeat Green Lantern with the final hit coming from a Meter Burn Life Drain"
+    },
+    {
+      "apiname": "TROPHY_ID_ST_KILL_PI_WITH_GREEN_KINGDOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth To Earth",
+      "description": "Swamp Thing must defeat Poison Ivy with the final hit coming from Green Kingdom"
+    },
+    {
+      "apiname": "TROPHY_ID_CONNECT_10_SHOTS_WITHOUT_MISSING_SHOT_MATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Never Miss",
+      "description": "Win a match as Deadshot without missing a shot (minimum 10 shots)"
+    },
+    {
+      "apiname": "TROPHY_ID_DW_KILL_BM_WITH_METER_BURN_ASSASSIN_STRIKE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daddy Issues",
+      "description": "Robin must defeat Batman with the final hit coming from a Meter Burn Assassin Strike"
+    },
+    {
+      "apiname": "TROPHY_ID_AQ_WIN_WITH_BEAST_BELOW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Food",
+      "description": "Aquaman must defeat any opponent with the final hit coming from The Beast Below"
+    },
+    {
+      "apiname": "TROPHY_ID_BM_WIN_WITH_CAPE_PARRY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Step Ahead",
+      "description": "Batman must defeat any opponent with the final hit coming from Cape Parry or Cape Counter"
+    },
+    {
+      "apiname": "TROPHY_ID_BR_WIN_WITH_DRONE_ATTACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Didn't Do It",
+      "description": "Brainiac must defeat any opponent with the final hit coming from Beta Strike"
+    },
+    {
+      "apiname": "TROPHY_ID_CC_KILL_FL_WITH_FRIGID_BLAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "FROSTY!!!",
+      "description": "Captain Cold must defeat Flash with the final hit coming from Cryogenic Blast"
+    },
+    {
+      "apiname": "TROPHY_ID_FL_KILL_CC_WITH_TIME_CHANGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "History Lesson",
+      "description": "Flash must defeat Captain Cold with the final hit coming from Time Changer"
+    },
+    {
+      "apiname": "TROPHY_ID_GG_KILL_FLASH_WITH_MIND_CONTROL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quit Hitting Yourself",
+      "description": "Gorilla Grodd must defeat Flash with the final hit coming from Mind Control"
+    },
+    {
+      "apiname": "TROPHY_ID_BB_WIN_WITH_METER_BURN_MANDIBLE_STRIKE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Scarab Made Me Do It",
+      "description": "Blue Beetle must defeat any opponent with the final hit coming from a Meter Burn Mandible Strike"
+    },
+    {
+      "apiname": "TROPHY_ID_BA_WIN_WITH_ONLY_LIGHTNING_ATTACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Electric",
+      "description": "Black Adam must win the match with the final hit coming from Orbs of Seth"
+    },
+    {
+      "apiname": "TROPHY_ID_CY_KILL_DW_WITH_OMEGA_KEY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Longer Friends",
+      "description": "Cyborg must defeat Robin with the final hit coming from Apokolips"
+    },
+    {
+      "apiname": "TROPHY_ID_FS_KILL_CC_WITH_METER_BURN_MOLTEN_TRAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire And Ice",
+      "description": "Firestorm must defeat Captain Cold with the final hit coming from a Meter Burn Molten Trap"
+    },
+    {
+      "apiname": "TROPHY_ID_GA_KILL_BC_WITH_ONLY_ARROW_ATTACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lovers Quarrel",
+      "description": "Green Arrow must defeat Black Canary with the final hit coming from Target Practice"
+    },
+    {
+      "apiname": "TROPHY_ID_GL_KILL_AT_CONNECT_ALL_CONSTRUCTS_END_WITH_MECHANIZED_ASSAULT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I HOPE You Survive",
+      "description": "Green Lantern must defeat Atrocitus with the final hit coming from Mechanized Assault"
+    },
+    {
+      "apiname": "TROPHY_ID_HQ_KILL_JK_WITH_NIGHTY_NIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Love You, I Hate You",
+      "description": "Harley must defeat Joker with the final hit coming from Go Night Night"
+    },
+    {
+      "apiname": "TROPHY_ID_JK_KILL_BM_WITH_NOT_SO_FUNNY_IS_IT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Why Aren't You Laughing?",
+      "description": "Joker must defeat Batman with the final hit coming from Not So Funny Is It?"
+    },
+    {
+      "apiname": "TROPHY_ID_SC_WIN_WITH_SCHIZOPHRENIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make A Wish",
+      "description": "Scarecrow must defeat any opponent with the final hit coming from Schizophrenia"
+    },
+    {
+      "apiname": "TROPHY_ID_SG_KILL_SU_WITH_20_LASER_ATTACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Kryptonian",
+      "description": "Supergirl must defeat Superman after connecting 20 Kryptonian Lasers"
+    },
+    {
+      "apiname": "TROPHY_ID_SU_WIN_WITH_ONLY_LASER_ATTACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skill Gap",
+      "description": "Superman must defeat Green Lantern with the final hit coming from Final Flight"
+    },
+    {
+      "apiname": "TROPHY_ID_WW_WIN_USE_ALL_BUFFS_END_WITH_PRINCESS_POWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hippolyta's Blessing",
+      "description": "Wonder Woman must win the match with the final hit coming from a Meter Burn Lasso of Truth"
+    },
+    {
+      "apiname": "TROPHY_ID_DF_WIN__WITH_LEVEL_3_FINAL_PUNISHMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amu-Let Me Out",
+      "description": "Doctor Fate must defeat any opponent with the final hit coming from Amulet of Anubis"
+    },
+    {
+      "apiname": "TROPHY_ID_GO_10_SECONDS_WITHOUT_BEING_HIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable",
+      "description": "Go 10 seconds of the match without being hit by your opponent"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_BATTLE_SIMULATION_WITH_EVERY_CHARACTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spoiler Alert",
+      "description": "View all character endings in the Battle Simulator"
+    },
+    {
+      "apiname": "TROPHY_ID_COLLECT_200_COMMON_GEAR_PIECES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There's My Pants",
+      "description": "Collect a total of 200 pieces of Common Gear, excluding shaders"
+    },
+    {
+      "apiname": "TROPHY_ID_COLLECT_100_RARE_GEAR_PIECES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What To Wear?",
+      "description": "Collect a total of 100 pieces of Rare Gear, excluding shaders"
+    },
+    {
+      "apiname": "TROPHY_ID_COLLECT_50_EPIC_GEAR_PIECES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hipster",
+      "description": "Collect a total of 50 pieces of Epic Gear, excluding shaders"
+    },
+    {
+      "apiname": "TROPHY_ID_SELL_200_ITEMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Garage Sale",
+      "description": "Sell a total of 250 pieces of gear"
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_5_AI_BATTLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overlord",
+      "description": "Win 5 AI Battle Simulation matches"
+    },
+    {
+      "apiname": "TROPHY_ID_LEVEL_35_PLAYER_EXP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feel The Power",
+      "description": "Reach level 35 in Player XP"
+    },
+    {
+      "apiname": "TROPHY_ID_MAX_LEVEL_ALL_CHARACTERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Of All Trades",
+      "description": "Reach level 20 with all characters"
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_AFTER_THEY_HAVE_90_HEALTH_AND_YOU_HAVE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only A Real Master",
+      "description": "Beat an opponent online while they still have 90% health and you have 10% or less health remaining"
+    },
+    {
+      "apiname": "TROPHY_ID_HQ_DETHRONE_A_KING_WITH_HYENA_ATTACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be Pre-Paired",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_ID_BM_SEND_ALL_GOTHAM_VILLAINS_THROUGH_ARKHAM_TRANSITION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back To Where You Belong",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_WITH_EVERY_VILLAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heathens",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_ID_USE_EVERY_BC_INTERACTION_MATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is Why I Can't Have Nice Things",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_ID_RH_WIN_WITH_GOTHAMS_OUTLAW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Free",
+      "description": "Red Hood must defeat any opponent with the final hit coming from Gotham's Outlaw"
+    },
+    {
+      "apiname": "TROPHY_ID_SF_WIN_WITH_STARRY_NIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Get Caught Up in the Starfire",
+      "description": "Starfire must defeat any opponent with the final hit coming from Starry Night"
+    },
+    {
+      "apiname": "TROPHY_ID_SZ_CONNECT_10_KLONES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer Klones",
+      "description": "Sub-Zero must connect 10 Klones during a match"
+    },
+    {
+      "apiname": "TROPHY_ID_BN_WIN_WITH_SPEARED_AND_SEARED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Fried",
+      "description": "Black Manta must defeat any opponent with the final hit coming from Speared and Seared"
+    },
+    {
+      "apiname": "TROPHY_ID_RA_SUMMON_KID_THUNDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kidd Thunder",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_ID_HB_WIN_WITH_FINAL_RESTING_PLACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Hell",
+      "description": "Hellboy must defeat any opponent with the final hit coming from Final Resting Place"
+    },
+    {
+      "apiname": "TROPHY_ID_AM_WIN_WITH_ATOM_LUNGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small but Mighty",
+      "description": "Atom must defeat any opponent with the final hit coming from an Atom Lunge"
+    },
+    {
+      "apiname": "TROPHY_ID_EC_WIN_WITH_SUPERMOVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Inside",
+      "description": "Enchantress must defeat any opponent with the final hit coming from Out of Body Experience"
+    },
+    {
+      "apiname": "TROPHY_ID_WIN_WITH_EACH_NINJA_TURTLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turtle Time",
+      "description": "Win a match with each Teenage Mutant Ninja Turtle"
+    },
+    {
+      "apiname": "TROPHY_ID_DS_WIN_AND_USE_EACH_PARADEMON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Minions",
+      "description": "Darkseid must defeat any opponent after summoning each Parademon at least once"
+    },
+    {
+      "apiname": "TROPHY_ID_COMPLETE_3_TUTORIAL_CATEGORIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Push Yourself Harder",
+      "description": "Complete any 3 categories in Advanced Training or Strategy Training"
+    },
+    {
+      "apiname": "TROPHY_ID_GET_LEVEL_30_CHARACTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Growing Stronger",
+      "description": "Reach level 30 with any character"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3513600,
+  "game": "女吊",
+  "total": 11,
+  "unlocked": 4,
+  "percent": 36.4,
+  "updated_at_utc": "2026-09-15T06:53:31.807470+00:00",
+  "achievements": [
+    {
+      "apiname": "CH_00_FINISHED",
+      "achieved": 1,
+      "unlocktime": 1781879669,
+      "name": "开场",
+      "description": "完成序章  "
+    },
+    {
+      "apiname": "CH_01_FINISHED",
+      "achieved": 1,
+      "unlocktime": 1781881036,
+      "name": "老屋",
+      "description": "完成章节一的故事  "
+    },
+    {
+      "apiname": "CH_02_FINISHED",
+      "achieved": 1,
+      "unlocktime": 1781883782,
+      "name": "结亲",
+      "description": "完成章节二的故事 "
+    },
+    {
+      "apiname": "CH_03_FINISHED",
+      "achieved": 1,
+      "unlocktime": 1781888087,
+      "name": "鬼戏",
+      "description": "完成章节三的故事"
+    },
+    {
+      "apiname": "CH_04_FINISHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "家族",
+      "description": "完成章节四的故事"
+    },
+    {
+      "apiname": "CH_05_FINISHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "素绫",
+      "description": "完成章节五的故事"
+    },
+    {
+      "apiname": "CH_06_FINISHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "芍药",
+      "description": "完成章节六的故事"
+    },
+    {
+      "apiname": "END_QINING_LIVED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "宛转世间 轮回生死",
+      "description": ""
+    },
+    {
+      "apiname": "END_QIYU_LIVED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "回头万里 故人长绝",
+      "description": ""
+    },
+    {
+      "apiname": "END_ALL_DEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "流浪生死 常沉苦海",
+      "description": ""
+    },
+    {
+      "apiname": "END_ALL_LIVED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "其生若浮 其死若休",
+      "description": ""
+    }
+  ]
+}

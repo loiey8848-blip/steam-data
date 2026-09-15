@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3483740,
+  "game": "Cast n Chill",
+  "total": 38,
+  "unlocked": 1,
+  "percent": 2.6,
+  "updated_at_utc": "2026-09-15T06:53:31.289047+00:00",
+  "achievements": [
+    {
+      "apiname": "first-catch",
+      "achieved": 1,
+      "unlocktime": 1751648002,
+      "name": "Gone Fishin'",
+      "description": "Catch your first fish."
+    },
+    {
+      "apiname": "buy-upgrade-all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rusty's No.1 Customer",
+      "description": "Buy and upgrade everything in the shop."
+    },
+    {
+      "apiname": "discover-all-fish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Finder",
+      "description": "Discover every species of fish."
+    },
+    {
+      "apiname": "catch-release-all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Whisperer",
+      "description": "Catch and release one of every fish species."
+    },
+    {
+      "apiname": "pat-companion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Friends",
+      "description": "Pat your companion 10 times in one session."
+    },
+    {
+      "apiname": "snooze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nap Time",
+      "description": "Change the time of day."
+    },
+    {
+      "apiname": "attract-multiple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeding Frenzy",
+      "description": "Attract 5 fish to your lure at the same time."
+    },
+    {
+      "apiname": "catch-above-l",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above Board",
+      "description": "Catch an L sized fish without looking under the water surface."
+    },
+    {
+      "apiname": "catch-above-xl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over Achiever",
+      "description": "Catch an XL sized fish without looking under the water surface."
+    },
+    {
+      "apiname": "catch-above-xxl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whoa, Nelly",
+      "description": "Catch an XXL sized fish without looking under the water surface."
+    },
+    {
+      "apiname": "catch-trophy-all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trophy Hunter",
+      "description": "Catch a trophy weight fish for all species."
+    },
+    {
+      "apiname": "walleye-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary White Tip",
+      "description": "Land a big enough Walleye to get on the wall in Rusty's tackle shop."
+    },
+    {
+      "apiname": "common-carp-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Mud King",
+      "description": "Catch the trophy weight Common Carp."
+    },
+    {
+      "apiname": "northern-pike-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Toothy Terror",
+      "description": "Catch the trophy weight Northern Pike."
+    },
+    {
+      "apiname": "muskie-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Water Wolf",
+      "description": "Catch the trophy weight Muskie."
+    },
+    {
+      "apiname": "burbot-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Slime Belly",
+      "description": "Catch the trophy weight Burbot."
+    },
+    {
+      "apiname": "largemouth-bass-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Bucket Mouth",
+      "description": "Land the trophy weight Largemouth Bass."
+    },
+    {
+      "apiname": "lake-trout-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Quiet Giant",
+      "description": "Land the trophy weight Lake Trout."
+    },
+    {
+      "apiname": "cutthroat-trout-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Ember Jaw",
+      "description": "Land the trophy weight Cutthroat Trout."
+    },
+    {
+      "apiname": "atlantic-salmon-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Tide Runner",
+      "description": "Catch the trophy weight Atlantic Salmon."
+    },
+    {
+      "apiname": "chinook-salmon-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Salt King",
+      "description": "Land Ol' Hanks lost trophy weight King Salmon."
+    },
+    {
+      "apiname": "lingcod-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Reef Growler",
+      "description": "Land the trophy weight Lingcod."
+    },
+    {
+      "apiname": "pacific-halibut-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Dock Breaker",
+      "description": "Land the trophy weight Pacific Halibut."
+    },
+    {
+      "apiname": "striped-bass-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Bay Wanderer",
+      "description": "Catch the trophy weight Striped Bass."
+    },
+    {
+      "apiname": "channel-catfish-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Whiskered Warrior",
+      "description": "Land the trophy weight Channel Catfish."
+    },
+    {
+      "apiname": "white-sturgeon-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Land Locked Lunker",
+      "description": "Land the trophy weight White Sturgeon."
+    },
+    {
+      "apiname": "lose-fish-long",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One That Got Away",
+      "description": "Lose a fish after fighting it for 2 minutes."
+    },
+    {
+      "apiname": "catch-again",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's You Again",
+      "description": "Catch a fish again after releasing it."
+    },
+    {
+      "apiname": "catch-with-fish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live Bait",
+      "description": "Catch a fish with another fish."
+    },
+    {
+      "apiname": "drill-hole",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Breaker",
+      "description": "Drill a hole in the ice."
+    },
+    {
+      "apiname": "catch-hole",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hole Dozen",
+      "description": "Catch 12 fish from the same hole."
+    },
+    {
+      "apiname": "tiger-muskie-trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Ice Monster",
+      "description": "Land the trophy weight Tiger Muskie."
+    },
+    {
+      "apiname": "catch-size-species-all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Complete Catch",
+      "description": ""
+    },
+    {
+      "apiname": "clean-pond",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Muckbuster",
+      "description": "Clean all rubbish out of the pond."
+    },
+    {
+      "apiname": "restore-cabin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nailed it",
+      "description": "Restore the cabin to its former glory."
+    },
+    {
+      "apiname": "viewer-watched",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fishwatch",
+      "description": "Leave the fish finder running for 30 minutes."
+    },
+    {
+      "apiname": "max-stocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Packed like Sardines",
+      "description": "Stock the pond to the max."
+    },
+    {
+      "apiname": "catch-stocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What goes around",
+      "description": "Catch your own stocked fish."
+    }
+  ]
+}

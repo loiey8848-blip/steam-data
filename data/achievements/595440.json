@@ -1,0 +1,102 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 595440,
+  "game": "CPU Invaders",
+  "total": 13,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:16.255380+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1",
+      "description": "Clear level 1."
+    },
+    {
+      "apiname": "ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2",
+      "description": "Clear level 2."
+    },
+    {
+      "apiname": "ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "3",
+      "description": "Clear level 3."
+    },
+    {
+      "apiname": "ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "4",
+      "description": "Clear level 4."
+    },
+    {
+      "apiname": "ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5",
+      "description": "Clear level 5."
+    },
+    {
+      "apiname": "ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "6",
+      "description": "Clear level 6."
+    },
+    {
+      "apiname": "ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "7",
+      "description": "Clear level 7."
+    },
+    {
+      "apiname": "ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "8",
+      "description": "Clear level 8."
+    },
+    {
+      "apiname": "ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "9",
+      "description": "Clear level 9."
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10",
+      "description": "Clear level 10."
+    },
+    {
+      "apiname": "ACHIEVEMENT_1000_POINTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1000",
+      "description": "Destroy 1000 Invaders."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3000_POINTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "3000",
+      "description": "Destroy 3000 Invaders."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5000_POINTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5000",
+      "description": "Destroy 5000 Invaders."
+    }
+  ]
+}

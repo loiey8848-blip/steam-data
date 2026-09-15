@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 508200,
+  "game": "Bacon Tales - Between Pigs and Wolves",
+  "total": 11,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:06.398618+00:00",
+  "achievements": [
+    {
+      "apiname": "HeroSoul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero Soul",
+      "description": "Befeat all bosses with all the three heroes"
+    },
+    {
+      "apiname": "Resistance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resistance!",
+      "description": "Do not lose any barricade from level 2 and on"
+    },
+    {
+      "apiname": "FarmLife",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farm Life",
+      "description": ""
+    },
+    {
+      "apiname": "RottenFinger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rotten Finger",
+      "description": "Kill 30 wolves using Piglet Trough"
+    },
+    {
+      "apiname": "QuickTrigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Trigger",
+      "description": "Kill 30 wolves using Cowboy Pig"
+    },
+    {
+      "apiname": "TheGeneral",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The General",
+      "description": "Finish the game without losing at any level"
+    },
+    {
+      "apiname": "Architect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Architect",
+      "description": ""
+    },
+    {
+      "apiname": "Apigalypse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apigalypse!",
+      "description": "Make Bad Wolf vomit Farmer Pig, Builder Pig and Blacksmith Pig zombies."
+    },
+    {
+      "apiname": "SustainablePig",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sustainable Pig",
+      "description": ""
+    },
+    {
+      "apiname": "EagleEye",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle Eye",
+      "description": "Do not use any melee unit from level 5 and on"
+    },
+    {
+      "apiname": "VillageTroffel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Village Troffel",
+      "description": "Kill the Bad Wolf"
+    }
+  ]
+}

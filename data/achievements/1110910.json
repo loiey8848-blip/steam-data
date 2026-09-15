@@ -1,0 +1,270 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1110910,
+  "game": "Mortal Shell",
+  "total": 37,
+  "unlocked": 1,
+  "percent": 2.7,
+  "updated_at_utc": "2026-09-15T06:51:11.762378+00:00",
+  "achievements": [
+    {
+      "apiname": "ForeverAlone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forever Alone",
+      "description": "Beat the game without ever bonding with a shell"
+    },
+    {
+      "apiname": "FaceOff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Face Off",
+      "description": "Defeat Hadern in the tutorial"
+    },
+    {
+      "apiname": "SeekerOfFalseTruths",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeker of False Truths",
+      "description": "Unlock all secret lore"
+    },
+    {
+      "apiname": "FunGuy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fun Guy",
+      "description": "Pick 50 mushrooms"
+    },
+    {
+      "apiname": "StepGoal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Step Goal",
+      "description": "Kill an enemy with bear trap"
+    },
+    {
+      "apiname": "LifeIsSuffering",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life is Suffering",
+      "description": ""
+    },
+    {
+      "apiname": "BrigandLife",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brigand Life",
+      "description": "Waste your life away with Baghead"
+    },
+    {
+      "apiname": "BarsTended",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bars Tended",
+      "description": "Become familiar with all items"
+    },
+    {
+      "apiname": "FleshAndInstinct",
+      "achieved": 1,
+      "unlocktime": 1780885871,
+      "name": "Flesh And Instinct",
+      "description": "Find your first Shell"
+    },
+    {
+      "apiname": "IsThisASparta",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is This a Sparta?",
+      "description": "Kill an enemy by kicking them off a platform"
+    },
+    {
+      "apiname": "BringTheGlandsBacktoMe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bring the Glands Back to Me",
+      "description": ""
+    },
+    {
+      "apiname": "TheGoodTimesareKillingMe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Good Time are Killing Me",
+      "description": ""
+    },
+    {
+      "apiname": "SugarBaby",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sugar Baby",
+      "description": "Spend over 50, 000 Tar in Vlad's Shop"
+    },
+    {
+      "apiname": "Untarnished",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untarnished",
+      "description": "Parry over 100 attacks"
+    },
+    {
+      "apiname": "YouSeemDifferent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Seem Different...",
+      "description": "Unlock all of the shells in the game"
+    },
+    {
+      "apiname": "DifferentKindsOfGrisha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Different Kinds of Grisha",
+      "description": ""
+    },
+    {
+      "apiname": "CrossedTheThreshold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crossed the Threshold",
+      "description": ""
+    },
+    {
+      "apiname": "FadedTheFire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faded the Fire",
+      "description": ""
+    },
+    {
+      "apiname": "MatryrdTheMartyr",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Martyr'd the Matyr",
+      "description": ""
+    },
+    {
+      "apiname": "TragicLoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tragic Loss",
+      "description": ""
+    },
+    {
+      "apiname": "FelledTheGlandfather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Felled the Glandfather",
+      "description": ""
+    },
+    {
+      "apiname": "NailedIt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nailed It",
+      "description": ""
+    },
+    {
+      "apiname": "ItsAMe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a me",
+      "description": ""
+    },
+    {
+      "apiname": "TheNihilist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nihilist",
+      "description": ""
+    },
+    {
+      "apiname": "Purrfect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purrfect",
+      "description": ""
+    },
+    {
+      "apiname": "GatewayDrug",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gateway Drug",
+      "description": "Spend 100,000 tar in The Virtuous Cycle"
+    },
+    {
+      "apiname": "Seedbearer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seedbearer",
+      "description": ""
+    },
+    {
+      "apiname": "TrueNektar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Nektar",
+      "description": ""
+    },
+    {
+      "apiname": "FashionShells",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashion Shells",
+      "description": "Unlock all Shell Shades for The Virtuous Cycle"
+    },
+    {
+      "apiname": "LuteHero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lute Hero",
+      "description": "Max familiarity with all of the game's lutes"
+    },
+    {
+      "apiname": "OPAF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "OP AF",
+      "description": "Acquire 100 instincts in one cycle"
+    },
+    {
+      "apiname": "ChangeOfHeart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Change of Heart",
+      "description": "Return a seed with Hadern in The Virtuous Cycle"
+    },
+    {
+      "apiname": "MasterOfNone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of None",
+      "description": "Acquire all 4 weapon Instincts for the Axatana in one cycle"
+    },
+    {
+      "apiname": "NoLifer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Lifer",
+      "description": "Complete a run in The Virtuous Cycle with the Dark Form Obsidian Shell Shade"
+    },
+    {
+      "apiname": "ThereCanOnlyBeOne",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Can Only Be One",
+      "description": "Beat all variations of the Dark Shells in The Virtuous Cycle"
+    },
+    {
+      "apiname": "TheAnswer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Answer",
+      "description": "Fully Upgrade Hadern's skill tree"
+    },
+    {
+      "apiname": "SomeAssemblyRequired",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Assembly Required",
+      "description": "Transform the Axatana between different modes"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2767030,
+  "game": "Marvel Rivals",
+  "total": 49,
+  "unlocked": 4,
+  "percent": 8.2,
+  "updated_at_utc": "2026-09-15T06:53:01.668389+00:00",
+  "achievements": [
+    {
+      "apiname": "10000004",
+      "achieved": 1,
+      "unlocktime": 1733956358,
+      "name": "Thumbs Up",
+      "description": "Upvote 1 player."
+    },
+    {
+      "apiname": "20000013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vicious Vines",
+      "description": "As Groot, imprison 4 enemies with a single use of Strangling Prison."
+    },
+    {
+      "apiname": "8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Do You",
+      "description": "Use the customizable wheel once."
+    },
+    {
+      "apiname": "3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Star",
+      "description": "Reach level 20."
+    },
+    {
+      "apiname": "10000005",
+      "achieved": 1,
+      "unlocktime": 1733956327,
+      "name": "Onslaught!",
+      "description": "Land a 3-player KO streak."
+    },
+    {
+      "apiname": "20000002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smoke Screen",
+      "description": "As the Punisher, land 3 KOs amidst the smoke of Scourge Grenade in a single game."
+    },
+    {
+      "apiname": "20000009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Get 'Em, Guardians! ",
+      "description": "As Rocket Raccoon, revive the Guardians of the Galaxy members 5 times."
+    },
+    {
+      "apiname": "20000029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family Ties",
+      "description": "As Adam Warlock, forge a soul bond with 3 allies from the Guardians of the Galaxy."
+    },
+    {
+      "apiname": "10000001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inevitable！",
+      "description": "Win 100 matches."
+    },
+    {
+      "apiname": "10000010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assemble!",
+      "description": "Team up with a friend for a match."
+    },
+    {
+      "apiname": "10000009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Modes",
+      "description": "Complete 1 Arcade match."
+    },
+    {
+      "apiname": "20000001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smart Is New Smash",
+      "description": "As Bruce Banner, land 1 KO within 3 seconds of calming down from the Hulk to Banner."
+    },
+    {
+      "apiname": "20000003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Me, My X-Men!",
+      "description": "As Storm, assist X-Men members 10 times."
+    },
+    {
+      "apiname": "20000004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God of Treachery",
+      "description": "As Loki, land one KO by stabbing from behind."
+    },
+    {
+      "apiname": "20000005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perilous Portal",
+      "description": "As Doctor Strange, land 1 terrain KO with the portal."
+    },
+    {
+      "apiname": "20000006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory in Bloom",
+      "description": "As Mantis, assist allies in achieving a team wipe."
+    },
+    {
+      "apiname": "20000007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "West Coast, Best Coast",
+      "description": "As Hawkeye, partner with the Avengers to land 10 KOs."
+    },
+    {
+      "apiname": "20000008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Justice for All! ",
+      "description": "As Captain America, land 3 KOs with a single use of Freedom Charge."
+    },
+    {
+      "apiname": "20000010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terror of the Ten Realms",
+      "description": "As Hela, land a 3-player KO streak in Yggsgard: Yggdrasill Path."
+    },
+    {
+      "apiname": "20000011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Symphony of Light and Dark",
+      "description": "As Cloak & Dagger, assist allies in achieving a team wipe."
+    },
+    {
+      "apiname": "20000012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of the Dead",
+      "description": "As Black Panther, land a 3-player KO streak in the Intergalactic Empire of Wakanda: Hall of Djalia."
+    },
+    {
+      "apiname": "20000014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon's Roar",
+      "description": "As Magik, land 3 KOs within a single transformation into Darkchild."
+    },
+    {
+      "apiname": "20000015",
+      "achieved": 1,
+      "unlocktime": 1733958720,
+      "name": "Punishment of the Moon",
+      "description": "As Moon Knight, hit 4 enemies with a single use of Hand of Khonshu."
+    },
+    {
+      "apiname": "20000016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multiverse Tour",
+      "description": "As Luna Snow, complete a match on 5 maps with different themes."
+    },
+    {
+      "apiname": "20000017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"Ahhh, those tiny claws!\"",
+      "description": "As Squirrel Girl, land 3 KOs with a single use of Unbeatable Squirrel Tsunami."
+    },
+    {
+      "apiname": "20000018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Bites",
+      "description": "As Black Widow, land 3 KOs with critical hits in a single match."
+    },
+    {
+      "apiname": "20000019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Design",
+      "description": "As Iron Man, hit 4 enemies with a single use of Invincible Pulse Cannon."
+    },
+    {
+      "apiname": "20000020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grip of Hunger",
+      "description": "As Venom, snare 4 enemies with a single use of Cellular Corrosion."
+    },
+    {
+      "apiname": "20000021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spider-Sense Tingling!",
+      "description": "As Spider-Man, detect an enemy with Spider-Sense and land a winning counterattack."
+    },
+    {
+      "apiname": "20000022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Homo Superior",
+      "description": "As Magneto, assist Mutant allies 10 times."
+    },
+    {
+      "apiname": "20000023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Mutants",
+      "description": "As Scarlet Witch, take down Mutant enemies 10 times."
+    },
+    {
+      "apiname": "20000024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Justice",
+      "description": "As Thor, strike down 4 enemies with a single use of God of Thunder."
+    },
+    {
+      "apiname": "20000025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arm Race",
+      "description": "As Winter Soldier, land 3 KOs with a single use of Kraken Impact."
+    },
+    {
+      "apiname": "20000026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watch Your Step!",
+      "description": "As Peni Parker, blast 3 enemies with a single use of Arachno-Mine."
+    },
+    {
+      "apiname": "20000027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vengeance for the Milano!",
+      "description": "As Star-Lord, land 10 KOs with assists from the Guardians of the Galaxy."
+    },
+    {
+      "apiname": "20000028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aquatic Assault",
+      "description": "As Namor, summon Monstro Spawn to land 10 KOs in a single game."
+    },
+    {
+      "apiname": "20000030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snack Attack!",
+      "description": "As Jeff the Land Shark, swallow 4 enemies with a single use of It's Jeff!"
+    },
+    {
+      "apiname": "20000031",
+      "achieved": 1,
+      "unlocktime": 1733956327,
+      "name": "Way of the Butterfly",
+      "description": "As Psylocke, contest the mission area for 60 seconds in a single match."
+    },
+    {
+      "apiname": "20000032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rage Uncaged",
+      "description": "As Wolverine, land 3 KOs with a single use of Last Stand."
+    },
+    {
+      "apiname": "20000033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might of Fuxi",
+      "description": "As Iron Fist, land 3 KOs with a single use of Living Chi."
+    },
+    {
+      "apiname": "20000069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouncing Ideas",
+      "description": "As Mister Fantastic, bounce 5 times with a single use of Brainiac Bounce."
+    },
+    {
+      "apiname": "20000071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lady of the House",
+      "description": "As Invisible Woman, assist the Fantastic Four members 10 times."
+    },
+    {
+      "apiname": "20000067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot & Trending",
+      "description": "As Human Torch, land 3 KOs with a single use of Supernova."
+    },
+    {
+      "apiname": "20000073",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Time Is It?",
+      "description": "As the Thing, knock up 4 enemies with a single use of Clobberin' Time."
+    },
+    {
+      "apiname": "20000077",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Schism from Within",
+      "description": "As Emma Frost, force mutants to move 10 times with Psionic Seduction."
+    },
+    {
+      "apiname": "20000075",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Strings",
+      "description": "As Ultron, take down Avengers members 10 times."
+    },
+    {
+      "apiname": "20000081",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Upon a Phoenix",
+      "description": "As Phoenix, strike 4 enemies with a single Endsong Inferno landing."
+    },
+    {
+      "apiname": "20000079",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Haunts",
+      "description": "As Blade, land a 3-player KO streak in Empire of Eternal Night: Central Park."
+    },
+    {
+      "apiname": "20000083",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hand of Heven",
+      "description": "As Angela, snare 4 enemies with a single use of Heven's Retribution."
+    }
+  ]
+}

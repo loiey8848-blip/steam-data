@@ -1,0 +1,333 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3751260,
+  "game": "The Blood of Dawnwalker",
+  "total": 46,
+  "unlocked": 6,
+  "percent": 13.0,
+  "updated_at_utc": "2026-09-15T06:53:35.896463+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_Selfish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Selfish",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Infamous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Throne of Thorns",
+      "description": "Reach peak Infamy in Vale Sangora."
+    },
+    {
+      "apiname": "ACH_Easier_than_Ever",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uphill Battle",
+      "description": "Complete the entire game by saving people of Laslea on Duelist Difficulty preset."
+    },
+    {
+      "apiname": "ACH_A_Dawnwalker_is_Born",
+      "achieved": 1,
+      "unlocktime": 1789378881,
+      "name": "A Dawnwalker is Born",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Coward",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hero They Deserve",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Right_Fist_of_the_Knyaz",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Right Fist of the Knyaz",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Mad_Khan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mad Khan",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Dark_Mistress",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dark Mistress",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Sins_of_the_Past",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sins of the Past",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Nightbloom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Misery Loves Company",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Always_Hiding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Manumit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Turncoat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Turncoat",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Omen_Bringer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Patricide",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Knyazmaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Knyazmaker",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Folk_Hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Folk Hero",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_In_the_Nick_of_Time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Nick of Time",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Blood_of_Dawnwalker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blood of Dawnwalker",
+      "description": "Finish the story."
+    },
+    {
+      "apiname": "ACH_Master_of_Defence",
+      "achieved": 1,
+      "unlocktime": 1789438216,
+      "name": "Untouchable",
+      "description": "Perform 5 Perfect Blocks in a row."
+    },
+    {
+      "apiname": "ACH_Delivery_Delay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delivery Delay",
+      "description": "Destroy 8 vrakhiri transports."
+    },
+    {
+      "apiname": "ACH_Overkill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better Safe than Sorry",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Burst_like_a_Bubble",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make It Rain",
+      "description": "Cause an enemy to explode using an Active Ability."
+    },
+    {
+      "apiname": "ACH_All_for_Me",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolutely Insatiable",
+      "description": "Have 3 Passive Abilities equipped at the same time."
+    },
+    {
+      "apiname": "ACH_Arbiters_Blade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arbiter's Blade",
+      "description": "Restore St Mihai's sword to its former glory."
+    },
+    {
+      "apiname": "ACH_Arbiters_Regalia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arbiter's Regalia",
+      "description": "Gather all the parts of the Arbiter's set of armour and unlock their full potential."
+    },
+    {
+      "apiname": "ACH_Golden",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gear of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Capture_the_Flag",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capture the Flag",
+      "description": "Tear down all of Brencis's flags."
+    },
+    {
+      "apiname": "ACH_Stunning_Views",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bird's-Eye View",
+      "description": "Climb all the towers and scout the surrounding areas."
+    },
+    {
+      "apiname": "ACH_Primal_Instinct",
+      "achieved": 1,
+      "unlocktime": 1789365029,
+      "name": "Feral Hunger",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Like_Shadow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow Roamer",
+      "description": "Travel 1000 metres using Vampiric Abilities."
+    },
+    {
+      "apiname": "ACH_Dead_Echoes",
+      "achieved": 1,
+      "unlocktime": 1789378401,
+      "name": "Dead Man Talkin'",
+      "description": "Speak with a dead person using the Compel Soul Witchcraft Ability."
+    },
+    {
+      "apiname": "ACH_Master_of_Arms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Arms",
+      "description": "Unlock an Ultimate Perk in the Swordmastery tree."
+    },
+    {
+      "apiname": "ACH_Arch_Warlock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arch Warlock",
+      "description": "Unlock an Ultimate Perk in the Witchcraft tree."
+    },
+    {
+      "apiname": "ACH_Creature_of_the_Night",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creature of the Night",
+      "description": "Unlock an Ultimate Perk in the Vampirism tree."
+    },
+    {
+      "apiname": "ACH_A_Quick_Learner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glass Ceiling",
+      "description": "Reach Level 50."
+    },
+    {
+      "apiname": "ACH_Miser",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miser",
+      "description": "Accumulate 5000 denarii. What are you planning to buy, mate?"
+    },
+    {
+      "apiname": "ACH_Balanced_Diet",
+      "achieved": 1,
+      "unlocktime": 1789364322,
+      "name": "Balanced Diet",
+      "description": "Quench your thirst by drinking 10 animals, humans, or monsters."
+    },
+    {
+      "apiname": "ACH_Practice_Makes_Perfect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastery",
+      "description": "Level up one Swordmastery, Witchcraft, or Vampiric Ability to its full potential."
+    },
+    {
+      "apiname": "ACH_The_Unquenchable_Thirst",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Unquenchable Thirst",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_The_Outcast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Outcast",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Eternal_Bliss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Together Forever",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Tsarinas_Pet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tsarina's Favourite Human",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Where_am_I",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Realmwalker",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Antiquarian",
+      "achieved": 1,
+      "unlocktime": 1789436993,
+      "name": "Antique Aficionado",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_Metropolitan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big-City Living",
+      "description": "Visit the City of Svartrau."
+    },
+    {
+      "apiname": "ACH_Valley_Trotter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tour Guide Training",
+      "description": "Visit all of Vale Sangora's villages."
+    },
+    {
+      "apiname": "ACH_Smuggler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smuggler",
+      "description": "Earn 1000 denarii selling silver."
+    }
+  ]
+}

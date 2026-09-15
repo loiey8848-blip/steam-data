@@ -1,0 +1,347 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 261110,
+  "game": "Killer is Dead",
+  "total": 48,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:47.695278+00:00",
+  "achievements": [
+    {
+      "apiname": "ToasttoForerunner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toast to Forerunner",
+      "description": "Completed Episode 2."
+    },
+    {
+      "apiname": "KidnapperExecuted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kidnapper Executed",
+      "description": "Completed Episode 1."
+    },
+    {
+      "apiname": "AliceinDeadLand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alice in Dead Land",
+      "description": "Completed Episode 3."
+    },
+    {
+      "apiname": "9to1onGoliath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "9 to 1 on Goliath",
+      "description": "Completed Episode 4."
+    },
+    {
+      "apiname": "HadaBadDream",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Had a Bad Dream",
+      "description": "Completed Episode 5."
+    },
+    {
+      "apiname": "NoMoreSpoils",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Spoils",
+      "description": "Completed Episode 6."
+    },
+    {
+      "apiname": "ScratchOneSamurai",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scratch One Samurai",
+      "description": "Completed Episode 7."
+    },
+    {
+      "apiname": "InYourDreams",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Your Dreams",
+      "description": "Completed Episode 8."
+    },
+    {
+      "apiname": "BroughtDowntoSize",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brought Down to Size",
+      "description": "Completed Episode 9."
+    },
+    {
+      "apiname": "TheSkinnyController",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Skinny Controller",
+      "description": "Completed Episode 10."
+    },
+    {
+      "apiname": "Won'tPlayWithYou",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Won't Play With You",
+      "description": "Completed Episode 11."
+    },
+    {
+      "apiname": "MoonKing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moon King",
+      "description": "Completed Episode 12."
+    },
+    {
+      "apiname": "Bryan-ApprovedSniper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bryan-Approved Sniper",
+      "description": "Killed 100 enemies using the \"Head Shot.\""
+    },
+    {
+      "apiname": "BrilliantShoulderThrow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brilliant Shoulder Throw",
+      "description": "Killed an enemy using the \"Burst Rush.\""
+    },
+    {
+      "apiname": "FloatLikeaGadfly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Float Like a Gadfly",
+      "description": "Sliced an enemy upward and finished it in the air."
+    },
+    {
+      "apiname": "SuckLikeaLeech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suck Like a Leech",
+      "description": "Killed an enemy using the \"Burst Rush.\""
+    },
+    {
+      "apiname": "FeelingSoHigh",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feeling So High",
+      "description": "Sliced an enemy upward and finished it in the air."
+    },
+    {
+      "apiname": "HaveYouGotCleanHands?",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have You Got Clean Hands?",
+      "description": "Killed an enemy with an enemy attack."
+    },
+    {
+      "apiname": "SexyManWhoseBloodisDripping",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sexy Man Whose Blood is Dripping",
+      "description": "Increased BLOOD to maximum upgrade level."
+    },
+    {
+      "apiname": "UltimatePhysicalBeauty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Physical Beauty",
+      "description": "Increased HEALTH to maximum upgrade level."
+    },
+    {
+      "apiname": "CashEnoughForLove",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cash Enough For Love",
+      "description": "Have a total of $100 million in cash. "
+    },
+    {
+      "apiname": "PassporttoInfinity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Passport to Infinity",
+      "description": "Changed costume to Ulti-mondo."
+    },
+    {
+      "apiname": "Mondo'sGirlsCollection",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mondo's Girls Collection",
+      "description": "Collected all female costumes."
+    },
+    {
+      "apiname": "PassionateGirl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Passionate Girl",
+      "description": "Made Natalia your prisoner in body and soul."
+    },
+    {
+      "apiname": "GeishaGirl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Geisha Girl",
+      "description": "Made Koharu your prisoner in body and soul."
+    },
+    {
+      "apiname": "Right-HandMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Right-Hand Man",
+      "description": "Increased all Attack and Special skills."
+    },
+    {
+      "apiname": "Left-HandMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Left-Hand Man",
+      "description": "Increased all sub-weapons to maximum upgrade level."
+    },
+    {
+      "apiname": "ScarlettChaser",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarlett Chaser",
+      "description": "Unlocked 6 challenge missions."
+    },
+    {
+      "apiname": "ScarlettStalker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarlett Stalker",
+      "description": "Unlocked 12 challenge missions."
+    },
+    {
+      "apiname": "Scarlett-ApprovedStalker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarlett-Approved Stalker",
+      "description": "Unlocked all challenge missions."
+    },
+    {
+      "apiname": "GigoloBegins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gigolo Begins",
+      "description": "Cleared 6 challenge missions."
+    },
+    {
+      "apiname": "GigoloSideStory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gigolo Side Story",
+      "description": "Cleared 12 challenge missions."
+    },
+    {
+      "apiname": "GigoloMastership",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gigolo Mastership",
+      "description": "Cleared all challenge missions."
+    },
+    {
+      "apiname": "Office'sAffairs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Office's Affairs",
+      "description": "Cleared 3 sub-missions."
+    },
+    {
+      "apiname": "OfficeWorkers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Office Workers",
+      "description": "Cleared 6 sub-missions."
+    },
+    {
+      "apiname": "AssassinsNeverSayDie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassins Never Say Die",
+      "description": "Cleared all sub-missions."
+    },
+    {
+      "apiname": "TheCriminalisDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Criminal is Dead",
+      "description": "Ranked AAA executioner on 12 missions."
+    },
+    {
+      "apiname": "TheManiacisDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Maniac is Dead",
+      "description": "Ranked AAA executioner on 24 missions."
+    },
+    {
+      "apiname": "TheMassMurdererisDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mass Murderer is Dead",
+      "description": "Ranked AAA executioner on 44 missions."
+    },
+    {
+      "apiname": "HappiestManonEarth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happiest Man on Earth",
+      "description": "Received 20 rewards from the beauties."
+    },
+    {
+      "apiname": "KillerattheGateofDawn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer at the Gate of Dawn",
+      "description": "Cleared all episodes on Normal Mode."
+    },
+    {
+      "apiname": "ObscuredbytheMoonlight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obscured by the Moonlight",
+      "description": "Cleared all episodes on Hard Mode."
+    },
+    {
+      "apiname": "DarksideroftheMoon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darksider of the Moon",
+      "description": "Cleared all episodes on Very Hard Mode."
+    },
+    {
+      "apiname": "PerfectJob",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Job",
+      "description": "Cleared all missions."
+    },
+    {
+      "apiname": "ReliableFriends",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reliable Friends",
+      "description": "Got revived by Mika 20 times."
+    },
+    {
+      "apiname": "GiftCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gift Collector",
+      "description": "Gave a present 50 times or more."
+    },
+    {
+      "apiname": "LuckyGirl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Girl",
+      "description": "Made Scarlett your prisoner in body and soul."
+    },
+    {
+      "apiname": "PerfectKiller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Killer",
+      "description": "All achievements completed"
+    }
+  ]
+}

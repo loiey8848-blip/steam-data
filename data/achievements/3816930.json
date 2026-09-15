@@ -1,0 +1,522 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3816930,
+  "game": "Grind Survivors",
+  "total": 73,
+  "unlocked": 73,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:36.946535+00:00",
+  "achievements": [
+    {
+      "apiname": "BabySteps1",
+      "achieved": 1,
+      "unlocktime": 1774026980,
+      "name": "Baby Steps 1",
+      "description": "Pickup 5 Common weapons"
+    },
+    {
+      "apiname": "Education1",
+      "achieved": 1,
+      "unlocktime": 1774026776,
+      "name": "Education 1",
+      "description": "Reach level 5"
+    },
+    {
+      "apiname": "Education2",
+      "achieved": 1,
+      "unlocktime": 1774027192,
+      "name": "Education 2",
+      "description": "Reach level 10"
+    },
+    {
+      "apiname": "BabySteps2",
+      "achieved": 1,
+      "unlocktime": 1774028500,
+      "name": "Baby Steps 2",
+      "description": "Play run with the weapon rarity Uncommon or higher"
+    },
+    {
+      "apiname": "BabySteps3",
+      "achieved": 1,
+      "unlocktime": 1774028500,
+      "name": "Baby Steps 3",
+      "description": "Play run with the weapon rarity Rare or higher"
+    },
+    {
+      "apiname": "BurnedForest1",
+      "achieved": 1,
+      "unlocktime": 1774028500,
+      "name": "Burned Forest 1",
+      "description": "Beat Difficulty 1 in Burned Forest"
+    },
+    {
+      "apiname": "Education3",
+      "achieved": 1,
+      "unlocktime": 1774028500,
+      "name": "Education 3",
+      "description": "Reach level 15"
+    },
+    {
+      "apiname": "Education4",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Education 4",
+      "description": "Reach level 20"
+    },
+    {
+      "apiname": "BurnedForest2",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Burned Forest 2",
+      "description": "Beat Difficulty 2 in Burned Forest"
+    },
+    {
+      "apiname": "BurnedForest3",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Burned Forest 3",
+      "description": "Beat Difficulty 3 in Burned Forest"
+    },
+    {
+      "apiname": "BurnedForest4",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Burned Forest 4",
+      "description": "Beat Difficulty 4 in Burned Forest"
+    },
+    {
+      "apiname": "BurnedForest5",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Burned Forest 5",
+      "description": "Beat Difficulty 5 in Burned Forest"
+    },
+    {
+      "apiname": "Mage",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Mage",
+      "description": "Pick all 4 status effect perks in a single match"
+    },
+    {
+      "apiname": "InfiniteBullet",
+      "achieved": 1,
+      "unlocktime": 1774027922,
+      "name": "Infinite Bullet",
+      "description": "Reach 7 bounces"
+    },
+    {
+      "apiname": "SpeedOfLight",
+      "achieved": 1,
+      "unlocktime": 1774178221,
+      "name": "Speed of Light",
+      "description": "Reach a speed of 13 m/s"
+    },
+    {
+      "apiname": "Masochist",
+      "achieved": 1,
+      "unlocktime": 1774027212,
+      "name": "Masochist",
+      "description": "Lose 100 HP"
+    },
+    {
+      "apiname": "LongJump",
+      "achieved": 1,
+      "unlocktime": 1774177606,
+      "name": "Long Jump",
+      "description": "Use dash 333 times in a single match"
+    },
+    {
+      "apiname": "ChainKiller",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Chain Killer",
+      "description": "Kill 200 enemies without reloading"
+    },
+    {
+      "apiname": "Tank",
+      "achieved": 1,
+      "unlocktime": 1776100077,
+      "name": "Tank",
+      "description": "Reach 25 HP"
+    },
+    {
+      "apiname": "Immortal",
+      "achieved": 1,
+      "unlocktime": 1774177277,
+      "name": "Immortal",
+      "description": "Kill 1000 enemies while being at 1 HP"
+    },
+    {
+      "apiname": "SoulHarvester",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Soul Harvester",
+      "description": "Gain or restore 15 shields in a single match"
+    },
+    {
+      "apiname": "DivineLoop",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Divine Loop",
+      "description": "Restore ability in 1 second"
+    },
+    {
+      "apiname": "Phoenix",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Phoenix",
+      "description": "Deal 20m Fire damage"
+    },
+    {
+      "apiname": "Inferno",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Inferno",
+      "description": "Deal 200m Fire damage"
+    },
+    {
+      "apiname": "Pyromaniac",
+      "achieved": 1,
+      "unlocktime": 1774177350,
+      "name": "Pyromaniac",
+      "description": "Deal 2b Fire damage"
+    },
+    {
+      "apiname": "Charge",
+      "achieved": 1,
+      "unlocktime": 1776180422,
+      "name": "Charge",
+      "description": "Kill 5000 enemies using Dash"
+    },
+    {
+      "apiname": "LuckyShot",
+      "achieved": 1,
+      "unlocktime": 1774178738,
+      "name": "Lucky Shot",
+      "description": "Reach chance of dropping Purple XP Orb over 100%"
+    },
+    {
+      "apiname": "HeavyArsenal",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Heavy Arsenal",
+      "description": "Reach 10 Projectiles"
+    },
+    {
+      "apiname": "Wormhole",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Wormhole",
+      "description": "Reach 20m Range"
+    },
+    {
+      "apiname": "TreasureHunter",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Treasure Hunter",
+      "description": "Pick up 10.000 Ashes in a single match"
+    },
+    {
+      "apiname": "Eel",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Eel",
+      "description": "Deal 20m Electrify damage"
+    },
+    {
+      "apiname": "TeslaBoy",
+      "achieved": 1,
+      "unlocktime": 1774179482,
+      "name": "Tesla Boy",
+      "description": "Deal 200m Electrify damage"
+    },
+    {
+      "apiname": "Thor",
+      "achieved": 1,
+      "unlocktime": 1774804313,
+      "name": "Thor",
+      "description": "Deal 2b Electrify damage"
+    },
+    {
+      "apiname": "Penguin",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Penguin",
+      "description": "Deal 20m Chill damage"
+    },
+    {
+      "apiname": "IceAge",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Ice Age",
+      "description": "Deal 200m Chill damage"
+    },
+    {
+      "apiname": "ChillGuy",
+      "achieved": 1,
+      "unlocktime": 1774519431,
+      "name": "Chill Guy",
+      "description": "Deal 2b Chill damage"
+    },
+    {
+      "apiname": "Witch",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Witch",
+      "description": "Deal 20m Curse damage"
+    },
+    {
+      "apiname": "DarkArts",
+      "achieved": 1,
+      "unlocktime": 1774263135,
+      "name": "Dark Arts",
+      "description": "Deal 200m Curse damage"
+    },
+    {
+      "apiname": "WitchDoctor",
+      "achieved": 1,
+      "unlocktime": 1774708419,
+      "name": "Witch Doctor",
+      "description": "Deal 2b Curse damage"
+    },
+    {
+      "apiname": "HellOnEarth",
+      "achieved": 1,
+      "unlocktime": 1774028500,
+      "name": "Hell On Earth",
+      "description": "Let the Hellweaver burn to the ground"
+    },
+    {
+      "apiname": "Cartridge",
+      "achieved": 1,
+      "unlocktime": 1776058341,
+      "name": "Cartridge",
+      "description": "Reach 200 Ammo"
+    },
+    {
+      "apiname": "Spear",
+      "achieved": 1,
+      "unlocktime": 1776086701,
+      "name": "Spear",
+      "description": "Pierce 50 enemies with a single projectile"
+    },
+    {
+      "apiname": "Tricks",
+      "achieved": 1,
+      "unlocktime": 1774180718,
+      "name": "Tricks",
+      "description": "Kill Troll with the bullet that bounced in him"
+    },
+    {
+      "apiname": "Bastion1",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Bastion 1",
+      "description": "Beat Difficulty 1 in Bastion"
+    },
+    {
+      "apiname": "Bastion2",
+      "achieved": 1,
+      "unlocktime": 1774109094,
+      "name": "Bastion 2",
+      "description": "Beat Difficulty 2 in Bastion"
+    },
+    {
+      "apiname": "Bastion3",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Bastion 3",
+      "description": "Beat Difficulty 3 in Bastion"
+    },
+    {
+      "apiname": "Bastion4",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Bastion 4",
+      "description": "Beat Difficulty 4 in Bastion"
+    },
+    {
+      "apiname": "Bastion5",
+      "achieved": 1,
+      "unlocktime": 1774154915,
+      "name": "Bastion 5",
+      "description": "Beat Difficulty 5 in Bastion"
+    },
+    {
+      "apiname": "TeslagunMastery",
+      "achieved": 1,
+      "unlocktime": 1774519799,
+      "name": "Teslagun Mastery",
+      "description": "Kill 100.000 enemies with Teslagun"
+    },
+    {
+      "apiname": "ShotgunMastery",
+      "achieved": 1,
+      "unlocktime": 1776126987,
+      "name": "Shotgun Mastery",
+      "description": "Kill 100.000 enemies with Shotgun"
+    },
+    {
+      "apiname": "SawLauncherMastery",
+      "achieved": 1,
+      "unlocktime": 1776160888,
+      "name": "SawLauncher Mastery",
+      "description": "Kill 100.000 enemies with Saw Launcher"
+    },
+    {
+      "apiname": "SMGMastery",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "SMG Mastery",
+      "description": "Kill 10.000 enemies with SMG"
+    },
+    {
+      "apiname": "RevolverMastery",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Revolver Mastery",
+      "description": "Kill 10.000 enemies with Revolver"
+    },
+    {
+      "apiname": "AssaultRifleMastery",
+      "achieved": 1,
+      "unlocktime": 1776140653,
+      "name": "Assault Rifle Mastery",
+      "description": "Kill 100.000 enemies with Assault Rifle"
+    },
+    {
+      "apiname": "SwordMastery",
+      "achieved": 1,
+      "unlocktime": 1776099613,
+      "name": "Sword Mastery",
+      "description": "Kill 100.000 enemies with Sword"
+    },
+    {
+      "apiname": "LaserMastery",
+      "achieved": 1,
+      "unlocktime": 1776086701,
+      "name": "Laser Mastery",
+      "description": "Kill 100.000 enemies with Laser Launcher"
+    },
+    {
+      "apiname": "SolaraAwakening",
+      "achieved": 1,
+      "unlocktime": 1776126996,
+      "name": "Solara Awakening",
+      "description": "Kill 100.000 enemies with Railgun"
+    },
+    {
+      "apiname": "CascadeAwakening",
+      "achieved": 1,
+      "unlocktime": 1776102832,
+      "name": "Cascade Awakening",
+      "description": "Kill 100.000 enemies during Bulletstorm"
+    },
+    {
+      "apiname": "RivenAwakening",
+      "achieved": 1,
+      "unlocktime": 1776216129,
+      "name": "Riven Awakening",
+      "description": "Kill 100.000 enemies during Berserk"
+    },
+    {
+      "apiname": "VantaAwakening",
+      "achieved": 1,
+      "unlocktime": 1776225707,
+      "name": "Vanta Awakening",
+      "description": "Kill 100.000 enemies with All Mighty Push"
+    },
+    {
+      "apiname": "Infinity1",
+      "achieved": 1,
+      "unlocktime": 1774181596,
+      "name": "Infinity 1",
+      "description": "Survive 40 minutes in Burned Forest Infinity Mode"
+    },
+    {
+      "apiname": "Infinity2",
+      "achieved": 1,
+      "unlocktime": 1774521139,
+      "name": "Infinity 2",
+      "description": "Survive 40 minutes in Bastion Infinity Mode"
+    },
+    {
+      "apiname": "Infinity3",
+      "achieved": 1,
+      "unlocktime": 1774708419,
+      "name": "Infinity 3",
+      "description": "Survive 40 minutes in Scorched Grounds Infinity Mode"
+    },
+    {
+      "apiname": "FireWithFire",
+      "achieved": 1,
+      "unlocktime": 1774517580,
+      "name": "FireWithFire",
+      "description": "Kill 1000 Morters with Explosions"
+    },
+    {
+      "apiname": "Wrath",
+      "achieved": 1,
+      "unlocktime": 1776177737,
+      "name": "Wrath",
+      "description": "Strike Baldur with Lightning Bolt 1000 times"
+    },
+    {
+      "apiname": "QuadBarrel",
+      "achieved": 1,
+      "unlocktime": 1774708419,
+      "name": "Quad Barrel",
+      "description": "Kill 4 double barrels at the same time"
+    },
+    {
+      "apiname": "Shieldbreaker",
+      "achieved": 1,
+      "unlocktime": 1776186909,
+      "name": "Shieldbreaker",
+      "description": "Break 5.000 enemies' shields"
+    },
+    {
+      "apiname": "ScorchedGrounds1",
+      "achieved": 1,
+      "unlocktime": 1774178344,
+      "name": "Scorched Grounds 1",
+      "description": "Beat Difficulty 1 in Scorched Grounds"
+    },
+    {
+      "apiname": "ScorchedGrounds2",
+      "achieved": 1,
+      "unlocktime": 1774263135,
+      "name": "Scorched Grounds 2",
+      "description": "Beat Difficulty 2 in Scorched Grounds"
+    },
+    {
+      "apiname": "ScorchedGrounds3",
+      "achieved": 1,
+      "unlocktime": 1774263135,
+      "name": "Scorched Grounds 3",
+      "description": "Beat Difficulty 3 in Scorched Grounds"
+    },
+    {
+      "apiname": "ScorchedGrounds4",
+      "achieved": 1,
+      "unlocktime": 1774517580,
+      "name": "Scorched Grounds 4",
+      "description": "Beat Difficulty 4 in Scorched Grounds"
+    },
+    {
+      "apiname": "ScorchedGrounds5",
+      "achieved": 1,
+      "unlocktime": 1774517580,
+      "name": "Scorched Grounds 5",
+      "description": "Beat Difficulty 5 in Scorched Grounds"
+    },
+    {
+      "apiname": "Corruption",
+      "achieved": 1,
+      "unlocktime": 1774075582,
+      "name": "Corruption",
+      "description": "Destroy uncleaned Altar with Arena"
+    }
+  ]
+}

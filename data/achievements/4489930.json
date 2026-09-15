@@ -1,0 +1,599 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4489930,
+  "game": "Memory Brew: Tales of Underworld",
+  "total": 84,
+  "unlocked": 84,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:39.757268+00:00",
+  "achievements": [
+    {
+      "apiname": "SoupMengPo",
+      "achieved": 1,
+      "unlocktime": 1787814734,
+      "name": "孟婆特调",
+      "description": "经典地府味，没有回头客"
+    },
+    {
+      "apiname": "SoupZhiZha",
+      "achieved": 1,
+      "unlocktime": 1787845083,
+      "name": "纸扎杜康",
+      "description": "何以解忧？唯有杜康"
+    },
+    {
+      "apiname": "SoupXingHong",
+      "achieved": 1,
+      "unlocktime": 1787907937,
+      "name": "猩红毒吻",
+      "description": "最鲜艳的往往也是最致命的"
+    },
+    {
+      "apiname": "SoupJiRi",
+      "achieved": 1,
+      "unlocktime": 1787815475,
+      "name": "忌日快乐",
+      "description": "啼哭而生众人喜，含笑而死众人悲"
+    },
+    {
+      "apiname": "SoupSanSheng",
+      "achieved": 1,
+      "unlocktime": 1787908306,
+      "name": "三生石酿",
+      "description": "缘起缘落皆有因，缘聚缘散终有时"
+    },
+    {
+      "apiname": "SoupWangChuang",
+      "achieved": 1,
+      "unlocktime": 1787845965,
+      "name": "忘川河畔",
+      "description": "在忘川发生的事情，就留在忘川"
+    },
+    {
+      "apiname": "SoupHuangQuan",
+      "achieved": 1,
+      "unlocktime": 1787815174,
+      "name": "黄泉邂逅",
+      "description": "错误的时间遇上对的人"
+    },
+    {
+      "apiname": "SoupZouMa",
+      "achieved": 1,
+      "unlocktime": 1787845551,
+      "name": "走马观灯",
+      "description": "生活两头，分别通向死亡和艺术"
+    },
+    {
+      "apiname": "SoupShiEr",
+      "achieved": 1,
+      "unlocktime": 1787846238,
+      "name": "十二时辰",
+      "description": "拥有的记忆越多，便活得越长"
+    },
+    {
+      "apiname": "SoupLunHui",
+      "achieved": 1,
+      "unlocktime": 1787845246,
+      "name": "轮回长路",
+      "description": "条条大路通黄泉"
+    },
+    {
+      "apiname": "SoupFengDu",
+      "achieved": 1,
+      "unlocktime": 1787846351,
+      "name": "酆都物语",
+      "description": "生是打工人，死是公务魂"
+    },
+    {
+      "apiname": "SoupEYun",
+      "achieved": 1,
+      "unlocktime": 1787845432,
+      "name": "厄运呢喃",
+      "description": "厉鬼藏在细节里"
+    },
+    {
+      "apiname": "SoupChunYu",
+      "achieved": 1,
+      "unlocktime": 1787908289,
+      "name": "纯狱风情",
+      "description": "痛，太痛了，狱火在燃烧！"
+    },
+    {
+      "apiname": "SoupGuanMen",
+      "achieved": 1,
+      "unlocktime": 1787908201,
+      "name": "棺门大吉",
+      "description": "地府三观：魂生观、三界观、轮回观"
+    },
+    {
+      "apiname": "SoupGuiJi",
+      "achieved": 1,
+      "unlocktime": 1787908156,
+      "name": "鬼急跳墙",
+      "description": "阳间版本被称为佛跳墙"
+    },
+    {
+      "apiname": "SoupYiWu",
+      "achieved": 1,
+      "unlocktime": 1787907846,
+      "name": "遗物回声",
+      "description": "物逝魂飞试试修"
+    },
+    {
+      "apiname": "Chap0CG",
+      "achieved": 1,
+      "unlocktime": 1787847406,
+      "name": "欢迎光临孟婆靓汤！",
+      "description": ""
+    },
+    {
+      "apiname": "Chap1CG",
+      "achieved": 1,
+      "unlocktime": 1787909617,
+      "name": "我反对！",
+      "description": ""
+    },
+    {
+      "apiname": "Chap2CG",
+      "achieved": 1,
+      "unlocktime": 1788004794,
+      "name": "丫头，别慌",
+      "description": ""
+    },
+    {
+      "apiname": "Chap3CG",
+      "achieved": 1,
+      "unlocktime": 1788007864,
+      "name": "别碰我们家老大！",
+      "description": ""
+    },
+    {
+      "apiname": "Chap4CG",
+      "achieved": 1,
+      "unlocktime": 1788064953,
+      "name": "本爪也是汤屋一员",
+      "description": ""
+    },
+    {
+      "apiname": "Chap5CG",
+      "achieved": 1,
+      "unlocktime": 1788065391,
+      "name": "吉时已到",
+      "description": ""
+    },
+    {
+      "apiname": "DebutXuanYinShou",
+      "achieved": 1,
+      "unlocktime": 1787814744,
+      "name": "“玄阴兽”爪爪",
+      "description": ""
+    },
+    {
+      "apiname": "DebutMengPo",
+      "achieved": 1,
+      "unlocktime": 1787814780,
+      "name": "“孟婆”望绪",
+      "description": ""
+    },
+    {
+      "apiname": "DebutZuoYouGui",
+      "achieved": 1,
+      "unlocktime": 1787814797,
+      "name": "“左右鬼”鬼中",
+      "description": ""
+    },
+    {
+      "apiname": "DebutShenWenJi",
+      "achieved": 1,
+      "unlocktime": 1787814992,
+      "name": "“呻文姬”烛儿",
+      "description": ""
+    },
+    {
+      "apiname": "DebutDaoLaoWeng",
+      "achieved": 1,
+      "unlocktime": 1787815342,
+      "name": "“刀佬翁”烟叁",
+      "description": ""
+    },
+    {
+      "apiname": "DebutHeiWuChang",
+      "achieved": 1,
+      "unlocktime": 1787815387,
+      "name": "“黑无常”墨玥",
+      "description": ""
+    },
+    {
+      "apiname": "DebutHuaLuoLuo",
+      "achieved": 1,
+      "unlocktime": 1787845160,
+      "name": "“花罗罗”芯蕊",
+      "description": ""
+    },
+    {
+      "apiname": "DebutWuYuQiQi",
+      "achieved": 1,
+      "unlocktime": 1788064537,
+      "name": "“乌羽绮绮”月渡",
+      "description": ""
+    },
+    {
+      "apiname": "DebutMaMian",
+      "achieved": 1,
+      "unlocktime": 1787845829,
+      "name": "“马面”苍骏",
+      "description": ""
+    },
+    {
+      "apiname": "DebutPanTong",
+      "achieved": 1,
+      "unlocktime": 1787846031,
+      "name": "“判童”书厌",
+      "description": ""
+    },
+    {
+      "apiname": "DebutSiGuiTu",
+      "achieved": 1,
+      "unlocktime": 1787845319,
+      "name": "“司归途”赤回",
+      "description": ""
+    },
+    {
+      "apiname": "DebutYuanBi",
+      "achieved": 1,
+      "unlocktime": 1787845122,
+      "name": "“渊笔”魇迦",
+      "description": ""
+    },
+    {
+      "apiname": "DebutHuaPiGui",
+      "achieved": 1,
+      "unlocktime": 1787846286,
+      "name": "“画皮鬼”颜阴",
+      "description": ""
+    },
+    {
+      "apiname": "DebutZhiYingPoPo",
+      "achieved": 1,
+      "unlocktime": 1787847613,
+      "name": "“织影婆婆”离旭",
+      "description": ""
+    },
+    {
+      "apiname": "DebutNiaoZui",
+      "achieved": 1,
+      "unlocktime": 1787907459,
+      "name": "“鸟嘴”夜喙",
+      "description": ""
+    },
+    {
+      "apiname": "DebutTianMuXing",
+      "achieved": 1,
+      "unlocktime": 1788007149,
+      "name": "“天目星”伊元",
+      "description": ""
+    },
+    {
+      "apiname": "DebutTongMingZi",
+      "achieved": 1,
+      "unlocktime": 1787961826,
+      "name": "“瞳明子”明昊",
+      "description": ""
+    },
+    {
+      "apiname": "DebutJueShi",
+      "achieved": 1,
+      "unlocktime": 1787962200,
+      "name": "“嚼仕”冬尾",
+      "description": ""
+    },
+    {
+      "apiname": "DebutZhenLingGong",
+      "achieved": 1,
+      "unlocktime": 1787961994,
+      "name": "“镇灵公”钟馗",
+      "description": ""
+    },
+    {
+      "apiname": "DebutGuiMuNiangNiang",
+      "achieved": 1,
+      "unlocktime": 1788004551,
+      "name": "“鬼母娘娘”魅央央",
+      "description": ""
+    },
+    {
+      "apiname": "DebutMingXiRen",
+      "achieved": 1,
+      "unlocktime": 1787909446,
+      "name": "“冥戏人”虚乐",
+      "description": ""
+    },
+    {
+      "apiname": "DebutJiuTianTongZi",
+      "achieved": 1,
+      "unlocktime": 1788007701,
+      "name": "“酒天童子”外道丸",
+      "description": ""
+    },
+    {
+      "apiname": "DebutBuSuanZi",
+      "achieved": 1,
+      "unlocktime": 1788010615,
+      "name": "“卜算子”十化",
+      "description": ""
+    },
+    {
+      "apiname": "DebutPoZhenZi",
+      "achieved": 1,
+      "unlocktime": 1788064967,
+      "name": "“破阵子”归终",
+      "description": ""
+    },
+    {
+      "apiname": "DebutYanLuoWang",
+      "achieved": 1,
+      "unlocktime": 1788005327,
+      "name": "“阎罗王”狱慈",
+      "description": ""
+    },
+    {
+      "apiname": "DebutBaiWuChang",
+      "achieved": 1,
+      "unlocktime": 1788012319,
+      "name": "“白无常”卿世皓",
+      "description": ""
+    },
+    {
+      "apiname": "DebutMengPo2",
+      "achieved": 1,
+      "unlocktime": 1788065051,
+      "name": "“孟婆”女英",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-1-1",
+      "achieved": 1,
+      "unlocktime": 1788010126,
+      "name": "心刀流奥义",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-1-2",
+      "achieved": 1,
+      "unlocktime": 1788010242,
+      "name": "怨望单2.0",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-1-3",
+      "achieved": 1,
+      "unlocktime": 1788010529,
+      "name": "省略号与感叹号",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-2-1",
+      "achieved": 1,
+      "unlocktime": 1788010987,
+      "name": "婆婆的老道理",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-2-2",
+      "achieved": 1,
+      "unlocktime": 1788011181,
+      "name": "《马儿与鸟儿》·第二季",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-2-3",
+      "achieved": 1,
+      "unlocktime": 1788011340,
+      "name": "最优解之外",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-2-4",
+      "achieved": 1,
+      "unlocktime": 1788011513,
+      "name": "吾已铭记",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-3-1",
+      "achieved": 1,
+      "unlocktime": 1788011779,
+      "name": "父慈女啸",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-3-2",
+      "achieved": 1,
+      "unlocktime": 1788011936,
+      "name": "缘，妙不可言",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-3-3",
+      "achieved": 1,
+      "unlocktime": 1788012296,
+      "name": "我有个朋友",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-3-4",
+      "achieved": 1,
+      "unlocktime": 1788012482,
+      "name": "总不能只分黑白",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-4-1",
+      "achieved": 1,
+      "unlocktime": 1788064272,
+      "name": "走出去与留下来",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-4-2",
+      "achieved": 1,
+      "unlocktime": 1788064434,
+      "name": "温室的花朵",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-4-3",
+      "achieved": 1,
+      "unlocktime": 1788064717,
+      "name": "观察者们",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-4-4",
+      "achieved": 1,
+      "unlocktime": 1788064855,
+      "name": "关于终极答案",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-5-1",
+      "achieved": 1,
+      "unlocktime": 1788064938,
+      "name": "答案师",
+      "description": ""
+    },
+    {
+      "apiname": "Story4-5-2",
+      "achieved": 1,
+      "unlocktime": 1788064994,
+      "name": "抹消者",
+      "description": ""
+    },
+    {
+      "apiname": "Chap0CGGuest",
+      "achieved": 1,
+      "unlocktime": 1787847271,
+      "name": "此处应有奇妙比喻",
+      "description": ""
+    },
+    {
+      "apiname": "Chap1CGGuest",
+      "achieved": 1,
+      "unlocktime": 1787961559,
+      "name": "交杯汤",
+      "description": ""
+    },
+    {
+      "apiname": "Chap2CGGuest",
+      "achieved": 1,
+      "unlocktime": 1788006436,
+      "name": "阴间父女局",
+      "description": ""
+    },
+    {
+      "apiname": "Chap3CGGuest",
+      "achieved": 1,
+      "unlocktime": 1788009936,
+      "name": "从种子开始",
+      "description": ""
+    },
+    {
+      "apiname": "Chap4CGGuest",
+      "achieved": 1,
+      "unlocktime": 1788065027,
+      "name": "暴走双子",
+      "description": ""
+    },
+    {
+      "apiname": "Chap0Over",
+      "achieved": 1,
+      "unlocktime": 1787847415,
+      "name": "试营业季",
+      "description": "给点耐心，熬下去吧"
+    },
+    {
+      "apiname": "Chap1Over",
+      "achieved": 1,
+      "unlocktime": 1787961568,
+      "name": "彼岸花季",
+      "description": "花语：无可救药的爱情"
+    },
+    {
+      "apiname": "Chap2Over",
+      "achieved": 1,
+      "unlocktime": 1788006445,
+      "name": "罂粟花季",
+      "description": "花语：相爱相杀"
+    },
+    {
+      "apiname": "Chap3Over",
+      "achieved": 1,
+      "unlocktime": 1788009945,
+      "name": "水晶兰季",
+      "description": "花语：纯洁而真诚，不容玷污"
+    },
+    {
+      "apiname": "Chap4Over",
+      "achieved": 1,
+      "unlocktime": 1788065036,
+      "name": "曼陀罗季",
+      "description": "花语：向死而生，又入轮回"
+    },
+    {
+      "apiname": "Chap0Comic",
+      "achieved": 1,
+      "unlocktime": 1787814619,
+      "name": "《白衣剑客与黑面恶鬼》",
+      "description": ""
+    },
+    {
+      "apiname": "Chap1Comic",
+      "achieved": 1,
+      "unlocktime": 1787907982,
+      "name": "《马儿与鸟儿》",
+      "description": ""
+    },
+    {
+      "apiname": "Chap2Comic",
+      "achieved": 1,
+      "unlocktime": 1788005990,
+      "name": "《怪物》",
+      "description": ""
+    },
+    {
+      "apiname": "Chap3Comic",
+      "achieved": 1,
+      "unlocktime": 1788009592,
+      "name": "《伊元与树》",
+      "description": ""
+    },
+    {
+      "apiname": "Chap4Comic",
+      "achieved": 1,
+      "unlocktime": 1788065010,
+      "name": "《归终与鬼中》",
+      "description": ""
+    },
+    {
+      "apiname": "Chap5Comic",
+      "achieved": 1,
+      "unlocktime": 1788065123,
+      "name": "《孟婆的故事》",
+      "description": ""
+    },
+    {
+      "apiname": "Staff",
+      "achieved": 1,
+      "unlocktime": 1788065488,
+      "name": "忘陈莫急",
+      "description": "通关《孟婆靓汤》"
+    },
+    {
+      "apiname": "AllClear",
+      "achieved": 1,
+      "unlocktime": 1788065488,
+      "name": "孟婆靓汤",
+      "description": "获取《孟婆靓汤》所有成就，你就是汤达人！"
+    }
+  ]
+}

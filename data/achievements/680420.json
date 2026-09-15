@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 680420,
+  "game": "OUTRIDERS",
+  "total": 52,
+  "unlocked": 30,
+  "percent": 57.7,
+  "updated_at_utc": "2026-09-15T06:50:26.450685+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_story_1",
+      "achieved": 1,
+      "unlocktime": 1619028572,
+      "name": "Awoken to a Nightmare",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_2",
+      "achieved": 1,
+      "unlocktime": 1619032834,
+      "name": "In Rode A Hero",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_3",
+      "achieved": 1,
+      "unlocktime": 1619085981,
+      "name": "Wavelengths and Wishes",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_4",
+      "achieved": 1,
+      "unlocktime": 1619110385,
+      "name": "One Way Ride",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_5",
+      "achieved": 1,
+      "unlocktime": 1619111756,
+      "name": "Malpractice",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_6",
+      "achieved": 1,
+      "unlocktime": 1619113284,
+      "name": "Breaking the Seal",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_7",
+      "achieved": 1,
+      "unlocktime": 1619114463,
+      "name": "Fatherhood Ain't Easy, Boss",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_8",
+      "achieved": 1,
+      "unlocktime": 1619116714,
+      "name": "Descent to Fury",
+      "description": ""
+    },
+    {
+      "apiname": "ach_story_end",
+      "achieved": 1,
+      "unlocktime": 1619119539,
+      "name": "One Last Chance",
+      "description": ""
+    },
+    {
+      "apiname": "ach_collector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patron of the Past",
+      "description": "Complete the Historian questline."
+    },
+    {
+      "apiname": "ach_bounty_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hand of Death",
+      "description": "Complete the Wanted questline."
+    },
+    {
+      "apiname": "ach_monster_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Game Hunter",
+      "description": "Complete the Hunter questline."
+    },
+    {
+      "apiname": "ach_hatch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Burdens We Bear",
+      "description": "Complete \"The Outrider's Legacy\"."
+    },
+    {
+      "apiname": "ach_sidequests_any",
+      "achieved": 1,
+      "unlocktime": 1619030970,
+      "name": "Urgent Task",
+      "description": "Complete a side quest."
+    },
+    {
+      "apiname": "ach_sidequests_milestone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multitasking",
+      "description": "Complete 25 side quests."
+    },
+    {
+      "apiname": "ach_sidequests_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squaretasking",
+      "description": "Complete all side quests."
+    },
+    {
+      "apiname": "ach_kills_1",
+      "achieved": 1,
+      "unlocktime": 1619159500,
+      "name": "Overtime at the Morgue",
+      "description": "Kill 3500 enemies."
+    },
+    {
+      "apiname": "ach_kills_2",
+      "achieved": 1,
+      "unlocktime": 1619598457,
+      "name": "Gravedigger's BFF",
+      "description": "Kill 7500 enemies."
+    },
+    {
+      "apiname": "ach_total_damage",
+      "achieved": 1,
+      "unlocktime": 1619091291,
+      "name": "Snap of the Fingers",
+      "description": "Deal a total of 1,000,000 damage."
+    },
+    {
+      "apiname": "ach_killstreak",
+      "achieved": 1,
+      "unlocktime": 1619111028,
+      "name": "Misfortune Loves Company",
+      "description": "Kill 10 enemies with no more than 2 seconds between each kill."
+    },
+    {
+      "apiname": "ach_kill_with_statuses",
+      "achieved": 1,
+      "unlocktime": 1619153214,
+      "name": "Coup de Grâce",
+      "description": "Kill an enemy afflicted with at least 4 different status effects."
+    },
+    {
+      "apiname": "ach_miniboss_status_kill",
+      "achieved": 1,
+      "unlocktime": 1619181840,
+      "name": "Clash of the Altered",
+      "description": "Kill 5 Elites using skills only."
+    },
+    {
+      "apiname": "ach_challenge_outer",
+      "achieved": 1,
+      "unlocktime": 1619184422,
+      "name": "Hitting the Jackpot",
+      "description": "Kill 1000 enemies in Expeditions."
+    },
+    {
+      "apiname": "ach_enhanced_skill",
+      "achieved": 1,
+      "unlocktime": 1619157242,
+      "name": "Ace in the Hole",
+      "description": "Use a skill enhanced by 4 different mods."
+    },
+    {
+      "apiname": "ach_melee_milestone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fistbump",
+      "description": "Kill a total of 50 enemies with any Melee skill."
+    },
+    {
+      "apiname": "ach_character_level_1",
+      "achieved": 1,
+      "unlocktime": 1619064347,
+      "name": "Fortune Favors the Bold",
+      "description": "Reach character level 10."
+    },
+    {
+      "apiname": "ach_character_level_2",
+      "achieved": 1,
+      "unlocktime": 1619157983,
+      "name": "Leave Humanity Behind",
+      "description": "Reach character level 30."
+    },
+    {
+      "apiname": "ach_class_tree_any",
+      "achieved": 1,
+      "unlocktime": 1619032416,
+      "name": "A Gathering Storm",
+      "description": "Unlock a class tree node."
+    },
+    {
+      "apiname": "ach_class_tree_branch",
+      "achieved": 1,
+      "unlocktime": 1619116851,
+      "name": "Surpassing the Tempest",
+      "description": "Master a branch of the class tree for any class."
+    },
+    {
+      "apiname": "ach_item_trade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Bargainer",
+      "description": "Sell 300 items."
+    },
+    {
+      "apiname": "ach_item_scrap",
+      "achieved": 1,
+      "unlocktime": 1619113188,
+      "name": "One Man's Junk...",
+      "description": "Dismantle 300 items."
+    },
+    {
+      "apiname": "ach_crafting_improve",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Potential",
+      "description": "Use crafting to improve the rarity of 15 items."
+    },
+    {
+      "apiname": "ach_crafting_exchange",
+      "achieved": 1,
+      "unlocktime": 1619124185,
+      "name": "Extreme Engineering",
+      "description": "Use crafting to replace 10 item mods."
+    },
+    {
+      "apiname": "ach_mod_unlock_milestone",
+      "achieved": 1,
+      "unlocktime": 1619189484,
+      "name": "Inventor's Almanac",
+      "description": "Unlock 125 unique weapon and armor mods for crafting."
+    },
+    {
+      "apiname": "ach_legendary_item",
+      "achieved": 1,
+      "unlocktime": 1619119617,
+      "name": "Spoils of War",
+      "description": "Equip a legendary item."
+    },
+    {
+      "apiname": "ach_equipment_milestone",
+      "achieved": 1,
+      "unlocktime": 1619189225,
+      "name": "Legacy of Enoch",
+      "description": "Equip a character with epic or legendary items only."
+    },
+    {
+      "apiname": "ach_harvest_locations",
+      "achieved": 1,
+      "unlocktime": 1619110234,
+      "name": "Prospector",
+      "description": "Mine ore from a deposit 30 times."
+    },
+    {
+      "apiname": "ach_collectibles_1",
+      "achieved": 1,
+      "unlocktime": 1619111788,
+      "name": "Knowledge is Power",
+      "description": "Fill in 150 journal pages."
+    },
+    {
+      "apiname": "ach_collectibles_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One for the Books",
+      "description": "Fill in 300 journal pages."
+    },
+    {
+      "apiname": "ach_accolades_class_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Classy",
+      "description": "Complete the highest tier of 4 class-related Accolades for any class."
+    },
+    {
+      "apiname": "ach_accolades_class_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outrider, First Class",
+      "description": "Complete all class-related Accolades for any class."
+    },
+    {
+      "apiname": "ach_accolades_1",
+      "achieved": 1,
+      "unlocktime": 1619119138,
+      "name": "Been There, Done That...",
+      "description": "Reach Accolade level 10."
+    },
+    {
+      "apiname": "ach_accolades_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Been Everywhere, Done It All",
+      "description": "Reach Accolade level 20."
+    },
+    {
+      "apiname": "ach_ae_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Take the Pod",
+      "description": "Complete all New Horizon Expeditions."
+    },
+    {
+      "apiname": "ach_ae_spider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Half of Every Married Couple",
+      "description": "Dispose of the Acari in Molten Depths while playing in a duo."
+    },
+    {
+      "apiname": "ach_ae_easteregg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Button Mashing",
+      "description": "Interfere with an experiment in The Marshal's Complex."
+    },
+    {
+      "apiname": "ach_gauss_story_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Court Marshal",
+      "description": "Grant a stay of execution."
+    },
+    {
+      "apiname": "ach_gauss_story_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Null and Void",
+      "description": "Learn Salvador's strange discovery."
+    },
+    {
+      "apiname": "ach_gauss_story_end",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apex Altered",
+      "description": "Secure the valley's future."
+    },
+    {
+      "apiname": "ach_gauss_dungeon_introductory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empire of Thorns",
+      "description": "Return to Tarya Gratar and face the first Arbiter."
+    },
+    {
+      "apiname": "ach_gauss_dungeon_finish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond Humanity",
+      "description": "Embrace the Madness."
+    },
+    {
+      "apiname": "ach_gauss_difficulty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Approaching the Apocalypse",
+      "description": "Defeat final Arbiter on Apocalypse Tier 25."
+    }
+  ]
+}

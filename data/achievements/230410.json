@@ -1,0 +1,1362 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 230410,
+  "game": "Warframe",
+  "total": 193,
+  "unlocked": 27,
+  "percent": 14.0,
+  "updated_at_utc": "2026-09-15T06:48:39.721954+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 1,
+      "unlocktime": 1508306821,
+      "name": "We Shape Our Tools",
+      "description": "Apply a Mod to a weapon or Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 1,
+      "unlocktime": 1508330952,
+      "name": "Our Tools Shape Us",
+      "description": "Apply 4 different Mods to a single weapon or Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Mastery I",
+      "description": "Reach Rank 10 with any five Longsword or Dual Short Blades weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Mastery II",
+      "description": "Reach Rank 20 with any five Longsword or Dual Short Blades weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Mastery III",
+      "description": "Reach Rank 30 with any five Longsword or Dual Short Blades weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 1,
+      "unlocktime": 1508331417,
+      "name": "Blade Proficiency I",
+      "description": "Reach Rank 10 with any Longsword or Dual Short Blades weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Proficiency II",
+      "description": "Reach Rank 20 with any Longsword or Dual Short Blades weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blade Proficiency III",
+      "description": "Reach Rank 30 with any Longsword or Dual Short Blades weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow Mastery I",
+      "description": "Reach Rank 10 with any two Bow weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow Mastery II",
+      "description": "Reach Rank 20 with any two Bow weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow Mastery III",
+      "description": "Reach Rank 30 with any two Bow weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 1,
+      "unlocktime": 1508328695,
+      "name": "Bow Proficiency I",
+      "description": "Reach Rank 10 with any Bow weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow Proficiency II",
+      "description": "Reach Rank 20 with any Bow weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bow Proficiency III",
+      "description": "Reach Rank 30 with any Bow weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Mastery I",
+      "description": "Reach Rank 10 with any three Gauntlets or Hand-to-Hand weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Mastery II",
+      "description": "Reach Rank 20 with any three Gauntlets or Hand-to-Hand weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Mastery III",
+      "description": "Reach Rank 30 with any three Gauntlets or Hand-to-Hand weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Proficiency I",
+      "description": "Reach Rank 10 with any Gauntlets or Hand-to-Hand weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Proficiency II",
+      "description": "Reach Rank 20 with any Gauntlets or Hand-to-Hand weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brawler Proficiency III",
+      "description": "Reach Rank 30 with any Gauntlets or Hand-to-Hand weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 1,
+      "unlocktime": 1508309879,
+      "name": "Weaponsmith",
+      "description": "Build an item in the Foundry."
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 1,
+      "unlocktime": 1553971479,
+      "name": "Inventor",
+      "description": "Build 10 items in the Foundry."
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 1,
+      "unlocktime": 1553971479,
+      "name": "Scientist",
+      "description": "Build 20 items in the Foundry."
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 1,
+      "unlocktime": 1508309879,
+      "name": "Tailor Made",
+      "description": "Customize the color of a Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Mastery I",
+      "description": "Reach Rank 10 with any three Dagger or Dual Daggers weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Mastery II",
+      "description": "Reach Rank 20 with any three Dagger or Dual Daggers weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Mastery III",
+      "description": "Reach Rank 30 with any three Dagger or Dual Daggers weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Proficiency I",
+      "description": "Reach Rank 10 with any Dagger or Dual Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Proficiency II",
+      "description": "Reach Rank 20 with any Dagger or Dual Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Proficiency III",
+      "description": "Reach Rank 30 with any Dagger or Dual Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 1,
+      "unlocktime": 1508306821,
+      "name": "Payday",
+      "description": "Earn 1,000 Credits."
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 1,
+      "unlocktime": 1508328695,
+      "name": "Nestegg",
+      "description": "Earn 10,000 Credits."
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 1,
+      "unlocktime": 1553971479,
+      "name": "Where Credit is Due",
+      "description": "Earn 100,000 Credits."
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 1,
+      "unlocktime": 1553971479,
+      "name": "Money is Power",
+      "description": "Earn 1,000,000 Credits."
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 1,
+      "unlocktime": 1508307089,
+      "name": "Secrets of the Orokin",
+      "description": "Find 1 Mod."
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behold the Possibilities",
+      "description": "Find 20 Mods."
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Find 100 Mods."
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Many Choices",
+      "description": "Find 1,000 Mods."
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 1,
+      "unlocktime": 1508310581,
+      "name": "Greater Than the Sum",
+      "description": "Fuse mods together to create a more powerful mod."
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Mastery I",
+      "description": "Reach Rank 10 with any two Heavy Axe, Heavy Hammer, or Heavy Sword weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Mastery II",
+      "description": "Reach Rank 20 with any two Heavy Axe, Heavy Hammer, or Heavy Sword weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Mastery III",
+      "description": "Reach Rank 30 with any two Heavy Axe, Heavy Hammer, or Heavy Sword weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Proficiency I",
+      "description": "Reach Rank 10 with any Heavy Axe, Heavy Hammer, or Heavy Sword weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Proficiency II",
+      "description": "Reach Rank 20 with any Heavy Axe, Heavy Hammer, or Heavy Sword weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapon Proficiency III",
+      "description": "Reach Rank 30 with any Heavy Axe, Heavy Hammer, or Heavy Sword weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angel of Death",
+      "description": "Get 100 kills in a single mission."
+    },
+    {
+      "apiname": "ACHIEVEMENT_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Watchful Eye",
+      "description": "Obtain a Sentinel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Building a Stable",
+      "description": "Obtain 2 Warframes."
+    },
+    {
+      "apiname": "ACHIEVEMENT_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Right Tool for the Job",
+      "description": "Obtain 5 Warframes."
+    },
+    {
+      "apiname": "ACHIEVEMENT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Each Tool with Its Own Purpose",
+      "description": "Obtain 10 Warframes."
+    },
+    {
+      "apiname": "ACHIEVEMENT_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol Mastery I",
+      "description": "Reach Rank 10 with any five Pistol or Akimbo Pistols weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol Mastery II",
+      "description": "Reach Rank 20 with any five Pistol or Akimbo Pistols weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol Mastery III",
+      "description": "Reach Rank 30 with any five Pistol or Akimbo Pistols weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_54",
+      "achieved": 1,
+      "unlocktime": 1508331572,
+      "name": "Pistol Proficiency I",
+      "description": "Reach Rank 10 with any Pistol or Akimbo Pistols weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol Proficiency II",
+      "description": "Reach Rank 20 with any Pistol or Akimbo Pistols weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pistol Proficiency III",
+      "description": "Reach Rank 30 with any Pistol or Akimbo Pistols weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_57",
+      "achieved": 1,
+      "unlocktime": 1508331572,
+      "name": "Hooked",
+      "description": "Play for 2 hours in missions in total."
+    },
+    {
+      "apiname": "ACHIEVEMENT_58",
+      "achieved": 1,
+      "unlocktime": 1553971479,
+      "name": "It Keeps Getting Better",
+      "description": "Play for 10 hours in missions in total."
+    },
+    {
+      "apiname": "ACHIEVEMENT_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pride of The Lotus",
+      "description": "Play for 100 hours in missions in total."
+    },
+    {
+      "apiname": "ACHIEVEMENT_60",
+      "achieved": 1,
+      "unlocktime": 1508311521,
+      "name": "Initiate",
+      "description": "Achieve the rank of Initiate."
+    },
+    {
+      "apiname": "ACHIEVEMENT_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Initiate",
+      "description": "Achieve the rank of Silver Initiate."
+    },
+    {
+      "apiname": "ACHIEVEMENT_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Initiate",
+      "description": "Achieve the rank of Gold Initiate."
+    },
+    {
+      "apiname": "ACHIEVEMENT_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice",
+      "description": "Achieve the rank of Novice."
+    },
+    {
+      "apiname": "ACHIEVEMENT_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Novice",
+      "description": "Achieve the rank of Silver Novice."
+    },
+    {
+      "apiname": "ACHIEVEMENT_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Novice",
+      "description": "Achieve the rank of Gold Novice."
+    },
+    {
+      "apiname": "ACHIEVEMENT_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disciple",
+      "description": "Achieve the rank of Disciple."
+    },
+    {
+      "apiname": "ACHIEVEMENT_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Disciple",
+      "description": "Achieve the rank of Silver Disciple."
+    },
+    {
+      "apiname": "ACHIEVEMENT_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Disciple",
+      "description": "Achieve the rank of Gold Disciple."
+    },
+    {
+      "apiname": "ACHIEVEMENT_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeker",
+      "description": "Achieve the rank of Seeker."
+    },
+    {
+      "apiname": "ACHIEVEMENT_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Seeker",
+      "description": "Achieve the rank of Silver Seeker."
+    },
+    {
+      "apiname": "ACHIEVEMENT_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Seeker",
+      "description": "Achieve the rank of Gold Seeker."
+    },
+    {
+      "apiname": "ACHIEVEMENT_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Achieve the rank of Hunter."
+    },
+    {
+      "apiname": "ACHIEVEMENT_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Hunter",
+      "description": "Achieve the rank of Silver Hunter."
+    },
+    {
+      "apiname": "ACHIEVEMENT_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Hunter",
+      "description": "Achieve the rank of Gold Hunter."
+    },
+    {
+      "apiname": "ACHIEVEMENT_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle",
+      "description": "Achieve the rank of Eagle."
+    },
+    {
+      "apiname": "ACHIEVEMENT_76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Eagle",
+      "description": "Achieve the rank of Silver Eagle."
+    },
+    {
+      "apiname": "ACHIEVEMENT_77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Eagle",
+      "description": "Achieve the rank of Gold Eagle."
+    },
+    {
+      "apiname": "ACHIEVEMENT_78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger",
+      "description": "Achieve the rank of Tiger."
+    },
+    {
+      "apiname": "ACHIEVEMENT_79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Tiger",
+      "description": "Achieve the rank of Silver Tiger."
+    },
+    {
+      "apiname": "ACHIEVEMENT_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Tiger",
+      "description": "Achieve the rank of Gold Tiger."
+    },
+    {
+      "apiname": "ACHIEVEMENT_81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon",
+      "description": "Achieve the rank of Dragon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Dragon",
+      "description": "Achieve the rank of Silver Dragon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Dragon",
+      "description": "Achieve the rank of Gold Dragon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sage",
+      "description": "Achieve the rank of Sage."
+    },
+    {
+      "apiname": "ACHIEVEMENT_85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Sage",
+      "description": "Achieve the rank of Silver Sage."
+    },
+    {
+      "apiname": "ACHIEVEMENT_86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Sage",
+      "description": "Achieve the rank of Gold Sage."
+    },
+    {
+      "apiname": "ACHIEVEMENT_87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "Achieve the rank of Master."
+    },
+    {
+      "apiname": "ACHIEVEMENT_88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Middle Master",
+      "description": "Achieve the rank of Middle Master."
+    },
+    {
+      "apiname": "ACHIEVEMENT_89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Master",
+      "description": "Achieve the rank of True Master."
+    },
+    {
+      "apiname": "ACHIEVEMENT_90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Mastery I",
+      "description": "Reach Rank 10 with any three Scythe, Polearm or Staff weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Mastery II",
+      "description": "Reach Rank 20 with any three Scythe, Polearm or Staff weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Mastery III",
+      "description": "Reach Rank 30 with any three Scythe, Polearm or Staff weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Proficiency I",
+      "description": "Reach Rank 10 with any Scythe, Polearm or Staff weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Proficiency II",
+      "description": "Reach Rank 20 with any Scythe, Polearm or Staff weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Weapon Proficiency III",
+      "description": "Reach Rank 30 with any Scythe, Polearm or Staff weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_96",
+      "achieved": 1,
+      "unlocktime": 1508330952,
+      "name": "All for One",
+      "description": "Revive an ally."
+    },
+    {
+      "apiname": "ACHIEVEMENT_97",
+      "achieved": 1,
+      "unlocktime": 1553965949,
+      "name": "Healer",
+      "description": "Revive 10 allies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_98",
+      "achieved": 1,
+      "unlocktime": 1553965949,
+      "name": "Field Medic",
+      "description": "Revive 100 allies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheater of Death",
+      "description": "Revive 1,000 allies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Mastery I",
+      "description": "Reach Rank 10 with any five Rifle or Machine Gun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Mastery II",
+      "description": "Reach Rank 20 with any five Rifle or Machine Gun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Mastery III",
+      "description": "Reach Rank 30 with any five Rifle or Machine Gun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Proficiency I",
+      "description": "Reach Rank 10 with any Rifle or Machine Gun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Proficiency II",
+      "description": "Reach Rank 20 with any Rifle or Machine Gun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifle Proficiency III",
+      "description": "Reach Rank 30 with any Rifle or Machine Gun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entrepreneur",
+      "description": "Sell an item in the market."
+    },
+    {
+      "apiname": "ACHIEVEMENT_107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchant",
+      "description": "Sell 10,000 credits' worth of items."
+    },
+    {
+      "apiname": "ACHIEVEMENT_108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Mastery I",
+      "description": "Reach Rank 10 with any three Sentinels."
+    },
+    {
+      "apiname": "ACHIEVEMENT_109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Mastery II",
+      "description": "Reach Rank 20 with any three Sentinels."
+    },
+    {
+      "apiname": "ACHIEVEMENT_110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Mastery III",
+      "description": "Reach Rank 30 with any three Sentinels."
+    },
+    {
+      "apiname": "ACHIEVEMENT_111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Proficiency I",
+      "description": "Reach Rank 10 with any Sentinel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Proficiency II",
+      "description": "Reach Rank 20 with any Sentinel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sentinel Proficiency III",
+      "description": "Reach Rank 30 with any Sentinel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Mastery I",
+      "description": "Reach Rank 10 with any two Shotgun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Mastery II",
+      "description": "Reach Rank 20 with any two Shotgun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Mastery III",
+      "description": "Reach Rank 30 with any two Shotgun weapons."
+    },
+    {
+      "apiname": "ACHIEVEMENT_117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Proficiency I",
+      "description": "Reach Rank 10 with any Shotgun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Proficiency II",
+      "description": "Reach Rank 20 with any Shotgun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun Proficiency III",
+      "description": "Reach Rank 30 with any Shotgun weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Mastery I",
+      "description": "Reach Rank 10 with any three Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Mastery II",
+      "description": "Reach Rank 20 with any three Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Mastery III",
+      "description": "Reach Rank 30 with any three Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Proficiency I",
+      "description": "Reach Rank 10 with any Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Proficiency II",
+      "description": "Reach Rank 20 with any Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shuriken Proficiency III",
+      "description": "Reach Rank 30 with any Boomerang, Throwing Discs or Throwing Daggers weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_126",
+      "achieved": 1,
+      "unlocktime": 1508305716,
+      "name": "Agent",
+      "description": "Solve a Cipher."
+    },
+    {
+      "apiname": "ACHIEVEMENT_127",
+      "achieved": 1,
+      "unlocktime": 1508326961,
+      "name": "Special Agent",
+      "description": "Solve 10 Ciphers."
+    },
+    {
+      "apiname": "ACHIEVEMENT_128",
+      "achieved": 1,
+      "unlocktime": 1553965949,
+      "name": "Operative",
+      "description": "Solve 100 Ciphers."
+    },
+    {
+      "apiname": "ACHIEVEMENT_129",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cryptographer",
+      "description": "Solve 1,000 Ciphers."
+    },
+    {
+      "apiname": "ACHIEVEMENT_130",
+      "achieved": 1,
+      "unlocktime": 1508305716,
+      "name": "Counter Intelligence",
+      "description": "Solve a Cipher in under 5 seconds."
+    },
+    {
+      "apiname": "ACHIEVEMENT_131",
+      "achieved": 1,
+      "unlocktime": 1508306114,
+      "name": "No Longer a Rookie",
+      "description": "Reach Rank 2 with any Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_132",
+      "achieved": 1,
+      "unlocktime": 1508305897,
+      "name": "Practice Makes Perfect",
+      "description": "Reach Rank 2 with any weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_133",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alchemist",
+      "description": "Complete 10 successful Mod Transmutes."
+    },
+    {
+      "apiname": "ACHIEVEMENT_134",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combat Specialist",
+      "description": "Complete 3 Sorties."
+    },
+    {
+      "apiname": "ACHIEVEMENT_135",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Control Freak",
+      "description": "Complete an Interception node and extract with the enemy capturing 40% or less territory."
+    },
+    {
+      "apiname": "ACHIEVEMENT_136",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Sectors",
+      "description": "Complete 5 Dark Sector missions"
+    },
+    {
+      "apiname": "ACHIEVEMENT_137",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egg Timer",
+      "description": "Begin Genetic Lab Incubation for a Kubrow."
+    },
+    {
+      "apiname": "ACHIEVEMENT_138",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hats off to you!",
+      "description": "Destroy 200 Corpus Crewman helmets."
+    },
+    {
+      "apiname": "ACHIEVEMENT_139",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hive Five!",
+      "description": "Complete any 5 Hive Infestation missions."
+    },
+    {
+      "apiname": "ACHIEVEMENT_140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Void",
+      "description": "Complete 10 Void Fissure missions."
+    },
+    {
+      "apiname": "ACHIEVEMENT_141",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "KABOOM!",
+      "description": "Kill 10 or more enemies with a single explosion (Tonkor, etc)."
+    },
+    {
+      "apiname": "ACHIEVEMENT_142",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Liberator",
+      "description": "Set 10 hostages free without triggering the execution timer."
+    },
+    {
+      "apiname": "ACHIEVEMENT_143",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercenary",
+      "description": "Earn Battle Pay from 5 Unique Invasions."
+    },
+    {
+      "apiname": "ACHIEVEMENT_144",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Witnesses",
+      "description": "Successfully perform 100 stealth kills."
+    },
+    {
+      "apiname": "ACHIEVEMENT_145",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polarize This",
+      "description": "Polarize a Weapon, Companion, or Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_146",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polarize That",
+      "description": "Reach Rank 30 with a polarized Weapon, Companion, or Warframe."
+    },
+    {
+      "apiname": "ACHIEVEMENT_147",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ride the Wave",
+      "description": "Complete 20 waves of Defense and successfully extract."
+    },
+    {
+      "apiname": "ACHIEVEMENT_148",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour of Mercury",
+      "description": "Kill the boss in the Mercury region and get to extraction."
+    },
+    {
+      "apiname": "ACHIEVEMENT_149",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour of Venus",
+      "description": "Kill the boss in the Venus region and get to extraction."
+    },
+    {
+      "apiname": "ACHIEVEMENT_150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour of Uranus",
+      "description": "Kill the boss in the Uranus region and get to extraction."
+    },
+    {
+      "apiname": "ACHIEVEMENT_151",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour of Sedna",
+      "description": "Kill the boss in the Sedna region and get to extraction."
+    },
+    {
+      "apiname": "ACHIEVEMENT_152",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shield Saver",
+      "description": "Deflect 1,000 projectiles with your melee weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_153",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tenno and Hooch",
+      "description": "Complete any 10 missions with a Kubrow equipped."
+    },
+    {
+      "apiname": "ACHIEVEMENT_154",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tenno of all Trades",
+      "description": "Score a kill with your equipped primary, secondary and melee weapons in 5 seconds or less."
+    },
+    {
+      "apiname": "ACHIEVEMENT_155",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The 8-fold Path",
+      "description": "Squad must survive 8 waves of Defense using only Melee Attacks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_156",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Camera Adds 10 Pounds",
+      "description": "Destroy 150 Security Cameras."
+    },
+    {
+      "apiname": "ACHIEVEMENT_157",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sword Alone",
+      "description": "Complete 10 missions without any primary or secondary weapons equipped."
+    },
+    {
+      "apiname": "ACHIEVEMENT_158",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The War Within",
+      "description": "Complete \"The War Within\" quest."
+    },
+    {
+      "apiname": "ACHIEVEMENT_159",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is What You Are",
+      "description": "Fully unlock a Focus skill tree."
+    },
+    {
+      "apiname": "ACHIEVEMENT_160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What a Nightmare",
+      "description": "Complete 10 Nightmare missions."
+    },
+    {
+      "apiname": "ACHIEVEMENT_161",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Without a Hitch",
+      "description": "Complete a Hijack mission without allowing the payload to travel backwards."
+    },
+    {
+      "apiname": "ACHIEVEMENT_162",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From on High",
+      "description": "Kill 100 grounded enemies while in Archwing Mode above the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_163",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forged in Fire",
+      "description": "Craft your first Zaw."
+    },
+    {
+      "apiname": "ACHIEVEMENT_164",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion of the People",
+      "description": "Complete 10 bounties given by Ostron townspeople."
+    },
+    {
+      "apiname": "ACHIEVEMENT_165",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By the Dawn's Early Light",
+      "description": "Survive a night on the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_166",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marathoner",
+      "description": "Travel 100,000 metres across the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_167",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sleds of Sunshine",
+      "description": "Travel over 500 metres in a single slide across the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_168",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Angler",
+      "description": "Catch 10 fish."
+    },
+    {
+      "apiname": "ACHIEVEMENT_169",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharp Shooter",
+      "description": "Kill an enemy from over 100 metres away across the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_170",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": "Kill 100 Plains Beasts."
+    },
+    {
+      "apiname": "ACHIEVEMENT_172",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plains Prospector",
+      "description": "Unearth 100 Deposits from the Plains of Eidolon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_173",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tomb Looter",
+      "description": "Explore all of the Eidolon Caves."
+    },
+    {
+      "apiname": "ACHIEVEMENT_174",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great Eidolon Hunt",
+      "description": "Defeat an Eidolon Teralyst."
+    },
+    {
+      "apiname": "ACHIEVEMENT_175",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saya's Vigil",
+      "description": "Complete \"Saya's Vigil\" quest."
+    },
+    {
+      "apiname": "ACHIEVEMENT_176",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sacrifice",
+      "description": "Complete \"The Sacrifice\" quest."
+    },
+    {
+      "apiname": "ACHIEVEMENT_177",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joyride",
+      "description": "Travel over 10,000 meters on a stolen Dargyn across the Plains of Eidolon"
+    },
+    {
+      "apiname": "ACHIEVEMENT_178",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bounty Hunter",
+      "description": "Complete 6 Bounties within 60 minutes while in Orb Vallis"
+    },
+    {
+      "apiname": "ACHIEVEMENT_179",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Airborne Exterminator",
+      "description": "Destroy 10 Raknoids in Orb Vallis while airborn"
+    },
+    {
+      "apiname": "ACHIEVEMENT_180",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ride or Die",
+      "description": "Reach top standing with Ventkids"
+    },
+    {
+      "apiname": "ACHIEVEMENT_181",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Can't Buy Happiness",
+      "description": "Reach top standing with Solaris United"
+    },
+    {
+      "apiname": "ACHIEVEMENT_182",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moa Money, Moa Problems",
+      "description": "Acquire a Moa pet"
+    },
+    {
+      "apiname": "ACHIEVEMENT_183",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "K-Driven",
+      "description": "Ride 1,000,000 meters on a K-Drive"
+    },
+    {
+      "apiname": "ACHIEVEMENT_184",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hang Tenno",
+      "description": "Make a 50 meter jump on a K-Drive"
+    },
+    {
+      "apiname": "ACHIEVEMENT_185",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Frosty",
+      "description": "Fall in coolant on Orb Vallis from 275 meters while on a K-Drive"
+    },
+    {
+      "apiname": "ACHIEVEMENT_186",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vallis Spelunker",
+      "description": "Explore all of the caves in Orb Vallis"
+    },
+    {
+      "apiname": "ACHIEVEMENT_187",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Race Ace",
+      "description": "Complete all of the K-Drive races in Orb Vallis"
+    },
+    {
+      "apiname": "ACHIEVEMENT_188",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal Lover",
+      "description": "Complete 10 perfect Conservation captures in Orb Vallis"
+    },
+    {
+      "apiname": "ACHIEVEMENT_189",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Abyss Gazes Into You",
+      "description": "Create a Kuva Lich"
+    },
+    {
+      "apiname": "ACHIEVEMENT_190",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Which Does Not Kill Us",
+      "description": "Vanquish a Rank 5 Kuva Lich."
+    },
+    {
+      "apiname": "ACHIEVEMENT_191",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gonna Need a Bigger Boat",
+      "description": "Enter the Dry Dock"
+    },
+    {
+      "apiname": "ACHIEVEMENT_192",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Assembly Required",
+      "description": "Collect and assemble all Railjack components"
+    },
+    {
+      "apiname": "ACHIEVEMENT_193",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From out of the Sun",
+      "description": "Shoot down 100 enemies while in a Railjack"
+    },
+    {
+      "apiname": "ACHIEVEMENT_194",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm the Captain Now",
+      "description": "Pilot a hijacked enemy crewship during a Railjack mission"
+    }
+  ]
+}

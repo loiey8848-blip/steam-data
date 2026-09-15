@@ -1,0 +1,459 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3681010,
+  "game": "Nioh 3",
+  "total": 64,
+  "unlocked": 51,
+  "percent": 79.7,
+  "updated_at_utc": "2026-09-15T06:53:33.342993+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_000",
+      "achieved": 1,
+      "unlocktime": 1770688885,
+      "name": "You Are Nioh",
+      "description": "Unlocked all achievements."
+    },
+    {
+      "apiname": "ACH_001",
+      "achieved": 1,
+      "unlocktime": 1770685501,
+      "name": "Answering to the People",
+      "description": "Completed all Myths."
+    },
+    {
+      "apiname": "ACH_002",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Budding Talent",
+      "description": "Reached level 10."
+    },
+    {
+      "apiname": "ACH_003",
+      "achieved": 1,
+      "unlocktime": 1770526914,
+      "name": "Grizzled Veteran",
+      "description": "Reached level 100."
+    },
+    {
+      "apiname": "ACH_004",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Wanderer in Time",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_005",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Guiding Mirror",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_006",
+      "achieved": 1,
+      "unlocktime": 1770420789,
+      "name": "The Old Tiger Departs",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_007",
+      "achieved": 1,
+      "unlocktime": 1770526806,
+      "name": "Unbreakable Cause",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_008",
+      "achieved": 1,
+      "unlocktime": 1770555185,
+      "name": "The Queen's Eyes Open",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_009",
+      "achieved": 1,
+      "unlocktime": 1770654687,
+      "name": "What Must Be Done",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_010",
+      "achieved": 1,
+      "unlocktime": 1770658367,
+      "name": "Delusion Destroyed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_011",
+      "achieved": 1,
+      "unlocktime": 1770658753,
+      "name": "As Shogun",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_012",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Crucible Arts Adopter",
+      "description": "Learned a Martial Art from a Crucible weapon for the first time."
+    },
+    {
+      "apiname": "ACH_013",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Arts Proficiency",
+      "description": "Defeated 10 enemies with a Strong Attack or a Martial Art enhanced via Arts Proficiency."
+    },
+    {
+      "apiname": "ACH_014",
+      "achieved": 1,
+      "unlocktime": 1770362617,
+      "name": "Ninjutsu",
+      "description": "Defeated 10 enemies with Ninjutsu."
+    },
+    {
+      "apiname": "ACH_015",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Burst Break",
+      "description": "Successfully activated Burst Break 10 times."
+    },
+    {
+      "apiname": "ACH_016",
+      "achieved": 1,
+      "unlocktime": 1770417928,
+      "name": "Guardian Spirit's Aid",
+      "description": "Successfully activated a Guardian Spirit Skill Burst Break for the first time."
+    },
+    {
+      "apiname": "ACH_017",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Yokai Manipulator",
+      "description": "Used a Summoning Seal to summon a yokai for the first time."
+    },
+    {
+      "apiname": "ACH_018",
+      "achieved": 1,
+      "unlocktime": 1770657995,
+      "name": "Devotee",
+      "description": "Unlocked all named shrines and Bodhisattva Statues."
+    },
+    {
+      "apiname": "ACH_019",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Explorer",
+      "description": "Raised your Exploration Level to 4 in any area."
+    },
+    {
+      "apiname": "ACH_020",
+      "achieved": 1,
+      "unlocktime": 1770371648,
+      "name": "Masterful Pupil",
+      "description": "Defeated a master for the first time."
+    },
+    {
+      "apiname": "ACH_021",
+      "achieved": 1,
+      "unlocktime": 1770659140,
+      "name": "A God Among Men",
+      "description": "Defeated all masters."
+    },
+    {
+      "apiname": "ACH_022",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Armor's Real Value",
+      "description": "Activated all set bonus effects for an equipment set."
+    },
+    {
+      "apiname": "ACH_023",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Latest Masterpiece",
+      "description": "Forged an item for the first time."
+    },
+    {
+      "apiname": "ACH_024",
+      "achieved": 1,
+      "unlocktime": 1770422980,
+      "name": "Match Made in Heaven",
+      "description": "Performed a Soul Match for the first time."
+    },
+    {
+      "apiname": "ACH_025",
+      "achieved": 1,
+      "unlocktime": 1770423042,
+      "name": "Remodeler",
+      "description": "Remodeled a piece of equipment for the first time."
+    },
+    {
+      "apiname": "ACH_026",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Keen-Eyed",
+      "description": "Pet a Chijiko for the first time."
+    },
+    {
+      "apiname": "ACH_027",
+      "achieved": 1,
+      "unlocktime": 1770648850,
+      "name": "Eagle-Eyed",
+      "description": "Pet all Chijiko."
+    },
+    {
+      "apiname": "ACH_028",
+      "achieved": 1,
+      "unlocktime": 1770564755,
+      "name": "Unimpeded",
+      "description": "Used all methods to traverse Spirit Veins."
+    },
+    {
+      "apiname": "ACH_029",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Teamwork",
+      "description": "Completed three missions during Expeditions or with NPCs. (Includes Acolytes.)"
+    },
+    {
+      "apiname": "ACH_030",
+      "achieved": 1,
+      "unlocktime": 1770381213,
+      "name": "A Scampuss's Best Friend",
+      "description": "Traded a furball with a Scampuss in the Eternal Rift for the first time."
+    },
+    {
+      "apiname": "ACH_031",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Spa Healer",
+      "description": "Bathed in first hot spring."
+    },
+    {
+      "apiname": "ACH_032",
+      "achieved": 1,
+      "unlocktime": 1770657276,
+      "name": "Spa Lover",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_033",
+      "achieved": 1,
+      "unlocktime": 1770682881,
+      "name": "Kodama Leader",
+      "description": "Guided all Kodama home."
+    },
+    {
+      "apiname": "ACH_034",
+      "achieved": 1,
+      "unlocktime": 1770636913,
+      "name": "Visiting the Six Jizo",
+      "description": "Prayed at all of the Six Jizo."
+    },
+    {
+      "apiname": "ACH_035",
+      "achieved": 1,
+      "unlocktime": 1770636886,
+      "name": "Scampuss Enthusiast",
+      "description": "Pet all Scampusses."
+    },
+    {
+      "apiname": "ACH_036",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Soul Core Owner",
+      "description": "Purified a Soul Core for the first time."
+    },
+    {
+      "apiname": "ACH_037",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Base Captured",
+      "description": "Captured an enemy base for the first time."
+    },
+    {
+      "apiname": "ACH_038",
+      "achieved": 1,
+      "unlocktime": 1770649816,
+      "name": "Total Control",
+      "description": "Captured all enemy bases."
+    },
+    {
+      "apiname": "ACH_039",
+      "achieved": 1,
+      "unlocktime": 1770357909,
+      "name": "Lesser Crucible Cleanser",
+      "description": "Purified a Lesser Crucible for the first time."
+    },
+    {
+      "apiname": "ACH_040",
+      "achieved": 1,
+      "unlocktime": 1770626213,
+      "name": "Lesser Crucible Eradicator",
+      "description": "Purified all Lesser Crucibles."
+    },
+    {
+      "apiname": "ACH_041",
+      "achieved": 1,
+      "unlocktime": 1770458425,
+      "name": "Kunimatsu's Pride",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_042",
+      "achieved": 1,
+      "unlocktime": 1770483380,
+      "name": "Kunimatsu's Envy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_043",
+      "achieved": 1,
+      "unlocktime": 1770613254,
+      "name": "Kunimatsu's Obsession",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_044",
+      "achieved": 1,
+      "unlocktime": 1770527041,
+      "name": "Senji Toyo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_045",
+      "achieved": 1,
+      "unlocktime": 1770688885,
+      "name": "Ruckus in the Sanctuary",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_046",
+      "achieved": 1,
+      "unlocktime": 1770657498,
+      "name": "Pain, Pain, Go Away",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_047",
+      "achieved": 1,
+      "unlocktime": 1770685252,
+      "name": "Distant Memories",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_048",
+      "achieved": 1,
+      "unlocktime": 1770627263,
+      "name": "Like-Minded Friends",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_049",
+      "achieved": 1,
+      "unlocktime": 1770683446,
+      "name": "Dung Ball Roller",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_050",
+      "achieved": 1,
+      "unlocktime": 1770561211,
+      "name": "Nothing Left to Learn",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One-Eyed Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_052",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devoted to Treason",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regrets Unsettled",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yagyu Shinkage Style Virtuoso",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noble Bout",
+      "description": "Defeated all masters in Hell Rising."
+    },
+    {
+      "apiname": "ACH_056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of Keian",
+      "description": "Completed all Myths in Hell Rising."
+    },
+    {
+      "apiname": "ACH_057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of the Keian Nigitama",
+      "description": "Guided all Kodama home and pet all Chijiko and Scampusses in Hell Rising."
+    },
+    {
+      "apiname": "ACH_058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Defense...",
+      "description": "Learned all learnable Martial Arts for hoko & shields and ninja hoko & shields in Hell Rising."
+    },
+    {
+      "apiname": "ACH_059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paranormal Purifier",
+      "description": "Purified Hundred Demon Realms Picture Scrolls five times."
+    },
+    {
+      "apiname": "ACH_060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Thing After Another",
+      "description": "Nullified an enemy's Curse for the first time."
+    },
+    {
+      "apiname": "ACH_061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aid Offered",
+      "description": "Completed Mountain Keep in the Storm's Eye with three or more different NPC companions (excluding Acolytes)."
+    },
+    {
+      "apiname": "ACH_062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taken in Stride",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keian's Enlightenment",
+      "description": ""
+    }
+  ]
+}

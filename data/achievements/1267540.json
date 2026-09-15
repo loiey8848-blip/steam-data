@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1267540,
+  "game": "WRC 9 FIA World Rally Championship",
+  "total": 43,
+  "unlocked": 1,
+  "percent": 2.3,
+  "updated_at_utc": "2026-09-15T06:51:15.481477+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_01",
+      "achieved": 1,
+      "unlocktime": 1772907921,
+      "name": "Newcomer",
+      "description": "Start a new career in WRC 9"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upstart",
+      "description": "Win 25 Stages"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Natural",
+      "description": "Win 50 Stages"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hotshot",
+      "description": "Win 100 Stages"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night owl",
+      "description": "Win 5 Stages at night"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard worker",
+      "description": "Complete a season objective"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Complete 5 objectives of any type during the same season"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Race Master",
+      "description": "Win a Stage with the difficulty set to 150%"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WRC 2 driver",
+      "description": "Join the WRC 2 Championship"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "WRC Champion",
+      "description": "Become WRC World Champion"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Monte Carlo",
+      "description": "Reach the podium in the Rally Monte Carlo in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Sweden",
+      "description": "Reach the podium in the Rally Sweden in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Kenya",
+      "description": "Reach the podium in the Safari Rally Kenya in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Mexico",
+      "description": "Reach the podium in the Rally Guanajuato México in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Argentina",
+      "description": "Reach the podium in the XION Rally Argentina in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in New Zealand",
+      "description": "Reach the podium in the Rally New Zealand in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Portugal",
+      "description": "Reach the podium in the Vodafone Rally de Portugal in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Sardinia",
+      "description": "Reach the podium in the Rally Italia Sardegna in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Finland",
+      "description": "Reach the podium in the Neste Rally Finland in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Germany",
+      "description": "Reach the podium in the ADAC Rallye Deutschland in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Turkey",
+      "description": "Reach the podium in the Rally Turkey in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Japan",
+      "description": "Reach the podium in the Rally Japan in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner in Wales",
+      "description": "Reach the podium in the Dayinsure Wales Rally GB in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's just the beginning",
+      "description": "Reach level 10"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero",
+      "description": "Reach the podium in all rallies in Career mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fast learner",
+      "description": "Reach level 20"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising star",
+      "description": "Reach level 30"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show-off",
+      "description": "Reach level 50"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Have 4 legendary cards in an active crew"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indecisive",
+      "description": "Change team 3 times"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Force of nature",
+      "description": "Win 3 Stages with dynamic weather in Quick Play mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Competitor",
+      "description": "Take part in 25 events in the calendar"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot!",
+      "description": "Win a rare event"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nostalgic",
+      "description": "Win a Historic Race event"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Public threat",
+      "description": "Total a car in any mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Certified driver",
+      "description": "Drive using all cameras in the game"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tourist",
+      "description": "Drive over 200km in any mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Globetrotter",
+      "description": "Drive over 500km in any mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad",
+      "description": "Drive over 1,000km in any mode"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splasher",
+      "description": "Cross 200 water puddles"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stuntman",
+      "description": "Perform a jump longer than 30m"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scatterbrain",
+      "description": "Win a Stage with a car that hasn't been repaired (when repairs are available and the car is damaged)"
+    },
+    {
+      "apiname": "ACHIEVEMENTS_TITLE_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenger",
+      "description": "Complete your first Stage in Online Multiplayer mode"
+    }
+  ]
+}

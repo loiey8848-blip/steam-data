@@ -1,0 +1,1369 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2665680,
+  "game": "Tower of Babel: Survivors of Chaos",
+  "total": 194,
+  "unlocked": 4,
+  "percent": 2.1,
+  "updated_at_utc": "2026-09-15T06:53:00.080401+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_0_1",
+      "achieved": 1,
+      "unlocktime": 1747748235,
+      "name": "The First Step",
+      "description": "Speak with the Translator"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combat Training I",
+      "description": "Use Special Attack 100 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combat Training II",
+      "description": "Use Special Attack 1,000 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combat Training III",
+      "description": "Use Special Attack 10,000 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer I",
+      "description": "Slay 10,000 Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer II",
+      "description": "Slay 100,000 Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer III",
+      "description": "Slay 1,000,000 Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_1",
+      "achieved": 1,
+      "unlocktime": 1747751268,
+      "name": "Warlord I",
+      "description": "Slay 10 Elite Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warlord II",
+      "description": "Slay 100 Elite Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warlord III",
+      "description": "Slay 1,000 Elite Enemies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror I",
+      "description": "Defeat Skeleton King"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror II",
+      "description": "Defeat Hellblossom"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror III",
+      "description": "Defeat Swamp Princess"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror IV",
+      "description": "Defeat Lord of Nightmares"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_1",
+      "achieved": 1,
+      "unlocktime": 1747750209,
+      "name": "Treasure Hunter I",
+      "description": "Slay 1 Mimic"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter II",
+      "description": "Slay 10 Mimics"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter III",
+      "description": "Slay 100 Mimics"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_6_1",
+      "achieved": 1,
+      "unlocktime": 1747750209,
+      "name": "Legendary Collector I",
+      "description": "Obtain 3 Legendary Items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_6_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Collector II",
+      "description": "Obtain 30 Legendary Items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_6_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Collector III",
+      "description": "Obtain 300 Legendary Items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_7_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Enhancement I",
+      "description": "Enhance Items 10 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_7_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Enhancement II",
+      "description": "Enhance Items 100 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_7_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Item Enhancement III",
+      "description": "Enhance Items 1,000 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_8_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gem Socketing I",
+      "description": "Socket Gems 1 Time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_8_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gem Socketing II",
+      "description": "Socket Gems 10 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_8_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gem Socketing III",
+      "description": "Socket Gems 100 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_9_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jewel Socketing I",
+      "description": "Socket Jewels 1 Time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_9_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jewel Socketing II",
+      "description": "Socket Jewels 10 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_9_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jewel Socketing III",
+      "description": "Socket Jewels 100 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_10_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rune Socketing I",
+      "description": "Socket Runes 1 Time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_10_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Rune Socketing II",
+      "description": "Socket Runes 10 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_10_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rune Socketing III",
+      "description": "Socket Runes 100 Times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Blessing I",
+      "description": "Reach Total Level 5 in Altar of Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Blessing II",
+      "description": "Reach Total Level 10 in Altar of Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Blessing III",
+      "description": "Reach Total Level 20 in Altar of Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror V",
+      "description": "Defeat Frozen Judicator"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_12_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death at Full Life",
+      "description": "Die from a single blow at full Life"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_13_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Seconds to Eternity",
+      "description": "Die with less than 10 seconds left in the battle"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_14_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Skills",
+      "description": "Acquire one Level 20 Skill in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_15_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grandmaster of Skills",
+      "description": "Acquire two Level 20 Skills in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_16_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Victory",
+      "description": "Clear a run without taking a single hit"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_17_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos Incarnate",
+      "description": "Clear Chaos Dungeon at Curse Level 20"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_18_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living Magnet",
+      "description": "Reach Level 10 in Auto Pickup Radius"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_19_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patience Rewarded",
+      "description": "Reach Level 10 in EXP Gain"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_20_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold-Mad",
+      "description": "Reach Level 10 in Gold Gain"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_21_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birth of Chaos",
+      "description": "Unlock Chaos Dungeon"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_22_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Strike",
+      "description": "Defeat a Boss with less than 5 seconds remaining"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_23_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rise of the Master Thief",
+      "description": "Have a Thieving Goblin steal 3 or more Legendary Items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_24_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortune of Legends",
+      "description": "Acquire 10 or more Legendary Items in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_25_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Max Level Achieved",
+      "description": "Reach Level 99 in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_26_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer of Monsters",
+      "description": "Slay over 10,000 Enemies in a run in Normal Stages"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_27_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeper of Runes",
+      "description": "Possess all 24 Runes at least once"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_28_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jewel of Legends",
+      "description": "Acquire a Legendary Jewel"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_29_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Rare",
+      "description": "Acquire a Rare Item with all maximum normal affixes"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_30_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Legendary",
+      "description": "Acquire a Legendary Item with all maximum normal affixes"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_31_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obsessed Collector",
+      "description": "Store 100 or more Legendary Items in your Stash"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_32_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvest of Elites",
+      "description": "Encounter 10 or more Elites in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_33_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flood of Elites",
+      "description": "Encounter 15 or more Elites in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance I",
+      "description": "Defeat Skeleton King on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_35_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Born Treasure Hunter",
+      "description": "Achieve +150% Magic Item Find Chance from items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_36_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defiant Immortal",
+      "description": "Resurrect 5 or more times in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_37_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Set Wielder",
+      "description": "Equip Legendary Items in all slots"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_38_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Houndmaster",
+      "description": "Slay over 500 Hounds in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_39_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bone Collector",
+      "description": "Slay over 1,000 Skeletons in a run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_40_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer of Chaos",
+      "description": "Slay over 20,000 Enemies in a Chaos Dungeon run"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_41_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of Dog Dreams?",
+      "description": "Defeat Lord of Nightmares within 10 seconds of battle start"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_42_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Babel Squad",
+      "description": "Have 3 classes with a combined Strength, Dexterity, Intelligence, and Vitality Blessing Level of 100+"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance II",
+      "description": "Defeat Hellblossom on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance III",
+      "description": "Defeat Swamp Princess on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance IV",
+      "description": "Defeat Lord of Nightmares on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance V",
+      "description": "Defeat Frozen Judicator on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror IV",
+      "description": "Defeat Doom of Thunder"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance VI",
+      "description": "Defeat Doom of Thunder on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_73_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exit Like Thunder",
+      "description": "Defeat Doom of Thunder within 10 seconds of battle start"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1000_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Master",
+      "description": "Reach Level 20 in Dagger"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1001_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Hammer Master",
+      "description": "Reach Level 20 in Magic Hammer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1002_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Spike Master",
+      "description": "Reach Level 20 in Earth Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1003_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spinning Blade Master",
+      "description": "Reach Level 20 in Spinning Blade"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1004_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon’s Breath Master",
+      "description": "Reach Level 20 in Dragon’s Breath"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1005_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Master",
+      "description": "Reach Level 20 in Meteor Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1006_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Orb Master",
+      "description": "Reach Level 20 in Fire Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1007_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phoenix Master",
+      "description": "Reach Level 20 in Phoenix"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1008_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Arrow Master",
+      "description": "Reach Level 20 in Frost Arrow"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1009_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Spike Master",
+      "description": "Reach Level 20 in Ice Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1010_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Orb Master",
+      "description": "Reach Level 20 in Ice Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1011_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blizzard Master",
+      "description": "Reach Level 20 in Blizzard"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1012_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ball Lightning Master",
+      "description": "Reach Level 20 in Ball Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1013_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Wave Master",
+      "description": "Reach Level 20 in Lightning Wave"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1014_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Lightning Master",
+      "description": "Reach Level 20 in Chain Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1015_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strike Master",
+      "description": "Reach Level 20 in Lightning Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1016_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear of Light Master",
+      "description": "Reach Level 20 in Spear of Light"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1017_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heaven’s Judgment Master",
+      "description": "Reach Level 20 in Heaven’s Judgment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1018_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sanctuary Master",
+      "description": "Reach Level 20 in Sanctuary"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1019_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purge Master",
+      "description": "Reach Level 20 in Purge"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1020_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse Explosion Master",
+      "description": "Reach Level 20 in Corpse Explosion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1021_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summon Reaper Master",
+      "description": "Reach Level 20 in Summon Reaper"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1022_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Whirlwind Master",
+      "description": "Reach Level 20 in Blood Whirlwind"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1023_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swamp of the Dead Master",
+      "description": "Reach Level 20 in Swamp of the Dead"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_75_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warped Challenge",
+      "description": "Clear Warped Floor 10 times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_76_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss Slayer",
+      "description": "Clear Dual Boss Arena 3 times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1200_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Training I",
+      "description": "Reach Skill Mastery Level 5 in Dagger"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1200_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Training II",
+      "description": "Reach Skill Mastery Level 10 in Dagger"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1200_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dagger Training III",
+      "description": "Reach Skill Mastery Level 15 in Dagger"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1203_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Hammer Training I",
+      "description": "Reach Skill Mastery Level 5 in Magic Hammer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1203_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Hammer Training II",
+      "description": "Reach Skill Mastery Level 10 in Magic Hammer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1203_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic Hammer Training III",
+      "description": "Reach Skill Mastery Level 15 in Magic Hammer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1206_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Spike Training I",
+      "description": "Reach Skill Mastery Level 5 in Earth Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1206_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Spike Training II",
+      "description": "Reach Skill Mastery Level 10 in Earth Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1206_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earth Spike Training III",
+      "description": "Reach Skill Mastery Level 15 in Earth Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1209_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spinning Blade Training I",
+      "description": "Reach Skill Mastery Level 5 in Spinning Blade"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1209_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spinning Blade Training II",
+      "description": "Reach Skill Mastery Level 10 in Spinning Blade"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1209_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spinning Blade Training III",
+      "description": "Reach Skill Mastery Level 15 in Spinning Blade"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1212_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon’s Breath Training I",
+      "description": "Reach Skill Mastery Level 5 in Dragon’s Breath"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1212_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon’s Breath Training II",
+      "description": "Reach Skill Mastery Level 10 in Dragon’s Breath"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1212_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon’s Breath Training III",
+      "description": "Reach Skill Mastery Level 15 in Dragon’s Breath"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1215_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Training I",
+      "description": "Reach Skill Mastery Level 5 in Meteor Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1215_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Training II",
+      "description": "Reach Skill Mastery Level 10 in Meteor Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1215_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteor Strike Training III",
+      "description": "Reach Skill Mastery Level 15 in Meteor Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1218_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Orb Training I",
+      "description": "Reach Skill Mastery Level 5 in Fire Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1218_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Orb Training II",
+      "description": "Reach Skill Mastery Level 10 in Fire Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1218_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Orb Training III",
+      "description": "Reach Skill Mastery Level 15 in Fire Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1221_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phoenix Training I",
+      "description": "Reach Skill Mastery Level 5 in Phoenix"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1221_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phoenix Training II",
+      "description": "Reach Skill Mastery Level 10 in Phoenix"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1221_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phoenix Training III",
+      "description": "Reach Skill Mastery Level 15 in Phoenix"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1224_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Arrow Training I",
+      "description": "Reach Skill Mastery Level 5 in Frost Arrow"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1224_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Arrow Training II",
+      "description": "Reach Skill Mastery Level 10 in Frost Arrow"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1224_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frost Arrow Training III",
+      "description": "Reach Skill Mastery Level 15 in Frost Arrow"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1227_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Spike Training I",
+      "description": "Reach Skill Mastery Level 5 in Ice Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1227_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Spike Training II",
+      "description": "Reach Skill Mastery Level 10 in Ice Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1227_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Spike Training III",
+      "description": "Reach Skill Mastery Level 15 in Ice Spike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1230_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Orb Training I",
+      "description": "Reach Skill Mastery Level 5 in Ice Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1230_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Orb Training II",
+      "description": "Reach Skill Mastery Level 10 in Ice Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1230_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Orb Training III",
+      "description": "Reach Skill Mastery Level 15 in Ice Orb"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1233_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blizzard Training I",
+      "description": "Reach Skill Mastery Level 5 in Blizzard"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1233_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blizzard Training II",
+      "description": "Reach Skill Mastery Level 10 in Blizzard"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1233_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blizzard Training III",
+      "description": "Reach Skill Mastery Level 15 in Blizzard"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1236_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ball Lightning Training I",
+      "description": "Reach Skill Mastery Level 5 in Ball Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1236_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ball Lightning Training II",
+      "description": "Reach Skill Mastery Level 10 in Ball Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1236_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ball Lightning Training III",
+      "description": "Reach Skill Mastery Level 15 in Ball Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1239_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Wave Training I",
+      "description": "Reach Skill Mastery Level 5 in Lightning Wave"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1239_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Wave Training II",
+      "description": "Reach Skill Mastery Level 10 in Lightning Wave"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1239_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Wave Training III",
+      "description": "Reach Skill Mastery Level 15 in Lightning Wave"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1242_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Lightning Training I",
+      "description": "Reach Skill Mastery Level 5 in Chain Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1242_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Lightning Training II",
+      "description": "Reach Skill Mastery Level 10 in Chain Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1242_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Lightning Training III",
+      "description": "Reach Skill Mastery Level 15 in Chain Lightning"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1245_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strike Training I",
+      "description": "Reach Skill Mastery Level 5 in Lightning Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1245_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strike Training II",
+      "description": "Reach Skill Mastery Level 10 in Lightning Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1245_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strike Training III",
+      "description": "Reach Skill Mastery Level 15 in Lightning Strike"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1248_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear of Light Training I",
+      "description": "Reach Skill Mastery Level 5 in Spear of Light"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1248_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear of Light Training II",
+      "description": "Reach Skill Mastery Level 10 in Spear of Light"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1248_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear of Light Training III",
+      "description": "Reach Skill Mastery Level 15 in Spear of Light"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1251_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heaven’s Judgment Training I",
+      "description": "Reach Skill Mastery Level 5 in Heaven’s Judgment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1251_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heaven’s Judgment Training II",
+      "description": "Reach Skill Mastery Level 10 in Heaven’s Judgment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1251_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heaven’s Judgment Training III",
+      "description": "Reach Skill Mastery Level 15 in Heaven’s Judgment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1254_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sanctuary Training I",
+      "description": "Reach Skill Mastery Level 5 in Sanctuary"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1254_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sanctuary Training II",
+      "description": "Reach Skill Mastery Level 10 in Sanctuary"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1254_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sanctuary Training III",
+      "description": "Reach Skill Mastery Level 15 in Sanctuary"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1257_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purge Training I",
+      "description": "Reach Skill Mastery Level 5 in Purge"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1257_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purge Training II",
+      "description": "Reach Skill Mastery Level 10 in Purge"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1257_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purge Training III",
+      "description": "Reach Skill Mastery Level 15 in Purge"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1260_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse Explosion Training I",
+      "description": "Reach Skill Mastery Level 5 in Corpse Explosion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1260_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse Explosion Training II",
+      "description": "Reach Skill Mastery Level 10 in Corpse Explosion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1260_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse Explosion Training III",
+      "description": "Reach Skill Mastery Level 15 in Corpse Explosion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1263_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summon Reaper Training I",
+      "description": "Reach Skill Mastery Level 5 in Summon Reaper"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1263_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summon Reaper Training II",
+      "description": "Reach Skill Mastery Level 10 in Summon Reaper"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1263_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Summon Reaper Training III",
+      "description": "Reach Skill Mastery Level 15 in Summon Reaper"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1266_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Whirlwind Training I",
+      "description": "Reach Skill Mastery Level 5 in Blood Whirlwind"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1266_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Whirlwind Training II",
+      "description": "Reach Skill Mastery Level 10 in Blood Whirlwind"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1266_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Whirlwind Training III",
+      "description": "Reach Skill Mastery Level 15 in Blood Whirlwind"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1269_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swamp of the Dead Training I",
+      "description": "Reach Skill Mastery Level 5 in Swamp of the Dead"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1269_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swamp of the Dead Training II",
+      "description": "Reach Skill Mastery Level 10 in Swamp of the Dead"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1269_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swamp of the Dead Training III",
+      "description": "Reach Skill Mastery Level 15 in Swamp of the Dead"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror VII",
+      "description": "Defeat The Unmaker of Existence"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_34_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reckless Defiance VII",
+      "description": "Defeat The Unmaker of Existence on Nightmare difficulty"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1400_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Warrior I",
+      "description": "As Warrior, reach a total of 30 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1400_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Warrior II",
+      "description": "As Warrior, reach a total of 80 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1400_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Warrior III",
+      "description": "As Warrior, reach a total of 130 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1400_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Warrior IV",
+      "description": "As Warrior, reach a total of 200 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1404_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Wizard I",
+      "description": "As Wizard, reach a total of 30 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1404_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Wizard II",
+      "description": "As Wizard, reach a total of 80 levels in Strength, Dexterity, Intelligence, and Vitality Blessingsssings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1404_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Wizard III",
+      "description": "As Wizard, reach a total of 130 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1404_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Wizard IV",
+      "description": "As Wizard, reach a total of 200 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1408_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Brawler I",
+      "description": "As Brawler, reach a total of 30 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1408_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Brawler II",
+      "description": "As Brawler, reach a total of 80 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1408_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Brawler III",
+      "description": "As Brawler, reach a total of 130 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1408_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Brawler IV",
+      "description": "As Brawler, reach a total of 200 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1412_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Demon Hunter I",
+      "description": "As Demon Hunter, reach a total of 30 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1412_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Demon Hunter II",
+      "description": "As Demon Hunter, reach a total of 80 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1412_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Demon Hunter III",
+      "description": "As Demon Hunter, reach a total of 130 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1412_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Demon Hunter IV",
+      "description": "As Demon Hunter, reach a total of 200 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1416_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Skullcrusher I",
+      "description": "As Skullcrusher, reach a total of 30 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1416_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Skullcrusher II",
+      "description": "As Skullcrusher, reach a total of 80 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1416_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Skullcrusher III",
+      "description": "As Skullcrusher, reach a total of 130 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1416_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Skullcrusher IV",
+      "description": "As Skullcrusher, reach a total of 200 levels in Strength, Dexterity, Intelligence, and Vitality Blessings"
+    }
+  ]
+}

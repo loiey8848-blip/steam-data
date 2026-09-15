@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2071280,
+  "game": "Ravenswatch",
+  "total": 45,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:27.723232+00:00",
+  "achievements": [
+    {
+      "apiname": "LevelUpHero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Once upon a time ",
+      "description": "Level up a Hero during a game "
+    },
+    {
+      "apiname": "SelectUltimateAbility",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Technique ",
+      "description": "Select an Ultimate ability during a game "
+    },
+    {
+      "apiname": "SelectFinalTalent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fulfillment ",
+      "description": "Select a Final Talent during a game "
+    },
+    {
+      "apiname": "ReachChapter2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chapter 2 ",
+      "description": "Reach Chapter 2 "
+    },
+    {
+      "apiname": "ReachChapter3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chapter 3 ",
+      "description": "Reach Chapter 3 "
+    },
+    {
+      "apiname": "ReachEpilogPart1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The House of Nightmares ",
+      "description": ""
+    },
+    {
+      "apiname": "ReachEpilogPart2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ogress's Lair ",
+      "description": ""
+    },
+    {
+      "apiname": "UnlockAllScarletMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Diary of Days ",
+      "description": "Unlock all Memoirs of Scarlet "
+    },
+    {
+      "apiname": "UnlockAllPiperMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tale of Frightful Fife ",
+      "description": "Unlock all Memoirs of the Pied Piper "
+    },
+    {
+      "apiname": "UnlockAllBeowulfMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Curse of a Drake's Mother ",
+      "description": "Unlock all Memoirs of Beowulf "
+    },
+    {
+      "apiname": "UnlockAllSnowQueenMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Annals of the Reign of Queen Nyss ",
+      "description": "Unlock all Memoirs of the Snow Queen "
+    },
+    {
+      "apiname": "UnlockAllAladdinMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thief Who Married a Princess ",
+      "description": "Unlock all Memoirs of Aladdin "
+    },
+    {
+      "apiname": "UnlockAllMelusineMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Mermaid's Lullaby ",
+      "description": "Unlock all Memoirs of Melusine "
+    },
+    {
+      "apiname": "UnlockAllGeppettoMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Memoir of Dire Mirth ",
+      "description": "Unlock all Memoirs of Geppetto "
+    },
+    {
+      "apiname": "UnlockAllSunWukongMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Epic Tragic Tale of Immortal Demise ",
+      "description": "Unlock all Memoirs of Sun Wukong "
+    },
+    {
+      "apiname": "UnlockAllCarmillaMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Letters to Laura - Diary of a Dhampire ",
+      "description": "Unlock all Memoirs of Carmilla "
+    },
+    {
+      "apiname": "AchieveMultiplayerVictory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ravenswatch Oath ",
+      "description": "Achieve Victory in multiplayer "
+    },
+    {
+      "apiname": "CompleteChallengesInDarknessDifficulty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Challenges ",
+      "description": "Complete 5 challenges in Darkness difficulty or more "
+    },
+    {
+      "apiname": "CompleteAllThreePigQuests",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Three Little Pigs ",
+      "description": "Complete all three Swyne brothers quests "
+    },
+    {
+      "apiname": "CompleteQuestsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No one left behind ",
+      "description": "Complete 3 quests in a single run "
+    },
+    {
+      "apiname": "CompleteGrimoiresInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thirst for Knowledge ",
+      "description": "Complete 4 or more Grimoires in a single run "
+    },
+    {
+      "apiname": "CompleteTumorsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cleansing of Reverie ",
+      "description": "Complete 3 or more Nightmare tumors in a single run "
+    },
+    {
+      "apiname": "WishAllMagicalObjectsInASingleWishingWell",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Wishes ",
+      "description": "Wish for 3 Magical Objects at a single Wishing Well "
+    },
+    {
+      "apiname": "DefeatMiniBossesInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Slayer ",
+      "description": "Defeat 3 optional bosses in a single run "
+    },
+    {
+      "apiname": "UseHealingFountainsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Reinvigorating Journey ",
+      "description": "Use 6 or more Healing fountains in a single run "
+    },
+    {
+      "apiname": "BuyFeathersFromAltarOfHeroesInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercy of the Ravens ",
+      "description": "Buy 3 feathers from Altar of Heroes in a single run "
+    },
+    {
+      "apiname": "EquipMagicalObjectsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loot Hoarder ",
+      "description": "Have 20 or more magical objects equiped during a single run "
+    },
+    {
+      "apiname": "HaveLegendaryTalentsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Hero ",
+      "description": ""
+    },
+    {
+      "apiname": "ReviveHeroesAtTheSameTime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of the Day ",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatBabaYagaWithoutUsingAnyFeather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All is well that ends well ",
+      "description": ""
+    },
+    {
+      "apiname": "CollectKeysInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open sesame! ",
+      "description": "Collect 5 or more keys in a single run "
+    },
+    {
+      "apiname": "RefugeeInteractionsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Socialization ",
+      "description": "Interact with 6 or more Refugees in a single run "
+    },
+    {
+      "apiname": "UseBloodFountainsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thirst for Power ",
+      "description": "Use 6 or more Sacrificial Idols in a single run"
+    },
+    {
+      "apiname": "UnlockAllJulietMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tale of Woe",
+      "description": "Unlock all Memoirs of Juliet"
+    },
+    {
+      "apiname": "UnlockAllRomeoMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thy Letters to Thine Self",
+      "description": "Unlock all Memoirs of Romeo"
+    },
+    {
+      "apiname": "AchieveRomeoOrJulietVictory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cursed Lovers",
+      "description": "Achieve Victory in Multiplayer with Romeo or Juliet (together)"
+    },
+    {
+      "apiname": "CollectShardsFromLeprechaunCauldron",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Leprechaun Treasure",
+      "description": "Get 400 Dreamshards or more from a Leprechaun's Cauldron"
+    },
+    {
+      "apiname": "CompleteChapterInFullOvertime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overpowered Nightmare",
+      "description": "Complete a chapter using the full overtime"
+    },
+    {
+      "apiname": "CollectHourglassMOsInASingleVictoryRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Swift Victory",
+      "description": "Achieve victory with 9 Magical Objects or more collected from the Hourglass of Dreams"
+    },
+    {
+      "apiname": "UnlockAllMerlinMemoirs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Curse of Merlin Farseer",
+      "description": "Unlock all Memoirs of Merlin"
+    },
+    {
+      "apiname": "CompleteObjectCompendium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Object Compendium ",
+      "description": "Discover all Magical Objects and their collection effects "
+    },
+    {
+      "apiname": "MerlinDefeatBabaYagaWithoutReroll",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Predestined Fate ",
+      "description": ""
+    },
+    {
+      "apiname": "DefeatStingyJack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack O'Lantern",
+      "description": "Defeat Stingy Jack"
+    },
+    {
+      "apiname": "MirrorDuplicationsInASingleRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intense Shimmers",
+      "description": "Duplicate 4 objects using the Magical Mirror in a single run"
+    },
+    {
+      "apiname": "CompleteMelodiesCompendium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Symphony of Reverie",
+      "description": "Discover all the Melodies"
+    }
+  ]
+}

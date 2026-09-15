@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3998900,
+  "game": "Claws Of Power",
+  "total": 30,
+  "unlocked": 15,
+  "percent": 50.0,
+  "updated_at_utc": "2026-09-15T06:53:38.188197+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_STORY_CH01",
+      "achieved": 1,
+      "unlocktime": 1789315101,
+      "name": "制霸丛林",
+      "description": "通关第一章结尾普通关"
+    },
+    {
+      "apiname": "ACH_STORY_CH02",
+      "achieved": 1,
+      "unlocktime": 1789348681,
+      "name": "拿下冷兵器",
+      "description": "通关第二章结尾普通关"
+    },
+    {
+      "apiname": "ACH_STORY_CH03",
+      "achieved": 1,
+      "unlocktime": 1789349906,
+      "name": "魔法森林",
+      "description": "通关第三章结尾普通关"
+    },
+    {
+      "apiname": "ACH_STORY_CH04",
+      "achieved": 1,
+      "unlocktime": 1789351193,
+      "name": "火热战场",
+      "description": "通关第四章结尾普通关"
+    },
+    {
+      "apiname": "ACH_STORY_CH05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "极寒考验",
+      "description": "通关第五章结尾普通关"
+    },
+    {
+      "apiname": "ACH_STORY_CH06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "直面父亲的资格",
+      "description": "通关第六章结尾普通关"
+    },
+    {
+      "apiname": "ACH_BOSS_DUANZANG",
+      "achieved": 1,
+      "unlocktime": 1789349048,
+      "name": "麾下大将",
+      "description": "断藏达到最高等级并完成击败"
+    },
+    {
+      "apiname": "ACH_BOSS_DRACULMEOW",
+      "achieved": 1,
+      "unlocktime": 1789350374,
+      "name": "破晓之时",
+      "description": "德古喵达到最高等级并完成击败"
+    },
+    {
+      "apiname": "ACH_BOSS_FATHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "父亲的认可",
+      "description": "击败父亲大人"
+    },
+    {
+      "apiname": "ACH_SECRET_01",
+      "achieved": 1,
+      "unlocktime": 1789315000,
+      "name": "捕鱼达人",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SECRET_02",
+      "achieved": 1,
+      "unlocktime": 1789316149,
+      "name": "骑士毕业",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SECRET_03",
+      "achieved": 1,
+      "unlocktime": 1789352423,
+      "name": "好赌成性",
+      "description": "完成秘密关卡老虎机"
+    },
+    {
+      "apiname": "ACH_CATS_01",
+      "achieved": 1,
+      "unlocktime": 1789314474,
+      "name": "新晋老大",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CATS_25",
+      "achieved": 1,
+      "unlocktime": 1789350915,
+      "name": "猫多势众",
+      "description": "收集 25 只配置的可收集猫咪手下"
+    },
+    {
+      "apiname": "ACH_CATS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "四十喵将",
+      "description": "收集全部 40 只配置的可收集猫咪手下"
+    },
+    {
+      "apiname": "ACH_STONES_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "装备大师",
+      "description": "解锁当前配置的全部装备"
+    },
+    {
+      "apiname": "ACH_SHOP_ITEMS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "收藏家",
+      "description": "当前拥有全部普通商店道具"
+    },
+    {
+      "apiname": "ACH_TALENT_01",
+      "achieved": 1,
+      "unlocktime": 1789314539,
+      "name": "稳固基地",
+      "description": "激活第一个基地天赋"
+    },
+    {
+      "apiname": "ACH_TALENTS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "满级猫屋",
+      "description": "激活当前配置的全部主城天赋"
+    },
+    {
+      "apiname": "ACH_HARD_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "真正的考验",
+      "description": "解锁困难模式"
+    },
+    {
+      "apiname": "ACH_HARD_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "硬汉",
+      "description": "通关全部困难关卡"
+    },
+    {
+      "apiname": "ACH_INFINITE_DUANZANG_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "无尽断藏",
+      "description": "击败无限断藏第 10 阶"
+    },
+    {
+      "apiname": "ACH_INFINITE_DRACULMEOW_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "无尽夜幕",
+      "description": "击败无限德古喵第 10 阶"
+    },
+    {
+      "apiname": "ACH_INFINITE_FATHER_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "无尽父爱",
+      "description": "击败无限父亲大人第 10 阶"
+    },
+    {
+      "apiname": "ACH_BASE_RUSH",
+      "achieved": 1,
+      "unlocktime": 1789314624,
+      "name": "先发制喵",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BOSS_ASSIST_2",
+      "achieved": 1,
+      "unlocktime": 1789351662,
+      "name": "呼来喝去",
+      "description": "单局内主动召唤 Boss 助战至少 2 次"
+    },
+    {
+      "apiname": "ACH_STICK_JACK_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "百喵成杰",
+      "description": "累计主动召唤 100 只棒杰克"
+    },
+    {
+      "apiname": "ACH_FINAL_LOW_COST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "以小博大",
+      "description": "在最后一关中，仅召唤基础费用不高于 10 的单位后通关"
+    },
+    {
+      "apiname": "ACH_GOLDEN_TOUCH_BONUS_5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "点石成金",
+      "description": "通过装备点金手或道具点金手累计获得 5,000 额外金币"
+    },
+    {
+      "apiname": "ACH_CLONE_SHOVEL_100",
+      "achieved": 1,
+      "unlocktime": 1789349599,
+      "name": "分身有术",
+      "description": "累计通过分身铲召唤 100 个分身"
+    }
+  ]
+}

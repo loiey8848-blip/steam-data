@@ -1,0 +1,3175 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 231430,
+  "game": "Company of Heroes 2",
+  "total": 452,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:40.051964+00:00",
+  "achievements": [
+    {
+      "apiname": "mp_pga_vp_game_played_250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attrition over Annihilation",
+      "description": "Play 250 Victory Point games"
+    },
+    {
+      "apiname": "mp_pga_armour_spec_soviet_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soviet Vehicle Specialist",
+      "description": "End 15 games with the majority of your kills from vehicles (Soviet)"
+    },
+    {
+      "apiname": "mp_pga_armour_spec_german_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Krieg",
+      "description": "End 15 games with the majority of your kills from vehicles (German)"
+    },
+    {
+      "apiname": "mp_pga_annihilate_game_won_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilator",
+      "description": "Win 100 annihilate games"
+    },
+    {
+      "apiname": "mp_pga_annihilate_game_played_250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilation over Attrition",
+      "description": "Play 250 Annihilate games"
+    },
+    {
+      "apiname": "mp_pga_2x_losses_suffered_win_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Toll",
+      "description": "Win a game despite having twice as many deaths as kills"
+    },
+    {
+      "apiname": "mp_pga_2to1_kd_ratio_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attrition",
+      "description": "End 25 games with a kill:death ratio greater than 2:1"
+    },
+    {
+      "apiname": "mp_pga_win_vs_4_ai_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Games IV",
+      "description": "Win 100 games versus four AI opponents"
+    },
+    {
+      "apiname": "mp_pga_win_vs_3_ai_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Games III",
+      "description": "Win 100 games versus three AI opponents"
+    },
+    {
+      "apiname": "mp_pga_win_vs_2_ai_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Games II",
+      "description": "Win 100 games versus two AI opponents"
+    },
+    {
+      "apiname": "mp_pga_win_vs_1_ai_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Games I",
+      "description": "Win 100 games versus one AI opponent"
+    },
+    {
+      "apiname": "mp_pga_vp_total_victory_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Victory",
+      "description": "Win 25 games with 500 or greater point lead"
+    },
+    {
+      "apiname": "mp_pga_vp_overwhelming_victory_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overwhelming Might",
+      "description": "Win 50 games with a point lead greater than 400"
+    },
+    {
+      "apiname": "mp_pga_vp_heartbreaking_loss_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heartbreaking Loss",
+      "description": "Lose 25 Victory Point games by reaching zero points with a 100 or less point difference"
+    },
+    {
+      "apiname": "mp_pga_vp_game_won_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attrition Expert",
+      "description": "Win 100 Victory Point games"
+    },
+    {
+      "apiname": "mp_pga_vp_challenging_victory_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenging Victory",
+      "description": "Win 25 games with a point lead under 100"
+    },
+    {
+      "apiname": "mp_pga_teamwep_spec_soviet_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soviet Team Weapon Specialist",
+      "description": "End 15 games with the majority of your kills from team weapons (Soviet)"
+    },
+    {
+      "apiname": "mp_pga_teamwep_spec_german_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "German Team Weapon Specialist",
+      "description": "End 15 games with the majority of your kills from team weapons (German)"
+    },
+    {
+      "apiname": "mp_pga_stayed_until_end_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Last Bullet",
+      "description": "Finish 500 automatch or skirmish games"
+    },
+    {
+      "apiname": "mp_pga_spend_munitions_3_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Munitions III",
+      "description": "Spend over 2500 munitions in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_munitions_2_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Munitions II",
+      "description": "Spend over 2000 munitions in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_munitions_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Munitions I",
+      "description": "Spend over 1500 munitions in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_fuel_3_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Fuel III",
+      "description": "Spend over 1250 fuel in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_fuel_2_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Fuel II",
+      "description": "Spend over 1000 fuel in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_fuel_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Footing Fuel I",
+      "description": "Spend over 750 fuel in each of 15 games"
+    },
+    {
+      "apiname": "mp_pga_spend_everything_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Command Economy",
+      "description": "Spend over 7500 resources in 15 games"
+    },
+    {
+      "apiname": "mp_pga_play_as_soviet_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soviet Battle Medallion",
+      "description": "Play as the Soviets 500 times"
+    },
+    {
+      "apiname": "mp_pga_play_as_german_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "German Battle Medallion",
+      "description": "Play as the Germans 500 times"
+    },
+    {
+      "apiname": "mp_pga_longgame_vs_soviet_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delaying the Inevitable",
+      "description": "Play 50 games against a Soviet opponent that last longer than 45 minutes"
+    },
+    {
+      "apiname": "mp_pga_lose_3x_win_soviet_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Human Wave",
+      "description": "Win a game as Soviets despite having three times as many deaths as kills"
+    },
+    {
+      "apiname": "mp_pga_infantry_spec_german_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fusilier",
+      "description": "End 15 games with the majority of your kills from infantry (German)"
+    },
+    {
+      "apiname": "mp_pga_infantry_spec_soviet_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soviet Infantry Specialist",
+      "description": "End 15 games with the majority of your kills from infantry (Soviet)"
+    },
+    {
+      "apiname": "mp_pga_capture_tanks_weps_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Material",
+      "description": "Capture five team weapons or vehicles in 25 different games"
+    },
+    {
+      "apiname": "mp_pga_build_bunkers_german_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staunch Defense",
+      "description": "Build 10 or more bunkers in 15 games"
+    },
+    {
+      "apiname": "ib_is2_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "IS-2 Specialist",
+      "description": "Build 30 IS-2 and achieve three levels of veteran status with 5 IS-2s"
+    },
+    {
+      "apiname": "ib_one_tank_army",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Tank Army",
+      "description": "Destroy 20 Vehicles and kill 200 Infantry with IS-2s"
+    },
+    {
+      "apiname": "ib_sibling_rivalry_soviet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sibling Rivalry (Soviet)",
+      "description": "Destroy 10 Tiger PzKpfw VIs with IS-2s"
+    },
+    {
+      "apiname": "ib_sibling_rivalry_german",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sibling Rivalry (German)",
+      "description": "Destroy 10 IS-2s with  Tiger PzKpfw VIs"
+    },
+    {
+      "apiname": "ib_top_of_the_food_chain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top of the Food Chain",
+      "description": "Destroy 20 T-34/76s and 10 T-34/85s with Tiger PzKpfw VI tanks"
+    },
+    {
+      "apiname": "ib_king_tiger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King Tiger",
+      "description": "Kill 50 enemies with a single Tiger PzKpfw VI"
+    },
+    {
+      "apiname": "ib_kv8_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "KV-8 Specialist",
+      "description": "Kill 300 infantry and achieve three levels of veteran status with 5 KV-8s"
+    },
+    {
+      "apiname": "ib_fire_of_this_magnitude",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Heavy Armor Cannot Withstand Fire of this Magnitude",
+      "description": "Destroy 25 heavy tanks with Elefants"
+    },
+    {
+      "apiname": "ib_death_from_afar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death from Afar",
+      "description": "Destroy 40 T-34/76 medium tanks with Elefants"
+    },
+    {
+      "apiname": "ib_elefant_frenzy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elefant Frenzy",
+      "description": "Kill 30 enemies with each of 5 different Elefant tanks"
+    },
+    {
+      "apiname": "ib_tank_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank Hunter",
+      "description": "Destroy 50 medium tanks and 30 heavy tanks with Panther PzKpfw Vs"
+    },
+    {
+      "apiname": "ib_deadly_purpose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Purpose",
+      "description": "Build 50 T-34/85s and destroy 10 heavy tanks with T-34/85s"
+    },
+    {
+      "apiname": "ib_ramming_speed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ramming Speed!",
+      "description": "Use the T-34/76 ramming ability 50 times"
+    },
+    {
+      "apiname": "ib_multi_talented",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multi-talented",
+      "description": "Kill 100 infantry and 20 vehicles with T-34/76s"
+    },
+    {
+      "apiname": "ib_light_snack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light Snack",
+      "description": "Destroy 50 T-70s with Panzer IVs"
+    },
+    {
+      "apiname": "ib_evenly_matched",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evenly Matched",
+      "description": "Destroy 25 T-34/76s with Panzer IVs"
+    },
+    {
+      "apiname": "ib_panzeriv_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer IV Specialist",
+      "description": "Build 50 Panzer Ivs and achieve three levels of veteran status with 15 Panzer Ivs "
+    },
+    {
+      "apiname": "ib_massacre",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Massacre",
+      "description": "Kill 250 HMG team members and 250 Mortar team members with Ostwinds"
+    },
+    {
+      "apiname": "ib_not_simply_aa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Simply Anti-Air",
+      "description": "Destroy 100 light vehicles with Ostwinds"
+    },
+    {
+      "apiname": "ib_outrun_and_outgun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outrun and Outgun",
+      "description": "Destroy 75 light vehicles with T-70s"
+    },
+    {
+      "apiname": "ib_up_close_and_personal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Up Close and Personal",
+      "description": "Kill 150 Anti-tank Gun team members with T-70s"
+    },
+    {
+      "apiname": "ib_its_super_effective",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Super Effective!",
+      "description": "Kill 200 Heavy Machine Gun team members and 200 Mortar team members with Sdkfz 222 Scout Cars"
+    },
+    {
+      "apiname": "ib_sniper_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniper Hunter",
+      "description": "Kill 50 snipers with Sdkfz 222 Scout Cars"
+    },
+    {
+      "apiname": "ib_flame_on",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame On!",
+      "description": "Upgrade 60 Sdkfz 251 Halftracks with Flame Projectors"
+    },
+    {
+      "apiname": "ib_more_than_personnel_carrier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Than Just a Personnel Carrier",
+      "description": "Kill 250 infantry with M5 Halftracks"
+    },
+    {
+      "apiname": "ib_no_fly_zone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No-Fly Zone",
+      "description": "Upgrade 60 M5 Halftracks with the M17 Quad AA package"
+    },
+    {
+      "apiname": "ib_what_i_call_recon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now That's What I Call Recon",
+      "description": "Kill 15 enemies with each of 20 different M3A1 Scout Cars"
+    },
+    {
+      "apiname": "ib_m3a1_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M3A1 Specialist",
+      "description": "Achieve three levels of veteran status with 40 M3A1 Scout Cars"
+    },
+    {
+      "apiname": "ib_penetrating_performance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penetrating Performance",
+      "description": "Destroy 75 medium tanks with ZIS-3 76mm Divisional Field Guns"
+    },
+    {
+      "apiname": "ib_explosivist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explosivist",
+      "description": "Use the ZIS-3 76mm Divisional Field Gun Light Artillery Barrage ability 75 times"
+    },
+    {
+      "apiname": "ib_knife_through_butter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knife through Butter",
+      "description": "Destroy 100 light vehicles with Pak40 Anti-tank Guns"
+    },
+    {
+      "apiname": "ib_paks_quite_a_punch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "'Pak's Quite a Punch",
+      "description": "Build 100 Pak40 Anti-tank Guns and kill 15 medium tanks with Pak40 Anti-tank Guns"
+    },
+    {
+      "apiname": "ib_pak43_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pak43 Specialist",
+      "description": "Achieve three levels of veteran status with 10 Pak43 Anti-tank Guns"
+    },
+    {
+      "apiname": "ib_unstoppable_force",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unstoppable Force",
+      "description": "Build 50 Pak43 Anti-tank Guns and kill 5 IS-2 heavy tanks with Pak43s"
+    },
+    {
+      "apiname": "ib_long_distance_combat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Distance Combat",
+      "description": "Destroy 5 Elefant tanks with ML-20 152mm Gun-Howitzers"
+    },
+    {
+      "apiname": "ib_never_know_what_hit_em",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Know What Hit 'Em",
+      "description": "Kill 500 infantry with ML-20 152mm Gun-Howitzers"
+    },
+    {
+      "apiname": "ib_outranged",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outranged",
+      "description": "Destroy 50 leFH 18 Artillery Howitzer team members with ML-20 152mm Gun-Howitzer"
+    },
+    {
+      "apiname": "ib_wrong_place_wrong_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrong Place, Wrong Time",
+      "description": "Destroy 30 vehicles with leFH 18 Artillery"
+    },
+    {
+      "apiname": "ib_sitting_ducks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sitting Ducks",
+      "description": "Kill 50 Mortar team memberss and 50 HMG team members with leFH 18 Artillery"
+    },
+    {
+      "apiname": "ib_blow_it_all_up",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blow It All Up!",
+      "description": "Destroy 30 buildings and kill 300 infantry with Katyushas"
+    },
+    {
+      "apiname": "ib_missiles_everywhere",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Missiles Everywhere!",
+      "description": "Use the BM-13 Katyusha 132mm Barrage ability 75 times and kill 30 enemies with each of 15 BM-13 Katyushas"
+    },
+    {
+      "apiname": "ib_death_from_above",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death from Above",
+      "description": "Kill 600 infantry with Panzerwerfers"
+    },
+    {
+      "apiname": "ib_rocket_siege",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocket Siege",
+      "description": "Use the Panzerwerfer Rocket Barrage 30 times and build 60 Panzerwerfers"
+    },
+    {
+      "apiname": "ib_tool_for_every_occasion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tool for Every Occasion",
+      "description": "Use Grenadiers' Panzerfaust ability 50 times and destroy 50 light vehicles with Grenadiers"
+    },
+    {
+      "apiname": "ib_with_extreme_difficulty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With Extreme Difficulty",
+      "description": "Destroy 5 heavy tanks with Grenadiers"
+    },
+    {
+      "apiname": "ib_oorah",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oorah!",
+      "description": "Use the Conscripts' Oorah! Ability 100 times"
+    },
+    {
+      "apiname": "ib_burn_baby_burn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn Baby Burn",
+      "description": "Use the Conscripts' Molotov Cocktail ability 80 times and kill 500 enemy infantry with Conscripts"
+    },
+    {
+      "apiname": "ib_pzgren_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Grenadier Specialist",
+      "description": "Achieve three levels of veteran status with 20 Panzer Grenadier squads and kill 300 Conscripts with Panzer Grenadier squads"
+    },
+    {
+      "apiname": "ib_commando_style",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Commando Style",
+      "description": "Kill 15 enemies with each of 25 different Panzer Grenadier squads"
+    },
+    {
+      "apiname": "ib_heavy_weapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Weapons",
+      "description": "Destroy 30 Sdkfz 222 Scout Cars, 15 Ostwinds, and 40 more vehicles with Guards"
+    },
+    {
+      "apiname": "ib_stealing_the_spotlight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stealing the Spotlight",
+      "description": "Kill 40 Panzer Grenadiers with Guards"
+    },
+    {
+      "apiname": "ib_to_the_frontlines",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Frontlines!",
+      "description": "Build 50 Shock Troops and kill 300 infantry with Shock Troops"
+    },
+    {
+      "apiname": "ib_flanking_maneuvers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flanking Maneuvers",
+      "description": "Kill 70 HMG team members and 70 Mortar team members with Shock Troops"
+    },
+    {
+      "apiname": "ib_satchel_of_trouble",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Satchel of Trouble",
+      "description": "Use the Satchel Charge ability 40 times and Kill 70 Mortar teams with Penal Battalions"
+    },
+    {
+      "apiname": "ib_torched",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Torched",
+      "description": "Upgrade 30 Penal Battalions with flamethrowers and kill 300 infantry with Penal Battalions"
+    },
+    {
+      "apiname": "ib_infantry_annihilator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infantry Annihilator",
+      "description": "Kill 250 Conscripts and 500 more infantry with Sturmpanzer IV \"Brummbärs\""
+    },
+    {
+      "apiname": "ib_brummbar_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sturmpanzer IV Specialist",
+      "description": "Achieve three levels of veteran status with 10 Sturmpanzer IV \"Brummbärs\"s and kill 40 enemies with the same Sturmpanzer IV \"Brummbär\""
+    },
+    {
+      "apiname": "ib_destined_for_destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destined for Destruction",
+      "description": "Destroy 30 T-34/76s with StuG IIIs"
+    },
+    {
+      "apiname": "ib_stug_lover",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "StuG Lover",
+      "description": "Build 60 StuG IIIs and destroy 80 vehicles with StuG IIIs"
+    },
+    {
+      "apiname": "ib_nothing_left_standing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing Left Standing",
+      "description": "Destroy 25 buildings and destroy 50 vehicles with ISU-152s"
+    },
+    {
+      "apiname": "ib_beast_killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Killer",
+      "description": "Destroy 25 Panthers PzKpfw V and 10 Tiger PzKpfw VIs with ISU-152s"
+    },
+    {
+      "apiname": "ib_tank_destroyer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tank Destroyer",
+      "description": "Destroy 15 heavy tanks with SU-85s"
+    },
+    {
+      "apiname": "ib_su76_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SU-76 Specialist",
+      "description": "Destroy 40 Light Vehicles with SU-76s and achieve three levels of veteran status with 20 SU-76s"
+    },
+    {
+      "apiname": "ib_indirect_but_deadly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect but Deadly",
+      "description": "Destroy 200 Infantry with SU-76s and use the SU-76 Barrage ability 100 times"
+    },
+    {
+      "apiname": "ib_special_ingredients",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special Ingredients",
+      "description": "Use MG42 Incendiary Armor Piercing rounds 100 times and destroy 30 light vehicles with MG42 Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_brotherly_love_german",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brotherly Love (German)",
+      "description": "Kill 100 M1910 Maxim Heavy Machine Gun team members and 300 Conscripts with MG42 Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_mg42_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MG42 Specialist",
+      "description": "Achieve three levels of veteran status with 15 MG42s"
+    },
+    {
+      "apiname": "ib_shooting_gallery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shooting Gallery",
+      "description": "Kill 500 infantry with M1910 Maxim Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_brotherly_love_soviet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brotherly Love (Soviet)",
+      "description": "Kill 100 MG42 HMG team members and 300 Grenadier squads with M1910 Maxim Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_hmg_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HMG Hero",
+      "description": "Kill 15 enemies with each of 10 different M1910 Maxim Heavy Machine Guns squads"
+    },
+    {
+      "apiname": "ib_hit_the_deck",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hit the Deck!",
+      "description": "Kill 600 infantry with Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_tougher_meat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tougher Meat",
+      "description": "Kill 100 light vehicles with Heavy Machine Guns"
+    },
+    {
+      "apiname": "ib_direct_indirect_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Direct Indirect Fire",
+      "description": "Build 80 PM-41 82mm Mortar teams and use their Mortar Barrage ability 40 times"
+    },
+    {
+      "apiname": "ib_lucky_shot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Shot",
+      "description": "Destroy 25 Sdkfz 222 Scout Cars with PM-41 82mm Mortars"
+    },
+    {
+      "apiname": "ib_82mm_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "PM-41 82mm Mortar Specialist",
+      "description": "Achieve three levels of veteran status with 20 PM-41 82mm Mortar Teams"
+    },
+    {
+      "apiname": "ib_kinslayer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kinslayer",
+      "description": "Destroy 50 Mortar team members with GrW 34 8cm Mortars"
+    },
+    {
+      "apiname": "ib_target_practice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Target Practice",
+      "description": "Kill 300 infantry with GrW 34 8cm Mortar teams"
+    },
+    {
+      "apiname": "ib_mortar_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mortar Hero",
+      "description": "Kill 15 enemies with each of 25 different GrW 34 8cm Mortar teams"
+    },
+    {
+      "apiname": "ib_bigger_is_better",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bigger is Better",
+      "description": "Build 100 HM-38 120mm Mortar teams and kill 200 infantry with HM-38 120mm Mortars"
+    },
+    {
+      "apiname": "ib_120mm_specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HM-38 120mm Mortar Specialist",
+      "description": "Destroy 15 buildings and achieve three levels of veteran status with 20 HM-38 120mm Mortars"
+    },
+    {
+      "apiname": "ib_heavytank_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Tank Production I",
+      "description": "Build 20 Tiger PzKpfw Vis, 20 IS-2s, and 40 Elefants"
+    },
+    {
+      "apiname": "ib_medtank_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium Tank Production I",
+      "description": "Build 50 Panther PzKpfw Vs and 40 T-34/85s"
+    },
+    {
+      "apiname": "ib_medtank_production_ii",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium Tank Production II",
+      "description": "Build 30 T-34/76s, 30 Panzer Ivs and 30 Ostwinds"
+    },
+    {
+      "apiname": "ib_lightvehicle_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light Vehicle Production I",
+      "description": "Build 50 T-70s, 50 Sdkfz 222 Scout Cars, and 50 M3A1 Scout Cars"
+    },
+    {
+      "apiname": "ib_assaultgun_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault Gun Production I",
+      "description": "Build 50 Sturmpanzer IVs, 10 ISU-152s, and 50 SU-85s"
+    },
+    {
+      "apiname": "ib_assaultgun_production_ii",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault Gun Production II",
+      "description": "Build 70 SU-76s and 70 StuG IIIs"
+    },
+    {
+      "apiname": "ib_artillery_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artillery Production I",
+      "description": "Build 60 BM-13 Katyushas and 60 Panzerwerfers"
+    },
+    {
+      "apiname": "ib_artillery_production_ii",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artillery Production II",
+      "description": "Build 15 ML-20 152mm Gun-Howitzer pieces and 15 leFH 18 Artillery Artillery pieces"
+    },
+    {
+      "apiname": "ib_atgun_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-tank Gun Production I",
+      "description": "Build 60 Pak40 Anti-tank Guns, 30 Pak43 Anti-tank Guns, and 60 ZIS-3 76mm Divisional Field Guns"
+    },
+    {
+      "apiname": "ib_hmg_production",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HMG Production I",
+      "description": "Build 80 M1910 Maxim Heavy Machine Gun teams and 80 MG42 Heavy Machine Gun teams"
+    },
+    {
+      "apiname": "ib_mortar_production",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mortar Production I",
+      "description": "Build 60 GrW 34 8cm Mortars, 60 PM-41 82mm Mortars, and 50 HM-38 120mm Mortars"
+    },
+    {
+      "apiname": "ib_infantry_production_i",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infantry Production I",
+      "description": "Build 100 Conscripts, 100 Grenadiers,  and 60 Panzer Grenadiers"
+    },
+    {
+      "apiname": "ib_infantry_production_ii",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infantry Production II",
+      "description": "Build 60 Shock Troops, 60 Guard Troops, and 60 Penal Battalions"
+    },
+    {
+      "apiname": "ib_lightvehicle_production_ii",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light Vehicle Production II",
+      "description": "Build 70 M5 Halftracks and 70 Sdkfz 251 Halftracks"
+    },
+    {
+      "apiname": "ib_fin_artillery_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artillery Specialist",
+      "description": "Complete all Artillery intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_assaultguns_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault Gun Specialist",
+      "description": "Complete all Assault Gun intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_atguns_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-Tank Gun Specialist",
+      "description": "Complete all Anti-Tank intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_heavytanks_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Tank Specialist",
+      "description": "Complete all Heavy Tank intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_hmgs_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Machine Gun Specialist",
+      "description": "Complete all HMG intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_lightvehicles_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light Vehicles Specialist",
+      "description": "Complete all Light Vehicles intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_mediumtanks_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium Tank Specialist",
+      "description": "Complete all Medium Tank intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_mortars_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mortar Specialist",
+      "description": "Complete all Mortar intelligence bulletins"
+    },
+    {
+      "apiname": "ib_fin_infantry_cat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infantry Specialist",
+      "description": "Complete all Infantry intelligence bulletins"
+    },
+    {
+      "apiname": "ib_armored_assassin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armored Assassin",
+      "description": "Destroy 30 BM-13 Katyushas with Panther PzKpfw Vs"
+    },
+    {
+      "apiname": "ib_invulnerable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invulnerable",
+      "description": "Destroy 50 T-70s with Panther PzKpfw Vs and achieve three levels of veteran status with 25 Panther PzKpfw Vs"
+    },
+    {
+      "apiname": "ib_mobile_bombardment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mobile Bombardment",
+      "description": "Use the Sdkfz 250/7 Mortar Halftrack's Mortar Barrage, Smoke Barrage, and Incendiary Mortar Barrage 25 times each"
+    },
+    {
+      "apiname": "ib_master_flanker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Flanker",
+      "description": "Snipe 70 HMG Team Members and 70 Mortar Team Members"
+    },
+    {
+      "apiname": "ib_sniper_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sniper Hero",
+      "description": "Kill 25 enemies with each of 15 different German Snipers"
+    },
+    {
+      "apiname": "ib_never_make_an_engineer_mad",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Make an Engineer Mad",
+      "description": "Upgrade 100 Combat Engineers with flamethrowers and kill 200 infantry with Combat Engineers"
+    },
+    {
+      "apiname": "ib_battlefield_menace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battlefield Menace",
+      "description": "Build 150 Barbed Wire pieces and plant 20 Soviet TM-35 mines"
+    },
+    {
+      "apiname": "ib_hold_the_line",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hold the Line",
+      "description": "Build 30 bunkers"
+    },
+    {
+      "apiname": "ib_dont_step_on_the_grass",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Step on the Grass",
+      "description": "Build 30 mine fields and plant 15 Teller AT Mines"
+    },
+    {
+      "apiname": "progression_rank_reached_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Private",
+      "description": "Reach the rank of Senior Private"
+    },
+    {
+      "apiname": "progression_rank_reached_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corporal",
+      "description": "Reach the rank of Corporal"
+    },
+    {
+      "apiname": "progression_rank_reached_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Corporal",
+      "description": "Reach the rank of Senior Corporal"
+    },
+    {
+      "apiname": "progression_rank_reached_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Sergeant",
+      "description": "Reach the rank of Junior Sergeant"
+    },
+    {
+      "apiname": "progression_rank_reached_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sergeant",
+      "description": "Reach the rank of Sergeant"
+    },
+    {
+      "apiname": "progression_rank_reached_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Sergeant",
+      "description": "Reach the rank of Senior Sergeant"
+    },
+    {
+      "apiname": "progression_rank_reached_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Sergeant",
+      "description": "Reach the rank of Master Sergeant"
+    },
+    {
+      "apiname": "progression_rank_reached_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sergeant Major",
+      "description": "Reach the rank of Sergeant Major"
+    },
+    {
+      "apiname": "progression_rank_reached_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrant Officer",
+      "description": "Reach the rank of Warrant Officer"
+    },
+    {
+      "apiname": "progression_rank_reached_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Warrant Officer",
+      "description": "Reach the rank of Senior Warrant Officer"
+    },
+    {
+      "apiname": "progression_rank_reached_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Junior Lieutenant",
+      "description": "Reach the rank of Junior Lieutenant"
+    },
+    {
+      "apiname": "progression_rank_reached_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lieutenant",
+      "description": "Reach the rank of Lieutenant"
+    },
+    {
+      "apiname": "progression_rank_reached_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Lieutenant",
+      "description": "Reach the rank of Senior Lieutenant"
+    },
+    {
+      "apiname": "progression_rank_reached_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captain",
+      "description": "Reach the rank of Captain"
+    },
+    {
+      "apiname": "progression_rank_reached_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Captain",
+      "description": "Reach the rank of Senior Captain"
+    },
+    {
+      "apiname": "progression_rank_reached_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Major",
+      "description": "Reach the rank of Major"
+    },
+    {
+      "apiname": "progression_rank_reached_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lieutenant Colonel",
+      "description": "Reached the rank of Lieutenant Colonel"
+    },
+    {
+      "apiname": "progression_rank_reached_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonel",
+      "description": "Reached the rank of Colonel"
+    },
+    {
+      "apiname": "progression_rank_reached_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brigadier General",
+      "description": "Reached the rank of Brigadier General"
+    },
+    {
+      "apiname": "progression_rank_reached_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Major General",
+      "description": "Reached the rank of Major General"
+    },
+    {
+      "apiname": "count_camp_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Conscript",
+      "description": "Play 1 Campaign mission"
+    },
+    {
+      "apiname": "count_camp_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Officer",
+      "description": "Play 3 Campaign missions"
+    },
+    {
+      "apiname": "count_camp_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Lieutenant",
+      "description": "Play 10 Campaign missions"
+    },
+    {
+      "apiname": "count_camp_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Commander",
+      "description": "Play 25 Campaign missions"
+    },
+    {
+      "apiname": "count_camp_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign General",
+      "description": "Play 100 Campaign missions"
+    },
+    {
+      "apiname": "count_tow_ch_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Challenge Conscript",
+      "description": "Play 1 Theater of War Challenge"
+    },
+    {
+      "apiname": "count_tow_ch_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Challenge Officer",
+      "description": "Play 3 Theater of War Challenges"
+    },
+    {
+      "apiname": "count_tow_ch_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Challenge Lieutenant",
+      "description": "Play 10 Theater of War Challenges "
+    },
+    {
+      "apiname": "count_tow_ch_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Challenge Commander",
+      "description": "Play 25 Theater of War Challenges "
+    },
+    {
+      "apiname": "count_tow_ch_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Challenge General",
+      "description": "Play 100 Theater of War Challenges"
+    },
+    {
+      "apiname": "count_tow_sk_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Scenario Conscript",
+      "description": "Play 1 Theater of War Scenario"
+    },
+    {
+      "apiname": "count_tow_sk_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Scenario Officer",
+      "description": "Play 3 Theater of War Scenarios"
+    },
+    {
+      "apiname": "count_tow_sk_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Scenario Lieutenant",
+      "description": "Play 10 Theater of War Scenarios"
+    },
+    {
+      "apiname": "count_tow_sk_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Scenario Commander",
+      "description": "Play 25 Theater of War Scenarios"
+    },
+    {
+      "apiname": "count_tow_sk_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Scenario General",
+      "description": "Play 100 Theater of War Scenarios"
+    },
+    {
+      "apiname": "count_tow_bt_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Battle Conscript",
+      "description": "Play 1 Theater of War Battle"
+    },
+    {
+      "apiname": "count_tow_bt_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Battle Officer",
+      "description": "Play 3 Theater of War Battles "
+    },
+    {
+      "apiname": "count_tow_bt_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Battle Lieutenant",
+      "description": "Play 10 Theater of War Battles "
+    },
+    {
+      "apiname": "count_tow_bt_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Battle Commander",
+      "description": "Play 25 Theater of War Battles "
+    },
+    {
+      "apiname": "count_tow_bt_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War Battle General",
+      "description": "Play 100 Theater of War Battles "
+    },
+    {
+      "apiname": "count_stomp_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp-Stomp Conscript",
+      "description": "Play 1 match versus AI"
+    },
+    {
+      "apiname": "count_stomp_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp-Stomp Officer",
+      "description": "Play 3 matches versus AI"
+    },
+    {
+      "apiname": "count_stomp_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp-Stomp Lieutenant",
+      "description": "Play 10 matches versus AI"
+    },
+    {
+      "apiname": "count_stomp_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp-Stomp Commander",
+      "description": "Play 25 matches versus AI"
+    },
+    {
+      "apiname": "count_stomp_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp-Stomp General",
+      "description": "Play 100 matches versus AI"
+    },
+    {
+      "apiname": "count_ranked_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automatch Conscript",
+      "description": "Play 1 automatch game"
+    },
+    {
+      "apiname": "count_ranked_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automatch Officer",
+      "description": "Play 3 automatch games"
+    },
+    {
+      "apiname": "count_ranked_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automatch Lieutenant",
+      "description": "Play 10 automatch games"
+    },
+    {
+      "apiname": "count_ranked_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automatch Commander",
+      "description": "Play 25 automatch games"
+    },
+    {
+      "apiname": "count_ranked_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automatch General",
+      "description": "Play 100 automatch games"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Rail Station - Conscript",
+      "description": "Complete Campaign Mission 01 - Stalingrad Rail Station on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Earth - Conscript",
+      "description": "Complete Campaign Mission 02 - Scorched Earth on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Support is on the Way - Conscript",
+      "description": "Complete Campaign Mission 03 - Support is on the Way on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Miraculous Winter - Conscript",
+      "description": "Complete Campaign Mission 04 - The Miraculous Winter on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad - Conscript",
+      "description": "Complete Campaign Mission 05 - Stalingrad on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Aftermath - Conscript",
+      "description": "Complete Campaign Mission 06 - Stalingrad Aftermath on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land Bridge to Leningrad - Conscript",
+      "description": "Complete Campaign Mission 07 - Land Bridge to Leningrad on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Hunting - Conscript",
+      "description": "Complete Campaign Mission 08 - Tiger Hunting on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Radio Silence - Conscript",
+      "description": "Complete Campaign Mission 09 - Radio Silence on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lublin - Conscript",
+      "description": "Complete Campaign Mission 10 - Lublin on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind Enemy Lines - Conscript",
+      "description": "Complete Campaign Mission 11 - Behind Enemy Lines on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poznan Citadel - Conscript",
+      "description": "Complete Campaign Mission 12 - Poznan Citadel on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halbe - Conscript",
+      "description": "Complete Campaign Mission 13 - Halbe on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_easy_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Reichstag - Conscript",
+      "description": "Complete Campaign Mission 14 - The Reichstag on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Rail Station - Captain",
+      "description": "Complete Campaign Mission 01 - Stalingrad Rail Station on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Earth - Captain",
+      "description": "Complete Campaign Mission 02 - Scorched Earth on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Support is on the Way - Captain",
+      "description": "Complete Campaign Mission 03 - Support is on the Way on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Miraculous Winter - Captain",
+      "description": "Complete Campaign Mission 04 - The Miraculous Winter on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad - Captain",
+      "description": "Complete Campaign Mission 05 - Stalingrad on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Aftermath - Captain",
+      "description": "Complete Campaign Mission 06 - Stalingrad Aftermath on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land Bridge to Leningrad - Captain",
+      "description": "Complete Campaign Mission 07 - Land Bridge to Leningrad on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Hunting - Captain",
+      "description": "Complete Campaign Mission 08 - Tiger Hunting on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Radio Silence - Captain",
+      "description": "Complete Campaign Mission 09 - Radio Silence on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lublin - Captain",
+      "description": "Complete Campaign Mission 10 - Lublin on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind Enemy Lines - Captain",
+      "description": "Complete Campaign Mission 11 - Behind Enemy Lines on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poznan Citadel - Captain",
+      "description": "Complete Campaign Mission 12 - Poznan Citadel on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halbe - Captain",
+      "description": "Complete Campaign Mission 13 - Halbe on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_med_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Reichstag - Captain",
+      "description": "Complete Campaign Mission 14 - The Reichstag on Captain difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Rail Station - General",
+      "description": "Complete Campaign Mission 01 - Stalingrad Rail Station on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorched Earth - General",
+      "description": "Complete Campaign Mission 02 - Scorched Earth on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Support is on the Way - General",
+      "description": "Complete Campaign Mission 03 - Support is on the Way on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Miraculous Winter - General",
+      "description": "Complete Campaign Mission 04 - The Miraculous Winter on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad - General",
+      "description": "Complete Campaign Mission 05 - Stalingrad on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Aftermath - General",
+      "description": "Complete Campaign Mission 06 - Stalingrad Aftermath on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land Bridge to Leningrad - General",
+      "description": "Complete Campaign Mission 07 - Land Bridge to Leningrad on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Hunting - General",
+      "description": "Complete Campaign Mission 08 - Tiger Hunting on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Radio Silence - General",
+      "description": "Complete Campaign Mission 09 - Radio Silence on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lublin - General",
+      "description": "Complete Campaign Mission 10 - Lublin on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind Enemy Lines - General",
+      "description": "Complete Campaign Mission 11 - Behind Enemy Lines on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poznan Citadel - General",
+      "description": "Complete Campaign Mission 12 - Poznan Citadel on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halbe - General",
+      "description": "Complete Campaign Mission 13 - Halbe on General difficulty"
+    },
+    {
+      "apiname": "camp_finish_mission_hard_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Reichstag - General",
+      "description": "Complete Campaign Mission 14 - The Reichstag on General difficulty"
+    },
+    {
+      "apiname": "camp_bonus_allclear_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign - Conscript",
+      "description": "Complete the Campaign on Conscript difficulty"
+    },
+    {
+      "apiname": "camp_bonus_allclear_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign - Captain",
+      "description": "Complete the Campaign on Captain difficulty"
+    },
+    {
+      "apiname": "camp_bonus_allclear_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign - General",
+      "description": "Complete the Campaign on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_blitzkrieg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blitzkrieg - Conscript",
+      "description": "Complete the Blitzkrieg Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_officer_assassination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Officer Assassination - Conscript",
+      "description": "Complete the Officer Assassination Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_schildkrotenberg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defense of Schildkröteberg - Conscript",
+      "description": "Complete the Defense of Schildkröteberg Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_cold_weather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Weather - Conscript",
+      "description": "Complete the Cold Weather Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_indirect_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect Fire - Conscript",
+      "description": "Complete the Indirect Fire Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_easy_winter_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Defense - Conscript",
+      "description": "Complete the Winter Defense Challenge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_blitzkrieg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blitzkrieg - Captain",
+      "description": "Complete the Blitzkrieg Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_officer_assassination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Officer Assassination - Captain",
+      "description": "Complete the Officer Assassination Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_schildkrotenberg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defense of Schildkröteberg - Captain",
+      "description": "Complete the Defense of Schildkröteberg Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_cold_weather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Weather - Captain",
+      "description": "Complete the Cold Weather Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_indirect_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect Fire - Captain",
+      "description": "Complete the Indirect Fire Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_med_winter_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Defense - Captain",
+      "description": "Complete the Winter Defense Challenge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_blitzkrieg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blitzkrieg - General",
+      "description": "Complete the Blitzkrieg Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_officer_assassination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Officer Assassination - General",
+      "description": "Complete the Officer Assassination Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_schildkrotenberg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defense of Schildkröteberg - General",
+      "description": "Complete the Defense of Schildkröteberg Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_cold_weather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Weather - General",
+      "description": "Complete the Cold Weather Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_indirect_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect Fire - General",
+      "description": "Complete the Indirect Fire Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_hard_winter_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Defense - General",
+      "description": "Complete the Winter Defense Challenge on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_smolensk_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encirclement at Smolensk - Conscript",
+      "description": "Complete the Encirclement at Smolensk on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_rostov_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faceoff at Rostov - Conscript",
+      "description": "Complete the Faceoff at Rostov on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_brody_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brody Tank War - Conscript",
+      "description": "Complete the Brody Tank War on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_general_winter_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Winter - Conscript",
+      "description": "Complete the General Winter Scenario on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_smolensk_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encirclement at Smolensk - Captain",
+      "description": "Complete the Encirclement at Smolensk on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_rostov_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faceoff at Rostov - Captain",
+      "description": "Complete the Faceoff at Rostov on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_brody_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brody Tank War - Captain",
+      "description": "Complete the Brody Tank War on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_general_winter_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Winter - Captain",
+      "description": "Complete the General Winter Scenario on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_smolensk_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encirclement at Smolensk - General",
+      "description": "Complete the Encirclement at Smolensk on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_rostov_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faceoff at Rostov - General",
+      "description": "Complete the Faceoff at Rostov on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_brody_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brody Tank War - General",
+      "description": "Complete the Brody Tank War on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_general_winter_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Winter - General",
+      "description": "Complete the General Winter Scenario on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_leningrad_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leningrad Approach - Conscript",
+      "description": "Complete the battle: Leningrad Approach on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_crimea_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of the Crimea - Conscript",
+      "description": "Complete the Battle of Crimea on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_oka_river_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Oka River - Conscript",
+      "description": "Complete the Battle of Oka River on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_first_kharkov_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Battle of Kharkov - Conscript",
+      "description": "Complete the First Battle of Kharkov on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_lines_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Lines - Conscript",
+      "description": "Complete the battle: Moscow Lines on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_minsk_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Minsk - Conscript",
+      "description": "Complete the Battle of Minsk on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_approach_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Approach - Conscript",
+      "description": "Complete the battle: Moscow Approach on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_pripyat_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Pripyat River - Conscript",
+      "description": "Complete the Battle of Pripyat River on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_leningrad_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leningrad Approach - Captain",
+      "description": "Complete the battle: Leningrad Approach on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_crimea_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of the Crimea - Captain",
+      "description": "Complete the Battle of Crimea on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_oka_river_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Oka River - Captain",
+      "description": "Complete the Battle of Oka River on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_first_kharkov_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Battle of Kharkov - Captain",
+      "description": "Complete the First Battle of Kharkov on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_lines_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Lines - Captain",
+      "description": "Complete the battle: Moscow Lines on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_minsk_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Minsk - Captain",
+      "description": "Complete the Battle of Minsk on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_approach_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Approach - Captain",
+      "description": "Complete the battle: Moscow Approach on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_pripyat_med",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Pripyat River - Captain",
+      "description": "Complete the Battle of Pripyat River on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_leningrad_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leningrad Approach - General",
+      "description": "Complete the battle: Leningrad Approach on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_crimea_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of the Crimea - General",
+      "description": "Complete the Battle of Crimea on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_oka_river_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Oka River - General",
+      "description": "Complete the Battle of Oka River on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_first_kharkov_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Battle of Kharkov - General",
+      "description": "Complete the First Battle of Kharkov on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_lines_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Lines - General",
+      "description": "Complete the battle: Moscow Lines on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_minsk_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Minsk - General",
+      "description": "Complete the Battle of Minsk on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_moscow_approach_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moscow Approach - General",
+      "description": "Complete the battle: Moscow Approach on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_pripyat_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle of Pripyat River - General",
+      "description": "Complete the Battle of Pripyat River on General difficulty"
+    },
+    {
+      "apiname": "tow_bonus_sc_allclear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - Scenarios",
+      "description": "Complete all Theater of War Co-op Scenarios in 1941"
+    },
+    {
+      "apiname": "tow_bonus_bt_allclear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - Battles",
+      "description": "Complete all Theater of War Battles in 1941"
+    },
+    {
+      "apiname": "tow_bonus_ch_allclear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - Challenges",
+      "description": "Complete all Theater of War Challenges in 1941"
+    },
+    {
+      "apiname": "tow_bonus_allclear_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - Conscript",
+      "description": "Complete all Theater of War missions in 1941 on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bonus_allclear_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - Captain",
+      "description": "Complete all Theater of War missions in 1941 on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bonus_allclear_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - 1941 - General",
+      "description": "Complete all Theater of War missions in 1941 on General difficulty"
+    },
+    {
+      "apiname": "camp_bonus_01_stalingrad_rail_german_engineering",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.01 - German Engineering",
+      "description": "Kill a German tank with a German AT Gun"
+    },
+    {
+      "apiname": "camp_bonus_01_stalingrad_rail_rescue_civilians",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.01 - Compassion in War",
+      "description": "Rescue the trapped civilians"
+    },
+    {
+      "apiname": "camp_bonus_01_stalingrad_rail_soviet_zeal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.01 - Soviet Zeal",
+      "description": "Complete Mission 01 without calling in additional Shock Troops"
+    },
+    {
+      "apiname": "camp_bonus_02_scorched_earth_no_mines",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.02 - What's Mine is Mine",
+      "description": "Defend the trainyard without placing any mines on the roads"
+    },
+    {
+      "apiname": "camp_bonus_02_scorched_earth_bonus_shocktroops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.02 - Invaluable Resources",
+      "description": "Keep the Shock Troops alive throughout Mission 2"
+    },
+    {
+      "apiname": "camp_bonus_03_support_borrow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.03 - Something Borrowed",
+      "description": "Capture at least 3 enemy weapons on the Ridge"
+    },
+    {
+      "apiname": "camp_bonus_03_support_mines",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.03 - Mtsensk Mine Field",
+      "description": "Place at least 10 mines before the village defense"
+    },
+    {
+      "apiname": "camp_bonus_03_support_t34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.03 - Hardened Armor",
+      "description": "Re-take the Ridge without losing a vehicle on General difficulty"
+    },
+    {
+      "apiname": "camp_bonus_04_kaluga_tank_destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.04 - Revenge",
+      "description": "Destroy all 10 tanks in Mission 4"
+    },
+    {
+      "apiname": "camp_bonus_04_kaluga_snipers_only",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.04 - Cool Efficiency",
+      "description": "Take all three German outposts in Mission 4 using only snipers"
+    },
+    {
+      "apiname": "camp_bonus_05_stalingrad_bonus_howitzers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.05 - Some Room to Breathe",
+      "description": "Locate and destroy the enemy howitzers in Stalingrad"
+    },
+    {
+      "apiname": "camp_bonus_05_stalingrad_bonus_bridge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.05 - Help from the North",
+      "description": "Secure the Northern bridge in Stalingrad"
+    },
+    {
+      "apiname": "camp_bonus_05_stalingrad_no_katyushas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.05 - The Silent Organs",
+      "description": "Complete Mission 5 without firing the Katyusha rockets"
+    },
+    {
+      "apiname": "camp_bonus_06_aftermath_scoutcar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.06 - Scout vs. Sniper",
+      "description": "Kill at least 3 snipers with an M3A1 Scout Car"
+    },
+    {
+      "apiname": "camp_bonus_06_aftermath_halftrack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.06 - Get Out of the Truck!",
+      "description": "Destroy all the German halftracks"
+    },
+    {
+      "apiname": "camp_bonus_06_aftermath_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.06 - Repel and Repair",
+      "description": "Complete the mission with at least 50 percent HQ integrity on General difficulty "
+    },
+    {
+      "apiname": "camp_bonus_07_landbridge_mortars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.07 - Direct Fire",
+      "description": "Complete the mission without capturing or deploying a Mortar"
+    },
+    {
+      "apiname": "camp_bonus_07_landbridge_su76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.07 - Suchka Specialist",
+      "description": "Earn three ranks of veterancy with an SU-76"
+    },
+    {
+      "apiname": "camp_bonus_07_landbridge_close",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.07 - Point Blank Demolition",
+      "description": "Destroy the German strongholds from close range on General difficulty"
+    },
+    {
+      "apiname": "camp_bonus_08_panzer_hunting_no_help_needed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.08 - No Help Needed",
+      "description": "Complete the “Hunt” without calling in any additional troops"
+    },
+    {
+      "apiname": "camp_bonus_09_orsha_no_radio",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.09 - All on Your Own",
+      "description": "Complete Mission 9 without reestablishing radio communication"
+    },
+    {
+      "apiname": "camp_bonus_09_orsha_tanks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.09 - The Spice of Life",
+      "description": "Create all available types of tank in Mission 9"
+    },
+    {
+      "apiname": "camp_bonus_10_lublin_vehicles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.10 - Glass Cannons",
+      "description": "Destroy an Elefant or all Pak-43s before they destroy a vehicle"
+    },
+    {
+      "apiname": "camp_bonus_10_lublin_gate",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.10 - Gate Crusher",
+      "description": "Breach the gate without losing an ISU-152 on General difficulty"
+    },
+    {
+      "apiname": "camp_bonus_11_enemylines_armiakrajowa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.11 - Armia Krajowa",
+      "description": "Mobilize all three types of partisan troops during the fight"
+    },
+    {
+      "apiname": "camp_bonus_11_enemylines_snipedriver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.11 - Snipe the driver",
+      "description": "Snipe the driver of a moving Opel truck"
+    },
+    {
+      "apiname": "camp_bonus_12_poznan_destroyed_all_howitzers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.12 - Howitzer Hunter",
+      "description": "Destroy all of the German Howitzers in the city of Poznan"
+    },
+    {
+      "apiname": "camp_bonus_12_poznan_player_captured_both_squares",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.12 - Solo Commander",
+      "description": "Capture both squares in Poznan before Colonel-General Kolpakchi’s army does"
+    },
+    {
+      "apiname": "camp_bonus_12_poznan_bonus_rescued_penal_battalions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.12 - To the Rescue",
+      "description": "Find and rescue the Penal Battalions incarcerated in the city of Poznan"
+    },
+    {
+      "apiname": "camp_bonus_13_halbe_no_escape",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.13 - Halbe Massacre",
+      "description": "Allow no Germans to escape the encirclement"
+    },
+    {
+      "apiname": "camp_bonus_13_halbe_no_construction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.13 - The Might of the Red Army",
+      "description": "Complete the Halbe encirclement without producing any additional units"
+    },
+    {
+      "apiname": "camp_bonus_14_reichstag_recrewed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.14 - Claimed for the Motherland",
+      "description": "Recrew the abandoned StuG, Brummbär and Ostwind"
+    },
+    {
+      "apiname": "camp_bonus_14_reichstag_fast_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.14 - Before the Winter",
+      "description": "Achieve victory in 60 minutes or less."
+    },
+    {
+      "apiname": "camp_bonus_14_reichstag_no_vehicles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.14 - Boots in the Streets",
+      "description": "Complete the mission without building any additional vehicles"
+    },
+    {
+      "apiname": "tow_bonus_cold_weather_help_indeed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Help Indeed",
+      "description": "Rescue all three Partizan squads in the Cold Weather challenge"
+    },
+    {
+      "apiname": "tow_bonus_cold_weather_winter_driver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Driver",
+      "description": "Recrew and fully repair a Panzer IV tank during the Cold Weather challenge"
+    },
+    {
+      "apiname": "tow_bonus_cold_weather_gold_weather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Weather",
+      "description": "Complete all objectives in the Cold Weather challenge"
+    },
+    {
+      "apiname": "tow_bonus_indirect_fire_massive_destruction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Massive Destruction",
+      "description": "Destroy 75% of the neutral structures during the Indirect Fire Challenge"
+    },
+    {
+      "apiname": "tow_bonus_indirect_fire_rocket_recovery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocket Recovery",
+      "description": "Recrew all of the Katyusha trucks on the map during the Indirect Fire Challenge"
+    },
+    {
+      "apiname": "tow_bonus_indirect_fire_indirect_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Indirect Gold",
+      "description": "Complete all objectives in the Indirect Fire Challenge"
+    },
+    {
+      "apiname": "tow_bonus_winter_defense_panzer_theft",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Theft",
+      "description": "Recrew and repair a Panzer IV tank during the Winter Defense Challenge"
+    },
+    {
+      "apiname": "tow_bonus_winter_defense_to_the_front",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Front",
+      "description": "Call in 20 squads of Fresh Conscripts during the Winter Defense Challenge"
+    },
+    {
+      "apiname": "tow_bonus_winter_defense_gold_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Defense",
+      "description": "Complete all objectives in the Winter Defense Challenge"
+    },
+    {
+      "apiname": "tow_bonus_blitzkrieg_clean_sweep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Sweep",
+      "description": "Clear the entire minefield in the Blitzkrieg Challenge"
+    },
+    {
+      "apiname": "tow_bonus_blitzkrieg_armored_and_dangerous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armored and Dangerous",
+      "description": "Recrew 10 Soviet vehicles during the Blitzkrieg Challenge"
+    },
+    {
+      "apiname": "tow_bonus_blitzkrieg_goldkrieg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goldkrieg",
+      "description": "Complete all objectives in the Blitzkrieg Challenge"
+    },
+    {
+      "apiname": "tow_bonus_officer_assassination_sharpshooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharpshooter",
+      "description": "Use a Sniper to deliver the killing shot to five Soviet officers during the Officer Assassination Challenge"
+    },
+    {
+      "apiname": "tow_bonus_officer_assassination_scrounger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrounger",
+      "description": "Pick up 80% of the supply caches on the map during the Officer Assassination Challenge"
+    },
+    {
+      "apiname": "tow_bonus_officer_assassination_gold_assassin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Assassin",
+      "description": "Complete all objectives in the Officer Assassination Challenge"
+    },
+    {
+      "apiname": "tow_bonus_schildkroteberg_hard_shell",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Shell",
+      "description": "Build 3 Panzer IV Medium Tanks during the match during the Defense of Schildkröteberg"
+    },
+    {
+      "apiname": "tow_bonus_schildkroteberg_tripple_tripple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Triple",
+      "description": "Have three squads reach triple veterancy during the Defense of Schildkröteberg"
+    },
+    {
+      "apiname": "tow_bonus_schildkroteberg_turtle_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turtle Gold",
+      "description": "Complete all objectives in the Defense of Schildkröteberg"
+    },
+    {
+      "apiname": "tow_bonus_brody_tank_war_i_need_no_help",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Need No Help",
+      "description": "Do not call in any reinforcements during the Brody Tank War"
+    },
+    {
+      "apiname": "tow_bonus_brody_tank_war_panzer_graveyard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Graveyard",
+      "description": "Destroy 20 German tanks or assault guns during the Brody Tank War"
+    },
+    {
+      "apiname": "tow_bonus_general_winter_cookout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cookout",
+      "description": "Build 10 Campfires during the General Winter Scenario"
+    },
+    {
+      "apiname": "tow_bonus_general_winter_halftracked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halftracked",
+      "description": "Recrew all the abandoned German halftracks on the General Winter Scenario map"
+    },
+    {
+      "apiname": "tow_bonus_encirclement_at_smolensk_in_the_noose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Noose",
+      "description": "Destroy all the vehicles in the Soviet breakout convoy during the Encirclement at Smolensk"
+    },
+    {
+      "apiname": "tow_bonus_faceoff_at_rostov_uncompromising",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncompromising",
+      "description": "Complete Faceoff at Rostov without the Soviets ever controlling more Victory Points than you do."
+    },
+    {
+      "apiname": "tow_bonus_faceoff_at_rostov_red_dead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Dead",
+      "description": "Kill 20 squads of Soviet Shock Troops or Penal Battalions during Faceoff at Rostov"
+    },
+    {
+      "apiname": "tow_bonus_encirclement_at_smolensk_silence_the_guns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silence the Guns",
+      "description": "Destroy the Soviet Artillery positions on the central plateau in the Encirclement at Smolensk"
+    },
+    {
+      "apiname": "camp_bonus_10_lublin_market",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.10 - Zero-Risk Market",
+      "description": "Capture the Lublin market squad without losing a soldier or vehicle"
+    },
+    {
+      "apiname": "tow_bt_don_river_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat at the Don - Captain",
+      "description": "Complete the Theater of War Battle: Retreat at the Don on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_don_river_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat at the Don - General",
+      "description": "Complete the Theater of War Battle: Retreat at the Don on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_second_kharkov_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov Pursuit - Conscript",
+      "description": "Complete the Theater of War Battle: Kharkov Pursuit on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_second_kharkov_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov - Pursuit - Captain",
+      "description": "Complete the Theater of War Battle: Kharkov Pursuit on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_second_kharkov_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov Pursuit - General",
+      "description": "Complete the Theater of War Battle: Kharkov Pursuit on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_convoy_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Convoy - Conscript",
+      "description": "Complete the Theater of War Challenge: Convoy on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_convoy_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Convoy - Captain",
+      "description": "Complete the Theater of War Challenge: Convoy on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_convoy_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Convoy - General",
+      "description": "Complete the Theater of War Challenge: Convoy on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_tiger_ace_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Ace - Conscript",
+      "description": "Complete the Theater of War Challenge: Tiger Ace on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_tiger_ace_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Ace - Captain",
+      "description": "Complete the Theater of War Challenge: Tiger Ace on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_tiger_ace_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger Ace - General",
+      "description": "Complete the Theater of War Challenge: Tiger Ace on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_voronezh_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault on Voronezh - Conscript",
+      "description": "Complete the Theater of War Scenario: Assault on Voronezh on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_voronezh_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault on Voronezh - Captain",
+      "description": "Complete the Theater of War Scenario: Assault on Voronezh on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_voronezh_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault on Voronezh - General",
+      "description": "Complete the Theater of War Scenario: Assault on Voronezh on General difficulty"
+    },
+    {
+      "apiname": "tow_dlc1_complete_all_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Case Blue - Conscript",
+      "description": "Complete all Theater of War missions in Case Blue on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_dlc1_complete_all_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Case Blue - Captain",
+      "description": "Complete all Theater of War missions in Case Blue on Captain difficulty"
+    },
+    {
+      "apiname": "tow_dlc1_complete_all_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Case Blue - General",
+      "description": "Complete all Theater of War missions in Case Blue on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_don_river_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat at the Don - Conscript",
+      "description": "Complete the Theater of War Battle: Retreat at the Don on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_resistance_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Resistance - Conscript",
+      "description": "Complete the Theater of War Battle: Stalingrad Resistance on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_resistance_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Resistance - Captain",
+      "description": "Complete the Theater of War Battle: Stalingrad Resistance on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_resistance_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Resistance - General",
+      "description": "Complete the Theater of War Battle: Stalingrad Resistance on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_terek_lines_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Storm - Conscript",
+      "description": "Complete the Theater of War Battle: Winter Storm on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_terek_lines_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Storm - Captain",
+      "description": "Complete the Theater of War Battle: Winter Storm on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_terek_lines_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winter Storm - General",
+      "description": "Complete the Theater of War Battle: Winter Storm on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_victory_at_stalingrad_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Encirclement - Conscript",
+      "description": "Complete the Theater of War Battle: Stalingrad Encirclement on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_victory_at_stalingrad_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Encirclement - Captain",
+      "description": "Complete the Theater of War Battle: Stalingrad Encirclement on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_victory_at_stalingrad_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalingrad Encirclement - General",
+      "description": "Complete the Theater of War Battle: Stalingrad Encirclement on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_airfield_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tatsinskaya Raid - Conscript",
+      "description": "Complete the Theater of War Challenge: Tatsinskaya Raid on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_airfield_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tatsinskaya Raid - Captain",
+      "description": "Complete the Theater of War Challenge: Tatsinskaya Raid on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_airfield_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tatsinskaya Raid - General",
+      "description": "Complete the Theater of War Challenge: Tatsinskaya Raid on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_bridge_defense_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bridge Defense - Conscript",
+      "description": "Complete the Theater of War Challenge: Bridge on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_bridge_defense_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bridge Defense - Captain",
+      "description": "Complete the Theater of War Challenge: Bridge on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_bridge_defense_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bridge Defense - General",
+      "description": "Complete the Theater of War Challenge: Bridge on General difficulty"
+    },
+    {
+      "apiname": "tow_sc_kalach_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kalach - Conscript",
+      "description": "Complete the Theater of War Scenario: Kalach Pincer on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_sc_kalach_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kalach - Captain",
+      "description": "Complete the Theater of War Scenario: Kalach Pincer on Captain difficulty"
+    },
+    {
+      "apiname": "tow_sc_kalach_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kalach - General",
+      "description": "Complete the Theater of War Scenario: Kalach Pincer on General difficulty"
+    },
+    {
+      "apiname": "tow_dlc2_complete_all_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Victory at Stalingrad - Conscript",
+      "description": "Complete all Theater of War missions in Victory at Stalingrad on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_dlc2_complete_all_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Victory at Stalingrad - Captain",
+      "description": "Complete all Theater of War missions in Victory at Stalingrad on Captain difficulty"
+    },
+    {
+      "apiname": "tow_dlc2_complete_all_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Victory at Stalingrad - General",
+      "description": "Complete all Theater of War missions in Victory at Stalingrad on General difficulty"
+    },
+    {
+      "apiname": "ib_offense_is_the_best_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault Grenadiers",
+      "description": "Kill 50 enemies with a single Assault Grenadier Squad"
+    },
+    {
+      "apiname": "ib_blitzkrieg",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BLITZKRIEG",
+      "description": "Deploy 50 Mechanized Assault Groups and 50 Mechanized Grenadier Groups."
+    },
+    {
+      "apiname": "ib_makeshift_artillery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Makeshift Artillery",
+      "description": "Kill 200 infantry with STUG III E assault guns"
+    },
+    {
+      "apiname": "ib_someones_got_to_reman_those_guns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Someone Needs to Man those Guns!",
+      "description": "Deploy 200 Osttruppen squads."
+    },
+    {
+      "apiname": "ib_just_a_scratch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a Scratch!",
+      "description": "Get a KV1 to Veterancy Rank 3."
+    },
+    {
+      "apiname": "ib_boom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOOM!",
+      "description": "Kill 100 vehicles with B4 howitzers."
+    },
+    {
+      "apiname": "ib_size_doesnt_matter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Size Doesn't Matter",
+      "description": "Kill 5 Tigers with M-42 AT guns"
+    },
+    {
+      "apiname": "ib_were_going_to_need_a_bigger_gun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're Going to Need a Bigger Gun",
+      "description": "Get 100 kills using a KV2."
+    },
+    {
+      "apiname": "ib_theyre_coming_out_of_the_woodwork",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They're Coming Out of the Woodwork!",
+      "description": "Deploy 50 Partisan LMG Squads, 50 Partisan SMG Squads and 50 Partisan Rifle Squads."
+    },
+    {
+      "apiname": "ib_surprise",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SURPRISE!",
+      "description": "Destroy 20 vehicles with Partisan Tank Hunters."
+    },
+    {
+      "apiname": "ib_rapid_fire_anti_tank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rapid Fire Anti-Tank",
+      "description": "Destroy 20 vehicles with DShK Heavy Machine Guns."
+    },
+    {
+      "apiname": "ib_defending_the_motherland",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defending the Motherland",
+      "description": "Kill 100 infantry units with Soviet Irregulars"
+    },
+    {
+      "apiname": "ib_they_dont_call_him_ace_for_nothing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They don't Call Him Ace for Nothing!",
+      "description": "Kill 200 units with a single Tiger Ace."
+    },
+    {
+      "apiname": "tow_bt_breaking_lines_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking Lines - Conscript",
+      "description": "Complete the Theater of War Battle: Breaking Lines on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_breaking_lines_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking Lines - Captain",
+      "description": "Complete the Theater of War Battle: Breaking Lines on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_breaking_lines_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking Lines - General",
+      "description": "Complete the Theater of War Battle: Breaking Lines on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_general_mud_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Mud - Conscript",
+      "description": "Complete the Theater of War Battle: General Mud on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_general_mud_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Mud - Captain",
+      "description": "Complete the Theater of War Battle: General Mud on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_general_mud_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "General Mud - General",
+      "description": "Complete the Theater of War Battle: General Mud on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_kharkov_divide_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov Divide - Conscript",
+      "description": "Complete the Theater of War Battle: Kharkov Divide on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_kharkov_divide_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov Divide - Captain",
+      "description": "Complete the Theater of War Battle: Kharkov Divide on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_kharkov_divide_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kharkov Divide - General",
+      "description": "Complete the Theater of War Battle: Kharkov Divide on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_no_retreat_no_surrender_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Retreat No Surrender - Conscript",
+      "description": "Complete the Theater of War Battle: No Retreat No Surrender on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_no_retreat_no_surrender_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Retreat No Surrender - Captain",
+      "description": "Complete the Theater of War Battle: No Retreat No Surrender on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_no_retreat_no_surrender_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Retreat No Surrender - General",
+      "description": "Complete the Theater of War Battle: No Retreat No Surrender on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_panzer_crossing_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Crossing - Conscript",
+      "description": "Complete the Theater of War Battle: Panzer Crossing on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_panzer_crossing_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Crossing - Captain",
+      "description": "Complete the Theater of War Battle: Panzer Crossing on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_panzer_crossing_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Panzer Crossing - General",
+      "description": "Complete the Theater of War Battle: Panzer Crossing on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_retreat_to_the_donets_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat to the Donets - Conscript",
+      "description": "Complete the Theater of War Battle: Retreat to the Donets on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_retreat_to_the_donets_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat to the Donets - Captain",
+      "description": "Complete the Theater of War Battle: Retreat to the Donets on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_retreat_to_the_donets_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retreat to the Donets - General",
+      "description": "Complete the Theater of War Battle: Retreat to the Donets on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_storming_the_donets_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storming the Donets - Conscript",
+      "description": "Complete the Theater of War Battle: Storming the Donets on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_storming_the_donets_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storming the Donets - Captain",
+      "description": "Complete the Theater of War Battle: Storming the Donets on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_storming_the_donets_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storming the Donets - General",
+      "description": "Complete the Theater of War Battle: Storming the Donets on General difficulty"
+    },
+    {
+      "apiname": "tow_bt_heavy_rain_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Rain - Conscript",
+      "description": "Complete the Theater of War Battle: Heavy Rain on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_bt_heavy_rain_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Rain - Captain",
+      "description": "Complete the Theater of War Battle: Heavy Rain on Captain difficulty"
+    },
+    {
+      "apiname": "tow_bt_heavy_rain_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Rain - General",
+      "description": "Complete the Theater of War Battle: Heavy Rain on General difficulty"
+    },
+    {
+      "apiname": "tow_ch_occupation_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Occupation - Conscript",
+      "description": "Complete the Theater of War Challenge: Occupation on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_occupation_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Occupation - Captain",
+      "description": "Complete the Theater of War Challenge: Occupation on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_occupation_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Occupation - General",
+      "description": "Complete the Theater of War Challenge: Occupation on General difficulty"
+    },
+    {
+      "apiname": "tow_occupation_bonus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Occupation - Blood in the Snow",
+      "description": "Rescued the wounded Commander on Occupation"
+    },
+    {
+      "apiname": "tow_ch_spring_rasputitsa_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spring Rasputitsa - Conscript",
+      "description": "Complete the Theater of War Challenge: Spring Rasputitsa on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_ch_spring_rasputitsa_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spring Rasputitsa - Captain",
+      "description": "Complete the Theater of War Challenge: Spring Rasputitsa on Captain difficulty"
+    },
+    {
+      "apiname": "tow_ch_spring_rasputitsa_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spring Rasputitsa - General",
+      "description": "Complete the Theater of War Challenge: Spring Rasputitsa on General difficulty"
+    },
+    {
+      "apiname": "tow_spring_rasputitsa_bonus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spring Rasputitsa - Bombers on Approach",
+      "description": "Cleared the way for bombers on Spring Rasputitsa"
+    },
+    {
+      "apiname": "tow_dlc3_complete_all_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Southern Fronts - Conscript",
+      "description": "Complete all Theater of War mission in Southern Fronts on Conscript difficulty"
+    },
+    {
+      "apiname": "tow_dlc3_complete_all_medium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Southern Fronts - Captain",
+      "description": "Complete all Theater of War mission in Southern Fronts on Captain difficulty"
+    },
+    {
+      "apiname": "tow_dlc3_complete_all_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater of War - Southern Fronts - General",
+      "description": "Complete all Theater of War mission in Southern Fronts on General difficulty"
+    },
+    {
+      "apiname": "ev_mystery_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snore, Snore, Total Bore!",
+      "description": ""
+    },
+    {
+      "apiname": "ev_mystery_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Romeo is Dead!",
+      "description": ""
+    },
+    {
+      "apiname": "ev_mystery_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Romani Ite Domum",
+      "description": ""
+    }
+  ]
+}

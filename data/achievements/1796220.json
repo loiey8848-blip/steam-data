@@ -1,0 +1,305 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1796220,
+  "game": "Laika: Aged Through Blood",
+  "total": 42,
+  "unlocked": 1,
+  "percent": 2.4,
+  "updated_at_utc": "2026-09-15T06:52:19.528250+00:00",
+  "achievements": [
+    {
+      "apiname": "AC_BOSS_00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunger",
+      "description": ""
+    },
+    {
+      "apiname": "AC_ROSCOBOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loss",
+      "description": ""
+    },
+    {
+      "apiname": "AC_BOSS_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Misery",
+      "description": ""
+    },
+    {
+      "apiname": "AC_BOSS_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Downfall",
+      "description": ""
+    },
+    {
+      "apiname": "AC_BOSS_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sacrilege",
+      "description": ""
+    },
+    {
+      "apiname": "AC_BOSS_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heresy",
+      "description": ""
+    },
+    {
+      "apiname": "AC_FLASHBACK_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creation",
+      "description": ""
+    },
+    {
+      "apiname": "AC_FLASHBACK_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demise",
+      "description": ""
+    },
+    {
+      "apiname": "AC_FLASHBACK_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Schooling",
+      "description": ""
+    },
+    {
+      "apiname": "AC_ALL_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arsenal",
+      "description": "Obtain all weapons."
+    },
+    {
+      "apiname": "AC_PISTOL_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gun",
+      "description": "Upgrade the Revolver to the highest level."
+    },
+    {
+      "apiname": "AC_SHOTGUN_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shot",
+      "description": "Upgrade the Shotgun to the highest level."
+    },
+    {
+      "apiname": "AC_CROSSBOW_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bolt",
+      "description": "Upgrade the Crossbow to the higest level."
+    },
+    {
+      "apiname": "AC_SNIPER_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crosshair",
+      "description": "Upgrade the Sniper Rifle to the highest level."
+    },
+    {
+      "apiname": "AC_UZI_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machine",
+      "description": "Upgrade the Machine Gun to the highest level."
+    },
+    {
+      "apiname": "AC_ROCKET_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocket",
+      "description": "Upgrade the Rocket Launcher to the highest level."
+    },
+    {
+      "apiname": "AC_ALL_MONEYSACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bowels",
+      "description": "Craft all the viscera sacks."
+    },
+    {
+      "apiname": "AC_ALL_WEAPON_SLOTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armory",
+      "description": "Craft all the weapon holsters."
+    },
+    {
+      "apiname": "AC_ALL_RECIPES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cookbook",
+      "description": "Discover all the recipes."
+    },
+    {
+      "apiname": "AC_FULL_MAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vision",
+      "description": "Reveal the full map."
+    },
+    {
+      "apiname": "AC_ALL_CASSETTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sound",
+      "description": "Find all the cassette tapes."
+    },
+    {
+      "apiname": "AC_FIRST_BLACKJACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Player",
+      "description": "Play blackjack for the first time."
+    },
+    {
+      "apiname": "AC_MONEY_BLACKJACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner",
+      "description": "Earn 1000 viscera playing the blackjack."
+    },
+    {
+      "apiname": "AC_ALL_TOYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gift",
+      "description": ""
+    },
+    {
+      "apiname": "AC_MUSIC_CONCERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Band",
+      "description": ""
+    },
+    {
+      "apiname": "AC_DEATH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corpse",
+      "description": "Die 100 times."
+    },
+    {
+      "apiname": "AC_DEATH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carcass",
+      "description": "Die  500 times."
+    },
+    {
+      "apiname": "AC_DEATH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeleton",
+      "description": "Die  1000 times."
+    },
+    {
+      "apiname": "AC_DEATH_ENEMIES_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer",
+      "description": "Kill 100 enemies."
+    },
+    {
+      "apiname": "AC_DEATH_ENEMIES_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Psycopath",
+      "description": "Kill 500 enemies."
+    },
+    {
+      "apiname": "AC_DEATH_ENEMIES_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genocide",
+      "description": "Kill 1000 enemies."
+    },
+    {
+      "apiname": "AC_RECIPES_DONE_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cook",
+      "description": "Cook 10 times."
+    },
+    {
+      "apiname": "AC_RECIPES_DONE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheff",
+      "description": "Cook 50 times."
+    },
+    {
+      "apiname": "AC_BLACKJACK_GAMES_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gambler",
+      "description": "Play blackjack 10 times."
+    },
+    {
+      "apiname": "AC_BLACKJACK_GAMES_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ludopath",
+      "description": "Play blackjack 50 times."
+    },
+    {
+      "apiname": "AC_COMBO_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pack",
+      "description": "Achieve a x6 combo."
+    },
+    {
+      "apiname": "AC_COMBO_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flock",
+      "description": "Achieve a x12 combo."
+    },
+    {
+      "apiname": "AC_COMBO_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Herd",
+      "description": "Achieve a x16 combo."
+    },
+    {
+      "apiname": "AC_DISTANCE_1",
+      "achieved": 1,
+      "unlocktime": 1768108404,
+      "name": "Excursion",
+      "description": "Cover 50 km."
+    },
+    {
+      "apiname": "AC_DISTANCE_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journey",
+      "description": "Cover 200 km."
+    },
+    {
+      "apiname": "AC_DISTANCE_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voyage",
+      "description": "Cover 500 km."
+    },
+    {
+      "apiname": "AC_ALL_COLUMNS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empire",
+      "description": ""
+    }
+  ]
+}

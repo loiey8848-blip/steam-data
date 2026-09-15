@@ -1,0 +1,795 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3371770,
+  "game": "Funguys Swarm",
+  "total": 112,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:29.485320+00:00",
+  "achievements": [
+    {
+      "apiname": "CARROT_FARM_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carrot Farm Novice",
+      "description": "Complete Carrot Farm"
+    },
+    {
+      "apiname": "CARROT_FARM_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carrot Farm Expert",
+      "description": "Complete Carrot Farm (Hard)"
+    },
+    {
+      "apiname": "CARROT_FARM_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carrot Farm Master",
+      "description": "Complete Carrot Farm (Very Hard)"
+    },
+    {
+      "apiname": "FROZEN_POND_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frozen Pond Novice",
+      "description": "Complete Frozen Pond"
+    },
+    {
+      "apiname": "FROZEN_POND_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frozen Pond Expert",
+      "description": "Complete Frozen Pond (Hard)"
+    },
+    {
+      "apiname": "FROZEN_POND_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frozen Pond Master",
+      "description": "Complete Frozen Pond (Very Hard)"
+    },
+    {
+      "apiname": "LAVA_JUNGLE_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lava Jungle Novice",
+      "description": "Complete Lava Jungle"
+    },
+    {
+      "apiname": "LAVA_JUNGLE_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lava Jungle Expert",
+      "description": "Complete Lava Jungle (Hard)"
+    },
+    {
+      "apiname": "LAVA_JUNGLE_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lava Jungle Master",
+      "description": "Complete Lava Jungle (Very Hard)"
+    },
+    {
+      "apiname": "EGGLOSSEUM_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egglosseum Novice",
+      "description": "Complete Egglosseum"
+    },
+    {
+      "apiname": "EGGLOSSEUM_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egglosseum Expert",
+      "description": "Complete Egglosseum (Hard)"
+    },
+    {
+      "apiname": "EGGLOSSEUM_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egglosseum Master",
+      "description": "Complete Egglosseum (Very Hard)"
+    },
+    {
+      "apiname": "BEST_FRIENDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Friends",
+      "description": "Complete Hellscape"
+    },
+    {
+      "apiname": "HELLSCAPE_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellscape Expert",
+      "description": "Complete Hellscape (Hard)"
+    },
+    {
+      "apiname": "HELLSCAPE_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellscape Master",
+      "description": "Complete Hellscape (Very Hard)"
+    },
+    {
+      "apiname": "TRUE_FUNGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A True Funguy",
+      "description": "Complete all arena in every difficulty"
+    },
+    {
+      "apiname": "TWINKLE_STAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twinkle Star",
+      "description": "Complete 10 Star Path quests"
+    },
+    {
+      "apiname": "STAR_CLIMBER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Climber",
+      "description": "Complete 15 Star Path quests"
+    },
+    {
+      "apiname": "STAR_STRUCK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Struck",
+      "description": "Complete 20 Star Path quests"
+    },
+    {
+      "apiname": "SHINING_STAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shining Star",
+      "description": "Complete 35 Star Path quests"
+    },
+    {
+      "apiname": "SUPERSTAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Superstar",
+      "description": "Complete 40 Star Path quests"
+    },
+    {
+      "apiname": "MEGASTAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Megastar",
+      "description": "Complete all Star Path quests"
+    },
+    {
+      "apiname": "SHROOMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrooms...",
+      "description": "Purchase all Shroom Shop upgrades"
+    },
+    {
+      "apiname": "ETERNAL_THIRST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eternal Thirst",
+      "description": "Purchase all Pond upgrades."
+    },
+    {
+      "apiname": "BODY_IS_SHELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Body Is a Shell",
+      "description": "Receive damage 50 times"
+    },
+    {
+      "apiname": "ONE_MORE_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One More Time...",
+      "description": "Die 3 times"
+    },
+    {
+      "apiname": "EGGBREAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eggbreaker",
+      "description": "Kill 500 Eggy, the walking egg in Egglosseum"
+    },
+    {
+      "apiname": "ICE_CUBE_COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Cube Collector",
+      "description": "Destroy 100 breakables in Frozen Pond"
+    },
+    {
+      "apiname": "SNOWDUSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowduster",
+      "description": "Using Ersa, complete Frozen Pond with the Stardust skill card"
+    },
+    {
+      "apiname": "JUST_THIS_ONCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just This Once...",
+      "description": "Get cursed for the first time"
+    },
+    {
+      "apiname": "SURVIVOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor",
+      "description": "Complete a run with 1/2 HP left"
+    },
+    {
+      "apiname": "LET_IT_RIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let it Ride",
+      "description": "Spend 7 Reroll tokens"
+    },
+    {
+      "apiname": "POMEGRENADIER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pomegrenadier",
+      "description": "Create a chain explosion of 6 Pomegrenades, the explosive fruit in Carrot Farm"
+    },
+    {
+      "apiname": "STARRY_NIGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starry Night",
+      "description": "Kill 1,000 enemies using Manafall"
+    },
+    {
+      "apiname": "GRASS_MOWING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grass Mowing",
+      "description": "Kill 2,000 enemies using Leafblade"
+    },
+    {
+      "apiname": "STRAWBERRY_MENACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strawberry Menace",
+      "description": "Kill 2 Elite Strawberry Charger, the charging strawberry in Carrot Farm"
+    },
+    {
+      "apiname": "RAGEFUL_FUNGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rageful Funguy",
+      "description": "Deal 200,000 damage using Beast element skill cards"
+    },
+    {
+      "apiname": "BOX_CRUSHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Box Crusher",
+      "description": "Destroy 700 breakables in Carrot Farm"
+    },
+    {
+      "apiname": "FREEZER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freezer",
+      "description": "Inflict Freeze on 10,000 enemies"
+    },
+    {
+      "apiname": "DRAGONSLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragonslayer",
+      "description": "Defeat the Dragon Fruit using Shroomba"
+    },
+    {
+      "apiname": "GAME_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Game Hunter",
+      "description": "Kill 1,000 enemies using Mark"
+    },
+    {
+      "apiname": "POISON_SPREADER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poison Spreader",
+      "description": "Kill 500 enemies using Poison"
+    },
+    {
+      "apiname": "FREEZING_PRESENCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freezing Presence",
+      "description": "Kill 500 enemies using the Frozen Splash skill card"
+    },
+    {
+      "apiname": "NATURE_COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nature Collector",
+      "description": "Have a total of 6 Nature cards in your library"
+    },
+    {
+      "apiname": "QUICK_STUDY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Study",
+      "description": "Complete Carrot Farm under 17 minutes"
+    },
+    {
+      "apiname": "NIGHT_COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Collector",
+      "description": "Have a total of 8 Night cards in your library"
+    },
+    {
+      "apiname": "WEAPON_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": "Deal a total of 300,000 damage using any weapon"
+    },
+    {
+      "apiname": "ROBOT_LICENSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Robotic License",
+      "description": "Kill 1,000 enemy using Mecha"
+    },
+    {
+      "apiname": "MASTER_STRATEGIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Strategist",
+      "description": "Defeat a boss without taking HP damage in the boss room"
+    },
+    {
+      "apiname": "BEETLE_SQUISHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beetle Squisher",
+      "description": "Kill 100 Beetle, a flying insect in Lava Jungle"
+    },
+    {
+      "apiname": "MASHED_GARLIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mashed Garlic",
+      "description": "Kill 5,000 enemies using Garlic Hammer"
+    },
+    {
+      "apiname": "NUT_CRACKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nut Cracker",
+      "description": "Using Nutcase, complete any stage"
+    },
+    {
+      "apiname": "SHROOMBA_ENJOYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shroomba Enjoyer",
+      "description": "Kill 10,000 enemies using Shroomba"
+    },
+    {
+      "apiname": "JUST_FUNGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a Funguy",
+      "description": "Using Shroomba, Groovba, or Joomba reach Level 30"
+    },
+    {
+      "apiname": "ICE_QUEEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Queen",
+      "description": "Kill 10,000 enemies using Ersa"
+    },
+    {
+      "apiname": "DEWDROP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dewdrop",
+      "description": "Using Ersa, Fuzzbug, or X-olotl reach Level 30"
+    },
+    {
+      "apiname": "CRAZY_GUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crazy Guy",
+      "description": "Using Nutcase, NutzNBoltZ, or Chimpy reach Level 30"
+    },
+    {
+      "apiname": "WILD_RAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wild Rat",
+      "description": "Kill 10,000 enemies using Nutcase"
+    },
+    {
+      "apiname": "THIRSTY_WATERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thirsty Waters",
+      "description": "Upgrade Water Flow passive card to Level 7"
+    },
+    {
+      "apiname": "WATERMELON_LOVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watermelon Lover",
+      "description": "Kill 600 enemies using Watermelon Axe"
+    },
+    {
+      "apiname": "BEAR_WITH_ME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bear with Me",
+      "description": "Deal 60,000 damage using Bearclaw"
+    },
+    {
+      "apiname": "ELECTRIC_SWIPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electric Swiper",
+      "description": "Mutate Thunderspear with Thunder Swipe mutation"
+    },
+    {
+      "apiname": "THUNDER_WARRIOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunder Warrior",
+      "description": "Kill 500 enemies using the Thunderspear skill card"
+    },
+    {
+      "apiname": "MARK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark Mark Mark",
+      "description": "Inflict Mark on 500 enemies"
+    },
+    {
+      "apiname": "GHOSTPOPPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghostpopper",
+      "description": "Defeat 1,000 Ghostpepper, the jumping chili in Carrot Farm"
+    },
+    {
+      "apiname": "NIGHTINGALE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightingale",
+      "description": "Kill 5,000 enemies while having the Night Owl passive card"
+    },
+    {
+      "apiname": "SHOCKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shocker",
+      "description": "Kill 5,000 enemies using the Shockwave skill card"
+    },
+    {
+      "apiname": "SAVIOUR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saviour",
+      "description": "Save 6 treelings"
+    },
+    {
+      "apiname": "BONK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonk!",
+      "description": "Kill 6,000 enemies using Boulder Bonk skill card"
+    },
+    {
+      "apiname": "NO_PEPPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Pepper Please",
+      "description": "Defeat 5,000 Ghostpepper, the jumping chili in Carrot Farm"
+    },
+    {
+      "apiname": "ICE_STOP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Said Stop",
+      "description": "Mutate Frozen Splash with Ice Said Stop mutation 3 times"
+    },
+    {
+      "apiname": "QUICKSILVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quicksilver",
+      "description": "Reach +120% movement speed increase during a run"
+    },
+    {
+      "apiname": "TAKEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taken",
+      "description": "Get kidnapped to the boss room 10 times"
+    },
+    {
+      "apiname": "THAT_WAS_CLOSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Was Close",
+      "description": "Dash 1,000 times"
+    },
+    {
+      "apiname": "REVENGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge",
+      "description": "Spray the Fire King for the first time in the Sanctuary"
+    },
+    {
+      "apiname": "GROWTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Growth",
+      "description": "Win any Hard arena using Growing Pains, a fire skill"
+    },
+    {
+      "apiname": "FANART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan Art",
+      "description": "Find the \"Self Portrait\" (0.01% chance to drop from enemies in Egglosseum)"
+    },
+    {
+      "apiname": "MAGNETIC_PRESENCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magnetic Presence",
+      "description": "Take 10 magnet power up"
+    },
+    {
+      "apiname": "GOODBYE_GUPPY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goodbye Guppy",
+      "description": "Kill 250 Guppy, the walking fish in Frozen Pond using Splash Shot skill card"
+    },
+    {
+      "apiname": "ROLLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rolled and Flattened",
+      "description": "Kill 1,000 enemies using the Boulder Bonk skill card"
+    },
+    {
+      "apiname": "BIG_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Heart",
+      "description": "Upgrade Green Heart passive card to Level 2"
+    },
+    {
+      "apiname": "LUCKY_GUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Guy",
+      "description": "Upgrade Golden Chance passive card to Level 7"
+    },
+    {
+      "apiname": "DASHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dasher",
+      "description": "Dash 45 times"
+    },
+    {
+      "apiname": "NATURE_FURY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nature Fury",
+      "description": "Kill 50,000 enemies"
+    },
+    {
+      "apiname": "ROBO_SUPERIOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Robo Superior",
+      "description": "Kill 10 elite enemies using Mecha"
+    },
+    {
+      "apiname": "FOCUSED_MIND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Focused Mind",
+      "description": "Survive 6 Minutes without taking any damage"
+    },
+    {
+      "apiname": "COCONUT_SLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coconut Slayer",
+      "description": "Kill 300 Cave Fruit, the dancing coconut in Lava Jungle"
+    },
+    {
+      "apiname": "SWARM_KILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swarm Killer",
+      "description": "Kill 15,000 enemies"
+    },
+    {
+      "apiname": "MOTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Moth",
+      "description": "Complete any arena using Fuzzbug"
+    },
+    {
+      "apiname": "TRUE_GENIUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Genius",
+      "description": "Kill 10,000 enemies using Dr. Botanika"
+    },
+    {
+      "apiname": "BIGGEST_BRAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biggest Brain",
+      "description": "Reach level 30 as Dr. Botanika"
+    },
+    {
+      "apiname": "MOUNTAIN_POSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain Pose",
+      "description": "Stand and don't move for 1 minute in any arena"
+    },
+    {
+      "apiname": "THIRSTY_LEAF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thirsty Leaf",
+      "description": "Collect 10,000 Dew"
+    },
+    {
+      "apiname": "LEGEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "7th Legend",
+      "description": "Take 7 Legendary upgrades"
+    },
+    {
+      "apiname": "HORNET_STING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hornet Sting",
+      "description": "Kill 50,000 enemies using Hornet Spike"
+    },
+    {
+      "apiname": "CRISPY_CRITICAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crispy Critical",
+      "description": "Deal critical damage using your weapon 1,000 times"
+    },
+    {
+      "apiname": "POTATO_FARMER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Potato Farmer",
+      "description": "Collect 10 Potato"
+    },
+    {
+      "apiname": "MARK_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mark Mastery",
+      "description": "Inflict Mark on 5,000 enemies"
+    },
+    {
+      "apiname": "STARLIGHT_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starlight Mastery",
+      "description": "Inflict Starlight on 5,000 enemies"
+    },
+    {
+      "apiname": "FLAT_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flat Mastery",
+      "description": "Inflict Flat on 5,000 enemies"
+    },
+    {
+      "apiname": "POISON_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poison Mastery",
+      "description": "Inflict Poison on 5,000 enemies"
+    },
+    {
+      "apiname": "FREEZE_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freeze Mastery",
+      "description": "Inflict Freeze on 5,000 enemies"
+    },
+    {
+      "apiname": "SHOCK_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shock Mastery",
+      "description": "Inflict Shock on 5,000 enemies"
+    },
+    {
+      "apiname": "BURN_MASTERY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn Mastery",
+      "description": "Inflict Burn on 5,000 enemies"
+    },
+    {
+      "apiname": "BLUE_CARDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blue Cards",
+      "description": "Take 100 Rare upgrades"
+    },
+    {
+      "apiname": "BOX_BREAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Box Breaker",
+      "description": "Destroy 500 breakables"
+    },
+    {
+      "apiname": "STRONG_ROOTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strong Roots",
+      "description": "Complete any arena using Joomba"
+    },
+    {
+      "apiname": "INFLICTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Inflictor",
+      "description": "Deal 5,000 damage using any debuffs"
+    },
+    {
+      "apiname": "ROLLMASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roll Master",
+      "description": "Spend 25 Reroll tokens"
+    },
+    {
+      "apiname": "FOREST_FRIENDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Friends",
+      "description": "Unlock 3 pets"
+    },
+    {
+      "apiname": "FIRE_SERVANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Servant",
+      "description": "Reach level 30 of Fire Curse"
+    },
+    {
+      "apiname": "FREEDOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom",
+      "description": "Douse a total of 30 Fire Curse"
+    }
+  ]
+}

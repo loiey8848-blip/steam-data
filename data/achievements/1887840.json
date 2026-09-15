@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1887840,
+  "game": "Another Crab's Treasure",
+  "total": 38,
+  "unlocked": 38,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:21.338529+00:00",
+  "achievements": [
+    {
+      "apiname": "BossDefeated_Nephro",
+      "achieved": 1,
+      "unlocktime": 1779425779,
+      "name": "Captain of the Guard",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Duchess",
+      "achieved": 1,
+      "unlocktime": 1779428437,
+      "name": "Tyrant of Slacktide",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Pathfinder",
+      "achieved": 1,
+      "unlocktime": 1779427166,
+      "name": "Polluted Platoon Pathfinder",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Lichenthrope",
+      "achieved": 1,
+      "unlocktime": 1779506078,
+      "name": "Diseased Lichenthrope",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Heikea",
+      "achieved": 1,
+      "unlocktime": 1779507607,
+      "name": "Intimidation Crab",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Topoda",
+      "achieved": 1,
+      "unlocktime": 1779509838,
+      "name": "Grovekeeper",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Consortium",
+      "achieved": 1,
+      "unlocktime": 1779693168,
+      "name": "The Consortium",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Pagurus",
+      "achieved": 1,
+      "unlocktime": 1779464711,
+      "name": "The Ravenous",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Voltai",
+      "achieved": 1,
+      "unlocktime": 1779602480,
+      "name": "The Accumulator",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Roland",
+      "achieved": 1,
+      "unlocktime": 1779609059,
+      "name": "Venture Crabitalist",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Petroc",
+      "achieved": 1,
+      "unlocktime": 1779612370,
+      "name": "The False Moon",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Inkerton",
+      "achieved": 1,
+      "unlocktime": 1779676453,
+      "name": "Crab Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_BleachedKing_Fake",
+      "achieved": 1,
+      "unlocktime": 1779694013,
+      "name": "The Bleached King",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_Firth",
+      "achieved": 1,
+      "unlocktime": 1779774482,
+      "name": "Avatar of Waste",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_BleachedKing_Real",
+      "achieved": 1,
+      "unlocktime": 1779694157,
+      "name": "Camtscha, Reborn",
+      "description": ""
+    },
+    {
+      "apiname": "SkillTreeCompleted_Crab",
+      "achieved": 1,
+      "unlocktime": 1779678316,
+      "name": "Path of the True Crab",
+      "description": "Unlock all skills on the Path of The True Crab. "
+    },
+    {
+      "apiname": "SkillTreeCompleted_Predator",
+      "achieved": 1,
+      "unlocktime": 1779508110,
+      "name": "Path of the Predator",
+      "description": "Unlock all skills on the Path of The Predator. "
+    },
+    {
+      "apiname": "SkillTreeCompleted_Hermit",
+      "achieved": 1,
+      "unlocktime": 1779612909,
+      "name": "Path of the Hermit",
+      "description": "Unlock all skills on the Path of The Hermit. "
+    },
+    {
+      "apiname": "UpgradeMax_Fork",
+      "achieved": 1,
+      "unlocktime": 1779792066,
+      "name": "Make it Shine",
+      "description": "Fully upgrade Kril's fork."
+    },
+    {
+      "apiname": "Insurance_Started",
+      "achieved": 1,
+      "unlocktime": 1779595397,
+      "name": "In Good Claws",
+      "description": "Purchase some insurance."
+    },
+    {
+      "apiname": "Misc_HasFallenOff",
+      "achieved": 1,
+      "unlocktime": 1779693519,
+      "name": "You fell off",
+      "description": "Fall off a cliff."
+    },
+    {
+      "apiname": "Misc_ShootCrab",
+      "achieved": 1,
+      "unlocktime": 1779775234,
+      "name": "This Kills The Crab",
+      "description": "Shoot a crab with a gun."
+    },
+    {
+      "apiname": "Plot_TreasurehuntStart",
+      "achieved": 1,
+      "unlocktime": 1779464046,
+      "name": "The Hunt Begins!",
+      "description": "Start the treasure hunt."
+    },
+    {
+      "apiname": "BossDefeated_Royalsplitter",
+      "achieved": 1,
+      "unlocktime": 1779692321,
+      "name": "Royal Shellsplitter",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_OilDrumBrusier",
+      "achieved": 1,
+      "unlocktime": 1779692745,
+      "name": "Curdled Carbonara Connoisseur",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_RollerBrusier",
+      "achieved": 1,
+      "unlocktime": 1779594001,
+      "name": "Scuttling Sludge Steamroller",
+      "description": ""
+    },
+    {
+      "apiname": "Plot_HomeShellReturned",
+      "achieved": 1,
+      "unlocktime": 1779774682,
+      "name": "Finishing What I Started",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_TwinPistols",
+      "achieved": 1,
+      "unlocktime": 1779594674,
+      "name": "Ceviche Sisters",
+      "description": ""
+    },
+    {
+      "apiname": "CollectLimit_KnightHelmet",
+      "achieved": 1,
+      "unlocktime": 1779696433,
+      "name": "Shellslike",
+      "description": ""
+    },
+    {
+      "apiname": "CollectLimit_Shells",
+      "achieved": 1,
+      "unlocktime": 1779798559,
+      "name": "Shell Seeker",
+      "description": "Try on every shell in the game."
+    },
+    {
+      "apiname": "CollectLimit_Adaptations",
+      "achieved": 1,
+      "unlocktime": 1779695691,
+      "name": "Well Adapted",
+      "description": ""
+    },
+    {
+      "apiname": "BossDefeated_PrayaDubia_Phase2",
+      "achieved": 1,
+      "unlocktime": 1779694706,
+      "name": "The Ocean's Agony",
+      "description": ""
+    },
+    {
+      "apiname": "YOTC_StartNewGamePlus",
+      "achieved": 1,
+      "unlocktime": 1779774834,
+      "name": "Prepare to Die",
+      "description": "Start a playthrough of New Game Plus."
+    },
+    {
+      "apiname": "YOTC_CraftSigil",
+      "achieved": 1,
+      "unlocktime": 1779788244,
+      "name": "I'm Moving Different",
+      "description": "Craft one of the legendary Sigils in New Game Plus."
+    },
+    {
+      "apiname": "YOTC_BossRushComplete",
+      "achieved": 1,
+      "unlocktime": 1779778060,
+      "name": "Seven Ocean Army",
+      "description": "Complete a Boss Rush and earn a new outfit."
+    },
+    {
+      "apiname": "YOTC_MaxStowaways",
+      "achieved": 1,
+      "unlocktime": 1779788244,
+      "name": "Surpassing my Limits",
+      "description": "Level up your Stowaway limit beyond its original maximum in New Game Plus."
+    },
+    {
+      "apiname": "YOTC_MuseumSeen",
+      "achieved": 1,
+      "unlocktime": 1779694842,
+      "name": "Look at this Stuff",
+      "description": "Take a look at the Museum."
+    },
+    {
+      "apiname": "YOTC_HiddenSnail",
+      "achieved": 1,
+      "unlocktime": 1779505992,
+      "name": "I am Speed",
+      "description": "Discover one of the hidden snails."
+    }
+  ]
+}

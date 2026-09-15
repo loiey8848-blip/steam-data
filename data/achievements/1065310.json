@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1065310,
+  "game": "Evil West",
+  "total": 30,
+  "unlocked": 5,
+  "percent": 16.7,
+  "updated_at_utc": "2026-09-15T06:51:08.863138+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_GAME_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice",
+      "description": "Beat the game on Novice difficulty or higher"
+    },
+    {
+      "apiname": "ACH_VISIT_CALICO",
+      "achieved": 1,
+      "unlocktime": 1669302454,
+      "name": "Calico",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_TRICKSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adapt or Die",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_GRAND_PARASITER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ticks & Leeches",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_WILLIAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drop of Blood",
+      "description": "Defeat William Rentier"
+    },
+    {
+      "apiname": "ACH_KILL_BEAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Blood",
+      "description": "Defeat Felicity D'Abano"
+    },
+    {
+      "apiname": "ACH_ACTIVATE_EMPOWERED_MODE",
+      "achieved": 1,
+      "unlocktime": 1669302400,
+      "name": "Spark of Hope",
+      "description": "Activate the Supercharged Mode for the first time"
+    },
+    {
+      "apiname": "ACH_GAME_COMPLETED_NORMAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Adept",
+      "description": "Beat the game on Normal difficulty or higher"
+    },
+    {
+      "apiname": "ACH_GAME_COMPLETED_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert",
+      "description": "Beat the game on Hard difficulty or higher"
+    },
+    {
+      "apiname": "ACH_GAME_COMPLETED_INSANE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weird West Superhero",
+      "description": "Beat the game on Evil difficulty"
+    },
+    {
+      "apiname": "ACH_ACTIVATE_ALL_WEAPON_UPGRADES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boys'n'Toys",
+      "description": "Have all Weapon Upgrades activated at the same time"
+    },
+    {
+      "apiname": "ACH_KILL_ENEMIES_ELECTRIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pew Pew Die",
+      "description": "Kill at least 30 enemies with each electrically-augmented firearm"
+    },
+    {
+      "apiname": "ACH_FIND_ALL_HIDDEN_PERKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Agent",
+      "description": "Find all hidden perks"
+    },
+    {
+      "apiname": "ACH_COLLECT_ALL_MONEY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chest Nuts",
+      "description": "Pick up all cash on all missions"
+    },
+    {
+      "apiname": "ACH_KILL_TRICKSTER_INSANE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weren't You Listening?",
+      "description": "Defeat the Bruch on Evil difficulty"
+    },
+    {
+      "apiname": "ACH_KILL_GRAND_PARASITER_INSANE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Minor Deity",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_WILLIAM_INSANE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Then You Died",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CANNONBALL_ENEMIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monsterball",
+      "description": "Cannonball enemies 50 times"
+    },
+    {
+      "apiname": "ACH_SLAM_ENEMIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slam Champion",
+      "description": "Slam enemies 100 times"
+    },
+    {
+      "apiname": "ACH_FINISHERS",
+      "achieved": 1,
+      "unlocktime": 1669299013,
+      "name": "Pointless Violence",
+      "description": "Perform 15 finishers"
+    },
+    {
+      "apiname": "ACH_WEAKSPOTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Feels",
+      "description": "Hit 45 weakspots"
+    },
+    {
+      "apiname": "ACH_KILL_USING_ECOMBO",
+      "achieved": 1,
+      "unlocktime": 1669301469,
+      "name": "E-Rodeo",
+      "description": "Kill 20 enemies using the E-Combo"
+    },
+    {
+      "apiname": "ACH_KILL_TRICKSTER_NO_FIREARMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bleed You Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PARASITER_MINIONS_ALIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bio Friendly",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WILLIAM_NO_DAMAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Father's Day",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_IN_ROW_USING_GAUNTLET",
+      "achieved": 1,
+      "unlocktime": 1669301482,
+      "name": "Mighty Mitten",
+      "description": "Kill 10 enemies in a row using only Gauntlet after obtaining the Revolver"
+    },
+    {
+      "apiname": "ACH_ENERGY_CHARGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chewing Volts",
+      "description": "Use 15 Energy charges"
+    },
+    {
+      "apiname": "ACH_LIMBS_TORN_OFF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sever Forever",
+      "description": "Tear off 100 limbs from enemies"
+    },
+    {
+      "apiname": "ACH_ALL_ACHIEVEMENTS_OBTAINED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sanguis Aeternus",
+      "description": "All Trophies unlocked. The Weird West is a better place now."
+    },
+    {
+      "apiname": "ACH_KILL_BEAST_WITHOUT_HEAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best the Beast",
+      "description": ""
+    }
+  ]
+}

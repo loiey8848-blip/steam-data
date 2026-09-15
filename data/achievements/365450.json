@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 365450,
+  "game": "Hacknet",
+  "total": 11,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:33.782848+00:00",
+  "achievements": [
+    {
+      "apiname": "kill_tutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quickdraw",
+      "description": "Complete the tutorial earlier than normal"
+    },
+    {
+      "apiname": "rude_response",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rude",
+      "description": "That's just impolite"
+    },
+    {
+      "apiname": "progress_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hacknet",
+      "description": "Complete Bit's final request"
+    },
+    {
+      "apiname": "progress_csec",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "CSEC",
+      "description": "Be granted an account within CSEC"
+    },
+    {
+      "apiname": "progress_entropy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entropy",
+      "description": "Be granted an account within Entropy"
+    },
+    {
+      "apiname": "pointclicker_basic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "PointClicker",
+      "description": "Purchase the final PointClicker upgrade"
+    },
+    {
+      "apiname": "pointclicker_expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You better not have clicked for those...",
+      "description": "Have a truly absurd number of pointclicker points"
+    },
+    {
+      "apiname": "clock_run",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TRUE ULTIMATE POWER",
+      "description": "Run Clock.exe"
+    },
+    {
+      "apiname": "themeswitch_run",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Makeover!",
+      "description": "Run ThemeSwitcher"
+    },
+    {
+      "apiname": "trace_close",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Wire",
+      "description": "Disconnect from a traced system with less than half a second to spare"
+    },
+    {
+      "apiname": "secret_path_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "/el Sec Champion",
+      "description": "Master of /el's friendly community"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2461850,
+  "game": "Hellblade II: Senua’s Saga",
+  "total": 12,
+  "unlocked": 12,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:50.560722+00:00",
+  "achievements": [
+    {
+      "apiname": "Collect_Totems",
+      "achieved": 1,
+      "unlocktime": 1769487598,
+      "name": "Tales of Midgard",
+      "description": "Collect all the Lorestangir."
+    },
+    {
+      "apiname": "Collect_Faces",
+      "achieved": 1,
+      "unlocktime": 1769487632,
+      "name": "Glimpses of the Gods",
+      "description": "Reveal secret paths behind hidden faces."
+    },
+    {
+      "apiname": "Ch1_ThorBattleComplete",
+      "achieved": 1,
+      "unlocktime": 1769239285,
+      "name": "The Next Sign",
+      "description": ""
+    },
+    {
+      "apiname": "Ch2_ArenaBattleComplete",
+      "achieved": 1,
+      "unlocktime": 1769256398,
+      "name": "The Man in the Middle",
+      "description": ""
+    },
+    {
+      "apiname": "Ch3_LakeEmpty",
+      "achieved": 1,
+      "unlocktime": 1769324023,
+      "name": "The Hidden World",
+      "description": ""
+    },
+    {
+      "apiname": "Ch4_DefeatIlltauga",
+      "achieved": 1,
+      "unlocktime": 1769392220,
+      "name": "Returned to the Earth",
+      "description": ""
+    },
+    {
+      "apiname": "Ch5_DefeatSjavarrisi",
+      "achieved": 1,
+      "unlocktime": 1769443280,
+      "name": "The Storm Calmed",
+      "description": ""
+    },
+    {
+      "apiname": "Ch6_ReachBorgavirki",
+      "achieved": 1,
+      "unlocktime": 1769444836,
+      "name": "A Guiding Light",
+      "description": ""
+    },
+    {
+      "apiname": "Ch6_DefeatGothi",
+      "achieved": 1,
+      "unlocktime": 1769447698,
+      "name": "End the Tyranny",
+      "description": ""
+    },
+    {
+      "apiname": "Photo_Mode",
+      "achieved": 1,
+      "unlocktime": 1769253645,
+      "name": "Worth a Thousand Words",
+      "description": "Open photo mode."
+    },
+    {
+      "apiname": "New_Narrator",
+      "achieved": 1,
+      "unlocktime": 1769448861,
+      "name": "Seeing Things Differently",
+      "description": ""
+    },
+    {
+      "apiname": "DarkRot_Complete",
+      "achieved": 1,
+      "unlocktime": 1769488886,
+      "name": "Dark Rot Complete",
+      "description": "Complete the story in Dark Rot."
+    }
+  ]
+}

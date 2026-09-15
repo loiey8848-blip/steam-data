@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 601150,
+  "game": "Devil May Cry 5",
+  "total": 55,
+  "unlocked": 7,
+  "percent": 12.7,
+  "updated_at_utc": "2026-09-15T06:50:16.442443+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievements_00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Rock!",
+      "description": "Complete the game on Human mode."
+    },
+    {
+      "apiname": "Achievements_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Showtime!",
+      "description": "Complete the game on Devil Hunter mode."
+    },
+    {
+      "apiname": "Achievements_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doing Daddy Proud",
+      "description": "Complete the game on Son of Sparda mode."
+    },
+    {
+      "apiname": "Achievements_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dance with the Devil",
+      "description": "Complete the game on Dante Must Die mode."
+    },
+    {
+      "apiname": "Achievements_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stairway to Heaven",
+      "description": "Complete the game on Heaven or Hell mode."
+    },
+    {
+      "apiname": "Achievements_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Highway to Hell",
+      "description": "Complete the game on Hell and Hell mode."
+    },
+    {
+      "apiname": "Achievements_06",
+      "achieved": 1,
+      "unlocktime": 1552029123,
+      "name": "Fall from Grace",
+      "description": "Clear the Prologue Mission."
+    },
+    {
+      "apiname": "Achievements_07",
+      "achieved": 1,
+      "unlocktime": 1552029866,
+      "name": "Protect the People",
+      "description": "Defeat all enemies in Mission 01."
+    },
+    {
+      "apiname": "Achievements_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where the Red Orbs Grow",
+      "description": "Collected Red Orbs from an unexpected spot in Mission 02."
+    },
+    {
+      "apiname": "Achievements_09",
+      "achieved": 1,
+      "unlocktime": 1552655021,
+      "name": "Reunion",
+      "description": "Clear Mission 03."
+    },
+    {
+      "apiname": "Achievements_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backroad",
+      "description": "Destroy a certain wall in Mission 04."
+    },
+    {
+      "apiname": "Achievements_11",
+      "achieved": 1,
+      "unlocktime": 1552655021,
+      "name": "Break a Leg",
+      "description": "Fend off a menace from above in Mission 05."
+    },
+    {
+      "apiname": "Achievements_12",
+      "achieved": 1,
+      "unlocktime": 1553594158,
+      "name": "End of the Line",
+      "description": "Clear Mission 06."
+    },
+    {
+      "apiname": "Achievements_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Share the Pain",
+      "description": "Clear Mission 07 with both Nero and V."
+    },
+    {
+      "apiname": "Achievements_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light in the Darkness",
+      "description": "Clear Mission 08."
+    },
+    {
+      "apiname": "Achievements_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle-Eyed",
+      "description": "Destroy a certain wall in Mission 09."
+    },
+    {
+      "apiname": "Achievements_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Ain't Over",
+      "description": "Clear Mission 10."
+    },
+    {
+      "apiname": "Achievements_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Mess with the Best",
+      "description": "Use proper timing to get a leg up in a close-quarters battle against the boss in Mission 11."
+    },
+    {
+      "apiname": "Achievements_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Qliphoth",
+      "description": "Clear Mission 12."
+    },
+    {
+      "apiname": "Achievements_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Each In His Own Way",
+      "description": "Clear Mission 13 with Nero, V, and Dante."
+    },
+    {
+      "apiname": "Achievements_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Hurry",
+      "description": "Clear Mission 14."
+    },
+    {
+      "apiname": "Achievements_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slick Moves",
+      "description": "Proceed with caution and avoid unneeded damage in Mission 15."
+    },
+    {
+      "apiname": "Achievements_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Obedience Training",
+      "description": "Go on the offensive without relying on brute force in the Mission 16 boss battle."
+    },
+    {
+      "apiname": "Achievements_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Life",
+      "description": "Clear Mission 17."
+    },
+    {
+      "apiname": "Achievements_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Man on a Mission",
+      "description": "Clear Mission 18."
+    },
+    {
+      "apiname": "Achievements_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle for the Ages",
+      "description": "Clear Missions 19 and 20 without using continues (any difficulty except Heaven or Hell)."
+    },
+    {
+      "apiname": "Achievements_26",
+      "achieved": 1,
+      "unlocktime": 1552031665,
+      "name": "Not Too Shabby",
+      "description": "Perform a Stylish Rank S combo."
+    },
+    {
+      "apiname": "Achievements_27",
+      "achieved": 1,
+      "unlocktime": 1552031682,
+      "name": "Steppin' up the Style",
+      "description": "Perform a Stylish Rank SS combo."
+    },
+    {
+      "apiname": "Achievements_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seriously Stylish Slaying!",
+      "description": "Perform a Stylish Rank SSS combo."
+    },
+    {
+      "apiname": "Achievements_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets Exposed",
+      "description": "Clear all secret missions."
+    },
+    {
+      "apiname": "Achievements_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Quick and the Dead",
+      "description": "Defeat 5 enemies in 1 second."
+    },
+    {
+      "apiname": "Achievements_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well I'll Be Damned",
+      "description": "Wield overwhelming power to exact an unexpected conclusion."
+    },
+    {
+      "apiname": "Achievements_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell of a Hunter",
+      "description": "Clear all missions with S rank."
+    },
+    {
+      "apiname": "Achievements_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worthy of Legend",
+      "description": "Clear all missions with S rank on all difficulties except Heaven or Hell."
+    },
+    {
+      "apiname": "Achievements_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Believe I Can Fly",
+      "description": "Rack up a total of 60 minutes in the air by jumping or other means."
+    },
+    {
+      "apiname": "Achievements_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing's Impossible",
+      "description": "Acquire all of Nero's skills."
+    },
+    {
+      "apiname": "Achievements_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be the Legend",
+      "description": "Acquire all of Dante's skills."
+    },
+    {
+      "apiname": "Achievements_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Breeder",
+      "description": "Acquire all of V's skills."
+    },
+    {
+      "apiname": "Achievements_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Physical Perfection",
+      "description": "Upgrade your vitality gauge to max."
+    },
+    {
+      "apiname": "Achievements_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Devil's Own",
+      "description": "Upgrade your Devil Trigger Gauge to max."
+    },
+    {
+      "apiname": "Achievements_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Job",
+      "description": "Accept a new job from Morrison after the Red Grave incident."
+    },
+    {
+      "apiname": "Achievements_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot!",
+      "description": "Collect more than 1,000,000 Red Orbs total."
+    },
+    {
+      "apiname": "Achievements_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon Destroyer",
+      "description": "Defeat 1,000 enemies total."
+    },
+    {
+      "apiname": "Achievements_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rearm and Repeat",
+      "description": "Collect more than 100 Devil Breakers during missions."
+    },
+    {
+      "apiname": "Achievements_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dante The Gambler",
+      "description": "Use more than 500,000 Red Orbs total with Dr. Faust."
+    },
+    {
+      "apiname": "Achievements_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who Needs Weapons Anyway?",
+      "description": "Clear Mission 11 without equipping a weapon set for Dante (any difficulty except Heaven or Hell)."
+    },
+    {
+      "apiname": "Achievements_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unarmed and Dangerous",
+      "description": "Beat Mission 07 without any starting Devil Breakers equipped (any difficulty except Heaven or Hell)."
+    },
+    {
+      "apiname": "Achievements_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pet Protection",
+      "description": "Clear Mission 05 without V's demons getting stalemated (any difficulty except Heaven or Hell)."
+    },
+    {
+      "apiname": "Achievements_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slam Dunk",
+      "description": "Clear the Bloody Palace with Nero."
+    },
+    {
+      "apiname": "Achievements_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Easy",
+      "description": "Clear the Bloody Palace with Dante."
+    },
+    {
+      "apiname": "Achievements_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rest in Peace",
+      "description": "Clear the Bloody Palace with V."
+    },
+    {
+      "apiname": "Achievements_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sibling Rivalry",
+      "description": "Clear all missions as Vergil."
+    },
+    {
+      "apiname": "Achievements_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Concentrated Strength",
+      "description": "Acquire all of Vergil's skills."
+    },
+    {
+      "apiname": "Achievements_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of a Swordsman",
+      "description": "Clear Mission 19 as Vergil without using any weapons other than Yamato. (Heaven or Hell excluded)"
+    },
+    {
+      "apiname": "Achievements_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is Power",
+      "description": "Clear the Bloody Palace as Vergil."
+    }
+  ]
+}

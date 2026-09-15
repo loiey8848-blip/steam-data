@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 509930,
+  "game": "NightmareZ",
+  "total": 12,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:06.785510+00:00",
+  "achievements": [
+    {
+      "apiname": "500_GHOST_KILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "500_Ghost_Killed",
+      "description": "When_500_Ghosts_are_killed_by_the_player"
+    },
+    {
+      "apiname": "THUNDER_SKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunder_Skill_Unlocked",
+      "description": "Thunder_skill_unlocked"
+    },
+    {
+      "apiname": "1000_GHOST_KILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1000_Ghost_Killed",
+      "description": "When_5000_ghosts_are_killed_by_the_player"
+    },
+    {
+      "apiname": "SPECIAL_HEALTH_BOX_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special_Health_Box_Collected",
+      "description": "When_player_collects_special_health_box"
+    },
+    {
+      "apiname": "SPECIAL_AMMO_BOX_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special_Ammo_Box_Collected",
+      "description": "When_player_collects_special_ammo_box"
+    },
+    {
+      "apiname": "2000_GHOST_KILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "2000_Ghost_Killed",
+      "description": "When_2000_Ghosts_are_killed"
+    },
+    {
+      "apiname": "SPECIAL_ENERGY_BOX_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special_Energy_Box_Collected",
+      "description": "When_player_collects_special_energy_box"
+    },
+    {
+      "apiname": "FIRST_DEATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First_Dealth",
+      "description": "When_player_dies_for_the_first_time"
+    },
+    {
+      "apiname": "BOSS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss_Level_1",
+      "description": "Boss_level_1_unlocked"
+    },
+    {
+      "apiname": "BOSS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss_Level_2",
+      "description": "Boss_level_2_unlocked"
+    },
+    {
+      "apiname": "BOSS_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss_Level_3",
+      "description": "Boss_level_3_unlocked"
+    },
+    {
+      "apiname": "BOSS_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss_Level_4",
+      "description": "Boss_level_3_unlocked"
+    }
+  ]
+}

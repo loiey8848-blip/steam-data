@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2073850,
+  "game": "THE FINALS",
+  "total": 50,
+  "unlocked": 22,
+  "percent": 44.0,
+  "updated_at_utc": "2026-09-15T06:52:27.905896+00:00",
+  "achievements": [
+    {
+      "apiname": "FTUE01",
+      "achieved": 1,
+      "unlocktime": 1702134859,
+      "name": "Participation Ribbon",
+      "description": "Create a contestant"
+    },
+    {
+      "apiname": "FTUE02",
+      "achieved": 1,
+      "unlocktime": 1702013899,
+      "name": "Initial Deposit",
+      "description": "Insert a cash box into a cashout station"
+    },
+    {
+      "apiname": "FTUE03",
+      "achieved": 1,
+      "unlocktime": 1702010801,
+      "name": "Med Student",
+      "description": "Revive a teammate"
+    },
+    {
+      "apiname": "FTUE04",
+      "achieved": 1,
+      "unlocktime": 1702014019,
+      "name": "Returning Contestant",
+      "description": "Play 3 rounds of Quick Cash"
+    },
+    {
+      "apiname": "FTUE05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green Light",
+      "description": "Play 10 rounds with a Light Build"
+    },
+    {
+      "apiname": "FTUE06",
+      "achieved": 1,
+      "unlocktime": 1702024423,
+      "name": "Mass Medium",
+      "description": "Play 10 rounds with a Medium Build"
+    },
+    {
+      "apiname": "FTUE07",
+      "achieved": 1,
+      "unlocktime": 1702306129,
+      "name": "Play The Heavy",
+      "description": "Play 10 rounds with a Heavy Build"
+    },
+    {
+      "apiname": "FTUE08",
+      "achieved": 1,
+      "unlocktime": 1702184734,
+      "name": "Rising Star",
+      "description": "Play 3 Tournament rounds"
+    },
+    {
+      "apiname": "FTUE09",
+      "achieved": 1,
+      "unlocktime": 1702142080,
+      "name": "Life Of The Party",
+      "description": "Play 10 rounds in a Party"
+    },
+    {
+      "apiname": "FTUE10",
+      "achieved": 1,
+      "unlocktime": 1702016750,
+      "name": "Savings Specialist",
+      "description": "Obtain a total of 100,000 cash"
+    },
+    {
+      "apiname": "FTUE11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lesson Learner",
+      "description": "Complete the Tutorial"
+    },
+    {
+      "apiname": "PROG01",
+      "achieved": 1,
+      "unlocktime": 1702030566,
+      "name": "Attending Physician",
+      "description": "Revive teammates 50 times"
+    },
+    {
+      "apiname": "PROG02",
+      "achieved": 1,
+      "unlocktime": 1702304620,
+      "name": "Demolition Expert",
+      "description": "Deal 1,000,000 damage to arenas"
+    },
+    {
+      "apiname": "PROG03",
+      "achieved": 1,
+      "unlocktime": 1702128198,
+      "name": "Dead Shot",
+      "description": "Get 300 eliminations with Ranged Weapons"
+    },
+    {
+      "apiname": "PROG04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strong Arm",
+      "description": "Get 150 eliminations with Melee Weapons"
+    },
+    {
+      "apiname": "PROG05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gadget Guru",
+      "description": "Get 150 eliminations with Gadgets"
+    },
+    {
+      "apiname": "PROG06",
+      "achieved": 1,
+      "unlocktime": 1702212317,
+      "name": "Defense Devotee",
+      "description": "Block a total of 25,000 damage"
+    },
+    {
+      "apiname": "PROG07",
+      "achieved": 1,
+      "unlocktime": 1702089716,
+      "name": "Resident Doctor",
+      "description": "Heal teammates for a total of 25,000 health"
+    },
+    {
+      "apiname": "PROG08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light Years",
+      "description": "Win 150 rounds with a Light Build"
+    },
+    {
+      "apiname": "PROG09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medium Rare",
+      "description": "Win 150 rounds with a Medium Build"
+    },
+    {
+      "apiname": "PROG10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Hand",
+      "description": "Win 150 rounds with a Heavy Build"
+    },
+    {
+      "apiname": "PROG11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Pockets",
+      "description": "Obtain a total of 50,000,000 cash"
+    },
+    {
+      "apiname": "CHAL01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Stopper",
+      "description": "Win the final round in Tournament or Ranked Tournament"
+    },
+    {
+      "apiname": "CHAL02",
+      "achieved": 1,
+      "unlocktime": 1702136118,
+      "name": "Stop Payment",
+      "description": "Eliminate an opponent while they are carrying a cash box, 5 times"
+    },
+    {
+      "apiname": "CHAL03",
+      "achieved": 1,
+      "unlocktime": 1702113521,
+      "name": "Asset Protection",
+      "description": "Eliminate an opponent trying to steal your cashout, 10 times"
+    },
+    {
+      "apiname": "CHAL04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last-minute Gift",
+      "description": "Start a cashout with less than 10 seconds remaining in the match"
+    },
+    {
+      "apiname": "CHAL05",
+      "achieved": 1,
+      "unlocktime": 1702014014,
+      "name": "Buzzer Beater",
+      "description": "Steal a cashout with less than 10 seconds remaining in the match"
+    },
+    {
+      "apiname": "CHAL06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Highway Patrol",
+      "description": "Eliminate an opponent while you are riding a Zipline, 10 times"
+    },
+    {
+      "apiname": "CHAL07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Shot",
+      "description": "Eliminate an opponent while you are on fire, 5 times in a single round"
+    },
+    {
+      "apiname": "CHAL08",
+      "achieved": 1,
+      "unlocktime": 1702132630,
+      "name": "Just Like Scotty",
+      "description": "Win a round in any mode without being eliminated"
+    },
+    {
+      "apiname": "CHAL09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bombouncer",
+      "description": "Eliminate an opponent by bouncing a grenade on a Jump Pad"
+    },
+    {
+      "apiname": "CHAL10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pressure Prize",
+      "description": "Hit an opponent in the head with an explosive carriable"
+    },
+    {
+      "apiname": "CHAL11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dodgeball Champion",
+      "description": "Hit opponents with 3 different carriables within 15 seconds"
+    },
+    {
+      "apiname": "CHAL12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clip And Slide",
+      "description": "Eliminate an opponent with a headshot while you are sliding"
+    },
+    {
+      "apiname": "CHAL13",
+      "achieved": 1,
+      "unlocktime": 1702012384,
+      "name": "Multitasker",
+      "description": "Eliminate 3 opponents with 3 different items or carriables within 10 seconds"
+    },
+    {
+      "apiname": "CHAL14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Busy Body",
+      "description": "Eliminate 3 opponents with a Melee Weapon within 10 seconds"
+    },
+    {
+      "apiname": "CHAL15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crowd Pleaser",
+      "description": "Finish in first place, 3 times in a row"
+    },
+    {
+      "apiname": "CHAL16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyro Prodigy",
+      "description": "Eliminate 25 opponents with fire"
+    },
+    {
+      "apiname": "CHAL17",
+      "achieved": 1,
+      "unlocktime": 1702124762,
+      "name": "Toxic Tact",
+      "description": "Eliminate 25 opponents with gas"
+    },
+    {
+      "apiname": "CHAL18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Bullet",
+      "description": "Get a headshot elimination with the last bullet in the magazine of your primary weapon"
+    },
+    {
+      "apiname": "FUNN01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fatal Florist",
+      "description": "Eliminate an opponent with a flowerpot"
+    },
+    {
+      "apiname": "FUNN02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charitable Donation",
+      "description": "Eliminate an opponent with a cash box"
+    },
+    {
+      "apiname": "FUNN03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Goal",
+      "description": "Throw a cash box into a cashout station from 20 meters away"
+    },
+    {
+      "apiname": "FUNN04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Showboaster",
+      "description": ""
+    },
+    {
+      "apiname": "FUNN05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butter Fingers",
+      "description": ""
+    },
+    {
+      "apiname": "FUNN06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky Bridge Saboteur",
+      "description": ""
+    },
+    {
+      "apiname": "FUNN07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artful Expressionist",
+      "description": ""
+    },
+    {
+      "apiname": "FUNN08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Rock Skipper",
+      "description": ""
+    },
+    {
+      "apiname": "FUNN09",
+      "achieved": 1,
+      "unlocktime": 1702742624,
+      "name": "Speed Run",
+      "description": "Start a cashout within 15 seconds after opening a vault"
+    },
+    {
+      "apiname": "FUNN10",
+      "achieved": 1,
+      "unlocktime": 1702185433,
+      "name": "Blast Caster",
+      "description": ""
+    }
+  ]
+}

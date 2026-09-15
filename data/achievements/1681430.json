@@ -1,0 +1,200 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1681430,
+  "game": "RoboCop: Rogue City",
+  "total": 27,
+  "unlocked": 1,
+  "percent": 3.7,
+  "updated_at_utc": "2026-09-15T06:52:18.118265+00:00",
+  "achievements": [
+    {
+      "apiname": "SecretArcadeRoom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No stone unturned",
+      "description": "Find a secret area in the Arcade."
+    },
+    {
+      "apiname": "ShootInTheBalls",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zip This Up",
+      "description": "Shoot an enemy in a sensitive spot."
+    },
+    {
+      "apiname": "SecretAuto9Board",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good eyes, Murphy!",
+      "description": "Find a PCB for Auto-9 in a secret area of Steel Mill."
+    },
+    {
+      "apiname": "KillBikerWithHisBike",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live by the bike...",
+      "description": "Shoot the gas tank of a moving motorcycle."
+    },
+    {
+      "apiname": "KillEnemyWithThrowable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strikeout!",
+      "description": "Eliminate an enemy using a throwable object."
+    },
+    {
+      "apiname": "ShootingRangeBronze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead-On",
+      "description": "Score 150 points at the shooting range."
+    },
+    {
+      "apiname": "ShootingRangeSilver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"This Guy Is Really Good\"",
+      "description": "Score 200 points at the shooting range."
+    },
+    {
+      "apiname": "ShootingRangeGold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SuperCop",
+      "description": "Score 250 points at the shooting range."
+    },
+    {
+      "apiname": "SaveCat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Real Hero",
+      "description": "Save a cat from the Burning Hotel."
+    },
+    {
+      "apiname": "HighRatedEvaluation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Officer of the month",
+      "description": "Score \"A\" on any evaluation."
+    },
+    {
+      "apiname": "Kill3WithExplosion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nukem!",
+      "description": "Eliminate 3 enemies with 1 explosive."
+    },
+    {
+      "apiname": "GiveTicket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uphold the Law",
+      "description": "Issue a ticket."
+    },
+    {
+      "apiname": "HackTurret",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "May Be Used Against You",
+      "description": "Hack an enemy turret."
+    },
+    {
+      "apiname": "L15Efficiency",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Can Only Be One",
+      "description": "Destroy all UEDs during a Shady Meeting in under 10 minutes."
+    },
+    {
+      "apiname": "ModifyAuto9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Adds Up",
+      "description": "Equip Auto-9's PCB with any chip."
+    },
+    {
+      "apiname": "FindSkillBook",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'd Buy That For a Dollar!",
+      "description": "Find an OCP skill disk."
+    },
+    {
+      "apiname": "SkillBranchMax",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": "Fully develop any skill."
+    },
+    {
+      "apiname": "FinishCSI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Boiled",
+      "description": "Help officers Kurtz and O'Neal solve a murder case."
+    },
+    {
+      "apiname": "Ql01station",
+      "achieved": 1,
+      "unlocktime": 1743947007,
+      "name": "Night Has Just Begun",
+      "description": "Complete Breaking News quest."
+    },
+    {
+      "apiname": "Ql04soot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead or Alive",
+      "description": "Complete Soot's Final Encore quest."
+    },
+    {
+      "apiname": "Ql06ED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twenty Seconds to Comply",
+      "description": "Complete Street Vulture's Turf quest."
+    },
+    {
+      "apiname": "Ql09bank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Mess With the Money!",
+      "description": "Complete Bank Heist quest."
+    },
+    {
+      "apiname": "Ql12mall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Book Him!",
+      "description": "Complete Ghosts from The Past quest."
+    },
+    {
+      "apiname": "Ql17prisonbreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Talk",
+      "description": "Complete Wendell’s Confession quest."
+    },
+    {
+      "apiname": "Ql21ocphq",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cashing Out",
+      "description": "Complete The Man Himself quest."
+    },
+    {
+      "apiname": "Ql25wendel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Arresting You Anymore",
+      "description": "Complete No Way Out quest."
+    },
+    {
+      "apiname": "Ql27ENDGAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"Nice shooting, son\"",
+      "description": "Complete the game on any difficulty level."
+    }
+  ]
+}

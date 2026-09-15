@@ -1,0 +1,403 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3678970,
+  "game": "TBH: Task Bar Hero",
+  "total": 56,
+  "unlocked": 56,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:33.161691+00:00",
+  "achievements": [
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100001",
+      "achieved": 1,
+      "unlocktime": 1781942225,
+      "name": "Hero Out of the Taskbar",
+      "description": "Clear stage 1-1 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100002",
+      "achieved": 1,
+      "unlocktime": 1782023000,
+      "name": "TBH, This Game Slaps",
+      "description": "Clear stage 1-10 for the first time!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100003",
+      "achieved": 1,
+      "unlocktime": 1782214752,
+      "name": "Still Not Off the Clock",
+      "description": "Clear stage 2-10 for the first time!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100004",
+      "achieved": 1,
+      "unlocktime": 1783500069,
+      "name": "Normal? That's Boring.",
+      "description": "Clear Normal mode for the first time!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100005",
+      "achieved": 1,
+      "unlocktime": 1784041419,
+      "name": "The Nightmare Begins",
+      "description": "Clear Nightmare mode for the first time!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_100006",
+      "achieved": 1,
+      "unlocktime": 1784149810,
+      "name": "Hell? Better Than Monday.",
+      "description": "Clear Hell mode for the first time!"
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_101001",
+      "achieved": 1,
+      "unlocktime": 1781945146,
+      "name": "Gone Without a Trace",
+      "description": "Defeat 1,000 monsters."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_101002",
+      "achieved": 1,
+      "unlocktime": 1782033197,
+      "name": "I Was Just Idling...",
+      "description": "Defeat 10,000 monsters."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_101003",
+      "achieved": 1,
+      "unlocktime": 1784171195,
+      "name": "Monsters? What Monsters?",
+      "description": "Defeat 100,000 monsters."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_102001",
+      "achieved": 1,
+      "unlocktime": 1781944234,
+      "name": "Package Delivered~",
+      "description": "Open 10 normal boxes."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_102002",
+      "achieved": 1,
+      "unlocktime": 1781946191,
+      "name": "A Gift from the Boss",
+      "description": "Open 10 stage boss boxes."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_102003",
+      "achieved": 1,
+      "unlocktime": 1783918866,
+      "name": "The Big Boss's Treasure",
+      "description": "Open 10 act boss boxes."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_103001",
+      "achieved": 1,
+      "unlocktime": 1783436509,
+      "name": "Starlit Gear",
+      "description": "Obtain an Arcana grade gear for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_103002",
+      "achieved": 1,
+      "unlocktime": 1783498166,
+      "name": "Gear Beyond Limits",
+      "description": "Obtain a Beyond grade gear for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_103003",
+      "achieved": 1,
+      "unlocktime": 1783436568,
+      "name": "Heaven-Sent Gear",
+      "description": "Obtain a Celestial grade gear for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_103004",
+      "achieved": 1,
+      "unlocktime": 1783436573,
+      "name": "Blessed by the Divine",
+      "description": "Obtain a Divine grade gear for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_103005",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Chosen by the Cosmos",
+      "description": "Obtain a Cosmic grade gear for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_111001",
+      "achieved": 1,
+      "unlocktime": 1781950615,
+      "name": "Tasted the Power of Synthesis",
+      "description": "Successfully synthesize an Uncommon grade item for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_111002",
+      "achieved": 1,
+      "unlocktime": 1782022745,
+      "name": "Hey, Not Bad!",
+      "description": "Successfully synthesize a Rare grade item for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_111003",
+      "achieved": 1,
+      "unlocktime": 1782106014,
+      "name": "Legends Are Made, Not Born",
+      "description": "Successfully synthesize a Legendary grade item for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_111004",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Recipe for Immortality",
+      "description": "Successfully synthesize an Immortal grade item for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_112001",
+      "achieved": 1,
+      "unlocktime": 1782022813,
+      "name": "A Decorative Awakening",
+      "description": "Successfully apply a Tier 1+ decoration option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_112002",
+      "achieved": 1,
+      "unlocktime": 1784173985,
+      "name": "Decoration is an Art",
+      "description": "Successfully apply a Tier 5+ decoration option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_113001",
+      "achieved": 1,
+      "unlocktime": 1782286517,
+      "name": "Baby Steps in Engraving",
+      "description": "Successfully apply a Tier 1+ engraving option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_113002",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Outshining Jewels",
+      "description": "Successfully apply a Tier 5+ engraving option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_114001",
+      "achieved": 1,
+      "unlocktime": 1784162168,
+      "name": "Let's Try Inscribing",
+      "description": "Successfully apply a Tier 1+ inscription option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_114002",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Etched into the Soul",
+      "description": "Successfully apply a Tier 5+ inscription option for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_115001",
+      "achieved": 1,
+      "unlocktime": 1783436448,
+      "name": "First Wish",
+      "description": "Successfully make an offering for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_116001",
+      "achieved": 1,
+      "unlocktime": 1781947324,
+      "name": "Accessory Workshop: OPEN!",
+      "description": "Successfully craft a Common grade or higher accessory for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_116002",
+      "achieved": 1,
+      "unlocktime": 1782102822,
+      "name": "The Immortal Artisan",
+      "description": "Successfully craft an Immortal grade or higher accessory for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_119001",
+      "achieved": 1,
+      "unlocktime": 1782022771,
+      "name": "Horroric Cube",
+      "description": "Reach Cube level 10."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_119002",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Decubed Cain",
+      "description": "Reach Cube level 50."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_120001",
+      "achieved": 1,
+      "unlocktime": 1784145999,
+      "name": "Rookie Merchant",
+      "description": "List an item on the Trading Ship for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_121001",
+      "achieved": 1,
+      "unlocktime": 1784086368,
+      "name": "Friend of the Night",
+      "description": "Unlock the Bat pet."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122001",
+      "achieved": 1,
+      "unlocktime": 1781949157,
+      "name": "Hero's First Awakening",
+      "description": "Reach Hero level 10 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122002",
+      "achieved": 1,
+      "unlocktime": 1782183775,
+      "name": "Still Warming Up",
+      "description": "Reach Hero level 20 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122003",
+      "achieved": 1,
+      "unlocktime": 1783476820,
+      "name": "Getting the Hang of It",
+      "description": "Reach Hero level 30 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122004",
+      "achieved": 1,
+      "unlocktime": 1783832418,
+      "name": "Half-Legend",
+      "description": "Reach Hero level 50 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122005",
+      "achieved": 1,
+      "unlocktime": 1784148446,
+      "name": "Unleashed Potential",
+      "description": "Reach Hero level 60 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122006",
+      "achieved": 1,
+      "unlocktime": 1784227193,
+      "name": "Almost There",
+      "description": "Reach Hero level 70 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_122007",
+      "achieved": 1,
+      "unlocktime": 1784245689,
+      "name": "Legend of the Taskbar",
+      "description": "Reach Hero level 80 for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_123001",
+      "achieved": 1,
+      "unlocktime": 1781943317,
+      "name": "The Sacred Calling",
+      "description": "Unlock the Priest hero."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131001",
+      "achieved": 1,
+      "unlocktime": 1784200523,
+      "name": "Heroes Never Walk Alone",
+      "description": "Raise 4 heroes to level 50 or above."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131002",
+      "achieved": 1,
+      "unlocktime": 1784200998,
+      "name": "Solo Shift in Hell",
+      "description": "Clear Hell 3-10 solo."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131003",
+      "achieved": 1,
+      "unlocktime": 1784201158,
+      "name": "Two's Company",
+      "description": "Clear Torment 3-10 with a 2-player party."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131004",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "Obsession? No, Dedication.",
+      "description": "Attempt inscription 100 times on the same item."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131005",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "The Perfectionist",
+      "description": "Complete all decoration/engraving/inscription on all equipped gear (for items with 2/2/2 slots)."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131006",
+      "achieved": 1,
+      "unlocktime": 1783918898,
+      "name": "In the Blink of an Eye",
+      "description": "Clear any stage within 10 seconds."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131007",
+      "achieved": 1,
+      "unlocktime": 1784254259,
+      "name": "...Wait, I'm the Only One Left?",
+      "description": "Clear Normal 3-10 act boss with 2 party members dead in a 3-player party."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_131008",
+      "achieved": 1,
+      "unlocktime": 1784200949,
+      "name": "Like a Ghost",
+      "description": "Clear Nightmare 3-10 act boss without getting hit."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_104001",
+      "achieved": 1,
+      "unlocktime": 1781943014,
+      "name": "First Paycheck",
+      "description": "Earn 1,000 gold."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_104002",
+      "achieved": 1,
+      "unlocktime": 1782190975,
+      "name": "Millionaire Dreams",
+      "description": "Earn 1,000,000 gold."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_104003",
+      "achieved": 1,
+      "unlocktime": 1784135383,
+      "name": "Overflowing Vault",
+      "description": "Earn 100,000,000 gold."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_110001",
+      "achieved": 1,
+      "unlocktime": 1781946223,
+      "name": "Alchemy 101",
+      "description": "Earn 1,000 gold through alchemy."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_110002",
+      "achieved": 1,
+      "unlocktime": 1783437251,
+      "name": "The Philosopher's Stone",
+      "description": "Earn 1,000,000 gold through alchemy."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_117001",
+      "achieved": 1,
+      "unlocktime": 1782090086,
+      "name": "Essence Extracted",
+      "description": "Successfully extract for the first time."
+    }
+  ]
+}

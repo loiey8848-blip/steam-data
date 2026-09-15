@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1903340,
+  "game": "Clair Obscur: Expedition 33",
+  "total": 55,
+  "unlocked": 55,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:24.047712+00:00",
+  "achievements": [
+    {
+      "apiname": "LUMIERE",
+      "achieved": 1,
+      "unlocktime": 1745503255,
+      "name": "Lumière",
+      "description": "Embark on the Expedition."
+    },
+    {
+      "apiname": "SPRING_MEADOWS",
+      "achieved": 1,
+      "unlocktime": 1745583782,
+      "name": "Spring Meadows",
+      "description": ""
+    },
+    {
+      "apiname": "FLYING_WATERS",
+      "achieved": 1,
+      "unlocktime": 1745604621,
+      "name": "Flying Waters",
+      "description": ""
+    },
+    {
+      "apiname": "ANCIENT_SANCTUARY",
+      "achieved": 1,
+      "unlocktime": 1745636720,
+      "name": "Ancient Sanctuary",
+      "description": ""
+    },
+    {
+      "apiname": "GESTRAL_VILLAGE",
+      "achieved": 1,
+      "unlocktime": 1745637713,
+      "name": "Gestral Village",
+      "description": ""
+    },
+    {
+      "apiname": "ESQUIES_NEST",
+      "achieved": 1,
+      "unlocktime": 1745639560,
+      "name": "Esquie's Nest",
+      "description": ""
+    },
+    {
+      "apiname": "STONE_WAVE_CLIFFS",
+      "achieved": 1,
+      "unlocktime": 1745662141,
+      "name": "Stone Wave Cliffs",
+      "description": ""
+    },
+    {
+      "apiname": "FORGOTTEN_BATTLEFIELD",
+      "achieved": 1,
+      "unlocktime": 1745667016,
+      "name": "Forgotten Battlefield",
+      "description": ""
+    },
+    {
+      "apiname": "GRANDIS_STATION",
+      "achieved": 1,
+      "unlocktime": 1745669003,
+      "name": "Monoco's Station",
+      "description": ""
+    },
+    {
+      "apiname": "OLD_LUMIERE",
+      "achieved": 1,
+      "unlocktime": 1745684574,
+      "name": "Old Lumière",
+      "description": ""
+    },
+    {
+      "apiname": "FIRST_AXON",
+      "achieved": 1,
+      "unlocktime": 1745689832,
+      "name": "First Axon",
+      "description": ""
+    },
+    {
+      "apiname": "SECOND_AXON",
+      "achieved": 1,
+      "unlocktime": 1745775074,
+      "name": "Second Axon",
+      "description": ""
+    },
+    {
+      "apiname": "MONOLITH",
+      "achieved": 1,
+      "unlocktime": 1745782040,
+      "name": "Monolith",
+      "description": ""
+    },
+    {
+      "apiname": "PAINTRESS",
+      "achieved": 1,
+      "unlocktime": 1745806625,
+      "name": "Paintress",
+      "description": ""
+    },
+    {
+      "apiname": "BACK_TO_LUMIERE",
+      "achieved": 1,
+      "unlocktime": 1745808358,
+      "name": "Back to Lumière",
+      "description": ""
+    },
+    {
+      "apiname": "THE_END",
+      "achieved": 1,
+      "unlocktime": 1745814098,
+      "name": "The End",
+      "description": ""
+    },
+    {
+      "apiname": "ESQUIE_UPGRADES",
+      "achieved": 1,
+      "unlocktime": 1747765807,
+      "name": "Plane, Train, and Submarine",
+      "description": ""
+    },
+    {
+      "apiname": "JOURNALS",
+      "achieved": 1,
+      "unlocktime": 1747845544,
+      "name": "Follow The Trail",
+      "description": "Find all of the journals from prior expeditions."
+    },
+    {
+      "apiname": "NEVRON_QUESTS",
+      "achieved": 1,
+      "unlocktime": 1747851160,
+      "name": "Aiding the Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "SIMON",
+      "achieved": 1,
+      "unlocktime": 1747845097,
+      "name": "Peace At Last",
+      "description": ""
+    },
+    {
+      "apiname": "GESTRAL_BEACH",
+      "achieved": 1,
+      "unlocktime": 1747770799,
+      "name": "Gestral Games",
+      "description": ""
+    },
+    {
+      "apiname": "CLEA",
+      "achieved": 1,
+      "unlocktime": 1747852827,
+      "name": "Clea",
+      "description": ""
+    },
+    {
+      "apiname": "ENDLESS_TOWER",
+      "achieved": 1,
+      "unlocktime": 1747842975,
+      "name": "“Endless”",
+      "description": ""
+    },
+    {
+      "apiname": "LOST_GESTRALS",
+      "achieved": 1,
+      "unlocktime": 1747768769,
+      "name": "Lost Gestrals",
+      "description": ""
+    },
+    {
+      "apiname": "SERPENPHARE",
+      "achieved": 1,
+      "unlocktime": 1747766951,
+      "name": "À On",
+      "description": ""
+    },
+    {
+      "apiname": "SPRONG",
+      "achieved": 1,
+      "unlocktime": 1747851160,
+      "name": "Sprong",
+      "description": ""
+    },
+    {
+      "apiname": "PAINTING_WORKSHOP",
+      "achieved": 1,
+      "unlocktime": 1747799377,
+      "name": "Noir et Blanc",
+      "description": ""
+    },
+    {
+      "apiname": "SCIEL_RELATIONSHIP",
+      "achieved": 1,
+      "unlocktime": 1747765995,
+      "name": "Sciel",
+      "description": ""
+    },
+    {
+      "apiname": "MONOCO_RELATIONSHIP",
+      "achieved": 1,
+      "unlocktime": 1747828645,
+      "name": "Monoco",
+      "description": ""
+    },
+    {
+      "apiname": "MAELLE_RELATIONSHIP",
+      "achieved": 1,
+      "unlocktime": 1747842353,
+      "name": "Maelle",
+      "description": ""
+    },
+    {
+      "apiname": "LUNE_RELATIONSHIP",
+      "achieved": 1,
+      "unlocktime": 1747827205,
+      "name": "Lune",
+      "description": ""
+    },
+    {
+      "apiname": "ESQUIE_RELATIONSHIP",
+      "achieved": 1,
+      "unlocktime": 1747765845,
+      "name": "Esquie",
+      "description": ""
+    },
+    {
+      "apiname": "WEAPON_FIRST_UPGRADE",
+      "achieved": 1,
+      "unlocktime": 1745604905,
+      "name": "Weapon Upgrade",
+      "description": "Upgrade a weapon once."
+    },
+    {
+      "apiname": "WEAPON_FULL_UPGRADE",
+      "achieved": 1,
+      "unlocktime": 1747670989,
+      "name": "Weapon Mastery",
+      "description": "Fully upgrade a weapon."
+    },
+    {
+      "apiname": "FIRST_LUMINA_POINT",
+      "achieved": 1,
+      "unlocktime": 1745604981,
+      "name": "Lumina",
+      "description": "Consume a Lumina point."
+    },
+    {
+      "apiname": "LEVEL_33",
+      "achieved": 1,
+      "unlocktime": 1745689832,
+      "name": "Expeditioner",
+      "description": "Reach level 33."
+    },
+    {
+      "apiname": "LEVEL_66",
+      "achieved": 1,
+      "unlocktime": 1747582518,
+      "name": "Trailbreaker",
+      "description": "Reach level 66."
+    },
+    {
+      "apiname": "LEVEL_99",
+      "achieved": 1,
+      "unlocktime": 1747582603,
+      "name": "Survivor",
+      "description": "Reach level 99."
+    },
+    {
+      "apiname": "GUSTAVE_OVERCHARGE",
+      "achieved": 1,
+      "unlocktime": 1745604621,
+      "name": "Overcharge",
+      "description": "With Gustave, use a fully charged Overcharge that Breaks an enemy."
+    },
+    {
+      "apiname": "LUNE_STAINS",
+      "achieved": 1,
+      "unlocktime": 1747671512,
+      "name": "Perfect Flow",
+      "description": ""
+    },
+    {
+      "apiname": "MAELLE_STANCES",
+      "achieved": 1,
+      "unlocktime": 1747672228,
+      "name": "Synergy",
+      "description": ""
+    },
+    {
+      "apiname": "SCIEL_FORETELL",
+      "achieved": 1,
+      "unlocktime": 1747799136,
+      "name": "Maximisation",
+      "description": ""
+    },
+    {
+      "apiname": "VERSO_PERFECTION",
+      "achieved": 1,
+      "unlocktime": 1745663989,
+      "name": "Perfection",
+      "description": ""
+    },
+    {
+      "apiname": "MONOCO_WHEEL",
+      "achieved": 1,
+      "unlocktime": 1747672080,
+      "name": "Wheel Control",
+      "description": ""
+    },
+    {
+      "apiname": "PETANK_ALPHA",
+      "achieved": 1,
+      "unlocktime": 1747767252,
+      "name": "Carreau Parfait",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_MONOCO_SKILLS",
+      "achieved": 1,
+      "unlocktime": 1747854388,
+      "name": "Feet Collection",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_CHARACTERS",
+      "achieved": 1,
+      "unlocktime": 1745669003,
+      "name": "Expedition 33",
+      "description": ""
+    },
+    {
+      "apiname": "LVL3_GRADIENT_ATTACK",
+      "achieved": 1,
+      "unlocktime": 1747842353,
+      "name": "Chroma Proficiency",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_SONGS",
+      "achieved": 1,
+      "unlocktime": 1747843451,
+      "name": "Connoisseur",
+      "description": "Find all 33 music records."
+    },
+    {
+      "apiname": "PAINT_CAGE",
+      "achieved": 1,
+      "unlocktime": 1745600449,
+      "name": "Paint Cage",
+      "description": "Break a Paint Cage."
+    },
+    {
+      "apiname": "BREAK",
+      "achieved": 1,
+      "unlocktime": 1745583273,
+      "name": "Time to Spill Some Ink",
+      "description": "Break an enemy."
+    },
+    {
+      "apiname": "NO_DAMAGE_BOSS",
+      "achieved": 1,
+      "unlocktime": 1745582036,
+      "name": "Professional",
+      "description": "Defeat a boss without taking any damage."
+    },
+    {
+      "apiname": "OPTIONAL_CAMP",
+      "achieved": 1,
+      "unlocktime": 1745605142,
+      "name": "Curious",
+      "description": "Witness an optional scene at camp."
+    },
+    {
+      "apiname": "ESQUIE_UNLOCK",
+      "achieved": 1,
+      "unlocktime": 1745639560,
+      "name": "Legend",
+      "description": ""
+    },
+    {
+      "apiname": "LUMIERE_MIME",
+      "achieved": 1,
+      "unlocktime": 1747581265,
+      "name": "A Peculiar Encounter",
+      "description": "Defeat the Mime in Lumière."
+    }
+  ]
+}

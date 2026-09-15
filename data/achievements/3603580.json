@@ -1,0 +1,683 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3603580,
+  "game": "Whisker Wanderlust: The Wondrous Journey",
+  "total": 96,
+  "unlocked": 96,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:32.160306+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1775291707,
+      "name": "Yarnbound Chronicles",
+      "description": "Find the 1st object"
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1775291718,
+      "name": "Quintet Collection",
+      "description": "Find the 5th object"
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1775291739,
+      "name": "Fifteen Starlight",
+      "description": "Find the 15th object"
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1775291744,
+      "name": "Scorebound Tome",
+      "description": "Find the 20th object"
+    },
+    {
+      "apiname": "5",
+      "achieved": 1,
+      "unlocktime": 1775291769,
+      "name": "Thirtyfold Bounty",
+      "description": "Find the 30th object"
+    },
+    {
+      "apiname": "6",
+      "achieved": 1,
+      "unlocktime": 1775291779,
+      "name": "Forty Splendors",
+      "description": "Find the 40th object"
+    },
+    {
+      "apiname": "7",
+      "achieved": 1,
+      "unlocktime": 1775291818,
+      "name": "Fifty Curios",
+      "description": "Find the 50th object"
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1775291843,
+      "name": "Sixty Expeditions",
+      "description": "Find the 60th object"
+    },
+    {
+      "apiname": "9",
+      "achieved": 1,
+      "unlocktime": 1775291866,
+      "name": "Seventy Relics",
+      "description": "Find the 70th object"
+    },
+    {
+      "apiname": "10",
+      "achieved": 1,
+      "unlocktime": 1775291927,
+      "name": "Centennial Triumph",
+      "description": "Find the 100th object"
+    },
+    {
+      "apiname": "11",
+      "achieved": 1,
+      "unlocktime": 1775291983,
+      "name": "Fluffball Hoard",
+      "description": "Find the 130th object"
+    },
+    {
+      "apiname": "12",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Sphere Infatuation",
+      "description": "Find the 160th object"
+    },
+    {
+      "apiname": "13",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Pom-Pom Cache",
+      "description": "Find the 190th object"
+    },
+    {
+      "apiname": "14",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Threadbound Spheres",
+      "description": "Find the 220th object"
+    },
+    {
+      "apiname": "15",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Yarn Vault",
+      "description": "Find the 250th object"
+    },
+    {
+      "apiname": "16",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Pom-Pom Spectacle",
+      "description": "Find the 280th object"
+    },
+    {
+      "apiname": "17",
+      "achieved": 1,
+      "unlocktime": 1775292180,
+      "name": "Luminous Plush",
+      "description": "Find the 310th object"
+    },
+    {
+      "apiname": "18",
+      "achieved": 1,
+      "unlocktime": 1775292231,
+      "name": "Thread Ocean Treasures",
+      "description": "Find the 340th object"
+    },
+    {
+      "apiname": "19",
+      "achieved": 1,
+      "unlocktime": 1775292231,
+      "name": "Fiber Tides",
+      "description": "Find the 370th object"
+    },
+    {
+      "apiname": "20",
+      "achieved": 1,
+      "unlocktime": 1775292382,
+      "name": "Quadrant Completion",
+      "description": "Find the 400th object"
+    },
+    {
+      "apiname": "21",
+      "achieved": 1,
+      "unlocktime": 1775292440,
+      "name": "Thread Harvest",
+      "description": "Find the 430th object"
+    },
+    {
+      "apiname": "22",
+      "achieved": 1,
+      "unlocktime": 1775292491,
+      "name": "Clouds of Pom-Poms",
+      "description": "Find the 460th object"
+    },
+    {
+      "apiname": "23",
+      "achieved": 1,
+      "unlocktime": 1775292535,
+      "name": "Yarn Radiance",
+      "description": "Find the 490th object"
+    },
+    {
+      "apiname": "24",
+      "achieved": 1,
+      "unlocktime": 1775292575,
+      "name": "Fuzzy Affection",
+      "description": "Find the 520th object"
+    },
+    {
+      "apiname": "25",
+      "achieved": 1,
+      "unlocktime": 1775292621,
+      "name": "Stellar Tapestry",
+      "description": "Find the 550th object"
+    },
+    {
+      "apiname": "26",
+      "achieved": 1,
+      "unlocktime": 1775293108,
+      "name": "Chrono-Threads",
+      "description": "Find the 580th object"
+    },
+    {
+      "apiname": "27",
+      "achieved": 1,
+      "unlocktime": 1775293186,
+      "name": "Labyrinthine Paths",
+      "description": "Find the 610th object"
+    },
+    {
+      "apiname": "28",
+      "achieved": 1,
+      "unlocktime": 1775293256,
+      "name": "Tangled Thoughts",
+      "description": "Find the 640th object"
+    },
+    {
+      "apiname": "29",
+      "achieved": 1,
+      "unlocktime": 1775293337,
+      "name": "Silk Unraveling",
+      "description": "Find the 670th object"
+    },
+    {
+      "apiname": "30",
+      "achieved": 1,
+      "unlocktime": 1775294233,
+      "name": "Static Spark",
+      "description": "Find the 700th object"
+    },
+    {
+      "apiname": "31",
+      "achieved": 1,
+      "unlocktime": 1775294295,
+      "name": "Plush Sanctum",
+      "description": "Find the 730th object"
+    },
+    {
+      "apiname": "32",
+      "achieved": 1,
+      "unlocktime": 1775294397,
+      "name": "Emperor of Spheres",
+      "description": "Find the 760th object"
+    },
+    {
+      "apiname": "33",
+      "achieved": 1,
+      "unlocktime": 1775294443,
+      "name": "Sovereign Threads",
+      "description": "Find the 790th object"
+    },
+    {
+      "apiname": "34",
+      "achieved": 1,
+      "unlocktime": 1775294485,
+      "name": "Sphere Warfare",
+      "description": "Find the 820th object"
+    },
+    {
+      "apiname": "35",
+      "achieved": 1,
+      "unlocktime": 1775294528,
+      "name": "Thread Entanglement",
+      "description": "Find the 850th object"
+    },
+    {
+      "apiname": "36",
+      "achieved": 1,
+      "unlocktime": 1775294571,
+      "name": "Double Prosperity",
+      "description": "Find the 880th object"
+    },
+    {
+      "apiname": "37",
+      "achieved": 1,
+      "unlocktime": 1775294659,
+      "name": "Whirling Vortex",
+      "description": "Find the 910th object"
+    },
+    {
+      "apiname": "38",
+      "achieved": 1,
+      "unlocktime": 1775294878,
+      "name": "Orbital Storm",
+      "description": "Find the 940th object"
+    },
+    {
+      "apiname": "39",
+      "achieved": 1,
+      "unlocktime": 1775294916,
+      "name": "Rumble Roll",
+      "description": "Find the 970th object"
+    },
+    {
+      "apiname": "40",
+      "achieved": 1,
+      "unlocktime": 1775294961,
+      "name": "Thousandfold Unity",
+      "description": "Find the 1000th object"
+    },
+    {
+      "apiname": "41",
+      "achieved": 1,
+      "unlocktime": 1775295029,
+      "name": "Myriad Vault",
+      "description": "Find the 1050th object"
+    },
+    {
+      "apiname": "42",
+      "achieved": 1,
+      "unlocktime": 1775295104,
+      "name": "Thousand-and-One Scales",
+      "description": "Find the 1100th object"
+    },
+    {
+      "apiname": "43",
+      "achieved": 1,
+      "unlocktime": 1775295189,
+      "name": "Thousand-Five Shells",
+      "description": "Find the 1150th object"
+    },
+    {
+      "apiname": "44",
+      "achieved": 1,
+      "unlocktime": 1775295235,
+      "name": "Thousand-Two Feathers",
+      "description": "Find the 1200th object"
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1775295888,
+      "name": "Thousand-Five Dewdrops",
+      "description": "Find the 1250th object"
+    },
+    {
+      "apiname": "46",
+      "achieved": 1,
+      "unlocktime": 1775297777,
+      "name": "Thousand-Three Mist",
+      "description": "Find the 1300th object"
+    },
+    {
+      "apiname": "47",
+      "achieved": 1,
+      "unlocktime": 1775297868,
+      "name": "Thousand-Three Snow",
+      "description": "Find the 1350th object"
+    },
+    {
+      "apiname": "48",
+      "achieved": 1,
+      "unlocktime": 1775297961,
+      "name": "Thousand-Four Stars",
+      "description": "Find the 1400th object"
+    },
+    {
+      "apiname": "49",
+      "achieved": 1,
+      "unlocktime": 1775299168,
+      "name": "Thousand-Four Fireflies",
+      "description": "Find the 1450th object"
+    },
+    {
+      "apiname": "50",
+      "achieved": 1,
+      "unlocktime": 1775302929,
+      "name": "Thousand-Five Stardust",
+      "description": "Find the 1500th object"
+    },
+    {
+      "apiname": "51",
+      "achieved": 1,
+      "unlocktime": 1775303133,
+      "name": "Thousand-Five Sands",
+      "description": "Find the 1550th object"
+    },
+    {
+      "apiname": "52",
+      "achieved": 1,
+      "unlocktime": 1775303379,
+      "name": "Thousand-Six Fog",
+      "description": "Find the 1600th object"
+    },
+    {
+      "apiname": "53",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Six Dawn",
+      "description": "Find the 1650th object"
+    },
+    {
+      "apiname": "54",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Seven Glow",
+      "description": "Find the 1700th object"
+    },
+    {
+      "apiname": "55",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Seven Hail",
+      "description": "Find the 1750th object"
+    },
+    {
+      "apiname": "56",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Eight Rainbow",
+      "description": "Find the 1800th object"
+    },
+    {
+      "apiname": "57",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Eight Frost",
+      "description": "Find the 1850th object"
+    },
+    {
+      "apiname": "58",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Nine Down",
+      "description": "Find the 1900th object"
+    },
+    {
+      "apiname": "59",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Thousand-Nine Flames",
+      "description": "Find the 1950th object"
+    },
+    {
+      "apiname": "60",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Threadspiral Archive",
+      "description": "Find the 2000th object"
+    },
+    {
+      "apiname": "61",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Stardust Bounty",
+      "description": "Find the 2050th object"
+    },
+    {
+      "apiname": "62",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Omnifilament",
+      "description": "Find the 2100th object"
+    },
+    {
+      "apiname": "63",
+      "achieved": 1,
+      "unlocktime": 1775292293,
+      "name": "Illusion Genesis",
+      "description": "Complete Level 1"
+    },
+    {
+      "apiname": "64",
+      "achieved": 1,
+      "unlocktime": 1775293064,
+      "name": "Aetherwing Machina",
+      "description": "Complete Level 2"
+    },
+    {
+      "apiname": "65",
+      "achieved": 1,
+      "unlocktime": 1775294193,
+      "name": "Urban Camouflage",
+      "description": "Complete Level 3"
+    },
+    {
+      "apiname": "66",
+      "achieved": 1,
+      "unlocktime": 1775294830,
+      "name": "Humanity's Hustle",
+      "description": "Complete Level 4"
+    },
+    {
+      "apiname": "67",
+      "achieved": 1,
+      "unlocktime": 1775295519,
+      "name": "Dragon's Blessing",
+      "description": "Complete Level 5"
+    },
+    {
+      "apiname": "68",
+      "achieved": 1,
+      "unlocktime": 1775299161,
+      "name": "Abyssal Stealth",
+      "description": "Complete Level 6"
+    },
+    {
+      "apiname": "69",
+      "achieved": 1,
+      "unlocktime": 1775304352,
+      "name": "Nightspire Courier",
+      "description": "Complete Level 7"
+    },
+    {
+      "apiname": "70",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Dawn Herald",
+      "description": "Complete Level 8"
+    },
+    {
+      "apiname": "71",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Vault Odyssey",
+      "description": "Complete Level 9"
+    },
+    {
+      "apiname": "72",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Peachblossom Zephyr",
+      "description": "Complete Level 10"
+    },
+    {
+      "apiname": "73",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Emerald Veil",
+      "description": "Unlock Hidden Level"
+    },
+    {
+      "apiname": "74",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Canopy Revelry",
+      "description": "Complete Hidden Level"
+    },
+    {
+      "apiname": "75",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Mallard Mystique",
+      "description": "Find all 10 hidden ducks"
+    },
+    {
+      "apiname": "76",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Omnipouch Mastery",
+      "description": "Collect all objects"
+    },
+    {
+      "apiname": "77",
+      "achieved": 1,
+      "unlocktime": 1775291850,
+      "name": "Gilded Urn Initiation",
+      "description": "Find the 1st can"
+    },
+    {
+      "apiname": "78",
+      "achieved": 1,
+      "unlocktime": 1775292413,
+      "name": "Hexa Urn Formation",
+      "description": "Find the 6th can"
+    },
+    {
+      "apiname": "79",
+      "achieved": 1,
+      "unlocktime": 1775293105,
+      "name": "Zodiac Urns",
+      "description": "Find the 12th can"
+    },
+    {
+      "apiname": "80",
+      "achieved": 1,
+      "unlocktime": 1775294424,
+      "name": "Piscine Trove",
+      "description": "Find the 24th can"
+    },
+    {
+      "apiname": "81",
+      "achieved": 1,
+      "unlocktime": 1775295130,
+      "name": "Urn Overflow",
+      "description": "Find the 30th can"
+    },
+    {
+      "apiname": "82",
+      "achieved": 1,
+      "unlocktime": 1775297669,
+      "name": "Tummy Chimes",
+      "description": "Find the 36th can"
+    },
+    {
+      "apiname": "83",
+      "achieved": 1,
+      "unlocktime": 1775302829,
+      "name": "Rice Crusade",
+      "description": "Find the 42nd can"
+    },
+    {
+      "apiname": "84",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Urn Resonance",
+      "description": "Find the 54th can"
+    },
+    {
+      "apiname": "85",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Snoreforge",
+      "description": "Find the 66th can"
+    },
+    {
+      "apiname": "86",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Scent Quartet",
+      "description": "Find the 72nd can"
+    },
+    {
+      "apiname": "87",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Cerulean Horizon",
+      "description": "Unlock 1st postcard"
+    },
+    {
+      "apiname": "88",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Zephyr's Embrace",
+      "description": "Unlock 2nd postcard"
+    },
+    {
+      "apiname": "89",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Floral Epiphany",
+      "description": "Unlock 3rd postcard"
+    },
+    {
+      "apiname": "90",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Painter's Hearth",
+      "description": "Unlock 4th postcard"
+    },
+    {
+      "apiname": "91",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Crimson Enigma",
+      "description": "Unlock 5th postcard"
+    },
+    {
+      "apiname": "92",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Leviathan's Return",
+      "description": "Unlock 6th postcard"
+    },
+    {
+      "apiname": "93",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Pact Collar",
+      "description": "Find the 1st cat collar"
+    },
+    {
+      "apiname": "94",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Hexa-Charm Array",
+      "description": "Find the 6th cat collar"
+    },
+    {
+      "apiname": "95",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Dodeca-Charm Cosmos",
+      "description": "Find the 12th cat collar"
+    },
+    {
+      "apiname": "96",
+      "achieved": 1,
+      "unlocktime": 1777905236,
+      "name": "Octadeca-Charm Luna",
+      "description": "Find the 18th cat collar"
+    }
+  ]
+}

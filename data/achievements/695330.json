@@ -1,0 +1,123 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 695330,
+  "game": "SEASON: A letter to the future",
+  "total": 16,
+  "unlocked": 3,
+  "percent": 18.8,
+  "updated_at_utc": "2026-09-15T06:50:26.945484+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_THEEND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEEPLISTENER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Listener",
+      "description": "Find a hidden botanical voice."
+    },
+    {
+      "apiname": "ACH_GREYHANDSPRAXI101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grey Hands Praxis 101",
+      "description": "Begin your political education."
+    },
+    {
+      "apiname": "ACH_LOVEUNCOVERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Love Uncoverer",
+      "description": "Uncover some kind of secret romance."
+    },
+    {
+      "apiname": "ACH_GRAFFITIARTIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Graffiti Artist",
+      "description": "Leave a mark on Tieng Valley."
+    },
+    {
+      "apiname": "ACH_JOURNALBEAUTIFIER",
+      "achieved": 1,
+      "unlocktime": 1726240399,
+      "name": "Journal Beautifier",
+      "description": "Completely customize a page in your journal."
+    },
+    {
+      "apiname": "ACH_DREAMLISTENER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream Listener",
+      "description": "Listen to your friend's weird but meaningful dream."
+    },
+    {
+      "apiname": "ACH_MUSICFORCOWS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music for Cows",
+      "description": "Play a herd of cows their favorite genre of music."
+    },
+    {
+      "apiname": "ACH_TOURDETIENG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tour de Tieng",
+      "description": "Follow a little kid on a bike tour of the valley."
+    },
+    {
+      "apiname": "ACH_HOMELEAVER",
+      "achieved": 1,
+      "unlocktime": 1726240312,
+      "name": "Home Leaver",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_OUTSIDEWORLDSEER",
+      "achieved": 1,
+      "unlocktime": 1726241352,
+      "name": "Outside World Seer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STRANGERENCOUNTERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stranger Encounterer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EMOTIONALBAGGAGEHANDLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emotional Baggage Handler",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ARTISTASSISTANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artist Assistant",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SHRINEARRIVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrine Arriver",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GOODBYETIENGVALLEY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goodbye Tieng Valley",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3333250,
+  "game": "深红誓言",
+  "total": 81,
+  "unlocked": 5,
+  "percent": 6.2,
+  "updated_at_utc": "2026-09-15T06:53:28.826453+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_01_Map1",
+      "achieved": 1,
+      "unlocktime": 1777719884,
+      "name": "Long march",
+      "description": "Not afraid of the difficulty of the expedition, walk the mud ball with great momentum."
+    },
+    {
+      "apiname": "ACH_02_Map1",
+      "achieved": 1,
+      "unlocktime": 1777719979,
+      "name": "First brilliance",
+      "description": "Kill three enemies."
+    },
+    {
+      "apiname": "ACH_03_Map1",
+      "achieved": 1,
+      "unlocktime": 1777720142,
+      "name": "Sect branch",
+      "description": "Interacting with the same church branch."
+    },
+    {
+      "apiname": "ACH_04_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Core ability",
+      "description": "Unlock bounce skills."
+    },
+    {
+      "apiname": "ACH_05_Map1",
+      "achieved": 1,
+      "unlocktime": 1777719988,
+      "name": "The power of faith",
+      "description": "Unlock the ability of the red giant sword to attack enemy health points."
+    },
+    {
+      "apiname": "ACH_06_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firm faith",
+      "description": "Complete the entire conversation with Paul the Shadow Devourer and learn about the Red Faith."
+    },
+    {
+      "apiname": "ACH_07_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sect secrets",
+      "description": "Complete a full conversation with Sophia, the Holy Maiden of the Church, on the interlaced hill to learn about Joseph."
+    },
+    {
+      "apiname": "ACH_08_Map1",
+      "achieved": 1,
+      "unlocktime": 1777720013,
+      "name": "Agile pace",
+      "description": "Unlock evasion ability."
+    },
+    {
+      "apiname": "ACH_09_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The era have changed",
+      "description": "Times have changed, my lord. Unlock the ability to shoot."
+    },
+    {
+      "apiname": "ACH_10_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death attack",
+      "description": "After learning about deadly attacks, one cannot resist them and can only dodge."
+    },
+    {
+      "apiname": "ACH_11_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Voice",
+      "description": "Interact and read with all the stone statues and ghost statues on the interlaced hills."
+    },
+    {
+      "apiname": "ACH_12_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "People's suffering",
+      "description": "Dialogue with Mud Man Cliff to understand the suffering of the people of Guretvo."
+    },
+    {
+      "apiname": "ACH_13_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supply quantity",
+      "description": "Use church stone formations to increase the number of blood bottles."
+    },
+    {
+      "apiname": "ACH_14_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supply quality",
+      "description": "Use the Church Round Stone Array to increase the healing capacity of the blood bottle."
+    },
+    {
+      "apiname": "ACH_15_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "External Instructor",
+      "description": "Defeat the boss's external instructor, Spearman."
+    },
+    {
+      "apiname": "ACH_16_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pursuing the General",
+      "description": "Defeat Boss and pursue General Goblinsk."
+    },
+    {
+      "apiname": "ACH_17_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undercover backstab",
+      "description": "Complete 10 backstab attacks."
+    },
+    {
+      "apiname": "ACH_18_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "charge forward",
+      "description": "Kill three elite enemies."
+    },
+    {
+      "apiname": "ACH_19_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Famous swordsman",
+      "description": "Complete all conversations with swordsman Walkley."
+    },
+    {
+      "apiname": "ACH_20_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "liberalism",
+      "description": "Complete all the dialogue with Franklin, the messenger of the Eagle God."
+    },
+    {
+      "apiname": "ACH_21_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Classmate friendship",
+      "description": "Complete all the dialogue with Dalion."
+    },
+    {
+      "apiname": "ACH_22_Map1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holy Teacher College",
+      "description": "Complete all the dialogue with the Saint College Master."
+    },
+    {
+      "apiname": "ACH_23_Map2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ransack",
+      "description": "Collect 3 treasure chests in Longshev."
+    },
+    {
+      "apiname": "ACH_24_Map2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pay respects to the leader",
+      "description": "In a conversation between Longshev and Maxwell."
+    },
+    {
+      "apiname": "ACH_25_Map2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leader's teachings",
+      "description": "After defeating Clark, have a conversation with Maxwell."
+    },
+    {
+      "apiname": "ACH_26_Map2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Holy Maiden",
+      "description": "Have a conversation with the Holy Maiden Sophia in Longshev."
+    },
+    {
+      "apiname": "ACH_27_Map2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "fling caution to the winds",
+      "description": "After receiving Wolfgang's letter, have a conversation with Sofia."
+    },
+    {
+      "apiname": "ACH_28_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "dejected",
+      "description": "Talk to the dejected deserter Chris."
+    },
+    {
+      "apiname": "ACH_29_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Courage radiates",
+      "description": "Talk to the brave deserter Chris."
+    },
+    {
+      "apiname": "ACH_30_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ready to help others",
+      "description": "Leave a piece of advice."
+    },
+    {
+      "apiname": "ACH_31_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be good at listening to advice",
+      "description": "Read a piece of advice."
+    },
+    {
+      "apiname": "ACH_32_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slay the evil spirits",
+      "description": "Kill 10 evil spirits of the Red Hibiscus team."
+    },
+    {
+      "apiname": "ACH_33_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Knife Slashes Ghosts",
+      "description": "Kill 30 evil spirits of the Red Hibiscus team."
+    },
+    {
+      "apiname": "ACH_34_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharp thrust",
+      "description": "Learned about spike attacks in dangerous attacks."
+    },
+    {
+      "apiname": "ACH_35_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Response methods",
+      "description": "Learned how to maneuver in response to spike attacks."
+    },
+    {
+      "apiname": "ACH_36_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret stronghold",
+      "description": "Open the bonfire on the side path of the Thucydides fortress."
+    },
+    {
+      "apiname": "ACH_37_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallen swordsman",
+      "description": "Complete the conversation with the injured fallen swordsman Walkley."
+    },
+    {
+      "apiname": "ACH_38_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Understanding faith",
+      "description": "Collect 6 maps and have a conversation with Walkley."
+    },
+    {
+      "apiname": "ACH_39_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Militaristic fanaticism",
+      "description": "Witness the death of the fanatic Gucci."
+    },
+    {
+      "apiname": "ACH_40_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Special dispatch elite",
+      "description": "What kind of damn elite, I beat the elite!"
+    },
+    {
+      "apiname": "ACH_41_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "capitulationism",
+      "description": "Defeat Boss and surrender to assassin Nahum."
+    },
+    {
+      "apiname": "ACH_42_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Help the field",
+      "description": "Have a conversation with former classmate Darion at Thucydides Castle."
+    },
+    {
+      "apiname": "ACH_43_Map3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shine your sword when facing enemies",
+      "description": "No matter how powerful the opponent is, even if they are the best swordsman in the world, they will still show their sword even if they know they are defeated."
+    },
+    {
+      "apiname": "ACH_44_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirty Business",
+      "description": "Interact and read with all the stone statues and ghosts on Death Island."
+    },
+    {
+      "apiname": "ACH_45_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The seat is majestic and powerful",
+      "description": "Defeat Boss Clark's messenger."
+    },
+    {
+      "apiname": "ACH_46_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balance expert",
+      "description": "Talk to Jennings."
+    },
+    {
+      "apiname": "ACH_47_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Island Port",
+      "description": "This place was originally named Gellernobl."
+    },
+    {
+      "apiname": "ACH_48_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never apostate",
+      "description": "Witness the last wish of the hidden George."
+    },
+    {
+      "apiname": "ACH_49_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "kill the enemy bravely",
+      "description": "Defeat Boss Werewolf."
+    },
+    {
+      "apiname": "ACH_50_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill villains",
+      "description": "Kill 20 villains on Death Island."
+    },
+    {
+      "apiname": "ACH_51_Map4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show off evil and eliminate bandits",
+      "description": "Kill 50 villains on Death Island."
+    },
+    {
+      "apiname": "ACH_52_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Support the front line",
+      "description": "Complete the conversation with Cliff."
+    },
+    {
+      "apiname": "ACH_53_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory turning in",
+      "description": "Complete a dialogue with the master of the Holy Teacher Academy in Iron Ridge City."
+    },
+    {
+      "apiname": "ACH_54_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hold on to me",
+      "description": "Brothers, give it to me."
+    },
+    {
+      "apiname": "ACH_55_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fate showdown",
+      "description": "Farewell to the final battle with Darion!"
+    },
+    {
+      "apiname": "ACH_56_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "unification",
+      "description": "Whatever,that day will comes."
+    },
+    {
+      "apiname": "ACH_57_Map5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay true to the original aspiration",
+      "description": "Standing high, looking back at the road ahead."
+    },
+    {
+      "apiname": "ACH_58_Map6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warriors set out on a campaign",
+      "description": "Strike one punch to avoid a hundred punches!"
+    },
+    {
+      "apiname": "ACH_59_Map6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flattery language",
+      "description": "Complete a dialogue with the Master of the Holy Teacher Academy in the Kingdom of Chu Ri."
+    },
+    {
+      "apiname": "ACH_60_Map6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fighting on three fronts",
+      "description": "Defeat the Holy Teacher Academy and the Holy Ancestor."
+    },
+    {
+      "apiname": "ACH_61_Map6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old soldiers is dead",
+      "description": "Old soldiers never die—we'll greet them with tanks and Molotov cocktails."
+    },
+    {
+      "apiname": "ACH_62_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stand up",
+      "description": "Defeat Franklin, the messenger of the Eagle God."
+    },
+    {
+      "apiname": "ACH_63_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 1",
+      "description": "In the rematch mode, defeat the external instructor Spear Guest of the Youth Education Corps."
+    },
+    {
+      "apiname": "ACH_64_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 2",
+      "description": "In the rematch mode, defeat the pursuing general Goblinsk."
+    },
+    {
+      "apiname": "ACH_65_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 3",
+      "description": "In the rematch mode, defeat the elite Yamamoto of the special task force."
+    },
+    {
+      "apiname": "ACH_66_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 4",
+      "description": "In the rematch mode, defeat the first surrendering assassin Nahum."
+    },
+    {
+      "apiname": "ACH_67_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 5",
+      "description": "In the rematch mode, defeat Marcus, the vanguard of the Red Hibiscus team."
+    },
+    {
+      "apiname": "ACH_68_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 6",
+      "description": "In the rematch mode, defeat Clark's messenger."
+    },
+    {
+      "apiname": "ACH_69_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 7",
+      "description": "In the rematch mode, defeat the loser Wolf."
+    },
+    {
+      "apiname": "ACH_70_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 8",
+      "description": "In the rematch mode, defeat the Young Knight Darion."
+    },
+    {
+      "apiname": "ACH_71_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 9",
+      "description": "In the rematch mode, defeat the advantageous owner Clark."
+    },
+    {
+      "apiname": "ACH_72_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 10",
+      "description": "In the rematch mode, defeat the Holy Master Academy to the Holy Ancestor."
+    },
+    {
+      "apiname": "ACH_73_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 11",
+      "description": "In the rematch mode, defeat the Knight Commander Mike of the Eagle God Army."
+    },
+    {
+      "apiname": "ACH_74_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight again, win again 12",
+      "description": "In the rematch mode, defeat the Eagle God messenger Franklin."
+    },
+    {
+      "apiname": "ACH_75_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "come out victorious in successive battle",
+      "description": "Complete 1 consecutive battle mode."
+    },
+    {
+      "apiname": "ACH_76_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Selected Classics",
+      "description": "Collect 36 selected classics."
+    },
+    {
+      "apiname": "ACH_77_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Church Manifesto",
+      "description": "Collect 45 church declarations."
+    },
+    {
+      "apiname": "ACH_78_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack of all trades",
+      "description": "Collect all 15 martial arts skills."
+    },
+    {
+      "apiname": "ACH_79_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully equipped",
+      "description": "Collect all 33 types of equipment."
+    },
+    {
+      "apiname": "ACH_80_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capture the ringleader to capture all his followers.",
+      "description": "Kill 100 enemies."
+    },
+    {
+      "apiname": "ACH_81_Map7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Creator of History",
+      "description": ""
+    }
+  ]
+}

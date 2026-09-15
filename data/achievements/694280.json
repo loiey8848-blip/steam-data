@@ -1,0 +1,501 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 694280,
+  "game": "Zombie Army 4: Dead War",
+  "total": 70,
+  "unlocked": 2,
+  "percent": 2.9,
+  "updated_at_utc": "2026-09-15T06:50:26.781741+00:00",
+  "achievements": [
+    {
+      "apiname": "SE_COMPLETE_MILAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Choo choo!",
+      "description": "Complete Dead Ahead on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_VENICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The boat can leave now...tell the crew",
+      "description": "Complete Death Canal on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_SARDINIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weird science",
+      "description": "Complete Meat Locker on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_CROATIA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look mummy! A shark!",
+      "description": "Complete Zombie Zoo on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_GENOA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the dark dark woods...",
+      "description": "Complete Rotten Coast on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_VESUVIUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All of this has happened before…",
+      "description": "Complete Molten Nightmare on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_ROME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All roads lead to Rome",
+      "description": "Complete All Roads Lead To Hell! on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HELLBASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're all going to die down here",
+      "description": "Complete Hell Base! on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_ST_PETERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He did Nazi that coming",
+      "description": "Complete Hell Machine! on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the deep",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Into the Darkness\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take a little bit of Italy with you",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Villa Della Morte\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_VENICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I told you we should have gone to the beach",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Dead in the Water\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_HELLBASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not today you won't",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"The Bitter End\"."
+    },
+    {
+      "apiname": "SE_REACH_WAVE_X_WITH_PISTOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just me and my trusty sidearm",
+      "description": "Reach wave 6 on any Horde Map without picking up a Primary or Secondary weapon."
+    },
+    {
+      "apiname": "SE_REACH_WAVE_X",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm a Survivor!",
+      "description": "Complete 20 waves in a row on any Horde Map."
+    },
+    {
+      "apiname": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Gross Gross",
+      "description": "Survive 144 Waves in total."
+    },
+    {
+      "apiname": "SE_REACH_RANK_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Splattered",
+      "description": "Reach rank 5."
+    },
+    {
+      "apiname": "SE_REACH_RANK_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gore Soaked",
+      "description": "Reach rank 50."
+    },
+    {
+      "apiname": "SE_REACH_RANK_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hail to the King, baby!",
+      "description": "Reach rank 100."
+    },
+    {
+      "apiname": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold",
+      "description": "Earn a Gold Medal on any chapter."
+    },
+    {
+      "apiname": "SE_COMPLETE_A_LEVEL_WITH_5_GOLD_SKILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Equipped",
+      "description": "Complete a level with 5 Gold Level Perks equipped."
+    },
+    {
+      "apiname": "SE_MASTER_A_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapons Expert",
+      "description": "Complete the weapon mastery for any weapon."
+    },
+    {
+      "apiname": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarder",
+      "description": "Find all Journals, Comics, and hidden Weapon Upgrade Tokens."
+    },
+    {
+      "apiname": "SE_PERFORM_ALL_HEROIC_ACTIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Send me an angel",
+      "description": "Perform all Heroic Actions."
+    },
+    {
+      "apiname": "SE_KILL_ALL_ZOMBIE_HANDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotcha, didn't I?",
+      "description": "Kill all Zombie Hand collectibles."
+    },
+    {
+      "apiname": "SE_CHANGE_YOUR_CHARACTERS_APPEARANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Groovy",
+      "description": "Change your characters appearance, such as with a hat or costume."
+    },
+    {
+      "apiname": "SE_COMPLETE_CAMPAIGN_ON_ANY_DIFFICULTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is it over?",
+      "description": "Complete the Campaign on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_CAMPAIGN_ON_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is no Sunday School picnic!",
+      "description": "Complete the Campaign on Hard difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's a lot of them, and only 4 of us ",
+      "description": "Complete every campaign level with a full team of four players."
+    },
+    {
+      "apiname": "SE_MASTER_ALL_WEAPONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can do anything I want, I got guns",
+      "description": "Complete the weapon mastery for 3 weapons."
+    },
+    {
+      "apiname": "SE_PERFORM_X_TAKEDOWNS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You've got red on you",
+      "description": "Perform 50 Takedowns in total."
+    },
+    {
+      "apiname": "SE_KILL_X_ENEMIES_WITH_PREACHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stand back boy!",
+      "description": "Kill 3 enemies with one blast from a Preacher."
+    },
+    {
+      "apiname": "SE_DROP_PIANO_ON_A_ZOMBIE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kill of the Week",
+      "description": "Drop a pallet of Artillery Shells on a Zombie."
+    },
+    {
+      "apiname": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
+      "achieved": 1,
+      "unlocktime": 1671546437,
+      "name": "Shoot it, man! Shoot it in the head!",
+      "description": "Headshot a Zombie post resurrection."
+    },
+    {
+      "apiname": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say goodbye, creep!",
+      "description": "Kill a Zombie using the Blade Melee Special Attack."
+    },
+    {
+      "apiname": "SE_KILL_SNIPER_MID_AIR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give me something to shoot!",
+      "description": "Kill a Sniper whilst they are jumping between vantage points."
+    },
+    {
+      "apiname": "SE_TAKEDOWN_AN_ELITE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The bigger they are...",
+      "description": "Kill 5 Heavies with takedowns. "
+    },
+    {
+      "apiname": "SE_KILL_A_ZOMBIE_PLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I never liked them anyway",
+      "description": "Kill a friend who has resurrected as a zombie. "
+    },
+    {
+      "apiname": "SE_TAKEDOWN_A_BLIND_SCREAMER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take them down screaming",
+      "description": "Perform a takedown on a Blind Screamer."
+    },
+    {
+      "apiname": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double tap",
+      "description": "Finish a level with 5 or less zombies resurrecting."
+    },
+    {
+      "apiname": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shock therapy",
+      "description": "Kill 20 zombies with Electric Punch Special Attack."
+    },
+    {
+      "apiname": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleanup on aisle 4!",
+      "description": "Kill a Suicider with his own explosives."
+    },
+    {
+      "apiname": "SE_KILL_X_ZOMBIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zombie killin' machine",
+      "description": "Kill 5000 enemies of any kind."
+    },
+    {
+      "apiname": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every bullet counts",
+      "description": "Get 3 headshots with one bullet."
+    },
+    {
+      "apiname": "SE_SEVER_X_LIMBS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leave the limbs you've lost",
+      "description": "Sever 10,000 limbs."
+    },
+    {
+      "apiname": "SE_GET_X_HEADSHOT_STREAK",
+      "achieved": 1,
+      "unlocktime": 1671546556,
+      "name": "Cranial blowout!",
+      "description": "Get an unbroken 10-headshot streak."
+    },
+    {
+      "apiname": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come and get it! It's a running buffet!",
+      "description": "Kill 20+ enemies with 1 explosive."
+    },
+    {
+      "apiname": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got your back",
+      "description": "Kill 50 enemies that are actively attacking other players."
+    },
+    {
+      "apiname": "SE_REVIVE_PLAYERS_X_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A friend in need",
+      "description": "Revive other players 50 times."
+    },
+    {
+      "apiname": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What did you say, Blain?",
+      "description": "Complete 4 level sections without using a medkit."
+    },
+    {
+      "apiname": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain reaction",
+      "description": "Kill 50 Zombies in a row without missing a shot."
+    },
+    {
+      "apiname": "SE_COMPLETE_TERROR_LAB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone's a mad scientist, life is the lab",
+      "description": "Complete Terror Lab on any difficulty"
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_UNDEAD_WOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Staring at Shadows",
+      "description": "Complete 12 Waves and escape from Horde Map 'Undead Wood'"
+    },
+    {
+      "apiname": "SE_COMPLETE_BLOOD_COUNT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Blood",
+      "description": "Complete Blood Count on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_DEEPER_THAN_HELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm going deeper underground",
+      "description": "Complete Deeper than Hell on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Something wicked this way comes",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Caged Fear\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_DAMNATION_VALLEY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damnedbusters",
+      "description": "Complete Damnation Valley on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They're coming to get you Barbara",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Final Departure\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_ALPINE_BLITZ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plane sailing",
+      "description": "Complete Alpine Blitz on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_DEAD_ZEPPELIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I never redoubted you!",
+      "description": "Complete Dead Zeppelin on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_GRAVEYARD_SHIFT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "People don't change. We go round in circles",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Graveyard Shift\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "None More Hard",
+      "description": "Complete the Campaign on Nightmare difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_TERMINAL_ERROR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have you tried turning it off and on again?",
+      "description": "Complete Terminal Error on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_FROZEN_IN_FEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The blighters got through a second time.",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Frozen in Fear\""
+    },
+    {
+      "apiname": "SE_COMPLETE_ABADDON_ASYLUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kali Ma",
+      "description": "Complete Abaddon Asylum on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_RETURN_TO_HELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total protonic reversal",
+      "description": "Complete Return to Hell on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HELLS_CAULDRON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Day Trip to Purgatory.",
+      "description": "\tComplete 12 consecutive Waves and escape from the Horde Map \"Hell's Cauldron\"."
+    },
+    {
+      "apiname": "SE_COMPLETE_RAGNAROK_PART1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tough luck, chum!",
+      "description": "Complete Ragnarök - Part I on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_RAGNAROK_PART2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call of the Void",
+      "description": "Complete Ragnarök - Part II on any difficulty."
+    },
+    {
+      "apiname": "SE_COMPLETE_HORDE_MODE_DEATH_COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadmouth sheds",
+      "description": "Complete 12 consecutive Waves and escape from the Horde Map \"Death Collector\"."
+    }
+  ]
+}

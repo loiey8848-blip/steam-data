@@ -1,0 +1,123 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2567870,
+  "game": "Chained Together",
+  "total": 16,
+  "unlocked": 1,
+  "percent": 6.2,
+  "updated_at_utc": "2026-09-15T06:52:51.827216+00:00",
+  "achievements": [
+    {
+      "apiname": "WINGS_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10 Wings",
+      "description": "Collect 10 Wings of Freedom scattered throughout the level"
+    },
+    {
+      "apiname": "TIME_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Climb faster",
+      "description": "Reach the summit of the game in less than 1 hour and 50 minutes."
+    },
+    {
+      "apiname": "LAVA_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lava mode",
+      "description": "Finish the lava mode"
+    },
+    {
+      "apiname": "UNDERWORLD_ACHIEVEMENT",
+      "achieved": 1,
+      "unlocktime": 1761842545,
+      "name": "Underworld",
+      "description": "Reach The Underworld"
+    },
+    {
+      "apiname": "HELLCLIFFS_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Cliffs",
+      "description": "Reach The Hell Cliffs"
+    },
+    {
+      "apiname": "THECARRACE_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Car Race",
+      "description": "Reach The Car Race"
+    },
+    {
+      "apiname": "THEMYSTERIOUSCAVE_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mysterious Cave",
+      "description": "Reach The Mysterious Cave"
+    },
+    {
+      "apiname": "THESUBWAYSTATION_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Subway Station",
+      "description": "Reach The Subway Station"
+    },
+    {
+      "apiname": "THECITY_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The City",
+      "description": "Reach The City"
+    },
+    {
+      "apiname": "OVERTHEBUILDINGS_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over The Buildings",
+      "description": "Reach The Rooftops"
+    },
+    {
+      "apiname": "THEWAREHOUSE_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Warehouse",
+      "description": "Reach The Warehouse"
+    },
+    {
+      "apiname": "THEHARBOR_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Harbor",
+      "description": "Reach The Harbor"
+    },
+    {
+      "apiname": "THETEMPLE_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Temple",
+      "description": "Reach The Temple"
+    },
+    {
+      "apiname": "THEASIANSHRINE_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Asian Shrine",
+      "description": "Reach The Asian Shrine"
+    },
+    {
+      "apiname": "THEDEITIES_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Deities",
+      "description": "Reach The Deities"
+    },
+    {
+      "apiname": "THEGARDEN_ACHIEVEMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Garden",
+      "description": "Reach The Garden"
+    }
+  ]
+}

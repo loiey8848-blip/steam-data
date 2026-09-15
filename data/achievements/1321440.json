@@ -1,0 +1,872 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1321440,
+  "game": "Cassette Beasts",
+  "total": 123,
+  "unlocked": 2,
+  "percent": 1.6,
+  "updated_at_utc": "2026-09-15T06:51:17.326907+00:00",
+  "achievements": [
+    {
+      "apiname": "tutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is The World We Live In",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "obtain_bansheep",
+      "achieved": 1,
+      "unlocktime": 1682774160,
+      "name": "Counting Sheep",
+      "description": "Obtain Bansheep"
+    },
+    {
+      "apiname": "obtain_candevil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Want Candy",
+      "description": "Obtain Candevil"
+    },
+    {
+      "apiname": "rogue_fusion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sum of its Parts",
+      "description": "Defeat a Rogue Fusion"
+    },
+    {
+      "apiname": "swarm_fusion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Mash",
+      "description": "Defeat a Swarm"
+    },
+    {
+      "apiname": "unstable_fusion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Feed After Midnight",
+      "description": ""
+    },
+    {
+      "apiname": "orb_fusion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's No Moon",
+      "description": ""
+    },
+    {
+      "apiname": "rogue_fusion_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gone Rogue",
+      "description": "Defeat 5 Rogue Fusions"
+    },
+    {
+      "apiname": "rogue_fusion_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rogue Cells",
+      "description": "Defeat 10 Rogue Fusions"
+    },
+    {
+      "apiname": "rogue_fusion_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rogues' Gallery",
+      "description": "Defeat 20 Rogue Fusions"
+    },
+    {
+      "apiname": "rogue_fusion_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rogue State",
+      "description": "Defeat 50 Rogue Fusions"
+    },
+    {
+      "apiname": "overworld_chunks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tourist",
+      "description": "Visit every part of New Wirral"
+    },
+    {
+      "apiname": "observe_species_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amateur Zoologist",
+      "description": "Observe 120 different species"
+    },
+    {
+      "apiname": "obtain_species_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zoologist, pt. I",
+      "description": "Obtain 10 different species"
+    },
+    {
+      "apiname": "obtain_species_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zoologist, pt. II",
+      "description": "Obtain 20 different species"
+    },
+    {
+      "apiname": "obtain_species_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zoologist, pt. III",
+      "description": "Obtain 50 different species"
+    },
+    {
+      "apiname": "obtain_species_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zoologist, pt. IV",
+      "description": "Obtain 100 different species"
+    },
+    {
+      "apiname": "obtain_species_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Zoologist",
+      "description": "Obtain 120 different species"
+    },
+    {
+      "apiname": "maxed_tape_species_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cassette Beasts Master",
+      "description": "Obtain additional data on every species"
+    },
+    {
+      "apiname": "bootleg_beast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beastly Bootleg",
+      "description": "Obtain a Beast-type bootleg"
+    },
+    {
+      "apiname": "bootleg_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiery Bootleg",
+      "description": "Obtain a Fire-type bootleg"
+    },
+    {
+      "apiname": "bootleg_plastic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toy Bootleg",
+      "description": "Obtain a Plastic-type bootleg"
+    },
+    {
+      "apiname": "bootleg_plant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leafy Bootleg",
+      "description": "Obtain a Plant-type bootleg"
+    },
+    {
+      "apiname": "bootleg_water",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aquatic Bootleg",
+      "description": "Obtain a Water-type bootleg"
+    },
+    {
+      "apiname": "bootleg_poison",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Venomous Bootleg",
+      "description": "Obtain a Poison-type bootleg"
+    },
+    {
+      "apiname": "bootleg_astral",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cosmic Bootleg",
+      "description": "Obtain an Astral-type bootleg"
+    },
+    {
+      "apiname": "bootleg_ice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frosty Bootleg",
+      "description": "Obtain an Ice-type bootleg"
+    },
+    {
+      "apiname": "bootleg_lightning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shocking Bootleg",
+      "description": "Obtain a Lightning-type bootleg"
+    },
+    {
+      "apiname": "bootleg_air",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Windy Bootleg",
+      "description": "Obtain an Air-type bootleg"
+    },
+    {
+      "apiname": "bootleg_earth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stony Bootleg",
+      "description": "Obtain an Earth-type bootleg"
+    },
+    {
+      "apiname": "bootleg_metal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Bootleg",
+      "description": "Obtain a Metal-type bootleg"
+    },
+    {
+      "apiname": "bootleg_glass",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clear Bootleg",
+      "description": "Obtain a Glass-type bootleg"
+    },
+    {
+      "apiname": "bootleg_glitter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparkly Bootleg",
+      "description": "Obtain a Glitter-type bootleg"
+    },
+    {
+      "apiname": "ability_glide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spread Your Wings",
+      "description": "Obtain the Mothwing Glide ability"
+    },
+    {
+      "apiname": "ability_dash",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bulletino Dash",
+      "description": "Obtain the Bulletino Dash ability"
+    },
+    {
+      "apiname": "ability_magnetism",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electric Feel",
+      "description": "Obtain the Electromagnetism ability"
+    },
+    {
+      "apiname": "ability_swim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swimming Lessons",
+      "description": "Obtain the Diveal Swim ability"
+    },
+    {
+      "apiname": "ability_climb",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Having a Ball",
+      "description": "Obtain the Pumpkin Vine Ball ability"
+    },
+    {
+      "apiname": "ability_flight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Flight",
+      "description": "Obtain the Averevoir Flight ability"
+    },
+    {
+      "apiname": "ability_fusion_radar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fusions on the Radar",
+      "description": ""
+    },
+    {
+      "apiname": "obtain_magikrab",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pinnacle of Evolution",
+      "description": ""
+    },
+    {
+      "apiname": "sign_up_rangers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take Me On, pt. I",
+      "description": "Sign up to the Rangers"
+    },
+    {
+      "apiname": "obtain_rumor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rumour Mill",
+      "description": "Obtain a rumour"
+    },
+    {
+      "apiname": "investigate_rumor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Grapevine",
+      "description": "Investigate a rumour"
+    },
+    {
+      "apiname": "partner_kayleigh",
+      "achieved": 1,
+      "unlocktime": 1682774466,
+      "name": "Kayleigh",
+      "description": "Unlock Kayleigh"
+    },
+    {
+      "apiname": "partner_meredith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meredith",
+      "description": "Unlock Meredith"
+    },
+    {
+      "apiname": "partner_eugene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eugene",
+      "description": "Unlock Eugene"
+    },
+    {
+      "apiname": "partner_felix",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Felix",
+      "description": "Unlock Felix"
+    },
+    {
+      "apiname": "partner_viola",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viola",
+      "description": "Unlock Viola"
+    },
+    {
+      "apiname": "partner_dog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barkley",
+      "description": "Unlock Barkley"
+    },
+    {
+      "apiname": "remaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remastery",
+      "description": "Remaster a tape"
+    },
+    {
+      "apiname": "quest_kayleigh1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Ran So Far Away, pt. I",
+      "description": ""
+    },
+    {
+      "apiname": "offices_cleared_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. I",
+      "description": ""
+    },
+    {
+      "apiname": "offices_cleared_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. II",
+      "description": ""
+    },
+    {
+      "apiname": "offices_cleared_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. III",
+      "description": ""
+    },
+    {
+      "apiname": "offices_cleared_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. IV",
+      "description": ""
+    },
+    {
+      "apiname": "offices_cleared_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. V",
+      "description": ""
+    },
+    {
+      "apiname": "quest_felix1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. I",
+      "description": ""
+    },
+    {
+      "apiname": "kuneko_altars_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. II",
+      "description": ""
+    },
+    {
+      "apiname": "kuneko_altars_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. III",
+      "description": ""
+    },
+    {
+      "apiname": "kuneko_altars_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. IV",
+      "description": ""
+    },
+    {
+      "apiname": "kuneko_altars_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. V",
+      "description": ""
+    },
+    {
+      "apiname": "quest_viola1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tempest",
+      "description": ""
+    },
+    {
+      "apiname": "quest_kayleigh_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Ran So Far Away, pt. II",
+      "description": "Complete Kayleigh's quest"
+    },
+    {
+      "apiname": "quest_eugene_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acting On Your Best Behavior, pt. VI",
+      "description": "Complete Eugene's quest"
+    },
+    {
+      "apiname": "quest_meredith_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All I Ever Needed",
+      "description": "Complete Meredith's quest"
+    },
+    {
+      "apiname": "quest_felix_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't You Want Me, pt. VI",
+      "description": "Complete Felix's quest"
+    },
+    {
+      "apiname": "quest_dog_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Back and Stay",
+      "description": "Complete Barkley's quest"
+    },
+    {
+      "apiname": "quest_viola_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everybody's Looking for Something",
+      "description": "Complete Viola's quest"
+    },
+    {
+      "apiname": "relationship_level_5_kayleigh",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let Me Serenade You",
+      "description": "Get to 5 hearts with Kayleigh"
+    },
+    {
+      "apiname": "relationship_level_5_eugene",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Opening",
+      "description": "Get to 5 hearts with Eugene"
+    },
+    {
+      "apiname": "relationship_level_5_meredith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Movie Night",
+      "description": "Get to 5 hearts with Meredith"
+    },
+    {
+      "apiname": "relationship_level_5_felix",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Portrait of the Artist",
+      "description": "Get to 5 hearts with Felix"
+    },
+    {
+      "apiname": "relationship_level_5_dog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dog's Best Friend",
+      "description": "Get to 5 hearts with Barkley"
+    },
+    {
+      "apiname": "relationship_level_5_viola",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "As You Like It",
+      "description": "Get to 5 hearts with Viola"
+    },
+    {
+      "apiname": "romantic_relationship",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Hearts Beat as One",
+      "description": "Enter a romantic relationship"
+    },
+    {
+      "apiname": "reopened_stations_final",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heed My Words",
+      "description": ""
+    },
+    {
+      "apiname": "reopened_stations_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ticket to Ride",
+      "description": "Reopen every station"
+    },
+    {
+      "apiname": "aa_aleph_null",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow of Time",
+      "description": ""
+    },
+    {
+      "apiname": "aa_morgante",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rebellion",
+      "description": ""
+    },
+    {
+      "apiname": "aa_lamento_mori",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angel of Death",
+      "description": ""
+    },
+    {
+      "apiname": "aa_cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neoplatonic Solid",
+      "description": ""
+    },
+    {
+      "apiname": "aa_alice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Child of Ego",
+      "description": ""
+    },
+    {
+      "apiname": "aa_puppet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Puppets",
+      "description": ""
+    },
+    {
+      "apiname": "aa_tower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tower of Ignorance",
+      "description": ""
+    },
+    {
+      "apiname": "song_parts_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land of Confusion",
+      "description": "Complete Morgante's song"
+    },
+    {
+      "apiname": "aa_helia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Here Comes the Sun",
+      "description": ""
+    },
+    {
+      "apiname": "met_npc_magikrab",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Station Attendant",
+      "description": ""
+    },
+    {
+      "apiname": "met_npc_amber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Long Way from Home",
+      "description": ""
+    },
+    {
+      "apiname": "met_npc_merline",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One Who Lies Beneath",
+      "description": ""
+    },
+    {
+      "apiname": "traveling_merchant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Buy Me Love",
+      "description": ""
+    },
+    {
+      "apiname": "captain_wallace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back Against the Wall",
+      "description": "Defeat Captain Wallace"
+    },
+    {
+      "apiname": "captain_skip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One World's Trash",
+      "description": "Defeat Captain Skip"
+    },
+    {
+      "apiname": "captain_zedd",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sleep It Off",
+      "description": "Defeat Captain Zedd"
+    },
+    {
+      "apiname": "captain_judas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prepare for Anything",
+      "description": "Defeat Captain Judas"
+    },
+    {
+      "apiname": "captain_cleeo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winner Takes All",
+      "description": "Defeat Captain Clee-O"
+    },
+    {
+      "apiname": "captain_lodestein",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electrifying",
+      "description": "Defeat Captain Lodestein"
+    },
+    {
+      "apiname": "captain_dreadful",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beyond the Veil",
+      "description": "Defeat Captain Penny Dreadful"
+    },
+    {
+      "apiname": "captain_gladiola",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On a Knife-Edge",
+      "description": "Defeat Captain Gladiola"
+    },
+    {
+      "apiname": "captain_heather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stormy Weather",
+      "description": "Defeat Captain Heather"
+    },
+    {
+      "apiname": "captain_buffy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break a Sweat",
+      "description": "Defeat Captain Buffy"
+    },
+    {
+      "apiname": "captain_cybil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Radio Star",
+      "description": "Defeat Captain Cybil"
+    },
+    {
+      "apiname": "captain_codey",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hack The Planet",
+      "description": "Defeat Captain Codey"
+    },
+    {
+      "apiname": "defeat_ianthe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take Me On, pt. II",
+      "description": ""
+    },
+    {
+      "apiname": "quest_overtime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Working Overtime",
+      "description": "Choose a design for Harbourtown's sign"
+    },
+    {
+      "apiname": "quest_sunny",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Does It Feel",
+      "description": ""
+    },
+    {
+      "apiname": "quest_hoylake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Hunt",
+      "description": "Help Hoylake with his research"
+    },
+    {
+      "apiname": "defeat_ghost",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who You Gonna Call?",
+      "description": ""
+    },
+    {
+      "apiname": "train_frankie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frankie Goes to Wonderland",
+      "description": ""
+    },
+    {
+      "apiname": "train_vin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf",
+      "description": ""
+    },
+    {
+      "apiname": "noticeboard_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Ranger",
+      "description": "Complete 5 noticeboard quests"
+    },
+    {
+      "apiname": "noticeboard_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice Ranger",
+      "description": "Complete 20 noticeboard quests"
+    },
+    {
+      "apiname": "noticeboard_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diligent Ranger",
+      "description": "Complete 50 noticeboard quests"
+    },
+    {
+      "apiname": "noticeboard_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Ranger",
+      "description": "Complete 100 noticeboard quests"
+    },
+    {
+      "apiname": "obtain_rare_sticker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sticker Collector",
+      "description": "Obtain a rare sticker"
+    },
+    {
+      "apiname": "intermission",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not What You Wanted",
+      "description": ""
+    },
+    {
+      "apiname": "ending",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Real Life Awaits",
+      "description": ""
+    },
+    {
+      "apiname": "head_skip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Over Your Head",
+      "description": ""
+    },
+    {
+      "apiname": "preemptive_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over Before It Began",
+      "description": ""
+    },
+    {
+      "apiname": "ghostly_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Shall Have No Dominion",
+      "description": ""
+    },
+    {
+      "apiname": "gambit_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double or Quits",
+      "description": ""
+    },
+    {
+      "apiname": "quest_meredith1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Falldown Mall",
+      "description": ""
+    },
+    {
+      "apiname": "aa_lenna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of Another Story",
+      "description": ""
+    }
+  ]
+}

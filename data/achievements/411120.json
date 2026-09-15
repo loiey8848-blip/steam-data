@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 411120,
+  "game": "Galaxy Admirals",
+  "total": 25,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:48.424057+00:00",
+  "achievements": [
+    {
+      "apiname": "galaxyadmirals_ach_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Teleportator",
+      "description": "Teleport and destroy unreachable enemy ship."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magneto",
+      "description": "Use carrier ship's 'attract' ability to destroy unreachable enemy ship."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Footballer",
+      "description": "Use carrier ship's 'repel' ability to destroy unreachable enemy ship."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Orbit Lord",
+      "description": "Use carrier ship's 'change orbit' ability to destroy unreachable enemy ship."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunlight Dapple",
+      "description": "Use the mirror to redirect the laser beam and destroy enemy ship."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroyer",
+      "description": "Deliver a total of 10 damage to enemy ships with one shot."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annihilator",
+      "description": "Destroy at least three enemy ships with one shot."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Detonator",
+      "description": "Detonate at least three mines with one shot."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crazy Train Driver",
+      "description": "Attach together at least four ships and move them."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frantic Gold Hunter",
+      "description": "Destroy at least three crystals during one round."
+    },
+    {
+      "apiname": "galaxyadmirals_ach_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Tyke",
+      "description": "Win in multiplayer 1 time"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "Win in multiplayer 10 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triumphator",
+      "description": "Win in multiplayer 100 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go-Getter",
+      "description": "Accept the invitation and play match 1 time"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Braveheart",
+      "description": "Accept the invitation and play match 10 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Pilot",
+      "description": "Accept the invitation and play match 100 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blusterer",
+      "description": "Send the invitation and play with the invited player 1 time"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duelist",
+      "description": "Send the invitation and play with the invited player 10 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aggressor",
+      "description": "Send the invitation and play with the invited player 100 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Courier",
+      "description": "Create and play PvP match 1 time"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Herald",
+      "description": "Create and play PvP match 10 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King-of-Arms",
+      "description": "Create and play PvP match 100 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instigator",
+      "description": "Play with friend 1 time"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "People person",
+      "description": "Play with friends 10 times"
+    },
+    {
+      "apiname": "galaxyadmirals_ach_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entertainer",
+      "description": "Play with friends 100 times"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2512930,
+  "game": "Guardians of the Sanctree",
+  "total": 41,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:51.291537+00:00",
+  "achievements": [
+    {
+      "apiname": "FinishTutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookie Recruit",
+      "description": "Completed the Tutorial"
+    },
+    {
+      "apiname": "EnterGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journey Begins",
+      "description": "Entered the Game"
+    },
+    {
+      "apiname": "FirstBugHatchery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horn of Counterattack",
+      "description": "Destroyed the First Hive"
+    },
+    {
+      "apiname": "SecondBugHatchery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ride the Rapids",
+      "description": "Destroyed the Second Hive"
+    },
+    {
+      "apiname": "FinalBugHatchery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Conquest",
+      "description": "Destroyed the Final Hive"
+    },
+    {
+      "apiname": "SunRise",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunrise Awakens",
+      "description": "Survived until Day 8"
+    },
+    {
+      "apiname": "UnlockAll",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend of Birdland",
+      "description": "Completed All Other Achievements"
+    },
+    {
+      "apiname": "FirstDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory and Defeat are Routine",
+      "description": "First Death"
+    },
+    {
+      "apiname": "FirstExplore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mystery Explorer",
+      "description": "First Dungeon Entry"
+    },
+    {
+      "apiname": "FirstIdentify",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unknown Material",
+      "description": "First Item Identification"
+    },
+    {
+      "apiname": "FirstTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Technological Breakthrough",
+      "description": "First Tech Unlocked"
+    },
+    {
+      "apiname": "HungerAndThirsty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starving Belly",
+      "description": "Hunger and Thirst Depleted Simultaneously"
+    },
+    {
+      "apiname": "Level10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birdland Officer",
+      "description": "Reached Level 10"
+    },
+    {
+      "apiname": "Level30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birdland Veteran",
+      "description": "Reached Level 30"
+    },
+    {
+      "apiname": "Level50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birdland General",
+      "description": "Reached Level 50"
+    },
+    {
+      "apiname": "WoodRifle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste of Lead",
+      "description": "First Acquired a Rifle"
+    },
+    {
+      "apiname": "FirstRepair",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Usable",
+      "description": "First Item Repair"
+    },
+    {
+      "apiname": "FirstForge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can Be Improved",
+      "description": "First Item Upgrade"
+    },
+    {
+      "apiname": "StorageBuilding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Efficient Sharing",
+      "description": "Built a Logistics Warehouse"
+    },
+    {
+      "apiname": "NestAndSoldierHome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Newfound Power",
+      "description": "Built a Nest and Soldier house"
+    },
+    {
+      "apiname": "Spawner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slightly Dangerous",
+      "description": "Built a Monster Spawner"
+    },
+    {
+      "apiname": "Tower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hands-Free Liberation",
+      "description": "Built a Defense Tower"
+    },
+    {
+      "apiname": "WaterChannel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hydraulic Engineering",
+      "description": "Built a Waterway or Diverter"
+    },
+    {
+      "apiname": "TenThousandCoins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Thousand Coin Club",
+      "description": "Amassed Over 10,000 Coins"
+    },
+    {
+      "apiname": "Commander",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Commander",
+      "description": "Recruited 4 Followers"
+    },
+    {
+      "apiname": "AcidNepenthesSpider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Green Land",
+      "description": "Defeated the AcidNepenthesSpider"
+    },
+    {
+      "apiname": "SquirtingcucumberScorpion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Underground Desert",
+      "description": "Defeated the SquirtingcucumberScorpion"
+    },
+    {
+      "apiname": "MorningGlorySpider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Temperate Cave",
+      "description": "Defeated the MorningGlorySpider"
+    },
+    {
+      "apiname": "RedCoralSwamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Red Coral Swamp",
+      "description": "Cleared All Red Coral Swamp Bosses"
+    },
+    {
+      "apiname": "DurianCoralBug",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Durian Splitter",
+      "description": "Defeated the DurianCoralBugBoss"
+    },
+    {
+      "apiname": "CabbageAnemoneBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cabbage Shredder",
+      "description": "Defeated the CabbageAnemoneBoss"
+    },
+    {
+      "apiname": "PitayaLeechBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Many-Seeded Fruit",
+      "description": "Defeated the PitayaLeechBoss"
+    },
+    {
+      "apiname": "BarnacleLeechBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foam Splash",
+      "description": "Defeated the BarnacleLeechBoss"
+    },
+    {
+      "apiname": "SplitLeechBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weed Exterminator",
+      "description": "Defeated the SplitLeechBoss"
+    },
+    {
+      "apiname": "LeechPit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Leech Pit",
+      "description": "Cleared All Leech Pit Bosses"
+    },
+    {
+      "apiname": "PumpkinCrabBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pumpkin Lantern",
+      "description": "Defeated the PumpkinCrabBoss"
+    },
+    {
+      "apiname": "SwampCrapBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big and Small Hands",
+      "description": "Defeated the SwampCrapBoss"
+    },
+    {
+      "apiname": "GrassCrabBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Annoying Weeds",
+      "description": "Defeated the GrassCrabBoss"
+    },
+    {
+      "apiname": "CrabSandBay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquer the Crab Sand Bay",
+      "description": "Cleared All Crab Sandbank Bosses"
+    },
+    {
+      "apiname": "WoodTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Age of Processing",
+      "description": "Unlocked Woodworking Technology"
+    },
+    {
+      "apiname": "IronTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Age",
+      "description": "Unlocked Iron Technology"
+    }
+  ]
+}

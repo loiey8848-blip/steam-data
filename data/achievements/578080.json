@@ -1,0 +1,270 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 578080,
+  "game": "PUBG: BATTLEGROUNDS",
+  "total": 37,
+  "unlocked": 37,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:50:09.138694+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIVE000",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Last Survivor",
+      "description": "Win a game 10 times."
+    },
+    {
+      "apiname": "ACHIVE001",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Winner Winner Chicken Dinner!",
+      "description": "Obtain a Chicken Dinner in Solo."
+    },
+    {
+      "apiname": "ACHIVE002",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Dynamic Duo",
+      "description": "Obtain a Chicken Dinner in Duos."
+    },
+    {
+      "apiname": "ACHIVE003",
+      "achieved": 1,
+      "unlocktime": 1522501973,
+      "name": "Fantastic Four",
+      "description": "Obtain a Chicken Dinner in Squads."
+    },
+    {
+      "apiname": "ACHIVE004",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Top 10",
+      "description": "Reach the top 10 10 times."
+    },
+    {
+      "apiname": "ACHIVE005",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Pacifist",
+      "description": "Reach the top 10 without killing anyone."
+    },
+    {
+      "apiname": "ACHIVE006",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "CQB Master",
+      "description": "Kill 200 players with a shotgun, a submachine gun, and/or a pistol."
+    },
+    {
+      "apiname": "ACHIVE007",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "CQB Expert",
+      "description": "Kill 50 players with a shotgun, a submachine gun, and/or a pistol."
+    },
+    {
+      "apiname": "ACHIVE008",
+      "achieved": 1,
+      "unlocktime": 1522502420,
+      "name": "CQB Novice",
+      "description": "Kill 10 players with a shotgun, a submachine gun, and/or a pistol."
+    },
+    {
+      "apiname": "ACHIVE009",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Marksman Master",
+      "description": "Kill 100 players with an assault rifle and/or a sniper rifle from over 100 meters away."
+    },
+    {
+      "apiname": "ACHIVE010",
+      "achieved": 1,
+      "unlocktime": 1522509091,
+      "name": "Marksman Expert",
+      "description": "Kill 30 players with an assault rifle and/or a sniper rifle from over 100 meters away."
+    },
+    {
+      "apiname": "ACHIVE011",
+      "achieved": 1,
+      "unlocktime": 1522500809,
+      "name": "Marksman Novice",
+      "description": "Kill 10 players with an assault rifle and/or a sniper rifle from over 100 meters away."
+    },
+    {
+      "apiname": "ACHIVE012",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Nade King Master",
+      "description": "Kill 50 players with grenades."
+    },
+    {
+      "apiname": "ACHIVE013",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Nade King Expert",
+      "description": "Kill 30 players with grenades."
+    },
+    {
+      "apiname": "ACHIVE014",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Nade King Novice",
+      "description": "Kill 10 players with grenades."
+    },
+    {
+      "apiname": "ACHIVE015",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Long and Winding Road",
+      "description": "Kill 1000 players by any means."
+    },
+    {
+      "apiname": "ACHIVE016",
+      "achieved": 1,
+      "unlocktime": 1522561360,
+      "name": "Collateral Damage",
+      "description": "Kill 100 players by any means."
+    },
+    {
+      "apiname": "ACHIVE017",
+      "achieved": 1,
+      "unlocktime": 1522482250,
+      "name": "Devil Inside Me",
+      "description": "Kill 10 players by any means."
+    },
+    {
+      "apiname": "ACHIVE018",
+      "achieved": 1,
+      "unlocktime": 1522481581,
+      "name": "Blood on My Hands",
+      "description": "Kill a player by any means."
+    },
+    {
+      "apiname": "ACHIVE019",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "The First Rule Is…",
+      "description": "Kill 20 players with bare hands."
+    },
+    {
+      "apiname": "ACHIVE020",
+      "achieved": 1,
+      "unlocktime": 1522482253,
+      "name": "Killing Spree",
+      "description": "Kill at least 4 players in a single match."
+    },
+    {
+      "apiname": "ACHIVE021",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Trigonometry Involved",
+      "description": "Headshot and kill 10 enemy players with a sniper rifle."
+    },
+    {
+      "apiname": "ACHIVE022",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Okay, Now I'm Ready",
+      "description": "Equip a Lv.3 Helmet, Military Vest, and Backpack in 10 matches."
+    },
+    {
+      "apiname": "ACHIVE023",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "First Blood",
+      "description": "Get the first kill of a match."
+    },
+    {
+      "apiname": "ACHIVE024",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Shoot the Knee",
+      "description": "Kill 10 players with the crossbow."
+    },
+    {
+      "apiname": "ACHIVE025",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "First Come, First Served",
+      "description": "Loot 50 items from the carepackage."
+    },
+    {
+      "apiname": "ACHIVE026",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Agent 48",
+      "description": "Kill 50 players with suppressed weapons."
+    },
+    {
+      "apiname": "ACHIVE027",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Now You See Me, Now You Don't",
+      "description": "Equip a ghillie suit for the first time."
+    },
+    {
+      "apiname": "ACHIVE028",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Airborne",
+      "description": "Jump out from an airplane 101 times."
+    },
+    {
+      "apiname": "ACHIVE029",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Fury Road",
+      "description": "Kill 10 players with a gun while in a vehicle."
+    },
+    {
+      "apiname": "ACHIVE030",
+      "achieved": 1,
+      "unlocktime": 1522482751,
+      "name": "Guardian Angel",
+      "description": "Revive a knocked-downed teammate."
+    },
+    {
+      "apiname": "ACHIVE031",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Ghost",
+      "description": "Equip a suppressed weapon in every weapon slot. Let's find out which weapon is suppressed!"
+    },
+    {
+      "apiname": "ACHIVE032",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Don't Pan Me Bro!",
+      "description": "Kill another player with the frying pan."
+    },
+    {
+      "apiname": "ACHIVE033",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Fast and Furious",
+      "description": "Kill 10 players by hitting them with a vehicle."
+    },
+    {
+      "apiname": "ACHIVE034",
+      "achieved": 1,
+      "unlocktime": 1522561685,
+      "name": "You Complete Me",
+      "description": "Wear the outfit of a dead player."
+    },
+    {
+      "apiname": "ACHIVE035",
+      "achieved": 1,
+      "unlocktime": 1787941119,
+      "name": "Cruising with the Enemy",
+      "description": "Get into a vehicle where an enemy player is already in."
+    },
+    {
+      "apiname": "ACHIVE036",
+      "achieved": 1,
+      "unlocktime": 1522483594,
+      "name": "Health Junkie",
+      "description": "Charge your boost gauge to the max with energy drink and painkiller overdose."
+    }
+  ]
+}

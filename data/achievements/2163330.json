@@ -1,0 +1,1614 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2163330,
+  "game": "Yet Another Zombie Survivors",
+  "total": 229,
+  "unlocked": 229,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:42.792262+00:00",
+  "achievements": [
+    {
+      "apiname": "Ach_50000People",
+      "achieved": 1,
+      "unlocktime": 1742187415,
+      "name": "50,000 People",
+      "description": "Survive 10 minutes on Endurance Mode in The Isolated City"
+    },
+    {
+      "apiname": "Ach_AppleWontKeepMeAway",
+      "achieved": 1,
+      "unlocktime": 1742200080,
+      "name": "An Apple Won't Keep Me Away",
+      "description": "Unlock the second rank for the Medic"
+    },
+    {
+      "apiname": "Ach_ArrowToTheKnee",
+      "achieved": 1,
+      "unlocktime": 1742097614,
+      "name": "An Arrow To The Knee",
+      "description": "Unlock the second rank for the Huntress"
+    },
+    {
+      "apiname": "Ach_BowBeforeMe",
+      "achieved": 1,
+      "unlocktime": 1742097613,
+      "name": "Bow Before Me",
+      "description": "Survive the night with the Huntress as the team leader"
+    },
+    {
+      "apiname": "Ach_BravoSixGoingDark",
+      "achieved": 1,
+      "unlocktime": 1742108514,
+      "name": "Bravo Six, Going Dark",
+      "description": "Unlock the second rank for the Ghost"
+    },
+    {
+      "apiname": "Ach_Bullseye",
+      "achieved": 1,
+      "unlocktime": 1742106806,
+      "name": "Bullseye!",
+      "description": "Unlock the third rank for the Huntress"
+    },
+    {
+      "apiname": "Ach_CallOfDuty",
+      "achieved": 1,
+      "unlocktime": 1742095888,
+      "name": "Call of Duty",
+      "description": "Unlock the second rank for the SWAT"
+    },
+    {
+      "apiname": "Ach_DeathFromAbove",
+      "achieved": 1,
+      "unlocktime": 1742095331,
+      "name": "Death From Above",
+      "description": "Use abilities 100 times in a single run in default mode"
+    },
+    {
+      "apiname": "Ach_DontHugMe",
+      "achieved": 1,
+      "unlocktime": 1742106800,
+      "name": "Don't Hug Me, I'm Scared",
+      "description": "Show them some love for a change"
+    },
+    {
+      "apiname": "Ach_EyeCandy",
+      "achieved": 1,
+      "unlocktime": 1742094979,
+      "name": "Eye Candy",
+      "description": "Have 5 abilities active at the same time"
+    },
+    {
+      "apiname": "Ach_ForGreatJustice",
+      "achieved": 1,
+      "unlocktime": 1751619989,
+      "name": "For Great Justice!",
+      "description": "Unlock the third rank for the SWAT"
+    },
+    {
+      "apiname": "Ach_FreeItems",
+      "achieved": 1,
+      "unlocktime": 1742094575,
+      "name": "Free Items!",
+      "description": "Equip an item"
+    },
+    {
+      "apiname": "Ach_FullmetalEngineer",
+      "achieved": 1,
+      "unlocktime": 1742099102,
+      "name": "Fullmetal Engineer",
+      "description": "Unlock the third rank for the Engineer"
+    },
+    {
+      "apiname": "Ach_GearOfWar",
+      "achieved": 1,
+      "unlocktime": 1742095452,
+      "name": "Gear of War",
+      "description": "Equip 6 items in a single run"
+    },
+    {
+      "apiname": "Ach_GhostInTheHell",
+      "achieved": 1,
+      "unlocktime": 1742106684,
+      "name": "Ghost In The Hell",
+      "description": "Unlock the Ghost"
+    },
+    {
+      "apiname": "Ach_HauntingPresence",
+      "achieved": 1,
+      "unlocktime": 1742118009,
+      "name": "Haunting Presence",
+      "description": "Unlock the third rank for the Ghost"
+    },
+    {
+      "apiname": "Ach_HoldMyBeer",
+      "achieved": 1,
+      "unlocktime": 1788193924,
+      "name": "Hold My Beer",
+      "description": "Survive 10 minutes without upgrading any weapons"
+    },
+    {
+      "apiname": "Ach_HorribleNightToHaveCurse",
+      "achieved": 1,
+      "unlocktime": 1742095887,
+      "name": "A Horrible Night to Have a Curse",
+      "description": "Get eaten by the undead"
+    },
+    {
+      "apiname": "Ach_HuntIsOn",
+      "achieved": 1,
+      "unlocktime": 1742095502,
+      "name": "The Hunt Is On!",
+      "description": "Unlock the Huntress"
+    },
+    {
+      "apiname": "Ach_ImpeccableImmunity",
+      "achieved": 1,
+      "unlocktime": 1787977361,
+      "name": "Impeccable Immunity",
+      "description": "Survive the night with the Medic as the team leader"
+    },
+    {
+      "apiname": "Ach_ImProGamer",
+      "achieved": 1,
+      "unlocktime": 1742200080,
+      "name": "I'm Pro Gamer!",
+      "description": "Survive the Hardcore version of The Isolated City"
+    },
+    {
+      "apiname": "Ach_IronWill",
+      "achieved": 1,
+      "unlocktime": 1742097614,
+      "name": "Iron Will",
+      "description": "Unlock the second rank for the Tank"
+    },
+    {
+      "apiname": "Ach_ItsRainingMen",
+      "achieved": 1,
+      "unlocktime": 1787974834,
+      "name": "It's Raining Men",
+      "description": "Stress-test the ragdoll physics"
+    },
+    {
+      "apiname": "Ach_ItTakesTwo",
+      "achieved": 1,
+      "unlocktime": 1787975073,
+      "name": "It Takes Two",
+      "description": "Complete a run in default mode with exactly two survivors"
+    },
+    {
+      "apiname": "Ach_MeAndTheBoys",
+      "achieved": 1,
+      "unlocktime": 1742094755,
+      "name": "Me And The Boys",
+      "description": "Lead a full squad of survivors"
+    },
+    {
+      "apiname": "Ach_Medic",
+      "achieved": 1,
+      "unlocktime": 1742108346,
+      "name": "Medic!",
+      "description": "Unlock the Medic"
+    },
+    {
+      "apiname": "Ach_NoSkill",
+      "achieved": 1,
+      "unlocktime": 1788170760,
+      "name": "No Skill",
+      "description": "Survive 10 minutes without picking any abilities"
+    },
+    {
+      "apiname": "Ach_NowItsGhostTown",
+      "achieved": 1,
+      "unlocktime": 1788225019,
+      "name": "Now It's a Ghost Town",
+      "description": "Survive 30 minutes on Endurance Mode in The Isolated City"
+    },
+    {
+      "apiname": "Ach_Over9000",
+      "achieved": 1,
+      "unlocktime": 1742201258,
+      "name": "It's Over 9000!",
+      "description": "Deal over 9,000 damage with a single attack"
+    },
+    {
+      "apiname": "Ach_PowerOverwhelming",
+      "achieved": 1,
+      "unlocktime": 1742095917,
+      "name": "Power Overwhelming",
+      "description": "Level up a passive node on a global skill tree up to 5"
+    },
+    {
+      "apiname": "Ach_SemperFi",
+      "achieved": 1,
+      "unlocktime": 1747471401,
+      "name": "Semper Fi",
+      "description": "Survive the night with the SWAT as the team leader"
+    },
+    {
+      "apiname": "Ach_SteelDawn",
+      "achieved": 1,
+      "unlocktime": 1787975074,
+      "name": "Steel Dawn",
+      "description": "Survive the night with the Tank as the team leader"
+    },
+    {
+      "apiname": "Ach_TheJuggernaut",
+      "achieved": 1,
+      "unlocktime": 1787975074,
+      "name": "The Juggernaut",
+      "description": "Unlock the third rank for the Tank"
+    },
+    {
+      "apiname": "Ach_TheLoneWolf",
+      "achieved": 1,
+      "unlocktime": 1788151270,
+      "name": "The Lone Wolf",
+      "description": "Complete a solo run in default mode with just the team leader"
+    },
+    {
+      "apiname": "Ach_ToldYouCanTrustMe",
+      "achieved": 1,
+      "unlocktime": 1742110249,
+      "name": "Told You, You Can Trust Me",
+      "description": "Survive the night with the Engineer as the team leader"
+    },
+    {
+      "apiname": "Ach_TrustMeImEngineer",
+      "achieved": 1,
+      "unlocktime": 1742097614,
+      "name": "Trust Me, I'm An Engineer",
+      "description": "Unlock the second rank for the Engineer"
+    },
+    {
+      "apiname": "Ach_UsedToLiveHere",
+      "achieved": 1,
+      "unlocktime": 1742188308,
+      "name": "Used to Live Here",
+      "description": "Survive 20 minutes on Endurance Mode in The Isolated City"
+    },
+    {
+      "apiname": "Ach_VaccineAgainstDeath",
+      "achieved": 1,
+      "unlocktime": 1742200080,
+      "name": "A Vaccine Against Death",
+      "description": "Unlock the third rank for the Medic"
+    },
+    {
+      "apiname": "Ach_WayPastWitchingHour",
+      "achieved": 1,
+      "unlocktime": 1742108513,
+      "name": "Way Past The Witching Hour",
+      "description": "Survive the night with the Ghost as the team leader"
+    },
+    {
+      "apiname": "Ach_YetAnotherZombieSurvivors",
+      "achieved": 1,
+      "unlocktime": 1742097614,
+      "name": "Yet Another Zombie Survivors",
+      "description": "Be the witness of a new dawn"
+    },
+    {
+      "apiname": "Ach_AccidentsHappen",
+      "achieved": 1,
+      "unlocktime": 1742109861,
+      "name": "Accidents Happen",
+      "description": "Cause enemies to kill 150 of their allies in the same run"
+    },
+    {
+      "apiname": "Ach_AKillerFeature",
+      "achieved": 1,
+      "unlocktime": 1742094332,
+      "name": "A Killer Feature",
+      "description": "Kill a zombie... by leveling up?"
+    },
+    {
+      "apiname": "Ach_ArrivedatYourDesertNation",
+      "achieved": 1,
+      "unlocktime": 1742110249,
+      "name": "Arrived at Your Desert Nation",
+      "description": "Survive until dawn in the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_Beelzeshmub",
+      "achieved": 1,
+      "unlocktime": 1742187806,
+      "name": "Beelzeshmub",
+      "description": "Kill The Witch before she's able to send her minions at you"
+    },
+    {
+      "apiname": "Ach_CauseBabyYoureFirework",
+      "achieved": 1,
+      "unlocktime": 1742116719,
+      "name": "Cause Baby You're a Firework",
+      "description": "Cause an explosion that kills 10 enemies without using weapons or abilities"
+    },
+    {
+      "apiname": "Ach_CircularDecomposition",
+      "achieved": 1,
+      "unlocktime": 1787986556,
+      "name": "Circular Decomposition",
+      "description": "Fend off a mummy attack with deadly efficiency"
+    },
+    {
+      "apiname": "Ach_CurlyLittlePotato",
+      "achieved": 1,
+      "unlocktime": 1788223001,
+      "name": "Curly Little Potato",
+      "description": "Find Sanji the Rabbit"
+    },
+    {
+      "apiname": "Ach_DeadRudeSandstorm",
+      "achieved": 1,
+      "unlocktime": 1787987609,
+      "name": "Dead Rude Sandstorm",
+      "description": "Survive 20 minutes on Endurance Mode in the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_DogEatDog",
+      "achieved": 1,
+      "unlocktime": 1742095871,
+      "name": "Dog Eat Dog",
+      "description": "Exterminate a boss with the help of another boss"
+    },
+    {
+      "apiname": "Ach_ForgetIt",
+      "achieved": 1,
+      "unlocktime": 1742202247,
+      "name": "Forget It",
+      "description": "Reset points spent into any skill tree. Free respecs!"
+    },
+    {
+      "apiname": "Ach_HowAreYouNotDead",
+      "achieved": 1,
+      "unlocktime": 1787977987,
+      "name": "How Are You Not Dead?",
+      "description": "Survive a minute while having 10% or less of your total health points"
+    },
+    {
+      "apiname": "Ach_ItsDangerousToGoAlone",
+      "achieved": 1,
+      "unlocktime": 1788171722,
+      "name": "It's Dangerous To Go Alone",
+      "description": "Survive until dawn while having exactly one item"
+    },
+    {
+      "apiname": "Ach_MonkeyBusiness",
+      "achieved": 1,
+      "unlocktime": 1787783124,
+      "name": "Monkey Business",
+      "description": "Use a trap to lure a zombie... into a trap!"
+    },
+    {
+      "apiname": "Ach_MySavior",
+      "achieved": 1,
+      "unlocktime": 1787973365,
+      "name": "My Savior!",
+      "description": "In default mode, liberate 6 survivors in a row"
+    },
+    {
+      "apiname": "Ach_OmNomNom",
+      "achieved": 1,
+      "unlocktime": 1788193721,
+      "name": "Om Nom Nom",
+      "description": "Feed the Undead Worm with 500 zombies"
+    },
+    {
+      "apiname": "Ach_TheDesertOfTheDead",
+      "achieved": 1,
+      "unlocktime": 1787986893,
+      "name": "The Desert of The Dead",
+      "description": "Survive 10 minutes on Endurance Mode in the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_ThirdTimesCharm",
+      "achieved": 1,
+      "unlocktime": 1742185988,
+      "name": "Third Time's a Charm",
+      "description": "Get hit 3 times in a row without receiving any damage"
+    },
+    {
+      "apiname": "Ach_UnDeadRedemption",
+      "achieved": 1,
+      "unlocktime": 1787991917,
+      "name": "Un-Dead Redemption",
+      "description": "Survive a Hardcore mode run in the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_WildWasteland",
+      "achieved": 1,
+      "unlocktime": 1787988491,
+      "name": "Wild Wild West",
+      "description": "Survive 30 minutes on Endurance Mode in the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_ZeroDeaths",
+      "achieved": 1,
+      "unlocktime": 1787986022,
+      "name": "Zero Deaths!",
+      "description": "Survive a Hardcore run without the use of healing from items or abilities"
+    },
+    {
+      "apiname": "Ach_Draw25",
+      "achieved": 1,
+      "unlocktime": 1742094958,
+      "name": "Draw 25",
+      "description": "Reach team level 25 in the current run"
+    },
+    {
+      "apiname": "Ach_GoldenYears",
+      "achieved": 1,
+      "unlocktime": 1742095842,
+      "name": "Golden Years",
+      "description": "Reach team level 50 in the current run"
+    },
+    {
+      "apiname": "Ach_HoldMyKeg",
+      "achieved": 1,
+      "unlocktime": 1788194522,
+      "name": "Hold My Keg",
+      "description": "Survive 20 minutes without upgrading any weapons"
+    },
+    {
+      "apiname": "Ach_ImTheBoss",
+      "achieved": 1,
+      "unlocktime": 1742201958,
+      "name": "Hasta La Vista, Baby",
+      "description": "Annihilate all enemies in the Extermination mode in the Isolated City"
+    },
+    {
+      "apiname": "Ach_ScaraBoss",
+      "achieved": 1,
+      "unlocktime": 1788018049,
+      "name": "Waves In The Sand",
+      "description": "Annihilate all enemies in the Extermination mode in the Vile Wastelands"
+    },
+    {
+      "apiname": "Ach_SkillIssue",
+      "achieved": 1,
+      "unlocktime": 1788171604,
+      "name": "Skill Issue",
+      "description": "Survive 20 minutes without picking any abilities"
+    },
+    {
+      "apiname": "Ach_WhyYoudPickThat",
+      "achieved": 1,
+      "unlocktime": 1742108346,
+      "name": "Why'd You Pick That?",
+      "description": "Obtain a Potato"
+    },
+    {
+      "apiname": "Ach_YouAndWhatArmy",
+      "achieved": 1,
+      "unlocktime": 1788158791,
+      "name": "You And What Army?",
+      "description": "Complete a solo run in Hardcore mode with just the team leader"
+    },
+    {
+      "apiname": "Ach_BurningDesire",
+      "achieved": 1,
+      "unlocktime": 1742108514,
+      "name": "Burning Desire",
+      "description": "Unlock the second rank for the Pyro"
+    },
+    {
+      "apiname": "Ach_DiamondJubilee",
+      "achieved": 1,
+      "unlocktime": 1742185778,
+      "name": "Diamond Jubilee",
+      "description": "Reach team level 75 in the current run"
+    },
+    {
+      "apiname": "Ach_DingDingDing",
+      "achieved": 1,
+      "unlocktime": 1742186210,
+      "name": "Ding! Ding! Ding!",
+      "description": "Reach team level 100 in the current run"
+    },
+    {
+      "apiname": "Ach_EmotionalDamage",
+      "achieved": 1,
+      "unlocktime": 1788194522,
+      "name": "Emotional Damage!",
+      "description": "Complete a run in default mode without dealing any elemental damage"
+    },
+    {
+      "apiname": "Ach_FiredUpReadyToGo",
+      "achieved": 1,
+      "unlocktime": 1742099102,
+      "name": "Fired up! Ready to go!",
+      "description": "Unlock the Pyro"
+    },
+    {
+      "apiname": "Ach_FireWalkWithMe",
+      "achieved": 1,
+      "unlocktime": 1787783151,
+      "name": "Fire Walk With Me",
+      "description": "Walk 5 kilometres in total with your feet on fire"
+    },
+    {
+      "apiname": "Ach_GigawattsOfPower",
+      "achieved": 1,
+      "unlocktime": 1742106707,
+      "name": "1.21 Gigawatts Of Power",
+      "description": "Deal a total of 1,000,000 electric damage in a single run"
+    },
+    {
+      "apiname": "Ach_IAmSpeed",
+      "achieved": 1,
+      "unlocktime": 1742119706,
+      "name": "I Am Speed",
+      "description": "Reach 300 in the Movement Speed stat"
+    },
+    {
+      "apiname": "Ach_JustWantToWatch",
+      "achieved": 1,
+      "unlocktime": 1742188351,
+      "name": "Just Want To Watch The World Burn",
+      "description": "Deal a total of 1,000,000 fire damage in a single run"
+    },
+    {
+      "apiname": "Ach_LetItSnow",
+      "achieved": 1,
+      "unlocktime": 1788003400,
+      "name": "Let It Snow, Let It Snow, Let It Snow",
+      "description": "Deal a total of 1,000,000 ice damage in a single run"
+    },
+    {
+      "apiname": "Ach_Lllllegendary",
+      "achieved": 1,
+      "unlocktime": 1742118000,
+      "name": "L-l-l-l-legendary!",
+      "description": "Gain a legendary tier passive power-up"
+    },
+    {
+      "apiname": "Ach_MyChemicalBromance",
+      "achieved": 1,
+      "unlocktime": 1788019186,
+      "name": "My Chemical Bromance",
+      "description": "Deal a total of 1,000,000 chemical damage in a single run"
+    },
+    {
+      "apiname": "Ach_PhoenixRises",
+      "achieved": 1,
+      "unlocktime": 1787973383,
+      "name": "Phoenix Rises",
+      "description": "Survive the night with the Pyro as the team leader"
+    },
+    {
+      "apiname": "Ach_ProGamerMove",
+      "achieved": 1,
+      "unlocktime": 1747730670,
+      "name": "Pro Gamer Move",
+      "description": "Use lockdown, banish, and reroll options on the same selection screen"
+    },
+    {
+      "apiname": "Ach_ThreeTimesThree",
+      "achieved": 1,
+      "unlocktime": 1742185721,
+      "name": "Three Times Three",
+      "description": "In a single run, evolve three different weapons into their third tier forms"
+    },
+    {
+      "apiname": "Ach_ThroughTheFireAndFlames",
+      "achieved": 1,
+      "unlocktime": 1742186331,
+      "name": "Through The Fire and Flames",
+      "description": "Unlock the third rank for the Pyro"
+    },
+    {
+      "apiname": "Ach_TonsOfDamage",
+      "achieved": 1,
+      "unlocktime": 1742201258,
+      "name": "Tons Of Damage",
+      "description": "Deal at least 5,000 damage with a single attack"
+    },
+    {
+      "apiname": "Ach_WhyDidntYouDodge",
+      "achieved": 1,
+      "unlocktime": 1787986423,
+      "name": "Why Didn't You Dodge!?",
+      "description": "In a single run, get hit by the Worm 5 times and survive"
+    },
+    {
+      "apiname": "Ach_BloodMakesGrassGrow",
+      "achieved": 1,
+      "unlocktime": 1787976433,
+      "name": "Blood Makes The Grass Grow",
+      "description": "Annihilate all enemies in the Extermination mode in the Green Hell"
+    },
+    {
+      "apiname": "Ach_ComeIfYouWantToLive",
+      "achieved": 1,
+      "unlocktime": 1788190815,
+      "name": "Come With Me If You Want To Live",
+      "description": "In Extermination Mode, recruit your first survivor after completing at least 10 waves"
+    },
+    {
+      "apiname": "Ach_CruelCruelMoon",
+      "achieved": 1,
+      "unlocktime": 1747471401,
+      "name": "Cruel, Cruel Moon",
+      "description": "Survive until dawn in the Green Hell"
+    },
+    {
+      "apiname": "Ach_DeathIsApproaching",
+      "achieved": 1,
+      "unlocktime": 1788157795,
+      "name": "Death is Approaching",
+      "description": "Survive for 30 minutes in Endurance Mode with just the team leader"
+    },
+    {
+      "apiname": "Ach_DecideTheirFate",
+      "achieved": 1,
+      "unlocktime": 1788016962,
+      "name": "Decide Their Fate",
+      "description": "Finish the wave of an Extermination game mode from a microsecond to up to 20 seconds"
+    },
+    {
+      "apiname": "Ach_GreenBerets",
+      "achieved": 1,
+      "unlocktime": 1751619990,
+      "name": "I Graduated Green Berets",
+      "description": "Survive a Hardcore mode run in the Green Hell"
+    },
+    {
+      "apiname": "Ach_MoonlightShadow",
+      "achieved": 1,
+      "unlocktime": 1788081606,
+      "name": "The Moonlight Shadow",
+      "description": "Survive 30 minutes on Endurance Mode in the Green Hell"
+    },
+    {
+      "apiname": "Ach_SongOfSorrow",
+      "achieved": 1,
+      "unlocktime": 1747732053,
+      "name": "Song Of Sorrow And Grieving",
+      "description": "Survive 20 minutes on Endurance Mode in the Green Hell"
+    },
+    {
+      "apiname": "Ach_Terminator",
+      "achieved": 1,
+      "unlocktime": 1787976422,
+      "name": "The Terminator",
+      "description": "Complete an Extermination Mode run with just the team leader"
+    },
+    {
+      "apiname": "Ach_TooMuchWater",
+      "achieved": 1,
+      "unlocktime": 1787998980,
+      "name": "Too Much Water",
+      "description": "Stay inside a puddle for at least 7.8 seconds  Puddles created by enemies do not count"
+    },
+    {
+      "apiname": "Ach_TreesThatWhisper",
+      "achieved": 1,
+      "unlocktime": 1747731327,
+      "name": "The Trees That Whisper",
+      "description": "Survive 10 minutes on Endurance Mode in the Green Hell"
+    },
+    {
+      "apiname": "Ach_TrueOtaku",
+      "achieved": 1,
+      "unlocktime": 1742187628,
+      "name": "True Otaku",
+      "description": "Unlock a total of 50 items"
+    },
+    {
+      "apiname": "Ach_BansheeScream",
+      "achieved": 1,
+      "unlocktime": 1742186330,
+      "name": "Banshee Scream",
+      "description": "Unlock the fourth rank for the Ghost"
+    },
+    {
+      "apiname": "Ach_BringEmOn",
+      "achieved": 1,
+      "unlocktime": 1787989458,
+      "name": "Bring 'Em On!",
+      "description": "Complete a run on difficulty level III"
+    },
+    {
+      "apiname": "Ach_ComeAtMeBro",
+      "achieved": 1,
+      "unlocktime": 1742109897,
+      "name": "Come At Me Bro",
+      "description": "Evolve four different abilities in the same run"
+    },
+    {
+      "apiname": "Ach_ComeGetSome",
+      "achieved": 1,
+      "unlocktime": 1787991701,
+      "name": "Come Get Some",
+      "description": "Unlock the fourth rank for the SWAT"
+    },
+    {
+      "apiname": "Ach_DontHurtMe",
+      "achieved": 1,
+      "unlocktime": 1787975073,
+      "name": "Don't Hurt Me",
+      "description": "Complete a run on difficulty level II"
+    },
+    {
+      "apiname": "Ach_ItBurns",
+      "achieved": 1,
+      "unlocktime": 1742188590,
+      "name": "It Burns!",
+      "description": "Unlock the fourth rank for the Pyro"
+    },
+    {
+      "apiname": "Ach_MedicalMarvel",
+      "achieved": 1,
+      "unlocktime": 1787977361,
+      "name": "Medical Marvel",
+      "description": "Unlock the fourth rank for the Medic"
+    },
+    {
+      "apiname": "Ach_OneMillionBullets",
+      "achieved": 1,
+      "unlocktime": 1742095537,
+      "name": "One Million Bullets",
+      "description": "Deal a total of 1,000,000 Kinetic damage in a single run"
+    },
+    {
+      "apiname": "Ach_RagdollPhysics",
+      "achieved": 1,
+      "unlocktime": 1742117720,
+      "name": "Ragdoll Physics",
+      "description": "Deal a total of 1,000,000 Explosive damage in a single run"
+    },
+    {
+      "apiname": "Ach_TheImmovable",
+      "achieved": 1,
+      "unlocktime": 1787988128,
+      "name": "The Immovable",
+      "description": "Unlock the fourth rank for the Tank"
+    },
+    {
+      "apiname": "Ach_TheKingEngine",
+      "achieved": 1,
+      "unlocktime": 1742119950,
+      "name": "The King Engine",
+      "description": "Unlock the fourth rank for the Engineer"
+    },
+    {
+      "apiname": "Ach_TheyBleedPixels",
+      "achieved": 1,
+      "unlocktime": 1742188182,
+      "name": "They Bleed Pixels",
+      "description": "Deal a total of 1,000,000 Slashing damage in a single run"
+    },
+    {
+      "apiname": "Ach_WhatAWeek",
+      "achieved": 1,
+      "unlocktime": 1742187627,
+      "name": "What A Week, Huh?",
+      "description": "Inflict 5 or more status effects onto a single enemy"
+    },
+    {
+      "apiname": "Ach_WontSeeMeComing",
+      "achieved": 1,
+      "unlocktime": 1742294042,
+      "name": "Won't See Me Coming",
+      "description": "Unlock the fourth rank for the Huntress"
+    },
+    {
+      "apiname": "Ach_ArmedThroughTheNight",
+      "achieved": 1,
+      "unlocktime": 1742200079,
+      "name": "Armed Through The Night",
+      "description": "Survive the night with the Mechanic as the team leader"
+    },
+    {
+      "apiname": "Ach_EquipmentInspection",
+      "achieved": 1,
+      "unlocktime": 1742200080,
+      "name": "Equipment Inspection",
+      "description": "Unlock the second rank for the Mechanic"
+    },
+    {
+      "apiname": "Ach_Explosion",
+      "achieved": 1,
+      "unlocktime": 1742187415,
+      "name": "EXPLOSION!",
+      "description": "Have a blast causing an explosion of epic proportions"
+    },
+    {
+      "apiname": "Ach_GoingAllIn",
+      "achieved": 1,
+      "unlocktime": 1742119706,
+      "name": "Going All In",
+      "description": "Have a damage type tag of 30 or higher"
+    },
+    {
+      "apiname": "Ach_HardcoreUnderclocking",
+      "achieved": 1,
+      "unlocktime": 1742201957,
+      "name": "Hardcore Underclocking",
+      "description": "Unlock the fourth rank for the Mechanic"
+    },
+    {
+      "apiname": "Ach_NeedAHand",
+      "achieved": 1,
+      "unlocktime": 1742187806,
+      "name": "Need A Hand?",
+      "description": "Unlock the Mechanic"
+    },
+    {
+      "apiname": "Ach_SeriousTinkering",
+      "achieved": 1,
+      "unlocktime": 1742200080,
+      "name": "Serious Tinkering",
+      "description": "Unlock the third rank for the Mechanic"
+    },
+    {
+      "apiname": "Ach_ThePowerIsYours",
+      "achieved": 1,
+      "unlocktime": 1742109861,
+      "name": "The Power Is Yours!",
+      "description": "Within one second, deal five different types of damage"
+    },
+    {
+      "apiname": "Ach_YetAnotherZombieDefense",
+      "achieved": 1,
+      "unlocktime": 1742187415,
+      "name": "Yet Another Zombie Defense",
+      "description": "Have at least three different turret type abilities deployed at the same time"
+    },
+    {
+      "apiname": "Ach_BadDog",
+      "achieved": 1,
+      "unlocktime": 1787975428,
+      "name": "Bad Dog!",
+      "description": "Kill the Werewolf before it pounces at you"
+    },
+    {
+      "apiname": "Ach_BulletTrain",
+      "achieved": 1,
+      "unlocktime": 1788158792,
+      "name": "Bullet Train",
+      "description": "Survive a Hardcore mode run in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_CrazyTrain",
+      "achieved": 1,
+      "unlocktime": 1788088946,
+      "name": "Crazy Train",
+      "description": "Survive 30 minutes on Endurance Mode in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_Deworming",
+      "achieved": 1,
+      "unlocktime": 1788169647,
+      "name": "Deworming",
+      "description": "Complete a run in the Vile Wasteland without coming into contact with the Worm"
+    },
+    {
+      "apiname": "Ach_DirtyDancing",
+      "achieved": 1,
+      "unlocktime": 1787972356,
+      "name": "Dirty Dancing",
+      "description": "Kill the Chainsawman before he spins"
+    },
+    {
+      "apiname": "Ach_FinalDestination",
+      "achieved": 1,
+      "unlocktime": 1788218866,
+      "name": "Final Destination",
+      "description": "Survive 20 waves of the Extermination mode in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_FloorIsAcid",
+      "achieved": 1,
+      "unlocktime": 1787976431,
+      "name": "Floor is... Acid?",
+      "description": "Complete a run in the Green Hell without touching any acid pools"
+    },
+    {
+      "apiname": "Ach_FrightTrain",
+      "achieved": 1,
+      "unlocktime": 1788157120,
+      "name": "Fright Train",
+      "description": "Survive 20 minutes on Endurance Mode in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_IHateTrains",
+      "achieved": 1,
+      "unlocktime": 1788055880,
+      "name": "I Hate Trains",
+      "description": "Complete a run in the Dead Terminal without getting hit by a train"
+    },
+    {
+      "apiname": "Ach_ILikeTrains",
+      "achieved": 1,
+      "unlocktime": 1788015808,
+      "name": "I Like Trains",
+      "description": "In a single run, get hit by a train 5 times and survive"
+    },
+    {
+      "apiname": "Ach_JustGettingStarted",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Just Getting Started",
+      "description": "Reach Survival Level 100"
+    },
+    {
+      "apiname": "Ach_MagicOfScience",
+      "achieved": 1,
+      "unlocktime": 1787972745,
+      "name": "Magic of Science",
+      "description": "Complete a Research Pod event having collected all virus samples."
+    },
+    {
+      "apiname": "Ach_MakesUsStronger",
+      "achieved": 1,
+      "unlocktime": 1788110020,
+      "name": "Makes Us Stronger",
+      "description": "Reach Survival Level 300"
+    },
+    {
+      "apiname": "Ach_PleaseStandAwayFromTheTrack",
+      "achieved": 1,
+      "unlocktime": 1787972496,
+      "name": "Please Stand Away From the Tracks",
+      "description": "Make a boss type enemy have a fatal railway accident"
+    },
+    {
+      "apiname": "Ach_PushItThroughTheLimits",
+      "achieved": 1,
+      "unlocktime": 1788178796,
+      "name": "Push It Through The Limit",
+      "description": "Reach Survival Level 400"
+    },
+    {
+      "apiname": "Ach_ScarabLess",
+      "achieved": 1,
+      "unlocktime": 1787987026,
+      "name": "Scara-boss? Scarab-less!",
+      "description": "Kill the Big Mummy before it summons any Scarabs"
+    },
+    {
+      "apiname": "Ach_SlowTrain",
+      "achieved": 1,
+      "unlocktime": 1788156198,
+      "name": "Slow Train",
+      "description": "Survive 10 minutes on Endurance Mode in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_ThatWhichDoesNotKillUs",
+      "achieved": 1,
+      "unlocktime": 1788002285,
+      "name": "That Which Does Not Kill Us",
+      "description": "Reach Survival Level 200"
+    },
+    {
+      "apiname": "Ach_TicketsPlease",
+      "achieved": 1,
+      "unlocktime": 1787973383,
+      "name": "Tickets Please!",
+      "description": "Survive until dawn in the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_WrongPowerCord",
+      "achieved": 1,
+      "unlocktime": 1787782755,
+      "name": "Wrong Power Cord!",
+      "description": "Kill the Charger before it charges"
+    },
+    {
+      "apiname": "Ach_BirbsAndPuppers",
+      "achieved": 1,
+      "unlocktime": 1788001419,
+      "name": "Of Birbs And Puppers",
+      "description": "Survive the night with the Ranger as the team leader"
+    },
+    {
+      "apiname": "Ach_ShootHereWeGoAgain",
+      "achieved": 1,
+      "unlocktime": 1788252629,
+      "name": "Oh Shoot, Here We Go Again",
+      "description": "Complete 10 repeatable missions"
+    },
+    {
+      "apiname": "Ach_DontWantToPlay",
+      "achieved": 1,
+      "unlocktime": 1787783465,
+      "name": "I Don't Want To Play With You Anymore",
+      "description": "Use Item Pool Customization to banish 20% of your items"
+    },
+    {
+      "apiname": "Ach_CakeIsALie",
+      "achieved": 1,
+      "unlocktime": 1788180324,
+      "name": "The Cake Is A Lie",
+      "description": "Survive until dawn in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_ThisWasATriumph",
+      "achieved": 1,
+      "unlocktime": 1788187529,
+      "name": "This Was A Triumph",
+      "description": "Survive 10 minutes on Endurance Mode in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_MakingNoteHere",
+      "achieved": 1,
+      "unlocktime": 1788188266,
+      "name": "I'm Making a Note Here",
+      "description": "Survive 20 minutes on Endurance Mode in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_GreatSuccess",
+      "achieved": 1,
+      "unlocktime": 1788226927,
+      "name": "Great Success!",
+      "description": "Survive 30 minutes on Endurance Mode in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_DontBlameYou",
+      "achieved": 1,
+      "unlocktime": 1788189621,
+      "name": "I Don't Blame You",
+      "description": "Survive a Hardcore mode run in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_NoHardFeelings",
+      "achieved": 1,
+      "unlocktime": 1788190988,
+      "name": "No Hard Feelings",
+      "description": "Annihilate all enemies in the Extermination mode in the Bio Lab"
+    },
+    {
+      "apiname": "Ach_ImTheBoss2",
+      "achieved": 1,
+      "unlocktime": 1787783346,
+      "name": "I'm The Boss",
+      "description": "Defeat the final boss of the Isolated City"
+    },
+    {
+      "apiname": "Ach_IMustNotFear",
+      "achieved": 1,
+      "unlocktime": 1788046375,
+      "name": "I Must Not Fear",
+      "description": "Defeat the final boss of the Vile Wasteland"
+    },
+    {
+      "apiname": "Ach_WendiGoAway",
+      "achieved": 1,
+      "unlocktime": 1788105477,
+      "name": "Wendi Go Away",
+      "description": "Defeat the final boss of the Green Hell"
+    },
+    {
+      "apiname": "Ach_TrainSuplex",
+      "achieved": 1,
+      "unlocktime": 1788219562,
+      "name": "Train Suplex",
+      "description": "Defeat the final boss of the Dead Terminal"
+    },
+    {
+      "apiname": "Ach_StillAlive",
+      "achieved": 1,
+      "unlocktime": 1788217697,
+      "name": "Still Alive",
+      "description": "Defeat the final boss of the Bio Lab"
+    },
+    {
+      "apiname": "Ach_TexasRanger",
+      "achieved": 1,
+      "unlocktime": 1787988526,
+      "name": "Texas Ranger",
+      "description": "Unlock the Ranger"
+    },
+    {
+      "apiname": "Ach_LeadTheWay",
+      "achieved": 1,
+      "unlocktime": 1787999336,
+      "name": "Lead the Way!",
+      "description": "Unlock the second rank for the Ranger"
+    },
+    {
+      "apiname": "Ach_FedByHand",
+      "achieved": 1,
+      "unlocktime": 1788001211,
+      "name": "Fed By Hand",
+      "description": "Unlock the third rank for the Ranger"
+    },
+    {
+      "apiname": "Ach_YAZSQueen",
+      "achieved": 1,
+      "unlocktime": 1788019739,
+      "name": "YAZS, Queen!",
+      "description": "Unlock the fourth rank for the Ranger"
+    },
+    {
+      "apiname": "Ach_EngineerStory1",
+      "achieved": 1,
+      "unlocktime": 1787783007,
+      "name": "Six Thinking Hats",
+      "description": "Complete the first mission tasked by the Engineer"
+    },
+    {
+      "apiname": "Ach_EngineerStory2",
+      "achieved": 1,
+      "unlocktime": 1787989449,
+      "name": "SWOT Analysis",
+      "description": "Complete the second mission tasked by the Engineer"
+    },
+    {
+      "apiname": "Ach_EngineerStory3",
+      "achieved": 1,
+      "unlocktime": 1788044864,
+      "name": "Heroic Theory",
+      "description": "Complete the third mission tasked by the Engineer"
+    },
+    {
+      "apiname": "Ach_EngineerStory4",
+      "achieved": 1,
+      "unlocktime": 1788091418,
+      "name": "Trial and Error",
+      "description": "Complete the fourth mission tasked by the Engineer"
+    },
+    {
+      "apiname": "Ach_EngineerStory5",
+      "achieved": 1,
+      "unlocktime": 1788105443,
+      "name": "Brainstorming",
+      "description": "Complete the final mission tasked by the Engineer"
+    },
+    {
+      "apiname": "Ach_GhostStory1",
+      "achieved": 1,
+      "unlocktime": 1787975731,
+      "name": "Encapsulation",
+      "description": "Complete the first mission tasked by the Ghost"
+    },
+    {
+      "apiname": "Ach_GhostStory2",
+      "achieved": 1,
+      "unlocktime": 1788142167,
+      "name": "Compilation",
+      "description": "Complete the second mission tasked by the Ghost"
+    },
+    {
+      "apiname": "Ach_GhostStory3",
+      "achieved": 1,
+      "unlocktime": 1788146712,
+      "name": "Recursion",
+      "description": "Complete the third mission tasked by the Ghost"
+    },
+    {
+      "apiname": "Ach_GhostStory4",
+      "achieved": 1,
+      "unlocktime": 1788158782,
+      "name": "Defragmentation",
+      "description": "Complete the fourth mission tasked by the Ghost"
+    },
+    {
+      "apiname": "Ach_GhostStory5",
+      "achieved": 1,
+      "unlocktime": 1788180314,
+      "name": "Refactoring",
+      "description": "Complete the final mission tasked by the Ghost"
+    },
+    {
+      "apiname": "Ach_HuntressStory1",
+      "achieved": 1,
+      "unlocktime": 1787985866,
+      "name": "React",
+      "description": "Complete the first mission tasked by the Huntress"
+    },
+    {
+      "apiname": "Ach_HuntressStory2",
+      "achieved": 1,
+      "unlocktime": 1788001701,
+      "name": "Recollect",
+      "description": "Complete the second mission tasked by the Huntress"
+    },
+    {
+      "apiname": "Ach_HuntressStory3",
+      "achieved": 1,
+      "unlocktime": 1788019729,
+      "name": "Relinquish",
+      "description": "Complete the third mission tasked by the Huntress"
+    },
+    {
+      "apiname": "Ach_HuntressStory4",
+      "achieved": 1,
+      "unlocktime": 1788157119,
+      "name": "Readjust",
+      "description": "Complete the fourth mission tasked by the Huntress"
+    },
+    {
+      "apiname": "Ach_HuntressStory5",
+      "achieved": 1,
+      "unlocktime": 1788182356,
+      "name": "Reinvest",
+      "description": "Complete the final mission tasked by the Huntress"
+    },
+    {
+      "apiname": "Ach_MainStory1",
+      "achieved": 1,
+      "unlocktime": 1787975064,
+      "name": "Prologos",
+      "description": "Complete the Prologos story mission"
+    },
+    {
+      "apiname": "Ach_MainStory2",
+      "achieved": 1,
+      "unlocktime": 1788000508,
+      "name": "Parodos",
+      "description": "Complete the Parodos story mission"
+    },
+    {
+      "apiname": "Ach_MainStory3",
+      "achieved": 1,
+      "unlocktime": 1788048466,
+      "name": "Stasimon",
+      "description": "Complete the Stasimon story mission"
+    },
+    {
+      "apiname": "Ach_MainStory4",
+      "achieved": 1,
+      "unlocktime": 1788054266,
+      "name": "Exodus",
+      "description": "Complete the Exodus story mission"
+    },
+    {
+      "apiname": "Ach_MainStory5",
+      "achieved": 1,
+      "unlocktime": 1788092287,
+      "name": "Catharsis",
+      "description": "Complete the Catharsis story mission"
+    },
+    {
+      "apiname": "Ach_MainStory6",
+      "achieved": 1,
+      "unlocktime": 1788138454,
+      "name": "Genesis",
+      "description": "Complete the Genesis story mission"
+    },
+    {
+      "apiname": "Ach_MainStory7",
+      "achieved": 1,
+      "unlocktime": 1788141107,
+      "name": "Growth",
+      "description": "Complete the Growth story mission"
+    },
+    {
+      "apiname": "Ach_MainStory8",
+      "achieved": 1,
+      "unlocktime": 1788145873,
+      "name": "Troubles",
+      "description": "Complete the Troubles story mission"
+    },
+    {
+      "apiname": "Ach_MainStory9",
+      "achieved": 1,
+      "unlocktime": 1788147573,
+      "name": "Universal State",
+      "description": "Complete the Universal State story mission"
+    },
+    {
+      "apiname": "Ach_MainStory10",
+      "achieved": 1,
+      "unlocktime": 1788163588,
+      "name": "Desintegration",
+      "description": "Complete the Desintegration story mission"
+    },
+    {
+      "apiname": "Ach_MainStory11",
+      "achieved": 1,
+      "unlocktime": 1788176962,
+      "name": "Adsorption",
+      "description": "Complete the Adsorption story mission"
+    },
+    {
+      "apiname": "Ach_MainStory12",
+      "achieved": 1,
+      "unlocktime": 1788184877,
+      "name": "Penetration",
+      "description": "Complete the Penetration story mission"
+    },
+    {
+      "apiname": "Ach_MainStory13",
+      "achieved": 1,
+      "unlocktime": 1788192635,
+      "name": "Replication",
+      "description": "Complete the Replication story mission"
+    },
+    {
+      "apiname": "Ach_MainStory14",
+      "achieved": 1,
+      "unlocktime": 1788219552,
+      "name": "Assembly",
+      "description": "Complete the Assembly story mission"
+    },
+    {
+      "apiname": "Ach_MainStory15",
+      "achieved": 1,
+      "unlocktime": 1788222366,
+      "name": "Release",
+      "description": "Complete the main storyline of the game"
+    },
+    {
+      "apiname": "Ach_MechanicStory1",
+      "achieved": 1,
+      "unlocktime": 1788016842,
+      "name": "Observation",
+      "description": "Complete the first mission tasked by the Mechanic"
+    },
+    {
+      "apiname": "Ach_MechanicStory2",
+      "achieved": 1,
+      "unlocktime": 1788188266,
+      "name": "Formulation",
+      "description": "Complete the second mission tasked by the Mechanic"
+    },
+    {
+      "apiname": "Ach_MechanicStory3",
+      "achieved": 1,
+      "unlocktime": 1788193363,
+      "name": "Hypothesis",
+      "description": "Complete the third mission tasked by the Mechanic"
+    },
+    {
+      "apiname": "Ach_MechanicStory4",
+      "achieved": 1,
+      "unlocktime": 1788218856,
+      "name": "Antithesis",
+      "description": "Complete the fourth mission tasked by the Mechanic"
+    },
+    {
+      "apiname": "Ach_MechanicStory5",
+      "achieved": 1,
+      "unlocktime": 1788221573,
+      "name": "Synthesis",
+      "description": "Complete the final mission tasked by the Mechanic"
+    },
+    {
+      "apiname": "Ach_MedicStory1",
+      "achieved": 1,
+      "unlocktime": 1787977351,
+      "name": "Trauma",
+      "description": "Complete the first mission tasked by the Medic"
+    },
+    {
+      "apiname": "Ach_MedicStory2",
+      "achieved": 1,
+      "unlocktime": 1787991870,
+      "name": "Hemostasis",
+      "description": "Complete the second mission tasked by the Medic"
+    },
+    {
+      "apiname": "Ach_MedicStory3",
+      "achieved": 1,
+      "unlocktime": 1788165370,
+      "name": "Inflammation",
+      "description": "Complete the third mission tasked by the Medic"
+    },
+    {
+      "apiname": "Ach_MedicStory4",
+      "achieved": 1,
+      "unlocktime": 1788171714,
+      "name": "Proliferation",
+      "description": "Complete the fourth mission tasked by the Medic"
+    },
+    {
+      "apiname": "Ach_MedicStory5",
+      "achieved": 1,
+      "unlocktime": 1788189611,
+      "name": "Remodelling",
+      "description": "Complete the final mission tasked by the Medic"
+    },
+    {
+      "apiname": "Ach_PyroStory1",
+      "achieved": 1,
+      "unlocktime": 1787972211,
+      "name": "Exposure",
+      "description": "Complete the first mission tasked by the Pyro"
+    },
+    {
+      "apiname": "Ach_PyroStory2",
+      "achieved": 1,
+      "unlocktime": 1787987609,
+      "name": "Accelerant",
+      "description": "Complete the second mission tasked by the Pyro"
+    },
+    {
+      "apiname": "Ach_PyroStory3",
+      "achieved": 1,
+      "unlocktime": 1787999424,
+      "name": "Flashover",
+      "description": "Complete the third mission tasked by the Pyro"
+    },
+    {
+      "apiname": "Ach_PyroStory4",
+      "achieved": 1,
+      "unlocktime": 1788055871,
+      "name": "Backdraft",
+      "description": "Complete the fourth mission tasked by the Pyro"
+    },
+    {
+      "apiname": "Ach_PyroStory5",
+      "achieved": 1,
+      "unlocktime": 1788160320,
+      "name": "Rekindle",
+      "description": "Complete the final mission tasked by the Pyro"
+    },
+    {
+      "apiname": "Ach_RangerStory1",
+      "achieved": 1,
+      "unlocktime": 1788139512,
+      "name": "Seeding",
+      "description": "Complete the first mission tasked by the Ranger"
+    },
+    {
+      "apiname": "Ach_RangerStory2",
+      "achieved": 1,
+      "unlocktime": 1788161864,
+      "name": "Germination",
+      "description": "Complete the second mission tasked by the Ranger"
+    },
+    {
+      "apiname": "Ach_RangerStory3",
+      "achieved": 1,
+      "unlocktime": 1788166854,
+      "name": "Sprouting",
+      "description": "Complete the third mission tasked by the Ranger"
+    },
+    {
+      "apiname": "Ach_RangerStory4",
+      "achieved": 1,
+      "unlocktime": 1788178786,
+      "name": "Sapling",
+      "description": "Complete the fourth mission tasked by the Ranger"
+    },
+    {
+      "apiname": "Ach_RangerStory5",
+      "achieved": 1,
+      "unlocktime": 1788190978,
+      "name": "Flowering",
+      "description": "Complete the final mission tasked by the Ranger"
+    },
+    {
+      "apiname": "Ach_SWATStory1",
+      "achieved": 1,
+      "unlocktime": 1787990482,
+      "name": "Window of opportunity",
+      "description": "Complete the first mission tasked by the SWAT"
+    },
+    {
+      "apiname": "Ach_SWATStory2",
+      "achieved": 1,
+      "unlocktime": 1788108391,
+      "name": "Breach and hold",
+      "description": "Complete the second mission tasked by the SWAT"
+    },
+    {
+      "apiname": "Ach_SWATStory3",
+      "achieved": 1,
+      "unlocktime": 1788162072,
+      "name": "Emergency rescue",
+      "description": "Complete the third mission tasked by the SWAT"
+    },
+    {
+      "apiname": "Ach_SWATStory4",
+      "achieved": 1,
+      "unlocktime": 1788182917,
+      "name": "No-knock entry",
+      "description": "Complete the fourth mission tasked by the SWAT"
+    },
+    {
+      "apiname": "Ach_SWATStory5",
+      "achieved": 1,
+      "unlocktime": 1788217666,
+      "name": "Crisis Negotiation",
+      "description": "Complete the final mission tasked by the SWAT"
+    },
+    {
+      "apiname": "Ach_TankStory1",
+      "achieved": 1,
+      "unlocktime": 1788046063,
+      "name": "Breaking and Entering",
+      "description": "Complete the first mission tasked by the Tank"
+    },
+    {
+      "apiname": "Ach_TankStory2",
+      "achieved": 1,
+      "unlocktime": 1788052969,
+      "name": "Criminal Contempt",
+      "description": "Complete the second mission tasked by the Tank"
+    },
+    {
+      "apiname": "Ach_TankStory3",
+      "achieved": 1,
+      "unlocktime": 1788106643,
+      "name": "Aiding and Abetting",
+      "description": "Complete the third mission tasked by the Tank"
+    },
+    {
+      "apiname": "Ach_TankStory4",
+      "achieved": 1,
+      "unlocktime": 1788109995,
+      "name": "Perjury",
+      "description": "Complete the fourth mission tasked by the Tank"
+    },
+    {
+      "apiname": "Ach_TankStory5",
+      "achieved": 1,
+      "unlocktime": 1788191771,
+      "name": "Aggravated Assault",
+      "description": "Complete the final mission tasked by the Tank"
+    },
+    {
+      "apiname": "Ach_CuttingEdgeTechnology",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Cutting Edge Technology",
+      "description": "Unlock the fifth rank for the Ghost"
+    },
+    {
+      "apiname": "Ach_InfernoIncarnate",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Inferno Incarnate",
+      "description": "Unlock the fifth rank for the Pyro"
+    },
+    {
+      "apiname": "Ach_MainCharacterEnergy",
+      "achieved": 1,
+      "unlocktime": 1788046374,
+      "name": "Main Character Energy",
+      "description": "Unlock the fifth rank for the SWAT"
+    },
+    {
+      "apiname": "Ach_ProHunterLicense",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Pro Hunter License",
+      "description": "Unlock the fifth rank for the Huntress"
+    },
+    {
+      "apiname": "Ach_SubZeroWins",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Sub-Zero Wins",
+      "description": "Unlock the fifth rank for the Mechanic"
+    },
+    {
+      "apiname": "Ach_TheUnbreakable",
+      "achieved": 1,
+      "unlocktime": 1788016852,
+      "name": "The Unbreakable",
+      "description": "Unlock the fifth rank for the Tank"
+    },
+    {
+      "apiname": "Ach_TrueAnimalLover",
+      "achieved": 1,
+      "unlocktime": 1788047942,
+      "name": "True Animal Lover",
+      "description": "Unlock the fifth rank for the Ranger"
+    },
+    {
+      "apiname": "Ach_UniversalHealthcare",
+      "achieved": 1,
+      "unlocktime": 1788016015,
+      "name": "Universal Healthcare",
+      "description": "Unlock the fifth rank for the Medic"
+    },
+    {
+      "apiname": "Ach_UnrealEngine",
+      "achieved": 1,
+      "unlocktime": 1787781885,
+      "name": "Unreal Engine",
+      "description": "Unlock the fifth rank for the Engineer"
+    },
+    {
+      "apiname": "Ach_DiggyHole",
+      "achieved": 1,
+      "unlocktime": 1788227518,
+      "name": "Diggy, Diggy Hole",
+      "description": "Help the best boy out, would you?"
+    }
+  ]
+}

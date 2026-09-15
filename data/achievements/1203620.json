@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1203620,
+  "game": "Enshrouded",
+  "total": 52,
+  "unlocked": 11,
+  "percent": 21.2,
+  "updated_at_utc": "2026-09-15T06:51:14.054548+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHI_3bf8c19a-da15-4e56-9c37-9360c31c2333",
+      "achieved": 1,
+      "unlocktime": 1776690338,
+      "name": "Thundering success",
+      "description": "Defeat the guardian of the first elixir well."
+    },
+    {
+      "apiname": "ACHI_85f72f0e-b544-4715-9f2b-3ba42ca7feb3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dethroned",
+      "description": "Defeat the shroud wyvern."
+    },
+    {
+      "apiname": "ACHI_0e49d616-525e-4124-9dee-e8e81fc4408d",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pieces of the past",
+      "description": "Find all forgotten \"guard of the north\" armor pieces."
+    },
+    {
+      "apiname": "ACHI_3c075214-f87e-48b8-b72a-c7833d57118e",
+      "achieved": 1,
+      "unlocktime": 1706449867,
+      "name": "A place to call home",
+      "description": "Create a flame altar."
+    },
+    {
+      "apiname": "ACHI_bd29a8fc-25de-4d8a-8522-fe1e94cf38a4",
+      "achieved": 1,
+      "unlocktime": 1706538638,
+      "name": "Freefall",
+      "description": "Craft or obtain a glider."
+    },
+    {
+      "apiname": "ACHI_ad0f5f62-d12c-4f22-99bd-6500fc1dea64",
+      "achieved": 1,
+      "unlocktime": 1706538638,
+      "name": "Shortcut",
+      "description": "Craft or obtain a grappling hook."
+    },
+    {
+      "apiname": "ACHI_24ddabef-6f56-4e60-b012-41b63402497c",
+      "achieved": 1,
+      "unlocktime": 1706449964,
+      "name": "Thus it begins",
+      "description": "Craft a simple item."
+    },
+    {
+      "apiname": "ACHI_b9c50cda-271c-4a4f-a423-c7667452503f",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winged Victory",
+      "description": "Obtain a ghost glider."
+    },
+    {
+      "apiname": "ACHI_31af8ebe-8f9d-48fb-ae35-c3282bf29e3b",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Springlands",
+      "description": "Find all flame shrines and sanctums in the Springlands."
+    },
+    {
+      "apiname": "ACHI_5905c28e-d7f0-47c9-9f9c-c29ef7414e65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Revelwoods",
+      "description": "Find all flame shrines and sanctums in the Revelwoods."
+    },
+    {
+      "apiname": "ACHI_369b1706-07bd-4708-94f0-d9b059ae0fb0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Nomad Highlands",
+      "description": "Find all flame shrines and sanctums in the Nomad Highlands."
+    },
+    {
+      "apiname": "ACHI_eb0277bb-89ca-422a-a7f0-8af6e180348f",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Kindlewastes",
+      "description": "Find all flame shrines and sanctums in the Kindlewastes."
+    },
+    {
+      "apiname": "ACHI_1f8281f9-d0ae-41c6-89bd-90ed9e1e7062",
+      "achieved": 1,
+      "unlocktime": 1776695036,
+      "name": "Mole of the Springlands",
+      "description": "Mine every valuable material in the Springlands."
+    },
+    {
+      "apiname": "ACHI_c7e093f3-e8a6-4cb3-bcaa-459f42c8b783",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mole of the Revelwoods",
+      "description": "Mine every valuable material in the Revelwoods."
+    },
+    {
+      "apiname": "ACHI_db3a3375-c3de-4f3e-a4cc-3fcbad903b6a",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mole of the Nomad Highlands",
+      "description": "Mine every valuable material in the Nomad Highlands."
+    },
+    {
+      "apiname": "ACHI_3b0bdd62-d91d-495c-9038-bed06f2977a7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mole of the Kindlewastes",
+      "description": "Mine every valuable material in the Kindlewastes."
+    },
+    {
+      "apiname": "ACHI_4953e443-f1cc-46f7-9b83-99aa61b3843d",
+      "achieved": 1,
+      "unlocktime": 1706535558,
+      "name": "Leave a mark",
+      "description": "Mine terrain for the first time."
+    },
+    {
+      "apiname": "ACHI_3f7c1fe5-526e-4913-9105-401b04a03fac",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Springlands secret keeper",
+      "description": "Read all obelisks in the Springlands."
+    },
+    {
+      "apiname": "ACHI_4faf244f-0478-4560-ae74-19f4456760ed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revelwoods secret keeper",
+      "description": "Read all obelisks in the Revelwoods."
+    },
+    {
+      "apiname": "ACHI_45b3b6ac-7131-4c10-a8b5-67c3763da997",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad Highlands secret keeper",
+      "description": "Read all obelisks in the Nomad Highlands."
+    },
+    {
+      "apiname": "ACHI_97b9e264-ca8d-423c-8818-9b3c8365b053",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kindlewastes secret keeper",
+      "description": "Read all obelisks in the Kindlewastes."
+    },
+    {
+      "apiname": "ACHI_bd0c0828-7d59-4d74-b274-66d5c9bde3a8",
+      "achieved": 1,
+      "unlocktime": 1706449628,
+      "name": "Doing something right",
+      "description": "Reach level 2."
+    },
+    {
+      "apiname": "ACHI_1137a2ea-3f08-47db-8c57-e10b8d2be838",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the way",
+      "description": "Reach level 5."
+    },
+    {
+      "apiname": "ACHI_bd2895f6-3849-48c0-a4bf-2e390e834e76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Things come together",
+      "description": "Reach level 10."
+    },
+    {
+      "apiname": "ACHI_670f5c41-0834-401c-8d3f-ef8f80b9d93d",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting a feel for it",
+      "description": "Reach level 15."
+    },
+    {
+      "apiname": "ACHI_e915dda6-87f6-42c6-8fde-b61b66215fb6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How far we have come",
+      "description": "Reach level 20."
+    },
+    {
+      "apiname": "ACHI_36add8fa-6f4b-4fc4-9b32-a442600f75c2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Impressive journey",
+      "description": "Reach level 25."
+    },
+    {
+      "apiname": "ACHI_17ce5b30-b3de-4320-9b31-97b6f11b9c7c",
+      "achieved": 1,
+      "unlocktime": 1776689032,
+      "name": "Erudite",
+      "description": "Unlocked the first skill."
+    },
+    {
+      "apiname": "ACHI_0247d74e-954f-4144-ba90-dba9c71f5831",
+      "achieved": 1,
+      "unlocktime": 1776697896,
+      "name": "Springlands stargazer",
+      "description": "Reached an ancient spire in the Springlands."
+    },
+    {
+      "apiname": "ACHI_1a86595a-da61-44ad-b447-f0ed9faaf8b0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revelwoods stargazer",
+      "description": "Reached the ancient spire in the Revelwoods."
+    },
+    {
+      "apiname": "ACHI_416e1b4f-56df-4200-a3c6-9964edcac70a",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad Highlands stargazer",
+      "description": "Reached the ancient spire in the Nomad Highlands."
+    },
+    {
+      "apiname": "ACHI_f96f5d22-102a-4e13-aea5-0e28bae5c3be",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kindlewastes stargazer",
+      "description": "Reached the ancient spire in the Kindlewastes."
+    },
+    {
+      "apiname": "ACHI_f471903a-7c5f-4850-9272-cced5be79cec",
+      "achieved": 1,
+      "unlocktime": 1776690377,
+      "name": "Well done!",
+      "description": "Cleared the first elixir well."
+    },
+    {
+      "apiname": "ACHI_32913a06-f9d7-452d-99b3-b8e4f0b84438",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Springland weeding",
+      "description": "Clear the Springlands of all shroud roots."
+    },
+    {
+      "apiname": "ACHI_6ba4a3eb-ba71-44ca-aaaa-ad5599696d5f",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revelwood weeding",
+      "description": "Clear the Revelwood of all shroud roots."
+    },
+    {
+      "apiname": "ACHI_d41c5d2d-bb09-4045-ab6e-59e5c2c08ea6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad Highlands weeding",
+      "description": "Clear the Nomad Highlands from all shroud roots."
+    },
+    {
+      "apiname": "ACHI_d4a67af1-9128-43cd-ab4f-4a76dedea063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kindlewastes weeding",
+      "description": "Clear the Kindlewastes of all shroud roots."
+    },
+    {
+      "apiname": "ACHI_301de1cc-2d52-4177-9f41-eaed5cb79976",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Climbing to new heights",
+      "description": "Reach level 30."
+    },
+    {
+      "apiname": "ACHI_a285ea4b-2cbc-4b72-ade3-510634c7605c",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reaching the top",
+      "description": "Reach level 35."
+    },
+    {
+      "apiname": "ACHI_04eda6eb-77ce-465d-b430-44b9ede3e956",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Albaneve Summits weeding",
+      "description": "Clear the Albaneve Summits of all shroud roots."
+    },
+    {
+      "apiname": "ACHI_3ed03563-6c4b-4a95-9cbb-66de50dd44f3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Albaneve Summits stargazer",
+      "description": "Reached the ancient spire in the Albaneve Summits."
+    },
+    {
+      "apiname": "ACHI_a9f25910-4869-4cee-b73b-7ed73b137e24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mole of the Albaneve Summits",
+      "description": "Mine every valuable material in the Albaneve Summits."
+    },
+    {
+      "apiname": "ACHI_d3f96a27-d2f0-42f0-a1cb-221826568a47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Albaneve Summits secret keeper",
+      "description": "Read all obelisks in the Albaneve Summits."
+    },
+    {
+      "apiname": "ACHI_0099d687-8ebd-4fb3-98c9-8c0fe6a50d31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Albaneve Summits",
+      "description": "Find all flame shrines and sanctums in the Albaneve Summits."
+    },
+    {
+      "apiname": "ACHI_72c6f8c3-3538-46b3-8b02-648f45f5baa1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of the mountain",
+      "description": "Defeat the dragon."
+    },
+    {
+      "apiname": "ACHI_b03ecafe-da33-40f2-8dda-b893ace804af",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spark of the Veilwater Basin",
+      "description": "Find all flame shrines and sanctums in the Veilwater Basin."
+    },
+    {
+      "apiname": "ACHI_bd170aab-ac5e-445d-ace9-0c7e0bdcd4b6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mole of the Veilwater Basin",
+      "description": "Mine every valuable material in the Veilwater Basin."
+    },
+    {
+      "apiname": "ACHI_b8af6745-255b-4461-8044-bd52fc89d452",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veilwater Basin secret keeper",
+      "description": "Read all obelisks in the Veilwater Basin."
+    },
+    {
+      "apiname": "ACHI_9b98e763-dba3-4722-8ed7-3fd42eb95100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready for new lands",
+      "description": "Reach level 40."
+    },
+    {
+      "apiname": "ACHI_6e3b6d3c-4372-4a12-a3ea-b354e1ef1ee9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Onto new horizons",
+      "description": "Reach level 45."
+    },
+    {
+      "apiname": "ACHI_292324ab-856d-4ba8-8130-270f56ac8a33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veilwater Basin stargazer",
+      "description": "Reached the ancient spire in the Veilwater Basin."
+    },
+    {
+      "apiname": "ACHI_0566056a-c2da-4f59-8c0d-e2c96212eec1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veilwater Basin weeding",
+      "description": "Clear the Veilwater Basin of all shroud roots."
+    }
+  ]
+}

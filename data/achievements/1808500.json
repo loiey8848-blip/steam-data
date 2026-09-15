@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1808500,
+  "game": "ARC Raiders",
+  "total": 50,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:19.705856+00:00",
+  "achievements": [
+    {
+      "apiname": "Expl01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scavenger",
+      "description": "Search 50 loot containers."
+    },
+    {
+      "apiname": "Expl02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Traveled",
+      "description": "Safely return from Dam Battlegrounds, Buried City and Spaceport."
+    },
+    {
+      "apiname": "Meta01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Big Haul",
+      "description": "Return to Speranza with 50 000 worth of loot."
+    },
+    {
+      "apiname": "PvE05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Birds, One Stone",
+      "description": "Destroy 3 ARC enemies with a single Wolfpack grenade."
+    },
+    {
+      "apiname": "PvE10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snitches get Stitches",
+      "description": "Destroy a Snitch with a Stitcher."
+    },
+    {
+      "apiname": "Expl03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape Artist",
+      "description": "Safely return to Speranza 100 times."
+    },
+    {
+      "apiname": "Expl04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rite of Passage",
+      "description": "Safely return to Speranza for the first time."
+    },
+    {
+      "apiname": "Expl05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into Thin Air",
+      "description": "Safely return to Speranza through a Raider Hatch."
+    },
+    {
+      "apiname": "Expl06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind Closed Doors",
+      "description": "Visit a locked room on Dam Battlegrounds, Buried City or Spaceport."
+    },
+    {
+      "apiname": "Meta02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Long Haul",
+      "description": "Reach a total lifetime loot value of 1 000 000."
+    },
+    {
+      "apiname": "Meta03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Weaponsmith",
+      "description": "Upgrade a weapon to Tier IV."
+    },
+    {
+      "apiname": "Meta04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well-Armed",
+      "description": "Have two weapons of Tier II or higher equipped in a round."
+    },
+    {
+      "apiname": "Meta05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back from the Brink",
+      "description": "Revive a squadmate ten times."
+    },
+    {
+      "apiname": "Meta06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legend of Speranza",
+      "description": "Reach level 75."
+    },
+    {
+      "apiname": "Meta07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated to the Craft",
+      "description": "Have five stations upgraded to level 3 or higher."
+    },
+    {
+      "apiname": "Meta08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self-Sufficient",
+      "description": "Install a station in your Workshop."
+    },
+    {
+      "apiname": "Meta09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Your Element",
+      "description": "Reach level 10."
+    },
+    {
+      "apiname": "Meta10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Serious",
+      "description": "Upgrade a Workshop station to level 2."
+    },
+    {
+      "apiname": "Meta11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Same Song, Same Verse",
+      "description": "Set off two car alarms in a single round."
+    },
+    {
+      "apiname": "Misc01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Nick of Time",
+      "description": "Safely return to Speranza with less than 5 seconds left in the round."
+    },
+    {
+      "apiname": "Misc02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Over Till It's Over",
+      "description": "Safely return to Speranza while downed."
+    },
+    {
+      "apiname": "Misc04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bells and Whistles",
+      "description": "Have 4 weapon mods on a single weapon."
+    },
+    {
+      "apiname": "Misc05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Shot",
+      "description": "Hit a target over 250 meters away."
+    },
+    {
+      "apiname": "Misc06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Going Back",
+      "description": ""
+    },
+    {
+      "apiname": "Misc07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Dropping In",
+      "description": ""
+    },
+    {
+      "apiname": "Misc08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Most Durable Pants in Speranza",
+      "description": "Slide 80 meters without stopping."
+    },
+    {
+      "apiname": "Misc09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "See You Never",
+      "description": ""
+    },
+    {
+      "apiname": "Misc10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Today You, Tomorrow Me",
+      "description": "Revive an encountered Raider with a Defibrillator."
+    },
+    {
+      "apiname": "Misc11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top of the World",
+      "description": ""
+    },
+    {
+      "apiname": "Misc12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Science!",
+      "description": "Get gas, stun, and burn statuses at the same time."
+    },
+    {
+      "apiname": "PvE01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shots Fired",
+      "description": "Deal 1000 damage to ARC enemies."
+    },
+    {
+      "apiname": "PvE02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racking Them Up",
+      "description": "Destroy 50 ARC enemies."
+    },
+    {
+      "apiname": "PvE03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trail of Destruction",
+      "description": "Destroy 100 ARC enemies."
+    },
+    {
+      "apiname": "PvE04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death From Above",
+      "description": ""
+    },
+    {
+      "apiname": "PvE06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bringing Down the Big Guns",
+      "description": "Destroy a Rocketeer."
+    },
+    {
+      "apiname": "PvE07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Breach",
+      "description": "Destroy a Bastion."
+    },
+    {
+      "apiname": "PvE08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tale for the Ages",
+      "description": "Destroy the Queen."
+    },
+    {
+      "apiname": "PvE09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blindsided",
+      "description": "Destroy a Sentinel with a Raider Tool."
+    },
+    {
+      "apiname": "PvE11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comparative Study",
+      "description": "Use 4 different weapons to deal damage in the Practice Range."
+    },
+    {
+      "apiname": "PvE12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hook, Line, and Sinker",
+      "description": "Use a Lure Grenade to make a drone attack another drone."
+    },
+    {
+      "apiname": "PvE13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechanical Failure",
+      "description": "Shoot a thruster off a Wasp."
+    },
+    {
+      "apiname": "PvP01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unyielding",
+      "description": "Knock out 10 Raiders."
+    },
+    {
+      "apiname": "PvP02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Vendetta Is Born",
+      "description": ""
+    },
+    {
+      "apiname": "PvP03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horseshoes and Hand Grenades",
+      "description": "Down an encountered Raider with a grenade."
+    },
+    {
+      "apiname": "PvP04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crossed the Threshold",
+      "description": "Knock out a Raider."
+    },
+    {
+      "apiname": "PvP05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Up Close and Personal",
+      "description": "Knock out a Raider with a Raider Tool."
+    },
+    {
+      "apiname": "PvP06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Friends We Made Along The Way",
+      "description": "Return to Speranza together with an encountered Raider."
+    },
+    {
+      "apiname": "PvP07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enemy of My Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "PvP08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart of Gold",
+      "description": "Be thanked 10 times in direct response to something you did."
+    },
+    {
+      "apiname": "Misc03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": "Visit the Practice Range."
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2483190,
+  "game": "Forza Horizon 6",
+  "total": 57,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:50.940642+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Horizon",
+      "description": "Earn the Yellow Wristband and join the Horizon Festival"
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stamping Ground",
+      "description": "Earn the Yellow Stamp for your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Getting Started",
+      "description": "Complete your first Touge event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Working 9 to 5",
+      "description": "Complete your first Job"
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Festival Fan",
+      "description": "Earn the Green Horizon Festival Wristband"
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Waves",
+      "description": "Earn the Blue Horizon Festival Wristband"
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeing the Sights",
+      "description": "Earn the Green Stamp in your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Travelling All Around",
+      "description": "Earn the Blue Stamp in your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Fine Addition To My Collection",
+      "description": "Discover and claim a Treasure Car"
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bargain Hunt",
+      "description": "Purchase an Aftermarket Car"
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another Lap Won't Hurt",
+      "description": "Set a lap time at a Time Attack Circuit"
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Tire Smoke",
+      "description": "Complete a Drag Meet"
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Four Swords",
+      "description": "Complete a LINK Skill"
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carkour!",
+      "description": "Complete a Horizon Rush course"
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blank Slate",
+      "description": "Purchase the Yashiki Player House"
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated Tourist",
+      "description": "Earn 3 Stars on any Day Trip Story Chapter"
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Love",
+      "description": "Purchase a car from the Autoshow"
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meching My Way Downtown",
+      "description": "Complete the Mech My Day Showcase Event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready to Rumble",
+      "description": "Earn 10 Levels in Horizon Play"
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smashcot",
+      "description": "Smash your first Regional Mascot"
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Board",
+      "description": "Win your first Horizon Festival Race event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What, Like It's Hard?",
+      "description": "Earn the Pink Horizon Festival Wristband"
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Orange You Glad You Made It?",
+      "description": "Earn the Orange Horizon Festival Wristband"
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Your Own Path",
+      "description": "Earn the Pink Stamp in your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hey! Listen!",
+      "description": "Earn the Orange Stamp in your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racking Up The Miles",
+      "description": "Discover all 10 Regions"
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tokyo Resident",
+      "description": "Complete 33 activities in the Tokyo City Region"
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crowd Pleaser",
+      "description": "Earn 36 Stars from PR Stunts in the Ohtani Region"
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Ghost",
+      "description": "Complete 5 Touge Races"
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Are You Doing In My Estate?",
+      "description": "Visit another player's Estate"
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Show Me What You've Got!",
+      "description": "Display 3 different cars in your Garage at the same time"
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Collect 100 different cars"
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ascending New Heights",
+      "description": "Complete the Flight Club Showcase Event"
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parking All Over The World",
+      "description": "Park at 3 different Car Meets"
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Whole New World",
+      "description": "Drive any R Class Car"
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Playing Field",
+      "description": "Complete a Race Event within a Spec Racing Championship"
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To The Moon",
+      "description": "Earn at least 1 Star at the Irokawa Launch Danger Sign"
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Eyes On You",
+      "description": "Park the 2025 GR GT Prototype at a Car Meet"
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Track Day",
+      "description": "Set a lap time at a Time Attack Circuit while driving any Track Toy"
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Played-List",
+      "description": "Earn all Playlist points for a Season"
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pin It!",
+      "description": "Discover 10 Landmarks"
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In The Spotlight",
+      "description": "Earn the Purple Horizon Festival Wristband"
+    },
+    {
+      "apiname": "ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horizon Legend",
+      "description": "Earn the Gold Horizon Festival Wristband and become a Horizon Legend"
+    },
+    {
+      "apiname": "ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What an Adventure!",
+      "description": "Earn the Purple Stamp in your Collection Journal"
+    },
+    {
+      "apiname": "ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Explorer",
+      "description": "Earn the Gold Stamp and become a Master Explorer"
+    },
+    {
+      "apiname": "ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Boss",
+      "description": "Earn the maximum Promotion in a Job"
+    },
+    {
+      "apiname": "ACHIEVEMENT_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Discover and claim 9 Treasure Cars"
+    },
+    {
+      "apiname": "ACHIEVEMENT_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Horizon Cartographer",
+      "description": "Reveal the entire Map"
+    },
+    {
+      "apiname": "ACHIEVEMENT_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feel the Rush",
+      "description": "Complete 3 Horizon Rush events"
+    },
+    {
+      "apiname": "ACHIEVEMENT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxed Out",
+      "description": "Earn 100 Levels in Horizon Play"
+    },
+    {
+      "apiname": "ACHIEVEMENT_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Historic Effort",
+      "description": "Earn a Series History Reward"
+    },
+    {
+      "apiname": "ACHIEVEMENT_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Smash 'Em All",
+      "description": "Smash 200 Regional Mascots"
+    },
+    {
+      "apiname": "ACHIEVEMENT_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Few Splinters Is Nothing!",
+      "description": "Smash 200 Bonus Boards"
+    },
+    {
+      "apiname": "ACHIEVEMENT_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Racing Aficionado",
+      "description": "Win 57 Horizon Festival Race Events"
+    },
+    {
+      "apiname": "ACHIEVEMENT_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storyteller",
+      "description": "Earn 81 Stars from Stories"
+    },
+    {
+      "apiname": "ACHIEVEMENT_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Japan",
+      "description": "Complete The Opening Act"
+    },
+    {
+      "apiname": "ACHIEVEMENT_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First of Many",
+      "description": "Complete your first Qualifier event"
+    }
+  ]
+}

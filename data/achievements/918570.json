@@ -1,0 +1,242 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 918570,
+  "game": "Century: Age of Ashes",
+  "total": 33,
+  "unlocked": 1,
+  "percent": 3.0,
+  "updated_at_utc": "2026-09-15T06:51:05.184027+00:00",
+  "achievements": [
+    {
+      "apiname": "Win10matches",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greenhorn",
+      "description": "Win 10 matches"
+    },
+    {
+      "apiname": "Win50Matches",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier",
+      "description": "Win 50 matches"
+    },
+    {
+      "apiname": "Win100Matches",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran",
+      "description": "Win 100 matches"
+    },
+    {
+      "apiname": "Make50Eliminations",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Killer",
+      "description": "Kill 50 enemies"
+    },
+    {
+      "apiname": "Make100Eliminations",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "Make200Eliminations",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Executioner",
+      "description": "Kill 200 enemies"
+    },
+    {
+      "apiname": "ReachLevel20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight",
+      "description": "Reach level 20"
+    },
+    {
+      "apiname": "ReachLevel50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earl",
+      "description": "Reach level 50"
+    },
+    {
+      "apiname": "ReachLevel100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monarch",
+      "description": "Reach level 100"
+    },
+    {
+      "apiname": "ExplodeBank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Housebreaker",
+      "description": "Make the enemy coffers explode using the Vault-Breacher"
+    },
+    {
+      "apiname": "RingBellOnLake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music-lover",
+      "description": "Find and ring the bell on Hünavatn Lake"
+    },
+    {
+      "apiname": "DoNotDie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immortal",
+      "description": "Complete a match without dying"
+    },
+    {
+      "apiname": "GrandChelem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Slam",
+      "description": "In Gates of Fire, pass all gates in one try"
+    },
+    {
+      "apiname": "Bank200Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Collector",
+      "description": "In Spoils of War, stash a single load of 200 Gold"
+    },
+    {
+      "apiname": "Bank400Gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Hoarder",
+      "description": "In Spoils of War, stash a single load of 400 Gold"
+    },
+    {
+      "apiname": "SuicideOnWall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stopped Dead",
+      "description": "Smash your dragon into a wall and die"
+    },
+    {
+      "apiname": "GetOnPodium20Times",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion",
+      "description": "Appear 20 times on the end match podium"
+    },
+    {
+      "apiname": "Make5KillsWithSpear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Skewer",
+      "description": "Kill 5 enemies with the Drakepiercer"
+    },
+    {
+      "apiname": "Hatch5Eggs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breeder",
+      "description": "Hatch 5 eggs"
+    },
+    {
+      "apiname": "StrikerWin10Times",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leave your Mark",
+      "description": "Win 10 matches as Marauder"
+    },
+    {
+      "apiname": "RogueWin10Times",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cloak and Dagger ",
+      "description": "Win 10 matches as Phantom"
+    },
+    {
+      "apiname": "WindguardWin10Times",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protect and Serve",
+      "description": "Win 10 matches as Windguard"
+    },
+    {
+      "apiname": "FinishTutorial",
+      "achieved": 1,
+      "unlocktime": 1639907912,
+      "name": "First Flight",
+      "description": "Complete the Tutorial"
+    },
+    {
+      "apiname": "BeRanked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reach for Glory",
+      "description": "Be ranked"
+    },
+    {
+      "apiname": "ConsumeMaxBounty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Public Enemy",
+      "description": "Consume a level 6 Bounty in Carnage"
+    },
+    {
+      "apiname": "WinAGameInSquad",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One For All",
+      "description": "Win a match while in a squad"
+    },
+    {
+      "apiname": "Be5TimesBerserk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unleashed",
+      "description": "Kill the Berserk Wraith 5 times in Carnage"
+    },
+    {
+      "apiname": "Make5KillsInBerserk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Murderous Wrath",
+      "description": "Kill 5 enemies while being Berserk"
+    },
+    {
+      "apiname": "Customize3EpicOrLegendary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Raiments",
+      "description": "Equip a character with 3 Epic or Legendary items"
+    },
+    {
+      "apiname": "Win5Carnage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Blood",
+      "description": "Win 5 Carnage matches"
+    },
+    {
+      "apiname": "Win5Raid",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Glory",
+      "description": "Win 5 Gates of Fire matches"
+    },
+    {
+      "apiname": "Win5Treasure",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Gold",
+      "description": "Win 5 Spoils of War matches"
+    },
+    {
+      "apiname": "BeOnWarmupScreen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Chosen One",
+      "description": "Be showcased before a match"
+    }
+  ]
+}

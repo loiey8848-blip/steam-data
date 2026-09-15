@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 962130,
+  "game": "Grounded",
+  "total": 45,
+  "unlocked": 11,
+  "percent": 24.4,
+  "updated_at_utc": "2026-09-15T06:51:06.582527+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 1,
+      "unlocktime": 1634391350,
+      "name": "BURG.L Flipper",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 1,
+      "unlocktime": 1634486628,
+      "name": "Hedge Lab",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 1,
+      "unlocktime": 1634485099,
+      "name": "Pond Lab",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 1,
+      "unlocktime": 1634391708,
+      "name": "Science Rules",
+      "description": "Purchase your first upgrade from an ASL Station"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 1,
+      "unlocktime": 1634389653,
+      "name": "Growing Pains",
+      "description": "Obtain your first Mutation"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 1,
+      "unlocktime": 1634394619,
+      "name": "Resourceful",
+      "description": "Analyze 15 resources"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 1,
+      "unlocktime": 1634390482,
+      "name": "Fine Dining",
+      "description": "Cook a bug on the Roasting Spit"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Downtown",
+      "description": "Score a basket with the Basketball Hoop from over 40 cm away"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 1,
+      "unlocktime": 1634405248,
+      "name": "Lounging Around",
+      "description": "Lounge in a Chair"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Block Buster",
+      "description": "Perform 10 perfect blocks in a row"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 1,
+      "unlocktime": 1664692908,
+      "name": "Exoskeleton",
+      "description": "Equip a matching set of Tier 2 armor"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beefing Up",
+      "description": "Craft your first Tier 3 item"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flavorful",
+      "description": "Obtain 10 new SCA.B color schemes"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Protein Shake",
+      "description": "Consume 5 Beefy memorized recipe Smoothies"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fortified",
+      "description": "Construct your first Mushroom Brick building"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 1,
+      "unlocktime": 1664721920,
+      "name": "Snoopy",
+      "description": "Discover 20 Sites on the Map"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 1,
+      "unlocktime": 1634460007,
+      "name": "Face Your Fears",
+      "description": "Kill your first Wolf Spider"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Web Master",
+      "description": "Zip across a teen made Zipline longer than 100 cm"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends in Low Places",
+      "description": "Tame a bug as a pet"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mom Genes",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sticky Hands",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Ant Hill Lab",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Yoked",
+      "description": "Infuse yourself with 20 regular Milk Molars"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrinky and the Brain",
+      "description": "Achieve level 10 Brainpower"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glob Job",
+      "description": "Upgrade a tier 3 item to the max level at the Smithing Station"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aim Small",
+      "description": "Kill a flying bug with an arrow from over 30 cm away"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underexposed",
+      "description": "Snap a picture using Photo Mode"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splinter Master",
+      "description": "Craft tier 3 arrows"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raisin Man",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tighty Whities",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin Assassin",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Best Part of Waking Up",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta Peep Them All",
+      "description": "Unlock every Creature Card"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ominent Schmominent",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mini Mix-a-lot",
+      "description": "Defend all of the MIX.Rs and Super MIX.Rs"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Big",
+      "description": "Grow big again!"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Win",
+      "description": "Grow big again and score 100% on the end game Report Card"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Muse Sting",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Dupe",
+      "description": "Duplicate an item at the Super Duper"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chillax",
+      "description": "Unwind at a base while experiencing max coziness"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creepy Crawler",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Homework!",
+      "description": "Complete BURG.L's list of Quests"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Arrangements",
+      "description": "Deal with all of the Ant Queens"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Did I Do That?",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Big Again",
+      "description": ""
+    }
+  ]
+}

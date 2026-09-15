@@ -1,0 +1,249 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1663850,
+  "game": "REPLACED",
+  "total": 34,
+  "unlocked": 34,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:17.676581+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_PROLOGUE",
+      "achieved": 1,
+      "unlocktime": 1776217400,
+      "name": "Job Burnout",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C1",
+      "achieved": 1,
+      "unlocktime": 1776220206,
+      "name": "Non-Standard Task",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C2",
+      "achieved": 1,
+      "unlocktime": 1776223810,
+      "name": "Machine Learning",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C3",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "The Lowest Low",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C4",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Brothers in Arms",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C5",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Another Brick in The Wall",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C6",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Home, Sweet Home",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C7",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "New Horizons",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C8",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Night and The City",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C9",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Lend a Hand",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_C10",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Full Circle",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SUNSHINE",
+      "achieved": 1,
+      "unlocktime": 1776222504,
+      "name": "My Only Sunshine",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BLOOD",
+      "achieved": 1,
+      "unlocktime": 1776221894,
+      "name": "Let There Be Blood",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_REUNION",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Family Reunion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GOOD_BOY",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Good Boy!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HUNTED",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Hunted",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BIGGEST_FAN",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "The Biggest Fan",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LOOKALIKE",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Look-Alike",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_OLDSCHOOL",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Old School",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SADCATS",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Sad Cats",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HERE_FOR_IT",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "We Are All Here For It",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WORLD_WE_LIVE_IN",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "This Is The World We Live In",
+      "description": "Find all collectibles."
+    },
+    {
+      "apiname": "ACH_REFLEXES",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Non-Human Reflexes",
+      "description": "Complete the game on \"Hard\" difficulty."
+    },
+    {
+      "apiname": "ACH_BODY_MACHINE",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "My Body Is a Machine",
+      "description": "Find all Health and Med-Stim upgrades."
+    },
+    {
+      "apiname": "ACH_TOP_GEAR",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Top Gear",
+      "description": "Find all Gun and Pickaxe upgrades."
+    },
+    {
+      "apiname": "ACH_CYBERNINJA",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Cyberninja",
+      "description": "Deflect 50 enemy blasts."
+    },
+    {
+      "apiname": "ACH_REFLASHED",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Reflashed",
+      "description": "Complete 3 hacking sequences without mistakes."
+    },
+    {
+      "apiname": "ACH_FIRSTLAW",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Breaking The First Law",
+      "description": "Perform 50 finishers on enemies."
+    },
+    {
+      "apiname": "ACH_ANGER",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Anger Management",
+      "description": "Use Overdrive 10 times."
+    },
+    {
+      "apiname": "ACH_NOT_W_GUN",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Not with a Gun, but with Heart",
+      "description": "Perform 300 Gun blasts."
+    },
+    {
+      "apiname": "ACH_CHIP_DAMAGE",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Chip Damage",
+      "description": "Finish off 10 enemies with a Pickaxe."
+    },
+    {
+      "apiname": "ACH_BATCH_PROCESSING",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Batch Processing",
+      "description": "Hit 30 enemies with Shockwave."
+    },
+    {
+      "apiname": "ACH_WORTH",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Worth The Wait!",
+      "description": "Get every achievement."
+    },
+    {
+      "apiname": "ACH_MUSIC",
+      "achieved": 1,
+      "unlocktime": 1776249368,
+      "name": "Music Sounds Better with You",
+      "description": "Discover all music tracks."
+    }
+  ]
+}

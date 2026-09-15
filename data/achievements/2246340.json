@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2246340,
+  "game": "Monster Hunter Wilds",
+  "total": 50,
+  "unlocked": 47,
+  "percent": 94.0,
+  "updated_at_utc": "2026-09-15T06:52:44.056319+00:00",
+  "achievements": [
+    {
+      "apiname": "MEDAL_000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eastward Wings",
+      "description": "Obtained all other awards."
+    },
+    {
+      "apiname": "MEDAL_001",
+      "achieved": 1,
+      "unlocktime": 1740725859,
+      "name": "Windward Lands",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_002",
+      "achieved": 1,
+      "unlocktime": 1740802399,
+      "name": "Shadow in the Downpour",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_003",
+      "achieved": 1,
+      "unlocktime": 1740814279,
+      "name": "Guardians of the Forge",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_004",
+      "achieved": 1,
+      "unlocktime": 1740847627,
+      "name": "Bringer of Harmony",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_005",
+      "achieved": 1,
+      "unlocktime": 1740849733,
+      "name": "New Ecosystems",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_006",
+      "achieved": 1,
+      "unlocktime": 1740857017,
+      "name": "A Bitter Environment",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_007",
+      "achieved": 1,
+      "unlocktime": 1740898060,
+      "name": "Beyond the Black Wings",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_008",
+      "achieved": 1,
+      "unlocktime": 1740903171,
+      "name": "One Corner of the World",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_009",
+      "achieved": 1,
+      "unlocktime": 1740863363,
+      "name": "A True Hunter Is Never Satisfied",
+      "description": "Completed 50 quests."
+    },
+    {
+      "apiname": "MEDAL_010",
+      "achieved": 1,
+      "unlocktime": 1740859336,
+      "name": "Let the Investigations Begin!",
+      "description": "Completed your first investigation."
+    },
+    {
+      "apiname": "MEDAL_011",
+      "achieved": 1,
+      "unlocktime": 1740745985,
+      "name": "The Hunt Is On!",
+      "description": "Completed your first Field Survey."
+    },
+    {
+      "apiname": "MEDAL_012",
+      "achieved": 1,
+      "unlocktime": 1740850752,
+      "name": "A Step Toward Mutual Understanding",
+      "description": "Completed your first side mission."
+    },
+    {
+      "apiname": "MEDAL_013",
+      "achieved": 1,
+      "unlocktime": 1772696486,
+      "name": "East to West, A Hunter Never Rests",
+      "description": "Completed 30 different side missions."
+    },
+    {
+      "apiname": "MEDAL_014",
+      "achieved": 1,
+      "unlocktime": 1740852971,
+      "name": "Angling for a Bite",
+      "description": "Successfully fished for the first time."
+    },
+    {
+      "apiname": "MEDAL_015",
+      "achieved": 1,
+      "unlocktime": 1740896224,
+      "name": "Mmm, So Tasty!",
+      "description": "Successfully cooked a well-done steak for the first time."
+    },
+    {
+      "apiname": "MEDAL_016",
+      "achieved": 1,
+      "unlocktime": 1740818669,
+      "name": "Was It a Meal to Remember?",
+      "description": "Cooked over the BBQ Grill for the first time."
+    },
+    {
+      "apiname": "MEDAL_017",
+      "achieved": 1,
+      "unlocktime": 1740743078,
+      "name": "The Bigger They Are...",
+      "description": "Successfully mounted a monster for the first time."
+    },
+    {
+      "apiname": "MEDAL_018",
+      "achieved": 1,
+      "unlocktime": 1740856470,
+      "name": "Hunter-Assassin",
+      "description": "Performed your first successful Sneak Attack."
+    },
+    {
+      "apiname": "MEDAL_019",
+      "achieved": 1,
+      "unlocktime": 1740859336,
+      "name": "Hit 'Em Where It Hurts!",
+      "description": "Landed 50 successful attacks on weak points or wounds in Focus Mode."
+    },
+    {
+      "apiname": "MEDAL_020",
+      "achieved": 1,
+      "unlocktime": 1772892213,
+      "name": "A Prize Held High",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_021",
+      "achieved": 1,
+      "unlocktime": 1772900083,
+      "name": "I Caught a Shooting Star!",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_022",
+      "achieved": 1,
+      "unlocktime": 1772968978,
+      "name": "Monster (Squid) Hunter",
+      "description": "Caught a giant squid while fishing."
+    },
+    {
+      "apiname": "MEDAL_023",
+      "achieved": 1,
+      "unlocktime": 1772976046,
+      "name": "A-fish-ionado",
+      "description": "Reeled in 30 whoppers while fishing."
+    },
+    {
+      "apiname": "MEDAL_024",
+      "achieved": 1,
+      "unlocktime": 1740817591,
+      "name": "Campmaster",
+      "description": "Established Pop-up Camps in 10 places."
+    },
+    {
+      "apiname": "MEDAL_025",
+      "achieved": 1,
+      "unlocktime": 1740796301,
+      "name": "Glamper",
+      "description": "Customized a Pop-up Camp for the first time."
+    },
+    {
+      "apiname": "MEDAL_026",
+      "achieved": 1,
+      "unlocktime": 1772696699,
+      "name": "A Keen-eyed Observation",
+      "description": "Used the binoculars to spot a gold-crown large monster."
+    },
+    {
+      "apiname": "MEDAL_027",
+      "achieved": 1,
+      "unlocktime": 1740851948,
+      "name": "Ride-or-die Companion",
+      "description": "Customized your Seikret or changed its decorations for the first time."
+    },
+    {
+      "apiname": "MEDAL_028",
+      "achieved": 1,
+      "unlocktime": 1759241103,
+      "name": "Established Hunter",
+      "description": "Reached Hunter Rank 100."
+    },
+    {
+      "apiname": "MEDAL_029",
+      "achieved": 1,
+      "unlocktime": 1741666761,
+      "name": "Impregnable Defense",
+      "description": "Forged five different pieces of armor with Rarity 7 or higher."
+    },
+    {
+      "apiname": "MEDAL_030",
+      "achieved": 1,
+      "unlocktime": 1759073090,
+      "name": "Power Is Everything",
+      "description": "Forged five different weapons with Rarity 7 or higher."
+    },
+    {
+      "apiname": "MEDAL_031",
+      "achieved": 1,
+      "unlocktime": 1772695550,
+      "name": "Someone Worth Following",
+      "description": "Completed 100 quests with your Palico deployed."
+    },
+    {
+      "apiname": "MEDAL_032",
+      "achieved": 1,
+      "unlocktime": 1741755771,
+      "name": "A Legacy Restored",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_033",
+      "achieved": 1,
+      "unlocktime": 1765901996,
+      "name": "Bourgeois Hunter",
+      "description": "Possessed 1,000,000 zenny."
+    },
+    {
+      "apiname": "MEDAL_034",
+      "achieved": 1,
+      "unlocktime": 1772898776,
+      "name": "Explorer of the Eastlands",
+      "description": "Obtained 10 different special items of Rarity 6."
+    },
+    {
+      "apiname": "MEDAL_035",
+      "achieved": 1,
+      "unlocktime": 1740905480,
+      "name": "Monster Ph.D.",
+      "description": "Hunted many different large monsters."
+    },
+    {
+      "apiname": "MEDAL_036",
+      "achieved": 1,
+      "unlocktime": 1759072562,
+      "name": "Seasoned Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_037",
+      "achieved": 1,
+      "unlocktime": 1740859532,
+      "name": "Miniature Crown",
+      "description": "Obtained your first miniature crown in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_038",
+      "achieved": 1,
+      "unlocktime": 1773284973,
+      "name": "Miniature Crown Collector",
+      "description": "Obtained a miniature crown for 10 or more monsters in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miniature Crown Master",
+      "description": "Obtained a miniature crown for many monsters in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_040",
+      "achieved": 1,
+      "unlocktime": 1740801445,
+      "name": "Giant Crown",
+      "description": "Obtained your first silver crown or higher in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_041",
+      "achieved": 1,
+      "unlocktime": 1772735853,
+      "name": "Giant Crown Collector",
+      "description": "Obtained a gold crown for 10 or more monsters in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giant Crown Master",
+      "description": "Obtained a gold crown for many monsters in the Hunting Log."
+    },
+    {
+      "apiname": "MEDAL_043",
+      "achieved": 1,
+      "unlocktime": 1759259659,
+      "name": "Capture Pro",
+      "description": "Captured 50 monsters."
+    },
+    {
+      "apiname": "MEDAL_044",
+      "achieved": 1,
+      "unlocktime": 1740997492,
+      "name": "Monster Slayer",
+      "description": "Hunted 100 large monsters."
+    },
+    {
+      "apiname": "MEDAL_045",
+      "achieved": 1,
+      "unlocktime": 1772869365,
+      "name": "Top of the Food Chain",
+      "description": ""
+    },
+    {
+      "apiname": "MEDAL_046",
+      "achieved": 1,
+      "unlocktime": 1740746659,
+      "name": "Hunters United",
+      "description": "Completed a quest via multiplayer."
+    },
+    {
+      "apiname": "MEDAL_047",
+      "achieved": 1,
+      "unlocktime": 1758986542,
+      "name": "Hunters United Forever",
+      "description": "Completed 100 quests via multiplayer."
+    },
+    {
+      "apiname": "MEDAL_048",
+      "achieved": 1,
+      "unlocktime": 1766929853,
+      "name": "Gossip Hunter",
+      "description": "Viewed 30 different Hunter Profiles."
+    },
+    {
+      "apiname": "MEDAL_049",
+      "achieved": 1,
+      "unlocktime": 1766928922,
+      "name": "Newly Forged Bonds",
+      "description": "Followed someone for the first time."
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2195120,
+  "game": "Go-Go Town!",
+  "total": 56,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:43.305608+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's not a Bug, it's a Feature",
+      "description": "Find and drive a Pill Bug"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't leave me Hanging",
+      "description": "High Five 30 times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chicken Dance",
+      "description": "High Five 10 Chickens"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock On",
+      "description": "Win 10 Games of Rock, Paper, Scissors "
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Driver's Ed",
+      "description": "Run over 100 People"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 1 Tech Tree",
+      "description": "Unlock Tier 1 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 2 Tech Tree",
+      "description": "Unlock Tier 2 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 3 Tech Tree",
+      "description": "Unlock Tier 3 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 4 Tech Tree",
+      "description": "Unlock Tier 4 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 5 Tech Tree",
+      "description": "Unlock Tier 5 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 6 Tech Tree",
+      "description": "Unlock Tier 6 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 7 Tech Tree",
+      "description": "Unlock Tier 7 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 8 Tech Tree",
+      "description": "Unlock Tier 8 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tier 9 Tech Tree",
+      "description": "Unlock Tier 9 Tech Tree"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living on a Prayer",
+      "description": "Get half way up the Town Ranking"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's so lonely up here",
+      "description": "Reach the top of the Town Ranking"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If you Build it, they will Come",
+      "description": "Get 30 people to join the Town"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Max Planks",
+      "description": "Chainsaw down 200 Trees"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hi Bob",
+      "description": "Build 100 Building / Decorations"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Live My Life a Quarter Mile at a Time",
+      "description": "Drive for a Certain Distance"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I don't have a License",
+      "description": "Drift for 30 Seconds"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish and Chips",
+      "description": "Catch 50 Fish, Grow 50 Potatoes"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking out the Trash",
+      "description": "Drop off 150 Items to the Garbage Disposal"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He's actually a Nice Guy when you get to know Him",
+      "description": "Get Grumbo to join the town"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ego Boost",
+      "description": "Achieve 10,000 EGO"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Comfortably Well-Off",
+      "description": "Obtain 50,000 Coins"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanna see my new Chainsaw?",
+      "description": "Scare 100 NPCs"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Eat It",
+      "description": "Eat 10 items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crowd (Dis)pleaser",
+      "description": "Anger 100 people"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ticket to Ride",
+      "description": "Enter 4 different subway lines"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Landmarking",
+      "description": "Build 3 different large points of interest"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out-of-Towners",
+      "description": "Build 5 different special tourist spawners"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavy Industry",
+      "description": "Build 2 Factories"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bin Juice",
+      "description": "Shoo 15 Garbirds"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Fabricator",
+      "description": "Produce 50 Tier-3 materials"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moving Mountains",
+      "description": "Remove 99 cliff tiles"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fifty Shades",
+      "description": "Paint 50 objects"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Sweet Home",
+      "description": "Enter the Player House"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interior Decorator",
+      "description": "Place 67 doodads"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shotgun!",
+      "description": "Ride as a passenger on any vehicle"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Birthday to the ground!",
+      "description": "Throw 20 items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joyride",
+      "description": "Discover 15 unique vehicles"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ka-Ching!",
+      "description": "Consume 150 items in the Coin O' Matic Pod"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What's in the box?",
+      "description": "Enter the Town Co. Bunker door"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Horse Girl",
+      "description": "Import 7 horses"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch of the day",
+      "description": "Catch a Large Legendary Fish"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm doing my part",
+      "description": "Catch a Large Legendary Bug"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The possibilities...are limitless",
+      "description": "Discover Tiber River Crystal"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It belongs in a museum",
+      "description": "Fill 10 Treasure Displays"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A-Maze-ing",
+      "description": "Collect the loot at the center of the maze"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time Sink",
+      "description": "Find the Sink Backpack"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disco Inferno",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swish",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Garbage Guts",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch, Please",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taste the Rainbow",
+      "description": ""
+    }
+  ]
+}

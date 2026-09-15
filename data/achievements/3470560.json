@@ -1,0 +1,137 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3470560,
+  "game": "Millennium Dream",
+  "total": 18,
+  "unlocked": 18,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:30.927065+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_TakeCamera",
+      "achieved": 1,
+      "unlocktime": 1771240233,
+      "name": "茄子—咔嚓！",
+      "description": "笑一个吧..."
+    },
+    {
+      "apiname": "ACHIEVEMENT_TakeMusicPlayer",
+      "achieved": 1,
+      "unlocktime": 1771239401,
+      "name": "把歌装进口袋",
+      "description": "能不能给我一首歌的时间"
+    },
+    {
+      "apiname": "ACHIEVEMENT_Backrooms",
+      "achieved": 1,
+      "unlocktime": 1771240501,
+      "name": "切入",
+      "description": "这里不是家"
+    },
+    {
+      "apiname": "ACHIEVEMENT_AOE",
+      "achieved": 1,
+      "unlocktime": 1771239902,
+      "name": "伐伐伐伐伐木工",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_ByeGrandpa",
+      "achieved": 1,
+      "unlocktime": 1771239065,
+      "name": "都忙，忙，忙点好啊",
+      "description": "外公外婆再见..."
+    },
+    {
+      "apiname": "ACHIEVEMENT_JYEN",
+      "achieved": 1,
+      "unlocktime": 1771239372,
+      "name": "你的童年我的童年",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_Hybrid",
+      "achieved": 1,
+      "unlocktime": 1771239270,
+      "name": "我滴家在东北",
+      "description": "这澡堂子，怪喜庆的"
+    },
+    {
+      "apiname": "ACHIEVEMENT_HiGrandma",
+      "achieved": 1,
+      "unlocktime": 1771239420,
+      "name": "奶奶的院子",
+      "description": "这里似乎连时间也慢下来了"
+    },
+    {
+      "apiname": "ACHIEVEMENT_LoveLetterOne",
+      "achieved": 1,
+      "unlocktime": 1771239543,
+      "name": "情窦初开",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LoveLetterTwo",
+      "achieved": 1,
+      "unlocktime": 1771239662,
+      "name": "情窦又开",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_LoveLetterThree",
+      "achieved": 1,
+      "unlocktime": 1771239722,
+      "name": "情窦三开",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_Graduate",
+      "achieved": 1,
+      "unlocktime": 1771240132,
+      "name": "宝剑锋从磨砺出",
+      "description": "梅花香自苦寒来"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FA",
+      "achieved": 1,
+      "unlocktime": 1771240444,
+      "name": "未来已来",
+      "description": "被许诺的未来"
+    },
+    {
+      "apiname": "ACHIEVEMENT_End",
+      "achieved": 1,
+      "unlocktime": 1771238902,
+      "name": "梦醒时分",
+      "description": "终究是大梦一场"
+    },
+    {
+      "apiname": "ACHIEVEMENT_Weather",
+      "achieved": 1,
+      "unlocktime": 1771241057,
+      "name": "天气掌控者",
+      "description": "收集到所有的天气调节器"
+    },
+    {
+      "apiname": "ACHIEVEMENT_Time",
+      "achieved": 1,
+      "unlocktime": 1771240769,
+      "name": "时间掌控者",
+      "description": "收集到所有的时间调节器"
+    },
+    {
+      "apiname": "ACHIEVEMENT_Film",
+      "achieved": 1,
+      "unlocktime": 1771240212,
+      "name": "胶片摄影大师",
+      "description": "收集到所有的胶片"
+    },
+    {
+      "apiname": "ACHIEVEMENT_Farm",
+      "achieved": 1,
+      "unlocktime": 1771239964,
+      "name": "诶？我菜呢？",
+      "description": ""
+    }
+  ]
+}

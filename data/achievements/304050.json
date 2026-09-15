@@ -1,0 +1,144 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 304050,
+  "game": "Trove",
+  "total": 19,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:12.140650+00:00",
+  "achievements": [
+    {
+      "apiname": "UnleashTheHydrakken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unleash the Hydrakken!",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Normal Difficulty"
+    },
+    {
+      "apiname": "VanqishTheHydrakken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vanquish the Hydrakken! ",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Hard Difficulty"
+    },
+    {
+      "apiname": "BurninateTheHydrakken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burninate the Hydrakken!",
+      "description": "Enter the Shadow Tower and defeat the Shadow Hydrakken on Ultra Difficulty"
+    },
+    {
+      "apiname": "TheDoctorIsIn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Doctor is In!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Normal Difficulty"
+    },
+    {
+      "apiname": "ThePrescriptionIsPain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Prescription is Pain!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Hard Difficulty"
+    },
+    {
+      "apiname": "ATrovianADay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Trovian a Day!",
+      "description": "Enter the Shadow Tower and defeat the Darknik Dreadnought on Ultra Difficulty"
+    },
+    {
+      "apiname": "StaySubclassy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay Subclassy!",
+      "description": "Select a Subclass"
+    },
+    {
+      "apiname": "TheGemForger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gem Forger",
+      "description": "Using the gem forge, upgrade a Stellar Gem stat to max "
+    },
+    {
+      "apiname": "ABuildersFocus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Builder's Focus",
+      "description": "Using the gem forge, upgrade all of the stats on a Stellar Gem to max "
+    },
+    {
+      "apiname": "Perfection",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfection!",
+      "description": "Using the gem forge, upgrade all of the stats on nine Stellar Gems to max"
+    },
+    {
+      "apiname": "TheNextStep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Next Step",
+      "description": "Achieve Geode Mastery 20"
+    },
+    {
+      "apiname": "FurtherHeights",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Further Heights",
+      "description": "Achieve Geode Mastery 100"
+    },
+    {
+      "apiname": "StartingSpelunker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starting Spelunker",
+      "description": "Get your first GAS module upgrade"
+    },
+    {
+      "apiname": "SuperSpelunker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Spelunker",
+      "description": "Fully upgrade your GAS Module"
+    },
+    {
+      "apiname": "TopBomber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Bomber",
+      "description": "Win your first Bomber Royale match"
+    },
+    {
+      "apiname": "BeaucoupBombs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beaucoup Bombs",
+      "description": "Throw 5000 bombs in Bomber Royale"
+    },
+    {
+      "apiname": "PlantsBestFriend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plant's Best Friend",
+      "description": "Water 1,000 plants."
+    },
+    {
+      "apiname": "ReapWhatYouSow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reap what you Sow",
+      "description": "Harvest from 50 plants."
+    },
+    {
+      "apiname": "ReduceReuseRecompost",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reduce, Reuse, Recompost",
+      "description": "Compost 10,000 items at the Compost Bin."
+    }
+  ]
+}

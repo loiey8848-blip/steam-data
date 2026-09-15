@@ -1,0 +1,403 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2384580,
+  "game": "DYNASTY WARRIORS: ORIGINS",
+  "total": 56,
+  "unlocked": 56,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:48.636007+00:00",
+  "achievements": [
+    {
+      "apiname": "eTROPHY_PLATINUM",
+      "achieved": 1,
+      "unlocktime": 1771646948,
+      "name": "True Warrior of the Three Kingdoms",
+      "description": "Unlocked all achievements in the game."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_1ST_BATTLE",
+      "achieved": 1,
+      "unlocktime": 1770776367,
+      "name": "The First Battle",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_1ST_CHAPTER",
+      "achieved": 1,
+      "unlocktime": 1770868600,
+      "name": "Suppressing the Yellow Turbans",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_2ND_CHAPTER",
+      "achieved": 1,
+      "unlocktime": 1770903582,
+      "name": "Bringing Down Dong Zhuo",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_3RD_CHAPTER",
+      "achieved": 1,
+      "unlocktime": 1771050286,
+      "name": "The Struggle for Supremacy",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_4TH_CHAPTER",
+      "achieved": 1,
+      "unlocktime": 1771101176,
+      "name": "To Each Their Own Path",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_SOUSOU",
+      "achieved": 1,
+      "unlocktime": 1771437423,
+      "name": "The Path to Power",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_SOUSOU_TRUE",
+      "achieved": 1,
+      "unlocktime": 1771606019,
+      "name": "The True Path to Power",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_SONGO",
+      "achieved": 1,
+      "unlocktime": 1771489168,
+      "name": "The Future of Wu",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_SONGO_TRUE",
+      "achieved": 1,
+      "unlocktime": 1771644941,
+      "name": "The True Future of Wu",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_RYUBI",
+      "achieved": 1,
+      "unlocktime": 1771172503,
+      "name": "A Just World",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_5TH_RYUBI_TRUE",
+      "achieved": 1,
+      "unlocktime": 1771635272,
+      "name": "A Truly Just World",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_PEACE_INDEX_MAX",
+      "achieved": 1,
+      "unlocktime": 1771043926,
+      "name": "Guardian of Peace",
+      "description": "Completely restored peace to every region."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_MISSIONS",
+      "achieved": 1,
+      "unlocktime": 1771646948,
+      "name": "Supreme Competence",
+      "description": "Completed all missions."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_REQUESTS",
+      "achieved": 1,
+      "unlocktime": 1771645723,
+      "name": "Loyal Ally",
+      "description": "Completed all requests."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_TRANINGS",
+      "achieved": 1,
+      "unlocktime": 1771582778,
+      "name": "Avid Learner",
+      "description": "Completed all training."
+    },
+    {
+      "apiname": "eTROPHY_UNLOCK_ALL_ROAD_SHRINES",
+      "achieved": 1,
+      "unlocktime": 1771050760,
+      "name": "Traveler",
+      "description": "Unlocked all waymarks."
+    },
+    {
+      "apiname": "eTROPHY_UNLOCK_MUSOU_UNLEASH",
+      "achieved": 1,
+      "unlocktime": 1771161247,
+      "name": "Peerless Warrior",
+      "description": "Acquired a Musou Rage."
+    },
+    {
+      "apiname": "eTROPHY_OPEN_ALL_SKILL_PANEL",
+      "achieved": 1,
+      "unlocktime": 1771175282,
+      "name": "The Pinnacle of Prowess",
+      "description": "Acquired all skills from the skill panels between Knight-Errant Rank and Musou Rank."
+    },
+    {
+      "apiname": "eTROPHY_COLLECT_100_GEMS",
+      "achieved": 1,
+      "unlocktime": 1770887901,
+      "name": "Pyroxene Hunter",
+      "description": "Collected 100 pyroxene."
+    },
+    {
+      "apiname": "eTROPHY_COMBINE_WEAPON",
+      "achieved": 1,
+      "unlocktime": 1771173279,
+      "name": "Weaponsmith",
+      "description": "Reforged the traits of a weapon."
+    },
+    {
+      "apiname": "eTROPHY_ENHANCE_ONE_WEAPON_MAX",
+      "achieved": 1,
+      "unlocktime": 1771206629,
+      "name": "Deadly Perfection",
+      "description": "Fully upgraded a weapon."
+    },
+    {
+      "apiname": "eTROPHY_GET_ALL_WEAPONS",
+      "achieved": 1,
+      "unlocktime": 1771582778,
+      "name": "Abundant Armory",
+      "description": "Obtained all weapons."
+    },
+    {
+      "apiname": "eTROPHY_GET_ALL_ACCESSORIES",
+      "achieved": 1,
+      "unlocktime": 1771646948,
+      "name": "Accessory Addict",
+      "description": "Obtained all accessories."
+    },
+    {
+      "apiname": "eTROPHY_GET_ALL_HORSES",
+      "achieved": 1,
+      "unlocktime": 1771574688,
+      "name": "Eminent Equestrian",
+      "description": "Obtained all horses."
+    },
+    {
+      "apiname": "eTROPHY_CORPS_OVER_30_PEOPLE",
+      "achieved": 1,
+      "unlocktime": 1771123968,
+      "name": "Officer of Renown",
+      "description": "Led a unit of 30 or more soldiers."
+    },
+    {
+      "apiname": "eTROPHY_BOND_LEVEL_MAX_1_PERSON",
+      "achieved": 1,
+      "unlocktime": 1770887649,
+      "name": "Unbreakable Bond",
+      "description": "Reached the maximum Bond Lv. with an officer."
+    },
+    {
+      "apiname": "eTROPHY_BOND_LEVEL_MAX_EVERYONE",
+      "achieved": 1,
+      "unlocktime": 1771645968,
+      "name": "Spirit of Camaraderie",
+      "description": "Reached the maximum Bond Lv. with all officers."
+    },
+    {
+      "apiname": "eTROPHY_RELEASE_ALL_CATALOG",
+      "achieved": 1,
+      "unlocktime": 1771646396,
+      "name": "Living Well of Knowledge",
+      "description": "Unlocked all stories and records."
+    },
+    {
+      "apiname": "eTROPHY_DEFEAT_200000_ENEMIES",
+      "achieved": 1,
+      "unlocktime": 1771585309,
+      "name": "Unrivaled",
+      "description": "Defeated 200,000 enemies."
+    },
+    {
+      "apiname": "eTROPHY_DEFEAT_1000_ENEMIES_IN_ONE_BATTLE",
+      "achieved": 1,
+      "unlocktime": 1770863863,
+      "name": "Army of One",
+      "description": "Defeated 1,000 enemies in a single battle."
+    },
+    {
+      "apiname": "eTROPHY_WIN_SUDDENBATTLE_30_TIMES",
+      "achieved": 1,
+      "unlocktime": 1770887649,
+      "name": "Fighting for Peace",
+      "description": "Won 30 skirmishes."
+    },
+    {
+      "apiname": "eTROPHY_SINGLE_COMBAT_WIN_10_TIMES",
+      "achieved": 1,
+      "unlocktime": 1771095741,
+      "name": "Killing Blow",
+      "description": "Won 10 duels."
+    },
+    {
+      "apiname": "eTROPHY_RESCUE_GENERAL_FROM_DEATH",
+      "achieved": 1,
+      "unlocktime": 1771605427,
+      "name": "Defying Fate",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_DEFEAT_RYOFU_IN_KOROUKAN",
+      "achieved": 1,
+      "unlocktime": 1770902414,
+      "name": "The Strongest",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_MASTER_ARTS",
+      "achieved": 1,
+      "unlocktime": 1770866812,
+      "name": "Battle Art Mastery",
+      "description": "Mastered a battle art."
+    },
+    {
+      "apiname": "eTROPHY_USE_ALL_ARTS",
+      "achieved": 1,
+      "unlocktime": 1771645911,
+      "name": "Versatile Warrior",
+      "description": "Used every battle art."
+    },
+    {
+      "apiname": "eTROPHY_ACTIVATE_SKILL_EFFECTIVE",
+      "achieved": 1,
+      "unlocktime": 1770901967,
+      "name": "Clever Tactician",
+      "description": "Attained dramatic success with a tactic."
+    },
+    {
+      "apiname": "eTROPHY_USE_10_TACTICS",
+      "achieved": 1,
+      "unlocktime": 1771200779,
+      "name": "Masterful Tactician",
+      "description": "Used 10 different tactics."
+    },
+    {
+      "apiname": "eTROPHY_RESCUE_50_GENERALS",
+      "achieved": 1,
+      "unlocktime": 1770901033,
+      "name": "A Helping Hand",
+      "description": "Rescued an officer 50 times."
+    },
+    {
+      "apiname": "eTROPHY_REQUEST_ACTION_10_TIMES",
+      "achieved": 1,
+      "unlocktime": 1770953479,
+      "name": "In Unison",
+      "description": "Executed 10 Battle Art Chains."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_BATTLE_9_WEAPON_TYPES",
+      "achieved": 1,
+      "unlocktime": 1771051011,
+      "name": "Weapons Master",
+      "description": "Won a battle with 9 different types of weapon."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_BATTLE_WITH_9_GENERAL",
+      "achieved": 1,
+      "unlocktime": 1771389994,
+      "name": "Capable Companions",
+      "description": "Won battles with 9 different companions."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_DIFFICULTY_VERY_HARD",
+      "achieved": 1,
+      "unlocktime": 1771173906,
+      "name": "The Ultimate Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_DLC_SCENARIO",
+      "achieved": 1,
+      "unlocktime": 1771590854,
+      "name": "Visions of Four Heroes",
+      "description": "Completed the Visions of Four Heroes story."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_1ST_DLC_BATTLE",
+      "achieved": 1,
+      "unlocktime": 1771510814,
+      "name": "The Vision Begins",
+      "description": "You saved Zhang Jiao."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_CHOUKAKU",
+      "achieved": 1,
+      "unlocktime": 1771558720,
+      "name": "Distant Dream",
+      "description": "Completed Zhang Jiao's story."
+    },
+    {
+      "apiname": "eTROPHY_RELEASE_ALL_DLC_CATALOG",
+      "achieved": 1,
+      "unlocktime": 1771659167,
+      "name": "Living Well of Visions",
+      "description": "Unlocked all stories and records in the World of Visions."
+    },
+    {
+      "apiname": "eTROPHY_OPEN_ALL_DLC_SKILL_PANEL",
+      "achieved": 1,
+      "unlocktime": 1771592901,
+      "name": "Transcendence",
+      "description": "Acquired all skills from the skill panels in the Vision Rank."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_TRAINING_BATTLE",
+      "achieved": 1,
+      "unlocktime": 1771592789,
+      "name": "Master of the Training Ground",
+      "description": "Won every training ground battle."
+    },
+    {
+      "apiname": "eTROPHY_USE_ALL_DLC_ARTS",
+      "achieved": 1,
+      "unlocktime": 1771656092,
+      "name": "Vision's Zenith",
+      "description": "Used every World of Visions Battle Art."
+    },
+    {
+      "apiname": "eTROPHY_CLEAR_ALL_DLC_TRANINGS",
+      "achieved": 1,
+      "unlocktime": 1771654303,
+      "name": "In Pursuit of Perfection",
+      "description": "Completed all training in the World of Visions."
+    },
+    {
+      "apiname": "eTROPHY_GET_ALL_DLC_ACCESSORIES",
+      "achieved": 1,
+      "unlocktime": 1771654303,
+      "name": "Vision Collection",
+      "description": "Obtained all Visions World accessories."
+    },
+    {
+      "apiname": "eTROPHY_DEFEAT_BY_STRATEGY_TEAM_SKILL",
+      "achieved": 1,
+      "unlocktime": 1771586368,
+      "name": "Seasoned Strategist",
+      "description": "Defeated an enemy unit with a Unit Action."
+    },
+    {
+      "apiname": "eTROPHY_DEFEAT_1000_ENEMIES_BY_SECRET_PLAN",
+      "achieved": 1,
+      "unlocktime": 1771654303,
+      "name": "Tactical Savant",
+      "description": "Defeated 1,000 enemies with Secret Tactics."
+    },
+    {
+      "apiname": "eTROPHY_USE_ALL_DLC_SECRET_PLAN",
+      "achieved": 1,
+      "unlocktime": 1771655053,
+      "name": "Secret Repertoire",
+      "description": "Activated every Secret Tactic."
+    }
+  ]
+}

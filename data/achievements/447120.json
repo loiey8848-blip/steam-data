@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 447120,
+  "game": "Where the Water Tastes Like Wine",
+  "total": 38,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:49.995787+00:00",
+  "achievements": [
+    {
+      "apiname": "WhereTheWaterTastesLikeWine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where the Water Tastes Like Wine",
+      "description": "Found the place where the water tastes like wine."
+    },
+    {
+      "apiname": "MetAlthea",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blues Singer",
+      "description": "Met Althea, the blues singer."
+    },
+    {
+      "apiname": "MetAugust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sailor",
+      "description": "Met August, the sailor."
+    },
+    {
+      "apiname": "MetBertha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dustbowl Refugee",
+      "description": "Met Bertha, the dustbowl refugee"
+    },
+    {
+      "apiname": "MetCassady",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Beat Poet",
+      "description": "Met Cassady, the beat poet."
+    },
+    {
+      "apiname": "MetDehaaya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One Who Went Upward",
+      "description": "Met Dehaaya, the one who went upward."
+    },
+    {
+      "apiname": "MetDevilTwice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of Mine",
+      "description": "Encountered the Devil twice."
+    },
+    {
+      "apiname": "MetDupree",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gambler",
+      "description": "Met Dupree, the gambler."
+    },
+    {
+      "apiname": "MetFidelina",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Curandera",
+      "description": "Met Fidelina, the curandera."
+    },
+    {
+      "apiname": "MetFranklin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pullman Porter",
+      "description": "Met Franklin, the Pullman porter."
+    },
+    {
+      "apiname": "MetJimmy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Preacher",
+      "description": "Met Jimmy, the preacher."
+    },
+    {
+      "apiname": "MetLittleBen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Coal Miner",
+      "description": "Met Little Ben, the coal miner."
+    },
+    {
+      "apiname": "MetMason",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Great War Veteran",
+      "description": "Met Mason, the Great War veteran."
+    },
+    {
+      "apiname": "MetQuinn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hobo Kid",
+      "description": "Met Quinn, the hobo kid."
+    },
+    {
+      "apiname": "MetRay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cowboy",
+      "description": "Met Ray, the cowboy."
+    },
+    {
+      "apiname": "MetRocio",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Migrant Worker",
+      "description": "Met Rocio, the migrant worker."
+    },
+    {
+      "apiname": "MetRose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hippie",
+      "description": "Met Rose, the hippie."
+    },
+    {
+      "apiname": "MetShaw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sharecropper",
+      "description": "Met Shaw, the sharecropper."
+    },
+    {
+      "apiname": "Route66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got Your Kicks",
+      "description": "Hitchhiked along Route 66."
+    },
+    {
+      "apiname": "Whippoorwill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whip-poor-will",
+      "description": "Found the three whippoorwills."
+    },
+    {
+      "apiname": "Circus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carnivale",
+      "description": "Completed the Runciter's Circus vignette sequence."
+    },
+    {
+      "apiname": "CompletedAlthea",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Althea",
+      "description": "Completed Althea's story."
+    },
+    {
+      "apiname": "CompletedAugust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "August",
+      "description": "Completed August's story."
+    },
+    {
+      "apiname": "CompletedBertha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bertha",
+      "description": "Completed Bertha's story."
+    },
+    {
+      "apiname": "CompletedCassady",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cassady",
+      "description": "Completed Cassady's story."
+    },
+    {
+      "apiname": "CompletedDehaaya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dehaaya",
+      "description": "Completed Dehaaya's story."
+    },
+    {
+      "apiname": "CompletedDupree",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dupree",
+      "description": "Completed Dupree's story."
+    },
+    {
+      "apiname": "CompletedFidelina",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fidelina",
+      "description": "Completed Fidelina's story."
+    },
+    {
+      "apiname": "CompletedFranklin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Franklin",
+      "description": "Completed Franklin's story."
+    },
+    {
+      "apiname": "CompletedJimmy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jimmy",
+      "description": "Completed Jimmy's story."
+    },
+    {
+      "apiname": "CompletedLittleBen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Ben",
+      "description": "Completed Little Ben's story."
+    },
+    {
+      "apiname": "CompletedMason",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mason",
+      "description": "Completed Mason's story."
+    },
+    {
+      "apiname": "CompletedQuinn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quinn",
+      "description": "Completed Quinn's story."
+    },
+    {
+      "apiname": "CompletedRay",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ray",
+      "description": "Completed Ray's story."
+    },
+    {
+      "apiname": "CompletedRocio",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rocio",
+      "description": "Completed Rocio's story."
+    },
+    {
+      "apiname": "CompletedRose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rose",
+      "description": "Completed Rose's story."
+    },
+    {
+      "apiname": "CompletedShaw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shaw",
+      "description": "Completed Shaw's story."
+    },
+    {
+      "apiname": "FinishedStory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storyteller",
+      "description": "Completed your task."
+    }
+  ]
+}

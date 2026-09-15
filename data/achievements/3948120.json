@@ -1,0 +1,249 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3948120,
+  "game": "Scritchy Scratchy",
+  "total": 34,
+  "unlocked": 34,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:37.464136+00:00",
+  "achievements": [
+    {
+      "apiname": "Take Loan",
+      "achieved": 1,
+      "unlocktime": 1777977902,
+      "name": "Don't read the fine print",
+      "description": "Take a loan"
+    },
+    {
+      "apiname": "Super Jackpot",
+      "achieved": 1,
+      "unlocktime": 1777881595,
+      "name": "What are the odds?",
+      "description": "Win a super jackpot"
+    },
+    {
+      "apiname": "Broken Plates",
+      "achieved": 1,
+      "unlocktime": 1778001316,
+      "name": "Bad luck",
+      "description": "Crack 2 plates in a row"
+    },
+    {
+      "apiname": "Jackpot on First Ticket",
+      "achieved": 1,
+      "unlocktime": 1778001757,
+      "name": "Good luck",
+      "description": "Get a jackpot on the first ticket you scratch"
+    },
+    {
+      "apiname": "Trash Jackpot",
+      "achieved": 1,
+      "unlocktime": 1777883285,
+      "name": "Why?",
+      "description": "Trash a Jackpot ticket"
+    },
+    {
+      "apiname": "Speedrun",
+      "achieved": 1,
+      "unlocktime": 1778052459,
+      "name": "Speedrun",
+      "description": "Reach the ending in 30 min or less after prestige"
+    },
+    {
+      "apiname": "Death_1",
+      "achieved": 1,
+      "unlocktime": 1777883949,
+      "name": "Gambling never pays off",
+      "description": "Die"
+    },
+    {
+      "apiname": "Death_2",
+      "achieved": 1,
+      "unlocktime": 1777923148,
+      "name": "A loosing bet",
+      "description": "Die twice"
+    },
+    {
+      "apiname": "Death_3",
+      "achieved": 1,
+      "unlocktime": 1777977703,
+      "name": "Go for broke",
+      "description": "Die three times"
+    },
+    {
+      "apiname": "Death_4",
+      "achieved": 1,
+      "unlocktime": 1778002016,
+      "name": "House always wins",
+      "description": "Die four times"
+    },
+    {
+      "apiname": "Scratch Final Chance Without Dying",
+      "achieved": 1,
+      "unlocktime": 1778042816,
+      "name": "Win everything?",
+      "description": "Scratch final chance without dying"
+    },
+    {
+      "apiname": "Bad kitty",
+      "achieved": 1,
+      "unlocktime": 1778002700,
+      "name": "Bad kitty",
+      "description": "Have mundo bankrupt you"
+    },
+    {
+      "apiname": "Lucky cat",
+      "achieved": 1,
+      "unlocktime": 1777900675,
+      "name": "Lucky cat",
+      "description": "Have mundo scratch a super jackpot"
+    },
+    {
+      "apiname": "Win your job",
+      "achieved": 1,
+      "unlocktime": 1777919512,
+      "name": "Win your job",
+      "description": "Win a jackpot on Day Job"
+    },
+    {
+      "apiname": "One of each please",
+      "achieved": 1,
+      "unlocktime": 1778043998,
+      "name": "One of each please",
+      "description": "Have all different tickets from all 4 catalogues on the table at once"
+    },
+    {
+      "apiname": "Winning streak",
+      "achieved": 1,
+      "unlocktime": 1778044666,
+      "name": "Winning streak",
+      "description": "Win a jackpot on all tickets from all 4 catalogues"
+    },
+    {
+      "apiname": "Skip a catalogue",
+      "achieved": 1,
+      "unlocktime": 1778051890,
+      "name": "Skip a catalogue",
+      "description": "Scratch final chance with a catalogue still on the table"
+    },
+    {
+      "apiname": "Spend all the worlds money",
+      "achieved": 1,
+      "unlocktime": 1777921843,
+      "name": "Spend all the worlds money",
+      "description": "Buy something more expensive than the global economy"
+    },
+    {
+      "apiname": "Nap time",
+      "achieved": 1,
+      "unlocktime": 1778043922,
+      "name": "Nap time",
+      "description": "Make 1Sx while idle for at least 5 min"
+    },
+    {
+      "apiname": "Lucky ticket",
+      "achieved": 1,
+      "unlocktime": 1777883536,
+      "name": "Lucky ticket",
+      "description": "Win a prize that is 1000 times larger than the ticket cost"
+    },
+    {
+      "apiname": "Big win",
+      "achieved": 1,
+      "unlocktime": 1777953151,
+      "name": "Big win",
+      "description": "Win a prize that is 10.000 times larger than the ticket cost"
+    },
+    {
+      "apiname": "High level gambling",
+      "achieved": 1,
+      "unlocktime": 1778045384,
+      "name": "High level gambling",
+      "description": "Win a prize that is 100.000 times larger than the ticket cost"
+    },
+    {
+      "apiname": "Clicker minigame",
+      "achieved": 1,
+      "unlocktime": 1777900675,
+      "name": "Clicker minigame",
+      "description": "Have a stack of 100 or more scratched tickets in Scratch Bot"
+    },
+    {
+      "apiname": "Idle game",
+      "achieved": 1,
+      "unlocktime": 1778043556,
+      "name": "Idle game",
+      "description": "Start with all automation gadgets unlocked"
+    },
+    {
+      "apiname": "Max out skill tree",
+      "achieved": 1,
+      "unlocktime": 1778051306,
+      "name": "Max out skill tree",
+      "description": "Buy all prestige upgrades"
+    },
+    {
+      "apiname": "Visit the Night Market",
+      "achieved": 1,
+      "unlocktime": 1777917613,
+      "name": "Visit the Night Market",
+      "description": "Buy and equip a cosmetic"
+    },
+    {
+      "apiname": "Walk-in-closet",
+      "achieved": 1,
+      "unlocktime": 1778053469,
+      "name": "Walk-in-closet",
+      "description": "Buy all cosmetics"
+    },
+    {
+      "apiname": "Honest work",
+      "achieved": 1,
+      "unlocktime": 1778002356,
+      "name": "Honest work",
+      "description": "Have $2000 without buying a scratch-off"
+    },
+    {
+      "apiname": "Workaholic",
+      "achieved": 1,
+      "unlocktime": 1778050943,
+      "name": "Workaholic",
+      "description": "Have $20M without buying a scratch-off"
+    },
+    {
+      "apiname": "Soul Siphon",
+      "achieved": 1,
+      "unlocktime": 1778040055,
+      "name": "Soul Siphon",
+      "description": "Create an artificial soul"
+    },
+    {
+      "apiname": "Wizard",
+      "achieved": 1,
+      "unlocktime": 1777914684,
+      "name": "Wizard",
+      "description": "Use magic to scratch a ticket"
+    },
+    {
+      "apiname": "Time machine",
+      "achieved": 1,
+      "unlocktime": 1778042060,
+      "name": "Time machine",
+      "description": "Upgrade Egg Timer to x5 speed"
+    },
+    {
+      "apiname": "Faithful Servant",
+      "achieved": 1,
+      "unlocktime": 1778053328,
+      "name": "Faithful Servant",
+      "description": "Give the winning Final Chance to the corporation"
+    },
+    {
+      "apiname": "Achievement Hunter",
+      "achieved": 1,
+      "unlocktime": 1778053469,
+      "name": "Achievement Hunter",
+      "description": "Get all achievements in the game"
+    }
+  ]
+}

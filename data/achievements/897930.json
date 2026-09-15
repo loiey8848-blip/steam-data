@@ -1,0 +1,200 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 897930,
+  "game": "Demonheart: Hunters",
+  "total": 27,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:05.024217+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_INFI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infidel",
+      "description": "Sabotage a quest for the Church of Ravage."
+    },
+    {
+      "apiname": "ACH_TRUE_SIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Sister",
+      "description": "Complete all Church of Ravage quests faithfully."
+    },
+    {
+      "apiname": "ACH_HEALER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Town Healer",
+      "description": "Sell 30 Healing Salves."
+    },
+    {
+      "apiname": "ACH_DEFILER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defiler",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KISS_BRA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight Love",
+      "description": "Kiss Brash."
+    },
+    {
+      "apiname": "ACH_KISS_ARI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch Love",
+      "description": "Kiss Ari."
+    },
+    {
+      "apiname": "ACH_KISS_RAZ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonspawn Love",
+      "description": "Kiss the demonspawn."
+    },
+    {
+      "apiname": "ACH_KISS_SIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bard Love",
+      "description": "Kiss Sinallion."
+    },
+    {
+      "apiname": "ACH_THAYN_BED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon's Bride",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_POISON_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin I",
+      "description": "Obtain Poison Attack skill."
+    },
+    {
+      "apiname": "ACH_POISON_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin II",
+      "description": "Obtain Poison Attack II."
+    },
+    {
+      "apiname": "ACH_POISON_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin III",
+      "description": "Obtain Poison Attack III."
+    },
+    {
+      "apiname": "ACH_RESC_R",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infernal Allies",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_RESC_BRA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outlaw Allies",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BOARD_SHIP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sea Dogs",
+      "description": "Board a ship."
+    },
+    {
+      "apiname": "ACH_DEMONCAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demoncat",
+      "description": "Find Mr. Edgardo."
+    },
+    {
+      "apiname": "ACH_JUSTICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Justice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_REACH_R_INF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infernal Traveler I",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_REACH_T_INF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infernal Traveler II",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ALLY_RZY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mother",
+      "description": "Choose the young demonspawn as your ally."
+    },
+    {
+      "apiname": "ACH_ALLY_RAZ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oathbreaker",
+      "description": "Choose the adult demonspawn as your ally."
+    },
+    {
+      "apiname": "ACH_MAX_GOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do-Gooder",
+      "description": "Reach maximum Good alignment with Bright."
+    },
+    {
+      "apiname": "ACH_MAX_TACTFUL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice And Smiling",
+      "description": "Reach maximum Tactful alignment with Bright."
+    },
+    {
+      "apiname": "ACH_MAX_EVIL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wicked",
+      "description": "Reach maximum Evil alignment with Bright."
+    },
+    {
+      "apiname": "ACH_MAX_DEFIANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Talk To Me",
+      "description": "Reach maximum Defiant alignment with Bright."
+    },
+    {
+      "apiname": "ACH_SIDE_HUMANITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero",
+      "description": "Side with humanity."
+    },
+    {
+      "apiname": "ACH_SIDE_THAYN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Omen",
+      "description": "Side with Thayn."
+    }
+  ]
+}

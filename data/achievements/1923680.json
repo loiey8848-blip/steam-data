@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1923680,
+  "game": "Mega Mall Story",
+  "total": 6,
+  "unlocked": 6,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:24.423020+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 1,
+      "unlocktime": 1788775804,
+      "name": "Purveyor of Kairo family.",
+      "description": "Proof that Kairo family became regular."
+    },
+    {
+      "apiname": "GAMECLEAR",
+      "achieved": 1,
+      "unlocktime": 1788775624,
+      "name": "If you notice, it became a splendid skyscraper.",
+      "description": "Proof of running a shopping mall for many years."
+    },
+    {
+      "apiname": "RANKMAX",
+      "achieved": 1,
+      "unlocktime": 1788690533,
+      "name": "A 5-Star Mall recognized by the world.",
+      "description": "Proof of becoming the highest ranked mall."
+    },
+    {
+      "apiname": "MANYFLOOR",
+      "achieved": 1,
+      "unlocktime": 1788775804,
+      "name": "Dream and longing mega mall.",
+      "description": "Proof of discovering 25 combos."
+    },
+    {
+      "apiname": "RANKINGTOP",
+      "achieved": 1,
+      "unlocktime": 1788775804,
+      "name": "Customers are coming from all over the country.",
+      "description": "Proof that ranked first in the national rank."
+    },
+    {
+      "apiname": "FLOOR",
+      "achieved": 1,
+      "unlocktime": 1788489651,
+      "name": "A nice place has been created.",
+      "description": "Proof of making the first store combo."
+    }
+  ]
+}

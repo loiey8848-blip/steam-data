@@ -1,0 +1,403 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2157830,
+  "game": "John Carpenter's Toxic Commando",
+  "total": 56,
+  "unlocked": 56,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:42.580418+00:00",
+  "achievements": [
+    {
+      "apiname": "EDUCATED_RUNNER",
+      "achieved": 1,
+      "unlocktime": 1773367947,
+      "name": "The Drop",
+      "description": "Complete \"The Drop\" on any difficulty."
+    },
+    {
+      "apiname": "WAY_TO_CHURCH",
+      "achieved": 1,
+      "unlocktime": 1773370539,
+      "name": "Church of the Damned",
+      "description": "Complete \"Church of the Damned\" on any difficulty."
+    },
+    {
+      "apiname": "WAY_TO_CHURCH_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773767992,
+      "name": "Church of the Damned: Master",
+      "description": "Complete \"Church of the Damned\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "RIVER_RAID",
+      "achieved": 1,
+      "unlocktime": 1773494675,
+      "name": "Demon Bait",
+      "description": "Complete \"Demon Bait\" on any difficulty."
+    },
+    {
+      "apiname": "RIVER_RAID_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773804838,
+      "name": "Demon Bait: Master",
+      "description": "Complete \"Demon Bait\" on Very Hard or higher difficulty."
+    },
+    {
+      "apiname": "MOTEL",
+      "achieved": 1,
+      "unlocktime": 1773499784,
+      "name": "Root of Evil",
+      "description": "Complete \"Root of Evil\" on any difficulty."
+    },
+    {
+      "apiname": "MOTEL_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773854858,
+      "name": "Root of Evil: Master",
+      "description": "Complete \"Root of Evil\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "SLUDGE_NEST",
+      "achieved": 1,
+      "unlocktime": 1773563906,
+      "name": "Impasse",
+      "description": "Complete \"Impasse\" on any difficulty."
+    },
+    {
+      "apiname": "SLUDGE_NEST_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773859252,
+      "name": "Impasse: Master",
+      "description": "Complete \"Impasse\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "THE_HUNT",
+      "achieved": 1,
+      "unlocktime": 1773562577,
+      "name": "Catch and Kill",
+      "description": "Complete \"Catch and Kill\" on any difficulty."
+    },
+    {
+      "apiname": "THE_HUNT_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773856769,
+      "name": "Catch and Kill: Master",
+      "description": "Complete \"Catch and Kill\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "CEMETERY",
+      "achieved": 1,
+      "unlocktime": 1773590399,
+      "name": "Deliver Us",
+      "description": "Complete \"Deliver Us\" on any difficulty."
+    },
+    {
+      "apiname": "CEMETERY_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773893364,
+      "name": "Deliver Us: Master",
+      "description": "Complete \"Deliver Us\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "FINAL_MISSION",
+      "achieved": 1,
+      "unlocktime": 1773592976,
+      "name": "The Pit",
+      "description": "Complete \"The Pit\" on any difficulty."
+    },
+    {
+      "apiname": "FINAL_MISSION_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773890528,
+      "name": "The Pit: Master",
+      "description": "Complete \"The Pit\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "COMPLETED_STORY",
+      "achieved": 1,
+      "unlocktime": 1773592976,
+      "name": "From Beginning to End",
+      "description": "Complete all campaign missions on any difficulty."
+    },
+    {
+      "apiname": "BLOODRUNNER_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773893364,
+      "name": "Toxic Commando: Master",
+      "description": "Complete all campaign missions on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "BRUTE_CATCHER",
+      "achieved": 1,
+      "unlocktime": 1773910039,
+      "name": "Goon Derailer",
+      "description": ""
+    },
+    {
+      "apiname": "SMELL_OF_NAPALM",
+      "achieved": 1,
+      "unlocktime": 1773910039,
+      "name": "Smell of Napalm",
+      "description": "Set 30 enemies on fire with a single Molotov cocktail."
+    },
+    {
+      "apiname": "IMPROPER_USE",
+      "achieved": 1,
+      "unlocktime": 1776366909,
+      "name": "Improper Use",
+      "description": "Kill 100 enemies using gas canisters as melee weapons."
+    },
+    {
+      "apiname": "FEEDERS_SLAYER",
+      "achieved": 1,
+      "unlocktime": 1773898353,
+      "name": "Slob Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "TIME_TO_CHILL",
+      "achieved": 1,
+      "unlocktime": 1773495880,
+      "name": "Chill Out!",
+      "description": "Overheat a machine gun 10 times."
+    },
+    {
+      "apiname": "A_BORN_HILLER",
+      "achieved": 1,
+      "unlocktime": 1773805915,
+      "name": "Natural Born Healer",
+      "description": "Restore 10,000 HP to teammates using the Healing Aura ability."
+    },
+    {
+      "apiname": "BULLS_EYE",
+      "achieved": 1,
+      "unlocktime": 1776391455,
+      "name": "Bull's-Eye",
+      "description": "Kill 15 enemies in a single shot with the Fireball ability."
+    },
+    {
+      "apiname": "COLD_CRUELTY",
+      "achieved": 1,
+      "unlocktime": 1776340928,
+      "name": "Cold Cruelty",
+      "description": "Kill 5,000 enemies with melee weapons."
+    },
+    {
+      "apiname": "HOT_CRUELTY",
+      "achieved": 1,
+      "unlocktime": 1776333195,
+      "name": "Hot Cruelty",
+      "description": "Kill 1,000 enemies by blowing up fuel barrels or gas canisters."
+    },
+    {
+      "apiname": "BLOODHOUND",
+      "achieved": 1,
+      "unlocktime": 1773373346,
+      "name": "Bloodhound",
+      "description": ""
+    },
+    {
+      "apiname": "GOLD_DIGGER",
+      "achieved": 1,
+      "unlocktime": 1773371586,
+      "name": "Gold Digger",
+      "description": "Collect 10,000 Sludgite during campaign missions."
+    },
+    {
+      "apiname": "FAR",
+      "achieved": 1,
+      "unlocktime": 1776391468,
+      "name": "Road Trip",
+      "description": "Travel 50 km total in any type of vehicle."
+    },
+    {
+      "apiname": "REFUELLER",
+      "achieved": 1,
+      "unlocktime": 1773853099,
+      "name": "Topped Off",
+      "description": "Refuel the car's gas tank 30 times."
+    },
+    {
+      "apiname": "MECHANIC",
+      "achieved": 1,
+      "unlocktime": 1773895511,
+      "name": "Mechanic",
+      "description": "Restore 100,000 HP to vehicles."
+    },
+    {
+      "apiname": "SHIELD_KILLER",
+      "achieved": 1,
+      "unlocktime": 1776455372,
+      "name": "Shield Basher",
+      "description": "Kill 500 enemies using a Defender's barrier."
+    },
+    {
+      "apiname": "SAVE_AMMO",
+      "achieved": 1,
+      "unlocktime": 1773495959,
+      "name": "Ammo Saver",
+      "description": "Kill 300 enemies with Nuker explosions."
+    },
+    {
+      "apiname": "ELUSIVE_MOSQUITO",
+      "achieved": 1,
+      "unlocktime": 1773560170,
+      "name": "Elusive",
+      "description": ""
+    },
+    {
+      "apiname": "SHARPSHOOTER",
+      "achieved": 1,
+      "unlocktime": 1773495644,
+      "name": "Sharpshooter",
+      "description": "Deal 100,000 damage to enemies' weak spots."
+    },
+    {
+      "apiname": "AIR_RAID",
+      "achieved": 1,
+      "unlocktime": 1773896241,
+      "name": "Air Raid",
+      "description": "Kill 1,000 enemies using an Operator's drone."
+    },
+    {
+      "apiname": "FAST_REACTION",
+      "achieved": 1,
+      "unlocktime": 1773800971,
+      "name": "Fast Reflexes",
+      "description": ""
+    },
+    {
+      "apiname": "COOPERATIVE_PLAYER",
+      "achieved": 1,
+      "unlocktime": 1776394413,
+      "name": "Ride Together, Die Together",
+      "description": "Complete any mission with 3 players from your in-game friend list."
+    },
+    {
+      "apiname": "DRIVER",
+      "achieved": 1,
+      "unlocktime": 1776058169,
+      "name": "Test Driver",
+      "description": "Drive each vehicle type at least once."
+    },
+    {
+      "apiname": "CLEAN_RUN",
+      "achieved": 1,
+      "unlocktime": 1773771907,
+      "name": "Clean Run",
+      "description": ""
+    },
+    {
+      "apiname": "PROFESSIONAL_SQUAD",
+      "achieved": 1,
+      "unlocktime": 1773373346,
+      "name": "We Are Professionals",
+      "description": ""
+    },
+    {
+      "apiname": "WINCH_DESTROYER",
+      "achieved": 1,
+      "unlocktime": 1773367192,
+      "name": "Can Opener",
+      "description": "Open a stash using the vehicle's winch."
+    },
+    {
+      "apiname": "SAFETY_FIRST",
+      "achieved": 1,
+      "unlocktime": 1776459593,
+      "name": "Untouchable",
+      "description": ""
+    },
+    {
+      "apiname": "SLUDGE_EXTERMINATOR",
+      "achieved": 1,
+      "unlocktime": 1773412627,
+      "name": "Clear the Path",
+      "description": "Kill 100 sludge tendrils."
+    },
+    {
+      "apiname": "ONE_SHOT_TEN_KILLS",
+      "achieved": 1,
+      "unlocktime": 1773590080,
+      "name": "That's a Good Deal!",
+      "description": "Kill 50 enemies with a single heavy weapon without switching between weapons."
+    },
+    {
+      "apiname": "CARMAGGEDON",
+      "achieved": 1,
+      "unlocktime": 1773896550,
+      "name": "Vehicular Homicide",
+      "description": "Run over 1,000 enemies with a vehicle."
+    },
+    {
+      "apiname": "DOORS_DEFENDER",
+      "achieved": 1,
+      "unlocktime": 1773898567,
+      "name": "Hold the Door!",
+      "description": ""
+    },
+    {
+      "apiname": "PERSISTENT",
+      "achieved": 1,
+      "unlocktime": 1773893339,
+      "name": "Is That All You Got?",
+      "description": ""
+    },
+    {
+      "apiname": "CLASS_MASTER",
+      "achieved": 1,
+      "unlocktime": 1776461615,
+      "name": "Sage",
+      "description": "Reach maximum level with every class."
+    },
+    {
+      "apiname": "ARMS_BARON",
+      "achieved": 1,
+      "unlocktime": 1773494675,
+      "name": "Arms Baron",
+      "description": "Upgrade a firearm weapon to its maximum level."
+    },
+    {
+      "apiname": "WEAPON_CONSUMERIST",
+      "achieved": 1,
+      "unlocktime": 1773897569,
+      "name": "Weapon Connoisseur",
+      "description": "Kill at least one enemy with 19 primary or secondary weapons."
+    },
+    {
+      "apiname": "NO_FRIENDLY_FIRE",
+      "achieved": 1,
+      "unlocktime": 1773565034,
+      "name": "We're All Friends Here",
+      "description": ""
+    },
+    {
+      "apiname": "EDUCATED_RUNNER_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773766794,
+      "name": "The Drop: Master",
+      "description": "Complete \"The Drop\" on Very Hard difficulty or higher."
+    },
+    {
+      "apiname": "ZOMBIE_GENOCIDEST",
+      "achieved": 1,
+      "unlocktime": 1776457333,
+      "name": "Who's Counting Anyway?",
+      "description": "Kill 53,601 enemies."
+    },
+    {
+      "apiname": "RESCUE",
+      "achieved": 1,
+      "unlocktime": 1773373369,
+      "name": "High Octane",
+      "description": "Complete \"High Octane\" on any difficulty."
+    },
+    {
+      "apiname": "RESCUE_MASTER",
+      "achieved": 1,
+      "unlocktime": 1773802277,
+      "name": "High Octane: Master",
+      "description": "Complete \"High Octane\" on Very Hard difficulty or higher."
+    }
+  ]
+}

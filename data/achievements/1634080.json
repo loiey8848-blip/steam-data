@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1634080,
+  "game": "Nocturnal",
+  "total": 11,
+  "unlocked": 2,
+  "percent": 18.2,
+  "updated_at_utc": "2026-09-15T06:52:16.445958+00:00",
+  "achievements": [
+    {
+      "apiname": "Nocturnal_Achivement_1_Flame",
+      "achieved": 1,
+      "unlocktime": 1766502692,
+      "name": "Form Blazing Sword",
+      "description": "Find the first flame"
+    },
+    {
+      "apiname": "Nocturnal_Achivement_2_Shrine",
+      "achieved": 1,
+      "unlocktime": 1766502950,
+      "name": "A Light in Dark Places",
+      "description": "Find a fire shrine"
+    },
+    {
+      "apiname": "Nocturnal_Achivement_3_Azita",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfortunate Enemies",
+      "description": ""
+    },
+    {
+      "apiname": "Nocturnal_Achivement_4_Avatar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Avatar Ascendant",
+      "description": ""
+    },
+    {
+      "apiname": "Nocturnal_Achivement_5_Berserker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stand Your Ground",
+      "description": ""
+    },
+    {
+      "apiname": "Nocturnal_Achivement_6_Arsia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baleful Shadow",
+      "description": ""
+    },
+    {
+      "apiname": "Nocturnal_Achivement_7_Letter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words Unspoken",
+      "description": "Find the lost letter"
+    },
+    {
+      "apiname": "Nocturnal_Achivement_8_End",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Grim Farewell",
+      "description": ""
+    },
+    {
+      "apiname": "Nocturnal_Achivement_9_Torches",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Torchbearer",
+      "description": "Lit 100 torches"
+    },
+    {
+      "apiname": "Nocturnal_Achivement_10_Brun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Brightside",
+      "description": "Burn 100 elements"
+    },
+    {
+      "apiname": "Nocturnal_Achivement_11_FireShrine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Stone Unturned",
+      "description": "Find all fire shrines"
+    }
+  ]
+}

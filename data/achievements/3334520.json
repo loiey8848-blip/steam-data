@@ -1,0 +1,487 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3334520,
+  "game": "MilkTea Time",
+  "total": 68,
+  "unlocked": 68,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:29.040436+00:00",
+  "achievements": [
+    {
+      "apiname": "The_First_Order",
+      "achieved": 1,
+      "unlocktime": 1771767388,
+      "name": "The First Order",
+      "description": "Successfully sell a drink."
+    },
+    {
+      "apiname": "First_Day_Operation",
+      "achieved": 1,
+      "unlocktime": 1771767496,
+      "name": "First day of operation",
+      "description": "Completed the first day of business operations."
+    },
+    {
+      "apiname": "ACH_QUICK_HANDS",
+      "achieved": 1,
+      "unlocktime": 1772551977,
+      "name": "Quick Hands",
+      "description": "Quick order of 20 cups of milk tea"
+    },
+    {
+      "apiname": "ACH_FIRST_10_CUPS",
+      "achieved": 1,
+      "unlocktime": 1771767685,
+      "name": "Novice milk tea maker",
+      "description": "Complete 10 cups of milk tea orders"
+    },
+    {
+      "apiname": "ACH_50_CUPS_MADE",
+      "achieved": 1,
+      "unlocktime": 1772587899,
+      "name": "skilled workers",
+      "description": "Complete 50 cups of milk tea orders"
+    },
+    {
+      "apiname": "ACH_CENTURY_BREW",
+      "achieved": 1,
+      "unlocktime": 1772590682,
+      "name": "Hundred Cups Master",
+      "description": "Complete 100 cups of milk tea orders"
+    },
+    {
+      "apiname": "ACH_500_CUPS",
+      "achieved": 1,
+      "unlocktime": 1778985253,
+      "name": "Production Expert",
+      "description": "Complete 500 cups of milk tea orders"
+    },
+    {
+      "apiname": "ACH_MILLENNIUM_BREWER",
+      "achieved": 1,
+      "unlocktime": 1778997117,
+      "name": "Master of a Thousand Cups",
+      "description": "Complete 1,000 cups of milk tea orders"
+    },
+    {
+      "apiname": "ACH_FIRST_DELIVERY",
+      "achieved": 1,
+      "unlocktime": 1771767545,
+      "name": "First time purchase",
+      "description": "Completed the first purchase of raw materials"
+    },
+    {
+      "apiname": "ACH_SUPPLY_CHAIN_NOVICE",
+      "achieved": 1,
+      "unlocktime": 1772587658,
+      "name": "Supply Chain Newbie",
+      "description": "Completed 10 raw material purchases"
+    },
+    {
+      "apiname": "ACH_LOGISTICS_MASTER",
+      "achieved": 1,
+      "unlocktime": 1778986687,
+      "name": "Warehouse Manager",
+      "description": "Completed the 100th raw material purchase"
+    },
+    {
+      "apiname": "ACH_WHOLESALE_MASTER",
+      "achieved": 1,
+      "unlocktime": 1778999688,
+      "name": "Purchasing Expert",
+      "description": "Completed the 200th raw material purchase"
+    },
+    {
+      "apiname": "ACH_SUPPLY_CHAIN_KING",
+      "achieved": 1,
+      "unlocktime": 1779003497,
+      "name": "King of Supply Chain",
+      "description": "Complete 500 purchases - the entire milk tea raw material market depends on you!"
+    },
+    {
+      "apiname": "ACH_FIRST_PROFIT",
+      "achieved": 1,
+      "unlocktime": 1772551697,
+      "name": "First pot of gold",
+      "description": "Earn 100 gold coins in total - finally see the return of money!"
+    },
+    {
+      "apiname": "ACH_THRIVING_BUSINESS",
+      "achieved": 1,
+      "unlocktime": 1772589758,
+      "name": "Small business",
+      "description": "Earn 1,000 gold coins cumulatively - Business is starting to get on track"
+    },
+    {
+      "apiname": "ACH_CASH_FLOW_KING",
+      "achieved": 1,
+      "unlocktime": 1772683050,
+      "name": "Steady development",
+      "description": "Earn 10,000 gold coins cumulatively - never worry about running out of cash again"
+    },
+    {
+      "apiname": "ACH_TEA_TYCOON",
+      "achieved": 1,
+      "unlocktime": 1778996277,
+      "name": "Regional giants",
+      "description": "Earn 100,000 gold coins cumulatively - the most profitable shop on the street!"
+    },
+    {
+      "apiname": "ACH_BILLIONAIRE_BREWER",
+      "achieved": 1,
+      "unlocktime": 1778999688,
+      "name": "Milk Tea Shop Tycoon",
+      "description": "Earn 1,000,000 gold coins cumulatively - your milk tea empire has risen!"
+    },
+    {
+      "apiname": "ACH_EARN_100_ONE_DAY",
+      "achieved": 1,
+      "unlocktime": 1772553419,
+      "name": "Earn 100 yuan a day",
+      "description": "Single-day turnover reaches 100"
+    },
+    {
+      "apiname": "ACH_EARN_1000_ONE_DAY",
+      "achieved": 1,
+      "unlocktime": 1772645815,
+      "name": "Business is booming",
+      "description": "Earn 1,000 gold coins in a single day - Customers are lining up!"
+    },
+    {
+      "apiname": "ACH_EARN_5000_ONE_DAY",
+      "achieved": 1,
+      "unlocktime": 1778986106,
+      "name": "Make a fortune every day",
+      "description": "Earn 5,000 coins in a single day - the cash register is almost overwhelmed!"
+    },
+    {
+      "apiname": "ACH_EARN_10000_ONE_DAY",
+      "achieved": 1,
+      "unlocktime": 1778996780,
+      "name": "Days of Getting Rich",
+      "description": "Earn 10,000 gold coins in a single day - today will go down in the history of the milk tea shop!"
+    },
+    {
+      "apiname": "ACH_PRINTING_PRESS",
+      "achieved": 1,
+      "unlocktime": 1778982937,
+      "name": "printing press",
+      "description": "Daily income exceeded 1000 for a consecutive quarter"
+    },
+    {
+      "apiname": "ACH_HAVE_10000_DEPOSIT",
+      "achieved": 1,
+      "unlocktime": 1778982329,
+      "name": "Ten thousand yuan household",
+      "description": "Deposit reaches 10,000"
+    },
+    {
+      "apiname": "ACH_TURN_TEA_INTO_GOLD",
+      "achieved": 1,
+      "unlocktime": 1772645023,
+      "name": "Turning tea into gold",
+      "description": "Selling a cup of milk tea for more than 100 yuan."
+    },
+    {
+      "apiname": "ACH_FIRST_CREATION",
+      "achieved": 1,
+      "unlocktime": 1771767972,
+      "name": "Initial study",
+      "description": "Create your first custom recipe."
+    },
+    {
+      "apiname": "ACH_RECIPE_APPRENTICE",
+      "achieved": 1,
+      "unlocktime": 1772553633,
+      "name": "Recipe Apprentice",
+      "description": "Researched milk tea with an average attribute of 100 points - began to master the essence of tea making."
+    },
+    {
+      "apiname": "ACH_FLAVOR_SCIENTIST",
+      "achieved": 1,
+      "unlocktime": 1772644602,
+      "name": "Flavor Scientist",
+      "description": "Researching milk tea with an average attribute of 500 points - your recipe is starting to attract attention."
+    },
+    {
+      "apiname": "ACH_MASTER_BREWER",
+      "achieved": 1,
+      "unlocktime": 1772644679,
+      "name": "Tea Master",
+      "description": "Researched milk tea with an average attribute of 1000 points - this cup of milk tea is enough to go down in history!"
+    },
+    {
+      "apiname": "ACH_LEGENDARY_RECIPE",
+      "achieved": 1,
+      "unlocktime": 1778998581,
+      "name": "Legendary Recipe",
+      "description": "Research milk tea with an average attribute of 5000 points - the whole city is talking about your invention!"
+    },
+    {
+      "apiname": "ACH_DIVINE_ELIXIR",
+      "achieved": 1,
+      "unlocktime": 1778999096,
+      "name": "Drink of the Gods",
+      "description": "Researched milk tea with an average attribute of 10,000 points - this is no longer milk tea, this is art!"
+    },
+    {
+      "apiname": "ACH_FIRST_ASSAULT",
+      "achieved": 1,
+      "unlocktime": 1772611717,
+      "name": "Showing off one's talents",
+      "description": "Beat up an NPC once - It seems this shop owner has a bad temper!"
+    },
+    {
+      "apiname": "ACH_VIOLENT_TENDENCY",
+      "achieved": 1,
+      "unlocktime": 1778986565,
+      "name": "Violent tendencies",
+      "description": "Beat up NPCs 10 times - nearby NPCs will take a detour when they see you."
+    },
+    {
+      "apiname": "ACH_TERROR_OF_STREET",
+      "achieved": 1,
+      "unlocktime": 1779001620,
+      "name": "Street Bully",
+      "description": "Beat up NPCs 100 times - the whole street is under your \"rule\"!"
+    },
+    {
+      "apiname": "ACH_FIRST_FIVE_STAR",
+      "achieved": 1,
+      "unlocktime": 1772551740,
+      "name": "Initial praise",
+      "description": "Received 1 five-star review - Hard work pays off!"
+    },
+    {
+      "apiname": "ACH_CONSISTENT_QUALITY",
+      "achieved": 1,
+      "unlocktime": 1772552671,
+      "name": "Stable quality",
+      "description": "Get 10 five-star reviews - Your milk tea has become famous"
+    },
+    {
+      "apiname": "ACH_LEGENDARY_SERVICE",
+      "achieved": 1,
+      "unlocktime": 1772612629,
+      "name": "Service Legend",
+      "description": "Get 100 five-star reviews - your store has become an industry benchmark!"
+    },
+    {
+      "apiname": "ACH_FIRST_FLAMETHROWER",
+      "achieved": 1,
+      "unlocktime": 1772589324,
+      "name": "Flame-breathing experiment",
+      "description": "Make the customer breathe fire once - This cup of milk tea is a bit \"hot\"!"
+    },
+    {
+      "apiname": "ACH_DRAGON_BREWER",
+      "achieved": 1,
+      "unlocktime": 1772592644,
+      "name": "A sea of ​​fire",
+      "description": "Make customers breathe fire 10 times - Are you training a Charizard?"
+    },
+    {
+      "apiname": "ACH_EXPIRED_EXPERIMENT",
+      "achieved": 1,
+      "unlocktime": 1772610687,
+      "name": "Food Safety Warning",
+      "description": "Giving a cup of expired milk tea to a customer - I hope the customer is okay..."
+    },
+    {
+      "apiname": "ACH_FIRST_ROOM",
+      "achieved": 1,
+      "unlocktime": 1772552843,
+      "name": "Beginning to take shape",
+      "description": "Building the first room"
+    },
+    {
+      "apiname": "ACH_DECORATION_FAN",
+      "achieved": 1,
+      "unlocktime": 1778998007,
+      "name": "Decoration enthusiasts",
+      "description": "There are 50 decorations in the shop"
+    },
+    {
+      "apiname": "ACH_INTERIOR_DESIGNER",
+      "achieved": 1,
+      "unlocktime": 1779000285,
+      "name": "interior designer",
+      "description": "There are 100 decorations in the store - this is no longer a milk tea shop, it is an art gallery!"
+    },
+    {
+      "apiname": "ACH_WALLPAPER_ADDICT",
+      "achieved": 1,
+      "unlocktime": 1772705169,
+      "name": "Wallpaper control",
+      "description": "Spend 500 gold coins to change wallpaper - change your mood, change your wallpaper!"
+    },
+    {
+      "apiname": "ACH_FLOOR_OBSSESED",
+      "achieved": 1,
+      "unlocktime": 1778982979,
+      "name": "Floor Tile Master",
+      "description": "Spend 500 gold coins to replace the floor tiles - every step should be at the forefront of fashion"
+    },
+    {
+      "apiname": "ACH_FIRST_EXPANSION",
+      "achieved": 1,
+      "unlocktime": 1772552697,
+      "name": "Territory expansion",
+      "description": "Expand the lot 1 time - as your business grows, your space needs to get bigger too!"
+    },
+    {
+      "apiname": "ACH_EMPIRE_BUILDER",
+      "achieved": 1,
+      "unlocktime": 1778999959,
+      "name": "Empire Builder",
+      "description": "Expand all areas - this street is your milk tea empire!"
+    },
+    {
+      "apiname": "ACH_ICE_CREAM_DREAM",
+      "achieved": 1,
+      "unlocktime": 1772587572,
+      "name": "Ice Cream Dream",
+      "description": "Build an Ice Cream Maker - Summer is here, so ice cream can't be far behind?"
+    },
+    {
+      "apiname": "ACH_ICE_EMPIRE",
+      "achieved": 1,
+      "unlocktime": 1772588439,
+      "name": "This is the ice maker.",
+      "description": "Build an Ice Maker"
+    },
+    {
+      "apiname": "ACH_PERFECT_MILK_TEA",
+      "achieved": 1,
+      "unlocktime": 1779003162,
+      "name": "Perfect Milk Tea",
+      "description": "Complete the final mission"
+    },
+    {
+      "apiname": "ACH_FIRST_EXPLORATION",
+      "achieved": 1,
+      "unlocktime": 1772589633,
+      "name": "First exploration",
+      "description": "Complete the first exploration on the map."
+    },
+    {
+      "apiname": "ACH_GLOBAL_TRAVEL",
+      "achieved": 1,
+      "unlocktime": 1778997365,
+      "name": "Global travel",
+      "description": "Complete all explorations on the map"
+    },
+    {
+      "apiname": "ACH_FIRST_STAFF",
+      "achieved": 1,
+      "unlocktime": 1772590353,
+      "name": "First Store Employee",
+      "description": "Recruit a store clerk"
+    },
+    {
+      "apiname": "ACH_MILK_TEA_SQUAD",
+      "achieved": 1,
+      "unlocktime": 1778985482,
+      "name": "Milk Tea Squad",
+      "description": "Recruiting 5 store employees"
+    },
+    {
+      "apiname": "ACH_FIRST_TRAINING",
+      "achieved": 1,
+      "unlocktime": 1772591689,
+      "name": "First training",
+      "description": "Training a store employee"
+    },
+    {
+      "apiname": "ACH_HANDS_OFF_BOSS",
+      "achieved": 1,
+      "unlocktime": 1778986434,
+      "name": "hands-off boss",
+      "description": "Train a store clerk to make milk tea"
+    },
+    {
+      "apiname": "ACH_SUPER_MILK_TEA_SHOP",
+      "achieved": 1,
+      "unlocktime": 1779002005,
+      "name": "Super MilkTea Shop",
+      "description": "The store has reached level 30."
+    },
+    {
+      "apiname": "ACH_YOU_ARE_SO_BEAUTIFUL",
+      "achieved": 1,
+      "unlocktime": 1772592644,
+      "name": "Just because you are so beautiful",
+      "description": "Have a customer dance"
+    },
+    {
+      "apiname": "ACH_CLASSIC_BEGINNING",
+      "achieved": 1,
+      "unlocktime": 1771767952,
+      "name": "A Classic Journey",
+      "description": "Unlock a classic recipe"
+    },
+    {
+      "apiname": "ACH_CLASSIC_INHERITANCE",
+      "achieved": 1,
+      "unlocktime": 1772646046,
+      "name": "Classic succession",
+      "description": "Unlock five classic recipes"
+    },
+    {
+      "apiname": "ACH_CLASSIC_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1778998621,
+      "name": "Complete Collection of Classics",
+      "description": "Unlock all the classic recipes"
+    },
+    {
+      "apiname": "ACH_FRESH_BREWED_COFFEE",
+      "achieved": 1,
+      "unlocktime": 1772644374,
+      "name": "Freshly brewed coffee",
+      "description": "Build a coffee machine"
+    },
+    {
+      "apiname": "ACH_FRESH_JUICE",
+      "achieved": 1,
+      "unlocktime": 1772590898,
+      "name": "Fresh juice",
+      "description": "Build a juicer"
+    },
+    {
+      "apiname": "ACH_OLD_ICE_CREAM",
+      "achieved": 1,
+      "unlocktime": 1778985562,
+      "name": "Old ice cream",
+      "description": "Build a refrigerator"
+    },
+    {
+      "apiname": "ACH_CREAM_TOPPING",
+      "achieved": 1,
+      "unlocktime": 1778982960,
+      "name": "Cream topping",
+      "description": "Build a Mixer machine"
+    },
+    {
+      "apiname": "ACH_FORTUNE_CAT",
+      "achieved": 1,
+      "unlocktime": 1772550861,
+      "name": "Fortune cat",
+      "description": "Let the lucky cat come to your store"
+    },
+    {
+      "apiname": "ACH_FAT_CAT",
+      "achieved": 1,
+      "unlocktime": 1778986481,
+      "name": "The fat cat",
+      "description": "Feed the kitten 10 times"
+    },
+    {
+      "apiname": "ACH_FIRST_LOAN",
+      "achieved": 1,
+      "unlocktime": 1772644891,
+      "name": "Startup Launch Fund",
+      "description": "For the first time, obtain a loan from the bank to expand your tea shop!"
+    }
+  ]
+}

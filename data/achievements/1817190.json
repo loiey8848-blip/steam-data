@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1817190,
+  "game": "Marvel's Spider-Man: Miles Morales",
+  "total": 50,
+  "unlocked": 50,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:19.877696+00:00",
+  "achievements": [
+    {
+      "apiname": "beyourself",
+      "achieved": 1,
+      "unlocktime": 1759940930,
+      "name": "Be Yourself",
+      "description": "Collect all Achievements"
+    },
+    {
+      "apiname": "justthebeginning",
+      "achieved": 1,
+      "unlocktime": 1759929566,
+      "name": "Just the Beginning",
+      "description": "Unlock all Skills"
+    },
+    {
+      "apiname": "anewhome",
+      "achieved": 1,
+      "unlocktime": 1759930243,
+      "name": "A New Home",
+      "description": "100% complete all districts"
+    },
+    {
+      "apiname": "urbanexplorers",
+      "achieved": 1,
+      "unlocktime": 1759774709,
+      "name": "Urban Explorers",
+      "description": "Collect all Time Capsules"
+    },
+    {
+      "apiname": "memorylane",
+      "achieved": 1,
+      "unlocktime": 1759918937,
+      "name": "Memory Lane",
+      "description": "Collect all Postcards"
+    },
+    {
+      "apiname": "salvager",
+      "achieved": 1,
+      "unlocktime": 1759921918,
+      "name": "Salvager",
+      "description": "Open all Underground Caches"
+    },
+    {
+      "apiname": "undertheirnoses",
+      "achieved": 1,
+      "unlocktime": 1759929525,
+      "name": "Under Their Noses",
+      "description": ""
+    },
+    {
+      "apiname": "undergroundundone",
+      "achieved": 1,
+      "unlocktime": 1759921918,
+      "name": "Underground Undone",
+      "description": ""
+    },
+    {
+      "apiname": "readyforanything",
+      "achieved": 1,
+      "unlocktime": 1759930612,
+      "name": "Ready for Anything",
+      "description": "Purchase all suits"
+    },
+    {
+      "apiname": "comeattheking",
+      "achieved": 1,
+      "unlocktime": 1759811692,
+      "name": "Come at the King",
+      "description": ""
+    },
+    {
+      "apiname": "neversawitcoming",
+      "achieved": 1,
+      "unlocktime": 1759923505,
+      "name": "Never Saw It Coming",
+      "description": "Complete an Enemy Base without being detected"
+    },
+    {
+      "apiname": "100xcombo!!!",
+      "achieved": 1,
+      "unlocktime": 1759811553,
+      "name": "100x Combo!!!",
+      "description": "Perform a 100x Combo"
+    },
+    {
+      "apiname": "launch,swinganddive",
+      "achieved": 1,
+      "unlocktime": 1759729576,
+      "name": "Launch, Swing and Dive",
+      "description": ""
+    },
+    {
+      "apiname": "punchingpixels",
+      "achieved": 1,
+      "unlocktime": 1759729752,
+      "name": "Punching Pixels",
+      "description": ""
+    },
+    {
+      "apiname": "dodginglight",
+      "achieved": 1,
+      "unlocktime": 1759901291,
+      "name": "Dodging Light",
+      "description": ""
+    },
+    {
+      "apiname": "spidertraining:complete",
+      "achieved": 1,
+      "unlocktime": 1759925567,
+      "name": "Spider-Training: Complete",
+      "description": ""
+    },
+    {
+      "apiname": "pete_sfirstvillain",
+      "achieved": 1,
+      "unlocktime": 1759929730,
+      "name": "Pete's First Villain",
+      "description": ""
+    },
+    {
+      "apiname": "kitbash",
+      "achieved": 1,
+      "unlocktime": 1759776599,
+      "name": "Kitbash",
+      "description": "Craft 10 Upgrades"
+    },
+    {
+      "apiname": "rhinorodeo",
+      "achieved": 1,
+      "unlocktime": 1759728129,
+      "name": "Rhino Rodeo",
+      "description": ""
+    },
+    {
+      "apiname": "deepcuts",
+      "achieved": 1,
+      "unlocktime": 1759917032,
+      "name": "Deep Cuts",
+      "description": ""
+    },
+    {
+      "apiname": "hangingbyathread",
+      "achieved": 1,
+      "unlocktime": 1759759029,
+      "name": "Hanging by a Thread",
+      "description": ""
+    },
+    {
+      "apiname": "thecoreoftheproblem",
+      "achieved": 1,
+      "unlocktime": 1759776236,
+      "name": "The Core of the Problem",
+      "description": ""
+    },
+    {
+      "apiname": "truedeception",
+      "achieved": 1,
+      "unlocktime": 1759779549,
+      "name": "True Deception",
+      "description": ""
+    },
+    {
+      "apiname": "theharlemexpress",
+      "achieved": 1,
+      "unlocktime": 1759738670,
+      "name": "The Harlem Express",
+      "description": ""
+    },
+    {
+      "apiname": "velociskates",
+      "achieved": 1,
+      "unlocktime": 1759810713,
+      "name": "Veloci-Skates",
+      "description": ""
+    },
+    {
+      "apiname": "sharedhistory",
+      "achieved": 1,
+      "unlocktime": 1759914156,
+      "name": "Shared History",
+      "description": ""
+    },
+    {
+      "apiname": "explodingbulldozer",
+      "achieved": 1,
+      "unlocktime": 1759900592,
+      "name": "Exploding Bulldozer",
+      "description": ""
+    },
+    {
+      "apiname": "familydrama",
+      "achieved": 1,
+      "unlocktime": 1759901815,
+      "name": "Family Drama",
+      "description": ""
+    },
+    {
+      "apiname": "ultimatesacrifice",
+      "achieved": 1,
+      "unlocktime": 1759915508,
+      "name": "Ultimate Sacrifice",
+      "description": ""
+    },
+    {
+      "apiname": "fromtherafters",
+      "achieved": 1,
+      "unlocktime": 1759922837,
+      "name": "From the Rafters",
+      "description": "Perform 25 Ceiling Takedowns"
+    },
+    {
+      "apiname": "climbingthewalls",
+      "achieved": 1,
+      "unlocktime": 1759921282,
+      "name": "Climbing the Walls",
+      "description": "Perform 25 Wall Takedowns"
+    },
+    {
+      "apiname": "invisiblespider",
+      "achieved": 1,
+      "unlocktime": 1759811246,
+      "name": "Invisible Spider",
+      "description": "Defeat 50 enemies while Camouflaged"
+    },
+    {
+      "apiname": "overcharge",
+      "achieved": 1,
+      "unlocktime": 1759844507,
+      "name": "Overcharge",
+      "description": "Defeat 100 enemies with Venom attacks"
+    },
+    {
+      "apiname": "upandover",
+      "achieved": 1,
+      "unlocktime": 1759901728,
+      "name": "Up and Over",
+      "description": "Perform a Venom Jump, then a Venom Dash on a single enemy"
+    },
+    {
+      "apiname": "fromdowntown",
+      "achieved": 1,
+      "unlocktime": 1759922114,
+      "name": "From Downtown",
+      "description": "Use Venom Dash to throw an enemy into a group of three or more"
+    },
+    {
+      "apiname": "likearhinoinachinashop",
+      "achieved": 1,
+      "unlocktime": 1759920650,
+      "name": "Like a Rhino in a China Shop",
+      "description": "Smash into 15 breakable objects while steering Rhino through the shopping mall"
+    },
+    {
+      "apiname": "competitivespirit",
+      "achieved": 1,
+      "unlocktime": 1759923141,
+      "name": "Competitive Spirit",
+      "description": ""
+    },
+    {
+      "apiname": "bestfriesintown",
+      "achieved": 1,
+      "unlocktime": 1759929525,
+      "name": "Best Fries in Town",
+      "description": "Pay your respects to a legend in the Upper West Side"
+    },
+    {
+      "apiname": "jjjwouldbeproud",
+      "achieved": 1,
+      "unlocktime": 1759902096,
+      "name": "JJJ Would Be Proud",
+      "description": "Apply a sticker and customise lighting while in Photo Mode"
+    },
+    {
+      "apiname": "trapped",
+      "achieved": 1,
+      "unlocktime": 1759901154,
+      "name": "Trapped",
+      "description": "Defeat 50 enemies with the Remote Mine gadget"
+    },
+    {
+      "apiname": "fivestarreview",
+      "achieved": 1,
+      "unlocktime": 1759777829,
+      "name": "Five Star Review",
+      "description": "Complete all FNSM app requests"
+    },
+    {
+      "apiname": "modthatsuit",
+      "achieved": 1,
+      "unlocktime": 1759729778,
+      "name": "Mod that Suit",
+      "description": "Craft a Suit Mod"
+    },
+    {
+      "apiname": "lookwithbettereyes",
+      "achieved": 1,
+      "unlocktime": 1759771212,
+      "name": "Look with Better Eyes",
+      "description": "Craft a Visor Mod"
+    },
+    {
+      "apiname": "nevergiveup",
+      "achieved": 1,
+      "unlocktime": 1759922407,
+      "name": "Never Give Up",
+      "description": "Pay respects at Jefferson Davis' grave in Harlem"
+    },
+    {
+      "apiname": "agiftfrompete",
+      "achieved": 1,
+      "unlocktime": 1759729007,
+      "name": "A Gift From Pete",
+      "description": ""
+    },
+    {
+      "apiname": "crimemaster",
+      "achieved": 1,
+      "unlocktime": 1759920966,
+      "name": "Crime Master",
+      "description": "Complete all Bonus Objectives for every crime type"
+    },
+    {
+      "apiname": "nowheretohide",
+      "achieved": 1,
+      "unlocktime": 1759773693,
+      "name": "Nowhere to Hide",
+      "description": "Perform 100 Stealth Takedowns"
+    },
+    {
+      "apiname": "i_monaboat",
+      "achieved": 1,
+      "unlocktime": 1759774431,
+      "name": "I'm on a Boat",
+      "description": "Ride the derelict boat in southern Chinatown"
+    },
+    {
+      "apiname": "sociallyacceptable",
+      "achieved": 1,
+      "unlocktime": 1759921011,
+      "name": "Socially Acceptable",
+      "description": "Scroll through the entire Social Feed at the end of the story"
+    },
+    {
+      "apiname": "plusplus",
+      "achieved": 1,
+      "unlocktime": 1759940930,
+      "name": "Plus Plus",
+      "description": "Complete the game on New Game+"
+    }
+  ]
+}

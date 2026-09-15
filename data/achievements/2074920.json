@@ -1,0 +1,179 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2074920,
+  "game": "The First Descendant",
+  "total": 24,
+  "unlocked": 24,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:28.070887+00:00",
+  "achievements": [
+    {
+      "apiname": "TFD_ACHIEVEMENT_1",
+      "achieved": 1,
+      "unlocktime": 1719922674,
+      "name": "Ready to Move On?",
+      "description": "Complete Retrieve the Ironheart operation and return to Albion"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_2",
+      "achieved": 1,
+      "unlocktime": 1719933643,
+      "name": "First Sweep Operation",
+      "description": "Complete all available missions and Descendant duties in Kingston"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_3",
+      "achieved": 1,
+      "unlocktime": 1719973825,
+      "name": "Hope Within the Dust",
+      "description": "Complete all available missions and Descendant duties in The Sterile Land"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_4",
+      "achieved": 1,
+      "unlocktime": 1719985716,
+      "name": "Knock, Knock! Who is it? ",
+      "description": "Complete all available missions and Descendant duties in Vespers"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_5",
+      "achieved": 1,
+      "unlocktime": 1719934170,
+      "name": "Pre-emptive Strike for the Future",
+      "description": "Complete a Void Intercept Battle for the first time"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_6",
+      "achieved": 1,
+      "unlocktime": 1723356567,
+      "name": "I Can See the Future of the Colossi",
+      "description": "Complete 10 Void Intercept Battles"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_7",
+      "achieved": 1,
+      "unlocktime": 1720231129,
+      "name": "Power! O, Infinite Power!",
+      "description": "Reach Mastery Rank Level 10"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_8",
+      "achieved": 1,
+      "unlocktime": 1719923011,
+      "name": "Is This How You Insert it?",
+      "description": "Equip a module for the first time"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_9",
+      "achieved": 1,
+      "unlocktime": 1720233428,
+      "name": "This Is Great, Sevenfold",
+      "description": "Enhance any module to +7"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_10",
+      "achieved": 1,
+      "unlocktime": 1724680943,
+      "name": "And Combining, to Boot",
+      "description": "Combine modules 7 times"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_11",
+      "achieved": 1,
+      "unlocktime": 1719986021,
+      "name": "Execute Order 77",
+      "description": "Dismantle modules 77 times"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_12",
+      "achieved": 1,
+      "unlocktime": 1723859650,
+      "name": "Slot Maketh Module",
+      "description": "Assign module socket types 10 times"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_13",
+      "achieved": 1,
+      "unlocktime": 1724053571,
+      "name": "Place for Something Special",
+      "description": "Expand the module capacity of a weapon that uses Special Rounds"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_14",
+      "achieved": 1,
+      "unlocktime": 1723356567,
+      "name": "Modules Maketh Descendant",
+      "description": "Expand a Descendant's Module Capacity"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_15",
+      "achieved": 1,
+      "unlocktime": 1720000328,
+      "name": "Ready, Extract, Complete",
+      "description": "Level up a weapon through Weapon Transmission"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_16",
+      "achieved": 1,
+      "unlocktime": 1720005479,
+      "name": "Growing Possibility",
+      "description": "Enhance a weapon's Unique Ability for the first time"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_17",
+      "achieved": 1,
+      "unlocktime": 1719934567,
+      "name": "Out of Weapons",
+      "description": "Dismantle weapons 50 times"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_18",
+      "achieved": 1,
+      "unlocktime": 1725292375,
+      "name": "This Reaction's a First",
+      "description": "Enhance a Reactor for the first time"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_19",
+      "achieved": 1,
+      "unlocktime": 1719934432,
+      "name": "The Sensible Life of Research",
+      "description": "Complete research for the first time"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_20",
+      "achieved": 1,
+      "unlocktime": 1719985716,
+      "name": "No Hope for the Vulgus",
+      "description": "Obtain an Ultimate tier weapon"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_21",
+      "achieved": 1,
+      "unlocktime": 1723345327,
+      "name": "Descendants, Assemble",
+      "description": "Own 5 Descendants"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_22",
+      "achieved": 1,
+      "unlocktime": 1720001334,
+      "name": "What Was Always Expected",
+      "description": "Reach Level 40 with any Descendant"
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_23",
+      "achieved": 1,
+      "unlocktime": 1747425994,
+      "name": "Special Operation Task Squad",
+      "description": "Clear up to Wave 7 in the Kingston Albion Resource Defense mission."
+    },
+    {
+      "apiname": "TFD_ACHIEVEMENT_24",
+      "achieved": 1,
+      "unlocktime": 1723443873,
+      "name": "Good Things Happen Twice",
+      "description": "Successfully remove Colossi parts 2 times (excluding Retrieve the Ironheart operation)"
+    }
+  ]
+}

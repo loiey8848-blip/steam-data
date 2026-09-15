@@ -1,0 +1,312 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 251570,
+  "game": "7 Days to Die",
+  "total": 43,
+  "unlocked": 27,
+  "percent": 62.8,
+  "updated_at_utc": "2026-09-15T06:48:47.071597+00:00",
+  "achievements": [
+    {
+      "apiname": "StoneAxe",
+      "achieved": 1,
+      "unlocktime": 1648651981,
+      "name": "Cause he's the Ax Man",
+      "description": "Craft your first Stone Ax"
+    },
+    {
+      "apiname": "Bedroll",
+      "achieved": 1,
+      "unlocktime": 1648651956,
+      "name": "Good in the sack",
+      "description": "Place your first sleeping bag, old bed or king sized bed"
+    },
+    {
+      "apiname": "BleedOut",
+      "achieved": 1,
+      "unlocktime": 1648652074,
+      "name": "Playing Doctor",
+      "description": "Stop a critical bleed-out with a bandage, first aid bandage or first aid kit"
+    },
+    {
+      "apiname": "WoodFrame",
+      "achieved": 1,
+      "unlocktime": 1648652382,
+      "name": "Handy Man",
+      "description": "Craft your first wood frame"
+    },
+    {
+      "apiname": "LandClaim",
+      "achieved": 1,
+      "unlocktime": 1648652578,
+      "name": "The Homestead Act",
+      "description": "Place your first Land Claim"
+    },
+    {
+      "apiname": "Items50",
+      "achieved": 1,
+      "unlocktime": 1648798718,
+      "name": "Alexander Bell",
+      "description": "Craft 50 Items"
+    },
+    {
+      "apiname": "Items500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Benjamin Franklin",
+      "description": "Craft 500 Items"
+    },
+    {
+      "apiname": "Items1500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Henry Ford",
+      "description": "Craft 1500 Items"
+    },
+    {
+      "apiname": "Items5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thomas Edison",
+      "description": "Craft 5000 Items"
+    },
+    {
+      "apiname": "Zombies10",
+      "achieved": 1,
+      "unlocktime": 1648653513,
+      "name": "The Grave Digger",
+      "description": "Kill 10 zombies"
+    },
+    {
+      "apiname": "Zombies100",
+      "achieved": 1,
+      "unlocktime": 1648730646,
+      "name": "The Embalmer",
+      "description": "Kill 100 zombies"
+    },
+    {
+      "apiname": "Zombies500",
+      "achieved": 1,
+      "unlocktime": 1648798172,
+      "name": "The Mortician",
+      "description": "Kill 500 zombies"
+    },
+    {
+      "apiname": "Zombies2500",
+      "achieved": 1,
+      "unlocktime": 1696313781,
+      "name": "The Funeral Director",
+      "description": "Kill 2500 zombies"
+    },
+    {
+      "apiname": "Players1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Napoleon",
+      "description": "Kill another player"
+    },
+    {
+      "apiname": "Players5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Julius Caesar",
+      "description": "Kill 5 other players"
+    },
+    {
+      "apiname": "Players10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genghis Khan",
+      "description": "Kill 10 other players"
+    },
+    {
+      "apiname": "Players25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alexander the great",
+      "description": "Kill 25 other players"
+    },
+    {
+      "apiname": "Travel10",
+      "achieved": 1,
+      "unlocktime": 1648659675,
+      "name": "Christopher Columbus",
+      "description": "Travel 10 Kilometers"
+    },
+    {
+      "apiname": "Travel50",
+      "achieved": 1,
+      "unlocktime": 1648799582,
+      "name": "Ferdinand Magellan",
+      "description": "Travel 50 Kilometers"
+    },
+    {
+      "apiname": "Travel250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marco Polo",
+      "description": "Travel 250 Kilometers"
+    },
+    {
+      "apiname": "Travel1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neil Armstrong",
+      "description": "Travel 1000 Kilometers"
+    },
+    {
+      "apiname": "Die1",
+      "achieved": 1,
+      "unlocktime": 1648812069,
+      "name": "Bite the dust",
+      "description": "Die one Time"
+    },
+    {
+      "apiname": "Die7",
+      "achieved": 1,
+      "unlocktime": 1695571735,
+      "name": "Knock em Dead",
+      "description": "Die 7 Times"
+    },
+    {
+      "apiname": "Die14",
+      "achieved": 1,
+      "unlocktime": 1695655968,
+      "name": "Your Number's Up",
+      "description": "Die 14 Times"
+    },
+    {
+      "apiname": "Die28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meet Your Maker",
+      "description": "Die 28 Times"
+    },
+    {
+      "apiname": "Fortitude4",
+      "achieved": 1,
+      "unlocktime": 1648812322,
+      "name": "Alive and Kicking",
+      "description": "Reached 4 in Fortitude"
+    },
+    {
+      "apiname": "Fortitude6",
+      "achieved": 1,
+      "unlocktime": 1648819495,
+      "name": "Fit as a Fiddle",
+      "description": "Reached 6 in Fortitude"
+    },
+    {
+      "apiname": "Fortitude8",
+      "achieved": 1,
+      "unlocktime": 1648826262,
+      "name": "Healthy as a Horse",
+      "description": "Reached 8 in Fortitude"
+    },
+    {
+      "apiname": "Fortitude10",
+      "achieved": 1,
+      "unlocktime": 1648826263,
+      "name": "The Picture of Good Health",
+      "description": "Reached 10 in Fortitude"
+    },
+    {
+      "apiname": "Level7",
+      "achieved": 1,
+      "unlocktime": 1648655132,
+      "name": "Scavenger",
+      "description": "Reached Level 7"
+    },
+    {
+      "apiname": "Level28",
+      "achieved": 1,
+      "unlocktime": 1648730646,
+      "name": "Adventurer",
+      "description": "Reached Level 28"
+    },
+    {
+      "apiname": "Level70",
+      "achieved": 1,
+      "unlocktime": 1695571735,
+      "name": "Nomad",
+      "description": "Reached Level 70"
+    },
+    {
+      "apiname": "Level140",
+      "achieved": 1,
+      "unlocktime": 1695571735,
+      "name": "Warrior",
+      "description": "Reached Level 140"
+    },
+    {
+      "apiname": "Level300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivalist",
+      "description": "Reached Level 300"
+    },
+    {
+      "apiname": "Height255",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On top of the world",
+      "description": ""
+    },
+    {
+      "apiname": "Height0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dig Deep",
+      "description": ""
+    },
+    {
+      "apiname": "SubZeroNaked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The polar bare club",
+      "description": ""
+    },
+    {
+      "apiname": "Kills44Mag",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirty Larry",
+      "description": ""
+    },
+    {
+      "apiname": "LegBreak",
+      "achieved": 1,
+      "unlocktime": 1648742000,
+      "name": "Evil Knievel",
+      "description": ""
+    },
+    {
+      "apiname": "Life60Minute",
+      "achieved": 1,
+      "unlocktime": 1648655132,
+      "name": "Brush with Death",
+      "description": "60 Minutes Lived in a single Game"
+    },
+    {
+      "apiname": "Life180Minute",
+      "achieved": 1,
+      "unlocktime": 1648735677,
+      "name": "Near Death Experience",
+      "description": "180 Minutes Lived in a single Game"
+    },
+    {
+      "apiname": "Life600Minute",
+      "achieved": 1,
+      "unlocktime": 1649077142,
+      "name": "Cheated Death",
+      "description": "600 Minutes Lived in a single Game"
+    },
+    {
+      "apiname": "Life1680Minute",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nearly Immortal",
+      "description": "1680 Minutes Lived in a single Game"
+    }
+  ]
+}

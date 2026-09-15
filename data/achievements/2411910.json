@@ -1,0 +1,151 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2411910,
+  "game": "嘣境回收战",
+  "total": 20,
+  "unlocked": 20,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:49.545959+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_Power_100000",
+      "achieved": 1,
+      "unlocktime": 1765379916,
+      "name": "NEWBIE",
+      "description": "The comprehensive combat power reaches 100K"
+    },
+    {
+      "apiname": "ACH_Power_100000000",
+      "achieved": 1,
+      "unlocktime": 1774847504,
+      "name": "READY PLAYER",
+      "description": "The comprehensive combat power reaches 100M"
+    },
+    {
+      "apiname": "ACH_Power_10000000000",
+      "achieved": 1,
+      "unlocktime": 1775288316,
+      "name": "DESTROYER",
+      "description": "The comprehensive combat power reaches 10 billion"
+    },
+    {
+      "apiname": "ACH_Stage_100",
+      "achieved": 1,
+      "unlocktime": 1764262625,
+      "name": "Welcome to the miniBONG! 01",
+      "description": "Clear 100 levels"
+    },
+    {
+      "apiname": "ACH_Stage_200",
+      "achieved": 1,
+      "unlocktime": 1764262625,
+      "name": "Welcome to the miniBONG! 02",
+      "description": "Clear 200 levels"
+    },
+    {
+      "apiname": "ACH_Stage_300",
+      "achieved": 1,
+      "unlocktime": 1764262625,
+      "name": "Welcome to the miniBONG! 03",
+      "description": "Clear 300 levels"
+    },
+    {
+      "apiname": "ACH_Stage_400",
+      "achieved": 1,
+      "unlocktime": 1764265736,
+      "name": "Welcome to the miniBONG! 04",
+      "description": "Clear 400 levels"
+    },
+    {
+      "apiname": "ACH_Stage_500",
+      "achieved": 1,
+      "unlocktime": 1764401148,
+      "name": "Welcome to the miniBONG! 05",
+      "description": "Clear 500 levels"
+    },
+    {
+      "apiname": "ACH_Stage_600",
+      "achieved": 1,
+      "unlocktime": 1765462470,
+      "name": "Welcome to the miniBONG! 06",
+      "description": "Clear 600 levels"
+    },
+    {
+      "apiname": "ACH_Stage_700",
+      "achieved": 1,
+      "unlocktime": 1765558810,
+      "name": "Welcome to the miniBONG! 07",
+      "description": "Clear 700 levels"
+    },
+    {
+      "apiname": "ACH_Stage_800",
+      "achieved": 1,
+      "unlocktime": 1765970773,
+      "name": "Welcome to the miniBONG! 08",
+      "description": "Clear 800 levels"
+    },
+    {
+      "apiname": "ACH_Stage_900",
+      "achieved": 1,
+      "unlocktime": 1766033205,
+      "name": "Welcome to the miniBONG! 09",
+      "description": "Clear 900 levels"
+    },
+    {
+      "apiname": "ACH_Stage_1000",
+      "achieved": 1,
+      "unlocktime": 1769993046,
+      "name": "New Beginning",
+      "description": "Clear 1,000 levels"
+    },
+    {
+      "apiname": "ACH_Stage_1500",
+      "achieved": 1,
+      "unlocktime": 1774861784,
+      "name": "Getting Better",
+      "description": "Clear 1,500 levels"
+    },
+    {
+      "apiname": "ACH_Stage_3000",
+      "achieved": 1,
+      "unlocktime": 1774899123,
+      "name": "Crazy Slaughter",
+      "description": "Clear 3,000 levels"
+    },
+    {
+      "apiname": "ACH_Stage_5000",
+      "achieved": 1,
+      "unlocktime": 1775014130,
+      "name": "Nothing to be afraid!",
+      "description": "Clear 5,000 levels"
+    },
+    {
+      "apiname": "ACH_AllAtlasUnlock",
+      "achieved": 1,
+      "unlocktime": 1766117087,
+      "name": "New filled wardrobe",
+      "description": "Unlock 10 illustrated books"
+    },
+    {
+      "apiname": "ACH_AllUnitUnlock",
+      "achieved": 1,
+      "unlocktime": 1766116960,
+      "name": "All characters unlocked",
+      "description": "All characters unlocked"
+    },
+    {
+      "apiname": "ACH_PutOnAllSlot",
+      "achieved": 1,
+      "unlocktime": 1766116983,
+      "name": "DRESS UP MASTER",
+      "description": "Putting on a full costume for the first time"
+    },
+    {
+      "apiname": "ACH_AllEquipmentUnlock",
+      "achieved": 1,
+      "unlocktime": 1774806594,
+      "name": " Completed the whole picture book",
+      "description": " Completed the whole picture book"
+    }
+  ]
+}

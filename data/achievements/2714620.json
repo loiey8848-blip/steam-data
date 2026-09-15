@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2714620,
+  "game": "Duck Detective: The Ghost of Glamping",
+  "total": 11,
+  "unlocked": 11,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:00.927325+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement.WarmingUp",
+      "achieved": 1,
+      "unlocktime": 1780743879,
+      "name": "Warming Up",
+      "description": "Solve a deducktion"
+    },
+    {
+      "apiname": "Achievement.Judgemental",
+      "achieved": 1,
+      "unlocktime": 1780744505,
+      "name": "Judgemental",
+      "description": "Complete 5 inspections"
+    },
+    {
+      "apiname": "Achievement.Elementary",
+      "achieved": 1,
+      "unlocktime": 1780746237,
+      "name": "Elementary, my dear Frederson",
+      "description": "Solve 5 deducktions"
+    },
+    {
+      "apiname": "Achievement.Kicking",
+      "achieved": 1,
+      "unlocktime": 1780745664,
+      "name": "Kicking bins, and taking names",
+      "description": "Fill out all suspects' names"
+    },
+    {
+      "apiname": "Achievement.BirdBrain",
+      "achieved": 1,
+      "unlocktime": 1780747774,
+      "name": "Bird Brain Brilliance",
+      "description": "Solve 10 deducktions"
+    },
+    {
+      "apiname": "Achievement.Water",
+      "achieved": 1,
+      "unlocktime": 1780746641,
+      "name": "Duck to Water",
+      "description": "Take a dip in the jacuzzi"
+    },
+    {
+      "apiname": "Achievement.Ugly",
+      "achieved": 1,
+      "unlocktime": 1780749156,
+      "name": "An Ugly Mistress",
+      "description": "Solve the mystery"
+    },
+    {
+      "apiname": "Achievement.Feather",
+      "achieved": 1,
+      "unlocktime": 1780747618,
+      "name": "Feather Fingers",
+      "description": "Unlock the camouflage bag"
+    },
+    {
+      "apiname": "Achievement.Scared",
+      "achieved": 1,
+      "unlocktime": 1780748619,
+      "name": "Scaredy Croc",
+      "description": "Enter the sanatorium"
+    },
+    {
+      "apiname": "Achievement.Time",
+      "achieved": 1,
+      "unlocktime": 1780748551,
+      "name": "A Profound Waste of Time",
+      "description": "Kick the beachball into the VIP area"
+    },
+    {
+      "apiname": "Achievement.Scream",
+      "achieved": 1,
+      "unlocktime": 1780749308,
+      "name": "Scream Therapy",
+      "description": "Quack"
+    }
+  ]
+}

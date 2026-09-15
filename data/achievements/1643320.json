@@ -1,0 +1,543 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1643320,
+  "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "total": 76,
+  "unlocked": 4,
+  "percent": 5.3,
+  "updated_at_utc": "2026-09-15T06:52:16.797429+00:00",
+  "achievements": [
+    {
+      "apiname": "Progressive_DoHeadshots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clincher",
+      "description": "100 enemies shot in the head. Not bad for a head start…"
+    },
+    {
+      "apiname": "Progressive_DoStealthKills",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goodnight",
+      "description": "Get 20 covert kills. The Zone likes it quiet."
+    },
+    {
+      "apiname": "Sandwich",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the go",
+      "description": "Bread and sausage — Zone's most popular sandwich recipe."
+    },
+    {
+      "apiname": "PerfectBarter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tit for tat",
+      "description": "Sidorovich's worst nightmare: buy and sell goods for the exact same amount of coupons in one deal."
+    },
+    {
+      "apiname": "PurchaseUpgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First touches",
+      "description": "First equipment enhancement. Never the last, for most Zone folks."
+    },
+    {
+      "apiname": "HeadshotStreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The good, the bad and the ugly",
+      "description": "5 headshots in 10 seconds. Good eye."
+    },
+    {
+      "apiname": "RoyalFlush",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bingo",
+      "description": "Experience the effects of bleeding, sleep, hunger, alcohol, radiation and psi. Doesn't sound pretty."
+    },
+    {
+      "apiname": "MutantHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zone's deadliest predator",
+      "description": "Kill a mutant of every kind. You'll need a bigger wall to fit all those trophies!"
+    },
+    {
+      "apiname": "Gunsmith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pump it up",
+      "description": "Fully enhance any type of weapon. Somewhere out there, a Zone technician just shed a tear of pride.."
+    },
+    {
+      "apiname": "Discovery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The four winds",
+      "description": "Unlock the whole map. Few folks know the Zone this well."
+    },
+    {
+      "apiname": "BreakEquipment",
+      "achieved": 1,
+      "unlocktime": 1733352149,
+      "name": "Taking it for granted",
+      "description": "Gear broken beyond repair. Don't forget to pay regular visits to the technician."
+    },
+    {
+      "apiname": "ArtiHoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miracle hoarder",
+      "description": "Collect all artifacts. What about arch-artifacts?"
+    },
+    {
+      "apiname": "ArchiHoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Curiouser and curiouser!",
+      "description": "Collect all arch-artifacts. A priceless collection, arguably too weird, even by Zone standards."
+    },
+    {
+      "apiname": "Progressive_NoObstacleTooBig",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No obstacle too big…",
+      "description": "Kill 50 enemies through obstacles. No one in the Zone is really safe."
+    },
+    {
+      "apiname": "Progressive_Demoman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BOOM!",
+      "description": "20 enemies killed by blowing up the surroundings. Save on hand grenades and enjoy the fireworks."
+    },
+    {
+      "apiname": "UseDifferentWeapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Personal approach",
+      "description": "One fight, four enemies, killed by different weapons. That trick would charm the hell out of Mavka!"
+    },
+    {
+      "apiname": "LonerShooter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loner shooter",
+      "description": "Shoot an enemy in the head from 75 meters. No scope-peeking!"
+    },
+    {
+      "apiname": "MerryGoRound",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merry-go-round",
+      "description": "Drop a corpse into the Whirlgig anomaly. A joy for someone who never got to ride the Ferris Wheel."
+    },
+    {
+      "apiname": "DrunkMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping your hands steady",
+      "description": "Shoot an enemy in the head, through an obstacle, having the intoxication effect. "
+    },
+    {
+      "apiname": "CatchingUp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catching up",
+      "description": "Shoot an incoming grenade to make it explode. Nice view!"
+    },
+    {
+      "apiname": "BlueHoarder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash Royal",
+      "description": "Gather all armor and gear enhancement flash drives."
+    },
+    {
+      "apiname": "WipedOut",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wiped out",
+      "description": "Kill a Rodent using a grenade launcher. A good wipe-out makes the Duty proud."
+    },
+    {
+      "apiname": "CanOpener",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can opener",
+      "description": "Use a knife to kill an enemy wearing an exoskeleton. Epic battle indeed."
+    },
+    {
+      "apiname": "Progressive_CouponsToBurn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coupons to burn",
+      "description": "Spend over 1,000,000 coupons. Myklukha and Sidorovich will fight hard over their favorite customer."
+    },
+    {
+      "apiname": "Bouncy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouncy",
+      "description": "A successful jump from a 30-meter height. No parachute, though."
+    },
+    {
+      "apiname": "ChimeraRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Run, stalker, run!",
+      "description": "That Chimera made you run like an Olympic champion!"
+    },
+    {
+      "apiname": "SneakyClearLair",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peace and quiet",
+      "description": "Kill everyone in the camp before the alarm is set off. They couldn't see it coming!"
+    },
+    {
+      "apiname": "FinishSquad",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proxy",
+      "description": "Kill a squad that just finished off another squad and won the fight. Or so they thought…"
+    },
+    {
+      "apiname": "Lockpick",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lockpick",
+      "description": "Lure a mutant into an anomaly. Hardly a noble deed, but it gets the job done."
+    },
+    {
+      "apiname": "HelloZone",
+      "achieved": 1,
+      "unlocktime": 1732861186,
+      "name": "Welcome to the Zone",
+      "description": "Prologue complete, but this is so far from over."
+    },
+    {
+      "apiname": "GoodbyeLesserZone",
+      "achieved": 1,
+      "unlocktime": 1733352615,
+      "name": "Good hunting, stalker",
+      "description": ""
+    },
+    {
+      "apiname": "MeetShram",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Would you like some toast?",
+      "description": ""
+    },
+    {
+      "apiname": "MainPrize",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eyes on the prize",
+      "description": ""
+    },
+    {
+      "apiname": "CrystalLock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "House of glass",
+      "description": ""
+    },
+    {
+      "apiname": "KillFaust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Such is the will of the Monolith",
+      "description": ""
+    },
+    {
+      "apiname": "OSoznanie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I see you have many questions",
+      "description": ""
+    },
+    {
+      "apiname": "DoctorMystery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doctor's oath",
+      "description": ""
+    },
+    {
+      "apiname": "MeetStrelok",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Living legend",
+      "description": ""
+    },
+    {
+      "apiname": "MeetDegtyarev",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Prypiat guardian",
+      "description": ""
+    },
+    {
+      "apiname": "EndingKorshunov",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brave new world",
+      "description": ""
+    },
+    {
+      "apiname": "EndingShram",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Today never ends",
+      "description": ""
+    },
+    {
+      "apiname": "EndingStrelok",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "She will never be free",
+      "description": ""
+    },
+    {
+      "apiname": "EndingKaymanov",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Project Y",
+      "description": ""
+    },
+    {
+      "apiname": "SaveChernozem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wardens drool",
+      "description": ""
+    },
+    {
+      "apiname": "TheSmartest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalker's smarts",
+      "description": ""
+    },
+    {
+      "apiname": "SaveSkadovsk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The good ol' days",
+      "description": ""
+    },
+    {
+      "apiname": "ShootApples",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apple-shot",
+      "description": ""
+    },
+    {
+      "apiname": "SaveZalesie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baptism by fire",
+      "description": ""
+    },
+    {
+      "apiname": "Povodok",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On a leash",
+      "description": ""
+    },
+    {
+      "apiname": "VerySpecialWeapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your move!",
+      "description": ""
+    },
+    {
+      "apiname": "SitNearBonfire",
+      "achieved": 1,
+      "unlocktime": 1733320913,
+      "name": "Goss",
+      "description": "Join Stalkers for some campfire gossip."
+    },
+    {
+      "apiname": "KillStrelok",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legends never die",
+      "description": ""
+    },
+    {
+      "apiname": "KillKorshunov",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All quiet in the Zone",
+      "description": ""
+    },
+    {
+      "apiname": "KillShram",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alas poor Yorick",
+      "description": ""
+    },
+    {
+      "apiname": "AcceptFaustHelp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One awkward step",
+      "description": ""
+    },
+    {
+      "apiname": "DeclineFaustHelp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monolith envoy",
+      "description": ""
+    },
+    {
+      "apiname": "BetweenTheLines",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Between the lines",
+      "description": ""
+    },
+    {
+      "apiname": "FindAllScanners",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scanning complete",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Woods",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High voltage",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Agreement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Casus Belli ",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Science",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The territory of the future",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_BubbleLeave",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome back",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_OldLegends",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadows of the idols",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_SideMavka",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom of Choice",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_SideZulus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is our Duty",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Brainstorm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a no-brainer!",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_ArenaBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The end of the Golden Era",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_RailLeader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "His last order",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_HomeSweetHome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kilometer Zero",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_DutyCamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the heart of the enemy",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_FreedomCamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The times of Freedom",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_OneTrueDuty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle on – and win your battle!",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_TrueFreedomPrice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contra spem spero",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Assembler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The draw of the Flare",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_HeartHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get your hands dirty",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_WhatsThatNoise",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voices of the Zone",
+      "description": ""
+    }
+  ]
+}

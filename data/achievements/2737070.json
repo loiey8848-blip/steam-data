@@ -1,0 +1,466 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2737070,
+  "game": "Crime Simulator",
+  "total": 65,
+  "unlocked": 13,
+  "percent": 20.0,
+  "updated_at_utc": "2026-09-15T06:53:01.304961+00:00",
+  "achievements": [
+    {
+      "apiname": "COMPLETE_TUTORIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Understood?",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "STEAL_25_ITEMS",
+      "achieved": 1,
+      "unlocktime": 1784217982,
+      "name": "Appretince thief",
+      "description": "Steal 25 items in one game"
+    },
+    {
+      "apiname": "STEAL_100_ITEMS",
+      "achieved": 1,
+      "unlocktime": 1784227947,
+      "name": "Master thief",
+      "description": "Steal 100 items in one game"
+    },
+    {
+      "apiname": "COMPLETE_STANDARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory",
+      "description": "Complete the standard game mode"
+    },
+    {
+      "apiname": "COMPLETE_HARDCORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Insane victory",
+      "description": "Complete the hardcore game mode"
+    },
+    {
+      "apiname": "COMPLETE_COMPLETIONIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patient victory",
+      "description": "Complete the completionist game mode"
+    },
+    {
+      "apiname": "COMPLETE_5_CHALLENGES",
+      "achieved": 1,
+      "unlocktime": 1784248394,
+      "name": "Challenge me more!",
+      "description": "Complete 5 challenges in one game"
+    },
+    {
+      "apiname": "COMPLETE_10_CHALLENGES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master challenger",
+      "description": "Complete 10 challenges in one game"
+    },
+    {
+      "apiname": "COMPLETE_10_JOBS",
+      "achieved": 1,
+      "unlocktime": 1784269660,
+      "name": "Employement",
+      "description": "Complete 10 jobs in one game"
+    },
+    {
+      "apiname": "COMPLETE_5_ITEM_LISTS",
+      "achieved": 1,
+      "unlocktime": 1784228483,
+      "name": "Delivery man",
+      "description": "Complete 5 item request lists in one game"
+    },
+    {
+      "apiname": "STEAL_5_VIP_ITEMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm the VIP",
+      "description": "Steal 5 VIP items in one game"
+    },
+    {
+      "apiname": "USE_ABILITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can do that now?",
+      "description": "Use any ability for the first time"
+    },
+    {
+      "apiname": "DIE",
+      "achieved": 1,
+      "unlocktime": 1784214481,
+      "name": "Whoops",
+      "description": "Die"
+    },
+    {
+      "apiname": "10_SKILLS_LEARNED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "School time",
+      "description": "Learn 10 skills"
+    },
+    {
+      "apiname": "COMPLETE_RESIDENCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist",
+      "description": "Complete any residence (all loot, jobs)"
+    },
+    {
+      "apiname": "POLICEMAN_DOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Policeman hunter",
+      "description": "Take out a policeman"
+    },
+    {
+      "apiname": "UNLOCK_10_REWARDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rewards",
+      "description": "Unlock 10 world-level rewards"
+    },
+    {
+      "apiname": "1000_CREDITS",
+      "achieved": 1,
+      "unlocktime": 1784217197,
+      "name": "Gimme credits",
+      "description": "Earn 1000 credits in one game"
+    },
+    {
+      "apiname": "5000_CREDITS",
+      "achieved": 1,
+      "unlocktime": 1784224321,
+      "name": "Gimme more credits!",
+      "description": "Earn 5000 credits in one game"
+    },
+    {
+      "apiname": "3_STAR_ESCAPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three & Free",
+      "description": "Escape a 3 star chase"
+    },
+    {
+      "apiname": "USE_GOLDEN_CARD",
+      "achieved": 1,
+      "unlocktime": 1784218744,
+      "name": "Golden card",
+      "description": "Deliver a golden card for the first time"
+    },
+    {
+      "apiname": "UPGRADE_MODULE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upgrades?!",
+      "description": "Use an upgrade module for the first time"
+    },
+    {
+      "apiname": "BUY_VOUCHER_MACHINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voucher machine",
+      "description": "Purchase the voucher machine"
+    },
+    {
+      "apiname": "HAVE_10_FURNITURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furnished base",
+      "description": "Have at least 10 pieces of furniture in your base"
+    },
+    {
+      "apiname": "BUY_CROSSBOW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crossbow owner",
+      "description": "Purchase the crossbow"
+    },
+    {
+      "apiname": "BUY_SILENCED_PISTOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hitman",
+      "description": "Purchase the silenced pistol"
+    },
+    {
+      "apiname": "BUY_DRONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drone owner",
+      "description": "Purchase the drone"
+    },
+    {
+      "apiname": "BUY_WEED_RACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I can grow weed now?",
+      "description": "Purchase the weed-growing rack"
+    },
+    {
+      "apiname": "DOUBLE_QUOTA",
+      "achieved": 1,
+      "unlocktime": 1784349001,
+      "name": "Efficient worker",
+      "description": "Deliver at least 2x the required quota"
+    },
+    {
+      "apiname": "BUY_INVISIBILITY_TOOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "John Cena",
+      "description": "Purchase the invisibility tool"
+    },
+    {
+      "apiname": "TIMED_JOB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Timed job",
+      "description": "Complete any timed job"
+    },
+    {
+      "apiname": "UNLOCK_20_REWARDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rewards 2",
+      "description": "Unlock 20 world-level rewards"
+    },
+    {
+      "apiname": "TRIPLE_QUOTA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quota master",
+      "description": "Deliver at least 3x the required quota"
+    },
+    {
+      "apiname": "ALL_ABILITIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master criminal",
+      "description": "Unlock all abilities"
+    },
+    {
+      "apiname": "10000_CREDITS",
+      "achieved": 1,
+      "unlocktime": 1784315264,
+      "name": "Rich",
+      "description": "Earn 10 000 credits in one game"
+    },
+    {
+      "apiname": "5_BLOWTORCH_LOCKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welder",
+      "description": "Open 5 metal locks using the blowtorch"
+    },
+    {
+      "apiname": "DOUBLE_QUOTA_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worker of the year",
+      "description": "Deliver at least 2x the required quota on 'Master' difficulty"
+    },
+    {
+      "apiname": "CROSSBOW_DISABLE_PANEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magic dart",
+      "description": "Disable a security keypad using the crossbow's hacking dart"
+    },
+    {
+      "apiname": "DROP_OFF_5_ITEMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big delivery",
+      "description": "Use the drop-off box on the map to send at least 5 items to the truck. (Map drop-off boxes need to be unlocked first)"
+    },
+    {
+      "apiname": "REPAIR_LOOT_WORTH_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeping it shiny",
+      "description": "Repair loot worth over $500 using the repair workbench"
+    },
+    {
+      "apiname": "MAX_3_POLICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cautious",
+      "description": "Win a game on any mode with a maximum of 3 police calls"
+    },
+    {
+      "apiname": "STEAL_CAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car thief",
+      "description": "Steal and sell a car"
+    },
+    {
+      "apiname": "DESTROY_POLICE_DRONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drone hunter",
+      "description": "Destroy a police drone"
+    },
+    {
+      "apiname": "3_JOBS",
+      "achieved": 1,
+      "unlocktime": 1784300290,
+      "name": "Honest work",
+      "description": "Complete 3 jobs in one night"
+    },
+    {
+      "apiname": "HOARDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarder",
+      "description": "Have at least $25k worth of loot in the hideout"
+    },
+    {
+      "apiname": "INTERROGATOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interrogator",
+      "description": "Interrogate a tied up person"
+    },
+    {
+      "apiname": "COMPLETE_50_ITEM_LISTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delivery of a lifetime",
+      "description": "Complete 50 item request lists in one game"
+    },
+    {
+      "apiname": "CAR_WITH_LOOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trunkload",
+      "description": "Sell a stolen car with at least $10k worth of loot in the trunk"
+    },
+    {
+      "apiname": "CAR_REPAIR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car mechanic",
+      "description": "Repair a broken car with a car toolbox"
+    },
+    {
+      "apiname": "FULL_TANK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ready to go",
+      "description": "Sell a car with a tank full of gas"
+    },
+    {
+      "apiname": "COMPETITION_VICTORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Competition",
+      "description": "Win a competition against other players"
+    },
+    {
+      "apiname": "COMPETITION_VICTORY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Competition 2",
+      "description": "Win a competition 3 times"
+    },
+    {
+      "apiname": "JEWELER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jeweler",
+      "description": "Inspect jewelry for the first time"
+    },
+    {
+      "apiname": "HIDEOUT_EXPANSION",
+      "achieved": 1,
+      "unlocktime": 1784349933,
+      "name": "Living like a boss",
+      "description": "Purchase the hideout expansion"
+    },
+    {
+      "apiname": "HAVE_50_FURNITURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One more chair",
+      "description": "Have at least 50 pieces of furniture in your base"
+    },
+    {
+      "apiname": "GOLD_BAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forged in fire",
+      "description": "Smelt jewelry into a gold bar"
+    },
+    {
+      "apiname": "GOLD_STACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You seein' this?",
+      "description": "Purchase the 'Gold stack' furniture"
+    },
+    {
+      "apiname": "CASINO_FURNITURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to my Casino",
+      "description": "Purchase the Slot machine or the Lucky Spin machine"
+    },
+    {
+      "apiname": "CUSTOMIZE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Different",
+      "description": "Customize your truck / tools"
+    },
+    {
+      "apiname": "SLOT_MACHINE_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luck is a Skill",
+      "description": "Earn at least 500 credits from the slot machine"
+    },
+    {
+      "apiname": "MAKE_DRUG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drug dealer",
+      "description": "Prepare your first drug"
+    },
+    {
+      "apiname": "QUALITY_DRUG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking Bad",
+      "description": "Make a drug with 100% purity"
+    },
+    {
+      "apiname": "STEAL_3_CARS_ONE_CALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Theft Auto",
+      "description": "Steal and sell 3 cars with a maximum of one police call through the whole run"
+    },
+    {
+      "apiname": "MASTER_CRIMINAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master criminal",
+      "description": "Complete Standard mode without being detected"
+    },
+    {
+      "apiname": "HANDYMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handyman",
+      "description": "Repair 50 items in one game"
+    }
+  ]
+}

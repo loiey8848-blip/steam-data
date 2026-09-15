@@ -1,0 +1,389 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2709570,
+  "game": "Supermarket Together",
+  "total": 54,
+  "unlocked": 5,
+  "percent": 9.3,
+  "updated_at_utc": "2026-09-15T06:53:00.580388+00:00",
+  "achievements": [
+    {
+      "apiname": "0_Millionaire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Millionaire's Holiday",
+      "description": "Reach one million dollars in funds"
+    },
+    {
+      "apiname": "1_RestockerA",
+      "achieved": 1,
+      "unlocktime": 1747571674,
+      "name": "Basic Restocker",
+      "description": "Placed a total of 1000 products in shelves [Collective]"
+    },
+    {
+      "apiname": "2_RestockerB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Restocker",
+      "description": "Placed a total of 10000 products in shelves [Collective]"
+    },
+    {
+      "apiname": "3_RestockerC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Restocker",
+      "description": "Placed a total of 100000 products in shelves [Collective]"
+    },
+    {
+      "apiname": "4_RecyclerA",
+      "achieved": 1,
+      "unlocktime": 1747577186,
+      "name": "Basic Recycler",
+      "description": "Recycled a total of 50 boxes [Collective]"
+    },
+    {
+      "apiname": "5_RecyclerB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Recycler",
+      "description": "Recycled a total of 500 boxes [Collective]"
+    },
+    {
+      "apiname": "6_RecyclerC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Recycler",
+      "description": "Recycled a total of 2000 boxes [Collective]"
+    },
+    {
+      "apiname": "7_CustomersA",
+      "achieved": 1,
+      "unlocktime": 1747577186,
+      "name": "Some Success",
+      "description": "500 customers have gone through the store [Collective]"
+    },
+    {
+      "apiname": "8_CustomersB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is Rolling",
+      "description": "2000 customers have gone through the store [Collective]"
+    },
+    {
+      "apiname": "9_CustomersC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky High",
+      "description": "10000 customers have gone through the store [Collective]"
+    },
+    {
+      "apiname": "10_CashierA",
+      "achieved": 1,
+      "unlocktime": 1747571674,
+      "name": "Basic Cashier",
+      "description": "Checked out a total of 500 products [Collective]"
+    },
+    {
+      "apiname": "11_CashierB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Cashier",
+      "description": "Checked out a total of 2500 products [Collective]"
+    },
+    {
+      "apiname": "12_CashierC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Cashier",
+      "description": "Checked out a total of 10000 products [Collective]"
+    },
+    {
+      "apiname": "13_CleanerA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basic Cleaner",
+      "description": "Cleaned 50 trash [Collective]"
+    },
+    {
+      "apiname": "14_CleanerB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Cleaner",
+      "description": "Cleaned 200 trash [Collective]"
+    },
+    {
+      "apiname": "15_CleanerC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Cleaner",
+      "description": "Cleaned 500 trash [Collective]"
+    },
+    {
+      "apiname": "16_CorrectChange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful Cashier",
+      "description": "Return the correct change 100 times in a row while being a cashier"
+    },
+    {
+      "apiname": "17_DutyGuard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not On My Guard",
+      "description": "Hit a thief  with the broom 500 times"
+    },
+    {
+      "apiname": "18_CollectProducts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Someone Else Do It?",
+      "description": "Recover 500 dropped products"
+    },
+    {
+      "apiname": "19_CatPetting",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome Mr. Whiskers",
+      "description": "Pet the cat outside 100 times"
+    },
+    {
+      "apiname": "20_GoodEarnings",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gaining Traction!",
+      "description": "Achieve $25.000 or more in earnings in a single day"
+    },
+    {
+      "apiname": "21_CheckoutMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "KA-CHING!",
+      "description": "Have a customer pay more than 700 dollars"
+    },
+    {
+      "apiname": "22_DecorationsA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basic Decorator",
+      "description": "Have 50 or more decorations in your store (lights do count)"
+    },
+    {
+      "apiname": "23_DecorationsB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Decorator",
+      "description": "Have 100 or more decorations in your store"
+    },
+    {
+      "apiname": "24_DecorationsC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Decorator",
+      "description": "Have 200 or more decorations in your store"
+    },
+    {
+      "apiname": "25_SurveillanceA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Observation Duty?",
+      "description": "Analyzed 500 customers with the surveillance desk [Collective]"
+    },
+    {
+      "apiname": "26_SurveillanceB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caught Red Handed",
+      "description": "Catch 10 thieves with the surveillance desk [Collective]"
+    },
+    {
+      "apiname": "27_Demolition",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Is This Still Standing? (A)",
+      "description": "Demolish every possible pillar and beam in the classic layout"
+    },
+    {
+      "apiname": "28_Consequences",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defaulter",
+      "description": "Suffer the consequences of not paying a bank loan"
+    },
+    {
+      "apiname": "29_SalesA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good, Pretty, Cheap",
+      "description": "Do at least 10 sales [Collective]"
+    },
+    {
+      "apiname": "30_SalesB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better, Prettier, Cheaper",
+      "description": "Do at least 50 sales [Collective]"
+    },
+    {
+      "apiname": "31_CardboardBaler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feed The Machine",
+      "description": "Insert 500 boxes in the cardboard baler [Collective]"
+    },
+    {
+      "apiname": "32_Bales",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Condensed Recycling",
+      "description": "Recycle 40 cardboard bales [Collective]"
+    },
+    {
+      "apiname": "33_HiddenCat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might Need Two Ladders",
+      "description": "Find the missing cat in the classic layout"
+    },
+    {
+      "apiname": "34_CannotResist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who Could Resist?",
+      "description": "Sell 1000 extra products thanks to sales [Collective]"
+    },
+    {
+      "apiname": "35_Taxes",
+      "achieved": 1,
+      "unlocktime": 1747571677,
+      "name": "Taxes? In my store?",
+      "description": "Pay your first invoice [Collective]"
+    },
+    {
+      "apiname": "36_Responsible",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Responsible Owner",
+      "description": "Pay 25 invoices [Collective]"
+    },
+    {
+      "apiname": "37_OnlineServiceA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turning The Router On",
+      "description": "Pack your first online order."
+    },
+    {
+      "apiname": "38_OnlineServiceB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Connected",
+      "description": "Complete 25 online orders."
+    },
+    {
+      "apiname": "39_OnlineBenefit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtual Benefits",
+      "description": "Earn more than 25.000$ with online orders."
+    },
+    {
+      "apiname": "40_RepairA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Get To Work",
+      "description": "Repair your first device"
+    },
+    {
+      "apiname": "41_RepairB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrench Specialist",
+      "description": "Repair 30 devices [Collective]"
+    },
+    {
+      "apiname": "42_DearCustomers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Morning Dear Customers",
+      "description": "Place an announcement desk in your store"
+    },
+    {
+      "apiname": "43_FireExtinguisher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tool Of Chaos",
+      "description": "Get your hands on a fire extinguiser"
+    },
+    {
+      "apiname": "44_BystanderConvert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Please Check My Prices!!",
+      "description": "'Convince' 10 bystanders to become customers by pushing them inside your store with the fire extinguiser in the classic layout (Double transit door needed)"
+    },
+    {
+      "apiname": "45_SuperFood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Superfood",
+      "description": "Manufacture a recipe with at least 7 extra ingredients"
+    },
+    {
+      "apiname": "46_Manufacturing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Wider Array Of Products",
+      "description": "Acquire all manufacturing departments"
+    },
+    {
+      "apiname": "47_MRecipes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Good Wares Selection",
+      "description": "Unlock all manufacturing recipes available so far"
+    },
+    {
+      "apiname": "48_DemolitionPlaza",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Is This Still Standing Again?",
+      "description": "Demolish every possible pillar and beam in the plaza layout"
+    },
+    {
+      "apiname": "49_HiddenCatPlaza",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might Need Two Ladders... Or More",
+      "description": "Find the missing cat in the plaza layout"
+    },
+    {
+      "apiname": "50_EnigmaCube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Is This?",
+      "description": "Build the enigma cube in the plaza layout"
+    },
+    {
+      "apiname": "51_SodiumOverdose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sodium Overdose",
+      "description": "Launch a salt firework from the mini transport vehicle"
+    },
+    {
+      "apiname": "52_SixAtATime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Six At A Time",
+      "description": "Move 100 boxes with the mini transport vehicle"
+    },
+    {
+      "apiname": "53_MiniVacuum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are Extras Included?",
+      "description": "Vacuum 1000 stolen items with the mini transport vehicle"
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 828740,
+  "game": "Tales of the Neon Sea",
+  "total": 58,
+  "unlocked": 2,
+  "percent": 3.4,
+  "updated_at_utc": "2026-09-15T06:50:44.490676+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Misty Detective",
+      "description": "Accomplish all achievements"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow in the Mist",
+      "description": "Complete the game for the first time"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naturalist",
+      "description": "Collect 35 files"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magnetic Storm Kitten",
+      "description": "Complete Tesla Tower in under 120 seconds"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biochemical God Father",
+      "description": "Reveal Vito Bourbon's true identity"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level S BB-X",
+      "description": "Use \"God's Hand\" to repair BB-X"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recorder ",
+      "description": "Collect 10 files"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bomb Disposal Expert",
+      "description": "Disarm the bomb in under 120 seconds"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 1,
+      "unlocktime": 1765717529,
+      "name": "Capture Expert",
+      "description": "Capture cybog rats successfully"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 1,
+      "unlocktime": 1765717676,
+      "name": "All Eggs in One Basket",
+      "description": "Restore physical health using antique machinery"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "William!",
+      "description": "Successfully rescue trapped William"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"The Best Host\"",
+      "description": "Successfully carry out the repair job on BB-X"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back Alley Murder Case",
+      "description": "Figure out what happened in the back alley"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First Crime Scene",
+      "description": "Complete the reasoning of Mrs. Perry's case"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mental Crime",
+      "description": "Witness Jenny's acceptance of the birthday card"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "William the Holmes",
+      "description": "Complete William's big adventure"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friendship of the Bourbon Family",
+      "description": "Acquire the friendship of the Bourbon Family"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Creator",
+      "description": "Discover the source and development of biochemical pets"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Jack",
+      "description": "Beat Xiaosheng Bai in Black Jack"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gentleman",
+      "description": "Help out the drunk lady"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Drunk",
+      "description": "Complete Chapter 1"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bottoms Up",
+      "description": "Drink the secret sobering drug"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greedy Cat",
+      "description": "Feed Folkenburg twice"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VR Support",
+      "description": "Help VR players who have fallen in the street"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Machine",
+      "description": "Acquire 1st and 2nd generation Violence Tromper files."
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reward",
+      "description": "Retrieve the robot's lost arms to acquire the pass"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goblin of the Forest",
+      "description": "Upgrade Transformer Billy to Laser Billy"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Age of Draught",
+      "description": "Fix the water supply at Square Street"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rainbow Club",
+      "description": "Finish all assignments from the Rainbow Club"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destiny",
+      "description": "Acquire the tarot card: \"Upside Down Man\""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hideyoshi's Hero",
+      "description": "Help Hediyoshi to avoid the manager's harassment"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nano Mist",
+      "description": "Discover the Nano robots among the elements of coagulation liquid"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Abundant Power",
+      "description": "Restart the generating equipment in the old hydroelectric power generating plant"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One",
+      "description": "Try and fail to pull out the sword"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mist",
+      "description": "Complete Chapter 2"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quiet Night",
+      "description": "Spend a quiet night in the form of William"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Step Away",
+      "description": "Miss the chance to catch Noa"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Whisper of the Evil God",
+      "description": "Complete the deduction of the bloody tongue sculpture case"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invitation",
+      "description": "Receive an invitation from the devil"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loader",
+      "description": "Complete the freight box moving game and find the hidden door"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marksman",
+      "description": "Shoot to destroy the guarding robots"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do It Fast",
+      "description": "Start the Tesla power tower magnetic storm successfully and get all gang members"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bomb Person",
+      "description": "Successfully ignite the oil tank to clear out obstacles and understand the art of explosion."
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tune of the Past",
+      "description": "Restart the fuel machine in the deserted fishing ship successfully"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Toothed Gear of Destiny",
+      "description": "Find the second gear on the delivering belt"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Code From Nowhere",
+      "description": "Send the code correctly"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mr. Know-It-All",
+      "description": "Collect 62 files"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Underground World",
+      "description": "Investigate the underground factory"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Phantom of the Opera",
+      "description": "Relive the dressing room murder"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kanke Cooperate",
+      "description": "Relive the cruise ship function room murder"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Home of Dolls",
+      "description": "Relive the Scott Hotel murder"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Human Model",
+      "description": "Install three organs"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biology Professor",
+      "description": "Investigate all the copied jars"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Story of Rescuing the White Mustache",
+      "description": "Rescue Charles"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "<The Benevolence>",
+      "description": "Keep Luna's surviving preservation capsule on"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "<The Liberation>",
+      "description": "Turn Luna's surviving preservation capsule off"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rex's Justice",
+      "description": "Defeat Noa"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Case Closed",
+      "description": "Complete the game"
+    }
+  ]
+}

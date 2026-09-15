@@ -1,0 +1,494 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 548430,
+  "game": "Deep Rock Galactic",
+  "total": 69,
+  "unlocked": 19,
+  "percent": 27.5,
+  "updated_at_utc": "2026-09-15T06:50:08.254356+00:00",
+  "achievements": [
+    {
+      "apiname": "APPROVED_GREENBEARD",
+      "achieved": 1,
+      "unlocktime": 1651502975,
+      "name": "Approved Greenbeard",
+      "description": "Complete your first assignment."
+    },
+    {
+      "apiname": "GETPAIDFORTHIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If Only I Got Paid For This...",
+      "description": "In the Barrel Hoop game, achieve a score of 3000 or more in less than 100 kicks."
+    },
+    {
+      "apiname": "BARRELKICKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barrel Kicker",
+      "description": ""
+    },
+    {
+      "apiname": "NOTHOWYOUPLAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Not How You Play This Game",
+      "description": ""
+    },
+    {
+      "apiname": "DARWINAWARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darwin Award",
+      "description": ""
+    },
+    {
+      "apiname": "HAPPYFEET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Feet",
+      "description": ""
+    },
+    {
+      "apiname": "BIGSPENDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Spender",
+      "description": ""
+    },
+    {
+      "apiname": "PARTYTIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party Time!",
+      "description": ""
+    },
+    {
+      "apiname": "DISCJOCKEY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disc Jockey",
+      "description": ""
+    },
+    {
+      "apiname": "BARRELRIDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barrel Rider",
+      "description": "Ride a barrel in the spacerig for three seconds."
+    },
+    {
+      "apiname": "THEATEAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The A-Team",
+      "description": ""
+    },
+    {
+      "apiname": "TIMEWELLSPENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time Well Spent",
+      "description": ""
+    },
+    {
+      "apiname": "FOREIGNOBJECT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foreign Objects In The Launch Bay",
+      "description": ""
+    },
+    {
+      "apiname": "SELFCONTROL",
+      "achieved": 1,
+      "unlocktime": 1651498876,
+      "name": "Self Control",
+      "description": ""
+    },
+    {
+      "apiname": "MINIFIXER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mini Fixer",
+      "description": "Fix 50 Mini M.U.L.E.s."
+    },
+    {
+      "apiname": "BETCTIME",
+      "achieved": 1,
+      "unlocktime": 1651606183,
+      "name": "Now We Have  A BET-C",
+      "description": "Defeat and fix a BET-C."
+    },
+    {
+      "apiname": "HITWHEREITHURTS",
+      "achieved": 1,
+      "unlocktime": 1651492638,
+      "name": "Hit 'em Where It Hurts",
+      "description": ""
+    },
+    {
+      "apiname": "BIGGAMEHUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Game Hunter",
+      "description": "Participate in killing 40 Dreadnoughts."
+    },
+    {
+      "apiname": "CYADETONATOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "See You Later, Detonator!",
+      "description": "Participate in killing 20 Bulk Detonators."
+    },
+    {
+      "apiname": "PESTCONTROL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": "Participate in killing two Dreadnoughts within five minutes on Hazard Level 3 or higher."
+    },
+    {
+      "apiname": "BUGHUNT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Another Bug Hunt",
+      "description": "Participate in killing two Dreadnoughts within 30 seconds on Hazard Level 3 or higher."
+    },
+    {
+      "apiname": "JEWELER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jeweler",
+      "description": "Collect 10 Bittergems."
+    },
+    {
+      "apiname": "PROSPECTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prospector",
+      "description": "Collect 20 Compressed Gold Chunks."
+    },
+    {
+      "apiname": "WHATISTHIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Are These Things?",
+      "description": ""
+    },
+    {
+      "apiname": "MOLLYRIDER",
+      "achieved": 1,
+      "unlocktime": 1651645548,
+      "name": "Hi Ho, Silver - Away!",
+      "description": "Ride Molly for 15 seconds."
+    },
+    {
+      "apiname": "FARMER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farmer",
+      "description": "Ride the Silicate Harvester for 30 seconds."
+    },
+    {
+      "apiname": "CARPOOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car Pool",
+      "description": "Ride the Silicate Harvester with three other dwarves and kill five enemies each without leaving."
+    },
+    {
+      "apiname": "DESIGNATEDDECOY",
+      "achieved": 1,
+      "unlocktime": 1651502494,
+      "name": "Designated Decoy",
+      "description": ""
+    },
+    {
+      "apiname": "WITHOUTAPADDLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Without A Paddle",
+      "description": ""
+    },
+    {
+      "apiname": "ILIKEITDOWNHERE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Like It Down Here",
+      "description": ""
+    },
+    {
+      "apiname": "MINER",
+      "achieved": 1,
+      "unlocktime": 1651419132,
+      "name": "Miner",
+      "description": "Complete your first mission."
+    },
+    {
+      "apiname": "EXPERTMINER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Miner",
+      "description": "Complete 100 missions."
+    },
+    {
+      "apiname": "LEGENDARYMINER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Miner",
+      "description": "Complete 500 missions."
+    },
+    {
+      "apiname": "STEPPINGITUP",
+      "achieved": 1,
+      "unlocktime": 1651563478,
+      "name": "Stepping It Up",
+      "description": "Survive a Hazard Level 3 mission from start to finish."
+    },
+    {
+      "apiname": "CONSISTENTPERFORMANCE",
+      "achieved": 1,
+      "unlocktime": 1651568039,
+      "name": "Consistent Performance",
+      "description": "Successfully complete three Hazard Level 3 missions from start to finish in a row."
+    },
+    {
+      "apiname": "THICKSKINNED",
+      "achieved": 1,
+      "unlocktime": 1651609742,
+      "name": "Thick-Skinned",
+      "description": "Survive a Hazard Level 4 mission from start to finish."
+    },
+    {
+      "apiname": "EMPLOYEEOFTHEMONTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Employee Of The Month",
+      "description": "Successfully complete four Hazard Level 4 missions from start to finish in a row."
+    },
+    {
+      "apiname": "GOINGLETHAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Lethal",
+      "description": "Successfully complete a Hazard Level 5 mission from start to finish."
+    },
+    {
+      "apiname": "ROCKSOLID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock Solid",
+      "description": "Successfully complete five Hazard Level 5 missions from start to finish in a row."
+    },
+    {
+      "apiname": "AGAME",
+      "achieved": 1,
+      "unlocktime": 1651569061,
+      "name": "Bring Your A-Game",
+      "description": "Successfully complete a Hazard Level 3 mission from start to finish where no dwarf goes down and without ordering a resupply."
+    },
+    {
+      "apiname": "OILEDMACHINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like A Well-Oiled Machine",
+      "description": "Successfully complete a Hazard Level 4 mission from start to finish where no dwarf goes down and without ordering a resupply."
+    },
+    {
+      "apiname": "KARLISPROUD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karl Would Be Proud",
+      "description": "Successfully complete a Hazard Level 5 mission from start to finish where no dwarf goes down and without ordering a resupply."
+    },
+    {
+      "apiname": "MUTATEDSCAVENGER",
+      "achieved": 1,
+      "unlocktime": 1651814967,
+      "name": "Mutated Scavenger",
+      "description": "Successfully complete 20 missions tagged with Warnings from start to finish."
+    },
+    {
+      "apiname": "ITSMYPARTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's My Party",
+      "description": ""
+    },
+    {
+      "apiname": "GOODSHEPHERD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Shepherd",
+      "description": "Successfully complete 25 missions where at least 1 player is 10 player ranks lower than you."
+    },
+    {
+      "apiname": "LONEWOLF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf",
+      "description": ""
+    },
+    {
+      "apiname": "BESTBOSCO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bosco, You're The Best",
+      "description": ""
+    },
+    {
+      "apiname": "PERFORMANCEMATTERS",
+      "achieved": 1,
+      "unlocktime": 1651503045,
+      "name": "Performance Matters",
+      "description": "Complete 10 Milestones."
+    },
+    {
+      "apiname": "MANAGEMENTAPPROVES",
+      "achieved": 1,
+      "unlocktime": 1651566079,
+      "name": "Management Approves",
+      "description": "Complete 25 Milestones."
+    },
+    {
+      "apiname": "FEELINGPERKY",
+      "achieved": 1,
+      "unlocktime": 1651564123,
+      "name": "Feelin' Perky",
+      "description": "Unlock 10 Perk Nodes."
+    },
+    {
+      "apiname": "MOVINGONUP",
+      "achieved": 1,
+      "unlocktime": 1651652072,
+      "name": "Movin' On Up",
+      "description": "Promote any Dwarf at least once."
+    },
+    {
+      "apiname": "CORPORATECLIMBER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corporate Climber",
+      "description": "Promote any two Dwarves at least once."
+    },
+    {
+      "apiname": "HATTRICK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hat Trick",
+      "description": "Promote any three Dwarves at least once."
+    },
+    {
+      "apiname": "FULLTEAMAHEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Team Ahead",
+      "description": "Promote all four Dwarves at least once."
+    },
+    {
+      "apiname": "SILVEREMPLOYEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver-Tier Employee",
+      "description": "Earn a Silver promotion."
+    },
+    {
+      "apiname": "GOLDEMPLOYEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold-Tier Employee",
+      "description": "Earn a Gold promotion."
+    },
+    {
+      "apiname": "PROTEAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pro-Team",
+      "description": "Earn Silver Promotions for all four dwarves."
+    },
+    {
+      "apiname": "LEGENDARYTEAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary-Team",
+      "description": "Earn Gold Promotions for all four dwarves."
+    },
+    {
+      "apiname": "EXPLORINGMYOPTIONS",
+      "achieved": 1,
+      "unlocktime": 1651646009,
+      "name": "Exploring My Options",
+      "description": ""
+    },
+    {
+      "apiname": "STATEOFTHEART",
+      "achieved": 1,
+      "unlocktime": 1651593818,
+      "name": "State Of The Art",
+      "description": ""
+    },
+    {
+      "apiname": "ADVANCEDROBOTICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Robotics",
+      "description": ""
+    },
+    {
+      "apiname": "MUSTACHO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mustacho",
+      "description": "Purchase five moustaches for one character."
+    },
+    {
+      "apiname": "TOTALMAKEOVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Makeover",
+      "description": "Customize each accessory slot of a character."
+    },
+    {
+      "apiname": "BABYDIVER",
+      "achieved": 1,
+      "unlocktime": 1651665721,
+      "name": "Going Deeper",
+      "description": "Complete A Deep Dive"
+    },
+    {
+      "apiname": "EXPERTDIVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Diver",
+      "description": "Complete An Elite Deep Dive"
+    },
+    {
+      "apiname": "OUTATIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep For Speed",
+      "description": "Complete Any Deep Dive Under 45 Minutes"
+    },
+    {
+      "apiname": "VETERANDIVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Diver",
+      "description": "Complete Any 5 Deep Dives"
+    },
+    {
+      "apiname": "DRILLBYSHOOTING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drill-by Shooting",
+      "description": "Ride the Drilldozer with three other dwarves and kill 15 enemies each without leaving."
+    },
+    {
+      "apiname": "LONGPIPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roller Coaster",
+      "description": "Grind on a pipe for 120 seconds without stopping."
+    }
+  ]
+}

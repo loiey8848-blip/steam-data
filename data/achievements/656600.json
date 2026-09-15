@@ -1,0 +1,3693 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 656600,
+  "game": "Slash It Ultimate",
+  "total": 526,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:26.074623+00:00",
+  "achievements": [
+    {
+      "apiname": "normalAny90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal 90+",
+      "description": "Finish any Normal mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalMouse90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Mouse 90+",
+      "description": "Finish any Normal Mouse mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalArrows90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Arrows 90+",
+      "description": "Finish any Normal Arrow mode song above 90% accuracy "
+    },
+    {
+      "apiname": "normalAlphabet90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Alphabet 90+",
+      "description": "Finish any Normal Alphabet mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalWords90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Words 90+",
+      "description": "Finish any Normal Words mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalSpace90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Space 90+",
+      "description": "Finish any Normal Space mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalCube90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Cube 90+",
+      "description": "Finish any Normal Cube mode song above 90% accuracy"
+    },
+    {
+      "apiname": "normalNumbers90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Numbers 90+",
+      "description": "Finish any Normal Numbers mode song above 90% accuracy"
+    },
+    {
+      "apiname": "hardAny85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard 85+",
+      "description": "Finish any game mode on hard over 85%!"
+    },
+    {
+      "apiname": "hardMouse85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Mouse 85+",
+      "description": "Finish any Hard mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardArrows85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Arrows 85+",
+      "description": "Finish Hard Arrows mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardAlphabet85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Alphabet 85+",
+      "description": "Finish Hard Alphabet mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardWords85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Words 85+",
+      "description": "Finish Hard Words mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardSpace85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Space 85+",
+      "description": "Finish Hard Space mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardCube85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Cube 85+",
+      "description": "Finish Hard Cube mode song above 85% accuracy"
+    },
+    {
+      "apiname": "hardNumbers85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Numbers 85+",
+      "description": "Finish Hard Numbers mode song above 85% accuracy"
+    },
+    {
+      "apiname": "coin10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10 Coins",
+      "description": "Collect 10 Coins!"
+    },
+    {
+      "apiname": "coin100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Coins",
+      "description": "Collect 100 Coins!"
+    },
+    {
+      "apiname": "coin500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "500 Coins",
+      "description": "Collect 500 Coins!"
+    },
+    {
+      "apiname": "coin1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1000 Coins",
+      "description": "Collect 1000 Coins!"
+    },
+    {
+      "apiname": "coin5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5000 Coins",
+      "description": "Collect 5000 Coins!"
+    },
+    {
+      "apiname": "coin10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10000 Coins",
+      "description": "Collect 10000 Coins!"
+    },
+    {
+      "apiname": "coin15000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "15000 Coins",
+      "description": "Collect 15000 Coins!"
+    },
+    {
+      "apiname": "coin20000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "20000 Coins",
+      "description": "Collect 20000 Coins!"
+    },
+    {
+      "apiname": "coin30000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "30000 Coins",
+      "description": "Collect 30000 Coins!"
+    },
+    {
+      "apiname": "coin40000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "40000 Coins",
+      "description": "Collect 40000 Coins!"
+    },
+    {
+      "apiname": "coin50000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50000 Coins",
+      "description": "Collect 50000 Coins!"
+    },
+    {
+      "apiname": "mouse100Blue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Blue beats!",
+      "description": "Collect 100 Blue beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse100Green",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Green beats!",
+      "description": "Collect 100 Green beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse100Orange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Orange beats!",
+      "description": "Collect 100 Orange beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse100Purple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Purple beats!",
+      "description": "Collect 100 Purple beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse100Red",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Red beats!",
+      "description": "Collect 100 Red beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse100Yellow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Yellow beats!",
+      "description": "Collect 100 Yellow beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse300Blue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Blue beats!",
+      "description": "Collect 300 Blue beats on mouse mode!300"
+    },
+    {
+      "apiname": "mouse300Green",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Green beats!",
+      "description": "Collect 300 Green beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse300Orange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Orange beats!",
+      "description": "Collect 300 Orange beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse300Purple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Purple beats!",
+      "description": "Collect 300 Purple beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse300Red",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Red beats!",
+      "description": "Collect 300 Red beats on mouse mode!"
+    },
+    {
+      "apiname": "mouse300Yellow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Yellow beats!",
+      "description": "Collect 300 Yellow beats on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 10",
+      "description": "Get 10 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 20",
+      "description": "Get 20 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 50",
+      "description": "Get 50 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 40",
+      "description": "Get 40 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 50",
+      "description": "Get 50 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseCombo60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Combo 60",
+      "description": "Get 60 Combo on mouse mode!"
+    },
+    {
+      "apiname": "mouseAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Accuracy 65%",
+      "description": "Achieve at least 65% accuracy on mouse mode!"
+    },
+    {
+      "apiname": "mouseAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Accuracy 75%",
+      "description": "Achieve at least 75% accuracy on mouse mode!"
+    },
+    {
+      "apiname": "mouseAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse Accuracy 85%",
+      "description": "Achieve at least 85% accuracy on mouse mode!"
+    },
+    {
+      "apiname": "arrowLeft100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Left 100",
+      "description": "Collect 100 beats with left arrow key!"
+    },
+    {
+      "apiname": "arrowRight100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Right 100",
+      "description": "Collect 100 beats with right arrow key!"
+    },
+    {
+      "apiname": "arrowUp100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Up 100",
+      "description": "Collect 100 beats with up arrow key!"
+    },
+    {
+      "apiname": "arrowDown100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow down 100",
+      "description": "Collect 100 beats with down arrow key!"
+    },
+    {
+      "apiname": "arrowLeft200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Left 200",
+      "description": "Collect 200 beats with left arrow key!"
+    },
+    {
+      "apiname": "arrowRight200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Right 200",
+      "description": "Collect 200 beats with right arrow key!"
+    },
+    {
+      "apiname": "arrowUp200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Up 200",
+      "description": "Collect 200 beats with up arrow key!"
+    },
+    {
+      "apiname": "arrowDown200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow down 200",
+      "description": "Collect 200 beats with down arrow key!"
+    },
+    {
+      "apiname": "arrowLeft300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Left 300",
+      "description": "Collect 300 beats with left arrow key!"
+    },
+    {
+      "apiname": "arrowRight300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Right 300",
+      "description": "Collect 300 beats with right arrow key!"
+    },
+    {
+      "apiname": "arrowUp300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Up 300",
+      "description": "Collect 300 beats with up arrow key!"
+    },
+    {
+      "apiname": "arrowDown300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow down 300",
+      "description": "Collect 300 beats with down arrow key!"
+    },
+    {
+      "apiname": "arrowIgnite5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Ignite 5",
+      "description": "Ignite the flames on arrow mode 5x!"
+    },
+    {
+      "apiname": "arrowIgnite25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Ignite 25",
+      "description": "Ignite the flames on arrow mode 25x!"
+    },
+    {
+      "apiname": "arrowIgnite50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Ignite 50",
+      "description": "Ignite the flames on arrow mode 50x!"
+    },
+    {
+      "apiname": "arrowIgnite100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Ignite 100",
+      "description": "Ignite the flames on arrow mode 100x!"
+    },
+    {
+      "apiname": "arrowCombo10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Combo 10",
+      "description": "Get 10 Combo on arrow mode!"
+    },
+    {
+      "apiname": "arrowCombo20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Combo 20",
+      "description": "Get 20 Combo on arrow mode!"
+    },
+    {
+      "apiname": "arrowCombo30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Combo 30",
+      "description": "Get 30 Combo on arrow mode!"
+    },
+    {
+      "apiname": "arrowCombo40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Combo 40",
+      "description": "Get 40 Combo on arrow mode!"
+    },
+    {
+      "apiname": "arrowCombo50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Combo 50",
+      "description": "Get 50 Combo on arrow mode!"
+    },
+    {
+      "apiname": "arrowAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Accuracy 65",
+      "description": "Achieve at least 65% accuracy on arrow mode!"
+    },
+    {
+      "apiname": "arrowAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Accuracy 75",
+      "description": "Achieve at least 75% accuracy on arrow mode!"
+    },
+    {
+      "apiname": "arrowAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arrow Accuracy 85",
+      "description": "Achieve at least 85% accuracy on arrow mode!"
+    },
+    {
+      "apiname": "numbers0100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 0100",
+      "description": "Collect 100 beats with number 0!"
+    },
+    {
+      "apiname": "numbers1100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 1100",
+      "description": "Collect 100 beats with number 1!"
+    },
+    {
+      "apiname": "numbers2100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 2100",
+      "description": "Collect 100 beats with number 2!"
+    },
+    {
+      "apiname": "numbers3100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 3100",
+      "description": "Collect 100 beats with number 3!"
+    },
+    {
+      "apiname": "numbers4100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 4100",
+      "description": "Collect 100 beats with number 4!"
+    },
+    {
+      "apiname": "numbers5100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 5100",
+      "description": "Collect 100 beats with number 5!"
+    },
+    {
+      "apiname": "numbers6100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 6100",
+      "description": "Collect 100 beats with number 6!"
+    },
+    {
+      "apiname": "numbers7100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 7100",
+      "description": "Collect 100 beats with number 7!"
+    },
+    {
+      "apiname": "numbers8100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 8100",
+      "description": "Collect 100 beats with number 8!"
+    },
+    {
+      "apiname": "numbers9100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 9100",
+      "description": "Collect 100 beats with number 9!"
+    },
+    {
+      "apiname": "numbers0200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 0200",
+      "description": "Collect 200 beats with number 0!"
+    },
+    {
+      "apiname": "numbers1200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 1200",
+      "description": "Collect 200 beats with number 1!"
+    },
+    {
+      "apiname": "numbers2200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 2200",
+      "description": "Collect 200 beats with number 2!"
+    },
+    {
+      "apiname": "numbers3200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 3200",
+      "description": "Collect 200 beats with number 3!"
+    },
+    {
+      "apiname": "numbers4200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 4200",
+      "description": "Collect 200 beats with number 3!"
+    },
+    {
+      "apiname": "numbers5200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 5200",
+      "description": "Collect 200 beats with number 5!"
+    },
+    {
+      "apiname": "numbers6200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 6200",
+      "description": "Collect 200 beats with number 6!"
+    },
+    {
+      "apiname": "numbers7200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 7200",
+      "description": "Collect 200 beats with number 7!"
+    },
+    {
+      "apiname": "numbers8200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 8200 ",
+      "description": "Collect 200 beats with number 8!"
+    },
+    {
+      "apiname": "numbers9200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers 9200",
+      "description": "Collect 200 beats with number 9!"
+    },
+    {
+      "apiname": "numbersCombo10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Combo 10",
+      "description": "Get 10 Combo on numbers mode!"
+    },
+    {
+      "apiname": "numbersCombo20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Combo 20",
+      "description": "Get 20 Combo on numbers mode!"
+    },
+    {
+      "apiname": "numbersCombo30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Combo 30",
+      "description": "Get 30 Combo on numbers mode!"
+    },
+    {
+      "apiname": "numbersCombo40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Combo 40",
+      "description": "Get 40 Combo on numbers mode!"
+    },
+    {
+      "apiname": "numbersCombo50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Combo 50 ",
+      "description": "Get  50 Combo on numbers mode!"
+    },
+    {
+      "apiname": "numbersAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Accuracy 65",
+      "description": "Achieve at least 65% accuracy on numbers mode!"
+    },
+    {
+      "apiname": "numbersAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Accuracy 75",
+      "description": "Achieve at least 75% accuracy on numbers mode!"
+    },
+    {
+      "apiname": "numbersAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numbers Accuracy 85",
+      "description": "Achieve at least 85% accuracy on numbers mode!"
+    },
+    {
+      "apiname": "cubeJump10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Jump 10",
+      "description": "Jump over 10 holes!"
+    },
+    {
+      "apiname": "cubeJump50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Jump 50",
+      "description": "Jump over 50 holes!"
+    },
+    {
+      "apiname": "cubeJump100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Jump 100",
+      "description": "Jump over 100 holes!"
+    },
+    {
+      "apiname": "cubeJump500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Jump 500",
+      "description": "Jump over 500 holes!"
+    },
+    {
+      "apiname": "cubeJump1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Jump 1000",
+      "description": "Jump over 1000 holes!"
+    },
+    {
+      "apiname": "cubeWall10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Wall 10",
+      "description": "Bypass 10 walls on cube mode!"
+    },
+    {
+      "apiname": "cubeWall25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Wall 25",
+      "description": "Bypass 25 walls on cube mode!"
+    },
+    {
+      "apiname": "cubeWall50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Wall 50",
+      "description": "Bypass 50 walls on cube mode!"
+    },
+    {
+      "apiname": "cubeWall250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Wall 250",
+      "description": "Bypass 250 walls on cube mode!"
+    },
+    {
+      "apiname": "cubeWall500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Wall 500",
+      "description": "Bypass 500 walls on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 10",
+      "description": "Collect 10 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 100",
+      "description": "Collect 100 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 300",
+      "description": "Collect 300 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 500",
+      "description": "Collect 500 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect700",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 700",
+      "description": "Collect 700 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect900",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 900",
+      "description": "Collect 900 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect1100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 1100",
+      "description": "Collect 1100 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect1300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 1300",
+      "description": "Collect 1300 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect1500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 1500",
+      "description": "Collect 1500 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect1700",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 1700",
+      "description": "Collect 17000 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect1900",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 1900",
+      "description": "Collect 1900 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeCollect2100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Collect 2100",
+      "description": "Collect 2100 beats on cube mode!"
+    },
+    {
+      "apiname": "cubeGreen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Green",
+      "description": "Get to green combo on cube mode!"
+    },
+    {
+      "apiname": "cubePurple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Purple",
+      "description": "Get to purple combo on cube mode!"
+    },
+    {
+      "apiname": "cubeOrange",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Orange",
+      "description": "Get to orange combo on cube mode!"
+    },
+    {
+      "apiname": "cubeRed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Red",
+      "description": "Get to red combo on cube mode!"
+    },
+    {
+      "apiname": "cubeSurvive2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Survive 2",
+      "description": "Survive on red combo more then 2 sec on cube mode!"
+    },
+    {
+      "apiname": "cubeSurvive4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Survive 4",
+      "description": "Survive on red combo more then 4 sec on cube mode!"
+    },
+    {
+      "apiname": "cubeSurvive6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Survive 6",
+      "description": "Survive on red combo more then 6 sec on cube mode!"
+    },
+    {
+      "apiname": "cubeSurvive8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Survive 8",
+      "description": "Survive on red combo more then 8 sec on cube mode!"
+    },
+    {
+      "apiname": "cubeSurvive10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Survive 10",
+      "description": "Survive on red combo more then 10 sec on cube mode!"
+    },
+    {
+      "apiname": "cubeAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Accuracy 65",
+      "description": "Achieve at least 65% accuracy on cube mode!"
+    },
+    {
+      "apiname": "cubeAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Accuracy 75",
+      "description": "Achieve at least 75% accuracy on cube mode!"
+    },
+    {
+      "apiname": "space10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 10",
+      "description": "Collect 10 beats on space mode!"
+    },
+    {
+      "apiname": "space100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 100",
+      "description": "Collect 100 beats on space mode!"
+    },
+    {
+      "apiname": "space200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 200",
+      "description": "Collect 200 beats on space mode!"
+    },
+    {
+      "apiname": "space400",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 400",
+      "description": "Collect 400 beats on space mode!"
+    },
+    {
+      "apiname": "space600",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 600",
+      "description": "Collect 600 beats on space mode!"
+    },
+    {
+      "apiname": "space800",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 800",
+      "description": "Collect 800 beats on space mode!"
+    },
+    {
+      "apiname": "space1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 1000",
+      "description": "Collect 1000 beats on space mode!"
+    },
+    {
+      "apiname": "space1100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 1100",
+      "description": "Collect 1100 beats on space mode!"
+    },
+    {
+      "apiname": "space1300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 1300",
+      "description": "Collect 1300 beats on space mode!"
+    },
+    {
+      "apiname": "space1500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 1500",
+      "description": "Collect 1500 beats on space mode!"
+    },
+    {
+      "apiname": "space1700",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 1700",
+      "description": "Collect 1700 beats on space mode!"
+    },
+    {
+      "apiname": "space2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space 2000",
+      "description": "Collect 2000 beats on space mode!"
+    },
+    {
+      "apiname": "spaceGreen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space green",
+      "description": "Get to green combo!"
+    },
+    {
+      "apiname": "spaceYellow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space yellow",
+      "description": "Get to yellow combo!"
+    },
+    {
+      "apiname": "spacePurple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space purple",
+      "description": "Get to purple combo!"
+    },
+    {
+      "apiname": "spaceRed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space red",
+      "description": "Get to red combo!"
+    },
+    {
+      "apiname": "spaceSurvive1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space survive 1",
+      "description": "Survive on red combo at least 1 sec on space mode!"
+    },
+    {
+      "apiname": "spaceSurvive2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space survive 2",
+      "description": "Survive on red combo at least 2 sec on space mode!"
+    },
+    {
+      "apiname": "spaceSurvive3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space survive 3",
+      "description": "Survive on red combo at least 3 sec on space mode!"
+    },
+    {
+      "apiname": "spaceSurvive4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space survive 4",
+      "description": "Survive on red combo at least 4 sec on space mode!"
+    },
+    {
+      "apiname": "spaceSurvive5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space survive 5",
+      "description": "Survive on red combo at least 5 sec on space mode!"
+    },
+    {
+      "apiname": "spaceAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Accuracy 65",
+      "description": "Achieve at least 65% accuracy on space mode!"
+    },
+    {
+      "apiname": "spaceAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Accuracy 75",
+      "description": "Achieve at least 75% accuracy on space mode!"
+    },
+    {
+      "apiname": "spaceAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Accuracy 85",
+      "description": "Achieve at least 85% accuracy on space mode!"
+    },
+    {
+      "apiname": "words10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 10",
+      "description": "Collect 10 beats."
+    },
+    {
+      "apiname": "words400",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 400",
+      "description": "Collect 400 beats."
+    },
+    {
+      "apiname": "words800",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 800",
+      "description": "Collect 800 beats."
+    },
+    {
+      "apiname": "words1200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 1200",
+      "description": "Collect 1200 beats."
+    },
+    {
+      "apiname": "words1600",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 1600",
+      "description": "Collect 1600 beats."
+    },
+    {
+      "apiname": "words2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 2000",
+      "description": "Collect 2000 beats."
+    },
+    {
+      "apiname": "words2400",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 2400 ",
+      "description": "Collect 2400 beats."
+    },
+    {
+      "apiname": "words2800",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 2800",
+      "description": "Collect 2800 beats."
+    },
+    {
+      "apiname": "words3200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 3200",
+      "description": "Collect 3200 beats."
+    },
+    {
+      "apiname": "words3600",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 3600",
+      "description": "Collect 3600 beats."
+    },
+    {
+      "apiname": "words4000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 4000",
+      "description": "Collect 4000 beats."
+    },
+    {
+      "apiname": "words4400",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 4400",
+      "description": "Collect 4400 beats."
+    },
+    {
+      "apiname": "words4800",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 4800 ",
+      "description": "Collect 4800 beats."
+    },
+    {
+      "apiname": "words5200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 5200",
+      "description": "Collect 5200 beats."
+    },
+    {
+      "apiname": "words5600",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words 5600",
+      "description": "Collect 5600 beats."
+    },
+    {
+      "apiname": "wordsTracks2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words track 2",
+      "description": "Activate 2 additional tracks. "
+    },
+    {
+      "apiname": "wordsTracks4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words track 4",
+      "description": "Activate 4 additional tracks. "
+    },
+    {
+      "apiname": "wordsTracks6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words track 6",
+      "description": "Activate 6 additional tracks. "
+    },
+    {
+      "apiname": "wordAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Word Accuracy 65",
+      "description": "Achieve at least 65% accuracy on words mode!"
+    },
+    {
+      "apiname": "wordAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Word Accuracy 75",
+      "description": "Achieve at least 75% accuracy on words mode!"
+    },
+    {
+      "apiname": "wordAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Word Accuracy 85",
+      "description": "Achieve at least 85% accuracy on words mode!"
+    },
+    {
+      "apiname": "alphabetA100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet A 10",
+      "description": "Collect 10 beats with the letter A on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetB100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet B 10",
+      "description": "Collect 10 beats with the letter B on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetC100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet C 10",
+      "description": "Collect 10 bets with the letter C on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetD100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet D 10",
+      "description": "Collect 10 beats with the letter D on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetE100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet E 10",
+      "description": "Collect 10 beats with the letter E on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetF100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet F 10",
+      "description": "Collect 10 beats with the letter F on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetG100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet G 10",
+      "description": "Collect 10 beats with the letter G on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetH100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet H 10",
+      "description": "Collect 10 beats with the letter H on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetI100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet I 10",
+      "description": "Collect 10 beats with the letter I on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetJ100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet J 10",
+      "description": "Collect 10 beats with the letter J on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetK100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet K 10",
+      "description": "Collect 10 beats with the letter K on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetL100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet L 10",
+      "description": "Collect 10 beats with the letter L on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetM100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet M 10",
+      "description": "Collect 10 beats with the letter M on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetN100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet N 10",
+      "description": "Collect 10 beats with the letter N on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetO100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet O 10",
+      "description": "Collect 10 bets with the letter O on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetP100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet P 10",
+      "description": "Collect 10 beats with the letter P on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetQ100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Q 10",
+      "description": "Collect 10 beats with the letter Q on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetR100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet R 10",
+      "description": "Collect 10 beats with the letter R on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetS100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet S 10",
+      "description": "Collect 10 beats with the letter S on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetT100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet T 10",
+      "description": "Collect 10 beats with the letter T on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetU100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet U 10",
+      "description": "Collect 10 beats with the letter U on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetV100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet V 10",
+      "description": "Collect 10 beats with the letter V on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetW100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet W 10",
+      "description": "Collect 10 beats with the letter W on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetX100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet X  10",
+      "description": "Collect 10 beats with the letter X on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetY100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Y 10",
+      "description": "Collect 10 beats with the letter Y on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetZ100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Z 10",
+      "description": "Collect 10 bets with the letter Z on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetGreen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Green",
+      "description": "Activate green combo!"
+    },
+    {
+      "apiname": "alphabetPurple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Purple",
+      "description": "Activate green combo!"
+    },
+    {
+      "apiname": "alphabetYellow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Yellow",
+      "description": "Activate yellow combo!"
+    },
+    {
+      "apiname": "alphabetRed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Red",
+      "description": "Activate red combo!"
+    },
+    {
+      "apiname": "alphabetAccuracy65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Accuracy 65",
+      "description": "Achieve at least 65% accuracy on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetAccuracy75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Accuracy 75",
+      "description": "Achieve at least 75% accuracy on alphabet mode!"
+    },
+    {
+      "apiname": "alphabetAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alphabet Accuracy 85",
+      "description": "Achieve at least 85% accuracy on alphabet mode!"
+    },
+    {
+      "apiname": "song2Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Arrows",
+      "description": "Unlock the Janji - Horizon song on arrows mode!"
+    },
+    {
+      "apiname": "song3Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Arrows",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on arrows mode!"
+    },
+    {
+      "apiname": "song4Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Arrows",
+      "description": "Unlock the A Himitsu - Cease song on arrows mode!"
+    },
+    {
+      "apiname": "song5Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Arrows",
+      "description": "Unlock the A Himitsu - Stories song on arrows mode!"
+    },
+    {
+      "apiname": "song6Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Arrows",
+      "description": "Unlock the A Himitsu - Lost Within song on arrows mode!"
+    },
+    {
+      "apiname": "song7Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Arrows",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on arrows mode!"
+    },
+    {
+      "apiname": "song8Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Arrows",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on arrows mode!"
+    },
+    {
+      "apiname": "song9Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song  Indigo - Hope Arrows",
+      "description": "Unlock the  Indigo - Hope song on arrows mode!"
+    },
+    {
+      "apiname": "song10Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Arrows",
+      "description": "Unlock the JOA Mabeha - Skyward  song on arrows mode!"
+    },
+    {
+      "apiname": "song11Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Arrows",
+      "description": "Unlock the Niki Kofman - Maelstrom song on arrows mode!"
+    },
+    {
+      "apiname": "song12Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Arrows",
+      "description": "Unlock the Niki Kofman - Tropicom song on arrows mode!"
+    },
+    {
+      "apiname": "song13Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Arrows",
+      "description": "Unlock the Quasar Music - Madness  song on arrows mode!"
+    },
+    {
+      "apiname": "song14Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Arrows",
+      "description": "Unlock the Rolipso - Jumble  song on arrows mode!"
+    },
+    {
+      "apiname": "song15Arrows",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song  Whithe - Garcion Arrows",
+      "description": "Unlock the  Whithe - Garcion  song on arrows mode!"
+    },
+    {
+      "apiname": "song1Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Mouse",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on mouse mode!"
+    },
+    {
+      "apiname": "song2Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Mouse",
+      "description": "Unlock the Janji - Horizon song on mouse mode!"
+    },
+    {
+      "apiname": "song3Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Mouse",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on mouse mode!"
+    },
+    {
+      "apiname": "song4Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Mouse",
+      "description": "Unlock the A Himitsu - Cease song on mouse mode!"
+    },
+    {
+      "apiname": "song5Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories  Mouse",
+      "description": "Unlock the A Himitsu - Stories  song on mouse mode!"
+    },
+    {
+      "apiname": "song6Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Mouse",
+      "description": "Unlock the A Himitsu - Lost Within  song on mouse mode!"
+    },
+    {
+      "apiname": "song7Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Mouse",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on mouse mode!"
+    },
+    {
+      "apiname": "song8Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Mouse",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on mouse mode!"
+    },
+    {
+      "apiname": "song9Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Mouse",
+      "description": "Unlock the Indigo - Hope song on mouse mode!"
+    },
+    {
+      "apiname": "song10Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Mouse",
+      "description": "Unlock the JOA Mabeha - Skyward  song on mouse mode!"
+    },
+    {
+      "apiname": "song11Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Mouse",
+      "description": "Unlock the Niki Kofman - Maelstrom song on mouse mode!"
+    },
+    {
+      "apiname": "song12Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Mouse",
+      "description": "Unlock the Niki Kofman - Tropicom song on mouse mode!"
+    },
+    {
+      "apiname": "song13Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Mouse",
+      "description": "Unlock the Quasar Music - Madness  song on mouse mode!"
+    },
+    {
+      "apiname": "song14Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Mouse",
+      "description": "Unlock the Rolipso - Jumble  song on mouse mode!"
+    },
+    {
+      "apiname": "song15Mouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Mouse",
+      "description": "Unlock the Whithe - Garcion  song on mouse mode!"
+    },
+    {
+      "apiname": "song1Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Numbers ",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on numbers mode!"
+    },
+    {
+      "apiname": "song2Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Numbers ",
+      "description": "Unlock the Janji - Horizon song on numbers mode!"
+    },
+    {
+      "apiname": "song3Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Numbers ",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on numbers mode!"
+    },
+    {
+      "apiname": "song4Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Numbers ",
+      "description": "Unlock the A Himitsu - Cease song on numbers mode!"
+    },
+    {
+      "apiname": "song5Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories  Numbers ",
+      "description": "Unlock the A Himitsu - Stories  song on numbers mode!"
+    },
+    {
+      "apiname": "song6Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Numbers ",
+      "description": "Unlock the A Himitsu - Lost Within  song on numbers mode!"
+    },
+    {
+      "apiname": "song7Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Numbers ",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on numbers mode!"
+    },
+    {
+      "apiname": "song8Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Numbers ",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on numbers mode!"
+    },
+    {
+      "apiname": "song9Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Numbers ",
+      "description": "Unlock the Indigo - Hope song on numbers mode!"
+    },
+    {
+      "apiname": "song10Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Numbers ",
+      "description": "Unlock the JOA Mabeha - Skyward  song on numbers mode!"
+    },
+    {
+      "apiname": "song11Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Numbers ",
+      "description": "Unlock the Niki Kofman - Maelstrom song on numbers mode!"
+    },
+    {
+      "apiname": "song12Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Numbers ",
+      "description": "Unlock the Niki Kofman - Tropicom song on numbers mode!"
+    },
+    {
+      "apiname": "song13Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Numbers ",
+      "description": "Unlock the Quasar Music - Madness  song on numbers mode!"
+    },
+    {
+      "apiname": "song14Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Numbers ",
+      "description": "Unlock the Rolipso - Jumble  song on numbers mode!"
+    },
+    {
+      "apiname": "song15Numbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Numbers ",
+      "description": "Unlock the Whithe - Garcion song on numbers mode!"
+    },
+    {
+      "apiname": "song1Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Alphabet",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on alphabet mode!"
+    },
+    {
+      "apiname": "song2Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Alphabet",
+      "description": "Unlock the Janji - Horizon song on alphabet mode!"
+    },
+    {
+      "apiname": "song3Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Alphabet",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on alphabet mode!"
+    },
+    {
+      "apiname": "song4Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Alphabet",
+      "description": "Unlock the A Himitsu - Cease song on alphabet mode!"
+    },
+    {
+      "apiname": "song5Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories  Alphabet",
+      "description": "Unlock the A Himitsu - Stories  song on alphabet mode!"
+    },
+    {
+      "apiname": "song6Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Alphabet",
+      "description": "Unlock the A Himitsu - Lost Within  song on alphabet mode!"
+    },
+    {
+      "apiname": "song7Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Alphabet",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on alphabet mode!"
+    },
+    {
+      "apiname": "song8Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Alphabet",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on alphabet mode!"
+    },
+    {
+      "apiname": "song9Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Alphabet",
+      "description": "Unlock the Indigo - Hope song on alphabet mode!"
+    },
+    {
+      "apiname": "song10Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Alphabet",
+      "description": "Unlock the JOA Mabeha - Skyward  song on alphabet mode!"
+    },
+    {
+      "apiname": "song11Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Alphabet",
+      "description": "Unlock the Niki Kofman - Maelstrom song on alphabet mode!"
+    },
+    {
+      "apiname": "song12Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Alphabet",
+      "description": "Unlock the Niki Kofman - Tropicom song on alphabet mode!"
+    },
+    {
+      "apiname": "song13Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Alphabet",
+      "description": "Unlock the Quasar Music - Madness  song on alphabet mode!"
+    },
+    {
+      "apiname": "song14Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Alphabet",
+      "description": "Unlock the Rolipso - Jumble  song on alphabet mode!"
+    },
+    {
+      "apiname": "song15Alphabet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Alphabet",
+      "description": "Unlock the Whithe - Garcion song on alphabet mode!"
+    },
+    {
+      "apiname": "song1Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Space ",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on space mode!"
+    },
+    {
+      "apiname": "song2Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Space ",
+      "description": "Unlock the Janji - Horizon song on space mode!"
+    },
+    {
+      "apiname": "song3Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Space ",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on space mode!"
+    },
+    {
+      "apiname": "song4Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Space ",
+      "description": "Unlock the A Himitsu - Cease song on space mode!"
+    },
+    {
+      "apiname": "song5Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories  Space ",
+      "description": "Unlock the A Himitsu - Stories  song on space mode!"
+    },
+    {
+      "apiname": "song6Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Space ",
+      "description": "Unlock the A Himitsu - Lost Within  song on space mode!"
+    },
+    {
+      "apiname": "song7Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Space ",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on space mode!"
+    },
+    {
+      "apiname": "song8Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Space ",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on space mode!"
+    },
+    {
+      "apiname": "song9Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Space ",
+      "description": "Unlock the Indigo - Hope song on space mode!"
+    },
+    {
+      "apiname": "song10Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Space ",
+      "description": "Unlock the JOA Mabeha - Skyward  song on space mode!"
+    },
+    {
+      "apiname": "song11Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Space ",
+      "description": "Unlock the Niki Kofman - Maelstrom song on space mode!"
+    },
+    {
+      "apiname": "song12Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Space ",
+      "description": "Unlock the Niki Kofman - Tropicom song on space mode!"
+    },
+    {
+      "apiname": "song13Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Space ",
+      "description": "Unlock the Quasar Music - Madness  song on space mode!"
+    },
+    {
+      "apiname": "song14Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Space ",
+      "description": "Unlock the Rolipso - Jumble  song on space mode!"
+    },
+    {
+      "apiname": "song15Space",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Space ",
+      "description": "Unlock the Whithe - Garcion  song on space mode!"
+    },
+    {
+      "apiname": "song1Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Cube ",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on cube mode!"
+    },
+    {
+      "apiname": "song2Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Cube ",
+      "description": "Unlock the Janji - Horizon song on cube mode!"
+    },
+    {
+      "apiname": "song3Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Cube",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on cube mode!"
+    },
+    {
+      "apiname": "song4Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Cube ",
+      "description": "Unlock the A Himitsu - Cease song on cube mode!"
+    },
+    {
+      "apiname": "song5Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Cube ",
+      "description": "Unlock the A Himitsu - Stories song on cube mode!"
+    },
+    {
+      "apiname": "song6Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Cube ",
+      "description": "Unlock the A Himitsu - Lost Within  song on cube mode!"
+    },
+    {
+      "apiname": "song7Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Cube ",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on cube mode!"
+    },
+    {
+      "apiname": "song8Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Cube ",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on cube mode!"
+    },
+    {
+      "apiname": "song9Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Cube ",
+      "description": "Unlock the Indigo - Hope song on cube mode!"
+    },
+    {
+      "apiname": "song10Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Cube ",
+      "description": "Unlock the JOA Mabeha - Skyward  song on cube mode!"
+    },
+    {
+      "apiname": "song11Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Cube ",
+      "description": "Unlock the Niki Kofman - Maelstrom song on cube mode!"
+    },
+    {
+      "apiname": "song12Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Cube ",
+      "description": "Unlock the Niki Kofman - Tropicom song on cube mode!"
+    },
+    {
+      "apiname": "song13Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Cube ",
+      "description": "Unlock the Quasar Music - Madness  song on cube mode!"
+    },
+    {
+      "apiname": "song14Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Cube ",
+      "description": "Unlock the Rolipso - Jumble  song on cube mode!"
+    },
+    {
+      "apiname": "song15Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Cube ",
+      "description": "Unlock the Whithe - Garcion  song on cube mode!"
+    },
+    {
+      "apiname": "song1Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Word",
+      "description": "Unlock the Janji ft. Johnning - Heroes Tonight song on word mode!"
+    },
+    {
+      "apiname": "song2Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Word",
+      "description": "Unlock the Janji - Horizon song on word mode!"
+    },
+    {
+      "apiname": "song3Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars  Word",
+      "description": "Unlock the Janji ft. TR - Milky way stars  song on word mode!"
+    },
+    {
+      "apiname": "song4Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Word",
+      "description": "Unlock the A Himitsu - Cease song on word mode!"
+    },
+    {
+      "apiname": "song5Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories  Word",
+      "description": "Unlock the A Himitsu - Stories  song on word mode!"
+    },
+    {
+      "apiname": "song6Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Word",
+      "description": "Unlock the A Himitsu - Lost Within song on word mode!"
+    },
+    {
+      "apiname": "song7Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Word",
+      "description": "Unlock the Elexive - Beach Buggy Ride song on word mode!"
+    },
+    {
+      "apiname": "song8Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Word",
+      "description": "Unlock the Elexive - Bloody Pumpkin song on word mode!"
+    },
+    {
+      "apiname": "song9Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Word",
+      "description": "Unlock the Indigo - Hope song on word mode!"
+    },
+    {
+      "apiname": "song10Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward  Word",
+      "description": "Unlock the JOA Mabeha - Skyward  song on word mode!"
+    },
+    {
+      "apiname": "song11Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Word",
+      "description": "Unlock the Niki Kofman - Maelstrom song on word mode!"
+    },
+    {
+      "apiname": "song12Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Word",
+      "description": "Unlock the Niki Kofman - Tropicom song on word mode!"
+    },
+    {
+      "apiname": "song13Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Word",
+      "description": "Unlock the Quasar Music - Madness  song on word mode!"
+    },
+    {
+      "apiname": "song14Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble  Word",
+      "description": "Unlock the Rolipso - Jumble  song on word mode!"
+    },
+    {
+      "apiname": "song15Words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion  Word",
+      "description": "Unlock the Whithe - Garcion  song on word mode!"
+    },
+    {
+      "apiname": "song1ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Arrows Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Arrows mode!"
+    },
+    {
+      "apiname": "song2ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Arrows Start",
+      "description": "Start Janji - Horizon on Arrow mode!"
+    },
+    {
+      "apiname": "song3ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Arrows Start",
+      "description": "Start Janji ft. TR - Milky way stars on Arrows mode!"
+    },
+    {
+      "apiname": "song4ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease  Arrows Start",
+      "description": "Start A Himitsu - Cease  on Arrow mode!"
+    },
+    {
+      "apiname": "song5ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories   Arrows Start",
+      "description": "Start A Himitsu - Stories   on Arrow mode!"
+    },
+    {
+      "apiname": "song6ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within  Arrows Start",
+      "description": "Start A Himitsu - Lost Within  on Arrow mode!"
+    },
+    {
+      "apiname": "song7ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride  Arrows Start",
+      "description": "Start Elexive - Beach Buggy Ride  on Arrow mode!"
+    },
+    {
+      "apiname": "song8ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Arrows Start",
+      "description": "Start Elexive - Bloody Pumpkin  on Arrow mode!"
+    },
+    {
+      "apiname": "song9ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Arrows Start",
+      "description": "Start Indigo - Hope  on Arrow mode!"
+    },
+    {
+      "apiname": "song10ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Arrows Start",
+      "description": "Start JOA Mabeha - Skyward  on Arrow mode!"
+    },
+    {
+      "apiname": "song11ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Arrows Start",
+      "description": "Start Niki Kofman - Maelstrom on Arrow mode!"
+    },
+    {
+      "apiname": "song12ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Arrows Start",
+      "description": "Start Niki Kofman - Tropicom on Arrows mode!"
+    },
+    {
+      "apiname": "song13ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness  Arrows Start",
+      "description": "Start Quasar Music - Madness  on Arrow mode!"
+    },
+    {
+      "apiname": "song14ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Arrows Start",
+      "description": "Start Rolipso - Jumble on Arrows mode!"
+    },
+    {
+      "apiname": "song15ArrowsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Arrows Start",
+      "description": "Start  Whithe - Garcion on Arrow mode!"
+    },
+    {
+      "apiname": "song1ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Song Janji ft. Johnning - Heroes Tonight Arrows Finish",
+      "description": "FinishJanji ft. Johnning - Heroes Tonight on Arrow mode!"
+    },
+    {
+      "apiname": "song2ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Arrows  Finish",
+      "description": "Finish Janji - Horizon on  Arrow mode!"
+    },
+    {
+      "apiname": "song3ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Arrows  Finish",
+      "description": "Finish Janji ft. TR - Milky way stars on Arrow mode!"
+    },
+    {
+      "apiname": "song4ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Song A Himitsu - Cease Arrows  Finish",
+      "description": "Finish A Himitsu - Cease on Arrow mode!"
+    },
+    {
+      "apiname": "song5ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Arrows Finish",
+      "description": "Finish A Himitsu - Stories on  Arrow mode!"
+    },
+    {
+      "apiname": "song6ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Arrows Finish",
+      "description": "Finish A Himitsu - Lost Within on  Arrow mode!"
+    },
+    {
+      "apiname": "song7ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Arrows Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Arrow mode!"
+    },
+    {
+      "apiname": "song8ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Arrows  Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Arrow mode!"
+    },
+    {
+      "apiname": "song9ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Arrows  Finish",
+      "description": "Finish Indigo - Hope on  Arrow mode!"
+    },
+    {
+      "apiname": "song10ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Arrows  Finish",
+      "description": "Finish JOA Mabeha - Skyward on Arrow mode!"
+    },
+    {
+      "apiname": "song11ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Arrows Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Arrow mode!"
+    },
+    {
+      "apiname": "song12ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Arrows  Finish",
+      "description": "Finish Niki Kofman - Tropicom on Arrow mode!"
+    },
+    {
+      "apiname": "song13ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Arrows  Finish",
+      "description": "Finish Quasar Music - Madness on Arrow mode!"
+    },
+    {
+      "apiname": "song14ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Arrows  Finish",
+      "description": "Finish Rolipso - Jumble on Arrow mode!"
+    },
+    {
+      "apiname": "song15ArrowsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Arrows Finish",
+      "description": "Finish Whithe - Garcion on  Arrow mode!"
+    },
+    {
+      "apiname": "song1MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Mouse Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Mouse mode!"
+    },
+    {
+      "apiname": "song2MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Mouse Start",
+      "description": "Start Janji - Horizon on Mouse mode!"
+    },
+    {
+      "apiname": "song3MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Mouse Start",
+      "description": "Start Janji ft. TR - Milky way stars on Mouse mode!"
+    },
+    {
+      "apiname": "song4MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Mouse Start",
+      "description": "Start A Himitsu - Cease on Mouse mode!"
+    },
+    {
+      "apiname": "song5MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Mouse Start",
+      "description": "Start A Himitsu - Stories on Mouse mode!"
+    },
+    {
+      "apiname": "song6MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Mouse Start",
+      "description": "Start A Himitsu - Lost Within on Mouse mode"
+    },
+    {
+      "apiname": "song7MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Mouse Start",
+      "description": "Start Elexive - Beach Buggy Ride on Mouse mode!"
+    },
+    {
+      "apiname": "song8MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Mouse Start",
+      "description": "Start Elexive - Bloody Pumpkin on Mouse mode!"
+    },
+    {
+      "apiname": "song9MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Mouse Start",
+      "description": "Start Indigo - Hope on Mouse mode!"
+    },
+    {
+      "apiname": "song10MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Mouse Start",
+      "description": "Start JOA Mabeha - Skyward on Mouse mode!"
+    },
+    {
+      "apiname": "song11MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Mouse Start",
+      "description": "Start Niki Kofman - Maelstrom on Mouse mode!"
+    },
+    {
+      "apiname": "song12MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Mouse Start",
+      "description": "Start Niki Kofman - Tropicom on Mouse mode!"
+    },
+    {
+      "apiname": "song13MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Mouse Start",
+      "description": "Start Quasar Music - Madness on Mouse mode!"
+    },
+    {
+      "apiname": "song14MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Mouse Start",
+      "description": "Start Rolipso - Jumble on Mouse mode!"
+    },
+    {
+      "apiname": "song15MouseNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Mouse Start",
+      "description": "Start Whithe - Garcion on Mouse mode!"
+    },
+    {
+      "apiname": "song1MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Mouse Finish",
+      "description": "Finish Janji ft. Johnning - Heroes Tonight on Mouse mode!"
+    },
+    {
+      "apiname": "song2MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Mouse Finish",
+      "description": "Finish Janji - Horizon on Mouse mode!"
+    },
+    {
+      "apiname": "song3MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Mouse Finish",
+      "description": "Finish Janji ft. TR - Milky way stars on Mouse mode!"
+    },
+    {
+      "apiname": "song4MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Mouse Finish",
+      "description": "Finish A Himitsu - Cease on Mouse mode!"
+    },
+    {
+      "apiname": "song5MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Mouse Finish",
+      "description": "Finish A Himitsu - Stories on Mouse mode!"
+    },
+    {
+      "apiname": "song6MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Mouse Finish",
+      "description": "Finish A Himitsu - Lost Within on Mouse mode"
+    },
+    {
+      "apiname": "song7MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Mouse Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Mouse mode!"
+    },
+    {
+      "apiname": "song8MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Mouse Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Mouse mode!"
+    },
+    {
+      "apiname": "song9MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Mouse Finish",
+      "description": "Finish Indigo - Hope on Mouse mode!"
+    },
+    {
+      "apiname": "song10MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Mouse Finish",
+      "description": "Finish JOA Mabeha - Skyward on Mouse mode!"
+    },
+    {
+      "apiname": "song11MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Mouse Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Mouse mode!"
+    },
+    {
+      "apiname": "song12MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Mouse ",
+      "description": "Finish Niki Kofman - Tropicom on Mouse mode!"
+    },
+    {
+      "apiname": "song13MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Mouse Finish",
+      "description": "Finish Quasar Music - Madness on Mouse mode!"
+    },
+    {
+      "apiname": "song14MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Mouse Finish",
+      "description": "Finish Rolipso - Jumble on Mouse mode!"
+    },
+    {
+      "apiname": "song15MouseHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Mouse Finish",
+      "description": "Finish Whithe - Garcion on Mouse mode!"
+    },
+    {
+      "apiname": "song1NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Numbers Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Numbers mode!"
+    },
+    {
+      "apiname": "song2NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Numbers Start",
+      "description": "Start Janji - Horizon on Numbers mode!"
+    },
+    {
+      "apiname": "song3NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Numbers Start",
+      "description": "Start Janji ft. TR - Milky way stars on Numbers mode!"
+    },
+    {
+      "apiname": "song4NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Numbers Start",
+      "description": "Start A Himitsu - Cease on Numbers mode!"
+    },
+    {
+      "apiname": "song5NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Numbers Start",
+      "description": "Start  A Himitsu - Stories on Numbers mode!"
+    },
+    {
+      "apiname": "song6NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Numbers ",
+      "description": "Start A Himitsu - Lost Within on Numbers mode"
+    },
+    {
+      "apiname": "song7NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Numbers Start",
+      "description": "Start Elexive - Beach Buggy Ride on Numbers mode!"
+    },
+    {
+      "apiname": "song8NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Numbers Start",
+      "description": "Start Elexive - Bloody Pumpkin on Numbers mode!"
+    },
+    {
+      "apiname": "song9NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Numbers Start",
+      "description": "Start Indigo - Hope on Numbers mode!"
+    },
+    {
+      "apiname": "song10NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Numbers Start",
+      "description": "Start JOA Mabeha - Skyward on Numbers mode!"
+    },
+    {
+      "apiname": "song11NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Numbers Start",
+      "description": "Start Niki Kofman - Maelstrom on Numbers mode!"
+    },
+    {
+      "apiname": "song12NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Numbers Start",
+      "description": "Start Niki Kofman - Tropicom on Numbers mode!"
+    },
+    {
+      "apiname": "song13NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Numbers ",
+      "description": "Start Quasar Music - Madness on Numbers mode!"
+    },
+    {
+      "apiname": "song14NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Numbers Start",
+      "description": "Start Rolipso - Jumble on Numbers mode!"
+    },
+    {
+      "apiname": "song15NumbersNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Numbers Start",
+      "description": "Start Whithe - Garcion on Numbers mode!"
+    },
+    {
+      "apiname": "song1NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Numbers Finish",
+      "description": "FinishJanji ft. Johnning - Heroes Tonight on Numbers mode!"
+    },
+    {
+      "apiname": "song2NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Numbers Finish",
+      "description": "Finish Janji - Horizon on Numbers mode!"
+    },
+    {
+      "apiname": "song3NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Numbers Finish",
+      "description": "FinishJanji ft. TR - Milky way stars on Numbers mode!"
+    },
+    {
+      "apiname": "song4NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Numbers Finish",
+      "description": "Finish A Himitsu - Cease on Numbers mode!"
+    },
+    {
+      "apiname": "song5NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Numbers Finish",
+      "description": "Finish A Himitsu - Stories on Numbers mode!"
+    },
+    {
+      "apiname": "song6NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Numbers Finish",
+      "description": "Finish A Himitsu - Lost Within on Numbers mode"
+    },
+    {
+      "apiname": "song7NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Numbers Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Numbers mode!"
+    },
+    {
+      "apiname": "song8NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Numbers Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Numbers mode!"
+    },
+    {
+      "apiname": "song9NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Numbers Finish",
+      "description": "Finish Indigo - Hope on Numbers mode!"
+    },
+    {
+      "apiname": "song10NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Numbers Finish",
+      "description": "Finish JOA Mabeha - Skyward on Numbers mode!"
+    },
+    {
+      "apiname": "song11NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Numbers Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Numbers mode!"
+    },
+    {
+      "apiname": "song12NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Numbers Finish",
+      "description": "Finish Niki Kofman - Tropicom on Numbers mode!"
+    },
+    {
+      "apiname": "song13NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Numbers Finish",
+      "description": "Finish  Quasar Music - Madness on Numbers mode!"
+    },
+    {
+      "apiname": "song14NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Numbers Finish",
+      "description": "Finish Rolipso - Jumble on Numbers mode!"
+    },
+    {
+      "apiname": "song15NumbersHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Numbers Finish",
+      "description": "Finish Whithe - Garcion on Numbers mode!"
+    },
+    {
+      "apiname": "song1AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Alphabet Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Alphabet mode!"
+    },
+    {
+      "apiname": "song2AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Alphabet Start",
+      "description": "Start Janji - Horizon on Alphabet mode!"
+    },
+    {
+      "apiname": "song3AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Alphabet Start",
+      "description": "Start Janji ft. TR - Milky way stars on Alphabet mode!"
+    },
+    {
+      "apiname": "song4AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Alphabet Start",
+      "description": "Start A Himitsu - Cease on Alphabet mode!"
+    },
+    {
+      "apiname": "song5AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Alphabet Start",
+      "description": "Start A Himitsu - Stories on Alphabet mode!"
+    },
+    {
+      "apiname": "song6AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Alphabet Start",
+      "description": "Start A Himitsu - Lost Within on Alphabet mode"
+    },
+    {
+      "apiname": "song7AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Alphabet Start",
+      "description": "Start Elexive - Beach Buggy Ride on Alphabet mode!"
+    },
+    {
+      "apiname": "song8AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Alphabet Start",
+      "description": "Start Elexive - Bloody Pumpkin on Alphabet mode!"
+    },
+    {
+      "apiname": "song9AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Alphabet Start",
+      "description": "Start Indigo - Hope on Alphabet mode!"
+    },
+    {
+      "apiname": "song10AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Alphabet Start",
+      "description": "Start JOA Mabeha - Skyward on Alphabet mode!"
+    },
+    {
+      "apiname": "song11AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Alphabet Start",
+      "description": "Start Niki Kofman - Maelstrom on Alphabet mode!"
+    },
+    {
+      "apiname": "song12AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Alphabet Start",
+      "description": "Start Niki Kofman - Tropicom on Alphabet mode!"
+    },
+    {
+      "apiname": "song13AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Alphabet Start",
+      "description": "Start Quasar Music - Madness on Alphabet mode!"
+    },
+    {
+      "apiname": "song14AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Alphabet Start",
+      "description": "Start Rolipso - Jumble on Alphabet mode!"
+    },
+    {
+      "apiname": "song15AlphabetNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Alphabet Start",
+      "description": "Start Whithe - Garcion on Alphabet mode!"
+    },
+    {
+      "apiname": "song1AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Alphabet Finish",
+      "description": "Finish Janji ft. Johnning - Heroes Tonight on Alphabet mode!"
+    },
+    {
+      "apiname": "song2AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Alphabet Finish",
+      "description": "Finish Janji - Horizon on Alphabet  mode!"
+    },
+    {
+      "apiname": "song3AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Alphabet Finish",
+      "description": "Finish Janji ft. TR - Milky way stars on Alphabet mode!"
+    },
+    {
+      "apiname": "song4AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Alphabet Finish",
+      "description": "Finish A Himitsu - Cease on Alphabet mode!"
+    },
+    {
+      "apiname": "song5AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Alphabet Finish",
+      "description": "Finish A Himitsu - Stories on Alphabet mode!"
+    },
+    {
+      "apiname": "song6AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Alphabet Finish",
+      "description": "Finish A Himitsu - Lost Within on Alphabet mode"
+    },
+    {
+      "apiname": "song7AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Alphabet Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Alphabet mode!"
+    },
+    {
+      "apiname": "song8AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Alphabet Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Alphabet mode!"
+    },
+    {
+      "apiname": "song9AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Alphabet Finish",
+      "description": "Finish Indigo - Hope on Alphabet mode!"
+    },
+    {
+      "apiname": "song10AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Alphabet Finish",
+      "description": "Finish JOA Mabeha - Skyward on Alphabet mode!"
+    },
+    {
+      "apiname": "song11AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Alphabet Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Alphabet mode!"
+    },
+    {
+      "apiname": "song12AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Alphabet Finish",
+      "description": "Finish Niki Kofman - Tropicom on Alphabet mode!"
+    },
+    {
+      "apiname": "song13AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Alphabet Finish",
+      "description": "Finish Quasar Music - Madness on Alphabet mode!"
+    },
+    {
+      "apiname": "song14AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Alphabet Finish",
+      "description": "Finish Rolipso - Jumble on Alphabet mode!"
+    },
+    {
+      "apiname": "song15AlphabetHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Alphabet Finish",
+      "description": "Finish Whithe - Garcion on Alphabet mode!"
+    },
+    {
+      "apiname": "song1SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Space Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Space mode!"
+    },
+    {
+      "apiname": "song2SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Space Start",
+      "description": "Start Janji - Horizon on Space mode!"
+    },
+    {
+      "apiname": "song3SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Space Normal",
+      "description": "Complete Janji ft. TR - Milky way stars on Space Normal mode!"
+    },
+    {
+      "apiname": "song4SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Space Start",
+      "description": "Start A Himitsu - Cease on Space mode!"
+    },
+    {
+      "apiname": "song5SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Space Start",
+      "description": "Start A Himitsu - Stories on Space mode!"
+    },
+    {
+      "apiname": "song6SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Space Start",
+      "description": "Start A Himitsu - Lost Within on Space mode!"
+    },
+    {
+      "apiname": "song7SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Space Start",
+      "description": "Start Elexive - Beach Buggy Ride on Space mode!"
+    },
+    {
+      "apiname": "song8SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Space Normal",
+      "description": "Complete Elexive - Bloody Pumpkin on Space Normal mode!"
+    },
+    {
+      "apiname": "song9SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Space Start",
+      "description": "Start Indigo - Hope on Space mode!"
+    },
+    {
+      "apiname": "song10SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Space Normal",
+      "description": "Complete JOA Mabeha - Skyward on Space Normal mode!"
+    },
+    {
+      "apiname": "song11SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Space Start",
+      "description": "Start Niki Kofman - Maelstrom on Space mode!"
+    },
+    {
+      "apiname": "song12SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Space Start",
+      "description": "Start Niki Kofman - Tropicom on Space mode!"
+    },
+    {
+      "apiname": "song13SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Space Start",
+      "description": "Start Quasar Music - Madness on Space mode!"
+    },
+    {
+      "apiname": "song14SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Space Normal",
+      "description": "Complete Rolipso - Jumble on Space Normal mode!"
+    },
+    {
+      "apiname": "song15SpaceNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Space Start",
+      "description": "Start Whithe - Garcion on Space mode!"
+    },
+    {
+      "apiname": "song1SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Space Finish",
+      "description": "Finish Janji ft. Johnning - Heroes Tonight on Space mode!"
+    },
+    {
+      "apiname": "song2SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Space Finish",
+      "description": "Finish Janji - Horizon on Space mode!"
+    },
+    {
+      "apiname": "song3SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Space Finish",
+      "description": "FinishJanji ft. TR - Milky way stars on Space mode!"
+    },
+    {
+      "apiname": "song4SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Space Finish",
+      "description": "Finish A Himitsu - Cease on Space mode!"
+    },
+    {
+      "apiname": "song5SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Space Finish",
+      "description": "Finish A Himitsu - Stories on Space mode!"
+    },
+    {
+      "apiname": "song6SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Space Finish",
+      "description": "Finish A Himitsu - Lost Within on Space mode"
+    },
+    {
+      "apiname": "song7SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Space Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Space mode!"
+    },
+    {
+      "apiname": "song8SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Space Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Space mode!"
+    },
+    {
+      "apiname": "song9SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Space Finish",
+      "description": "Finish Indigo - Hope on Space mode!"
+    },
+    {
+      "apiname": "song10SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Space Finish",
+      "description": "Finish JOA Mabeha - Skyward on Space mode!"
+    },
+    {
+      "apiname": "song11SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Space Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Space mode!"
+    },
+    {
+      "apiname": "song12SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Space Finish",
+      "description": "Finish Niki Kofman - Tropicom on Space mode!"
+    },
+    {
+      "apiname": "song13SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Space Finish",
+      "description": "Finish Quasar Music - Madness on Space mode!"
+    },
+    {
+      "apiname": "song14SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Space Finish",
+      "description": "Finish Rolipso - Jumble on Space mode!"
+    },
+    {
+      "apiname": "song15SpaceHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Space Finish",
+      "description": "Finish Whithe - Garcion on Space mode!"
+    },
+    {
+      "apiname": "song1CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Cube Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Cube mode!"
+    },
+    {
+      "apiname": "song2CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Cube Start",
+      "description": "Start Janji - Horizon on Cube mode!"
+    },
+    {
+      "apiname": "song3CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Cube Start",
+      "description": "Start Janji ft. TR - Milky way stars on Cube mode!"
+    },
+    {
+      "apiname": "song4CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Cube Start",
+      "description": "Start A Himitsu - Cease on Cube mode!"
+    },
+    {
+      "apiname": "song5CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Cube Start",
+      "description": "Start A Himitsu - Stories on Cube mode!"
+    },
+    {
+      "apiname": "song6CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Cube Start",
+      "description": "Start A Himitsu - Lost Within on Cube mode"
+    },
+    {
+      "apiname": "song7CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Cube Start",
+      "description": "Start Elexive - Beach Buggy Ride on Cube mode!"
+    },
+    {
+      "apiname": "song8CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Cube Start",
+      "description": "Start Elexive - Bloody Pumpkin on Cube mode!"
+    },
+    {
+      "apiname": "song9CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Cube Start",
+      "description": "Start Indigo - Hope on Cube mode!"
+    },
+    {
+      "apiname": "song10CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Cube Start",
+      "description": "Start JOA Mabeha - Skyward on Cube mode!"
+    },
+    {
+      "apiname": "song11CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Cube Start",
+      "description": "Start Niki Kofman - Maelstrom on Cube mode!"
+    },
+    {
+      "apiname": "song12CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Cube Start",
+      "description": "Start Niki Kofman - Tropicom on Cube mode!"
+    },
+    {
+      "apiname": "song13CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Cube Start",
+      "description": "Start Quasar Music - Madness on Cube mode"
+    },
+    {
+      "apiname": "song14CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Cube Start",
+      "description": "Start Rolipso - Jumble on Cube mode!"
+    },
+    {
+      "apiname": "song15CubeNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Cube Start",
+      "description": "Start Whithe - Garcion on Cube mode!"
+    },
+    {
+      "apiname": "song1CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Cube Finish",
+      "description": "Finish Janji ft. Johnning - Heroes Tonight on Cube mode!"
+    },
+    {
+      "apiname": "song2CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Cube Finish",
+      "description": "Finish Janji - Horizon on Cube mode!"
+    },
+    {
+      "apiname": "song3CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Cube Finish",
+      "description": "Finish Janji ft. TR - Milky way stars on Cube mode!"
+    },
+    {
+      "apiname": "song4CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Cube Finish",
+      "description": "Finish A Himitsu - Cease on Space mode!"
+    },
+    {
+      "apiname": "song5CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Cube Finish",
+      "description": "Finish A Himitsu - Stories on Cube mode!"
+    },
+    {
+      "apiname": "song6CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Cube Finish",
+      "description": "Finish A Himitsu - Lost Within on Cube mode"
+    },
+    {
+      "apiname": "song7CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Cube Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Cube mode!"
+    },
+    {
+      "apiname": "song8CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Cube Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Cube mode!"
+    },
+    {
+      "apiname": "song9CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Cube Finish",
+      "description": "Finish Indigo - Hope on Cube mode!"
+    },
+    {
+      "apiname": "song10CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Cube Finish",
+      "description": "Finish JOA Mabeha - Skyward on Cube mode!"
+    },
+    {
+      "apiname": "song11CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Cube Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Cube mode!"
+    },
+    {
+      "apiname": "song12CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Cube Finish",
+      "description": "Finish Niki Kofman - Tropicom on Cube mode!"
+    },
+    {
+      "apiname": "song13CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Cube Finish",
+      "description": "Finish Quasar Music - Madness on Cube mode"
+    },
+    {
+      "apiname": "song14CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Cube Finish",
+      "description": "Finish Rolipso - Jumble on Cube mode!"
+    },
+    {
+      "apiname": "song15CubeHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Cube Finish",
+      "description": "Finish Whithe - Garcion on Cube mode!"
+    },
+    {
+      "apiname": "song1WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Words Start",
+      "description": "Start Janji ft. Johnning - Heroes Tonight on Words mode!"
+    },
+    {
+      "apiname": "song2WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Words Start",
+      "description": "Start Janji - Horizon on Words mode!"
+    },
+    {
+      "apiname": "song3WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Words Start",
+      "description": "Start Janji ft. TR - Milky way stars on Words mode!"
+    },
+    {
+      "apiname": "song4WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Words Start",
+      "description": "Start A Himitsu - Cease on Words mode!"
+    },
+    {
+      "apiname": "song5WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - StoriesWords Start",
+      "description": "Start A Himitsu - Stories on Words mode!"
+    },
+    {
+      "apiname": "song6WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Words Start",
+      "description": "Start A Himitsu - Lost Within on Words mode"
+    },
+    {
+      "apiname": "song7WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Words Start",
+      "description": "Start Elexive - Beach Buggy Ride on Words mode!"
+    },
+    {
+      "apiname": "song8WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Words Start",
+      "description": "Start Elexive - Bloody Pumpkin on Words mode!"
+    },
+    {
+      "apiname": "song9WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Words Start",
+      "description": "Start Indigo - Hope on Words mode!"
+    },
+    {
+      "apiname": "song10WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Words Start",
+      "description": "Start JOA Mabeha - Skyward on Words mode!"
+    },
+    {
+      "apiname": "song11WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Words Start",
+      "description": "Start Niki Kofman - Maelstrom on Words mode!"
+    },
+    {
+      "apiname": "song12WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Words Start",
+      "description": "Start Niki Kofman - Tropicom on Words mode!"
+    },
+    {
+      "apiname": "song13WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Words Start",
+      "description": "Start Quasar Music - Madness on Words mode"
+    },
+    {
+      "apiname": "song14WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Words Start",
+      "description": "Start Rolipso - Jumble on Words mode!"
+    },
+    {
+      "apiname": "song15WordsNormal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Words Start",
+      "description": "Start Whithe - Garcion on Words mode!"
+    },
+    {
+      "apiname": "song1WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. Johnning - Heroes Tonight Words Finish",
+      "description": "Finish Janji ft. Johnning - Heroes Tonight on Words mode!"
+    },
+    {
+      "apiname": "song2WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji - Horizon Words Finish",
+      "description": "Finish Janji - Horizon on Words mode!"
+    },
+    {
+      "apiname": "song3WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Janji ft. TR - Milky way stars Words Finish",
+      "description": "Finish Janji ft. TR - Milky way stars on Words mode!"
+    },
+    {
+      "apiname": "song4WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Cease Words Finish",
+      "description": "Finish A Himitsu - Cease on Words mode!"
+    },
+    {
+      "apiname": "song5WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Stories Words Finish",
+      "description": "Finish A Himitsu - Stories on Words mode!"
+    },
+    {
+      "apiname": "song6WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song A Himitsu - Lost Within Words Finish",
+      "description": "Finish A Himitsu - Lost Within on Words mode"
+    },
+    {
+      "apiname": "song7WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Beach Buggy Ride Words Finish",
+      "description": "Finish Elexive - Beach Buggy Ride on Words mode!"
+    },
+    {
+      "apiname": "song8WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Elexive - Bloody Pumpkin Words Finish",
+      "description": "Finish Elexive - Bloody Pumpkin on Words mode!"
+    },
+    {
+      "apiname": "song9WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Indigo - Hope Words Finish",
+      "description": "Finish Indigo - Hope on Words mode!"
+    },
+    {
+      "apiname": "song10WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song JOA Mabeha - Skyward Words Finish",
+      "description": "Finish JOA Mabeha - Skyward on Words mode!"
+    },
+    {
+      "apiname": "song11WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Maelstrom Words Finish",
+      "description": "Finish Niki Kofman - Maelstrom on Words mode!"
+    },
+    {
+      "apiname": "song12WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Niki Kofman - Tropicom Words Finish",
+      "description": "Finish Niki Kofman - Tropicom on Words mode!"
+    },
+    {
+      "apiname": "song13WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Quasar Music - Madness Words Finish",
+      "description": "Finish Quasar Music - Madness on Words mode"
+    },
+    {
+      "apiname": "song14WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Rolipso - Jumble Words Finish",
+      "description": "Finish Rolipso - Jumble on Words mode!"
+    },
+    {
+      "apiname": "song15WordsHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song Whithe - Garcion Words Finish",
+      "description": "Finish Whithe - Garcion on Words mode!"
+    },
+    {
+      "apiname": "cubeAccuracy85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cube Accuracy 85",
+      "description": "Achieve at least 85% accuracy on cube mode!"
+    }
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1584090,
+  "game": "东方夜雀食堂 - Touhou Mystia's Izakaya",
+  "total": 141,
+  "unlocked": 5,
+  "percent": 3.5,
+  "updated_at_utc": "2026-09-15T06:52:14.695165+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_1_1stPlay",
+      "achieved": 1,
+      "unlocktime": 1704002457,
+      "name": "Mystia's Izakaya",
+      "description": "Launch the game for the first time."
+    },
+    {
+      "apiname": "Achievement_2_PlotYykDestroys",
+      "achieved": 1,
+      "unlocktime": 1704002804,
+      "name": "A Horrible Nightmare",
+      "description": "Complete the story of Yuyuko's havoc."
+    },
+    {
+      "apiname": "Achievement_3_QuestBeastForestPayoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So it starts...with a DEBT?",
+      "description": "Pay off your debt at Youkai's Trail."
+    },
+    {
+      "apiname": "Achievement_4_QuestHumanVillagePayoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's borrowed, not stolen!",
+      "description": "Pay off your debt at Human Village."
+    },
+    {
+      "apiname": "Achievement_5_QuestHakureiShrinePayoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meant to be Versatile",
+      "description": "Pay off your debt at Hakurei Shrine."
+    },
+    {
+      "apiname": "Achievement_6_QuestScarletMansionPayoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "East and West, Come and Get!",
+      "description": "Pay off your debt at Scarlet's Mansion."
+    },
+    {
+      "apiname": "Achievement_7_QuestBambooForestPayoff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight of Immortality and Eternity",
+      "description": "Pay off your debt at Bamboo Forest  of the Lost."
+    },
+    {
+      "apiname": "Achievement_8_ChallengeFinalYyk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gensokyo's Izakaya",
+      "description": "Defeat Yuyuko and beat the game."
+    },
+    {
+      "apiname": "Achievement_9_5rateWithAddup",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Additives are essential！",
+      "description": "Fully satisfy a customer by adding certain  ingredient for the first time."
+    },
+    {
+      "apiname": "Achievement_10_1stAwardSC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Spell Card Bonus",
+      "description": "Fully satisfy a rare customer and get  rewarded for the first time."
+    },
+    {
+      "apiname": "Achievement_11_1stPunishSC_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Continue?",
+      "description": "Screwed by a punitive spell card for the  first time."
+    },
+    {
+      "apiname": "Achievement_12_1stCollectupBeastForest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Youkai's Trail Robbery",
+      "description": "Collect at least once at every collection point at  Youkai's Trail"
+    },
+    {
+      "apiname": "Achievement_13_1stCollectupHumanVillage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thief in the Human Village",
+      "description": "Collect at least once at every collection point at  Human Village"
+    },
+    {
+      "apiname": "Achievement_14_1stCollectupHakureiShrine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's my lunch!",
+      "description": "Collect at least once at every collection point at  Hakurei Shrine"
+    },
+    {
+      "apiname": "Achievement_15_1stCollectupScarletMansion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Barren Scarlet Devil Mansion",
+      "description": "Collect at least once at every collection point at  Scarlet Devil Mansion"
+    },
+    {
+      "apiname": "Achievement_16_1stCollectupBambooForest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Courage Champion",
+      "description": "Collect at least once at every collection point at  Bamboo Forest of the Lost"
+    },
+    {
+      "apiname": "Achievement_17_KizunaLv2Rumia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Friend! ~The Flying Dark Orb",
+      "description": "Reach bond level 2 with Rumia"
+    },
+    {
+      "apiname": "Achievement_18_KizunaLv4Rumia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~Proof that she has a heart.",
+      "description": "Reach bond level 4 with Rumia"
+    },
+    {
+      "apiname": "Achievement_19_KizunaLv5Rumia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BFF! ~Be sure to come to my concert!",
+      "description": "Reach maximum bond level with Rumia"
+    },
+    {
+      "apiname": "Achievement_20_KizunaLv2Wriggle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Friend! ~...bugs not included.",
+      "description": "Reach bond level 2 with Wriggle"
+    },
+    {
+      "apiname": "Achievement_21_KizunaLv4Wriggle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~More encouraged and grief than I thought",
+      "description": "Reach bond level 4 with Wriggle"
+    },
+    {
+      "apiname": "Achievement_22_KizunaLv5Wriggle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BFF! ~Not starting a concert without you!",
+      "description": "Reach maximum bond level with Wriggle"
+    },
+    {
+      "apiname": "Achievement_23_KizunaLv2Chen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Can't you just be candid?",
+      "description": "Reach bond level 2 with Chen"
+    },
+    {
+      "apiname": "Achievement_24_KizunaLv4Chen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~As cute as I expected",
+      "description": "Reach bond level 4 with Chen"
+    },
+    {
+      "apiname": "Achievement_25_KizunaLv5Chen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Creditorship never means  estrangement!",
+      "description": "Reach maximum bond level with Chen"
+    },
+    {
+      "apiname": "Achievement_26_KizunaLv2Keine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Easier-going than that red one.",
+      "description": "Reach bond level 2 with Keine"
+    },
+    {
+      "apiname": "Achievement_27_KizunaLv4Keine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~A Troubled Teacher",
+      "description": "Reach bond level 4 with Keine"
+    },
+    {
+      "apiname": "Achievement_28_KizunaLv5Keine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Please come to advise... I mean, enjoy the concert!",
+      "description": "Reach maximum bond level with Keine"
+    },
+    {
+      "apiname": "Achievement_29_KizunaLv2Kasen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Can I really befriend with a Sennin?",
+      "description": "Reach bond level 2 with Kasen"
+    },
+    {
+      "apiname": "Achievement_30_KizunaLv4Kasen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~Disguised Foodie",
+      "description": "Reach bond level 4 with Kasen"
+    },
+    {
+      "apiname": "Achievement_31_KizunaLv5Kasen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Love me, love my stomach.",
+      "description": "Reach maximum bond level with Kasen"
+    },
+    {
+      "apiname": "Achievement_32_KizunaLv2Akyuu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Aristocratic and Frail",
+      "description": "Reach bond level 2 with Akyuu"
+    },
+    {
+      "apiname": "Achievement_33_KizunaLv4Akyuu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~Seems she's really someone",
+      "description": "Reach bond level 4 with Akyuu"
+    },
+    {
+      "apiname": "Achievement_34_KizunaLv5Akyuu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Respectable Nobility",
+      "description": "Reach maximum bond level with Akyuu"
+    },
+    {
+      "apiname": "Achievement_35_KizunaLv2Reimu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Can't believe she's my friend now.",
+      "description": "Reach bond level 2 with Reimu"
+    },
+    {
+      "apiname": "Achievement_36_KizunaLv4Reimu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~A Hard-won Smile",
+      "description": "Reach bond level 4 with Reimu"
+    },
+    {
+      "apiname": "Achievement_37_KizunaLv5Reimu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Drop by my shrine at anytime!",
+      "description": "Reach maximum bond level with Reimu"
+    },
+    {
+      "apiname": "Achievement_38_KizunaLv2Suika",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~Hyakkiyako in Gensokyo",
+      "description": "Reach bond level 2 with Suika"
+    },
+    {
+      "apiname": "Achievement_39_KizunaLv4Suika",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~Drunken Agility",
+      "description": "Reach bond level 4 with Suika"
+    },
+    {
+      "apiname": "Achievement_40_KizunaLv5Suika",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~My Oni Bartener",
+      "description": "Reach maximum bond level with Suika"
+    },
+    {
+      "apiname": "Achievement_41_KizunaLv2Tenshi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Pal! ~...rather say I had no choice.",
+      "description": "Reach bond level 2 with Tenshi"
+    },
+    {
+      "apiname": "Achievement_42_KizunaLv4Tenshi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! ~Tenderness Hidden in Arrogance",
+      "description": "Reach bond level 4 with Tenshi"
+    },
+    {
+      "apiname": "Achievement_43_KizunaLv5Tenshi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Friend! ~Nobody is Otherworldly",
+      "description": "Reach maximum bond level with Tenshi"
+    },
+    {
+      "apiname": "Achievement_44_KizunaLv2x5_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nodding Acquaintances 1",
+      "description": "Reach bond level 2 with 5 friends"
+    },
+    {
+      "apiname": "Achievement_45_KizunaLv2x10_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nodding Acquaintances 2",
+      "description": "Reach bond level 2 with 10 friends"
+    },
+    {
+      "apiname": "Achievement_46_KizunaLv2x15_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nodding Acquaintances 3",
+      "description": "Reach bond level 2 with 15 friends"
+    },
+    {
+      "apiname": "Achievement_47_KizunaLv5x5_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Social Butterfly 1",
+      "description": "Reach maximum bond level with 5 friends"
+    },
+    {
+      "apiname": "Achievement_48_KizunaLv5x10_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Social Butterfly 2",
+      "description": "Reach maximum bond level with 10 friends"
+    },
+    {
+      "apiname": "Achievement_49_KizunaLv5x15_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Social Butterfly 3",
+      "description": "Reach maximum bond level with 15 friends"
+    },
+    {
+      "apiname": "Achievement_50_AwardSCRumia_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat Feast",
+      "description": "Get rewarded by Rumia."
+    },
+    {
+      "apiname": "Achievement_51_PunishSCRumia_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Dark Fantasy",
+      "description": "Get punished by Rumia."
+    },
+    {
+      "apiname": "Achievement_52_AwardSCWriggle_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Firefly Cheering Squad",
+      "description": "Get rewarded by Wriggle."
+    },
+    {
+      "apiname": "Achievement_53_PunishSCWriggle_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's a BUG!",
+      "description": "Get punished by Wriggle."
+    },
+    {
+      "apiname": "Achievement_54_AwardSCChen_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Feast",
+      "description": "Get rewarded by Chen."
+    },
+    {
+      "apiname": "Achievement_55_PunishSCChen_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loaf on the Job",
+      "description": "Get punished by Chen."
+    },
+    {
+      "apiname": "Achievement_56_AwardSCKeine_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is that why you call us here?",
+      "description": "Get rewarded by Keine with spellcard: Sato."
+    },
+    {
+      "apiname": "Achievement_57_PunishSCKeine_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naughty Student",
+      "description": "Get punished by Keine."
+    },
+    {
+      "apiname": "Achievement_58_AwardSCKasen_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mike's Blessing",
+      "description": "Get rewarded by Kasen."
+    },
+    {
+      "apiname": "Achievement_59_PunishSCKasen_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ascetic",
+      "description": "Get punished by Kasen."
+    },
+    {
+      "apiname": "Achievement_60_AwardSCAkyuu_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mysterious Novelist",
+      "description": "Get rewarded by Akyuu."
+    },
+    {
+      "apiname": "Achievement_61_PunishSCAkyuu_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Objecion overruled!",
+      "description": "Get punished by Akyuu."
+    },
+    {
+      "apiname": "Achievement_62_AwardSCMarisa_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mushroom Feast",
+      "description": "Get rewarded by Marisa."
+    },
+    {
+      "apiname": "Achievement_63_PunishSCMarisa_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch the Golden Snitch!!",
+      "description": "Get punished by Marisa."
+    },
+    {
+      "apiname": "Achievement_64_AwardSCReimu_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reassuring Boundary",
+      "description": "Get rewarded by Reimu"
+    },
+    {
+      "apiname": "Achievement_65_PunishSCReimu_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deja Vu",
+      "description": "Get punished by Reimu."
+    },
+    {
+      "apiname": "Achievement_66_AwardSCSuika_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Real Alcohol Dealer",
+      "description": "Get rewarded by Suika."
+    },
+    {
+      "apiname": "Achievement_67_PunishSCSuika_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are you with Marisa?",
+      "description": "Get punished by Suika."
+    },
+    {
+      "apiname": "Achievement_68_AwardSCTenshi_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...but you can never leave!",
+      "description": "Get rewarded by Tenshi"
+    },
+    {
+      "apiname": "Achievement_69_PunishSCTenshi_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Justice From Above",
+      "description": "Get punished by Tenshi."
+    },
+    {
+      "apiname": "Achievement_70_PremadeSoldout",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparrow Head Knows the Math",
+      "description": "Sell out 10 serves made beforhand without wasting any other."
+    },
+    {
+      "apiname": "Achievement_71_1stDarkMatter_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcooked！",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_72_GetAllRecpToufu",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tofu Aficionado",
+      "description": "Obtain every tofu recipe."
+    },
+    {
+      "apiname": "Achievement_73_GetAllRecpGrill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barbecue Paradise",
+      "description": "Obtain every barbecue recipe."
+    },
+    {
+      "apiname": "Achievement_74_GetUdumbara_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flower Fantasy",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_75_GetSparrowWine_ID",
+      "achieved": 1,
+      "unlocktime": 1704003017,
+      "name": "Lucrative Discovery",
+      "description": "Collect sparrow wine."
+    },
+    {
+      "apiname": "Achievement_76_GetMashroom_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marisa Lorelei",
+      "description": "Collect 50 mushrooms in total."
+    },
+    {
+      "apiname": "Achievement_77_1stGetNews",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Packing Paper Delivery",
+      "description": "Find the first Tengu's newspaper delivered."
+    },
+    {
+      "apiname": "Achievement_78_5QuestsOfNews_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart-warming Helper",
+      "description": "Complete 5 missions on Tengu's  newspaper."
+    },
+    {
+      "apiname": "Achievement_79_SoldGreenTea10+",
+      "achieved": 1,
+      "unlocktime": 1704003674,
+      "name": "Youkai's Trail Teahouse",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_80_Sold5rateRiceBall30+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riceballs and Everything",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_81_FailedTagCulturedx10_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncivilized",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_82_Expel100+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Million Pound Note",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_83_AwardSC20+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spellcard Amateur",
+      "description": "Get rewarded for 20 times."
+    },
+    {
+      "apiname": "Achievement_84_AwardSC50+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spellcard Collector",
+      "description": "Get rewarded for 50 times."
+    },
+    {
+      "apiname": "Achievement_85_AwardSC100+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spellcard Maniac",
+      "description": "Get rewarded for 100 times."
+    },
+    {
+      "apiname": "Achievement_86_PunishSC20+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That all you got?",
+      "description": "Get punished for 20 times."
+    },
+    {
+      "apiname": "Achievement_87_PunishSC50+_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Get punished for 50 times."
+    },
+    {
+      "apiname": "Achievement_88_Waiting1+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worth to be awaited.",
+      "description": "Have one customer waiting in line."
+    },
+    {
+      "apiname": "Achievement_89_Waiting10+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can we have a seat?",
+      "description": "Have over 10 customers waiting in line."
+    },
+    {
+      "apiname": "Achievement_90_Waiting20+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Have over 20 customer waiting in line."
+    },
+    {
+      "apiname": "Achievement_91_1stTips_ID",
+      "achieved": 1,
+      "unlocktime": 1704003485,
+      "name": "Nice Reward",
+      "description": "Receive tip for the first time"
+    },
+    {
+      "apiname": "Achievement_92_Tips1000+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Right Way to Make Money",
+      "description": "Receive over ￥1,000 tip in  one night."
+    },
+    {
+      "apiname": "Achievement_93_Tips5000+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More than Generosity",
+      "description": "Receive over ￥5,000 tip in  one night."
+    },
+    {
+      "apiname": "Achievement_94_Profit500+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ka-ching!",
+      "description": "Earn over ￥500 profit in one night."
+    },
+    {
+      "apiname": "Achievement_95_Profit5000+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Business Genius",
+      "description": "Earn over ￥5,000 profit in one night."
+    },
+    {
+      "apiname": "Achievement_96_Profit10000+",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "....!!!!",
+      "description": "Earn over ￥10,000 profit in one night"
+    },
+    {
+      "apiname": "Achievement_97_AwardSCMeirin_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chinese Juggling!",
+      "description": "Get Meiling's reward spell card"
+    },
+    {
+      "apiname": "Achievement_98_PunishSCMeirin_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angry Panda!",
+      "description": "Get Meiling's punishment spell card"
+    },
+    {
+      "apiname": "Achievement_99_KizunaLv2Meirin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Friend! The cool gatekeeper of the SDM!",
+      "description": "Reach bond level 2 with Meiling"
+    },
+    {
+      "apiname": "Achievement_100_KizunaLv4Meirin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! The friendly gatekeeper of the SDM!",
+      "description": "Reach bond level 4 with Meiling"
+    },
+    {
+      "apiname": "Achievement_101_KizunaLv5Meirin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BFF! The best gatekeeper of the SDM!",
+      "description": "Reach maximum bond level with Meiling"
+    },
+    {
+      "apiname": "Achievement_102_KizunaLv2Patchouli",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting along! Magician of The Grand Liberary",
+      "description": "Reach bond level 2 with Patchouli"
+    },
+    {
+      "apiname": "Achievement_103_KizunaLv4Patchouli",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deeper friendship! Magician of omniscience",
+      "description": "Reach bond level 4 with Patchouli"
+    },
+    {
+      "apiname": "Achievement_104_KizunaLv5Patchouli",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of Soul! Magician who taught me alot",
+      "description": "Reach maximum bond level with Patchouli"
+    },
+    {
+      "apiname": "Achievement_105_KizunaLv2Cirno",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hanging around! But a haughty fairy",
+      "description": "Reach bond level 2 with Cirno"
+    },
+    {
+      "apiname": "Achievement_106_KizunaLv4Cirno",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deeper friendship!  Some great ideas though a fairy",
+      "description": "Reach bond level 4 with Cirno"
+    },
+    {
+      "apiname": "Achievement_107_KizunaLv5Cirno",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BFF! The Strongest Fairy",
+      "description": "Reach maximum bond level with Cirno"
+    },
+    {
+      "apiname": "Achievement_108_KizunaLv2Tewi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Initial friendship! ...don't want to implicate with her anyhow...",
+      "description": "Reach bond level 2 with Tewi"
+    },
+    {
+      "apiname": "Achievement_109_KizunaLv4Tewi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deeper friendship! She became somewhat kinder, wait, did shi?",
+      "description": "Reach bond level 4 with Tewi"
+    },
+    {
+      "apiname": "Achievement_110_KizunaLv5Tewi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of Soul! Even a Mammon has a nice side",
+      "description": "Reach maximum bond level with Tewi"
+    },
+    {
+      "apiname": "Achievement_111_KizunaLv2Kaguya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Friend! The princess of the Moon!",
+      "description": "Reach bond level 2 with Kaguya"
+    },
+    {
+      "apiname": "Achievement_112_KizunaLv4Kaguya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Warm! Though she's always thinking about something I don't understand",
+      "description": "Reach bond level 4 with Kaguya"
+    },
+    {
+      "apiname": "Achievement_113_KizunaLv5Kaguya",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BFF! I'll use ",
+      "description": "Reach maximum bond level with Kaguya"
+    },
+    {
+      "apiname": "Achievement_114_AwardSCPatchouli_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Vouge!",
+      "description": "Get Patchouli's reward spell card"
+    },
+    {
+      "apiname": "Achievement_115_PunishSCPatchouli_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't add wired things in food!",
+      "description": "Get Patchouli's punish spell card"
+    },
+    {
+      "apiname": "Achievement_116_AwardSCCirno_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The ability of controlling ice is so convenient",
+      "description": "Get Cirno's reward spell card"
+    },
+    {
+      "apiname": "Achievement_117_PunishSCCirno_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What are you doing to my utensil!",
+      "description": "Get Cirno's punish spell card"
+    },
+    {
+      "apiname": "Achievement_118_AwardSCTewi_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Utimate luck?!",
+      "description": "Get Tewi's reward spell card"
+    },
+    {
+      "apiname": "Achievement_119_PunishSCTewi_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NO!!!!!!",
+      "description": "Get Tewi's punish spell card"
+    },
+    {
+      "apiname": "Achievement_120_AwardSCKaguya_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eternal",
+      "description": "Get Kaguya‘s spell reward spell card"
+    },
+    {
+      "apiname": "Achievement_121_PunishSCKaguya_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instantaneity",
+      "description": "Get Kaguya‘s spell punish spell card"
+    },
+    {
+      "apiname": "Achievement_122_AwardSCMokou_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Clear Mind Accel!",
+      "description": "Get Mouku's reward spell card"
+    },
+    {
+      "apiname": "Achievement_123_PunishSCMokou_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whatever effort...",
+      "description": "Get Mouku's punish spell card"
+    },
+    {
+      "apiname": "Achievement_124_KaguyaWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouku's wearing dress!?",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_125_MokouWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kaguya's farce!?",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_127_ChallengeLV1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcome the first Trail",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_128_ChallengeLV2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcome the secondTrail",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_129_ChallengeBossFail",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another reincarnation...",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_130_ConcertEnd",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Concert in The Dream",
+      "description": "Hold the concert and see the ending scene"
+    },
+    {
+      "apiname": "Achievement_131_GetAllKizuna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect concert",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_132_ExchangeWineLV1_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little errand Lv1",
+      "description": "Complete 3 beverage transaction with Sakuya"
+    },
+    {
+      "apiname": "Achievement_133_ExchangeWineLV2_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little errand Lv2",
+      "description": "Complete 5 beverage transaction with Sakuya"
+    },
+    {
+      "apiname": "Achievement_134_ExchangeWineLV3_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little errand Lv3",
+      "description": "Complete 10 beverage transaction with Sakuya"
+    },
+    {
+      "apiname": "Achievement_135_StrongBuyAndSellLV1_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beware of shady merchants! Lv1",
+      "description": "Be a victim of forced transaction for 5 times"
+    },
+    {
+      "apiname": "Achievement_136_StrongBuyAndSellLV2_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beware of shady merchants! Lv2",
+      "description": "Be a victim of forced transaction for 15 times"
+    },
+    {
+      "apiname": "Achievement_137_StrongBuyAndSellLV3_ID",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beware of shady merchants! Lv3",
+      "description": "Be a victim of forced transaction for 25 times"
+    },
+    {
+      "apiname": "Achievement_138_SellCharacters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Human Trafficking!?",
+      "description": "In the commodity list you see... ...!??!?"
+    },
+    {
+      "apiname": "Achievement_139_KizunaLv2Mokou",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New bond! What a lonesome individual.",
+      "description": "Reach bond level 2 with Mokou"
+    },
+    {
+      "apiname": "Achievement_140_KizunaLv4Mokou",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deepened bond! She's all by herself.",
+      "description": "Reach bond level 4 with Mokou"
+    },
+    {
+      "apiname": "Achievement_141_KizunaLv5Mokou",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best friends! She's not alone anymore.",
+      "description": "Reach maximum bond level with Mokou"
+    },
+    {
+      "apiname": "Achievement_142_AllUnlocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Achievement",
+      "description": ""
+    }
+  ]
+}

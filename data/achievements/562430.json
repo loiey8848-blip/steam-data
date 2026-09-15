@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 562430,
+  "game": "Alien Hostage",
+  "total": 6,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:08.975058+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRST_LANDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your first landing!",
+      "description": "Good job."
+    },
+    {
+      "apiname": "FIRST_DEATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your first death.",
+      "description": "Your first death. Don't rage just yet there is a lot more to see!"
+    },
+    {
+      "apiname": "COMPLETED_5_LEVELS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "UFO Learner",
+      "description": "You have completed 5 levels!"
+    },
+    {
+      "apiname": "UFO_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "UFO Expert",
+      "description": "You have completed 15 levels!"
+    },
+    {
+      "apiname": "20_DEATHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "20 Deaths",
+      "description": "You have died 20 times. Congrats on still being here!"
+    },
+    {
+      "apiname": "UFO_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ufo Master",
+      "description": "You have completed 25 levels!"
+    }
+  ]
+}

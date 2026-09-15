@@ -1,0 +1,172 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2649080,
+  "game": "Coffee Caravan",
+  "total": 23,
+  "unlocked": 23,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:53.544277+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_TUTORIAL_COFFEE_ALL",
+      "achieved": 1,
+      "unlocktime": 1782031618,
+      "name": "Diligent Student of Coffee",
+      "description": "Good coffee requires a lot of testing."
+    },
+    {
+      "apiname": "ACH_TUTORIAL_TEA_ALL",
+      "achieved": 1,
+      "unlocktime": 1782046293,
+      "name": "Diligent Student of Tea",
+      "description": "Good tea is an art that takes time and practice."
+    },
+    {
+      "apiname": "ACH_ZERO_CUSTOMER",
+      "achieved": 1,
+      "unlocktime": 1782047299,
+      "name": "Zero Customer Scenario",
+      "description": "You haven't placed a single order and the day is over."
+    },
+    {
+      "apiname": "ACH_FLORAL_ARTIST",
+      "achieved": 1,
+      "unlocktime": 1782047635,
+      "name": "Floral Artist",
+      "description": "You bought at least 20 flowers and you need them all."
+    },
+    {
+      "apiname": "ACH_MASTER_BARISTA",
+      "achieved": 1,
+      "unlocktime": 1782026333,
+      "name": "Master Barista",
+      "description": "Coffee is your life."
+    },
+    {
+      "apiname": "ACH_SUPER_MASTER_BARISTA",
+      "achieved": 1,
+      "unlocktime": 1782029330,
+      "name": "Super Master Barista",
+      "description": "Coffee and tea run through your veins. They become art in your hands."
+    },
+    {
+      "apiname": "ACH_SPEEDY_SERVICE",
+      "achieved": 1,
+      "unlocktime": 1782026333,
+      "name": "Speedy Service",
+      "description": "No time to waste. Coffee and tea must be on the table before the customer."
+    },
+    {
+      "apiname": "ACH_DISHWASHING_DYNAMO",
+      "achieved": 1,
+      "unlocktime": 1782029330,
+      "name": "Dishwashing Dynamo",
+      "description": "Who left that dirty cup here?"
+    },
+    {
+      "apiname": "ACH_BUBBLE_TEA_BOSS",
+      "achieved": 1,
+      "unlocktime": 1782032004,
+      "name": "Bubble Tea Boss",
+      "description": "Everyone loves Bubble Tea. Don't you agree? Here's one."
+    },
+    {
+      "apiname": "ACH_INITIATION_INTO_SERVICE",
+      "achieved": 1,
+      "unlocktime": 1772625455,
+      "name": "Initiation into Service",
+      "description": "Welcome! You have a wonderful journey ahead of you."
+    },
+    {
+      "apiname": "ACH_FIRST_EXTREME_TRIUMPH",
+      "achieved": 1,
+      "unlocktime": 1772627063,
+      "name": "First Extreme Triumph",
+      "description": "Nothing can beat you. You're ready for any extreme conditions."
+    },
+    {
+      "apiname": "ACH_CUSTOMER_DIVERSITY",
+      "achieved": 1,
+      "unlocktime": 1782026333,
+      "name": "Customer Diversity Champion",
+      "description": "Anyone can admire your art."
+    },
+    {
+      "apiname": "ACH_FAIL_FINISH_LINE",
+      "achieved": 1,
+      "unlocktime": 1782064549,
+      "name": "Heartbreak at the Finish Line",
+      "description": "So close and yet so far away. But don't give up!"
+    },
+    {
+      "apiname": "ACH_COFFEE_GRINDER_GURU",
+      "achieved": 1,
+      "unlocktime": 1782026333,
+      "name": "Coffee Grinder Guru",
+      "description": "Well-ground coffee is essential."
+    },
+    {
+      "apiname": "ACH_LONG_QUEUE",
+      "achieved": 1,
+      "unlocktime": 1782048350,
+      "name": "Still Standstill",
+      "description": "What? Is there a line here?"
+    },
+    {
+      "apiname": "ACH_CARAVAN_COLLECTOR",
+      "achieved": 1,
+      "unlocktime": 1782029330,
+      "name": "Caravan Collector",
+      "description": "Some people like fast cars and others like caravans."
+    },
+    {
+      "apiname": "ACH_COFFEE_MAESTRO",
+      "achieved": 1,
+      "unlocktime": 1782031268,
+      "name": "Coffee Maestro",
+      "description": "Do you really know all the coffee recipes? Show me!"
+    },
+    {
+      "apiname": "ACH_TOTAL_TASTE_TOUR",
+      "achieved": 1,
+      "unlocktime": 1782065946,
+      "name": "Total Taste Tour",
+      "description": "I don't know how you managed to fit the equipment for all the recipes into one caravan, but you did. My compliments."
+    },
+    {
+      "apiname": "ACH_UPGRADE_ENTHUSIAST",
+      "achieved": 1,
+      "unlocktime": 1782029330,
+      "name": "Upgrade Enthusiast",
+      "description": "It's obvious that you're a fan of quality equipment. Not everyone has 10 pieces of upgraded equipment."
+    },
+    {
+      "apiname": "ACH_TREASURE_HUNTER",
+      "achieved": 1,
+      "unlocktime": 1782029330,
+      "name": "Treasure Hunter",
+      "description": "Why work when you can get stuff for free?"
+    },
+    {
+      "apiname": "ACH_TUTORIAL_ICE_CREAM_ALL",
+      "achieved": 1,
+      "unlocktime": 1782045782,
+      "name": "Diligent Student of Ice Cream",
+      "description": "Ice cream making: where patience is a virtue and every scoop is a masterpiece waiting to be devoured!"
+    },
+    {
+      "apiname": "ACH_ICE_CREAM_SCOOP_CHAMPION",
+      "achieved": 1,
+      "unlocktime": 1782032903,
+      "name": "Scoop Champion",
+      "description": "Make a total of 100 ice cream scoops, proving your prowess as the ultimate ice cream maker!"
+    },
+    {
+      "apiname": "ACH_FROZEN_FASHIONISTA",
+      "achieved": 1,
+      "unlocktime": 1782064549,
+      "name": "Frozen Fashionista",
+      "description": "They say your caravan can be spotted from miles away, thanks to its five towering ice cream cones—a true landmark for frozen fans!"
+    }
+  ]
+}

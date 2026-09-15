@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 290790,
+  "game": "Grey Goo",
+  "total": 35,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:11.408790+00:00",
+  "achievements": [
+    {
+      "apiname": "WIN_SKIRMISH_AGAINST_AI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": "Win a skirmish match against an AI"
+    },
+    {
+      "apiname": "WIN_SKIRMSH_AGAINST_AI_WITH_EACH_FACTION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hat Trick",
+      "description": "Win a skirmish match against the AI with each of the factions"
+    },
+    {
+      "apiname": "WIN_SKIRMSH_AGAINST_3_AI_ON_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glutton for Punishment",
+      "description": "Win a skirmsh match against 3 AI opponents on hard difficulty"
+    },
+    {
+      "apiname": "WIN_ONE_ON_ONE_MULTIPLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Ground",
+      "description": "Win a one-on-one multiplayer match"
+    },
+    {
+      "apiname": "WIN_100_SKIRMISH_MATCHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Could Do This All Day",
+      "description": "Win 100 skirmish matches"
+    },
+    {
+      "apiname": "WIN_TWO_V_TWO_MULTIPLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tag Team",
+      "description": "Win a 2v2 multiplayer match"
+    },
+    {
+      "apiname": "WIN_FOUR_PLAYER_FFA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Player to Rule Them All",
+      "description": "Win a four player free-for-all match"
+    },
+    {
+      "apiname": "WIN_100_MULTIPLAYER_MATCHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Time Job",
+      "description": "Win 100 multiplayer matches of any size or mode"
+    },
+    {
+      "apiname": "COMPLETE_BETA_CAMPAIGN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Running",
+      "description": "Complete the Beta campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_HUMAN_CAMPAIGN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Point of First Contact",
+      "description": "Complete the Human campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_GOO_CAMPAIGN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call for Help",
+      "description": "Complete the Goo campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_ALL_MISSIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End of the Beginning",
+      "description": "Complete all missions of the campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_ALL_MISSIONS_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GG",
+      "description": "Complete all missions of the campaign on Hard difficulty"
+    },
+    {
+      "apiname": "WIN_MULTIPLAYER_AND_KILL_EPIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Game Ender",
+      "description": "Win a multiplayer match after destroying an enemy Epic unit"
+    },
+    {
+      "apiname": "DESTROY_EACH_FACTION_EPIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epic Loss",
+      "description": "Destroy each faction's Epic unit during a multiplayer or skirmish match"
+    },
+    {
+      "apiname": "BUILD_EPIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Start of Something Epic",
+      "description": "Build an Epic unit"
+    },
+    {
+      "apiname": "BUILD_EACH_FACTION_EPIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epic Escalation",
+      "description": "Build the Epic unit for each faction"
+    },
+    {
+      "apiname": "TOTAL_ANNIHILATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon of Mass Destruction",
+      "description": "Win a skirmish or multiplayer match in Total Annihilation mode"
+    },
+    {
+      "apiname": "BUILD_MAX_UNITS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxed Out!",
+      "description": "During a multiplayer match, build the maximum possible number of units"
+    },
+    {
+      "apiname": "NO_RESOURCE_CAP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Macro Master",
+      "description": "As Human or Beta, complete a multiplayer or skirmish match without ever hitting the resource cap"
+    },
+    {
+      "apiname": "COMPLETE_BETA_BONUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barca's Finest",
+      "description": "Win all missions and complete all bonus objectives in the Beta campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_HUMAN_BONUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Galactic Explorer",
+      "description": "Win all missions and complete all bonus objectives in the Human campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_GOO_BONUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Evolutionary Pinnacle",
+      "description": "Win all missions and complete all bonus objectives in the Goo campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_ALL_BONUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncompromised Conquest",
+      "description": "Win all missions and complete all bonus objectives in the campaign on any difficulty"
+    },
+    {
+      "apiname": "COMPLETE_ALL_BONUS_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist",
+      "description": "Win all missions and complete all bonus objectives in the campaign on hard difficulty"
+    },
+    {
+      "apiname": "FORT_AWESOME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fort Awesome",
+      "description": "Have at least 3 of every Sentinel type in your base at once during a single ranked multiplayer match"
+    },
+    {
+      "apiname": "SELF_SACRIFICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self Sacrifice",
+      "description": "Feed a Mother Goo to a Proto-Purger (in any aspect of the game)"
+    },
+    {
+      "apiname": "BACK_FROM_THE_DEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back from the Dead",
+      "description": "Rebuild your HQ  (in any aspect of the game)"
+    },
+    {
+      "apiname": "KICKIN'_IT_OLD_SCHOOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kickin' It Old School",
+      "description": "Win a LAN match (against an actual person or persons)"
+    },
+    {
+      "apiname": "WORLD_WAR_G",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World War G",
+      "description": "Consume 100 enemy units or structures with formless Goo in a ranked multiplayer match"
+    },
+    {
+      "apiname": "SHARING_IS_CARING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharing is Caring",
+      "description": "Destroy 5 Extractors or Mother Goos with a Mother Goo in a single ranked multiplayer match"
+    },
+    {
+      "apiname": "SEASONED_ENGINEER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seasoned Engineer",
+      "description": "Heal 1000 or more damage using the Repair Pad structure during a single ranked multiplayer match"
+    },
+    {
+      "apiname": "AINT_NOBODY_GOT_TIME_FOR_THAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ain't Nobody Got Time for That",
+      "description": "Have at least 20 units mounted on wall pillars at the same time during a single ranked multiplayer match"
+    },
+    {
+      "apiname": "MASTER_OF_TELEPORTATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Teleportation",
+      "description": "Use the Teleporter structure at least 3 times and teleport at least 5 structures during a single ranked multiplayer match"
+    },
+    {
+      "apiname": "CIVIL_SERVANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Civil Servant",
+      "description": "Complete the Mago's Pass mission without losing a single civilian"
+    }
+  ]
+}

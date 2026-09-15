@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 982290,
+  "game": "Airborne Kingdom",
+  "total": 30,
+  "unlocked": 6,
+  "percent": 20.0,
+  "updated_at_utc": "2026-09-15T06:51:07.541132+00:00",
+  "achievements": [
+    {
+      "apiname": "AK_GROVE_REPLANTED",
+      "achieved": 1,
+      "unlocktime": 1647156604,
+      "name": "A Grove Replanted",
+      "description": ""
+    },
+    {
+      "apiname": "AK_FIELDS_WATERED",
+      "achieved": 1,
+      "unlocktime": 1647159016,
+      "name": "Fields Watered",
+      "description": ""
+    },
+    {
+      "apiname": "AK_SEEKERS_FOUND",
+      "achieved": 1,
+      "unlocktime": 1647161562,
+      "name": "Seekers Found",
+      "description": ""
+    },
+    {
+      "apiname": "AK_WIND_POWERED",
+      "achieved": 1,
+      "unlocktime": 1647159951,
+      "name": "Wind Powered",
+      "description": ""
+    },
+    {
+      "apiname": "AK_TRAVELERS_RETURNED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Travelers Returned",
+      "description": ""
+    },
+    {
+      "apiname": "AK_ISLANDS_RECONNECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Islands Connected",
+      "description": ""
+    },
+    {
+      "apiname": "AK_PYRE_IGNITED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyre Ignited",
+      "description": ""
+    },
+    {
+      "apiname": "AK_HARP_TUNED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harp Tuned",
+      "description": ""
+    },
+    {
+      "apiname": "AK_DAYLIGHT_FOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daylight Found",
+      "description": ""
+    },
+    {
+      "apiname": "AK_KNOWLEDGE_SHARED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge Shared",
+      "description": ""
+    },
+    {
+      "apiname": "AK_IRONS_SCORCHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Irons Scorched",
+      "description": ""
+    },
+    {
+      "apiname": "AK_HOPES_HOISTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hopes Hoisted",
+      "description": ""
+    },
+    {
+      "apiname": "AK_SMALL_COMMUNITY",
+      "achieved": 1,
+      "unlocktime": 1647156604,
+      "name": "A Small Community",
+      "description": "Reach the status of Airborne Community"
+    },
+    {
+      "apiname": "AK_SETTLING_SKIES",
+      "achieved": 1,
+      "unlocktime": 1647160053,
+      "name": "Settling the Skies",
+      "description": "Reach the status of Airborne Settlement"
+    },
+    {
+      "apiname": "AK_TAKES_VILLAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Takes a Village",
+      "description": "Reach the status of Airborne Village"
+    },
+    {
+      "apiname": "AK_ON_TOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Town",
+      "description": "Reach the status of Airborne Town"
+    },
+    {
+      "apiname": "AK_WORTHY_TITLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worthy of the Title",
+      "description": "Reach the status of Airborne Kingdom"
+    },
+    {
+      "apiname": "AK_RELIC_FINDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Relic Finder",
+      "description": "Purchase every Blueprint"
+    },
+    {
+      "apiname": "AK_KNOWLEDGE_SEEKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knowledge Seeker",
+      "description": "Complete all Research"
+    },
+    {
+      "apiname": "AK_LEARNED_SCHOLAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Learned Scholar",
+      "description": "Construct the Great Library"
+    },
+    {
+      "apiname": "AK_WANDERERS_GUIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Wanderer’s Guide",
+      "description": "Construct the Nomad’s Orrery"
+    },
+    {
+      "apiname": "AK_PEACEFUL_RESPITE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Peaceful Respite",
+      "description": "Construct the Tranquil Gardens"
+    },
+    {
+      "apiname": "AK_GLOWING_WATERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glowing Waters",
+      "description": "Find all the dyes"
+    },
+    {
+      "apiname": "AK_SPARKLING_ALLOYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparkling Alloys",
+      "description": "Find all the metals"
+    },
+    {
+      "apiname": "AK_PROPHECY_FULFILLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prophecy Fulfilled",
+      "description": "Return the Tapestry"
+    },
+    {
+      "apiname": "AK_TRUE_CHALLENGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A True Challenge",
+      "description": "Return the Tapestry on Hard Difficulty"
+    },
+    {
+      "apiname": "AK_CYCLE_CONTINUES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cycle Continues",
+      "description": "Return the Tapestry on New Game+"
+    },
+    {
+      "apiname": "AK_RESCUE_EXPLORERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior in the Frost",
+      "description": "Rescue all the Explorers in The Lost Tundra"
+    },
+    {
+      "apiname": "AK_BUILD_ALL_STATUES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Sculptor",
+      "description": "Build all the Statue Wonders"
+    },
+    {
+      "apiname": "AK_RESCUE_EXPLORERS_HM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardened Savior",
+      "description": "Rescue the Tundra Explorers in Hard Mode with Default Town Center"
+    }
+  ]
+}

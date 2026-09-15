@@ -1,0 +1,585 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 668580,
+  "game": "Atomic Heart",
+  "total": 82,
+  "unlocked": 20,
+  "percent": 24.4,
+  "updated_at_utc": "2026-09-15T06:50:26.261870+00:00",
+  "achievements": [
+    {
+      "apiname": "progress100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Motherland Does Not Forget its Heroes",
+      "description": "Unlock all achievements"
+    },
+    {
+      "apiname": "killEzhihaWithoutDamage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strike",
+      "description": "Kill Hedgie without making a single shot / destroy all statues"
+    },
+    {
+      "apiname": "killBelyash",
+      "achieved": 1,
+      "unlocktime": 1677680827,
+      "name": "Medium Rare",
+      "description": "Kill Belyash"
+    },
+    {
+      "apiname": "killEziha",
+      "achieved": 1,
+      "unlocktime": 1677640861,
+      "name": "Make It Go Round",
+      "description": "Kill Hedgie"
+    },
+    {
+      "apiname": "killIvy",
+      "achieved": 1,
+      "unlocktime": 1677675957,
+      "name": "Plyusch Rush",
+      "description": "Kill Plyusch"
+    },
+    {
+      "apiname": "killNatasha",
+      "achieved": 1,
+      "unlocktime": 1677683944,
+      "name": "Show's Over",
+      "description": "Kill Natasha"
+    },
+    {
+      "apiname": "killDew",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dew Point",
+      "description": "Kill Dewdrop"
+    },
+    {
+      "apiname": "killTwins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Murderous Beauty",
+      "description": "Kill Twins"
+    },
+    {
+      "apiname": "killBelyashWithoutShoot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chop Chop Chop",
+      "description": "Kill Belyash with a melee weapon"
+    },
+    {
+      "apiname": "playthroughChelomey",
+      "achieved": 1,
+      "unlocktime": 1677308890,
+      "name": "Happy Polymerization Day!",
+      "description": "Fly out of Chelomey"
+    },
+    {
+      "apiname": "playthroughVavilov",
+      "achieved": 1,
+      "unlocktime": 1677377223,
+      "name": "Pistils and Stamens",
+      "description": "Get out of Vavilov"
+    },
+    {
+      "apiname": "playthroughLesnaya",
+      "achieved": 1,
+      "unlocktime": 1677591994,
+      "name": "Tickets, Please!",
+      "description": "Take a train at the Lesnaya Maglev train station"
+    },
+    {
+      "apiname": "playthroughVDNH",
+      "achieved": 1,
+      "unlocktime": 1677679378,
+      "name": "Quite an Achievement",
+      "description": "Clear the VDNH complex"
+    },
+    {
+      "apiname": "playthroughTheater",
+      "achieved": 1,
+      "unlocktime": 1677684074,
+      "name": "Curtain",
+      "description": "Finish a theater performance"
+    },
+    {
+      "apiname": "playthroughHospital",
+      "achieved": 1,
+      "unlocktime": 1677762704,
+      "name": "Medical Checkup",
+      "description": "Get to a hospital"
+    },
+    {
+      "apiname": "playthroughPavlov",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom Reflex",
+      "description": "Explore Pavlov"
+    },
+    {
+      "apiname": "playthroughAcademy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kommunism 2.0",
+      "description": "Find out the AoC's secret"
+    },
+    {
+      "apiname": "playthroughAllGameHardcore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Atomic Heart",
+      "description": "Complete the game on Armageddon"
+    },
+    {
+      "apiname": "craftFirstWeapon",
+      "achieved": 1,
+      "unlocktime": 1677377223,
+      "name": "Artisan",
+      "description": "Create a weapon in a crafting machine"
+    },
+    {
+      "apiname": "craftFiveUniqueWeapons",
+      "achieved": 1,
+      "unlocktime": 1765630459,
+      "name": "Weapon Master",
+      "description": "Create five types of weapons"
+    },
+    {
+      "apiname": "collectAllWeapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of War",
+      "description": "Collect all weapons"
+    },
+    {
+      "apiname": "craftAllConsumable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chemist",
+      "description": "Craft consumables of all types"
+    },
+    {
+      "apiname": "collectAllJelly",
+      "achieved": 1,
+      "unlocktime": 1677377223,
+      "name": "Polymerization",
+      "description": "Collect 100 jelly"
+    },
+    {
+      "apiname": "collectAllApples",
+      "achieved": 1,
+      "unlocktime": 1765775347,
+      "name": "Apple Pie",
+      "description": "Pick all apples in Limbo"
+    },
+    {
+      "apiname": "craftUpgradeWeapons",
+      "achieved": 1,
+      "unlocktime": 1765691962,
+      "name": "The Great Inventor",
+      "description": "Upgrade a weapon to the maximum level"
+    },
+    {
+      "apiname": "craftUpgradeSkillCategory",
+      "achieved": 1,
+      "unlocktime": 1677762489,
+      "name": "Lefthand Mastery",
+      "description": "Fully upgrade one skill tree"
+    },
+    {
+      "apiname": "researchHelloPhone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Can I Help You?",
+      "description": "Use a phone booth at Chelomey"
+    },
+    {
+      "apiname": "researchAnimalDialogue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Friend",
+      "description": "Find all talking dead animals"
+    },
+    {
+      "apiname": "researchCorpseDialogue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Necromancer",
+      "description": "Talk to every dead"
+    },
+    {
+      "apiname": "researchCollectAllAudioDiary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Ears",
+      "description": "Find all Chirpers"
+    },
+    {
+      "apiname": "researchLootboy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Than Profit",
+      "description": "Find all Lootyagins"
+    },
+    {
+      "apiname": "researchFindAllTestSites",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Find a testing ground"
+    },
+    {
+      "apiname": "researchCompleteAllTestSites",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean-up",
+      "description": "Complete all testing grounds"
+    },
+    {
+      "apiname": "researchAnalyzAllMobs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scanner",
+      "description": "Scan all mobs"
+    },
+    {
+      "apiname": "battleAvatar",
+      "achieved": 1,
+      "unlocktime": 1765631901,
+      "name": "Avatar",
+      "description": "Kill 10 burning enemies, 10 electrified enemies, and 10 frozen enemies"
+    },
+    {
+      "apiname": "battleDaredevil",
+      "achieved": 1,
+      "unlocktime": 1677640545,
+      "name": "Hothead",
+      "description": "Get 25 kills with headshots using the PM"
+    },
+    {
+      "apiname": "battleBelowZero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Below Zero",
+      "description": "Freeze a Vova mid-air"
+    },
+    {
+      "apiname": "battleAssimilationIsIncomplete",
+      "achieved": 1,
+      "unlocktime": 1677377223,
+      "name": "Assimilation Procedure Interrupted",
+      "description": "Don't let a sprout grow into a mutant"
+    },
+    {
+      "apiname": "battleBullsEye",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bull's Eye!",
+      "description": "Use Telekinesis to throw an object and knock down an Owl"
+    },
+    {
+      "apiname": "battleFightAgainstDrunkenness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alcoholics Anonymous",
+      "description": "Get drunk with vodka and kill 5 enemies"
+    },
+    {
+      "apiname": "battleTriplePenetration",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Penetration",
+      "description": "Kill 3 or more enemies with a single Railgun shot"
+    },
+    {
+      "apiname": "battleKillByCar",
+      "achieved": 1,
+      "unlocktime": 1765695307,
+      "name": "Hands on the Hood",
+      "description": "Hit 20 enemies by a car"
+    },
+    {
+      "apiname": "playthroughWeirdScience",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weird Science",
+      "description": "Get into the ORB lab"
+    },
+    {
+      "apiname": "playthroughLordOfTheFlies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of the Flies",
+      "description": "Use a Strekoza for the first time"
+    },
+    {
+      "apiname": "playthroughGirsBestFriend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Girl's Best Friend",
+      "description": "Send all BEA-Ds to NORA's brain"
+    },
+    {
+      "apiname": "playthroughReturnToUtopia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return to Utopia",
+      "description": "Complete the Annihilation Instinct DLC"
+    },
+    {
+      "apiname": "battleDivideEtImpera",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divide et Impera",
+      "description": "Separate several combined BEA-Ds with one shot from the Secateur"
+    },
+    {
+      "apiname": "battleBoxInBottle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time in a Bottle",
+      "description": "Kill 3 enemies while using technostasis"
+    },
+    {
+      "apiname": "battleJohnSilversCrew",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "John Silver's Crew",
+      "description": "Kill 3 M4D-5 robots in a row while they're hopping on one foot"
+    },
+    {
+      "apiname": "battleRedOctober",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Storm",
+      "description": "Destroy 15 enemies using the neuropolymeric launch module"
+    },
+    {
+      "apiname": "craftMaximumStrength",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maximum Strength",
+      "description": "Upgrade the Klusha and Secateur to max"
+    },
+    {
+      "apiname": "appleSurfer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apple Pie 3826",
+      "description": "Collect 3,826 apples in the Trapped in Limbo DLC"
+    },
+    {
+      "apiname": "defenderOfNature",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conservationist",
+      "description": "Get a gold coin without shooting the Pchela"
+    },
+    {
+      "apiname": "iLoveThisCasino",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Casino Isn't Always in the Black",
+      "description": "Get ALL items from the slot machine"
+    },
+    {
+      "apiname": "cuttingThroughTheWavesOfLimbo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slashing Through the Limbo Waves",
+      "description": "Complete the Plateau of Responsibility without dying"
+    },
+    {
+      "apiname": "conquerorOfAnnapurna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Annapurna",
+      "description": "Complete the Tower of Memory without dying"
+    },
+    {
+      "apiname": "conquerorOfChomolungma",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Chomolungma",
+      "description": "Complete the Cliff of Perseverance without dying"
+    },
+    {
+      "apiname": "limboSurfer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daring as a Bullet is Sharp",
+      "description": "Complete the Avenue of Speed without dying"
+    },
+    {
+      "apiname": "easyWalk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Mess With the Major",
+      "description": "Complete the Trapped in Limbo DLC without dying"
+    },
+    {
+      "apiname": "goldenFever",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Rush",
+      "description": "Collect 76 gold coins"
+    },
+    {
+      "apiname": "overKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overkill",
+      "description": ""
+    },
+    {
+      "apiname": "MobiDik",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moby Dick",
+      "description": "While standing by the window, listen to a chirper narrating the story of the mysterious tune"
+    },
+    {
+      "apiname": "SurvivalMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Survival",
+      "description": "Find all the Hunter's stashes"
+    },
+    {
+      "apiname": "DemonstrationOfViolence",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonstration of Violence",
+      "description": "Destroy the Robogirl at Chelomey"
+    },
+    {
+      "apiname": "EndOfDLC3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And now—CHAR-les",
+      "description": "Complete the story DLC"
+    },
+    {
+      "apiname": "WaterSports",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Water Sports",
+      "description": "Toss the ball back and forth with the dolphin three times"
+    },
+    {
+      "apiname": "YouReadTheInstructions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You've Read the Manual!",
+      "description": "Pull yourself close to your enemy with the Whip"
+    },
+    {
+      "apiname": "FirstTalkDLC3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm here if you need to talk",
+      "description": "Talk to Terentiy"
+    },
+    {
+      "apiname": "Beyond",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hic Sunt Dracones",
+      "description": "Swim beyond the underwater world's borders, ignoring warnings"
+    },
+    {
+      "apiname": "MurenaDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marco... Polo!",
+      "description": "Fall in the water at Wave and get killed by Morays"
+    },
+    {
+      "apiname": "LastJump",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Burn-down",
+      "description": "Destroy all of the infected plants on the submarine"
+    },
+    {
+      "apiname": "EnotDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's Shake on It!",
+      "description": "Exterminate the RACCOON boss"
+    },
+    {
+      "apiname": "ValidolsTasks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Validol's Our Bro",
+      "description": "Complete Validol's mission peacefully"
+    },
+    {
+      "apiname": "EasterEggFromFluffy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fluffy Easter Egg",
+      "description": "Find the secret room with the fluffball"
+    },
+    {
+      "apiname": "RaccoonFigurine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Better Late Than Never",
+      "description": "Find the dolphin figurine in the secret room"
+    },
+    {
+      "apiname": "SecretMeet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Meeting",
+      "description": "Open the secret room with observers"
+    },
+    {
+      "apiname": "DeathTerminator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terminator's Death",
+      "description": "Use an industrial press to destroy robots"
+    },
+    {
+      "apiname": "LastTwinsDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean in Two",
+      "description": "Defeat the Second Twin"
+    },
+    {
+      "apiname": "SaveSechinov",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Chief's a Jolly Good Fellow",
+      "description": "Save Sechenov"
+    },
+    {
+      "apiname": "GoodbyeOldFriend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farewell, Old Friend",
+      "description": "Beat CHAR-les"
+    },
+    {
+      "apiname": "DLC4End",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is the End",
+      "description": "Complete the story DLC"
+    },
+    {
+      "apiname": "CrystalPlatinum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Platinum",
+      "description": "Collect all of the figurines hidden in the complex"
+    }
+  ]
+}

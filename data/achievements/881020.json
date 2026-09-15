@@ -1,0 +1,683 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 881020,
+  "game": "Granblue Fantasy: Relink",
+  "total": 96,
+  "unlocked": 34,
+  "percent": 35.4,
+  "updated_at_utc": "2026-09-15T06:51:04.664345+00:00",
+  "achievements": [
+    {
+      "apiname": "0000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Platinum Sky",
+      "description": "Earn all achievements"
+    },
+    {
+      "apiname": "0001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wings of Destruction",
+      "description": ""
+    },
+    {
+      "apiname": "0002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ultimate",
+      "description": ""
+    },
+    {
+      "apiname": "0003",
+      "achieved": 1,
+      "unlocktime": 1707801516,
+      "name": "Id",
+      "description": ""
+    },
+    {
+      "apiname": "0004",
+      "achieved": 1,
+      "unlocktime": 1707893954,
+      "name": "Skybound Heart",
+      "description": ""
+    },
+    {
+      "apiname": "0005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nothing Is Impossible!",
+      "description": "Complete all side quests (excluding add-on content)"
+    },
+    {
+      "apiname": "0006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squad's All Here",
+      "description": "Unlock all characters (excluding add-on content)"
+    },
+    {
+      "apiname": "0007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fate Can't Wait",
+      "description": "Complete all characters' fate episodes, including their epilogues (excluding add-on content)"
+    },
+    {
+      "apiname": "0008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reminiscence",
+      "description": "Fill in every Field Notes entry in Lyria's Journal (excluding add-on content)"
+    },
+    {
+      "apiname": "0009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Potential",
+      "description": "Unlock the power of an Ascension weapon for the first time"
+    },
+    {
+      "apiname": "0010",
+      "achieved": 1,
+      "unlocktime": 1706936313,
+      "name": "The Forgotten Sky",
+      "description": ""
+    },
+    {
+      "apiname": "0011",
+      "achieved": 1,
+      "unlocktime": 1706938841,
+      "name": "The Western Frontier",
+      "description": ""
+    },
+    {
+      "apiname": "0012",
+      "achieved": 1,
+      "unlocktime": 1706944106,
+      "name": "Tempest on the Horizon",
+      "description": ""
+    },
+    {
+      "apiname": "0013",
+      "achieved": 1,
+      "unlocktime": 1706945568,
+      "name": "Creation of the Stars",
+      "description": ""
+    },
+    {
+      "apiname": "0014",
+      "achieved": 1,
+      "unlocktime": 1706948724,
+      "name": "Skies Forever Blue",
+      "description": ""
+    },
+    {
+      "apiname": "0015",
+      "achieved": 1,
+      "unlocktime": 1707361298,
+      "name": "Shadows in the Snowscape",
+      "description": ""
+    },
+    {
+      "apiname": "0016",
+      "achieved": 1,
+      "unlocktime": 1707370871,
+      "name": "In Search of Hope",
+      "description": ""
+    },
+    {
+      "apiname": "0017",
+      "achieved": 1,
+      "unlocktime": 1707370871,
+      "name": "Warning Signs",
+      "description": ""
+    },
+    {
+      "apiname": "0018",
+      "achieved": 1,
+      "unlocktime": 1707445689,
+      "name": "Relink",
+      "description": ""
+    },
+    {
+      "apiname": "0019",
+      "achieved": 1,
+      "unlocktime": 1707799422,
+      "name": "Opposing Wills",
+      "description": ""
+    },
+    {
+      "apiname": "0020",
+      "achieved": 1,
+      "unlocktime": 1706949927,
+      "name": "Leave It to Me",
+      "description": "Achieve an S++ quest evaluation for the first time"
+    },
+    {
+      "apiname": "0021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's All About Communication",
+      "description": "Use an emote"
+    },
+    {
+      "apiname": "0022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Primal Beast Punisher",
+      "description": "Defeat primal beasts 100 times"
+    },
+    {
+      "apiname": "0023",
+      "achieved": 1,
+      "unlocktime": 1706946730,
+      "name": "I Try to Help",
+      "description": "Complete a side quest for the first time"
+    },
+    {
+      "apiname": "0024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharpshooter",
+      "description": ""
+    },
+    {
+      "apiname": "0025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cannon Crusher",
+      "description": ""
+    },
+    {
+      "apiname": "0026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Child of Darkness and Flames",
+      "description": ""
+    },
+    {
+      "apiname": "0027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Primeval Dragon",
+      "description": ""
+    },
+    {
+      "apiname": "0028",
+      "achieved": 1,
+      "unlocktime": 1706943261,
+      "name": "About to Full Burst",
+      "description": "Trigger a full burst in battle (excluding certain battles)"
+    },
+    {
+      "apiname": "0029",
+      "achieved": 1,
+      "unlocktime": 1707838814,
+      "name": "Don't Think It Goes Higher Than That",
+      "description": "Deal more than 999,999 damage with a chain burst in battle"
+    },
+    {
+      "apiname": "0030",
+      "achieved": 1,
+      "unlocktime": 1706943200,
+      "name": "In Perfect Sync",
+      "description": "Enter link time in battle (excluding Training)"
+    },
+    {
+      "apiname": "0031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chain Burst Champion",
+      "description": "Activate chain bursts 100 times in battles (excluding certain battles)"
+    },
+    {
+      "apiname": "0032",
+      "achieved": 1,
+      "unlocktime": 1707361205,
+      "name": "No Holding Back",
+      "description": "Unleash Skybound Arts 10 times in battles (excluding certain battles)"
+    },
+    {
+      "apiname": "0033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Medic",
+      "description": "Revive allies 5 times"
+    },
+    {
+      "apiname": "0034",
+      "achieved": 1,
+      "unlocktime": 1706944460,
+      "name": "It's Called Skill",
+      "description": "Use skills 50 times in battles"
+    },
+    {
+      "apiname": "0035",
+      "achieved": 1,
+      "unlocktime": 1706947804,
+      "name": "Buff Buffet",
+      "description": "Use buffing skills to grant status effects to allies 20 times in battles"
+    },
+    {
+      "apiname": "0036",
+      "achieved": 1,
+      "unlocktime": 1706944032,
+      "name": "Debuff Deluge",
+      "description": "Use debuffing skills to inflict status ailments on foes 20 times in battle"
+    },
+    {
+      "apiname": "0037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Will Survive",
+      "description": "Use 50 potions"
+    },
+    {
+      "apiname": "0038",
+      "achieved": 1,
+      "unlocktime": 1706948536,
+      "name": "Give Me Something to Break",
+      "description": "Put foes into Break 5 times in battles (excluding certain battles)"
+    },
+    {
+      "apiname": "0039",
+      "achieved": 1,
+      "unlocktime": 1706950599,
+      "name": "A Fateful Encounter",
+      "description": "Complete a fate episode prologue for the first time"
+    },
+    {
+      "apiname": "0040",
+      "achieved": 1,
+      "unlocktime": 1707815323,
+      "name": "A Fateful Farewell",
+      "description": "Complete a fate episode epilogue"
+    },
+    {
+      "apiname": "0041",
+      "achieved": 1,
+      "unlocktime": 1707888965,
+      "name": "Push It to the Limit",
+      "description": "Raise a character to level 100"
+    },
+    {
+      "apiname": "0042",
+      "achieved": 1,
+      "unlocktime": 1707444124,
+      "name": "I Like It When Numbers Go Up",
+      "description": "Acquire a total of 100,000 rupies"
+    },
+    {
+      "apiname": "0043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crabs Are Neat",
+      "description": "Find 20 wee pincers"
+    },
+    {
+      "apiname": "0044",
+      "achieved": 1,
+      "unlocktime": 1707447117,
+      "name": "Closer to the Truth",
+      "description": "Find 30 archive entries"
+    },
+    {
+      "apiname": "0045",
+      "achieved": 1,
+      "unlocktime": 1707372041,
+      "name": "Treasure Hunter",
+      "description": "Open 50 treasure chests (excluding town chests)"
+    },
+    {
+      "apiname": "0046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unlocked and Unloaded",
+      "description": "Open all locked treasure chests"
+    },
+    {
+      "apiname": "0047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Practice Makes Perfect",
+      "description": "Get some practice in with Sir Barrold"
+    },
+    {
+      "apiname": "0048",
+      "achieved": 1,
+      "unlocktime": 1706947127,
+      "name": "No Cap",
+      "description": "Uncap a weapon at the blacksmith"
+    },
+    {
+      "apiname": "0049",
+      "achieved": 1,
+      "unlocktime": 1707888321,
+      "name": "Knickknack Shack Regular",
+      "description": "Use Siero's Treasure Trade to complete 10 trades"
+    },
+    {
+      "apiname": "0050",
+      "achieved": 1,
+      "unlocktime": 1706937939,
+      "name": "On the Road to Mastery",
+      "description": "Unlock a character action node from Masteries for the first time"
+    },
+    {
+      "apiname": "0051",
+      "achieved": 1,
+      "unlocktime": 1707838074,
+      "name": "Making Ends Meet",
+      "description": "Sell 10 sigils"
+    },
+    {
+      "apiname": "0052",
+      "achieved": 1,
+      "unlocktime": 1706947096,
+      "name": "Welcome to the Crew",
+      "description": "Unlock a new character"
+    },
+    {
+      "apiname": "0053",
+      "achieved": 1,
+      "unlocktime": 1707810666,
+      "name": "On the House",
+      "description": "Get an appraisal from Zathba"
+    },
+    {
+      "apiname": "0054",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Endless Ragnarok",
+      "description": ""
+    },
+    {
+      "apiname": "0055",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wings that Subjugated Chaos",
+      "description": ""
+    },
+    {
+      "apiname": "0056",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broke the Laws of Nature",
+      "description": ""
+    },
+    {
+      "apiname": "0057",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wings Beyond the Grand Finale",
+      "description": ""
+    },
+    {
+      "apiname": "0058",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroyer of the Immortal",
+      "description": ""
+    },
+    {
+      "apiname": "0059",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above and Beyond",
+      "description": ""
+    },
+    {
+      "apiname": "0060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Perfect World Realized",
+      "description": ""
+    },
+    {
+      "apiname": "0061",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Eternals Got Nothing On Me",
+      "description": ""
+    },
+    {
+      "apiname": "0062",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extremely Excellent Execution",
+      "description": ""
+    },
+    {
+      "apiname": "0063",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the Edge of Chaos",
+      "description": "Unlock Chaos++ quest difficulty"
+    },
+    {
+      "apiname": "0064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Beat My High Score",
+      "description": "Achieve a Conflux score of 10,000,000 or more"
+    },
+    {
+      "apiname": "0065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll Make This Quick!",
+      "description": "Clear the final Warlord's Way of Conflux Cycle 3, 4, or 5 within 90 seconds"
+    },
+    {
+      "apiname": "0066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memento Mori",
+      "description": "Complete Conflux Cycle 3, 4, or 5 without going into critical condition"
+    },
+    {
+      "apiname": "0067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whoa-Whoa Yeaaah!",
+      "description": ""
+    },
+    {
+      "apiname": "0068",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos Kid",
+      "description": "Complete 50 surveys in the Conflux (excludes retreats)"
+    },
+    {
+      "apiname": "0069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "13 Uncaps",
+      "description": "Fully transcend a weapon"
+    },
+    {
+      "apiname": "0070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Level Overflow",
+      "description": "Raise a character to master level 50"
+    },
+    {
+      "apiname": "0071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Peak",
+      "description": "Break the master level until it can no longer be broken"
+    },
+    {
+      "apiname": "0072",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life Is Shell",
+      "description": ""
+    },
+    {
+      "apiname": "0073",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ragnalia Slayer",
+      "description": "Unlock Chaos+ quest difficulty"
+    },
+    {
+      "apiname": "0074",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to the Club",
+      "description": "Unlock Chaos quest difficulty"
+    },
+    {
+      "apiname": "0075",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entropy Explorer",
+      "description": "Complete Conflux Cycle 4: Illusion"
+    },
+    {
+      "apiname": "0076",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interdimensional Inquisitor",
+      "description": "Complete Conflux Cycle 3: Procession"
+    },
+    {
+      "apiname": "0077",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frequent Confluxer",
+      "description": "Clear any combination of Strife's Way, Warlord's Way, or Dexterity's Way 100 times"
+    },
+    {
+      "apiname": "0078",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ike Ike Danchou!",
+      "description": "Clear any Dexterity's Way for the first time"
+    },
+    {
+      "apiname": "0079",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ganbare Ganbare Danchou!",
+      "description": "Clear 4 types of Dexterity's Way"
+    },
+    {
+      "apiname": "0080",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Thing's Rigged!",
+      "description": "Get 3 consecutive spins on the roulette wheel"
+    },
+    {
+      "apiname": "0081",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go! Go! Pow! Pow!",
+      "description": "Acquire 18 auras during a single Conflux survey"
+    },
+    {
+      "apiname": "0082",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More... More!",
+      "description": "Acquire 4 calamity auras within a single Conflux survey"
+    },
+    {
+      "apiname": "0083",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Points Expert",
+      "description": "Spend a total of 30,000 RP on Resonance nodes"
+    },
+    {
+      "apiname": "0084",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wings of Fate",
+      "description": ""
+    },
+    {
+      "apiname": "0085",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission Is a Go",
+      "description": ""
+    },
+    {
+      "apiname": "0086",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enemies Yesterday, Friends Today",
+      "description": ""
+    },
+    {
+      "apiname": "0087",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strong and Beautiful",
+      "description": ""
+    },
+    {
+      "apiname": "0088",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Black of the Six Dragons",
+      "description": ""
+    },
+    {
+      "apiname": "0089",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overhaul!",
+      "description": "Transcend a weapon for the first time at the Knickknack Shack"
+    },
+    {
+      "apiname": "0090",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Be a Master",
+      "description": "Unlock a character's master level"
+    },
+    {
+      "apiname": "0091",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Evil Eye Approves!",
+      "description": ""
+    },
+    {
+      "apiname": "0092",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get On My Level, Newcomers",
+      "description": ""
+    },
+    {
+      "apiname": "0093",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where the Wee Pincers Are",
+      "description": ""
+    },
+    {
+      "apiname": "0094",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Crabs in Black Do Exist!",
+      "description": ""
+    },
+    {
+      "apiname": "0095",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All-Purpose Ether",
+      "description": "Activate an ether turret for the first time"
+    }
+  ]
+}

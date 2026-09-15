@@ -1,0 +1,655 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2208920,
+  "game": "Assassin's Creed Valhalla",
+  "total": 92,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:52:43.494486+00:00",
+  "achievements": [
+    {
+      "apiname": "ACValhalla_Ach_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Saga Begins",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To England!",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Choices",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Order Is Revealed",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Good Saxon",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take My Hand",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calling in a Favor",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Enemy of My Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Footsteps of the Gods",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "As It Was Foretold",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "England Subdued",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disorder of the Ancients",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rampage",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Alive!",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tranquility",
+      "description": "Complete a Standing Stone puzzle"
+    },
+    {
+      "apiname": "ACValhalla_Ach_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equilibrium",
+      "description": "Complete 3 Cairn challenges"
+    },
+    {
+      "apiname": "ACValhalla_Ach_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old School Treasure Hunt",
+      "description": "Collect 5 Treasure Hoard rewards (Base game only)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skadi's Hobby",
+      "description": "Perform a 150m slide in the snow"
+    },
+    {
+      "apiname": "ACValhalla_Ach_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witch Hunter",
+      "description": "Defeat one Daughter of Lerion"
+    },
+    {
+      "apiname": "ACValhalla_Ach_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equine Attack",
+      "description": "Assassinate an enemy from your horse"
+    },
+    {
+      "apiname": "ACValhalla_Ach_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Viking",
+      "description": "Assassinate 10 enemies in a row without triggering a conflict"
+    },
+    {
+      "apiname": "ACValhalla_Ach_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyday Life",
+      "description": "Complete 10 World Events"
+    },
+    {
+      "apiname": "ACValhalla_Ach_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overdesign II",
+      "description": "While on fire during a fight, kill 3 hard difficulty soldiers without breaking their shields"
+    },
+    {
+      "apiname": "ACValhalla_Ach_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist All the Way!",
+      "description": "Complete all territories"
+    },
+    {
+      "apiname": "ACValhalla_Ach_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Row Rage",
+      "description": "Ram and destroy 5 boats in under 2 minutes with your longship (Base game only)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We're in the End Game Now",
+      "description": "Reach Power 280"
+    },
+    {
+      "apiname": "ACValhalla_Ach_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Picture of Grace",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Builder",
+      "description": "Reach settlement level 3"
+    },
+    {
+      "apiname": "ACValhalla_Ach_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Sweet Home",
+      "description": "Reach settlement level 6"
+    },
+    {
+      "apiname": "ACValhalla_Ach_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pioneer",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Decor",
+      "description": "Place an item on each settlement cosmetic spot (Base game only)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not the Norse You're Looking For",
+      "description": "Successfully pass close to a guard in a distrust area by blending with a group of monks"
+    },
+    {
+      "apiname": "ACValhalla_Ach_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Face My Might!",
+      "description": "Equip 8 abilities"
+    },
+    {
+      "apiname": "ACValhalla_Ach_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Refinement",
+      "description": "Fully upgrade and enhance a piece of gear"
+    },
+    {
+      "apiname": "ACValhalla_Ach_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Eivor",
+      "description": "Get thrown 30 meters away by a destroyer or a housecarl"
+    },
+    {
+      "apiname": "ACValhalla_Ach_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twinkle Twinkle",
+      "description": "Release a firefly in your settlement"
+    },
+    {
+      "apiname": "ACValhalla_Ach_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archaeologist",
+      "description": "Complete all Roman collector challenges"
+    },
+    {
+      "apiname": "ACValhalla_Ach_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Orlog Champion",
+      "description": "Beat all the Orlog players"
+    },
+    {
+      "apiname": "ACValhalla_Ach_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Catch!",
+      "description": "Catch a fish of each type using the fishing line"
+    },
+    {
+      "apiname": "ACValhalla_Ach_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Mastery",
+      "description": "Spend your first Mastery point"
+    },
+    {
+      "apiname": "ACValhalla_Ach_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is There Anybody Out There?",
+      "description": "Light the unlit braziers on Hadrian's Wall"
+    },
+    {
+      "apiname": "ACValhalla_Ach_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slam Master",
+      "description": "Complete all the flytings"
+    },
+    {
+      "apiname": "ACValhalla_Ach_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caladfwlch",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Not a Bug, It's a Feature!",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seahorse",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hidden Truth",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Hunter",
+      "description": "Defeat all Alpha animals (Base game only)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dreamcatcher",
+      "description": "Destroy 10 Curse Symbols (Base game only)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Godly Reward",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worthy",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Irish Legend",
+      "description": "Complete all territories of Ireland (Wrath of the Druids)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ireland's Deliverance",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dawn of the Druids",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a Druid",
+      "description": "Complete a Trial of the Morrigan (Wrath of the Druids)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Roads Lead to Dublin",
+      "description": "Reach the max level of Dublin Renown (Wrath of the Druids)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Legend of St. Patrick",
+      "description": "Kill the only snake in Ireland (Wrath of the Druids)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King’s Maker",
+      "description": "Complete 10 Royal Demands (Wrath of the Druids)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Trouble",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decked Out",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All That Glitters",
+      "description": "Get your first Gold Medal in Mastery Challenge (Part 1)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A True Master",
+      "description": "Earn all Gold Medals available in Mastery Challenge (Part 1)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do What Is Right",
+      "description": "Complete the Siege of Paris campaign (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Know What Is Right",
+      "description": "Complete all territories of Francia (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Nobles Three",
+      "description": "Defeat all three Frankish Nobles (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vive la Résistance",
+      "description": "Reach maximum Infamy in the Rebel Missions (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Future Past",
+      "description": "Enter the Assassin Bureau in Francia (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Bull",
+      "description": "Defeat the Ghost Auroch Boss (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vendange",
+      "description": "Kill an enemy with a scythe while wearing the full Reaper armor set (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pat the Cats",
+      "description": "Pat all the cats in Evreux (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lèse-majesté",
+      "description": "Complete 10 Rebel Missions (The Siege of Paris)."
+    },
+    {
+      "apiname": "ACValhalla_Ach_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spelunker",
+      "description": "Complete one Tomb of the Fallen"
+    },
+    {
+      "apiname": "ACValhalla_Ach_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crypt-ologist",
+      "description": "Complete three Tombs of the Fallen"
+    },
+    {
+      "apiname": "ACValhalla_Ach_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over the Hills…",
+      "description": "Complete all territories of Svartalfheim (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ashes of Svartalfheim",
+      "description": "Complete the Dawn of Ragnarök campaign (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hugr Incarnate",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Storyteller",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's All in the Wrist",
+      "description": "Kill 30 enemies with an Atgeir (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aesir Spelunker",
+      "description": "Discover all Shelters (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Motsognir's Blessing",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "See No Evil",
+      "description": "Teleport-Assassinate two enemies and fly away without being detected (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Fortress",
+      "description": "Reach a Muspelheim Monolith (Dawn of Ragnarök)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Master",
+      "description": "Earn all Gold Medals available in Mastery Challenge"
+    },
+    {
+      "apiname": "ACValhalla_Ach_83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sacrificial Victory",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freedom Fighter",
+      "description": "Reunite the dead within Kaldstad, Døkkerland and Nidheim (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pure of Heart",
+      "description": "Defeat Nidhogg without using an Elk Shrine (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crossing Dókkerland",
+      "description": ""
+    },
+    {
+      "apiname": "ACValhalla_Ach_87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High Kick",
+      "description": "Knock 10 enemies off of ledges using the Kick of Tyr Ability (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal Treatment",
+      "description": "Find Hel's Majordomo (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Favored Customer",
+      "description": "Buy all of Nar's Favors at least once (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Queen's Fall",
+      "description": "Defeat Hel, ruler of Niflheim (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Returning to the Roots",
+      "description": "Return to Odin's Camp for the first time (The Forgotten Saga)"
+    },
+    {
+      "apiname": "ACValhalla_Ach_92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heroes of Ancient Britain",
+      "description": "Complete all Tombs of the Fallen"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 601430,
+  "game": "The Evil Within 2",
+  "total": 51,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:16.614538+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookie",
+      "description": "Completed the game on Casual difficulty or higher."
+    },
+    {
+      "apiname": "ach_002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivor",
+      "description": "Completed the game on Survival difficulty or higher."
+    },
+    {
+      "apiname": "ach_003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Against All Odds",
+      "description": "Completed the game on Nightmare difficulty or higher."
+    },
+    {
+      "apiname": "ach_004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Asked For It... Again",
+      "description": ""
+    },
+    {
+      "apiname": "ach_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Union",
+      "description": ""
+    },
+    {
+      "apiname": "ach_006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taken",
+      "description": ""
+    },
+    {
+      "apiname": "ach_007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Running This Time",
+      "description": ""
+    },
+    {
+      "apiname": "ach_008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Team Psychologist",
+      "description": ""
+    },
+    {
+      "apiname": "ach_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Premature Finale",
+      "description": ""
+    },
+    {
+      "apiname": "ach_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another Ally",
+      "description": ""
+    },
+    {
+      "apiname": "ach_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crossing to the Other Side",
+      "description": ""
+    },
+    {
+      "apiname": "ach_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spiritual Awakening",
+      "description": ""
+    },
+    {
+      "apiname": "ach_013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Walk With Me",
+      "description": ""
+    },
+    {
+      "apiname": "ach_014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overcome the Past",
+      "description": ""
+    },
+    {
+      "apiname": "ach_015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everything Comes Crumbling Down",
+      "description": ""
+    },
+    {
+      "apiname": "ach_016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfortunate Consequence",
+      "description": ""
+    },
+    {
+      "apiname": "ach_017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backup Ain't Coming",
+      "description": "Completed the \"Rogue Signal\" side mission."
+    },
+    {
+      "apiname": "ach_018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sykes Out",
+      "description": "Completed the \"The Last Step\" side mission."
+    },
+    {
+      "apiname": "ach_019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finally Free",
+      "description": "Experienced every traumatic encounter and made peace with your inner demons."
+    },
+    {
+      "apiname": "ach_020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Got Red in You",
+      "description": "Used your first Red Gel."
+    },
+    {
+      "apiname": "ach_021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stick it in My Veins",
+      "description": "Completely upgraded all abilities."
+    },
+    {
+      "apiname": "ach_022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Things a Little Easier",
+      "description": "Used your first High-Grade Weapon Parts."
+    },
+    {
+      "apiname": "ach_023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now You're Playing with Power",
+      "description": "Upgraded a weapon to Level 3."
+    },
+    {
+      "apiname": "ach_024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little Extra Kick to it",
+      "description": "Upgraded one of your Warden Crossbow bolts to max level."
+    },
+    {
+      "apiname": "ach_025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They Never Even Stood A Chance",
+      "description": "Completely upgraded all weapons."
+    },
+    {
+      "apiname": "ach_026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DIY",
+      "description": "Crafted something for the first time."
+    },
+    {
+      "apiname": "ach_027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handyman",
+      "description": "Crafted every type of item at least once."
+    },
+    {
+      "apiname": "ach_028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Echoes Within STEM",
+      "description": "Observed all Residual Memories."
+    },
+    {
+      "apiname": "ach_029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doing Some Detecting",
+      "description": "Collected 20 files."
+    },
+    {
+      "apiname": "ach_030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diligent Reader",
+      "description": "Collected all files."
+    },
+    {
+      "apiname": "ach_031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half the Stash",
+      "description": "Opened 16 lockers."
+    },
+    {
+      "apiname": "ach_032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Locksmith",
+      "description": "Opened all lockers."
+    },
+    {
+      "apiname": "ach_033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good to See You Again",
+      "description": "Acquired the Warden Crossbow."
+    },
+    {
+      "apiname": "ach_034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chatting With Kidman",
+      "description": "Talked to Kidman about all of the photographic slides."
+    },
+    {
+      "apiname": "ach_035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powerhouse",
+      "description": "Acquired all standard weapons."
+    },
+    {
+      "apiname": "ach_036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All in the Family",
+      "description": "Collected all of the Mysterious Objects."
+    },
+    {
+      "apiname": "ach_037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Caffeine Addict",
+      "description": "Used every Coffee Maker at least once."
+    },
+    {
+      "apiname": "ach_038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thinning Them Out",
+      "description": "Killed 30 enemies."
+    },
+    {
+      "apiname": "ach_039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clearing a Path",
+      "description": "Killed 60 enemies."
+    },
+    {
+      "apiname": "ach_040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smoke Assassin",
+      "description": "Killed 3 enemies using upgraded Smoke Bolts."
+    },
+    {
+      "apiname": "ach_041",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shock Therapy",
+      "description": "Stunned an enemy standing in water using a Shock Bolt."
+    },
+    {
+      "apiname": "ach_042",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wait For It...",
+      "description": "Killed an enemy using an Ambush."
+    },
+    {
+      "apiname": "ach_043",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kick, Shoot, Burn",
+      "description": "Killed 2 or more enemies at once using oil on the ground."
+    },
+    {
+      "apiname": "ach_044",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bootable Offense",
+      "description": "Stomped and killed 15 fallen enemies."
+    },
+    {
+      "apiname": "ach_045",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am The Night",
+      "description": "Killed 10 enemies using Sneak Kills."
+    },
+    {
+      "apiname": "ach_046",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sometimes Fighting Isn't the Answer",
+      "description": "Avoided unnecessary bloodshed outside City Hall. (Ch. 5)"
+    },
+    {
+      "apiname": "ach_047",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death From Above",
+      "description": "Killed 2 or more enemies at once using a hanging lamp. (Ch. 9)"
+    },
+    {
+      "apiname": "ach_048",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No More Playing With Fire",
+      "description": "Stopped a true believer from playing with his favorite toy. (Ch. 11)"
+    },
+    {
+      "apiname": "ach_049",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Melancholy Memories",
+      "description": "Reminisced about every moment from your past. (Ch. 12)"
+    },
+    {
+      "apiname": "ach_050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll Take You Down Myself",
+      "description": "Brought your own equipment to the barbecue this time. (Ch. 14)"
+    },
+    {
+      "apiname": "ach_051",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Cinematic Feel...",
+      "description": ""
+    }
+  ]
+}

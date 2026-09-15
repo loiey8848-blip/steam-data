@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3839250,
+  "game": "Soulforge Lost Path",
+  "total": 35,
+  "unlocked": 5,
+  "percent": 14.3,
+  "updated_at_utc": "2026-09-15T06:53:37.288758+00:00",
+  "achievements": [
+    {
+      "apiname": "KillBoss_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian of the Wilds",
+      "description": "Defeat the guardian of the Soul Wilds."
+    },
+    {
+      "apiname": "KillBoss_1001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian of the Isle",
+      "description": "Defeat the guardian of the Desolate Isle."
+    },
+    {
+      "apiname": "MapClear_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Wilds",
+      "description": "Clear every stage of the Soul Wilds."
+    },
+    {
+      "apiname": "MapClear_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desolate Isle",
+      "description": "Clear every stage of the Desolate Isle."
+    },
+    {
+      "apiname": "TalentActive_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoarder",
+      "description": "Unlock more minecarts."
+    },
+    {
+      "apiname": "TalentActive_213",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archmage",
+      "description": "Unlock a starting spell."
+    },
+    {
+      "apiname": "TalentActive_300",
+      "achieved": 1,
+      "unlocktime": 1784456247,
+      "name": "Overlimit",
+      "description": "Unlock Overlimit."
+    },
+    {
+      "apiname": "AtrAdvUnlock_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greenhorn",
+      "description": "Reach level 10."
+    },
+    {
+      "apiname": "AtrAdvUnlock_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finding Your Feet",
+      "description": "Reach level 30."
+    },
+    {
+      "apiname": "AtrAdvUnlock_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Star",
+      "description": "Reach level 50."
+    },
+    {
+      "apiname": "AtrAdvUnlock_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Craft",
+      "description": "Reach level 100."
+    },
+    {
+      "apiname": "ForgeWeapon_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Blacksmith",
+      "description": "Forge 10 weapons."
+    },
+    {
+      "apiname": "ForgeWeapon_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Blacksmith",
+      "description": "Forge 100 weapons."
+    },
+    {
+      "apiname": "GainSpell_3",
+      "achieved": 1,
+      "unlocktime": 1784455511,
+      "name": "Spellcaster",
+      "description": "Gain 3 spells in a single run."
+    },
+    {
+      "apiname": "GainSpell_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Spellcaster",
+      "description": "Gain 6 spells in a single run."
+    },
+    {
+      "apiname": "ForgeFirst_1",
+      "achieved": 1,
+      "unlocktime": 1784455140,
+      "name": "Blacksmith I",
+      "description": "Forge your first weapon."
+    },
+    {
+      "apiname": "ForgeQuality_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith II",
+      "description": "Forge a green-quality weapon."
+    },
+    {
+      "apiname": "ForgeQuality_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith III",
+      "description": "Forge a blue-quality weapon."
+    },
+    {
+      "apiname": "ForgeQuality_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith IV",
+      "description": "Forge a purple-quality weapon."
+    },
+    {
+      "apiname": "ForgeQuality_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith V",
+      "description": "Forge a gold-quality weapon."
+    },
+    {
+      "apiname": "Revive_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undying",
+      "description": "Revive after dying during a run."
+    },
+    {
+      "apiname": "ClearRun_1",
+      "achieved": 1,
+      "unlocktime": 1784456187,
+      "name": "Treasure Hunter",
+      "description": "Clear a run."
+    },
+    {
+      "apiname": "FullHpClear_1",
+      "achieved": 1,
+      "unlocktime": 1784457134,
+      "name": "Easy Does It",
+      "description": "Clear a stage at full HP."
+    },
+    {
+      "apiname": "NoSpellClear_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": "Clear a run without casting a single spell."
+    },
+    {
+      "apiname": "SpeedBoss_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speedrunner",
+      "description": "Defeat the boss before the first minecart arrives."
+    },
+    {
+      "apiname": "OpenGrave_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gravedigger",
+      "description": "Open 10 graves in total."
+    },
+    {
+      "apiname": "OpenGrave_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grave Rush",
+      "description": "Open 50 graves in total."
+    },
+    {
+      "apiname": "OpenGrave_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grave Addiction",
+      "description": "Open 100 graves in total."
+    },
+    {
+      "apiname": "OpenChest_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chest Lover",
+      "description": "Open 10 chests."
+    },
+    {
+      "apiname": "OpenChest_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Chests, Please",
+      "description": "Open 20 chests."
+    },
+    {
+      "apiname": "OpenChest_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Chests Are Mine",
+      "description": "Open 50 chests."
+    },
+    {
+      "apiname": "UseMineCart_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cart's Here",
+      "description": "Use the minecart 10 times."
+    },
+    {
+      "apiname": "UseMineCart_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cart Train",
+      "description": "Use the minecart 20 times."
+    },
+    {
+      "apiname": "UseMineCart_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cart Overload",
+      "description": "Use the minecart 50 times."
+    },
+    {
+      "apiname": "ForgeQuality_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Weapon",
+      "description": "Forge 1 red-quality weapon."
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 200260,
+  "game": "Batman: Arkham City GOTY",
+  "total": 64,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:36.457264+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm Batman",
+      "description": "Become the Bat"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acid Bath",
+      "description": "Save the damsel, but is she in distress?"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior",
+      "description": "Save the medical volunteers"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chimney Sweep",
+      "description": "There is only one way in"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One-Armed Bandit",
+      "description": "Hammer the point home"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Communication Breakdown",
+      "description": "Clear the airwaves"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gladiator",
+      "description": "Last man standing"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrecking Ball",
+      "description": "Stop the unstoppable"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost And Found",
+      "description": "Uncover the secret of Arkham City"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sandstorm",
+      "description": "We are legion"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide And Seek",
+      "description": "A deadly game of hide and seek"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost Train",
+      "description": "Fight for survival"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freefall",
+      "description": "Don't look down"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exit Stage Right",
+      "description": "All the world is a stage"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contract Terminated",
+      "description": "Stop the contract operative"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial Killer",
+      "description": "Track down the serial killer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mystery Stalker",
+      "description": "Reveal the mystery watcher"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Broken Toys",
+      "description": "Destroy it all"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dial Z For Murder",
+      "description": "Stop the phone booth killer"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stop the Clock",
+      "description": "Time is running out"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bargaining Chip",
+      "description": "Reunite the separated couple"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AR Knight",
+      "description": "Complete all augmented reality training exercises"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Loaded",
+      "description": "Collect all of Batman's gadgets and upgrades"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aggravated Assault",
+      "description": "Stop all assaults in Arkham City"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "IQ Test",
+      "description": "Solve the first riddle"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conundrum",
+      "description": "Rescue the first hostage from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mastermind",
+      "description": "Rescue the second hostage from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puzzler",
+      "description": "Rescue the third hostage from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intellectual",
+      "description": "Rescue the fourth hostage from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brainteaser",
+      "description": "Rescue the fifth hostage from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genius",
+      "description": "Rescue all the hostages from Riddler"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bronze Revenge",
+      "description": "Obtain 24 medals on the original Arkham City maps (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Revenge",
+      "description": "Obtain 48 medals on the original Arkham City maps (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Revenge",
+      "description": "Obtain all 72 medals on the original Arkham City maps (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Bronze",
+      "description": "Obtain 36 medals on the original Arkham City campaigns (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Silver",
+      "description": "Obtain 72 medals on the original Arkham City campaigns (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Gold",
+      "description": "Obtain all 108 medals on the original Arkham City campaigns (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Freeflow Fighter 2.0",
+      "description": "Complete one combat challenge without taking damage (any character)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twice Nightly",
+      "description": "Complete New Game Plus"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pay Your Respects",
+      "description": "A moment of remembrance"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storyteller",
+      "description": "Have 12 murderous dates with Calendar Man"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Freeflow 2.0",
+      "description": "Perform a perfect combo including all of Batman's combat moves (any play mode)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gadget Attack",
+      "description": "Use 5 different Quickfire gadgets in one fight  (any play mode)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Knight - Day 2",
+      "description": "Complete every challenge in Arkham City - Main Story, Side Missions, Upgrades, Collectables, New Game Plus and Riddlers Revenge (as Batman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sphinx' Riddle",
+      "description": "Complete all 40 of the Catwoman Riddler grid items"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arkham City Sirens",
+      "description": "Drop in on an old friend"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pick Pocket",
+      "description": "Steal the score of a lifetime"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family Jewels",
+      "description": "Retrieve your stolen goods"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feline Revenge",
+      "description": "Obtain all 72 medals on the original Arkham City maps (as Catwoman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Kitty",
+      "description": "Obtain all 108 medals on the original Arkham City campaigns (as Catwoman)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Robin Revenge",
+      "description": "Obtain 78 medals on the original Arkham City and Robin Bundle Pack maps (as Robin)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Wonder",
+      "description": "Obtain 114 medals on the original Arkham City and Robin Bundle Pack campaigns (as Robin)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightwing Revenge",
+      "description": "Obtain 78 medals on the original Arkham City and Nightwing Bundle Pack maps (as Nightwing)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Nightwing",
+      "description": "Obtain 114 medals on the original Arkham City and Nightwing Bundle Pack campaigns (as Nightwing)"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Property",
+      "description": "No crimefighter should be without this"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking and Entering",
+      "description": "Find a way into the secret base"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How's It Hanging?",
+      "description": "Clean up the Dry Docks"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Laugh",
+      "description": "The joke's on who?"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frequent Flyer",
+      "description": "Zip Kick 5 different thugs"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battering Ram",
+      "description": "Shield Bash 5 different thugs"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snap To It",
+      "description": "Snap Flash an unarmed thug, an armed thug, an environmental object and a Titan"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bomb Squad",
+      "description": "Defuse all bombs in 3 minutes or less"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Few New Tricks",
+      "description": "Use 5 different Quickfire gadgets in one fight as Robin in Harley Quinn's Revenge"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party's Over",
+      "description": "Destroy all Harley Balloons"
+    }
+  ]
+}

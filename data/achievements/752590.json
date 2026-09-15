@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 752590,
+  "game": "A Plague Tale: Innocence",
+  "total": 35,
+  "unlocked": 35,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:50:37.063557+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_01",
+      "achieved": 1,
+      "unlocktime": 1785202675,
+      "name": "The de Rune Legacy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_02",
+      "achieved": 1,
+      "unlocktime": 1785203715,
+      "name": "The Strangers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_03",
+      "achieved": 1,
+      "unlocktime": 1785205024,
+      "name": "Retribution",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_04",
+      "achieved": 1,
+      "unlocktime": 1785206863,
+      "name": "The Apprentice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_05",
+      "achieved": 1,
+      "unlocktime": 1785221217,
+      "name": "The Ravens' Spoils",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_06",
+      "achieved": 1,
+      "unlocktime": 1785222260,
+      "name": "Damaged Goods",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_07",
+      "achieved": 1,
+      "unlocktime": 1785224536,
+      "name": "The Path Before Us",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_08",
+      "achieved": 1,
+      "unlocktime": 1785225196,
+      "name": "Our Home",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_09",
+      "achieved": 1,
+      "unlocktime": 1785227185,
+      "name": "In the Shadow of Ramparts",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 1,
+      "unlocktime": 1785228762,
+      "name": "The Way of Roses",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 1,
+      "unlocktime": 1785229638,
+      "name": "Alive",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 1,
+      "unlocktime": 1785231739,
+      "name": "All That Remains",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 1,
+      "unlocktime": 1785232216,
+      "name": "Penance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 1,
+      "unlocktime": 1785234780,
+      "name": "Blood Ties",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 1,
+      "unlocktime": 1785236318,
+      "name": "Remembrance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 1,
+      "unlocktime": 1785238458,
+      "name": "Coronation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 1,
+      "unlocktime": 1785239139,
+      "name": "Knights!",
+      "description": "Complete all chapters"
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 1,
+      "unlocktime": 1785236934,
+      "name": "Herbalist",
+      "description": "Find 6 flowers"
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 1,
+      "unlocktime": 1785236934,
+      "name": "Botanist",
+      "description": "Find all the flowers"
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 1,
+      "unlocktime": 1785236593,
+      "name": "Curiosities hunter",
+      "description": "Find 13 curiosities"
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 1,
+      "unlocktime": 1785237584,
+      "name": "Curiosities collector",
+      "description": "Find all curiosities"
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 1,
+      "unlocktime": 1785229876,
+      "name": "Big sister",
+      "description": "Find all the gifts for the orphans"
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 1,
+      "unlocktime": 1785234956,
+      "name": "Not a toy anymore",
+      "description": "Fully upgrade the sling"
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 1,
+      "unlocktime": 1785236489,
+      "name": "Handfull of pockets",
+      "description": "Fully upgrade the equipment"
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 1,
+      "unlocktime": 1785220964,
+      "name": "Alchemist",
+      "description": "Craft 100 ammunitions"
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 1,
+      "unlocktime": 1785236476,
+      "name": "Resource sharing",
+      "description": "Enter into the 5 alchemist carts"
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 1,
+      "unlocktime": 1785201656,
+      "name": "More practice",
+      "description": "Complete the aiming training"
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 1,
+      "unlocktime": 1785202898,
+      "name": "Feeding the hungry",
+      "description": "Find a lunch for Hugo"
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 1,
+      "unlocktime": 1785205576,
+      "name": "Found!",
+      "description": "Play hide-and-seek"
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 1,
+      "unlocktime": 1785220964,
+      "name": "Savior",
+      "description": "Save a soldier"
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 1,
+      "unlocktime": 1785224623,
+      "name": "Tribute",
+      "description": "Find the tomb"
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 1,
+      "unlocktime": 1785227185,
+      "name": "The hard way",
+      "description": "Enter through the main door"
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 1,
+      "unlocktime": 1785230045,
+      "name": "Merciful",
+      "description": "Save the dying"
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 1,
+      "unlocktime": 1785233247,
+      "name": "Captain Sidekick",
+      "description": "Stay with the captain"
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 1,
+      "unlocktime": 1785237152,
+      "name": "The Blacksmith",
+      "description": "Find Rodric's forge"
+    }
+  ]
+}

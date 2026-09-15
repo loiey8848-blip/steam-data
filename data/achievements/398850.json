@@ -1,0 +1,396 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 398850,
+  "game": "Epistory - Typing Chronicles",
+  "total": 55,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:47.855112+00:00",
+  "achievements": [
+    {
+      "apiname": "kill_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "kill_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer",
+      "description": "Kill 1,000 enemies"
+    },
+    {
+      "apiname": "chapter_start_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Signal Fire",
+      "description": ""
+    },
+    {
+      "apiname": "chapter_start_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Shoulder",
+      "description": ""
+    },
+    {
+      "apiname": "chapter_start_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Static Shock",
+      "description": ""
+    },
+    {
+      "apiname": "chapter_start_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winds of Change",
+      "description": ""
+    },
+    {
+      "apiname": "game_end",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desert Dream",
+      "description": ""
+    },
+    {
+      "apiname": "travel_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traveller",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Hollow",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forgotten Forest",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drowning Halls",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Mausoleum",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creation City",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystalline Mine",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shattered Isles",
+      "description": ""
+    },
+    {
+      "apiname": "dungeon_completed_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Desert",
+      "description": ""
+    },
+    {
+      "apiname": "kill_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Insect's Bane",
+      "description": "Kill 10,000 enemies"
+    },
+    {
+      "apiname": "burn_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyrophilia",
+      "description": "Burn 500 words with fire magic"
+    },
+    {
+      "apiname": "freeze_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cryophilia",
+      "description": "Stop 500 enemies with ice magic"
+    },
+    {
+      "apiname": "zap_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ceraunophilia",
+      "description": "Zap 500 words with lightning magic"
+    },
+    {
+      "apiname": "push_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kinetophilia",
+      "description": "Repel 500 enemies with wind magic"
+    },
+    {
+      "apiname": "quick_kill_10_in_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quick Draw",
+      "description": "Kill 10 enemies in less than 30 seconds"
+    },
+    {
+      "apiname": "switch_magic_combat_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multitasking",
+      "description": "Switch 10 times between magic types during a single battle"
+    },
+    {
+      "apiname": "all_magic_battle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Polyvalent",
+      "description": "Use all 4 magic types during a single battle"
+    },
+    {
+      "apiname": "all_magic_enemy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And Stay Dead",
+      "description": "Use all 4 magic types on a unique enemy"
+    },
+    {
+      "apiname": "combo_chain_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep Walking",
+      "description": "Keep a combo chain for 20 words"
+    },
+    {
+      "apiname": "combo_chain_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marathon",
+      "description": "Keep a combo chain for 100 words"
+    },
+    {
+      "apiname": "all_speed_upgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The quick brown fox...",
+      "description": "Buy all velocity and sprint upgrades"
+    },
+    {
+      "apiname": "all_fight_upgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starfox",
+      "description": "Buy all magics and knockback upgrades"
+    },
+    {
+      "apiname": "easter_egg_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Angling a dry ocean",
+      "description": "Find the prickly fisherman"
+    },
+    {
+      "apiname": "all_upgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My body is ready",
+      "description": "Max out all upgrades"
+    },
+    {
+      "apiname": "all_fragments",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Find all the collectible fragments"
+    },
+    {
+      "apiname": "no_mistake_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diamond in the rough",
+      "description": "Type 100 characters without a mistake"
+    },
+    {
+      "apiname": "no_mistake_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cut Diamond",
+      "description": "Type 500 characters without a mistake"
+    },
+    {
+      "apiname": "no_mistake_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Diamond",
+      "description": "Type 1000 characters without a mistake"
+    },
+    {
+      "apiname": "one_percent_muse_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: The Rime of the Ancient Mariner",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Hamlet",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_748",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Frankenstein",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_920",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Foundation",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_1206",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Pride and Prejudice",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_1740",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: For Whom the Bell Tolls",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_3609",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Bleak House",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_4550",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: The Lord of the Rings",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_5613",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: War and Peace",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_8390",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Dune",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_10844",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: The Harry Potter Saga",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_12950",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: The Dark Tower",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_17700",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: A Song of Ice and Fire",
+      "description": ""
+    },
+    {
+      "apiname": "all_chests",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Find all the chests"
+    },
+    {
+      "apiname": "all_nests",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bug Spray",
+      "description": "Clear all insect's nests"
+    },
+    {
+      "apiname": "wpm_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handwriter",
+      "description": "Reach the average handwriting speed of 30WPM"
+    },
+    {
+      "apiname": "wpm_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Typist",
+      "description": "Reach the average typewriting speed of 45WPM"
+    },
+    {
+      "apiname": "wpm_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advanced Typist",
+      "description": "Surpass the average and reach typewriting speed of 60WPM"
+    },
+    {
+      "apiname": "one_percent_muse_124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Rumpelstiltskin",
+      "description": ""
+    },
+    {
+      "apiname": "one_percent_muse_531",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1% Muse: Gargantua",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 450190,
+  "game": "Maze Lord",
+  "total": 15,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:50.369435+00:00",
+  "achievements": [
+    {
+      "apiname": "quest_to_kill_10_monsters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Hero",
+      "description": "Killed 10 monsters"
+    },
+    {
+      "apiname": "quest_to_kill_50_monsters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Hero",
+      "description": "Killed 50 monster"
+    },
+    {
+      "apiname": "quest_to_kill_100_monsters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendart Hero",
+      "description": "Killed 100 monsters"
+    },
+    {
+      "apiname": "quest_to_get_10_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rich",
+      "description": "You need to take 10 coins"
+    },
+    {
+      "apiname": "quest_to_get_50_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Very Rich",
+      "description": "You need to take 50 coins"
+    },
+    {
+      "apiname": "quest_to_get_100_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Rich",
+      "description": "You need to take 100 coins"
+    },
+    {
+      "apiname": "quest_to_complete_10_levels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wanderer",
+      "description": "You need to complete 10 levels"
+    },
+    {
+      "apiname": "quest_to_complete_50_levels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of Wanderer",
+      "description": "You need to complete 50 levels"
+    },
+    {
+      "apiname": "quest_to_complete_100_levels",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Traveler",
+      "description": "You need to complete 100 levels"
+    },
+    {
+      "apiname": "quest_to_get_10_exp_level",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disciple",
+      "description": "You need to reach 10 experience level"
+    },
+    {
+      "apiname": "quest_to_get_20_exp_level",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journeyman",
+      "description": "You need to reach 20 experience level"
+    },
+    {
+      "apiname": "quest_to_get_30_exp_level",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master",
+      "description": "You need to reach 30 experience level"
+    },
+    {
+      "apiname": "quest_to_buy_10_bag_items",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trader",
+      "description": "You need to buy 10 artifacts"
+    },
+    {
+      "apiname": "quest_to_buy_20_bag_items",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Trader",
+      "description": "You need to buy 20 artifacts"
+    },
+    {
+      "apiname": "quest_to_buy_30_bag_items",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trader of Destiny",
+      "description": "You need to buy 30 artifacts"
+    }
+  ]
+}

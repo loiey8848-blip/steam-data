@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 738860,
+  "game": "Jetstream",
+  "total": 15,
+  "unlocked": 1,
+  "percent": 6.7,
+  "updated_at_utc": "2026-09-15T06:50:36.537569+00:00",
+  "achievements": [
+    {
+      "apiname": "COMPLETE_GROUP_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Check-in",
+      "description": "Complete all the levels in the Check-in group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buckle-up",
+      "description": "Complete all the levels in the Buckle-up group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Checkpoint",
+      "description": "Complete all the levels in the Checkpoint group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Layover",
+      "description": "Complete all the levels in the Layover group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Currents",
+      "description": "Complete all the levels in the Air Currents group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Landing",
+      "description": "Complete all the levels in the Landing group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbulence",
+      "description": "Complete all the levels in the Turbulence group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flight Plan",
+      "description": "Complete all the levels in the Flight Plan group"
+    },
+    {
+      "apiname": "COMPLETE_GROUP_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Approach",
+      "description": "Complete all the levels in the Final Approach group"
+    },
+    {
+      "apiname": "COMPLETE_LAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Economy Class",
+      "description": "Complete the last level"
+    },
+    {
+      "apiname": "COMPLETE_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Business Class",
+      "description": "Complete all the levels"
+    },
+    {
+      "apiname": "COMPLETE_ALTERNATIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Class",
+      "description": ""
+    },
+    {
+      "apiname": "BASICS",
+      "achieved": 1,
+      "unlocktime": 1778658850,
+      "name": "Pilot School",
+      "description": ""
+    },
+    {
+      "apiname": "COVER_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multiple Layovers",
+      "description": ""
+    },
+    {
+      "apiname": "REPEAT_STATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bermuda Triangle",
+      "description": ""
+    }
+  ]
+}

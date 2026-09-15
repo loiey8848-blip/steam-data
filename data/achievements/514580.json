@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 514580,
+  "game": "Cooking Witch",
+  "total": 40,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:07.216402+00:00",
+  "achievements": [
+    {
+      "apiname": "01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Servant",
+      "description": "Complete Mission: Cook 3 Kids"
+    },
+    {
+      "apiname": "02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Muncher",
+      "description": "Complete Mission: Eat 5 Meat"
+    },
+    {
+      "apiname": "03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oops",
+      "description": "Complete Mission: Do a Fatal Kid Drop"
+    },
+    {
+      "apiname": "04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sprinkle of Green",
+      "description": "Complete Mission: Cook 3 Green Kids"
+    },
+    {
+      "apiname": "05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seeing Stars",
+      "description": "Complete Mission: Knock out a Daddy"
+    },
+    {
+      "apiname": "06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sprinkle of Red",
+      "description": "Complete Mission: Cook 3 Red Kids"
+    },
+    {
+      "apiname": "07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sparkle",
+      "description": "Complete Mission: Collect 5 Stars"
+    },
+    {
+      "apiname": "08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hearty",
+      "description": "Complete Mission:  Collect 3 Hearts"
+    },
+    {
+      "apiname": "09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daddy Soup",
+      "description": "Complete Mission: Cook a Daddy"
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chef",
+      "description": "Complete Mission: Cook 10 Kids"
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Binging",
+      "description": "Complete Mission: Eat 25 Meat"
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whoopee!",
+      "description": "Complete Mission: Do 5 Fatal Kid Drops"
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Green",
+      "description": "Complete Mission: Cook 10 Green Kids"
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knockout",
+      "description": "Complete Mission: Knock Out 3 Daddys"
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Some Red",
+      "description": "Complete Mission: Cook 10 Red Kids"
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twinkle",
+      "description": "Complete Mission: Collect 15 Stars"
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warmhearted",
+      "description": "Complete Mission: Collect 10 Hearts"
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daddy Cake",
+      "description": "Complete Mission: Cook 3 Daddys"
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet Chef",
+      "description": "Complete Mission: Cook 25 Kids"
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feasting",
+      "description": "Complete Mission: Eat 50 Meat"
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look out below!",
+      "description": "Complete Mission: Do 10 Fatal Kid Drops"
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handful of Green",
+      "description": "Complete Mission: Cook 20 Green Kids"
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cold Pack",
+      "description": "Complete Mission: Knock Out 6 Daddys"
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handful of Red",
+      "description": "Complete Mission: Cook 20 Red Kids"
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glitter",
+      "description": "Complete Mission: Collect 25 Stars"
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lifegiver",
+      "description": "Complete Mission: Collect 20 Hearts"
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daddy Brunch",
+      "description": "Complete Mission: Cook 6 Daddys"
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Culinary Artist",
+      "description": "Complete Mission: Cook 50 Kids"
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devourer",
+      "description": "Complete Mission: Eat 100 Meat"
+    },
+    {
+      "apiname": "30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Free Fall",
+      "description": "Complete Mission: Do 20 Fatal Kid Drops"
+    },
+    {
+      "apiname": "31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bundle of Green",
+      "description": "Complete Mission: Cook 35 Green Kids"
+    },
+    {
+      "apiname": "32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Blow",
+      "description": "Complete Mission: Knock Out 10 Daddys"
+    },
+    {
+      "apiname": "33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bundle of Red",
+      "description": "Complete Mission: Cook 35 Red Kids"
+    },
+    {
+      "apiname": "34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cosmo",
+      "description": "Complete Mission: Collect 45 Stars"
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beating on ",
+      "description": "Complete Mission: Collect 35 Hearts"
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daddy Feast",
+      "description": "Complete Mission: Cook 9 Daddys"
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Chef",
+      "description": "Complete Mission: Cook 75 Kids"
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gluttony",
+      "description": "Complete Mission: Eat 200 Meat"
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squish!",
+      "description": "Complete Mission: Do 40 Fatal Kid Drops"
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Reach an All-Time Total Meat Score of 10000"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 204880,
+  "game": "Sins of a Solar Empire: Rebellion",
+  "total": 68,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:36.826213+00:00",
+  "achievements": [
+    {
+      "apiname": "HasWonAsTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ensign",
+      "description": "Win the game as a TEC player."
+    },
+    {
+      "apiname": "HasWonAsPsi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acolyte",
+      "description": "Win the game as an Advent player."
+    },
+    {
+      "apiname": "HasWonAsPhase",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Initiate",
+      "description": "Win the game as a Vasari player."
+    },
+    {
+      "apiname": "HasWonAsRandom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Any Domain",
+      "description": "Win the game as a Random player."
+    },
+    {
+      "apiname": "HasWonAgainst1AI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plug Puller",
+      "description": "Win the game by yourself against at least one Hard AI player."
+    },
+    {
+      "apiname": "HasWonAgainst2AI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toaster Roaster",
+      "description": "Win the game by yourself against at least two Hard AI players."
+    },
+    {
+      "apiname": "HasWonAgainst3AI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comp Stomper",
+      "description": "Win the game by yourself against at least three Hard AI players."
+    },
+    {
+      "apiname": "HasWonAgainst4AI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Actually HAL, I can do that.",
+      "description": "Win the game by yourself against at least four Hard AI players."
+    },
+    {
+      "apiname": "HasWonWithNoCapitalShips",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fear of Icebergs",
+      "description": "Win the game without building any Capital Ships."
+    },
+    {
+      "apiname": "HasWonWithNoSquads",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Exhaust Port Found",
+      "description": "Win the game without building any strike craft."
+    },
+    {
+      "apiname": "HasWonWithNoTacticalModules",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Defense is a Good Offense",
+      "description": "Win the game without building any Tactical Structures."
+    },
+    {
+      "apiname": "HasWonWithNoFrigates",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go Big or Go Home",
+      "description": "Win the game without building any Frigates, Cruisers or Corvettes. You will probably need Capital Ships for this! (Not achievable with Quick Start.)"
+    },
+    {
+      "apiname": "HasResearchedAllCombatTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TEC Military Researcher",
+      "description": "Research every subject in the Military Tree while researching no subjects in the Civilian, Defense or Diplomacy Trees."
+    },
+    {
+      "apiname": "HasResearchedAllCombatPsi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advent Hostility Researcher",
+      "description": "Research every subject in the Hostility Tree while researching no subjects in the Harmony, Security, or Understanding Trees."
+    },
+    {
+      "apiname": "HasResearchedAllCombatPhase",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vasari Warfare Researcher",
+      "description": "Research every subject in the Warfare Tree while researching no subjects in the Empire, Fortification or Manipulation Trees."
+    },
+    {
+      "apiname": "HasResearchedAllNonCombatTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TEC Civilian Researcher",
+      "description": "Research every subject in the Civilian Tree while researching no subjects in the Military, Defense or Diplomacy trees."
+    },
+    {
+      "apiname": "HasResearchedAllNonCombatPsi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advent Harmony Researcher",
+      "description": "Research every subject in the Harmony Tree while researching no subjects in the Hostility, Security or Understanding Trees."
+    },
+    {
+      "apiname": "HasResearchedAllNonCombatPhase",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vasari Empire Researcher",
+      "description": "Research every subject in the Empire Tree while researching no subjects in the Warfare, Fortification or Manipulation Trees."
+    },
+    {
+      "apiname": "HasFoundEveryArtifact",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archaeologist",
+      "description": "Find and own every artifact at the same time."
+    },
+    {
+      "apiname": "HasBuiltEveryCapitalShipTypeTech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TEC Fleet Diversification",
+      "description": "Have at least one of every TEC Capital Ship built at the same time."
+    },
+    {
+      "apiname": "HasBuiltEveryCapitalShipTypePsi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advent Fleet Diversification",
+      "description": "Have at least one of every Advent Capital Ship built at the same time."
+    },
+    {
+      "apiname": "HasBuiltEveryCapitalShipTypePhase",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vasari Fleet Diversification",
+      "description": "Have at least one of every Vasari Capital Ship built at the same time."
+    },
+    {
+      "apiname": "HasReachedMaxCapitalShipLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capital Ship Captain",
+      "description": "Get a Capital Ship to maximum experience level."
+    },
+    {
+      "apiname": "HasBuiltSquads",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squadron Leader",
+      "description": "Own at least 100 Squadrons at once."
+    },
+    {
+      "apiname": "HasMaxedCapitalShipSlots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capital Ship Armada",
+      "description": "Own the maximum number of Capital Ships possible. Your fleet research must also be max level."
+    },
+    {
+      "apiname": "HasMaxedShipSlots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship Swarm",
+      "description": "Own the maximum number of ships your fleet points can support. Your fleet research must also be at max level."
+    },
+    {
+      "apiname": "HasDoneQuests",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outstanding Resume",
+      "description": "Complete at least 30 missions in a single game."
+    },
+    {
+      "apiname": "HasTravelledStarLane",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Explorer",
+      "description": "Travel to another star system."
+    },
+    {
+      "apiname": "HasTravelledWormHole",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape From Max",
+      "description": "Travel through a wormhole to discover where it leads to."
+    },
+    {
+      "apiname": "HasGivenCredits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Lender",
+      "description": "Give 25,000 Credits to other players in a single game."
+    },
+    {
+      "apiname": "HasGivenMetal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metal Lender",
+      "description": "Give 20,000 Metal to other players in a single game."
+    },
+    {
+      "apiname": "HasGivenCrystal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Lender",
+      "description": "Give 20,000 Crystal to other players in a single game."
+    },
+    {
+      "apiname": "HasFormedAllianceCeaseFire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Road to Peace",
+      "description": "Form a Cease Fire with another player."
+    },
+    {
+      "apiname": "HasFormedAlliancePeaceTreaty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacifist",
+      "description": "Form a Peace Treaty with another player."
+    },
+    {
+      "apiname": "HasFormedAllianceTrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mutual Trader",
+      "description": "Form a Trade Alliance with another player."
+    },
+    {
+      "apiname": "HasFormedAllianceInternalVision",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planet Visionary",
+      "description": "Form a Planet Vision alliance with another player."
+    },
+    {
+      "apiname": "HasFormedAllianceExternalVision",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ship Visionary",
+      "description": "Form a Ship Vision alliance with another player."
+    },
+    {
+      "apiname": "HasPopulation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Family Planning",
+      "description": "Your empire must support at least 6,000 population at once."
+    },
+    {
+      "apiname": "HasMadeTaxIncome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tax Collector",
+      "description": "Collect 200,000 Credits from taxes in a single game."
+    },
+    {
+      "apiname": "HasMadeTradeIncome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Export Maven",
+      "description": "Collect 20,000 Credits from trade ships in a single game."
+    },
+    {
+      "apiname": "HasMadeMetalIncome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metal Miner",
+      "description": "Collect 35,000 Metal from resource extractors in a single game."
+    },
+    {
+      "apiname": "HasMadeCrystalIncome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Miner",
+      "description": "Collect 35,000 Crystal from resource extractors in a single game."
+    },
+    {
+      "apiname": "HasMadeRefineryIncome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Refining Magnate",
+      "description": "Collect 20,000 Metal or Crystal from refinery ships in a single game."
+    },
+    {
+      "apiname": "HasUsedCulture",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pop Idol",
+      "description": "Spread your Culture to 75% of the galaxy."
+    },
+    {
+      "apiname": "HasBombedPlanet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Bombardier",
+      "description": "Do 15,750 damage to planets."
+    },
+    {
+      "apiname": "HasKilledFrigates",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frigate Killer",
+      "description": "Destroy 1,000 enemy frigates in a single game."
+    },
+    {
+      "apiname": "HasKilledCapitalShips",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capital Ship Assassin",
+      "description": "Destroy 30 enemy capital ships in a single game."
+    },
+    {
+      "apiname": "HasKilledModules",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wrecking Crew",
+      "description": "Destroy 200 enemy planet structures in a single game."
+    },
+    {
+      "apiname": "HasKilledFighters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilot's Bane",
+      "description": "Destroy 2,500 enemy strike craft in a single game."
+    },
+    {
+      "apiname": "HasKilledPirates",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pirate Exterminator",
+      "description": "Destroy 1,000 Pirate ships in a single game."
+    },
+    {
+      "apiname": "HasKilledTradeShips",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-Globalization",
+      "description": "Destroy 100 trade ships in a single game."
+    },
+    {
+      "apiname": "HasKilledRefineryShips",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Canaries",
+      "description": "Destroy 50 refinery ships in a single game."
+    },
+    {
+      "apiname": "HasKilledModuleConstructors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Union Buster",
+      "description": "Destroy 50 construction ships in a single game."
+    },
+    {
+      "apiname": "HasColonizedPiratePlanet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pirate Baron",
+      "description": "Colonize a Pirate base."
+    },
+    {
+      "apiname": "HasFoundSpacePonies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Ponies!",
+      "description": "Um...What?"
+    },
+    {
+      "apiname": "HasColonizedPlanets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonizer",
+      "description": "Have 30 planets colonized at the same time."
+    },
+    {
+      "apiname": "HasBoughtMetal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metal Speculator",
+      "description": "Buy 10,000 Metal from the Black Market."
+    },
+    {
+      "apiname": "HasSoldMetalToMarket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metal Merchant",
+      "description": "Sell 10,000 Metal directly to the Black Market."
+    },
+    {
+      "apiname": "HasBoughtCrystal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Speculator",
+      "description": "Buy 10,000 Crystal from the Black Market."
+    },
+    {
+      "apiname": "HasSoldCrystalToMarket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal Merchant",
+      "description": "Sell 10,000 Crystal from the Black Market."
+    },
+    {
+      "apiname": "HasSoldResourcesToPlayers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resource Opportunist",
+      "description": "Gain 15,000 Credits from other players buying up your resources."
+    },
+    {
+      "apiname": "HasIncreasedBounty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He's no good to me dead!",
+      "description": "Spend 66,000 Credits increasing the bounty on other players in a single game."
+    },
+    {
+      "apiname": "HasPreviewedRandomGalaxy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Builder",
+      "description": "Create your own custom galaxy and preview the results."
+    },
+    {
+      "apiname": "HasAllPlanetTypes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equal Opportunity",
+      "description": "Occupy the 10 planet types simultaneously (Forbidden Worlds DLC required)."
+    },
+    {
+      "apiname": "HasFerrusPlanetWithFullIndustry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drill Baby Drill",
+      "description": "Fully specialize a Ferrous planet in industry (Forbidden Worlds DLC required)."
+    },
+    {
+      "apiname": "HasOceanicPlanetWithFullSocial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vacation Getaway",
+      "description": "Fully specialize a Oceanic planet in social upgrades (Forbidden Worlds DLC required)."
+    },
+    {
+      "apiname": "HasDestroyedPlanets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Destroyer of Worlds",
+      "description": "Destroy 20 planets in a single game."
+    },
+    {
+      "apiname": "HasDifferentPlanetBonuses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intrepid Explorer",
+      "description": "Control 20 different planet bonuses in a single game."
+    }
+  ]
+}

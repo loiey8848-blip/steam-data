@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3636770,
+  "game": "Servant of the Lake",
+  "total": 49,
+  "unlocked": 49,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:32.672169+00:00",
+  "achievements": [
+    {
+      "apiname": "D1PMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786923555,
+      "name": "Petting the Horse",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1MMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786924278,
+      "name": "Exercising with Mr. Aldous",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1MHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937046,
+      "name": "Feeding the Cat",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1AHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937158,
+      "name": "Small Repairs",
+      "description": "Afternoon, Day 1"
+    },
+    {
+      "apiname": "D1AMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937434,
+      "name": "Ruining the Bouquet",
+      "description": "Afternoon, Day 1"
+    },
+    {
+      "apiname": "D1EHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937559,
+      "name": "Serving Matcha Latte",
+      "description": "Serving Tea"
+    },
+    {
+      "apiname": "D1EMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937600,
+      "name": "Soothing the Baby",
+      "description": "Evening, Day 1"
+    },
+    {
+      "apiname": "D1NHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937697,
+      "name": "Checking for Intruders",
+      "description": "Night, Day 1"
+    },
+    {
+      "apiname": "D1NMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786927256,
+      "name": "Chase away the Crow",
+      "description": "Night, Day 1"
+    },
+    {
+      "apiname": "D1_P_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786923722,
+      "name": "The Arrival",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1_M_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786924445,
+      "name": "Waking up Aldous",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1_M_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786923885,
+      "name": "Preparing Breakfast",
+      "description": "Morning, Day 1"
+    },
+    {
+      "apiname": "D1_A_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786925600,
+      "name": "Welcoming the Guests",
+      "description": "Afternoon, Day 1"
+    },
+    {
+      "apiname": "D1_A_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786924776,
+      "name": "Preparing the Reception",
+      "description": "Afternoon, Day 1"
+    },
+    {
+      "apiname": "D1_E_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786926788,
+      "name": "Opening the Reunion",
+      "description": "Evening, Day 1"
+    },
+    {
+      "apiname": "D1_E_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786925808,
+      "name": "Serving Tea",
+      "description": "Evening, Day 1"
+    },
+    {
+      "apiname": "D1_N_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786927614,
+      "name": "Searching the Attic",
+      "description": "Night, Day 1"
+    },
+    {
+      "apiname": "D1_N_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786927072,
+      "name": "The Night Watch",
+      "description": "Night, Day 1"
+    },
+    {
+      "apiname": "D2MMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937894,
+      "name": "Tickling Mr. William",
+      "description": "Morning, Day 2"
+    },
+    {
+      "apiname": "D2MHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937774,
+      "name": "Serving Mr. Aldous his Favorite Coffee",
+      "description": "Morning, Day 2"
+    },
+    {
+      "apiname": "D2AMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786929216,
+      "name": "A Perfect Hunt",
+      "description": "Afternoon, Day 2"
+    },
+    {
+      "apiname": "D2AHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786937980,
+      "name": "Deep Cleaning",
+      "description": "Afternoon, Day 2"
+    },
+    {
+      "apiname": "D2EMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786930350,
+      "name": "Cleaning the Windows",
+      "description": "Evening, Day 2"
+    },
+    {
+      "apiname": "D2EHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786929534,
+      "name": "Close Inspections",
+      "description": "Evening, Day 2"
+    },
+    {
+      "apiname": "D2NMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786931583,
+      "name": "Pest Control",
+      "description": "Night, Day 2"
+    },
+    {
+      "apiname": "D2NHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786930686,
+      "name": "Garbage Disposal",
+      "description": "Night, Day 2"
+    },
+    {
+      "apiname": "D2_M_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786928646,
+      "name": "Waking up William",
+      "description": "Morning, Day 2"
+    },
+    {
+      "apiname": "D2_M_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786927941,
+      "name": "Preparing Coffee",
+      "description": "Morning, Day 2"
+    },
+    {
+      "apiname": "D2_A_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786929411,
+      "name": "Going Hunting",
+      "description": "Afternoon, Day 2"
+    },
+    {
+      "apiname": "D2_A_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786928905,
+      "name": "Cleaning the Floors",
+      "description": "Afternoon, Day 2"
+    },
+    {
+      "apiname": "D2_E_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786930609,
+      "name": "Helping with Bathing",
+      "description": "Evening, Day 2"
+    },
+    {
+      "apiname": "D2_E_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786929659,
+      "name": "Doing the Washing",
+      "description": "Evening, Day 2"
+    },
+    {
+      "apiname": "D2_N_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786931812,
+      "name": "Inspecting the Cellar",
+      "description": "Night, Day 2"
+    },
+    {
+      "apiname": "D2_N_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786930841,
+      "name": "Night Time Duties",
+      "description": "Night, Day 2"
+    },
+    {
+      "apiname": "D3MMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786933071,
+      "name": "Animal testing",
+      "description": "Morning, Day 3"
+    },
+    {
+      "apiname": "D3MHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786938146,
+      "name": "Petting the Cat",
+      "description": "Morning, Day 3"
+    },
+    {
+      "apiname": "D3AMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786938500,
+      "name": "Seasoning the Soup",
+      "description": "Afternoon, Day 3"
+    },
+    {
+      "apiname": "D3AHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786938167,
+      "name": "Checking the Furniture",
+      "description": "Afternoon, Day 3"
+    },
+    {
+      "apiname": "D3EMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786935210,
+      "name": "Safety Test",
+      "description": "Evening, Day 3"
+    },
+    {
+      "apiname": "D3EHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786938648,
+      "name": "Finishing Touch",
+      "description": "Evening, Day 3"
+    },
+    {
+      "apiname": "D3NMAchievement",
+      "achieved": 1,
+      "unlocktime": 1786938685,
+      "name": "First Aid",
+      "description": "Night, Day 3"
+    },
+    {
+      "apiname": "D3_M_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786933112,
+      "name": "Assisting in Alchemy",
+      "description": "Morning, Day 3"
+    },
+    {
+      "apiname": "D3_M_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786932147,
+      "name": "Looking for the Cat",
+      "description": "Morning, Day 3"
+    },
+    {
+      "apiname": "D3_A_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786934081,
+      "name": "Preparing Dinner",
+      "description": "Afternoon, Day 3"
+    },
+    {
+      "apiname": "D3_A_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786933293,
+      "name": "Unforeseen Maintenance",
+      "description": "Afternoon, Day 3"
+    },
+    {
+      "apiname": "D3_E_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786935250,
+      "name": "Dressing up for Dinner",
+      "description": "Evening, Day 3"
+    },
+    {
+      "apiname": "D3_E_H_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786934691,
+      "name": "Serving Dinner",
+      "description": "Evening, Day 3"
+    },
+    {
+      "apiname": "D3_N_M_CAchievement",
+      "achieved": 1,
+      "unlocktime": 1786935738,
+      "name": "The Departure",
+      "description": "Night, Day 3"
+    },
+    {
+      "apiname": "D3NHAchievement",
+      "achieved": 1,
+      "unlocktime": 1786936413,
+      "name": "You've found him!",
+      "description": "Secret Location"
+    }
+  ]
+}

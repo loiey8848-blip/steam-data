@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 228300,
+  "game": "Remember Me",
+  "total": 50,
+  "unlocked": 3,
+  "percent": 6.0,
+  "updated_at_utc": "2026-09-15T06:48:39.442274+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_1",
+      "achieved": 1,
+      "unlocktime": 1532513746,
+      "name": "Dead man's chest",
+      "description": "Finish episode 0"
+    },
+    {
+      "apiname": "Achievement_2",
+      "achieved": 1,
+      "unlocktime": 1532765218,
+      "name": "Forged alliance",
+      "description": "Finish episode 1"
+    },
+    {
+      "apiname": "Achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Christmas is over",
+      "description": "Finish episode 2"
+    },
+    {
+      "apiname": "Achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jail break-in",
+      "description": "Finish episode 3"
+    },
+    {
+      "apiname": "Achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Murder incorporated",
+      "description": "Finish episode 4"
+    },
+    {
+      "apiname": "Achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are you my mummy?",
+      "description": "Finish episode 5"
+    },
+    {
+      "apiname": "Achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mind craft",
+      "description": "Finish episode 6"
+    },
+    {
+      "apiname": "Achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Towering inferno",
+      "description": "Finish episode 7"
+    },
+    {
+      "apiname": "Achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Script Kiddie",
+      "description": "Finish the game in Script Kiddie Mode"
+    },
+    {
+      "apiname": "Achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Errorist Agent",
+      "description": "Finish the game in Errorist Agent Mode"
+    },
+    {
+      "apiname": "Achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MemHunter Elite",
+      "description": "Finish the game in Memory Hunter Mode"
+    },
+    {
+      "apiname": "Achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I know kung fu",
+      "description": "Equip 17 Pressens at least once in your Combos"
+    },
+    {
+      "apiname": "Achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rust in Peace",
+      "description": "Destroy the Zorn that chased you in the prologue"
+    },
+    {
+      "apiname": "Achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Float like a butterfly",
+      "description": "Beat Kid X-Mas in under 5 minutes without dying"
+    },
+    {
+      "apiname": "Achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The wheat and the chaff",
+      "description": "Beat Madame without hitting any of her clones"
+    },
+    {
+      "apiname": "Achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final overload",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leader of the pack",
+      "description": "Beat a Mourner without beating its supporting sidekicks"
+    },
+    {
+      "apiname": "Achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Out of the friend Zorn",
+      "description": "Beat a Zorn in under 120 seconds"
+    },
+    {
+      "apiname": "Achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You missed me",
+      "description": "Dodge a Skinner's charge five times in a row"
+    },
+    {
+      "apiname": "Achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The fallen",
+      "description": "Make 50 Leapers fall off walls"
+    },
+    {
+      "apiname": "Achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fiat lux!",
+      "description": "Beat 15 Stranglers without using the Sensen DOS"
+    },
+    {
+      "apiname": "Achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The shield is down!",
+      "description": "Destroy 20 Heavy Enforcer shields"
+    },
+    {
+      "apiname": "Achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fuzzy logic",
+      "description": "Hit 5 enemies at once with a Logic Bomb while they are stunned by the Sensen DOS"
+    },
+    {
+      "apiname": "Achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fury lover",
+      "description": "Reach x14 with the Sensen Fury"
+    },
+    {
+      "apiname": "Achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Machines do it better",
+      "description": "Use the Sensen RIP to make robots knock 20 human enemies out"
+    },
+    {
+      "apiname": "Achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I do like spam!",
+      "description": "Finish 15 Enforcers off with the Spammer"
+    },
+    {
+      "apiname": "Achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of the ring",
+      "description": "Beat 15 enemies by making them fall off a platform"
+    },
+    {
+      "apiname": "Achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "400",
+      "description": "Beat 400 enemies"
+    },
+    {
+      "apiname": "Achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serve the servant",
+      "description": "Beat 20 robot enemies"
+    },
+    {
+      "apiname": "Achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "8-hit wonder",
+      "description": "Perform 40 8-hit Combos"
+    },
+    {
+      "apiname": "Achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dropping L-Bombs",
+      "description": "Trigger two Logic Bombs in less than 15 seconds"
+    },
+    {
+      "apiname": "Achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't touch this",
+      "description": "Defeat 5 Elite Enforcers without using Combos or Spammer attacks"
+    },
+    {
+      "apiname": "Achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen of the hill",
+      "description": "Survive the entire Leaking Brain assault (episode 3) without using Power or Regen Pressens"
+    },
+    {
+      "apiname": "Achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mix'em all",
+      "description": "Land 10 Combos that combine the four different Pressen types"
+    },
+    {
+      "apiname": "Achievement_35",
+      "achieved": 1,
+      "unlocktime": 1532765071,
+      "name": "Medical malpractice",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crime of passion",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birthday crash",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biter bit",
+      "description": ""
+    },
+    {
+      "apiname": "Achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbelievable truth",
+      "description": "Reach all memory bugs in all memory remixes"
+    },
+    {
+      "apiname": "Achievement_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God is a DJ",
+      "description": "Find and activate all interactions in all memory remixes"
+    },
+    {
+      "apiname": "Achievement_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You talkin' to me?",
+      "description": "In the Olga memory remix: have David awaken and talk to Olga"
+    },
+    {
+      "apiname": "Achievement_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trigger unhappy",
+      "description": "In the Forlan memory remix: have Forlan get the gun, argue with Alexia but not kill her"
+    },
+    {
+      "apiname": "Achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy birthday",
+      "description": "In the Scylla memory remix: have Scylla and Nilin avoid the accident and get on their way home"
+    },
+    {
+      "apiname": "Achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power off",
+      "description": "In the final memory remix: have Jax short-circuit, but keep everybody safe"
+    },
+    {
+      "apiname": "Achievement_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Droning by numbers",
+      "description": "Get hit 5 times by a drone during a playthrough, on any given difficulty"
+    },
+    {
+      "apiname": "Achievement_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open mind",
+      "description": "Perform your first memory steal on Bad Request"
+    },
+    {
+      "apiname": "Achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest control",
+      "description": "Find all Scaramechs"
+    },
+    {
+      "apiname": "Achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gotta patch them all!",
+      "description": "Find all SAT Patches"
+    },
+    {
+      "apiname": "Achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You focus",
+      "description": "Find all Focus Boosts"
+    },
+    {
+      "apiname": "Achievement_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's all in the details",
+      "description": "Find all Mnesist memories"
+    }
+  ]
+}

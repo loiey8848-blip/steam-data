@@ -1,0 +1,760 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1278540,
+  "game": "Esports Godfather",
+  "total": 107,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:15.842463+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cybercafe Kid's Counterattack - Prologue",
+      "description": "Complete Challenger Series."
+    },
+    {
+      "apiname": "2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Horse",
+      "description": "Enter playoffs of League 2."
+    },
+    {
+      "apiname": "3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second-tier Team",
+      "description": "Promote to League 1."
+    },
+    {
+      "apiname": "4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thriving",
+      "description": "Enter playoffs of League 1."
+    },
+    {
+      "apiname": "5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First-tier Team",
+      "description": "Promote to Premiere League."
+    },
+    {
+      "apiname": "6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scaling the Summit",
+      "description": "Enter playoffs of Premiere League."
+    },
+    {
+      "apiname": "7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominating the Division",
+      "description": "Claim the champion of Premiere League."
+    },
+    {
+      "apiname": "8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Certified",
+      "description": "Get your coach certification."
+    },
+    {
+      "apiname": "9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonstrating Gaming Understanding",
+      "description": "Try to use Coach Note."
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Excellent Coach",
+      "description": "Coach Rank reaches B."
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top-tier League Coach",
+      "description": "Coach Rank reaches S."
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World's Best Coach",
+      "description": "Coach Rank reaches SS."
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fans Club",
+      "description": "Have 2500 followers in total."
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fans Group 5",
+      "description": "Have 10000 followers in total."
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fans Alliance",
+      "description": "Have 100000 followers in total."
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream League",
+      "description": "At least 3 of your ahtletes are simultaneously named to the All-Season First Team."
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Season Star",
+      "description": "Your athlete wins the Season Star."
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Online Team",
+      "description": "Gain 500 Training Points."
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Flat",
+      "description": "Gain 1000 Training Points."
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luxury Training Base",
+      "description": "Gain 5000 Training Points."
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Power",
+      "description": "Have an athlete with total attribute of 500."
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diligence",
+      "description": "Have an athlete with maximum attribute level of 115."
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Max Level Runes",
+      "description": "Have an athlete with 5 level-3 skills."
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Heroes",
+      "description": "Have an athlete with at least 3 heroes of \"Legend\" mastery level."
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Superstar",
+      "description": "Have an athlete with at least 100000 followers."
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GG WP",
+      "description": "Win a match by playing \"Close Out the Game\"."
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary",
+      "description": "Achieve \"Legendary\" for once."
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Kill",
+      "description": "Achieve \"Triple Kill\" for once."
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Penta Kill",
+      "description": "Achieve \"Penta Kill\" for once."
+    },
+    {
+      "apiname": "30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary × 20",
+      "description": "Achieve \"Legendary\" for 20 times."
+    },
+    {
+      "apiname": "31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Heroes Challenge",
+      "description": "Use each hero for at least once."
+    },
+    {
+      "apiname": "32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where's the kill?",
+      "description": "Win a match without death of ally heroes."
+    },
+    {
+      "apiname": "33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Medal Wall",
+      "description": "A single athlete gains at least 9 medals in one match."
+    },
+    {
+      "apiname": "34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fountain Diving",
+      "description": "Achieve a kill in a fight at the enemy Hexus."
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comprehensive Attack",
+      "description": "Initiate 3 fights within the same Deployment Phase."
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ordinary Punch",
+      "description": "Inflict over 9999 damage in a single hit during fights."
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nano Machine",
+      "description": "Have a hero with at least 2500 shield in a fight."
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learning Medicine Can't Save...",
+      "description": "Achieve a kill using Tivie or Palulu."
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Should Go for Head",
+      "description": "Achieve a kill while with the \"Walking Dead\" or \"Dissonance\" effect."
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duel Sta...Over!",
+      "description": "Use Lubos and win a \"Duel\" using only his special attack."
+    },
+    {
+      "apiname": "41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fury Master",
+      "description": "Use Bunu Shan and gain \"Awaken\" before round 45."
+    },
+    {
+      "apiname": "42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking off Sunglasses",
+      "description": "Use Bajie and gain 100% Crit Rate before round 50."
+    },
+    {
+      "apiname": "43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Is Called Professionalism",
+      "description": "Use Lan and complete all \"Step C\" upgrades before round 45."
+    },
+    {
+      "apiname": "44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Slash",
+      "description": "Use Xiangxi Ke and kill 1 enemy unit by her extra attack (Hero feat) and trigger extra attack again."
+    },
+    {
+      "apiname": "45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Who Can't Kill Me...",
+      "description": "Use Frank and increase Max HP by at least 6000 using hero feat in one match."
+    },
+    {
+      "apiname": "46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banno Circus",
+      "description": "Use Deep Space and use \"Volley\" to simultaneously kill 2 enemy heroes."
+    },
+    {
+      "apiname": "47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bigger And Taller",
+      "description": "Use Kaka and evolve the Stone Hound to its maximum size (trigger the Stone Curse 5 times)."
+    },
+    {
+      "apiname": "48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hawk And Hound",
+      "description": "Initiate a fight that Stone Hound and Wild Heart are the only ally units, and achieve a kill."
+    },
+    {
+      "apiname": "49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Guilty",
+      "description": "Use Kid, stack \"Verdict\" (trigger Kid's hero feat) at least 8 times in one fight."
+    },
+    {
+      "apiname": "50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Will Happen?",
+      "description": "Use Tiger Boy and play \"Mischief\" to Wukong."
+    },
+    {
+      "apiname": "51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Attendance Failed",
+      "description": "Make the enemy Miki absent from a Dragon teamfight."
+    },
+    {
+      "apiname": "52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Journey - League 1",
+      "description": "In Hell difficulty (without any other adjustments), promote to League 1."
+    },
+    {
+      "apiname": "53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Journey - Premiere League",
+      "description": "In Hell difficulty (without any other adjustments), promote to Premiere League."
+    },
+    {
+      "apiname": "54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Journey - Dominating the Division",
+      "description": "In Hell difficulty (without any other adjustments), claim the champion of Premier League."
+    },
+    {
+      "apiname": "55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 0."
+    },
+    {
+      "apiname": "56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 1."
+    },
+    {
+      "apiname": "57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Epic Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 2."
+    },
+    {
+      "apiname": "58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 3."
+    },
+    {
+      "apiname": "59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 4."
+    },
+    {
+      "apiname": "60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Conqueror",
+      "description": "(TCS Division) Complete any stage on Difficulty 5."
+    },
+    {
+      "apiname": "61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Conquerors",
+      "description": "(TCS Division) Complete any stage on Difficulty 6."
+    },
+    {
+      "apiname": "62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Victory",
+      "description": "\"(TCS Division) Complete World Championship without consuming Insurance. -NOTE: Don't use \"\"skip last game\"\" because it consumes Insurance.\""
+    },
+    {
+      "apiname": "63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "24K Gold",
+      "description": "(TCS Division) Have a hero equipped with 6 Level-4 skills."
+    },
+    {
+      "apiname": "64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overtime Till Dawn",
+      "description": "(TCS Division) Unlock all slots of Extra Training."
+    },
+    {
+      "apiname": "65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basic Hero Pool, Not-So-Basic TP",
+      "description": "(TCS Division) Complete any stage with at least 300 Training Points."
+    },
+    {
+      "apiname": "66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pinnacle",
+      "description": "Your Athlete becomes the first in the Hall of Fame."
+    },
+    {
+      "apiname": "67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Galaxy Battleship",
+      "description": "The top 5 in the Hall of Fame are all your Athletes."
+    },
+    {
+      "apiname": "68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Highlight Moment",
+      "description": "After a game, one of your athletes has earned over 100 Highlight Points."
+    },
+    {
+      "apiname": "69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Are the Champions",
+      "description": "(CPL/LTE Division) Win the World Championship."
+    },
+    {
+      "apiname": "70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How Lonely It Is to Be Invincible",
+      "description": "(CPL/LTE Division) Win the World Championship without any lose match."
+    },
+    {
+      "apiname": "71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World-Class Athlete",
+      "description": "Have an athlete equipped with 5 Level-4 skills."
+    },
+    {
+      "apiname": "72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Plan",
+      "description": "All your starting Athletes have 3 backup SP cards."
+    },
+    {
+      "apiname": "73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where Are My Cards?",
+      "description": "Reroll 5 times in a card shop."
+    },
+    {
+      "apiname": "74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Got Power",
+      "description": "Win a Showdown with Foso's shield exceeding his Max HP."
+    },
+    {
+      "apiname": "75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brick Fly",
+      "description": "Use Quinn to kill 3 enemy units in a single action."
+    },
+    {
+      "apiname": "76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Attendance Award",
+      "description": "Use Qin Hu to ensure the Shield Guard participates in every Fight."
+    },
+    {
+      "apiname": "77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upgrade Complete",
+      "description": "Use Ada to complete all upgrades before Round 40."
+    },
+    {
+      "apiname": "78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I will strike in an invincible form.",
+      "description": "Use Hass while having 4 or more different buff effects."
+    },
+    {
+      "apiname": "79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Finale",
+      "description": "Use Justice to eliminate the enemy Nexus with Justice Execute."
+    },
+    {
+      "apiname": "80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Club",
+      "description": "The club ranks 25th in the world."
+    },
+    {
+      "apiname": "81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top TOP",
+      "description": "Your TOP athlete ranks 25th in the world."
+    },
+    {
+      "apiname": "82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top JUG",
+      "description": "Your JUG athlete ranks 25th in the world."
+    },
+    {
+      "apiname": "83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top MID",
+      "description": "Your MID athlete ranks 25th in the world."
+    },
+    {
+      "apiname": "84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top BOT",
+      "description": "Your BOT athlete ranks 25th in the world."
+    },
+    {
+      "apiname": "85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top SUP",
+      "description": "Your SUP athlete ranks No.25 in the world."
+    },
+    {
+      "apiname": "86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strongest Club",
+      "description": "The club ranks No.1 in the world."
+    },
+    {
+      "apiname": "87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best TOP",
+      "description": "Your TOP athlete ranks No.1 in the world."
+    },
+    {
+      "apiname": "88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best JUG",
+      "description": "Your JUG athlete ranks No.1 in the world."
+    },
+    {
+      "apiname": "89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best MID",
+      "description": "Your MID athlete ranks No.1 in the world."
+    },
+    {
+      "apiname": "90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best BOT",
+      "description": "Your BOT athlete ranks No.1 in the world."
+    },
+    {
+      "apiname": "91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best SUP",
+      "description": "Your SUP Athlete ranks No.1 in the world."
+    },
+    {
+      "apiname": "92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scaling the Summit - The League of Tactical Elite",
+      "description": "(LTE Division) Enter the playoffs of the Premier League."
+    },
+    {
+      "apiname": "93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominate the Division - The League of Tactical Elite",
+      "description": "(LTE Division) Win the Premier League championship."
+    },
+    {
+      "apiname": "94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tactical Ocean",
+      "description": "(LTE Division) Accumulate the use of 50 different version rules."
+    },
+    {
+      "apiname": "95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Clothes",
+      "description": "(LTE Division) Ban a version rule that was previously used."
+    },
+    {
+      "apiname": "96",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resistance",
+      "description": "(LTE Division) Ban the same version rule more than 3 times."
+    },
+    {
+      "apiname": "99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starry Brilliance",
+      "description": "Sign a total of 12 athletes."
+    },
+    {
+      "apiname": "100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talent Pipeline",
+      "description": "List a total of 10 athletes for sale."
+    },
+    {
+      "apiname": "101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shopaholic",
+      "description": "Sign at least 5 Athletes in one transfer window."
+    },
+    {
+      "apiname": "102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Money Rain",
+      "description": "The venue's single income exceeds 3000000 (3M) budget."
+    },
+    {
+      "apiname": "103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends from Afar",
+      "description": "Single match attendance exceeds 2000 in the venue."
+    },
+    {
+      "apiname": "104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Million Fans",
+      "description": "Have 1000000 followers in total."
+    },
+    {
+      "apiname": "105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "The venue's spectator area achieved \"full house\" for the first time."
+    },
+    {
+      "apiname": "106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvest",
+      "description": "The venue's cumulative income exceeds 1000000 (1M) budget."
+    },
+    {
+      "apiname": "107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bountiful Harvest",
+      "description": "The venue's cumulative income exceeds 10000000 (10M) budget."
+    },
+    {
+      "apiname": "108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Bowl",
+      "description": "The venue's cumulative income exceeds 100000000 (100M) budget."
+    },
+    {
+      "apiname": "109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hell Journey - World Champion",
+      "description": "In Hell difficulty (without any other adjustments), claim the champion of World Championship."
+    }
+  ]
+}

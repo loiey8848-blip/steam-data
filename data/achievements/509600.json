@@ -1,0 +1,417 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 509600,
+  "game": "BattleTime",
+  "total": 58,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:06.591436+00:00",
+  "achievements": [
+    {
+      "apiname": "com.foggybus.battletime.playergotcoins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrooge",
+      "description": "To earn one million coins"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotstars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Trek",
+      "description": "To earn 800 stars"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional",
+      "description": "To improve skills of 300 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_aa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Wizard",
+      "description": "Improve skill Armor of Army of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_ap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Warrior",
+      "description": "Improve skill Power of Army of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_as",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Archer",
+      "description": "Improve skill the Speed of Army of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_ba",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Druid",
+      "description": "Improve skill Defense of Buildings of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_bp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Necromancer",
+      "description": "Improve skill Power of Towers of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotskillups_bs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Priest",
+      "description": "Improve skill the Gain of Troops of 50 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talented",
+      "description": "To improve super skills of 45 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_aa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Wizard",
+      "description": "Improve skill Super Armor of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_ap",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Warrior",
+      "description": "Improve skill Super Power of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_as",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Archer",
+      "description": "Improve skill the Super Speed of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_ba",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Druid",
+      "description": "Improve skill Super Defence of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_bp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Necromancer",
+      "description": "Improve skill of the Super Tower of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playergotboostups_bs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Priest",
+      "description": "Improve skill the Super Gain of 8 times"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slogging",
+      "description": "To finish 400 missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_simple",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beginner",
+      "description": "To finish 64 simple missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_normal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fighter",
+      "description": "To finish 64 normal missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": "To finish 64 expert missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_brutal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Berserk",
+      "description": "To finish 64 brutal missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerpassedmissions_unreal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheater",
+      "description": "To finish 64 unreal missions"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruthless",
+      "description": "To kill one million enemy soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_normal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Judge Dredd",
+      "description": "To kill 400000 normal enemy soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_speedy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash",
+      "description": "To kill 100000 fast enemy soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_strong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hulk",
+      "description": "To kill 100000 strong enemy soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Defender",
+      "description": "To kill 200000 enemy soldiers in defense"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_capture",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Invader",
+      "description": "To kill 200000 enemy soldiers at capture"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerkilledunits_crusade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best Tactician",
+      "description": "To kill 200000 enemy soldiers in a crusade"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merciful",
+      "description": "To lose 1048576 soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_normal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Militant",
+      "description": "To lose 524288 normal soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_speedy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marathonman",
+      "description": "To lose 131072 fast soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_strong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gladiator",
+      "description": "To lose 131072 strong soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worst Defender",
+      "description": "To lose 262144 soldiers in defense"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_capture",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worst Invader",
+      "description": "To lose 262144 soldiers at capture"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostunits_crusade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worst Tactician",
+      "description": "To lose 262144 soldiers in a crusade"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monarch",
+      "description": "To capture 6400 buildings"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_casarm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gentleman",
+      "description": "To capture 1600 barracks"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_castle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight",
+      "description": "To capture 400 castles"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_cannon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cannoneer",
+      "description": "To capture 400 magic towers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_smithy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armorer",
+      "description": "To capture 400 buildings of strong soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_stable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cavalryman",
+      "description": "To capture 400 buildings of fast soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_level1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leader",
+      "description": "To capture 1600 buildings of level 1"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_level2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mayor",
+      "description": "To capture 1280 buildings of level 2"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_level3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Landlord",
+      "description": "To capture 960 buildings of level 3"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_level4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Governor",
+      "description": "To capture 640 buildings of level 4"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playercapturedbuildings_level5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prince",
+      "description": "To capture 320 buildings of level 5"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disobedient",
+      "description": "To lose 4200 buildings"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_casarm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exhausted",
+      "description": "To lose 1200 barracks"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_castle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defenseless",
+      "description": "To lose 300 castles"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_cannon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unarmed",
+      "description": "To lose 300 magic towers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_smithy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powerless",
+      "description": "To lose 300 buildings with strong soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_stable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unhurried",
+      "description": "To lose 300 buildings with fast soldiers"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_level1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scratched",
+      "description": "To lose 1200 buildings of level 1"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_level2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battered",
+      "description": "To lose 960 buildings of level 2"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_level3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wounded",
+      "description": "To lose 720 buildings of level 3"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_level4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disfigured",
+      "description": "To lose 480 buildings of level 4"
+    },
+    {
+      "apiname": "com.foggybus.battletime.playerlostbuildings_level5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crushed",
+      "description": "To lose 240 buildings of level 5"
+    }
+  ]
+}

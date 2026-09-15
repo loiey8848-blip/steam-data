@@ -1,0 +1,1033 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 863550,
+  "game": "HITMAN™ 2",
+  "total": 146,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:04.326540+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Result of Previous Training",
+      "description": "Complete Freeform Training in the Prologue."
+    },
+    {
+      "apiname": "ACH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleared for Field Duty",
+      "description": "Complete The Final Test in the Prologue."
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seizing the Opportunity",
+      "description": "Complete any Mission Story in The Final Test."
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Creative Assassin",
+      "description": "Complete the Contract Creation Tutorial."
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unexpected Guest",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "K-36D",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defection Deterred",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Assassin",
+      "description": "Complete The Final Test unspotted. Kill only Jasper Knight, ensuring his body is not found."
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Security Defeated",
+      "description": "Arrange matters so that a guard finds a discarded weapon and moves it into the hangar."
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chameleon",
+      "description": "Change your disguise during The Final Test."
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Training Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in the ICA Facility."
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Contract Assassin",
+      "description": "Complete 10 Contracts."
+    },
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top of the Class",
+      "description": "Set the high score on a Contract."
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Profile",
+      "description": "Complete a Featured Contract."
+    },
+    {
+      "apiname": "ACH_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shhhh",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of the Trade",
+      "description": "Assassinate Targets with Ballistic, Accident and Explosion Kills."
+    },
+    {
+      "apiname": "ACH_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unseen Assassin",
+      "description": "Assassinate a Target without getting spotted."
+    },
+    {
+      "apiname": "ACH_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infiltrator",
+      "description": "Complete Nightcall."
+    },
+    {
+      "apiname": "ACH_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "House Cleaning",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blunt Trauma",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist",
+      "description": "Complete all Nightcall Challenges."
+    },
+    {
+      "apiname": "ACH_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strategic Disadvantage",
+      "description": "Complete Nightcall on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Prepared",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hawke's Bay."
+    },
+    {
+      "apiname": "ACH_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Local Knowledge",
+      "description": "Reach Hawke's Bay Mastery Level 5."
+    },
+    {
+      "apiname": "ACH_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damage Control",
+      "description": "Complete The Finish Line."
+    },
+    {
+      "apiname": "ACH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blaze of Glory",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pink Army",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Value",
+      "description": "Complete all Mission Stories in The Finish Line."
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Showrunner",
+      "description": "Complete The Finish Line on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Event Planner",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Miami."
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miami Wise",
+      "description": "Reach Miami Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tactical Strike",
+      "description": "Complete Three-Headed Serpent."
+    },
+    {
+      "apiname": "ACH_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cartel Wrecker",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Belongs in a Museum",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heads Will Roll",
+      "description": "Complete all Mission Stories in Three-Headed Serpent."
+    },
+    {
+      "apiname": "ACH_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost of the Jungle",
+      "description": "Complete Three-Headed Serpent on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Recon Specialist",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Santa Fortuna."
+    },
+    {
+      "apiname": "ACH_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Tourist",
+      "description": "Reach Santa Fortuna Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pirate Hunter",
+      "description": "Complete Chasing a Ghost."
+    },
+    {
+      "apiname": "ACH_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleaning the Streets",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Babyface",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Busy Schedule",
+      "description": "Complete all Mission Stories in Chasing a Ghost."
+    },
+    {
+      "apiname": "ACH_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Street Smart",
+      "description": "Complete Chasing a Ghost on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Urban Planner",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Mumbai."
+    },
+    {
+      "apiname": "ACH_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keys to the City",
+      "description": "Reach Mumbai Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Shot",
+      "description": "Complete Another Life."
+    },
+    {
+      "apiname": "ACH_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Domestic Accidents",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slow Travel",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Goes the Neighborhood",
+      "description": "Complete all Mission Stories in Another Life."
+    },
+    {
+      "apiname": "ACH_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Crime",
+      "description": "Complete Another Life on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Community Planner",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Whittleton Creek."
+    },
+    {
+      "apiname": "ACH_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pillar of the Community",
+      "description": "Reach Whittleton Creek Mastery Level 15."
+    },
+    {
+      "apiname": "ACH_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is Maintenance",
+      "description": "Complete The Ark Society."
+    },
+    {
+      "apiname": "ACH_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doing the Rounds",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leap of Faith",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anti-Survivalist",
+      "description": "Complete all Mission Stories in The Ark Society."
+    },
+    {
+      "apiname": "ACH_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Player",
+      "description": "Complete The Ark Society on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party Planner",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Isle of Sgàil."
+    },
+    {
+      "apiname": "ACH_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honorary Member",
+      "description": "Reach Isle of Sgàil Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peak Performance",
+      "description": "Get a score above 1,000,000 points on The Last Yardbird."
+    },
+    {
+      "apiname": "ACH_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cannon Fodder",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party-pooper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf",
+      "description": "Complete The Last Yardbird in Single Player."
+    },
+    {
+      "apiname": "ACH_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Sniper",
+      "description": "Complete The Last Yardbird as Silent Assassin."
+    },
+    {
+      "apiname": "ACH_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadly Duo",
+      "description": "Complete The Last Yardbird in Multiplayer."
+    },
+    {
+      "apiname": "ACH_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist",
+      "description": "Complete all The Last Yardbird Challenges."
+    },
+    {
+      "apiname": "ACH_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "When No One Else Dares",
+      "description": "Complete The Showstopper."
+    },
+    {
+      "apiname": "ACH_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Showstopper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meeting the Rieper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Many Ways to Stop the Show",
+      "description": "Complete all Mission Stories in The Showstopper."
+    },
+    {
+      "apiname": "ACH_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paris Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Paris."
+    },
+    {
+      "apiname": "ACH_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Prepared",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Paris."
+    },
+    {
+      "apiname": "ACH_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City of Light",
+      "description": "Reach Paris Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Die by the Sword",
+      "description": "Complete World of Tomorrow."
+    },
+    {
+      "apiname": "ACH_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sapienza Trinity",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let No Joyful Voice be Heard",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_76",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not in the Guidebook",
+      "description": "Complete all Mission Stories in World of Tomorrow."
+    },
+    {
+      "apiname": "ACH_77",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sapienza Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Sapienza."
+    },
+    {
+      "apiname": "ACH_78",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plan Ahead",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Sapienza."
+    },
+    {
+      "apiname": "ACH_79",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amalfi Pearl",
+      "description": "Reach Sapienza Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_80",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Big to Fail",
+      "description": "Complete A Gilded Cage."
+    },
+    {
+      "apiname": "ACH_81",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": ".50 Personal Touch",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_82",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unfortunate Fortune",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_83",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tourist Attractions",
+      "description": "Complete all Mission Stories in A Gilded Cage."
+    },
+    {
+      "apiname": "ACH_84",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marrakesh Escalated",
+      "description": "Complete Level 5 of an Escalation Contract set in Marrakesh."
+    },
+    {
+      "apiname": "ACH_85",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful Planning",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Marrakesh."
+    },
+    {
+      "apiname": "ACH_86",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Marrakesh",
+      "description": "Reach Marrakesh Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_87",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfectionist",
+      "description": "Complete Suit Only and Silent Assassin Challenges on The Icon or A House Built on Sand."
+    },
+    {
+      "apiname": "ACH_88",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Night at the Movies",
+      "description": "Complete The Icon."
+    },
+    {
+      "apiname": "ACH_89",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stealing the Spotlight",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_90",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Touring the Film Set",
+      "description": "Complete all Mission Stories in The Icon."
+    },
+    {
+      "apiname": "ACH_91",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moroccan Nights",
+      "description": "Complete A House Built on Sand."
+    },
+    {
+      "apiname": "ACH_92",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Series of Unfortunate Events",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_93",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Golden Opportunity",
+      "description": "Complete all Mission Stories in A House Built on Sand."
+    },
+    {
+      "apiname": "ACH_94",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bravissimo",
+      "description": "Complete Landslide."
+    },
+    {
+      "apiname": "ACH_95",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your Vote Counts",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_96",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finito",
+      "description": "Complete all Mission Stories in Landslide."
+    },
+    {
+      "apiname": "ACH_97",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shining Bright",
+      "description": "Complete Club 27."
+    },
+    {
+      "apiname": "ACH_98",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drop the Bass",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elephants Never Forget",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guest Starring",
+      "description": "Complete all Mission Stories in Club 27."
+    },
+    {
+      "apiname": "ACH_101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bangkok Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Bangkok."
+    },
+    {
+      "apiname": "ACH_102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scouting for Talent",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Bangkok."
+    },
+    {
+      "apiname": "ACH_103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Night in Bangkok",
+      "description": "Reach Bangkok Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guerrilla Warfare",
+      "description": "Complete Freedom Fighters."
+    },
+    {
+      "apiname": "ACH_105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soup Sandwich",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giddy Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Feather In Your Cap",
+      "description": "Complete all Mission Stories in Freedom Fighters."
+    },
+    {
+      "apiname": "ACH_108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colorado Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Colorado."
+    },
+    {
+      "apiname": "ACH_109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Joint Operation",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Colorado."
+    },
+    {
+      "apiname": "ACH_110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mission Complete",
+      "description": "Reach Colorado Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_111",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Long Time Coming",
+      "description": "Complete Situs Inversus."
+    },
+    {
+      "apiname": "ACH_112",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Old and New",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_113",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flatline",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_114",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sensei",
+      "description": "Complete all Mission Stories in Situs Inversus."
+    },
+    {
+      "apiname": "ACH_115",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hokkaido Escalated",
+      "description": "Complete level 5 of an Escalation Contract set in Hokkaido."
+    },
+    {
+      "apiname": "ACH_116",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Prepared",
+      "description": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hokkaido."
+    },
+    {
+      "apiname": "ACH_117",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sayōnara",
+      "description": "Reach Hokkaido Mastery Level 20."
+    },
+    {
+      "apiname": "ACH_118",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seven Figures",
+      "description": "Get a score above 1,000,000 points on The Pen and the Sword."
+    },
+    {
+      "apiname": "ACH_119",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Floating",
+      "description": "Shoot all buoys in the water."
+    },
+    {
+      "apiname": "ACH_120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forklift Tagging",
+      "description": "Shoot and hit the forklift driving around in the far section of the harbor."
+    },
+    {
+      "apiname": "ACH_121",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Save the Poet",
+      "description": "Complete The Pen and the Sword in Single Player."
+    },
+    {
+      "apiname": "ACH_122",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hawkeye",
+      "description": "Complete The Pen and the Sword as Silent Assassin."
+    },
+    {
+      "apiname": "ACH_123",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Trouble",
+      "description": "Complete The Pen and the Sword in Multiplayer."
+    },
+    {
+      "apiname": "ACH_124",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pure Poetry",
+      "description": "Complete all The Pen and the Sword Challenges."
+    },
+    {
+      "apiname": "ACH_125",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break the Bank",
+      "description": "Complete Golden Handshake."
+    },
+    {
+      "apiname": "ACH_126",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defenestration",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_127",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Award-Core",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_128",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lock, Stock, and Barrel",
+      "description": "Complete all Mission Stories in Golden Handshake."
+    },
+    {
+      "apiname": "ACH_129",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gold Account",
+      "description": "Complete Golden Handshake on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_130",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under the Radar",
+      "description": "Select a Starting Location and use an Informant to smuggle an item into Milton-Fitzpatrick."
+    },
+    {
+      "apiname": "ACH_131",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top of the Heap",
+      "description": "Reach New York Mastery Level 15."
+    },
+    {
+      "apiname": "ACH_132",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In a League of Their Own",
+      "description": "Get a score above 1,000,000 points on Crime and Punishment."
+    },
+    {
+      "apiname": "ACH_133",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fragile Alliance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_134",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Shooter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_135",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Falcon and the Snowman",
+      "description": "Complete Crime and Punishment in Single Player."
+    },
+    {
+      "apiname": "ACH_136",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Knew What Hit Them",
+      "description": "Complete Crime and Punishment as Silent Assassin."
+    },
+    {
+      "apiname": "ACH_137",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two for One",
+      "description": "Complete Crime and Punishment in Multiplayer."
+    },
+    {
+      "apiname": "ACH_138",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Capital Punishment",
+      "description": "Complete all Crime and Punishment Challenges."
+    },
+    {
+      "apiname": "ACH_139",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Island and Chill",
+      "description": "Complete The Last Resort."
+    },
+    {
+      "apiname": "ACH_140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dundee",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_141",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pleasure",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_142",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Complete all Mission Stories for The Last Resort."
+    },
+    {
+      "apiname": "ACH_143",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Platinum Package",
+      "description": "Complete The Last Resort on Master Difficulty."
+    },
+    {
+      "apiname": "ACH_144",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Luggage",
+      "description": "Select a Starting Location and use an Informant to smuggle an item onto Haven Island."
+    },
+    {
+      "apiname": "ACH_145",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Null and Void",
+      "description": "Reach Haven Island Mastery Level 20."
+    }
+  ]
+}

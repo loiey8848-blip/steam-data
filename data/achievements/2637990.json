@@ -1,0 +1,60 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2637990,
+  "game": "Duck Detective: The Secret Salami",
+  "total": 7,
+  "unlocked": 7,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:53.182091+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement.EarlyBird",
+      "achieved": 1,
+      "unlocktime": 1780907729,
+      "name": "Early Bird",
+      "description": "Solve a deducktion"
+    },
+    {
+      "apiname": "Achievement.FitsBill",
+      "achieved": 1,
+      "unlocktime": 1780908268,
+      "name": "Fits the Bill",
+      "description": "Complete 5 inspections"
+    },
+    {
+      "apiname": "Achievement.PoultryCase",
+      "achieved": 1,
+      "unlocktime": 1780908895,
+      "name": "Poultry Case",
+      "description": "Solve 5 deducktions"
+    },
+    {
+      "apiname": "Achievement.DucksRow",
+      "achieved": 1,
+      "unlocktime": 1780908865,
+      "name": "Ducks in a Row",
+      "description": "Fill out all suspects' names"
+    },
+    {
+      "apiname": "Achievement.BeakPerformance",
+      "achieved": 1,
+      "unlocktime": 1780909481,
+      "name": "Beak Performance",
+      "description": "Solve 10 deducktions"
+    },
+    {
+      "apiname": "Achievement.Emusing",
+      "achieved": 1,
+      "unlocktime": 1780908667,
+      "name": "Rage Uncaged",
+      "description": "Kick over all the bins at BearBus office"
+    },
+    {
+      "apiname": "Achievement.Quacked",
+      "achieved": 1,
+      "unlocktime": 1780910498,
+      "name": "Quacked the Case",
+      "description": "Solve the mystery of the Secret Salami"
+    }
+  ]
+}

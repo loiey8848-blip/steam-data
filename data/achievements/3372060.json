@@ -1,0 +1,515 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3372060,
+  "game": "Hell Maiden",
+  "total": 72,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:29.655551+00:00",
+  "achievements": [
+    {
+      "apiname": "SoulMagister",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Magister",
+      "description": "Defeat Queen Minos."
+    },
+    {
+      "apiname": "GoldenSatirist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Satirist",
+      "description": "Rescue Horace."
+    },
+    {
+      "apiname": "CrystalEyedBard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crystal-eyed Bard",
+      "description": "Rescue Homer."
+    },
+    {
+      "apiname": "AstralWayfarer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Astral Wayfarer",
+      "description": "Use Blazing Quill in Limbo twice."
+    },
+    {
+      "apiname": "ConquererOfLimbo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Limbo",
+      "description": "Survive 12 minutes in Circle 1, Limbo."
+    },
+    {
+      "apiname": "ConquererOfLust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of Lust",
+      "description": "Survive 12 minutes in Circle 2, Lust."
+    },
+    {
+      "apiname": "MalebranchePunisher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Malebranche Punisher",
+      "description": "Defeat Libicocco and Scarmiglione."
+    },
+    {
+      "apiname": "SalamanderInquisitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salamander Inquisitor",
+      "description": "Defeat Scarmiglione in Circle 2, Lust."
+    },
+    {
+      "apiname": "CeruleanImago",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cerulean Imago",
+      "description": "Rescue Ovid."
+    },
+    {
+      "apiname": "TabooArtsI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taboo Arts I",
+      "description": "Defeat Queen Minos three separate times."
+    },
+    {
+      "apiname": "TabooArtsII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taboo Arts II",
+      "description": "Defeat Libicocco and Scarmiglione three separate times."
+    },
+    {
+      "apiname": "BrotchiHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brotchi Hunter",
+      "description": "Kill 2000 Brotchi enemies."
+    },
+    {
+      "apiname": "InfernalProwessI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infernal Prowess I",
+      "description": "Reach Level 50."
+    },
+    {
+      "apiname": "HeavenlyGift",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavenly Gift",
+      "description": "Get a Charm of Crystal rarity."
+    },
+    {
+      "apiname": "DevilishTalent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devilish Talent",
+      "description": "Deal 200.000 damage with a single weapon in a single run."
+    },
+    {
+      "apiname": "HellishMasteryI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellish Mastery I",
+      "description": "Reach a high-score of 100.000 in Circle 1, Limbo."
+    },
+    {
+      "apiname": "HellishMasteryII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hellish Mastery II",
+      "description": "Reach a high-score of 100.000 in Circle 2, Lust."
+    },
+    {
+      "apiname": "WeaponMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": "Get a full hand of Weapon cards in a single run."
+    },
+    {
+      "apiname": "StrategyMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strategy Master",
+      "description": "Get a full hand of Weapon and Mod cards in a single run."
+    },
+    {
+      "apiname": "SoulOfPoetI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul of Poet I",
+      "description": "Equip all of Dante's Weapon cards."
+    },
+    {
+      "apiname": "EssenceOfPoetI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Essence of Poet I",
+      "description": "Equip all of Dante's Mod cards."
+    },
+    {
+      "apiname": "SoulOfPoetII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul of Poet II",
+      "description": "Equip all of Virgil's Weapon cards."
+    },
+    {
+      "apiname": "EssenceOfPoetII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Essence of Poet II",
+      "description": "Equip all of Virgil's Mod cards."
+    },
+    {
+      "apiname": "SoulOfPoetIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul of Poet III",
+      "description": "Equip all of Horace's Weapon cards."
+    },
+    {
+      "apiname": "EssenceOfPoetIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Essence of Poet III",
+      "description": "Equip all of Horace's Mod cards."
+    },
+    {
+      "apiname": "SoulOfPoetIV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul of Poet IV",
+      "description": "Equip all of Homer's Weapon cards."
+    },
+    {
+      "apiname": "EssenceOfPoetIV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Essence of Poet IV",
+      "description": "Equip all of Homer's Mod cards."
+    },
+    {
+      "apiname": "SoulOfPoetV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul of Poet V",
+      "description": "Equip all of Ovid's Weapon cards."
+    },
+    {
+      "apiname": "EssenceOfPoetV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Essence of Poet V",
+      "description": "Equip all of Ovid's Mod cards."
+    },
+    {
+      "apiname": "ModMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mod Master",
+      "description": "Equip three Level 3 Mod cards onto a single Weapon card."
+    },
+    {
+      "apiname": "PerfectHand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Hand",
+      "description": "Get a full hand of Level 3 Mod cards in a single run."
+    },
+    {
+      "apiname": "Bloodthirsty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bloodthirsty",
+      "description": "Kill 2500 enemies in a single run."
+    },
+    {
+      "apiname": "DevoutPilgrim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devout Pilgrim",
+      "description": "Activate all available Temple types."
+    },
+    {
+      "apiname": "PiousPilgrim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pious Pilgrim",
+      "description": "Activate 12 different Temples in a single run."
+    },
+    {
+      "apiname": "VitalEnduranceI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vital Endurance I",
+      "description": "Beat Circle 1, Limbo, without healing more than 500 HP."
+    },
+    {
+      "apiname": "VitalEnduranceII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vital Endurance II",
+      "description": "Beat Circle 2, Lust, without healing more than 500 HP."
+    },
+    {
+      "apiname": "WayfinderI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wayfinder I",
+      "description": "Use Virgil's Wayfinder."
+    },
+    {
+      "apiname": "WayfinderII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wayfinder II",
+      "description": "Use Virgil's Spell."
+    },
+    {
+      "apiname": "SuccubiHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Succubi Hunter",
+      "description": "Kill 250 Succubus enemies in Circle 2, Lust."
+    },
+    {
+      "apiname": "WayfinderIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wayfinder III",
+      "description": "Beat Circle 1, Limbo, using Virgil's Wayfinder."
+    },
+    {
+      "apiname": "EliteKillerI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Killer I",
+      "description": "Kill the Elite Viper enemy in Circle 2, Lust."
+    },
+    {
+      "apiname": "SkeletonHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeleton Hunter",
+      "description": "Kill 1000 Skeleton enemies."
+    },
+    {
+      "apiname": "GhoulHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghoul Hunter",
+      "description": "Kill 500 Ghoul enemies."
+    },
+    {
+      "apiname": "ImpHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Imp Hunter",
+      "description": "Kill 500 Imp enemies."
+    },
+    {
+      "apiname": "LostSoulHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Soul Hunter",
+      "description": "Kill 500 Lost Soul enemies."
+    },
+    {
+      "apiname": "SlimeHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slime Hunter",
+      "description": "Kill 1500 Slime enemies."
+    },
+    {
+      "apiname": "CarpeDiemI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carpe Diem I",
+      "description": "Use Horace's Carpe Diem."
+    },
+    {
+      "apiname": "CarpeDiemII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carpe Diem II",
+      "description": "Use Horace's Spell."
+    },
+    {
+      "apiname": "CarpeDiemIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carpe Diem III",
+      "description": "Beat Circle 1, Limbo, using Horace's Carpe Diem."
+    },
+    {
+      "apiname": "WingedLyricI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winged Lyric I",
+      "description": "Use Homer's Winged Lyric."
+    },
+    {
+      "apiname": "WingedLyricII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winged Lyric II",
+      "description": "Use Homer's Spell."
+    },
+    {
+      "apiname": "WingedLyricIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winged Lyric III",
+      "description": "Beat Circle 1, Limbo, using Homer's Winged Lyric."
+    },
+    {
+      "apiname": "CodexAmorisI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Codex Amoris I",
+      "description": "Use Ovid's Codex Amoris."
+    },
+    {
+      "apiname": "CodexAmorisII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Codex Amoris II",
+      "description": "Use Ovid's Spell."
+    },
+    {
+      "apiname": "CodexAmorisIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Codex Amoris III",
+      "description": "Beat Circle 2, Lust, using Ovid's Codex Amoris."
+    },
+    {
+      "apiname": "BlazingQuillII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blazing Quill II",
+      "description": "Beat Circle 1, Limbo, using Dante's Blazing Quill."
+    },
+    {
+      "apiname": "BlazingQuillIII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blazing Quill III",
+      "description": "Beat Circle 2, Lust, using Dante's Blazing Quill."
+    },
+    {
+      "apiname": "BlazingQuillI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blazing Quill I",
+      "description": "Use Dante's Spell."
+    },
+    {
+      "apiname": "EliteKillerII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Killer II",
+      "description": "Kill the Elite Succubus enemy in Circle 2, Lust."
+    },
+    {
+      "apiname": "LustSinnerHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lust Sinner Hunter",
+      "description": "Kill 2000 Lust Sinner enemies."
+    },
+    {
+      "apiname": "LustMineHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lust Mine Hunter",
+      "description": "Kill 1000 Lust Mine enemies."
+    },
+    {
+      "apiname": "ViperHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viper Hunter",
+      "description": "Kill 1000 Viper enemies."
+    },
+    {
+      "apiname": "DeviBrotchiHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devi-Brotchi Hunter",
+      "description": "Kill 500 Devi-Brotchi enemies."
+    },
+    {
+      "apiname": "WindsOfDesire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winds of Desire",
+      "description": "Unlock Circle 2, Lust."
+    },
+    {
+      "apiname": "AbyssalSpender",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Abyssal Spender",
+      "description": "Spend a total of 5.000 Wails of the Abyss."
+    },
+    {
+      "apiname": "PilgrimsJourneyI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilgrim's Journey I",
+      "description": "Talk to Beatrice three times."
+    },
+    {
+      "apiname": "PoetsOfLimboI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poets of Limbo I",
+      "description": "Save Horace and Homer."
+    },
+    {
+      "apiname": "PoetsOfLimboII",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poets of Limbo II",
+      "description": "Save Ovid."
+    },
+    {
+      "apiname": "PowerlessQueen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Powerless Queen",
+      "description": "Watch all of Queen Minos' introductory chapters."
+    },
+    {
+      "apiname": "ClimbingTheLadder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Climbing the Ladder",
+      "description": "Watch all of Libicocco's and Scarmiglione's introductory chapters."
+    },
+    {
+      "apiname": "ForumDweller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forum Dweller",
+      "description": "Exhaust all dialogue interactions with every Poet of Limbo (Limbo)."
+    },
+    {
+      "apiname": "NovicePoet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Poet",
+      "description": "Exhaust all dialogue interactions with every Poet of Limbo (Lust)."
+    }
+  ]
+}

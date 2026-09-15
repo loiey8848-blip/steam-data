@@ -1,0 +1,214 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 421040,
+  "game": "Plantera",
+  "total": 29,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:49.129680+00:00",
+  "achievements": [
+    {
+      "apiname": "01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarecrow",
+      "description": "Scare away 500 birds"
+    },
+    {
+      "apiname": "02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fox Hunter",
+      "description": "Scare away 100 foxes"
+    },
+    {
+      "apiname": "03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wolf Hunter",
+      "description": "Scare away 100 wolves"
+    },
+    {
+      "apiname": "04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bunny Hunter",
+      "description": "Scare away 100 bunnies"
+    },
+    {
+      "apiname": "05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expander",
+      "description": "Buy 5 garden expansions"
+    },
+    {
+      "apiname": "06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freeholder",
+      "description": "Buy 15 garden expansions"
+    },
+    {
+      "apiname": "07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land Owner",
+      "description": "Buy 25 garden expansions"
+    },
+    {
+      "apiname": "08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planter",
+      "description": "Have planted a total of 50 plants"
+    },
+    {
+      "apiname": "09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grower",
+      "description": "Have planted a total of 50 bushes"
+    },
+    {
+      "apiname": "10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Landscaper",
+      "description": "Have planted a total of 50 trees"
+    },
+    {
+      "apiname": "11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lots of friends",
+      "description": "Have bought a total of 50 animals"
+    },
+    {
+      "apiname": "12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking out the trash",
+      "description": "Trash 10 items"
+    },
+    {
+      "apiname": "13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rich",
+      "description": "Gather 10k Gold"
+    },
+    {
+      "apiname": "14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealthy",
+      "description": "Gather 100k Gold"
+    },
+    {
+      "apiname": "15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Worth a million",
+      "description": "Gather 1M Gold"
+    },
+    {
+      "apiname": "16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Starting out",
+      "description": "Reach level 10"
+    },
+    {
+      "apiname": "17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice",
+      "description": "Reach level 50"
+    },
+    {
+      "apiname": "18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journeyman",
+      "description": "Reach level 100"
+    },
+    {
+      "apiname": "19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whack a mole",
+      "description": "Bash 50 moles"
+    },
+    {
+      "apiname": "20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entomologist",
+      "description": "Collect 500 butterflies"
+    },
+    {
+      "apiname": "21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cameo",
+      "description": "The Loot Hero has appeared!"
+    },
+    {
+      "apiname": "22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Real Hero",
+      "description": "The Loot Hero bashed a mean critter!"
+    },
+    {
+      "apiname": "23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Familiar Face",
+      "description": "The Loot Hero have appeared 5 times"
+    },
+    {
+      "apiname": "24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clank Clank Clank",
+      "description": "The Loot Hero have appeared 25 times"
+    },
+    {
+      "apiname": "25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loot Farmer",
+      "description": "The Loot Hero have appeared 50 times"
+    },
+    {
+      "apiname": "26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looter",
+      "description": "Grab gold 100 times from the Loot Hero"
+    },
+    {
+      "apiname": "27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loot Hero",
+      "description": "Grab gold 500 times from the Loot Hero"
+    },
+    {
+      "apiname": "28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Looter",
+      "description": "Grab gold 1000 times from the Loot Hero"
+    },
+    {
+      "apiname": "29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ladybug",
+      "description": "Collect 10 ladybugs"
+    }
+  ]
+}

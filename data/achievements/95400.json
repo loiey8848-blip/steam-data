@@ -1,0 +1,81 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 95400,
+  "game": "ibb & obb",
+  "total": 10,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:35.926235+00:00",
+  "achievements": [
+    {
+      "apiname": "REWARDS_FULL_ZEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Zen",
+      "description": "Get the highest possible score on all levels."
+    },
+    {
+      "apiname": "REWARDS_PARTY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party",
+      "description": "Make it to the party at the end of the game."
+    },
+    {
+      "apiname": "REWARDS_ALL_CRYSTALS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Crystals",
+      "description": "Collect all hidden crystals."
+    },
+    {
+      "apiname": "REWARDS_COLLECTION_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collection Complete",
+      "description": "Visit all regular and secret levels."
+    },
+    {
+      "apiname": "REWARDS_FIRST_CRYSTAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Crystal",
+      "description": "Collect a hidden crystal."
+    },
+    {
+      "apiname": "REWARDS_SMALL_ZEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Zen",
+      "description": "Get the highest possible score on a level."
+    },
+    {
+      "apiname": "REWARDS_KING_UBB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King ubb",
+      "description": ""
+    },
+    {
+      "apiname": "REWARDS_QUALITY_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quality Time",
+      "description": ""
+    },
+    {
+      "apiname": "REWARDS_FALLCROBATICS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallcrobatics",
+      "description": ""
+    },
+    {
+      "apiname": "REWARDS_MINT_CONDITION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mint Condition",
+      "description": ""
+    }
+  ]
+}

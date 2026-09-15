@@ -1,0 +1,522 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 265590,
+  "game": "The Red Solstice",
+  "total": 73,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:48.091405+00:00",
+  "achievements": [
+    {
+      "apiname": "Survivalist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survivalist",
+      "description": "You have survived, and that's what it counts for!"
+    },
+    {
+      "apiname": "gManOfDuty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Man of Duty",
+      "description": "You have contributed to salvation of Tharsis, whether for the good of it, or for the bad."
+    },
+    {
+      "apiname": "gFirstEncounter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First encounter!",
+      "description": "You have seen it, and you have killed it!"
+    },
+    {
+      "apiname": "gVeteran",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran",
+      "description": "You know your way around, you've been here for some time."
+    },
+    {
+      "apiname": "CallDownTheThunder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call down the thunder!",
+      "description": "You have taken out hellspawn with SHIVA weapon."
+    },
+    {
+      "apiname": "Nemesis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nemesis of the dark",
+      "description": "You got on the field, you took them down in one round, 50 high threat kills."
+    },
+    {
+      "apiname": "Mercs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "[M.E.R.C.S.]",
+      "description": "Win the game in Hardcore, Primary, Secondary missions with 4 marines, and finish all objectives. Defeat Vivian Parks, or win normal difficulty alone."
+    },
+    {
+      "apiname": "TacticalAdvantage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tactical Advantage",
+      "description": "You have mastered all 8 classes."
+    },
+    {
+      "apiname": "BronzeStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bronze Star",
+      "description": ""
+    },
+    {
+      "apiname": "SilverStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Star",
+      "description": ""
+    },
+    {
+      "apiname": "ForceCross",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Force Cross",
+      "description": ""
+    },
+    {
+      "apiname": "CrossOfHonor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cross of Honor",
+      "description": ""
+    },
+    {
+      "apiname": "ForceSpecialistCross",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Force Specialist Cross",
+      "description": ""
+    },
+    {
+      "apiname": "LegionOfAssault",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legion of Assault",
+      "description": ""
+    },
+    {
+      "apiname": "CampaignOrder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Campaign Order",
+      "description": ""
+    },
+    {
+      "apiname": "PurpleHeart",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purple Heart",
+      "description": ""
+    },
+    {
+      "apiname": "FieldServiceAchievement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Service Achievement",
+      "description": ""
+    },
+    {
+      "apiname": "FieldServiceCommendation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field Service Commendation",
+      "description": ""
+    },
+    {
+      "apiname": "ColonialSuperiorService",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonial Superior Service",
+      "description": ""
+    },
+    {
+      "apiname": "ColonialDistinguishedService",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colonial Distinguished Service",
+      "description": ""
+    },
+    {
+      "apiname": "OrderOfColonialForce",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Order of Colonial Force",
+      "description": ""
+    },
+    {
+      "apiname": "LegionOfMerit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legion of Merit",
+      "description": ""
+    },
+    {
+      "apiname": "CommanderCross",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Commander Cross",
+      "description": ""
+    },
+    {
+      "apiname": "AetridenMedalOfHonor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aetriden Medal of Honor",
+      "description": ""
+    },
+    {
+      "apiname": "SoldiersMedal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soldier's Medal",
+      "description": ""
+    },
+    {
+      "apiname": "AetridensCross",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aetriden's Cross",
+      "description": ""
+    },
+    {
+      "apiname": "EliteCampaignOrder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Campaign Order",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranMedic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Medic",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranAssault",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Assault",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranTerminator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Terminator",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranHellfire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Hellfire",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranDemolitions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Demolitions",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranRecon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Recon",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranHeavySupport",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Heavy Support",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranMarksman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Marksman",
+      "description": ""
+    },
+    {
+      "apiname": "Frosty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frosty",
+      "description": ""
+    },
+    {
+      "apiname": "ProjectTerra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Project Terra",
+      "description": "You have completed the Project Terra storyline succesfully."
+    },
+    {
+      "apiname": "DirtyLittleSecret",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirty Little Secret",
+      "description": "You have completed the Insurgents storyline succesfully."
+    },
+    {
+      "apiname": "Scientist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scientist",
+      "description": "You have completed the science sector on soldier difficulty or higher."
+    },
+    {
+      "apiname": "Industrialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrialist",
+      "description": "You have completed the industrial sector on soldier difficulty or higher."
+    },
+    {
+      "apiname": "DistinguishedForceSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Distinguished Force Specialist",
+      "description": ""
+    },
+    {
+      "apiname": "OrderOfColonialDefense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Order Of Colonial Defense",
+      "description": ""
+    },
+    {
+      "apiname": "VeteransMedal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veterans Medal",
+      "description": ""
+    },
+    {
+      "apiname": "VeteranCampaignOrder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Campaign Order",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedMedic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Medic",
+      "description": ""
+    },
+    {
+      "apiname": "EliteMedic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Medic",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedAssault",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Assault",
+      "description": ""
+    },
+    {
+      "apiname": "EliteAssault",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Assault",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedTerminator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Terminator",
+      "description": ""
+    },
+    {
+      "apiname": "EliteTerminator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Terminator",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedHellfire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Hellfire",
+      "description": ""
+    },
+    {
+      "apiname": "EliteHellfire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Hellfire",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedDemolitions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Demolitions",
+      "description": ""
+    },
+    {
+      "apiname": "EliteDemolitions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Demolitions",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedRecon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Recon",
+      "description": ""
+    },
+    {
+      "apiname": "EliteRecon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Recon",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedHeavySupport",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Heavy Support",
+      "description": ""
+    },
+    {
+      "apiname": "EliteHeavySupport",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Heavy Support",
+      "description": ""
+    },
+    {
+      "apiname": "ExperiencedMarksman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Marksman",
+      "description": ""
+    },
+    {
+      "apiname": "EliteMarksman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elite Marksman",
+      "description": ""
+    },
+    {
+      "apiname": "Mission1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Colony Dark",
+      "description": "You have completed Colony dark mission"
+    },
+    {
+      "apiname": "Mission2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "S.A.R.A.",
+      "description": "You have completed S.A.R.A. mission"
+    },
+    {
+      "apiname": "Mission3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stonewall",
+      "description": "You have completed Stonewall mission"
+    },
+    {
+      "apiname": "Mission4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Balance of Power",
+      "description": "You have completed Balance of power mission"
+    },
+    {
+      "apiname": "Mission5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chasing Echoes",
+      "description": "You have completed Chasing echoes mission"
+    },
+    {
+      "apiname": "Mission6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Castel Nuovo",
+      "description": "You have completed Castel nuovo mission"
+    },
+    {
+      "apiname": "Mission7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bonds Which Bond",
+      "description": "You have completed Bonds which bond mission"
+    },
+    {
+      "apiname": "Mission8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "V.L.A.K. Transport",
+      "description": "You have completed V.L.A.K. transport mission"
+    },
+    {
+      "apiname": "Mission9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The fabian strategy",
+      "description": "You have completed The fabian strategy mission"
+    },
+    {
+      "apiname": "Mission10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smoke and Mirrors",
+      "description": "You have completed Smoke and mirrors mission"
+    },
+    {
+      "apiname": "MercsArmor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "M.E.R.C.S. Armor",
+      "description": ""
+    },
+    {
+      "apiname": "MissionHardcore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardcore",
+      "description": "You have finished single player in hardcore mode"
+    },
+    {
+      "apiname": "MissionBrutalHardcore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brutal Hardcore",
+      "description": "You have finished single player in brutal hardcore mode"
+    }
+  ]
+}

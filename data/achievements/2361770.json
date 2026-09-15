@@ -1,0 +1,214 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2361770,
+  "game": "SHINOBI: Art of Vengeance",
+  "total": 29,
+  "unlocked": 5,
+  "percent": 17.2,
+  "updated_at_utc": "2026-09-15T06:52:48.448961+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRST_ZONE_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1757431653,
+      "name": "First Zone Finished",
+      "description": "Completed the first zone."
+    },
+    {
+      "apiname": "SECOND_ZONE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Zone Settled",
+      "description": ""
+    },
+    {
+      "apiname": "THIRD_ZONE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Third Zone Thwarted",
+      "description": ""
+    },
+    {
+      "apiname": "FORTH_ZONE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fourth Zone Fixed",
+      "description": ""
+    },
+    {
+      "apiname": "GAME_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Art of Vengeance",
+      "description": "Completed the game."
+    },
+    {
+      "apiname": "30_HIT_COMBO",
+      "achieved": 1,
+      "unlocktime": 1757304109,
+      "name": "Lab Monster",
+      "description": "Reached a 30-hit Combo."
+    },
+    {
+      "apiname": "ALL_NINPOS_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Offense",
+      "description": "Obtained all Ninpo."
+    },
+    {
+      "apiname": "ALL_NINGIS_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Movement",
+      "description": "Obtained all Ningi."
+    },
+    {
+      "apiname": "ALL_NINJUTSUS_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Power",
+      "description": "Obtained all Ninjutsu."
+    },
+    {
+      "apiname": "VENGENCE_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oboro Clan: Avenged",
+      "description": "Defeated all Elite Squads."
+    },
+    {
+      "apiname": "BOSS_RUSH_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am the Captain Now",
+      "description": ""
+    },
+    {
+      "apiname": "KILL_ENEMY_WHILE_HEALED",
+      "achieved": 1,
+      "unlocktime": 1757304693,
+      "name": "Showstopper",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_SECRET_KEY_FOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Secret Lab",
+      "description": ""
+    },
+    {
+      "apiname": "CLAWS_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Going Up",
+      "description": ""
+    },
+    {
+      "apiname": "CANON_PUNCH_UNLOCKED",
+      "achieved": 1,
+      "unlocktime": 1757432655,
+      "name": "Wall Breaker",
+      "description": ""
+    },
+    {
+      "apiname": "HOOK_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "GROUND_SMASH_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Earthquake",
+      "description": ""
+    },
+    {
+      "apiname": "GLIDER_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whirlwind",
+      "description": ""
+    },
+    {
+      "apiname": "SHADOW_MASTER_CLONE_BEATEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge of the Ninja Master",
+      "description": ""
+    },
+    {
+      "apiname": "FIRST_NINJUTSU_UNLOCKED",
+      "achieved": 1,
+      "unlocktime": 1757304646,
+      "name": "Initiation into the Arts",
+      "description": "Obtained a Ninjutsu."
+    },
+    {
+      "apiname": "100_HIT_COMBO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combo Master",
+      "description": ""
+    },
+    {
+      "apiname": "MANY_COINS_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Collected 40,000 coins."
+    },
+    {
+      "apiname": "MANY_WATER_NINPO_PARRY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Miraculous Comeback",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_SHOP_ITEM_BOUGHT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take My Money",
+      "description": "Purchased everything available in the shop."
+    },
+    {
+      "apiname": "ALL_ARCADE_S_RANK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SEGA Mega Play",
+      "description": ""
+    },
+    {
+      "apiname": "NO_HIT_ARCADE_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No-Hit Run",
+      "description": ""
+    },
+    {
+      "apiname": "ALL_UPGRADE_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Complete Kit",
+      "description": "Obtained every upgrade."
+    },
+    {
+      "apiname": "SPEEDRUN_GAME_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Divine Speed",
+      "description": ""
+    },
+    {
+      "apiname": "DARK_KATANA_OBTAINED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Weapon",
+      "description": "Reforged the Dark Katana."
+    }
+  ]
+}

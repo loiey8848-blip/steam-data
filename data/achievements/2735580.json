@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2735580,
+  "game": "Netherworld Covenant",
+  "total": 25,
+  "unlocked": 5,
+  "percent": 20.0,
+  "updated_at_utc": "2026-09-15T06:53:01.141186+00:00",
+  "achievements": [
+    {
+      "apiname": "ExecutionerExecuted",
+      "achieved": 1,
+      "unlocktime": 1766142205,
+      "name": "The Executioner has been executed.",
+      "description": "Kill the Executioner"
+    },
+    {
+      "apiname": "NoBlood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Putrid Abomination",
+      "description": "Kill the Putrid Abomination."
+    },
+    {
+      "apiname": "Kneeless",
+      "achieved": 1,
+      "unlocktime": 1766159407,
+      "name": "Lone Prison Knight",
+      "description": "Kill the Lone Prison Knight."
+    },
+    {
+      "apiname": "LastFight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glorious Death",
+      "description": "Kill Lord Knight Valon."
+    },
+    {
+      "apiname": "Illusion",
+      "achieved": 1,
+      "unlocktime": 1766160763,
+      "name": "This is a phantom, what are you hiding?",
+      "description": "Kill the Phantom of the Lady."
+    },
+    {
+      "apiname": "DogCouple",
+      "achieved": 1,
+      "unlocktime": 1766161078,
+      "name": "Drus's Downfall",
+      "description": "Kill the Lord and the Lady."
+    },
+    {
+      "apiname": "PerfectCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Collector",
+      "description": "Collect all amulets."
+    },
+    {
+      "apiname": "WeaponMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Master",
+      "description": "Collect all weapons."
+    },
+    {
+      "apiname": "SkillMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skill Master",
+      "description": "Collect all Lantern Skills."
+    },
+    {
+      "apiname": "AdvantageMe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Advantage is Mine",
+      "description": "Unlock all Domain Power"
+    },
+    {
+      "apiname": "Freeze",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Freeze, Stay Still!",
+      "description": "Trigger Deep Freeze 100 times."
+    },
+    {
+      "apiname": "DieInsect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Die, Bug!",
+      "description": "200 enemies die from burning."
+    },
+    {
+      "apiname": "World",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World!",
+      "description": "Trigger Time Stop 300 times."
+    },
+    {
+      "apiname": "DeathFlag",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Flag",
+      "description": "100 enemies die from Doom"
+    },
+    {
+      "apiname": "Immobilized",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immobile",
+      "description": "Trigger Suppression 100 times."
+    },
+    {
+      "apiname": "Karma",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Karma",
+      "description": "Let the Abomination die from the Zombie’s explosion."
+    },
+    {
+      "apiname": "Siren",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drowning Enchantress",
+      "description": "Kill Siren Nera, the Drowning Enchantress."
+    },
+    {
+      "apiname": "Nicor",
+      "achieved": 1,
+      "unlocktime": 1766161479,
+      "name": "Phantom Spear Hunter",
+      "description": "Kill Skoll, the Phantom Spear Hunter."
+    },
+    {
+      "apiname": "FallHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naval Commander",
+      "description": "Kill the Mind-Devoured Orpheus."
+    },
+    {
+      "apiname": "SharpQueen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sixth Apostle",
+      "description": "Kill Zamok, the Sixth Apostle."
+    },
+    {
+      "apiname": "SamuraiAB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twin Blades",
+      "description": "Kill Twin Blades·Nocktira."
+    },
+    {
+      "apiname": "DemonWing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos Demon",
+      "description": "Exile Mozabi, the Chaos Demon."
+    },
+    {
+      "apiname": "Demon1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Bone Demon",
+      "description": "Exile Burning Bone Demon Ursok"
+    },
+    {
+      "apiname": "Death1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos Before Creation",
+      "description": "Exile Chaos Before Creation"
+    },
+    {
+      "apiname": "FnBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Lord of the Netherworld",
+      "description": "Exiled Old Lord of the Netherworld"
+    }
+  ]
+}

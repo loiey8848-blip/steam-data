@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1650810,
+  "game": "Loopmancer",
+  "total": 57,
+  "unlocked": 2,
+  "percent": 3.5,
+  "updated_at_utc": "2026-09-15T06:52:17.449326+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_FLAPPYSEDAN_SCORE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pro Gamer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GET_STORY_TRUTH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Targeting the Enemy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNPLUG_EBRAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_SKILL",
+      "achieved": 1,
+      "unlocktime": 1658041366,
+      "name": "Growth",
+      "description": "Used core for the first time to unlock Tenacity skills."
+    },
+    {
+      "apiname": "ACH_UNLOCK_CHARGE_ACTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every little bit counts",
+      "description": "Invest max amount in PUT machine and unlock weapons for the first time."
+    },
+    {
+      "apiname": "ACH_AVOID_BIGGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break no Sweat",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_AVOID_SNIPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Black Cat's Warning",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NOT_TUMBLE_DOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Once Bitten, Twice Shy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_AVOID_PLAZA_ATTACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Excellent Driving Skills",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_MAIN_ACTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greetings",
+      "description": "Unlocked all main character cards."
+    },
+    {
+      "apiname": "ACH_UNLOCK_MANY_CARDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memento",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LISTEN_TO_CLASSIC_MUSIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heavenly Music",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_XZX_DIRAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thoughts",
+      "description": "Gathered all of Diaries."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_ANECDOTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Story King",
+      "description": "Gathered all Trivia files."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_INFORMATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Intel Expert",
+      "description": "Gathered all Intel files."
+    },
+    {
+      "apiname": "ACH_PASS_PREFACE_ON_ROOF",
+      "achieved": 1,
+      "unlocktime": 1658041234,
+      "name": "Unavoidable",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_MANY_LONGXIGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of the Streets",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_MANY_SICKGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rest in peace",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ONCE_OVERKILL_MANY_DIE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prowess",
+      "description": "Unleashed an Overkill and kill 5 enemies in one go."
+    },
+    {
+      "apiname": "ACH_DIE_FOR_VEHICLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unexpected Crisis",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DIE_FOR_LIGHTING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terrible Weather",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DIE_FOR_ABYSM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Giving Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SAVE_LIZBETH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fleet-footed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SAVE_WIFE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SAVE_LIZBETH_WIFE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_OGATA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Best in Dragon City",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SURVIVE_OGATA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fluke",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_SKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Survival Expert",
+      "description": "Unlocked all Tenacity skills."
+    },
+    {
+      "apiname": "ACH_WEILONG_NANOKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neutralize",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LET_GANGSTER_GO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Disdain",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SAVE_LISBETH_TIMEOUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unsalvageable",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_XFGZ_SEABASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elimination",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_XFGZ_FALL_SEABASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victor's Prejudice",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_ZFGZ_TPSN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Battle",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_SBY_XFGZ_TPSN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still A Chance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_SBY_TIANWU_TPSN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interception",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEFEAT_TIANWU_TPSN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defeat the AI",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_WIFE_EBRAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walking into a Trap",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_FAMILY_PRAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time's Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_MILLIONS_PEOPLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calamity",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_PRISON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reappearance",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_TVSHOW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outsider's Profit",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_SWEET_DREAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Limbo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENDING_SIMULATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brain in a Vat",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_CLOTHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fashionista",
+      "description": "Unlocked all clothing."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_CHIPSKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Omni-compatibility",
+      "description": "Unlocked all skill chips."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_MELEEWEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weapon Expert",
+      "description": "Unlocked all melee weapons."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_GUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arms Expert",
+      "description": "Unlocked all guns."
+    },
+    {
+      "apiname": "ACH_UNLOCK_ALL_TECHGEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Win by Surprise",
+      "description": "Unlocked all tactical gears."
+    },
+    {
+      "apiname": "ACH_MEOW_MANY_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cat Lover",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PASS_ALL_STORYLINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clairvoyance",
+      "description": "Completed Storyline."
+    },
+    {
+      "apiname": "ACH_FULLY_UPGRADED_MANY_ARMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Achieving Excellence",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ESCAPE_FROM_UNREAL_MANY_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Escape Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LOOP_MANY_TIMES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smooth-Sailing",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_MANY_GAKOGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ninja Killer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HARDMODE_ALLCLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extreme Challenge",
+      "description": "Play on the hardest difficulty and get any ending"
+    },
+    {
+      "apiname": "ACH_WATCH_DEVELOPERSLIST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encore",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 286570,
+  "game": "F1 2015",
+  "total": 45,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:08.477870+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_stay_on_these_roads",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stay on These Roads",
+      "description": "Complete 50 clean laps in Quick Race mode."
+    },
+    {
+      "apiname": "ach_pole_position",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Position",
+      "description": "Take 10 poles in Quick Race mode."
+    },
+    {
+      "apiname": "ach_points_mean_prizes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Points Mean Prizes",
+      "description": "Score 75 Constructors' Championship points in Quick Race mode."
+    },
+    {
+      "apiname": "ach_pack_leader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pack Leader",
+      "description": "Stay out in 1st place for 150 laps in Quick Race mode."
+    },
+    {
+      "apiname": "ach_its_all_about_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's All about Time",
+      "description": "Spend 180 minutes in total track time at Silverstone."
+    },
+    {
+      "apiname": "ach_pass_go",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Putting in the Laps",
+      "description": "Complete 200 laps in Quick Race mode."
+    },
+    {
+      "apiname": "ach_stirling_job",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stirling Job",
+      "description": "Win 3 races at Monaco in Quick Race mode."
+    },
+    {
+      "apiname": "ach_one_aim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Aim",
+      "description": "Meet or exceed a race objective given to you from the team in Championship Season."
+    },
+    {
+      "apiname": "ach_pole_sitter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Sitter",
+      "description": "Take pole position in Championship Season."
+    },
+    {
+      "apiname": "ach_podiums",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1, 2, 3, Podium",
+      "description": "Get a podium in Championship Season."
+    },
+    {
+      "apiname": "ach_clean_club",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Club",
+      "description": "Complete a Championship Season race without colliding with another car or object."
+    },
+    {
+      "apiname": "ach_me_myself_and_I",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Me, Myself and I",
+      "description": "Finish ahead of your team mate in a practice session in Championship Season."
+    },
+    {
+      "apiname": "ach_pole_trophy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pole Trophy",
+      "description": "Achieve the most poles within a Championship Season."
+    },
+    {
+      "apiname": "ach_champion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Champion",
+      "description": "Win the Drivers' Championship in Championship Season on any difficulty."
+    },
+    {
+      "apiname": "ach_construction_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Construction Time",
+      "description": "Win the Constructors' Championship in Championship Season on any difficulty."
+    },
+    {
+      "apiname": "ach_elementary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elementary, My Dear Watson",
+      "description": "Win the race from 22nd place on the grid in the 2014 Championship Season."
+    },
+    {
+      "apiname": "ach_master_and_commander",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master and Commander",
+      "description": "Get 14 wins in a single Championship Season to beat Michael Schumacher's record of 13 wins."
+    },
+    {
+      "apiname": "ach_grand_slam",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Slam",
+      "description": "Take pole, win the race, set the fastest lap and lead every lap in a Championship Season weekend."
+    },
+    {
+      "apiname": "ach_super_monaco",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Monaco",
+      "description": "Drive a total of 78 laps at Monaco in Pro Season mode."
+    },
+    {
+      "apiname": "ach_hard_times",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard Times",
+      "description": "Complete a race in Pro Season mode."
+    },
+    {
+      "apiname": "ach_easier_than_expected",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easier than Expected?",
+      "description": "Place in the top 16 in qualifying in Pro Season mode 5 times."
+    },
+    {
+      "apiname": "ach_boiling_point",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boiling Point",
+      "description": "Reach 100 points in an online championship."
+    },
+    {
+      "apiname": "ach_online_winner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Online Winner",
+      "description": "Win an online race."
+    },
+    {
+      "apiname": "ach_just_the_beginning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just the Beginning",
+      "description": "Complete an online race in the Beginner Hopper."
+    },
+    {
+      "apiname": "ach_standard_bearer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Standard-Bearer",
+      "description": "Complete an online race in the Standard Hopper."
+    },
+    {
+      "apiname": "ach_hard_boiled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hard-Boiled",
+      "description": "Complete an online race in the Hardcore Hopper."
+    },
+    {
+      "apiname": "ach_number_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Number 5",
+      "description": "Complete 5 online races."
+    },
+    {
+      "apiname": "ach_online_pony",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Online Pony",
+      "description": "Complete 25 online races."
+    },
+    {
+      "apiname": "ach_multiplicity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Multiplicity",
+      "description": "Complete 50 online races."
+    },
+    {
+      "apiname": "ach_one_with_car",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One with the Car",
+      "description": "Set a time at a Time Trial Event."
+    },
+    {
+      "apiname": "ach_keep_it_clean",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep It Clean",
+      "description": "Set a lap time at 5 different circuits in Time Trial in the dry."
+    },
+    {
+      "apiname": "ach_wet_wet_wet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wet Wet Wet",
+      "description": "Set a lap time at 5 different circuits in Time Trial in the wet."
+    },
+    {
+      "apiname": "ach_sweet_dreams",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet Dreams",
+      "description": "Set 30 clean laps at Singapore in Time Trial."
+    },
+    {
+      "apiname": "ach_from_russia_with_love",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Russia",
+      "description": "Set 50 clean laps at Sochi in Time Trial in a Marussia."
+    },
+    {
+      "apiname": "ach_phone_home",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Phone Home",
+      "description": "Set 50 clean laps at the Red Bull Ring in a Red Bull in Time Trial."
+    },
+    {
+      "apiname": "ach_sauber_wolf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sauber Wolf",
+      "description": "Set 50 clean laps in a Sauber on any track in Time Trial."
+    },
+    {
+      "apiname": "ach_william_the_conq",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "William the Conqueror",
+      "description": "Set 50 clean laps in a Williams on any track in Time Trial."
+    },
+    {
+      "apiname": "ach_ticket_to_ride",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ticket to Ride",
+      "description": "Set 100 clean laps in Time Trial on any combination of tracks."
+    },
+    {
+      "apiname": "ach_clean_sweep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Sweep",
+      "description": "Set a clean lap time for all circuits in Time Trial."
+    },
+    {
+      "apiname": "ach_three_of_a_kind",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three of a Kind",
+      "description": "Win a race in Quick Race, Championship Season and Multiplayer mode."
+    },
+    {
+      "apiname": "ach_total_recall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Total Recall",
+      "description": "Load a Mid-Session Save."
+    },
+    {
+      "apiname": "ach_final_lap_heroics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Lap Heroics",
+      "description": "Win a race on the final lap, coming from behind."
+    },
+    {
+      "apiname": "ach_continental_circus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Continental Circus",
+      "description": "Drive at least 20 laps on a track in each continent, in any game mode."
+    },
+    {
+      "apiname": "ach_final_countdown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Countdown",
+      "description": "Drive 500 laps on European tracks in any game mode."
+    },
+    {
+      "apiname": "ach_f1_super_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "F1 Super Hero",
+      "description": "Spend at least 600 minutes out on track."
+    }
+  ]
+}

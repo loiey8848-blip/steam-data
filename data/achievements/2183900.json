@@ -1,0 +1,361 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2183900,
+  "game": "Warhammer 40,000: Space Marine 2",
+  "total": 50,
+  "unlocked": 4,
+  "percent": 8.0,
+  "updated_at_utc": "2026-09-15T06:52:42.966169+00:00",
+  "achievements": [
+    {
+      "apiname": "STORY_INTRO",
+      "achieved": 1,
+      "unlocktime": 1727248195,
+      "name": "The Die Is Cast",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_CANNON",
+      "achieved": 1,
+      "unlocktime": 1727266288,
+      "name": "Unleash the Cannon",
+      "description": ""
+    },
+    {
+      "apiname": "PVE_ACID_BOMB",
+      "achieved": 1,
+      "unlocktime": 1727268266,
+      "name": "Crude but Effective",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_ASSASSINATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos All Along",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_SKYLAB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Target Acquired",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_RESCUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vital Asset",
+      "description": ""
+    },
+    {
+      "apiname": "PVE_TYRANT",
+      "achieved": 1,
+      "unlocktime": 1727271792,
+      "name": "Sic Semper Tyrannis",
+      "description": ""
+    },
+    {
+      "apiname": "PVE_DAEMONHOST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Voice in the Dark",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_TOWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enemy Revealed",
+      "description": ""
+    },
+    {
+      "apiname": "PVE_FIRESTORM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Douse the Flames",
+      "description": ""
+    },
+    {
+      "apiname": "PVE_ANCIENT_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resurrection",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_ORBITAL_DROP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Face Is My Shield",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_BLACKSTONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Break of Dawn",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_LAST_STAND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Abyss",
+      "description": ""
+    },
+    {
+      "apiname": "STORY_FINALE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll Be Watching You",
+      "description": ""
+    },
+    {
+      "apiname": "MARKING_TOOL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Purge Them All",
+      "description": "Mark every enemy type"
+    },
+    {
+      "apiname": "FINISHERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Art of Dismemberment",
+      "description": "Perform 50 unique Finishers"
+    },
+    {
+      "apiname": "DATASLATES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Data Mining",
+      "description": "Collect all Dataslates"
+    },
+    {
+      "apiname": "KILLS_IN_FURY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Furious Retribution",
+      "description": "Kill 100 enemies using Righteous Fury"
+    },
+    {
+      "apiname": "PVE_TRAIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outbound Payload",
+      "description": "Deliver a nova cannon warhead to the Tyranid position"
+    },
+    {
+      "apiname": "PVE_RUTHLESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Valour Crest",
+      "description": "Complete any Mission in Operations mode on Ruthless Threat Level"
+    },
+    {
+      "apiname": "PVE_MAX_LEVEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strategic Specialty",
+      "description": "Reach the maximum Level for one Class"
+    },
+    {
+      "apiname": "PVE_MAX_MELEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharpest Edge",
+      "description": "Reach the maximum Level for one Melee Weapon"
+    },
+    {
+      "apiname": "PVE_MAX_FIREARM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strongest Shot",
+      "description": "Reach the maximum Level for one Ranged Weapon"
+    },
+    {
+      "apiname": "PVE_FULL_ARMOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bespoke",
+      "description": "Customise a full Armour set for one Class"
+    },
+    {
+      "apiname": "PVE_PICKUPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Principia Imperialis",
+      "description": "Find 200 pickups in Operations mode"
+    },
+    {
+      "apiname": "TOTAL_KILLS_SILVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Blight to Be Purged",
+      "description": "Kill 20,000 enemies (all game modes combined)"
+    },
+    {
+      "apiname": "CHAPLAIN_INSTRUCTIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Why Is It Always You Three?",
+      "description": ""
+    },
+    {
+      "apiname": "SOLDIER_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Arsenal",
+      "description": "As a Tactical, kill 25 enemies with every available Primary Weapon"
+    },
+    {
+      "apiname": "SNIPER_HEADSHOTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Center",
+      "description": "As a Sniper, make 250 Headshots"
+    },
+    {
+      "apiname": "SUPPORT_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immovable Object",
+      "description": "As a Heavy, kill 500 enemies while in Heavy Stance"
+    },
+    {
+      "apiname": "RAIDER_GROUNDPOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thunderous Impact",
+      "description": "As an Assault, hit 500 total enemies with Ground Pound"
+    },
+    {
+      "apiname": "TANK_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian's Might",
+      "description": "As a Bulwark, kill 100 enemies with every available Melee Weapon"
+    },
+    {
+      "apiname": "BERSERK_GUNSTRIKES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightning Strike",
+      "description": "As a Vanguard, perform 100 Gun Strikes"
+    },
+    {
+      "apiname": "RAVENER_CANCEL_GRAB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unhand My Brother!",
+      "description": "Force a Ravener to release a grabbed Squad Member"
+    },
+    {
+      "apiname": "ATTACK_LICTOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Ugly Xenos",
+      "description": "Bring down a Lictor before it attacks from an ambush"
+    },
+    {
+      "apiname": "KILL_LESSER_SOURCERER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An End to Heresy",
+      "description": "Kill a Lesser Sorcerer while he's reviving a Rubric Marine"
+    },
+    {
+      "apiname": "PERFECT_PARRY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Know No Fear",
+      "description": "Break a Scarab Occult Terminator's Melee Combo Attack with 2 Perfect Parries in a row"
+    },
+    {
+      "apiname": "KILLS_BY_TRAPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Field of Battle",
+      "description": "Kill 100 enemies using environmental hazards"
+    },
+    {
+      "apiname": "KILLS_ALERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silence",
+      "description": "Kill 5 enemies while they are conducting a Call for Reinforcements"
+    },
+    {
+      "apiname": "PVE_TYRANID_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Xenos Exterminator",
+      "description": "Kill 1000 Tyranids in Operations mode"
+    },
+    {
+      "apiname": "PVE_CHAOS_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thousand Dead Sons",
+      "description": "Kill 1000 Chaos servants in Operations mode"
+    },
+    {
+      "apiname": "TOTAL_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still a True Son of the Emperor",
+      "description": "Kill 41,000 Enemies (all game modes combined)"
+    },
+    {
+      "apiname": "PVP_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glorious Victory",
+      "description": "Win any match in Eternal War mode"
+    },
+    {
+      "apiname": "PVP_WIN_CLASSES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tactical Genius",
+      "description": "Win a match in Eternal War mode with every Class"
+    },
+    {
+      "apiname": "PVP_DEATHMATCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Machine",
+      "description": "Play 10 Annihilation matches in Eternal War mode"
+    },
+    {
+      "apiname": "PVP_KOH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unwavering Faith",
+      "description": "Play 10 Capture and Control matches in Eternal War mode"
+    },
+    {
+      "apiname": "PVP_DOMINATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominator",
+      "description": "Play 10 Seize Ground matches in Eternal War mode"
+    },
+    {
+      "apiname": "PVP_KILLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merciless",
+      "description": "Achieve a streak of 5 kills without dying in Eternal War mode"
+    },
+    {
+      "apiname": "ALL_ACHIEVEMENTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Defender of Humanity",
+      "description": "Overcome every challenge and achieve ultimate victory"
+    }
+  ]
+}

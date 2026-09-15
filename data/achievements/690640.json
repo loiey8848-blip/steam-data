@@ -1,0 +1,284 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 690640,
+  "game": "Trine 4: The Nightmare Prince",
+  "total": 39,
+  "unlocked": 8,
+  "percent": 20.5,
+  "updated_at_utc": "2026-09-15T06:50:26.609992+00:00",
+  "achievements": [
+    {
+      "apiname": "complete_l01",
+      "achieved": 1,
+      "unlocktime": 1751804489,
+      "name": "A Wizard's Quest",
+      "description": "Complete A Wintery Morning"
+    },
+    {
+      "apiname": "complete_l02",
+      "achieved": 1,
+      "unlocktime": 1751805198,
+      "name": "A Knightly Quest",
+      "description": "Complete The Cursed Manor"
+    },
+    {
+      "apiname": "complete_l03",
+      "achieved": 1,
+      "unlocktime": 1751805976,
+      "name": "An Enterprising Quest",
+      "description": "Complete A Masquerade Night"
+    },
+    {
+      "apiname": "complete_l04",
+      "achieved": 1,
+      "unlocktime": 1751809742,
+      "name": "Across the Moors",
+      "description": "Complete Craghill Moors"
+    },
+    {
+      "apiname": "complete_l05",
+      "achieved": 1,
+      "unlocktime": 1751812210,
+      "name": "Through the Thorns",
+      "description": "Complete The Thorny Hedge Maze"
+    },
+    {
+      "apiname": "complete_l06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Running in Ruins",
+      "description": "Complete Heatherwood Hall"
+    },
+    {
+      "apiname": "complete_l07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Castle in a Dream",
+      "description": "Complete The Prince's Dream"
+    },
+    {
+      "apiname": "complete_l08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moths in Moonlight",
+      "description": "Complete Moonlit Forests"
+    },
+    {
+      "apiname": "complete_l09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Badger's Journal",
+      "description": "Complete The Badgerborough"
+    },
+    {
+      "apiname": "complete_l10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hedgehog's Seeds",
+      "description": "Complete Goldleaf Garden"
+    },
+    {
+      "apiname": "complete_l11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Dip in the Lake",
+      "description": "Complete Firwood Water"
+    },
+    {
+      "apiname": "complete_l12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bogged Down",
+      "description": "Complete The Crackling Mire"
+    },
+    {
+      "apiname": "complete_l13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Suddenly a Bear",
+      "description": "Complete The Blueberry Forest"
+    },
+    {
+      "apiname": "complete_l14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Potion of Light",
+      "description": "Complete The Gossamer Grove"
+    },
+    {
+      "apiname": "complete_l15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everything is Fine",
+      "description": "Complete Snow-Topped Heights"
+    },
+    {
+      "apiname": "complete_l16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Darker Depths",
+      "description": "Complete The Nightmare Academy"
+    },
+    {
+      "apiname": "complete_l17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chasing Shadows",
+      "description": "Complete Haunted Tombs"
+    },
+    {
+      "apiname": "complete_game",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Recover a Prince",
+      "description": "Deal with the Nightmare Prince once and for all"
+    },
+    {
+      "apiname": "find_exp_l01",
+      "achieved": 1,
+      "unlocktime": 1751804471,
+      "name": "The Morning Hunt",
+      "description": "Collect all experience in A Wintery Morning"
+    },
+    {
+      "apiname": "find_exp_l02",
+      "achieved": 1,
+      "unlocktime": 1751804915,
+      "name": "The Cursed Hunt",
+      "description": "Collect all experience in The Cursed Manor"
+    },
+    {
+      "apiname": "find_exp_l03",
+      "achieved": 1,
+      "unlocktime": 1751805876,
+      "name": "The Masquerade Hunt",
+      "description": "Collect all experience in A Masquerade Night"
+    },
+    {
+      "apiname": "find_exp_l04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Craghill Hunt",
+      "description": "Collect all experience in Craghill Moors"
+    },
+    {
+      "apiname": "find_exp_l05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Thorny Hunt",
+      "description": "Collect all experience in The Thorny Hedge Maze"
+    },
+    {
+      "apiname": "find_exp_l06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looting Ruins",
+      "description": "Collect all experience in Heatherwood Hall"
+    },
+    {
+      "apiname": "find_exp_l07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweeping Dreams",
+      "description": "Collect all experience in The Prince's Dream"
+    },
+    {
+      "apiname": "find_exp_l08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Moonlit Hunt",
+      "description": "Collect all experience in Moonlit Forests"
+    },
+    {
+      "apiname": "find_exp_l09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Underground Hunt",
+      "description": "Collect all experience in The Badgerborough"
+    },
+    {
+      "apiname": "find_exp_l10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Golden Hunt",
+      "description": "Collect all experience in Goldleaf Garden"
+    },
+    {
+      "apiname": "find_exp_l11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lakeside Hunt",
+      "description": "Collect all experience in Firwood Water"
+    },
+    {
+      "apiname": "find_exp_l12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mired Hunt",
+      "description": "Collect all experience in The Crackling Mire"
+    },
+    {
+      "apiname": "find_exp_l13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blueberry Hunt",
+      "description": "Collect all experience in The Blueberry Forest"
+    },
+    {
+      "apiname": "find_exp_l14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Gossamer Hunt",
+      "description": "Collect all experience in The Gossamer Grove"
+    },
+    {
+      "apiname": "find_exp_l15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Snowbound Hunt",
+      "description": "Collect all experience in Snow-Topped Heights"
+    },
+    {
+      "apiname": "find_exp_l16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nightmare Hunt",
+      "description": "Collect all experience in The Nightmare Academy"
+    },
+    {
+      "apiname": "find_exp_l17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Haunted Hunt",
+      "description": "Collect all experience in Haunted Tombs"
+    },
+    {
+      "apiname": "find_exp_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Hunter",
+      "description": "Collect all experience throughout Acts I-V"
+    },
+    {
+      "apiname": "find_letters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Class Delivery",
+      "description": "Collect all Letters throughout Acts I-V"
+    },
+    {
+      "apiname": "find_treasures",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Seeker",
+      "description": "Collect all Treasures throughout Acts I-V"
+    },
+    {
+      "apiname": "find_toys",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bits and Pieces",
+      "description": "Collect all Knicknacks throughout Acts I-V"
+    }
+  ]
+}

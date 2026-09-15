@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3639650,
+  "game": "Kotama and Academy Citadel",
+  "total": 40,
+  "unlocked": 40,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:32.834967+00:00",
+  "achievements": [
+    {
+      "apiname": "101",
+      "achieved": 1,
+      "unlocktime": 1774877652,
+      "name": "Arrowhead Alpha",
+      "description": "Defeat Sailfish."
+    },
+    {
+      "apiname": "102",
+      "achieved": 1,
+      "unlocktime": 1774948034,
+      "name": "Dreamweaver",
+      "description": "Defeat Klara & Stage Device."
+    },
+    {
+      "apiname": "103",
+      "achieved": 1,
+      "unlocktime": 1779075475,
+      "name": "The Decomposer",
+      "description": "Defeat Bio-Regen Life Support System."
+    },
+    {
+      "apiname": "104",
+      "achieved": 1,
+      "unlocktime": 1779085662,
+      "name": "Spatial Cruiser",
+      "description": "Defeat EDI & Eliane."
+    },
+    {
+      "apiname": "105",
+      "achieved": 1,
+      "unlocktime": 1779101906,
+      "name": "Planet Pioneer",
+      "description": "Defeat Aegis."
+    },
+    {
+      "apiname": "106",
+      "achieved": 1,
+      "unlocktime": 1779123802,
+      "name": "The Principal",
+      "description": "Defeat AI Academy Admin Network."
+    },
+    {
+      "apiname": "107",
+      "achieved": 1,
+      "unlocktime": 1781944830,
+      "name": "The Carmel Star",
+      "description": ""
+    },
+    {
+      "apiname": "108",
+      "achieved": 1,
+      "unlocktime": 1781945940,
+      "name": "Kotama",
+      "description": ""
+    },
+    {
+      "apiname": "109",
+      "achieved": 1,
+      "unlocktime": 1779101906,
+      "name": "Reliable ",
+      "description": "Enhance any weapon to its maximum level."
+    },
+    {
+      "apiname": "110",
+      "achieved": 1,
+      "unlocktime": 1779104022,
+      "name": "Acting Disciplinary Supervisor",
+      "description": "Obtain all weapons."
+    },
+    {
+      "apiname": "111",
+      "achieved": 1,
+      "unlocktime": 1781941594,
+      "name": "You Are All My ",
+      "description": "Enhance all weapons to their maximum level."
+    },
+    {
+      "apiname": "112",
+      "achieved": 1,
+      "unlocktime": 1779105641,
+      "name": "The Pinnacle of Excellence",
+      "description": "Unlock all skills for any weapon."
+    },
+    {
+      "apiname": "113",
+      "achieved": 1,
+      "unlocktime": 1781944587,
+      "name": "Master of Weapons",
+      "description": "Unlock all skills for every weapon."
+    },
+    {
+      "apiname": "114",
+      "achieved": 1,
+      "unlocktime": 1781931620,
+      "name": "Life Jade",
+      "description": "Collect all Life Jade Shards."
+    },
+    {
+      "apiname": "115",
+      "achieved": 1,
+      "unlocktime": 1781941594,
+      "name": "Absolute Chronofield",
+      "description": "Collect all Chronopetals."
+    },
+    {
+      "apiname": "116",
+      "achieved": 1,
+      "unlocktime": 1781933305,
+      "name": "Back to the Past",
+      "description": "Collect all Temporal Coils."
+    },
+    {
+      "apiname": "117",
+      "achieved": 1,
+      "unlocktime": 1781948984,
+      "name": "Memocard Fanatic",
+      "description": "Collect all Memocards."
+    },
+    {
+      "apiname": "118",
+      "achieved": 1,
+      "unlocktime": 1781945703,
+      "name": "Full Power Unleashed",
+      "description": "Maximize Memocard slots."
+    },
+    {
+      "apiname": "119",
+      "achieved": 1,
+      "unlocktime": 1779077662,
+      "name": "Dangerous Goods",
+      "description": "Recover the first banned Film in Carmel."
+    },
+    {
+      "apiname": "120",
+      "achieved": 1,
+      "unlocktime": 1781945341,
+      "name": "The President's Trust",
+      "description": "Recover all Films."
+    },
+    {
+      "apiname": "121",
+      "achieved": 1,
+      "unlocktime": 1774877652,
+      "name": "The Candidate",
+      "description": "Receive the students' votes for the first time."
+    },
+    {
+      "apiname": "122",
+      "achieved": 1,
+      "unlocktime": 1781934394,
+      "name": "Dreamforge",
+      "description": ""
+    },
+    {
+      "apiname": "123",
+      "achieved": 1,
+      "unlocktime": 1779126897,
+      "name": "Fungal Crisis",
+      "description": ""
+    },
+    {
+      "apiname": "124",
+      "achieved": 1,
+      "unlocktime": 1779126486,
+      "name": "The Stumbling Girl",
+      "description": ""
+    },
+    {
+      "apiname": "125",
+      "achieved": 1,
+      "unlocktime": 1779127517,
+      "name": "Ibis's Dream",
+      "description": ""
+    },
+    {
+      "apiname": "126",
+      "achieved": 1,
+      "unlocktime": 1779122011,
+      "name": "Platform of Beginnings",
+      "description": ""
+    },
+    {
+      "apiname": "127",
+      "achieved": 1,
+      "unlocktime": 1779127787,
+      "name": "Consumerist Trap",
+      "description": "Purchase every item in Saya's shop."
+    },
+    {
+      "apiname": "128",
+      "achieved": 1,
+      "unlocktime": 1781943040,
+      "name": "The Future",
+      "description": ""
+    },
+    {
+      "apiname": "129",
+      "achieved": 1,
+      "unlocktime": 1779105078,
+      "name": "Passage Permit",
+      "description": "Offer the four administrators' Keepsakes to activate the elevator to the Tower."
+    },
+    {
+      "apiname": "130",
+      "achieved": 1,
+      "unlocktime": 1781942438,
+      "name": "Return to Reality",
+      "description": ""
+    },
+    {
+      "apiname": "131",
+      "achieved": 1,
+      "unlocktime": 1781947913,
+      "name": "One More Beginning",
+      "description": ""
+    },
+    {
+      "apiname": "132",
+      "achieved": 1,
+      "unlocktime": 1781946344,
+      "name": "Farewell to the Solar System",
+      "description": ""
+    },
+    {
+      "apiname": "133",
+      "achieved": 1,
+      "unlocktime": 1781945429,
+      "name": "Return to Earth",
+      "description": ""
+    },
+    {
+      "apiname": "134",
+      "achieved": 1,
+      "unlocktime": 1781943209,
+      "name": "Save the Cat",
+      "description": ""
+    },
+    {
+      "apiname": "135",
+      "achieved": 1,
+      "unlocktime": 1781943351,
+      "name": "Stargazer",
+      "description": ""
+    },
+    {
+      "apiname": "136",
+      "achieved": 1,
+      "unlocktime": 1781946432,
+      "name": "Honor Student",
+      "description": "Finish the game on Challenge difficulty."
+    },
+    {
+      "apiname": "137",
+      "achieved": 1,
+      "unlocktime": 1781951664,
+      "name": "Humanoid Auto-Guide",
+      "description": "Achieve 100% map exploration."
+    },
+    {
+      "apiname": "139",
+      "achieved": 1,
+      "unlocktime": 1781950262,
+      "name": "The People's Choice",
+      "description": "Achieve 100% of the votes."
+    },
+    {
+      "apiname": "200",
+      "achieved": 1,
+      "unlocktime": 1781951664,
+      "name": "Kotama and Academy Citadel",
+      "description": "Unlock all achievements."
+    },
+    {
+      "apiname": "140",
+      "achieved": 1,
+      "unlocktime": 1779125850,
+      "name": "Hall of Fame",
+      "description": ""
+    }
+  ]
+}

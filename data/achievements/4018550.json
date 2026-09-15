@@ -1,0 +1,123 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4018550,
+  "game": "Cat Isle",
+  "total": 16,
+  "unlocked": 14,
+  "percent": 87.5,
+  "updated_at_utc": "2026-09-15T06:53:38.374638+00:00",
+  "achievements": [
+    {
+      "apiname": "LEVEL_0_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1787623007,
+      "name": "Ready for business",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "LEVEL_1_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1787784713,
+      "name": "Biggest trophy",
+      "description": "Showcase Heron's biggest trophy"
+    },
+    {
+      "apiname": "LEVEL_2_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1787819246,
+      "name": "Reunited",
+      "description": "Reunite the deer"
+    },
+    {
+      "apiname": "LEVEL_3_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1787820263,
+      "name": "Brave to fly",
+      "description": "Make them brave enough to fly"
+    },
+    {
+      "apiname": "LEVEL_4_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1787821761,
+      "name": "A moment to remember",
+      "description": "Fund the festival and finish the main game"
+    },
+    {
+      "apiname": "METROPOLIS",
+      "achieved": 1,
+      "unlocktime": 1787929275,
+      "name": "Cat Metropolis",
+      "description": "Reach a population of 100"
+    },
+    {
+      "apiname": "FESTIVAL_BAND",
+      "achieved": 1,
+      "unlocktime": 1787822712,
+      "name": "You got the band back together",
+      "description": "Add all 3 band members to festival tower"
+    },
+    {
+      "apiname": "100K_GOLD",
+      "achieved": 1,
+      "unlocktime": 1787923633,
+      "name": "Swimming in gold",
+      "description": "Have 100k gold"
+    },
+    {
+      "apiname": "CHAIR_ROOF",
+      "achieved": 1,
+      "unlocktime": 1787822743,
+      "name": "Are you sure about that?",
+      "description": "Add chair on roof"
+    },
+    {
+      "apiname": "4_HERO",
+      "achieved": 1,
+      "unlocktime": 1787928808,
+      "name": "Friends together",
+      "description": "Build 4 hero buildings in the Sandbox Mode"
+    },
+    {
+      "apiname": "HOUSE_AC",
+      "achieved": 1,
+      "unlocktime": 1787928808,
+      "name": "Coolest house",
+      "description": "Reach 100% comfort in a house with only AC's"
+    },
+    {
+      "apiname": "BALLOON_BUSINESS",
+      "achieved": 1,
+      "unlocktime": 1787924245,
+      "name": "Business Casual",
+      "description": "Add tie and earing to the air balloon"
+    },
+    {
+      "apiname": "PET_10_CATS",
+      "achieved": 1,
+      "unlocktime": 1787623325,
+      "name": "Gotta pet 'em all",
+      "description": "Pet 10 different cats in a single day"
+    },
+    {
+      "apiname": "FAR_AWAY",
+      "achieved": 1,
+      "unlocktime": 1787930266,
+      "name": "Gray meows beyond",
+      "description": "Reach the end of the background texture. In honor of The (damseled) princess"
+    },
+    {
+      "apiname": "SPEED_CHALLENGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faster than the Creators",
+      "description": "Complete the Speed Challenge at any level"
+    },
+    {
+      "apiname": "HARD_MODE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenge Accepted",
+      "description": "Complete any level in Hard Mode"
+    }
+  ]
+}

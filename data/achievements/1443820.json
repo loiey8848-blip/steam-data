@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1443820,
+  "game": "BustyBiz",
+  "total": 40,
+  "unlocked": 2,
+  "percent": 5.0,
+  "updated_at_utc": "2026-09-15T06:51:51.308075+00:00",
+  "achievements": [
+    {
+      "apiname": "meet_girls_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New stud in town",
+      "description": "Meet 5 unique girls"
+    },
+    {
+      "apiname": "meet_girls_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting around",
+      "description": "Meet 9 unique girls"
+    },
+    {
+      "apiname": "meet_girls_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meeting them all",
+      "description": "Meet 12 unique girls"
+    },
+    {
+      "apiname": "unlock_mountain_area",
+      "achieved": 1,
+      "unlocktime": 1736159954,
+      "name": "Explorer",
+      "description": "Unlock the mountain area"
+    },
+    {
+      "apiname": "unlock_city_area",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metropolitan",
+      "description": "Unlock the city area"
+    },
+    {
+      "apiname": "unlock_desert_area",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nomad",
+      "description": "Unlock the desert area"
+    },
+    {
+      "apiname": "talk_to_girls_1",
+      "achieved": 1,
+      "unlocktime": 1736159954,
+      "name": "Small Talk",
+      "description": "Talk to girls 10 times"
+    },
+    {
+      "apiname": "talk_to_girls_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good talk",
+      "description": "Talk to girls 50 times"
+    },
+    {
+      "apiname": "talk_to_girls_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conversationalist",
+      "description": "Talk to girls 200 times"
+    },
+    {
+      "apiname": "participate_in_tournament_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trying my luck",
+      "description": "Participate in the weekly tournament 3 times"
+    },
+    {
+      "apiname": "participate_in_tournament_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good start",
+      "description": "Participate in the weekly tournament 10 times"
+    },
+    {
+      "apiname": "participate_in_tournament_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go getter",
+      "description": "Participate in the weekly tournament 20 times"
+    },
+    {
+      "apiname": "unlock_photos_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Something to look at",
+      "description": "Unlock 10 photos"
+    },
+    {
+      "apiname": "unlock_photos_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Picture perfect",
+      "description": "Unlock 25 photos"
+    },
+    {
+      "apiname": "unlock_photos_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Private collection",
+      "description": "Unlock 50 photos"
+    },
+    {
+      "apiname": "play_clickers_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warming up",
+      "description": "Play 100 clickers"
+    },
+    {
+      "apiname": "play_clickers_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Button smasher",
+      "description": "Play 250 clickers"
+    },
+    {
+      "apiname": "play_clickers_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mouse destroyer",
+      "description": "Play 500 clickers"
+    },
+    {
+      "apiname": "complete_parties_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's get this party started",
+      "description": "Complete 10 parties"
+    },
+    {
+      "apiname": "complete_parties_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party goer",
+      "description": "Complete 50 parties"
+    },
+    {
+      "apiname": "complete_parties_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party animal",
+      "description": "Complete 150 parties"
+    },
+    {
+      "apiname": "find_treasures_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "X marks the spot",
+      "description": "Find 100 treasures"
+    },
+    {
+      "apiname": "find_treasures_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure hunter",
+      "description": "Find 500 treasures"
+    },
+    {
+      "apiname": "find_treasures_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold digger",
+      "description": "Find 1000 treasures"
+    },
+    {
+      "apiname": "complete_activities_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hustler",
+      "description": "Complete 100 activities"
+    },
+    {
+      "apiname": "unlock_skills_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fun to be around",
+      "description": "Unlock 5 skills"
+    },
+    {
+      "apiname": "finish_scarlett",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scarlett lover",
+      "description": "Finish all conversations with Scarlett"
+    },
+    {
+      "apiname": "finish_sandy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sandy lover",
+      "description": ""
+    },
+    {
+      "apiname": "finish_rose",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rose lover",
+      "description": "Finish all conversations with Rose"
+    },
+    {
+      "apiname": "finish_rachel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rachel lover",
+      "description": "Finish all conversations with Rachel"
+    },
+    {
+      "apiname": "finish_pamela",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pamela lover",
+      "description": "Finish all conversations with Pamela"
+    },
+    {
+      "apiname": "finish_michelle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Michelle lover",
+      "description": "Finish all conversations with Michelle"
+    },
+    {
+      "apiname": "finish_megan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Megan lover",
+      "description": "Finish all conversations with Megan"
+    },
+    {
+      "apiname": "finish_jennifer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jennifer lover",
+      "description": "Finish all conversations with Jennifer"
+    },
+    {
+      "apiname": "finish_jaimee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jaimee lover",
+      "description": "Finish all conversations with Jaimee"
+    },
+    {
+      "apiname": "finish_irina",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Irina lover",
+      "description": "Finish all conversations with Irina"
+    },
+    {
+      "apiname": "finish_britney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Britney lover",
+      "description": "Finish all conversations with Britney"
+    },
+    {
+      "apiname": "finish_ashley",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ashley lover",
+      "description": "Finish all conversations with Ashley"
+    },
+    {
+      "apiname": "finish_anna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anna lover",
+      "description": "Finish all conversations with Anna"
+    },
+    {
+      "apiname": "unlock_statues_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Philanthropist",
+      "description": "Unlock 1 statue"
+    }
+  ]
+}

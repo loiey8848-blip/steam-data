@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2638890,
+  "game": "Onimusha: Way of the Sword",
+  "total": 52,
+  "unlocked": 52,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:53.365642+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_001",
+      "achieved": 1,
+      "unlocktime": 1788845745,
+      "name": "Peerless",
+      "description": "Unlock all achievements."
+    },
+    {
+      "apiname": "ACHIEVEMENT_002",
+      "achieved": 1,
+      "unlocktime": 1788502340,
+      "name": "Onimusha Showdown",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_003",
+      "achieved": 1,
+      "unlocktime": 1788511296,
+      "name": "Get Stuffed",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_004",
+      "achieved": 1,
+      "unlocktime": 1788516777,
+      "name": "Twisted Fates",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_005",
+      "achieved": 1,
+      "unlocktime": 1788529163,
+      "name": "Howling Wind",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_006",
+      "achieved": 1,
+      "unlocktime": 1788538075,
+      "name": "Dokyo's Fixation",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_007",
+      "achieved": 1,
+      "unlocktime": 1788553369,
+      "name": "Benkei: Out, but Not Down",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_008",
+      "achieved": 1,
+      "unlocktime": 1788576187,
+      "name": "Crashing Lightning",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_009",
+      "achieved": 1,
+      "unlocktime": 1788594828,
+      "name": "Wide Awake",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_010",
+      "achieved": 1,
+      "unlocktime": 1788610731,
+      "name": "The Perfect Storm",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_011",
+      "achieved": 1,
+      "unlocktime": 1788618966,
+      "name": "We Done Here?",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_012",
+      "achieved": 1,
+      "unlocktime": 1788619993,
+      "name": "End This Madness",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_013",
+      "achieved": 1,
+      "unlocktime": 1788624913,
+      "name": "Baited by Benkei",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_014",
+      "achieved": 1,
+      "unlocktime": 1788632059,
+      "name": "Truly, Thank You",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_015",
+      "achieved": 1,
+      "unlocktime": 1788549035,
+      "name": "Mystery Solved",
+      "description": "Complete your first Mystery of Kyoto."
+    },
+    {
+      "apiname": "ACHIEVEMENT_016",
+      "achieved": 1,
+      "unlocktime": 1788605986,
+      "name": "Demystified",
+      "description": "Complete all Mysteries of Kyoto."
+    },
+    {
+      "apiname": "ACHIEVEMENT_017",
+      "achieved": 1,
+      "unlocktime": 1788519713,
+      "name": "Life-Saver",
+      "description": "Complete your first Chance Encounter."
+    },
+    {
+      "apiname": "ACHIEVEMENT_018",
+      "achieved": 1,
+      "unlocktime": 1788624181,
+      "name": "No Job Too Small",
+      "description": "Complete all Chance Encounters."
+    },
+    {
+      "apiname": "ACHIEVEMENT_019",
+      "achieved": 1,
+      "unlocktime": 1788548155,
+      "name": "Serves You Right",
+      "description": "Defeat the Byakue at Kiyomizu-dera Temple."
+    },
+    {
+      "apiname": "ACHIEVEMENT_020",
+      "achieved": 1,
+      "unlocktime": 1788674935,
+      "name": "Citizen Savior",
+      "description": "Rescue 30 townspeople from marauding Genma."
+    },
+    {
+      "apiname": "ACHIEVEMENT_021",
+      "achieved": 1,
+      "unlocktime": 1788528555,
+      "name": "Selfish Selflessness",
+      "description": "Rescue a merchant that's being attacked by Genma."
+    },
+    {
+      "apiname": "ACHIEVEMENT_022",
+      "achieved": 1,
+      "unlocktime": 1788538075,
+      "name": "No Dog Left Behind",
+      "description": "Rescue your first Lion Dog."
+    },
+    {
+      "apiname": "ACHIEVEMENT_023",
+      "achieved": 1,
+      "unlocktime": 1788624257,
+      "name": "For the Love of Dog",
+      "description": "Rescue all the Lion Dogs."
+    },
+    {
+      "apiname": "ACHIEVEMENT_024",
+      "achieved": 1,
+      "unlocktime": 1788662184,
+      "name": "Genma-ologist",
+      "description": "Collect all the Genma notes."
+    },
+    {
+      "apiname": "ACHIEVEMENT_025",
+      "achieved": 1,
+      "unlocktime": 1788835967,
+      "name": "True Onimusha",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_026",
+      "achieved": 1,
+      "unlocktime": 1788515199,
+      "name": "Second Helping",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_027",
+      "achieved": 1,
+      "unlocktime": 1788845745,
+      "name": "Glutton for Punishment",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_028",
+      "achieved": 1,
+      "unlocktime": 1788626021,
+      "name": "The Winding Way of the Sword",
+      "description": "Learn and upgrade all basic or special skills."
+    },
+    {
+      "apiname": "ACHIEVEMENT_029",
+      "achieved": 1,
+      "unlocktime": 1788787217,
+      "name": "Well-Rounded",
+      "description": "Learn and upgrade all basic and special skills."
+    },
+    {
+      "apiname": "ACHIEVEMENT_030",
+      "achieved": 1,
+      "unlocktime": 1788514501,
+      "name": "Looking Sharp",
+      "description": "Enhance a piece of equipment for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_031",
+      "achieved": 1,
+      "unlocktime": 1788681618,
+      "name": "Dressed to Kill",
+      "description": "Enhance all equipment to the maximum level."
+    },
+    {
+      "apiname": "ACHIEVEMENT_032",
+      "achieved": 1,
+      "unlocktime": 1788657473,
+      "name": "Oni Armory",
+      "description": "Acquire all Oni Armaments."
+    },
+    {
+      "apiname": "ACHIEVEMENT_033",
+      "achieved": 1,
+      "unlocktime": 1788557718,
+      "name": "Health Is Wealth",
+      "description": "Enhance a Hozuki Pouch to the maximum level."
+    },
+    {
+      "apiname": "ACHIEVEMENT_034",
+      "achieved": 1,
+      "unlocktime": 1788681640,
+      "name": "Medical Marvel",
+      "description": "Enhance all Hozuki Pouches to the maximum level."
+    },
+    {
+      "apiname": "ACHIEVEMENT_035",
+      "achieved": 1,
+      "unlocktime": 1788554627,
+      "name": "A Real Charmer",
+      "description": "Enhance a charm to the maximum level."
+    },
+    {
+      "apiname": "ACHIEVEMENT_036",
+      "achieved": 1,
+      "unlocktime": 1788682048,
+      "name": "Charmed Life",
+      "description": "Enhance all charms to the maximum level."
+    },
+    {
+      "apiname": "ACHIEVEMENT_037",
+      "achieved": 1,
+      "unlocktime": 1788550383,
+      "name": "Burning Blade",
+      "description": "Defeat 50 foes while in the Blazing State."
+    },
+    {
+      "apiname": "ACHIEVEMENT_038",
+      "achieved": 1,
+      "unlocktime": 1788585743,
+      "name": "Stop Motion",
+      "description": "Perform 50 Reflex Combos."
+    },
+    {
+      "apiname": "ACHIEVEMENT_039",
+      "achieved": 1,
+      "unlocktime": 1788656710,
+      "name": "Wielder of Oni Armaments",
+      "description": "Defeat 100 enemies with Oni Armaments."
+    },
+    {
+      "apiname": "ACHIEVEMENT_040",
+      "achieved": 1,
+      "unlocktime": 1788681618,
+      "name": "Oni's Oni",
+      "description": "Defeat 50 enemies in the Oni Awakened state."
+    },
+    {
+      "apiname": "ACHIEVEMENT_041",
+      "achieved": 1,
+      "unlocktime": 1788550325,
+      "name": "Brutalist",
+      "description": "Land 50 Issen attacks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_042",
+      "achieved": 1,
+      "unlocktime": 1788666298,
+      "name": "Flow State",
+      "description": "Defeat 50 enemies with Chain Issen attacks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_043",
+      "achieved": 1,
+      "unlocktime": 1788590173,
+      "name": "Silent Violence",
+      "description": "Assassinate 20 enemies."
+    },
+    {
+      "apiname": "ACHIEVEMENT_044",
+      "achieved": 1,
+      "unlocktime": 1788522150,
+      "name": "Pinch Hitter",
+      "description": "Deflect 50 projectiles."
+    },
+    {
+      "apiname": "ACHIEVEMENT_045",
+      "achieved": 1,
+      "unlocktime": 1788586619,
+      "name": "Deadeye",
+      "description": "Score 100 headshots with your bow."
+    },
+    {
+      "apiname": "ACHIEVEMENT_046",
+      "achieved": 1,
+      "unlocktime": 1788538075,
+      "name": "Winning Is What Matters",
+      "description": "Carry out 50 attacks with environmental objects."
+    },
+    {
+      "apiname": "ACHIEVEMENT_047",
+      "achieved": 1,
+      "unlocktime": 1788576951,
+      "name": "Untouchable",
+      "description": "Perform 50 Grab Reversals."
+    },
+    {
+      "apiname": "ACHIEVEMENT_048",
+      "achieved": 1,
+      "unlocktime": 1788553996,
+      "name": "Coming Through!",
+      "description": "Break an enemy's guard 50 times."
+    },
+    {
+      "apiname": "ACHIEVEMENT_049",
+      "achieved": 1,
+      "unlocktime": 1788582134,
+      "name": "Helm Splitter",
+      "description": "Break 100 shields or pieces of enemy armor."
+    },
+    {
+      "apiname": "ACHIEVEMENT_050",
+      "achieved": 1,
+      "unlocktime": 1788501221,
+      "name": "Get This Thing Off Me",
+      "description": "Absorb 30 or more souls at once."
+    },
+    {
+      "apiname": "ACHIEVEMENT_051",
+      "achieved": 1,
+      "unlocktime": 1788538075,
+      "name": "Berserker",
+      "description": "Defeat 3 enemies with continuous Break Issen attacks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_052",
+      "achieved": 1,
+      "unlocktime": 1788555648,
+      "name": "Genma Griller",
+      "description": "Set three enemies ablaze at once."
+    }
+  ]
+}

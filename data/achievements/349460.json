@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 349460,
+  "game": "Lord of the Dark Castle",
+  "total": 25,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:26.942110+00:00",
+  "achievements": [
+    {
+      "apiname": "explorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Explore 95+ percent of all Normal Levels during a game."
+    },
+    {
+      "apiname": "treasureHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Collect at least 10,000 gold during a game."
+    },
+    {
+      "apiname": "artifactCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artifact Collector",
+      "description": "Collect at least 3 items worth at least 1500 gold each during a game."
+    },
+    {
+      "apiname": "windRunner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wind Runner",
+      "description": "Complete the game in less than 3000 turns."
+    },
+    {
+      "apiname": "templeRaider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Temple Raider",
+      "description": "Visit at least 5 mysterious portal areas during a game."
+    },
+    {
+      "apiname": "skilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skilled",
+      "description": "Get at least 10 skills during a game."
+    },
+    {
+      "apiname": "illusionist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Illusionist",
+      "description": "Get the following skills during a game: Ghost Vision, See Invisible, Alchemist, Improved Invisibility, Strong Soul"
+    },
+    {
+      "apiname": "spellCaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spell Caster",
+      "description": "Cast more than 10 magic spells during a game."
+    },
+    {
+      "apiname": "elementalist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elementalist",
+      "description": "Gain 90+ resistance vs Fire, Cold, Disease and Poison during a game."
+    },
+    {
+      "apiname": "royalArmorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "RoyalArmorer",
+      "description": "Gain at least 20 protection during a game."
+    },
+    {
+      "apiname": "monsterKiller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Monster Killer",
+      "description": "Kill at least 85 monsters during a game."
+    },
+    {
+      "apiname": "dragonSlayer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Slayer",
+      "description": "Kill at least 10 dragons during a game."
+    },
+    {
+      "apiname": "damageDealer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Damage Dealer",
+      "description": "Score a 100+ damage hit during a game."
+    },
+    {
+      "apiname": "crusher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crusher",
+      "description": "Destroy at least 10 enemy armor pieces during a game."
+    },
+    {
+      "apiname": "lifeLeech",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life Leech",
+      "description": "Drain at least 200 Life from enemies during a game."
+    },
+    {
+      "apiname": "assassin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin",
+      "description": "Get at least 10 instant kills during a game."
+    },
+    {
+      "apiname": "backstabber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backstabber",
+      "description": "Score at least 20 critical hits during a game."
+    },
+    {
+      "apiname": "longFingered",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Fingered",
+      "description": "Steal at least 3 items from enemies during a game."
+    },
+    {
+      "apiname": "lockSmith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lock Smith",
+      "description": "Pick at least 10 locks during a game."
+    },
+    {
+      "apiname": "silentShadow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent Shadow",
+      "description": "Complete the game with less than 50 killed monsters."
+    },
+    {
+      "apiname": "lonelyRanger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lonely Ranger",
+      "description": "Get the following skills during a game: Scout, Tracker, Bow Master, Lightnint Reflexes, Alertness"
+    },
+    {
+      "apiname": "trickyThief",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tricky Thief",
+      "description": "Get the following skills during a game: Stinging Poison, Detect Traps, Pick Locks, Steal, Sneak"
+    },
+    {
+      "apiname": "mightyBarbarian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mighty Barbarian",
+      "description": "Get the following skills during a game: Axe Master, Charge, Giant's Health, Heavy Hits, Survivor"
+    },
+    {
+      "apiname": "heroicPaladin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heroic Paladin",
+      "description": "Get the following skills during a game: Shield Bash, Armor Specialist, Stone Skin, Strong Soul, Holy Wrath"
+    },
+    {
+      "apiname": "masterOfArms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Arms",
+      "description": "Get the following skills during a game: Bow Master, Axe Master, Sword Master, Staff Master, Shield Bash"
+    }
+  ]
+}

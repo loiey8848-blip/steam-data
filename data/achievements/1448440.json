@@ -1,0 +1,641 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1448440,
+  "game": "Wo Long: Fallen Dynasty",
+  "total": 90,
+  "unlocked": 51,
+  "percent": 56.7,
+  "updated_at_utc": "2026-09-15T06:51:51.500877+00:00",
+  "achievements": [
+    {
+      "apiname": "TROPHY_PLATINUM",
+      "achieved": 1,
+      "unlocktime": 1762864627,
+      "name": "Wo Long",
+      "description": "Unlocked all achievements."
+    },
+    {
+      "apiname": "TROPHY_001",
+      "achieved": 1,
+      "unlocktime": 1677860832,
+      "name": "At Fifteen I Joined the Army",
+      "description": "Reached Level 15."
+    },
+    {
+      "apiname": "TROPHY_002",
+      "achieved": 1,
+      "unlocktime": 1677895991,
+      "name": "Only at Eighty Did I Finally Return",
+      "description": "Reached Level 80."
+    },
+    {
+      "apiname": "TROPHY_003",
+      "achieved": 1,
+      "unlocktime": 1677850185,
+      "name": "Journey's Beginning",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_004",
+      "achieved": 1,
+      "unlocktime": 1677856624,
+      "name": "Vow of the Stalwart",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_005",
+      "achieved": 1,
+      "unlocktime": 1677860630,
+      "name": "Will of the Loyal",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_006",
+      "achieved": 1,
+      "unlocktime": 1677897917,
+      "name": "Ambition of the Tiger",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_007",
+      "achieved": 1,
+      "unlocktime": 1677899699,
+      "name": "Guardian of Peace",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_008",
+      "achieved": 1,
+      "unlocktime": 1677918652,
+      "name": "Awakening of the Unscrupulous Hero",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_009",
+      "achieved": 1,
+      "unlocktime": 1677939644,
+      "name": "Mightiest of Men",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_010",
+      "achieved": 1,
+      "unlocktime": 1677943858,
+      "name": "Guidance of the Constellations",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_011",
+      "achieved": 1,
+      "unlocktime": 1677949608,
+      "name": "Succession",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_012",
+      "achieved": 1,
+      "unlocktime": 1677952351,
+      "name": "Familial Ties",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_013",
+      "achieved": 1,
+      "unlocktime": 1677955303,
+      "name": "The Steadfast Duo",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_014",
+      "achieved": 1,
+      "unlocktime": 1677994197,
+      "name": "Fearless Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_015",
+      "achieved": 1,
+      "unlocktime": 1677998045,
+      "name": "Entrusted Legacy",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_016",
+      "achieved": 1,
+      "unlocktime": 1678001939,
+      "name": "Aspiration and Amity",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_017",
+      "achieved": 1,
+      "unlocktime": 1678006735,
+      "name": "Dreams of Unity",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_018",
+      "achieved": 1,
+      "unlocktime": 1678007312,
+      "name": "Annihilator of Evil",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_019",
+      "achieved": 1,
+      "unlocktime": 1678008418,
+      "name": "Open Eyes",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_020",
+      "achieved": 1,
+      "unlocktime": 1762496412,
+      "name": "Battle-hardened",
+      "description": "Dominated 15 sub battlefields."
+    },
+    {
+      "apiname": "TROPHY_021",
+      "achieved": 1,
+      "unlocktime": 1762841367,
+      "name": "Hunting the Great Deer",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_022",
+      "achieved": 1,
+      "unlocktime": 1677858264,
+      "name": "Craftsmanship",
+      "description": "Upgraded your first piece of equipment."
+    },
+    {
+      "apiname": "TROPHY_023",
+      "achieved": 1,
+      "unlocktime": 1678002380,
+      "name": "Keen-edged",
+      "description": "Upgraded a weapon to its fullest capacity."
+    },
+    {
+      "apiname": "TROPHY_024",
+      "achieved": 1,
+      "unlocktime": 1678002439,
+      "name": "Adamantine",
+      "description": "Upgraded a piece of armor to its fullest capacity."
+    },
+    {
+      "apiname": "TROPHY_025",
+      "achieved": 1,
+      "unlocktime": 1677945933,
+      "name": "All That Glitters",
+      "description": "Embedded your first jewel at the Forge."
+    },
+    {
+      "apiname": "TROPHY_026",
+      "achieved": 1,
+      "unlocktime": 1677919408,
+      "name": "Decor Maketh the Man",
+      "description": "Decorated your first item at the Forge."
+    },
+    {
+      "apiname": "TROPHY_027",
+      "achieved": 1,
+      "unlocktime": 1677850896,
+      "name": "Wizardry Beginner",
+      "description": "Learned your first Wizardry Spell."
+    },
+    {
+      "apiname": "TROPHY_028",
+      "achieved": 1,
+      "unlocktime": 1762494240,
+      "name": "Wizardry Master",
+      "description": "Learned all Wizardry Spells."
+    },
+    {
+      "apiname": "TROPHY_029",
+      "achieved": 1,
+      "unlocktime": 1677949411,
+      "name": "First Phase",
+      "description": "Interacted with the Five Phases for the first time."
+    },
+    {
+      "apiname": "TROPHY_030",
+      "achieved": 1,
+      "unlocktime": 1677917767,
+      "name": "Unstoppable",
+      "description": "Raised Morale Rank to 20 for the first time."
+    },
+    {
+      "apiname": "TROPHY_031",
+      "achieved": 1,
+      "unlocktime": 1677955501,
+      "name": "Merit beyond Measure",
+      "description": "Received a sworn brothers' boon for the first time."
+    },
+    {
+      "apiname": "TROPHY_032",
+      "achieved": 1,
+      "unlocktime": 1762496536,
+      "name": "Great Gatherings",
+      "description": "Joined forces with all available warriors."
+    },
+    {
+      "apiname": "TROPHY_033",
+      "achieved": 1,
+      "unlocktime": 1677942132,
+      "name": "Fantastic Form",
+      "description": "Equipped a full 4★ set consisting of: melee weapon, ranged weapon, accessory, and 4 armor pieces."
+    },
+    {
+      "apiname": "TROPHY_034",
+      "achieved": 1,
+      "unlocktime": 1762854133,
+      "name": "Pots and Potions",
+      "description": "Upgraded the Dragon's Cure Pot to its greatest capacity and effectiveness."
+    },
+    {
+      "apiname": "TROPHY_035",
+      "achieved": 1,
+      "unlocktime": 1762864627,
+      "name": "Well-read",
+      "description": "Collected all tablets."
+    },
+    {
+      "apiname": "TROPHY_036",
+      "achieved": 1,
+      "unlocktime": 1677849286,
+      "name": "Best Flag Forward",
+      "description": "Raised your first Battle Flag."
+    },
+    {
+      "apiname": "TROPHY_037",
+      "achieved": 1,
+      "unlocktime": 1762863639,
+      "name": "Fly It High",
+      "description": "Raised all Battle Flags."
+    },
+    {
+      "apiname": "TROPHY_038",
+      "achieved": 1,
+      "unlocktime": 1677859227,
+      "name": "How Cute!",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_039",
+      "achieved": 1,
+      "unlocktime": 1762862881,
+      "name": "How Precious!",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_040",
+      "achieved": 1,
+      "unlocktime": 1677850019,
+      "name": "Sharp Reflexes",
+      "description": "Successfully deflected 10 critical blows."
+    },
+    {
+      "apiname": "TROPHY_041",
+      "achieved": 1,
+      "unlocktime": 1677897012,
+      "name": "Vulnerable Moments",
+      "description": "Landed 50 Fatal Strikes."
+    },
+    {
+      "apiname": "TROPHY_042",
+      "achieved": 1,
+      "unlocktime": 1762395267,
+      "name": "Side by Side",
+      "description": "Dominated 10 battlefields with a companion."
+    },
+    {
+      "apiname": "TROPHY_043",
+      "achieved": 1,
+      "unlocktime": 1677997051,
+      "name": "Eye for an Eye",
+      "description": "Fended off invaders 10 times."
+    },
+    {
+      "apiname": "TROPHY_044",
+      "achieved": 1,
+      "unlocktime": 1677856930,
+      "name": "Righteous Judgment",
+      "description": "Exacted vengeance 10 times."
+    },
+    {
+      "apiname": "TROPHY_045",
+      "achieved": 1,
+      "unlocktime": 1677993783,
+      "name": "Call to Arms",
+      "description": "Used 10 Tiger Seals."
+    },
+    {
+      "apiname": "TROPHY_046",
+      "achieved": 1,
+      "unlocktime": 1762496199,
+      "name": "Heroes Will Rise",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_047",
+      "achieved": 1,
+      "unlocktime": 1677859726,
+      "name": "Staunching Heresy",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_048",
+      "achieved": 1,
+      "unlocktime": 1762453511,
+      "name": "Dogged Justice",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_049",
+      "achieved": 1,
+      "unlocktime": 1762494240,
+      "name": "Strung Bow",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_050",
+      "achieved": 1,
+      "unlocktime": 1762864412,
+      "name": "Ascension",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paragon of Brute Strength",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hour of Advancement",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death of Elai",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Guileless Tiger",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Illusions of Taiping Taoism",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tactical Prodigy",
+      "description": "Conquered 5 main and sub battlefields of Battle of Zhongyuan."
+    },
+    {
+      "apiname": "TROPHY_DLC_006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Unscrupulous Hero",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dominator of Zhongyuan",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't Think, Feel",
+      "description": "Defeated 100 enemies using cestuses."
+    },
+    {
+      "apiname": "TROPHY_DLC_009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chasing the Wind",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sage Pauses when Guests Call",
+      "description": "Swore oaths with all of the new allies in Battle of Zhongyuan."
+    },
+    {
+      "apiname": "TROPHY_DLC_011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fan of Shitieshou",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC_012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beware of Fire!",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Avast Ye!",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharpen Your Sword",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ambition of the Brave",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tiger Roars",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eyes of Blue and Beard of Red",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inheritor of the Tiger's Blood",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overlord's Achievement",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Art of Swordsmanship",
+      "description": "Defeated 100 enemies using long swords."
+    },
+    {
+      "apiname": "TROPHY_DLC2_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kunpeng's Flight",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tiger's Subordinates",
+      "description": "Swore oaths with all of the new allies in Conqueror of Jiangdong."
+    },
+    {
+      "apiname": "TROPHY_DLC2_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shitieshou Maniac",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fireship Attack",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC2_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Watchful Tiger",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full of Youthful Vigor",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Forlorn Swordsman",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rotten Bones in the Crypt",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Once an Unruly Girl",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Preeminent Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of Benevolence",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Benefactor of Jing Province",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whip of the Heaven",
+      "description": "Defeated 100 enemies using whips."
+    },
+    {
+      "apiname": "TROPHY_DLC3_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Meteoric Rise",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heroes Gather",
+      "description": "Swore oaths with all of the new allies in Upheaval in Jingxiang."
+    },
+    {
+      "apiname": "TROPHY_DLC3_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maniac of Shitieshou",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Premonition of War",
+      "description": ""
+    },
+    {
+      "apiname": "TROPHY_DLC3_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dark Clouds Part",
+      "description": ""
+    }
+  ]
+}

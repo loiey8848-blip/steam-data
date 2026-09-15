@@ -1,0 +1,235 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4165310,
+  "game": "Loot Tycoon",
+  "total": 32,
+  "unlocked": 32,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:39.388636+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_OPEN_ONE_CHEST",
+      "achieved": 1,
+      "unlocktime": 1782187088,
+      "name": "First Plunder",
+      "description": "Open your very first chest."
+    },
+    {
+      "apiname": "ACH_FINISH_ONE_ADVENTURE",
+      "achieved": 1,
+      "unlocktime": 1782187088,
+      "name": "Taking the Plunge",
+      "description": "Successfully complete your first adventure run."
+    },
+    {
+      "apiname": "ACH_FIRST_KILL_BOSS",
+      "achieved": 1,
+      "unlocktime": 1782187234,
+      "name": "Boss Slayer",
+      "description": "Defeat your first Boss-level enemy."
+    },
+    {
+      "apiname": "ACH_GET_ANCIENT_RARE_ITEM",
+      "achieved": 1,
+      "unlocktime": 1782187235,
+      "name": "Relic Hunter",
+      "description": "Acquire a Relic item."
+    },
+    {
+      "apiname": "ACH_ALL_LEVEL_MAX",
+      "achieved": 1,
+      "unlocktime": 1782205678,
+      "name": "Maxed Out",
+      "description": "Upgrade everything to the maximum level."
+    },
+    {
+      "apiname": "ACH_PROFIT_100K",
+      "achieved": 1,
+      "unlocktime": 1782189269,
+      "name": "Pocket Change",
+      "description": "Earn a total of 100,000 Gold."
+    },
+    {
+      "apiname": "ACH_PROFIT_1M",
+      "achieved": 1,
+      "unlocktime": 1782191349,
+      "name": "Making Bank",
+      "description": "Earn a total of 1,000,000 Gold."
+    },
+    {
+      "apiname": "ACH_PROFIT_10M",
+      "achieved": 1,
+      "unlocktime": 1782198207,
+      "name": "Filthy Rich",
+      "description": "Earn a total of 10,000,000 Gold."
+    },
+    {
+      "apiname": "ACH_PROFIT_100M",
+      "achieved": 1,
+      "unlocktime": 1782210382,
+      "name": "A Small Fortune",
+      "description": "Earn a total of 100,000,000 Gold."
+    },
+    {
+      "apiname": "ACH_SELL_TREASURE_10",
+      "achieved": 1,
+      "unlocktime": 1782188153,
+      "name": "Prized Seller",
+      "description": "Sell 10 Prized items."
+    },
+    {
+      "apiname": "ACH_SELL_TREASURE_50",
+      "achieved": 1,
+      "unlocktime": 1782190112,
+      "name": "Prized Merchant",
+      "description": "Sell 50 Prized items."
+    },
+    {
+      "apiname": "ACH_SELL_TREASURE_100",
+      "achieved": 1,
+      "unlocktime": 1782195643,
+      "name": "Prized Tycoon",
+      "description": "Sell 100 Prized items."
+    },
+    {
+      "apiname": "ACH_SELL_RELIC_10",
+      "achieved": 1,
+      "unlocktime": 1782195898,
+      "name": "Relic Seller",
+      "description": "Sell 10 Relic items."
+    },
+    {
+      "apiname": "ACH_SELL_RELIC_50",
+      "achieved": 1,
+      "unlocktime": 1782201775,
+      "name": "Relic Merchant",
+      "description": "Sell 50 Relic items."
+    },
+    {
+      "apiname": "ACH_SELL_RELIC_100",
+      "achieved": 1,
+      "unlocktime": 1782203187,
+      "name": "Relic Tycoon",
+      "description": "Sell 100 Relic items."
+    },
+    {
+      "apiname": "ACH_KILL_MONSTER_100",
+      "achieved": 1,
+      "unlocktime": 1782187224,
+      "name": "Monster Hunter",
+      "description": "Slay 100 monsters."
+    },
+    {
+      "apiname": "ACH_KILL_MONSTER_500",
+      "achieved": 1,
+      "unlocktime": 1782188510,
+      "name": "Demon Slayer",
+      "description": "Slay 500 monsters."
+    },
+    {
+      "apiname": "ACH_KILL_MONSTER_1000",
+      "achieved": 1,
+      "unlocktime": 1782189145,
+      "name": "Monster Bane",
+      "description": "Slay 1,000 monsters."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_5",
+      "achieved": 1,
+      "unlocktime": 1782187643,
+      "name": "Rookie Adventurer",
+      "description": "Clear Adventure Level 5."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_10",
+      "achieved": 1,
+      "unlocktime": 1782188236,
+      "name": "Seasoned Adventurer",
+      "description": "Clear Adventure Level 10."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_20",
+      "achieved": 1,
+      "unlocktime": 1782189125,
+      "name": "Veteran Adventurer",
+      "description": "Clear Adventure Level 20."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_30",
+      "achieved": 1,
+      "unlocktime": 1782190152,
+      "name": "Elite Adventurer",
+      "description": "Clear Adventure Level 30."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_40",
+      "achieved": 1,
+      "unlocktime": 1782190805,
+      "name": "Master Adventurer",
+      "description": "Clear Adventure Level 40."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_50",
+      "achieved": 1,
+      "unlocktime": 1782191403,
+      "name": "Grandmaster Adventurer",
+      "description": "Clear Adventure Level 50."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_60",
+      "achieved": 1,
+      "unlocktime": 1782195846,
+      "name": "Legendary Adventurer",
+      "description": "Clear Adventure Level 60."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_70",
+      "achieved": 1,
+      "unlocktime": 1782196620,
+      "name": "Mythic Adventurer",
+      "description": "Clear Adventure Level 70."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_80",
+      "achieved": 1,
+      "unlocktime": 1782197511,
+      "name": "Epic Adventurer",
+      "description": "Clear Adventure Level 80."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_90",
+      "achieved": 1,
+      "unlocktime": 1782198406,
+      "name": "Pinnacle Adventurer",
+      "description": "Clear Adventure Level 90."
+    },
+    {
+      "apiname": "ACH_ADVENTURE_LEVEL_100",
+      "achieved": 1,
+      "unlocktime": 1782199644,
+      "name": "God of Adventure",
+      "description": "Clear Adventure Level 100."
+    },
+    {
+      "apiname": "ACH_UNIQUE_WORN",
+      "achieved": 1,
+      "unlocktime": 1782187099,
+      "name": "Uniquely Geared",
+      "description": "Equip your very first Unique item."
+    },
+    {
+      "apiname": "ACH_FIRST_ARENA_TRIUMPH",
+      "achieved": 1,
+      "unlocktime": 1782189537,
+      "name": "Arena Rookie",
+      "description": "Win your first Arena match."
+    },
+    {
+      "apiname": "ACH_ARENA_VICTORIES_10",
+      "achieved": 1,
+      "unlocktime": 1782199985,
+      "name": "Arena Gladiator",
+      "description": "Win 10 Arena matches."
+    }
+  ]
+}

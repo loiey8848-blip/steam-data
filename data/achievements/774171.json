@@ -1,0 +1,284 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 774171,
+  "game": "Muse Dash",
+  "total": 39,
+  "unlocked": 7,
+  "percent": 17.9,
+  "updated_at_utc": "2026-09-15T06:50:43.775303+00:00",
+  "achievements": [
+    {
+      "apiname": "welcome",
+      "achieved": 1,
+      "unlocktime": 1766809910,
+      "name": "Welcome to Muse Dash",
+      "description": "Complete the tutorial stage"
+    },
+    {
+      "apiname": "first_time",
+      "achieved": 1,
+      "unlocktime": 1766810132,
+      "name": "The First Time",
+      "description": "Clear a stage"
+    },
+    {
+      "apiname": "the_strong_of_the_weak",
+      "achieved": 1,
+      "unlocktime": 1766905467,
+      "name": "The Strongest among the Weak",
+      "description": "Clear 20 stages"
+    },
+    {
+      "apiname": "mainstay",
+      "achieved": 1,
+      "unlocktime": 1766906131,
+      "name": "Tower of Strength",
+      "description": "Clear 20 Hard Mode stages"
+    },
+    {
+      "apiname": "big_shot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You’ve Conquered It!",
+      "description": "Clear 10 Master Mode stages"
+    },
+    {
+      "apiname": "get_s",
+      "achieved": 1,
+      "unlocktime": 1766810132,
+      "name": "S",
+      "description": "Achieve grade \"S\" in a stage"
+    },
+    {
+      "apiname": "new_type",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NewType",
+      "description": "Achieve grade \"S\" in a Lv.7 or Lv.7+ stage"
+    },
+    {
+      "apiname": "full_combo",
+      "achieved": 1,
+      "unlocktime": 1766828276,
+      "name": "Full Combo!!",
+      "description": "Get Full Combo in a stage"
+    },
+    {
+      "apiname": "combo_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Combo Master",
+      "description": "Get Full Combo in 30 different stages"
+    },
+    {
+      "apiname": "three_hundred",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Combo!",
+      "description": "Reach 300 Combo in a stage"
+    },
+    {
+      "apiname": "have_a_great",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Have a Great",
+      "description": "Clear a stage with only one \"Great\""
+    },
+    {
+      "apiname": "close_combat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Melee Fight",
+      "description": "Totally knock back 100 BOSS's melee attacks"
+    },
+    {
+      "apiname": "precise_location",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accurate Positioning",
+      "description": "Select a song through Music Index, Difficulty Filter or Search and play it"
+    },
+    {
+      "apiname": "point_to_walk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Walk on the Tip of a Blade",
+      "description": "Clear a song with Little Devil Marija"
+    },
+    {
+      "apiname": "genre_of_awareness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stream of Consciousness",
+      "description": "Totally knock back 300 Ghosts"
+    },
+    {
+      "apiname": "love_fill_the_home",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Love Actually",
+      "description": "Totally collect 300 Red Hearts"
+    },
+    {
+      "apiname": "note_collector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blue Notes Hunter",
+      "description": "Totally collect 500 Notes"
+    },
+    {
+      "apiname": "several_jobs_in_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Playing along Both Lines",
+      "description": "Totally knock back 100 enemies or BOSS's remote attacks while playing a Sheet (hold note)"
+    },
+    {
+      "apiname": "some_shojo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is the Order a Lovely Girl? ~ I started from scratch and did everything I could to become a Muse master with 14 lovely girls. However, when I looked forward to a happy life in this exotic world, I was suddenly thrown into a \"scene of carnage\" of gears and hanging hammers. There must be something wrong with my Lovely Girl Monogatari~ For these girls’ bright future, I must successfully play Lv.12 songs!",
+      "description": "Totally unlock 14 characters"
+    },
+    {
+      "apiname": "musemon_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musemon Master",
+      "description": "Totally collect 8 elfins"
+    },
+    {
+      "apiname": "illustration_collection",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Illustration Collection",
+      "description": "Totally collect 20 illustrations"
+    },
+    {
+      "apiname": "trytry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have a Try?",
+      "description": "Play a Lv.11 stage"
+    },
+    {
+      "apiname": "sancheck",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sancheck",
+      "description": "Clear a Mopemope stage at any difficulty level"
+    },
+    {
+      "apiname": "rear_end",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uh-oh, a Rear-end Collision…",
+      "description": "Clear a Blackest Luxury Car stage at any difficulty level"
+    },
+    {
+      "apiname": "found_icon",
+      "achieved": 1,
+      "unlocktime": 1766905931,
+      "name": "APP Logo Found!",
+      "description": "Clear a Lights of Muse stage at any difficulty level"
+    },
+    {
+      "apiname": "christmas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I don't care about Christmas though",
+      "description": "Clear a stage of I don’t care about Christmas though at any difficulty level"
+    },
+    {
+      "apiname": "trick_or_treat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trick or treat?",
+      "description": "Clear an umpopoff stage at difficulty level \"?\""
+    },
+    {
+      "apiname": "village",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conquering the Newbie Zone",
+      "description": "Finish the tutorial April Fool's Day ver"
+    },
+    {
+      "apiname": "otherworld",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Inner World",
+      "description": ""
+    },
+    {
+      "apiname": "abandoning_treatment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give Up Treatment",
+      "description": ""
+    },
+    {
+      "apiname": "gentleman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "GENTLEMAN",
+      "description": ""
+    },
+    {
+      "apiname": "does_it_works",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Is That OK? ",
+      "description": ""
+    },
+    {
+      "apiname": "peak_of_life",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Peak at It",
+      "description": ""
+    },
+    {
+      "apiname": "just_one",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One More Needed",
+      "description": ""
+    },
+    {
+      "apiname": "god_finger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hands of God",
+      "description": ""
+    },
+    {
+      "apiname": "the_new_teaching",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tutorial",
+      "description": ""
+    },
+    {
+      "apiname": "no_man_land",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mujinku",
+      "description": ""
+    },
+    {
+      "apiname": "muse_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Muse Master",
+      "description": ""
+    },
+    {
+      "apiname": "the_muse_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "THE MUSEM@STER",
+      "description": ""
+    }
+  ]
+}

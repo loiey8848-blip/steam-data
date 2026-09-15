@@ -1,0 +1,445 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1368140,
+  "game": "Corsair Cove",
+  "total": 62,
+  "unlocked": 62,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:51:37.641417+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_PROG_SHIP_01",
+      "achieved": 1,
+      "unlocktime": 1786499591,
+      "name": "Apprentice Shipwright",
+      "description": "Build your first ship."
+    },
+    {
+      "apiname": "ACH_PROG_SHIP_02",
+      "achieved": 1,
+      "unlocktime": 1786579942,
+      "name": "Journeyman Shipwright",
+      "description": "Build a mid-level ship."
+    },
+    {
+      "apiname": "ACH_PROG_SHIP_03",
+      "achieved": 1,
+      "unlocktime": 1786579942,
+      "name": "Master Shipwright",
+      "description": "Build a ship of the highest level."
+    },
+    {
+      "apiname": "ACH_PROG_POLICY_01",
+      "achieved": 1,
+      "unlocktime": 1786504068,
+      "name": "Under Jolly Roger",
+      "description": "Complete your first Principle Quest."
+    },
+    {
+      "apiname": "ACH_PROG_BUILDING_01",
+      "achieved": 1,
+      "unlocktime": 1786555098,
+      "name": "Pirate Hideout",
+      "description": "Construct 100 buildings on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_BUILDING_02",
+      "achieved": 1,
+      "unlocktime": 1786720092,
+      "name": "Pirate Harbour",
+      "description": "Construct 500 buildings on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_BUILDING_03",
+      "achieved": 1,
+      "unlocktime": 1786773878,
+      "name": "Pirate Haven",
+      "description": "Construct 1000 buildings on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_CAREVENT_01",
+      "achieved": 1,
+      "unlocktime": 1786499839,
+      "name": "Setting Sail",
+      "description": "Complete your first Event in the Seven Seas."
+    },
+    {
+      "apiname": "ACH_PROG_CAREVENT_02",
+      "achieved": 1,
+      "unlocktime": 1786606717,
+      "name": "Smooth Sailing",
+      "description": "Complete 50 Events in the Seven Seas."
+    },
+    {
+      "apiname": "ACH_PROG_CAREVENT_03",
+      "achieved": 1,
+      "unlocktime": 1786666879,
+      "name": "Seasoned Sailor",
+      "description": "Complete 100 Events in the Seven Seas."
+    },
+    {
+      "apiname": "ACH_PROG_POP_01",
+      "achieved": 1,
+      "unlocktime": 1786503196,
+      "name": "Leader of the Lawless",
+      "description": "Have 100 pirates on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_POP_02",
+      "achieved": 1,
+      "unlocktime": 1786606818,
+      "name": "Minister of Misfits",
+      "description": "Have 500 pirates on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_POP_03",
+      "achieved": 1,
+      "unlocktime": 1786609183,
+      "name": "Prince of Pirates",
+      "description": "Have 1000 pirates on your Island."
+    },
+    {
+      "apiname": "ACH_PROG_CREW_01",
+      "achieved": 1,
+      "unlocktime": 1786582136,
+      "name": "All For One …",
+      "description": "Hire 500 Crew for your ships."
+    },
+    {
+      "apiname": "ACH_PROG_CREW_02",
+      "achieved": 1,
+      "unlocktime": 1786774902,
+      "name": "… And One For All!",
+      "description": "Hire 5000 Crew for your ships."
+    },
+    {
+      "apiname": "ACH_CHAL_PIRATECAMPS_01",
+      "achieved": 1,
+      "unlocktime": 1786768998,
+      "name": "Spreading like Wildfire",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_DISTILLERY",
+      "achieved": 1,
+      "unlocktime": 1786502718,
+      "name": "And a Bottle of Rum",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_PIRATECAMPS_02",
+      "achieved": 1,
+      "unlocktime": 1786674023,
+      "name": "Crowded Cliff",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_SEABEAST",
+      "achieved": 1,
+      "unlocktime": 1786669378,
+      "name": "You Kraken Me Up",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_MAP_DEADLYBEAUTY",
+      "achieved": 1,
+      "unlocktime": 1786767841,
+      "name": "Sinkhole Sailor",
+      "description": "Finish the game on 'Devil's Basin'."
+    },
+    {
+      "apiname": "ACH_MAP_SHIPGRAVEYARD",
+      "achieved": 1,
+      "unlocktime": 1786755671,
+      "name": "Ghost of the Graveyard",
+      "description": "Finish the game on 'Ship Graveyard'."
+    },
+    {
+      "apiname": "ACH_MAP_SKULLROCK",
+      "achieved": 1,
+      "unlocktime": 1786674023,
+      "name": "Skull Rock Conqueror",
+      "description": "Finish the game on 'Skull Rock'."
+    },
+    {
+      "apiname": "ACH_CHAL_FARMS",
+      "achieved": 1,
+      "unlocktime": 1786749249,
+      "name": "Piña Colada",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_FLEET",
+      "achieved": 1,
+      "unlocktime": 1786749187,
+      "name": "Fleet Commander",
+      "description": "Have a fleet of 6 ships."
+    },
+    {
+      "apiname": "ACH_CHAL_NOFORTIFICATION",
+      "achieved": 1,
+      "unlocktime": 1786753945,
+      "name": "You Shall Not Pass!",
+      "description": "Intercept 25 Crown Attacks against your Island."
+    },
+    {
+      "apiname": "ACH_CHAL_SHIPLOSS",
+      "achieved": 1,
+      "unlocktime": 1786539044,
+      "name": "Wet Grave",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_UNVEILED",
+      "achieved": 1,
+      "unlocktime": 1786670998,
+      "name": "Master Navigator",
+      "description": "Discover all regions of the Seven Seas."
+    },
+    {
+      "apiname": "ACH_CHAL_ZIPLINES",
+      "achieved": 1,
+      "unlocktime": 1786719140,
+      "name": "Weeeeeeeeee!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_AMARA",
+      "achieved": 1,
+      "unlocktime": 1786695515,
+      "name": "One of Us!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PROG_MONUMENT_E",
+      "achieved": 1,
+      "unlocktime": 1786579983,
+      "name": "All Guns Blazing",
+      "description": "Build a Military Fortress."
+    },
+    {
+      "apiname": "ACH_PROG_MONUMENT_N",
+      "achieved": 1,
+      "unlocktime": 1786719209,
+      "name": "Favour of the Depths",
+      "description": "Build an Ocean Coliseum."
+    },
+    {
+      "apiname": "ACH_PROG_MONUMENT_S",
+      "achieved": 1,
+      "unlocktime": 1786584222,
+      "name": "Guiding Light",
+      "description": "Build a Great Lighthouse."
+    },
+    {
+      "apiname": "ACH_PROG_MONUMENT_W",
+      "achieved": 1,
+      "unlocktime": 1786579942,
+      "name": "Endless Spoils",
+      "description": "Build a Golden Palace."
+    },
+    {
+      "apiname": "ACH_PROG_PROCLAMATION_E",
+      "achieved": 1,
+      "unlocktime": 1786722569,
+      "name": "Seeds of an Empire",
+      "description": "Complete the Proclamation of Empire."
+    },
+    {
+      "apiname": "ACH_PROG_PROCLAMATION_N",
+      "achieved": 1,
+      "unlocktime": 1786674016,
+      "name": "The Undying Legend",
+      "description": "Complete the Proclamation of Notoriety."
+    },
+    {
+      "apiname": "ACH_PROG_PROCLAMATION_S",
+      "achieved": 1,
+      "unlocktime": 1786721277,
+      "name": "Lords of the Sea",
+      "description": "Complete the Proclamation of Seafaring."
+    },
+    {
+      "apiname": "ACH_PROG_PROCLAMATION_W",
+      "achieved": 1,
+      "unlocktime": 1786721758,
+      "name": "The Power of Gold",
+      "description": "Complete the Proclamation of Wealth."
+    },
+    {
+      "apiname": "ACH_STORY_SKULLROCK_01",
+      "achieved": 1,
+      "unlocktime": 1786500419,
+      "name": "Back Behind the Counter",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SKULLROCK_02",
+      "achieved": 1,
+      "unlocktime": 1786608107,
+      "name": "Turning the Tide",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SKULLROCK_03",
+      "achieved": 1,
+      "unlocktime": 1786669481,
+      "name": "Bloody Parley",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SKULLROCK_04",
+      "achieved": 1,
+      "unlocktime": 1786670148,
+      "name": "Political Hostage",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SKULLROCK_05",
+      "achieved": 1,
+      "unlocktime": 1786674016,
+      "name": "Tides of Fate",
+      "description": "Complete the quest 'Tides of Fate'."
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_AUDENZIA",
+      "achieved": 1,
+      "unlocktime": 1786671185,
+      "name": "Memento Moro",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_CHEN",
+      "achieved": 1,
+      "unlocktime": 1786670043,
+      "name": "Big Trouble in the Seven Seas",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_JONAH",
+      "achieved": 1,
+      "unlocktime": 1786584468,
+      "name": "Mad Prophet",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_REAPER",
+      "achieved": 1,
+      "unlocktime": 1786749496,
+      "name": "Don't Fear The Reaper",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHAL_SAILORPIG",
+      "achieved": 1,
+      "unlocktime": 1786667949,
+      "name": "Piggie Pirate",
+      "description": "Complete the quest 'The Sailor Pig'."
+    },
+    {
+      "apiname": "ACH_STORY_DEADLYBEAUTY_01",
+      "achieved": 1,
+      "unlocktime": 1786764761,
+      "name": "Easy Come, Easy Go",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_DEADLYBEAUTY_02",
+      "achieved": 1,
+      "unlocktime": 1786764831,
+      "name": "Fistful of Coin",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_DEADLYBEAUTY_03",
+      "achieved": 1,
+      "unlocktime": 1786765202,
+      "name": "Swan Song",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_DEADLYBEAUTY_04",
+      "achieved": 1,
+      "unlocktime": 1786765452,
+      "name": "Tales of Red Sails",
+      "description": "Complete the quest 'Tales of Red Sails'."
+    },
+    {
+      "apiname": "ACH_STORY_SHIPGRAVEYARD_01",
+      "achieved": 1,
+      "unlocktime": 1786752262,
+      "name": "Jawsome!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SHIPGRAVEYARD_02",
+      "achieved": 1,
+      "unlocktime": 1786752717,
+      "name": "Black Rite in Black Night",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SHIPGRAVEYARD_03",
+      "achieved": 1,
+      "unlocktime": 1786752945,
+      "name": "Grave Re-enactment",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_STORY_SHIPGRAVEYARD_04",
+      "achieved": 1,
+      "unlocktime": 1786754022,
+      "name": "From the Wreckage",
+      "description": "Complete the quest 'From the Wreckage'."
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_CHARLIE",
+      "achieved": 1,
+      "unlocktime": 1786554083,
+      "name": "Sharp as a Tack",
+      "description": "Recruit Charlie."
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_ENRIQUE",
+      "achieved": 1,
+      "unlocktime": 1786554364,
+      "name": "Rebel Without a Cause",
+      "description": "Recruit Enrique."
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_PHOENIX",
+      "achieved": 1,
+      "unlocktime": 1786556070,
+      "name": "Firebrand",
+      "description": "Recruit Timothy."
+    },
+    {
+      "apiname": "ACH_CHAL_RECRUIT_RAVEN",
+      "achieved": 1,
+      "unlocktime": 1786504053,
+      "name": "All That Glitters",
+      "description": "Recruit Raven."
+    },
+    {
+      "apiname": "ACH_CHAL_WILDFIREWITCH",
+      "achieved": 1,
+      "unlocktime": 1786671909,
+      "name": "Everywhere All At Once",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PROG_COIN_01",
+      "achieved": 1,
+      "unlocktime": 1786576917,
+      "name": "Take What You Can …",
+      "description": "Obtain 10,000 Coin."
+    },
+    {
+      "apiname": "ACH_PROG_COIN_02",
+      "achieved": 1,
+      "unlocktime": 1786769846,
+      "name": "… Give Nothing Back!",
+      "description": "Obtain 100,000 Coin."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2878420,
+  "game": "Old Market Simulator",
+  "total": 30,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:53:08.956031+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farmer's Joy",
+      "description": "Harvest your first crop."
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tree-Mendous",
+      "description": "Harvest from a tree for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Whisperer",
+      "description": "Catch your first fish."
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Animal Gatherer",
+      "description": "Harvest from an animal for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat the Butcher",
+      "description": "Cut up your first animal for meat."
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Net Gain",
+      "description": "Use a fish trap for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "High-Tech Farming",
+      "description": "Harvest your first crop from a greenhouse."
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meat Cutter",
+      "description": "Cut meat at the meat cutter for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Baker's Delight",
+      "description": "Bake your first delicious treat in the oven."
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brand New You",
+      "description": "Change the name of your market."
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "BEEtiful",
+      "description": "Catch bees using a sweep net."
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet Honey",
+      "description": "Harvest honey for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jamtastic",
+      "description": "Produce jam at the jam machine for the first time."
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50K!!!",
+      "description": "Make a sale of 50,000 coins in a single day."
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tax Star",
+      "description": "Pay over 4,000 coins in taxes in one day."
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spender",
+      "description": "Spend over 20,000 coins in a single day."
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Investor",
+      "description": "Place an order worth more than 40,000 coins in a day."
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Stuff",
+      "description": "Use the melting machine to melt something."
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blacksmith",
+      "description": "Use the anvil to craft a weapon."
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Witchcraft",
+      "description": "Use the potion boiler to craft a potion."
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brie-lliant!",
+      "description": "Make a cheese at the cheese machine."
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spicy",
+      "description": "Use the spice machine to prepare a spice."
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fin-tastic",
+      "description": "Fill up your aquarium with every fish species."
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collectionist",
+      "description": "Find every origami piece and display them on the museum's showcase stand."
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carve Diem",
+      "description": "Sculpt your first statue using the sculpting machine."
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Refined Taste",
+      "description": "Produce your first bottle of oil using the oil machine."
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Things Done",
+      "description": "Complete 25 tasks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fifty Shades of Done",
+      "description": "Complete 50 tasks."
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Van-tastic",
+      "description": "Unlock the caravan and start exploring."
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farewell",
+      "description": ""
+    }
+  ]
+}

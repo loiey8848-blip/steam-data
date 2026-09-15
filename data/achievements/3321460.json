@@ -1,0 +1,249 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3321460,
+  "game": "Crimson Desert Enhanced",
+  "total": 34,
+  "unlocked": 16,
+  "percent": 47.1,
+  "updated_at_utc": "2026-09-15T06:53:28.657525+00:00",
+  "achievements": [
+    {
+      "apiname": "NoviceAdventurer",
+      "achieved": 1,
+      "unlocktime": 1773985869,
+      "name": "Novice Adventurer",
+      "description": "Complete chapter 1 of main quests."
+    },
+    {
+      "apiname": "MasterCamper",
+      "achieved": 1,
+      "unlocktime": 1774700020,
+      "name": "Master Camper",
+      "description": "Complete the activation of the camp at Howling Hill."
+    },
+    {
+      "apiname": "MazeHunter",
+      "achieved": 1,
+      "unlocktime": 1775534533,
+      "name": "Maze Pathfinder",
+      "description": "Complete all maze challenges."
+    },
+    {
+      "apiname": "TowerBreaker",
+      "achieved": 1,
+      "unlocktime": 1777624819,
+      "name": "Conqueror of Spires",
+      "description": "Complete all spire challenges."
+    },
+    {
+      "apiname": "StarpathNavigator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Navigator of the Stars",
+      "description": "Complete all constellation challenges."
+    },
+    {
+      "apiname": "Swordmaster",
+      "achieved": 1,
+      "unlocktime": 1775361620,
+      "name": "Master of Swords",
+      "description": "Complete all sword challenges."
+    },
+    {
+      "apiname": "Shieldmaster",
+      "achieved": 1,
+      "unlocktime": 1775584474,
+      "name": "Master of Shields",
+      "description": "Complete all shield challenges."
+    },
+    {
+      "apiname": "Bowmaster",
+      "achieved": 1,
+      "unlocktime": 1775621764,
+      "name": "Master of Bows",
+      "description": "Complete all bow challenges."
+    },
+    {
+      "apiname": "Spearmaster",
+      "achieved": 1,
+      "unlocktime": 1775798780,
+      "name": "Master of Spears",
+      "description": "Complete all spear challenges."
+    },
+    {
+      "apiname": "GreatWeaponMaster",
+      "achieved": 1,
+      "unlocktime": 1775813238,
+      "name": "Master of Two-Handed Weapons",
+      "description": "Complete all two-handed weapon challenges."
+    },
+    {
+      "apiname": "SiegeMaster",
+      "achieved": 1,
+      "unlocktime": 1777606571,
+      "name": "Master of Artillery",
+      "description": "Complete all cannon challenges."
+    },
+    {
+      "apiname": "RapierMaster",
+      "achieved": 1,
+      "unlocktime": 1776020225,
+      "name": "Master of Rapiers",
+      "description": "Complete all rapier and shield challenges."
+    },
+    {
+      "apiname": "Gunmaster",
+      "achieved": 1,
+      "unlocktime": 1777698403,
+      "name": "Master of Firearms",
+      "description": "Complete all gun challenges."
+    },
+    {
+      "apiname": "UnbreakableFighter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Relentless Warrior",
+      "description": "Complete all training challenges."
+    },
+    {
+      "apiname": "BattlefieldWarlord",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battlefield Conqueror",
+      "description": "Complete all battle challenges."
+    },
+    {
+      "apiname": "BrilliantTactician",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brilliant Tactician",
+      "description": "Complete all operation challenges."
+    },
+    {
+      "apiname": "GoldenMerchant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Golden Merchant",
+      "description": "Complete all trade challenges."
+    },
+    {
+      "apiname": "BeastButcherer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Slayer",
+      "description": "Complete all New Power challenges."
+    },
+    {
+      "apiname": "ShadowRuler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadowlord",
+      "description": "Complete all Above the Law challenges."
+    },
+    {
+      "apiname": "HonorarySovereign",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of Honor",
+      "description": "Complete all Challenges and Changes challenges."
+    },
+    {
+      "apiname": "ConfidentReturnee",
+      "achieved": 1,
+      "unlocktime": 1777627628,
+      "name": "Proud Returnee",
+      "description": "Complete the camp relocation to Pailune."
+    },
+    {
+      "apiname": "SceneryPilgrim",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pilgrim of Wonders",
+      "description": "Complete all secret place challenges."
+    },
+    {
+      "apiname": "PuzzleSolver",
+      "achieved": 1,
+      "unlocktime": 1777655582,
+      "name": "Puzzle Solver",
+      "description": "Complete all ancient ruins challenges."
+    },
+    {
+      "apiname": "LightLeader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lightbringer",
+      "description": "Complete all sanctum challenges."
+    },
+    {
+      "apiname": "UltimateWeaponCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Collector of Arms",
+      "description": "Complete all special equipment challenges."
+    },
+    {
+      "apiname": "LegendaryTrainer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tamer of Legends",
+      "description": "Complete all horse challenges."
+    },
+    {
+      "apiname": "GameConqueror",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Gamer",
+      "description": "Complete all minigame challenges."
+    },
+    {
+      "apiname": "PailuneseGuardian",
+      "achieved": 1,
+      "unlocktime": 1775139553,
+      "name": "Protector of Pailune",
+      "description": "Complete chapter 7 of main quests."
+    },
+    {
+      "apiname": "UltimateHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Hunter",
+      "description": "Complete all hunting challenges."
+    },
+    {
+      "apiname": "NaturalGatherer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Natural Collector",
+      "description": "Complete all life challenges."
+    },
+    {
+      "apiname": "ExpertStoryteller",
+      "achieved": 1,
+      "unlocktime": 1775937117,
+      "name": "Expert Storyteller",
+      "description": "Complete all main quests."
+    },
+    {
+      "apiname": "ConqueroroftheAbysses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conqueror of the Abysses",
+      "description": "Complete all Abyss challenges."
+    },
+    {
+      "apiname": "ExpertExplorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Explorer",
+      "description": "Complete all exploration challenges."
+    },
+    {
+      "apiname": "TheUltimateWarrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unvanquished Strategist",
+      "description": "Complete all mastery challenges."
+    }
+  ]
+}

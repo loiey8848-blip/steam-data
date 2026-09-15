@@ -1,0 +1,165 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3027930,
+  "game": "Karate Survivor",
+  "total": 22,
+  "unlocked": 22,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:12.459029+00:00",
+  "achievements": [
+    {
+      "apiname": "AchievUnderbar",
+      "achieved": 1,
+      "unlocktime": 1730544156,
+      "name": "Wrestling",
+      "description": "Get into the isolated room"
+    },
+    {
+      "apiname": "Achiev6Punch",
+      "achieved": 1,
+      "unlocktime": 1730520923,
+      "name": "Ninjutsu",
+      "description": "Collect 6 hits of the same style"
+    },
+    {
+      "apiname": "Achiev7LevelPunch",
+      "achieved": 1,
+      "unlocktime": 1730546801,
+      "name": "Boxing",
+      "description": "Upgrade a hit to level 7"
+    },
+    {
+      "apiname": "AchievUnlockYellow",
+      "achieved": 1,
+      "unlocktime": 1730543852,
+      "name": "Krav Maga",
+      "description": "Unlock a hit of yellow style"
+    },
+    {
+      "apiname": "Achiev30Level",
+      "achieved": 1,
+      "unlocktime": 1730521152,
+      "name": "Muay Thai",
+      "description": "Reach level 30"
+    },
+    {
+      "apiname": "AchievKilGrandpa",
+      "achieved": 1,
+      "unlocktime": 1750002383,
+      "name": "Sambo",
+      "description": "Defeat the crazy old man"
+    },
+    {
+      "apiname": "AchievKillBossSupermarket",
+      "achieved": 1,
+      "unlocktime": 1730521755,
+      "name": "Aikido",
+      "description": "Defeat the boss of the supermarket "
+    },
+    {
+      "apiname": "AchievKillBossBar",
+      "achieved": 1,
+      "unlocktime": 1730523452,
+      "name": "Capoeira",
+      "description": "Defeat the boss of the bar "
+    },
+    {
+      "apiname": "AchievKillBossRoofTop",
+      "achieved": 1,
+      "unlocktime": 1749563373,
+      "name": "Jiu-Jitsu",
+      "description": "Defeat the boss of the rooftop "
+    },
+    {
+      "apiname": "AchievKillBossConstruction",
+      "achieved": 1,
+      "unlocktime": 1749564546,
+      "name": "Kung Fu",
+      "description": "Defeat the boss of the construction site "
+    },
+    {
+      "apiname": "AchievKillBossSubway",
+      "achieved": 1,
+      "unlocktime": 1749567928,
+      "name": "Taekwondo",
+      "description": "Defeat the boss of the subway "
+    },
+    {
+      "apiname": "AchievUse500Object",
+      "achieved": 1,
+      "unlocktime": 1749566992,
+      "name": "Kendo",
+      "description": "Use 500 objects"
+    },
+    {
+      "apiname": "AchievUse100Weapon",
+      "achieved": 1,
+      "unlocktime": 1749567255,
+      "name": "Savate",
+      "description": "Use 100 weapons"
+    },
+    {
+      "apiname": "AchievUseBurito",
+      "achieved": 1,
+      "unlocktime": 1750003574,
+      "name": "Tai Chi",
+      "description": "Use a burrito"
+    },
+    {
+      "apiname": "AchievUseShurikens",
+      "achieved": 1,
+      "unlocktime": 1750941351,
+      "name": "Lethwei",
+      "description": "Use a shuriken"
+    },
+    {
+      "apiname": "AchievUseShotgun",
+      "achieved": 1,
+      "unlocktime": 1749997903,
+      "name": "Hapkido",
+      "description": "Use a shotgun"
+    },
+    {
+      "apiname": "Achiev1Upgrade",
+      "achieved": 1,
+      "unlocktime": 1730523505,
+      "name": "Silat",
+      "description": "Fully buy out one upgrade"
+    },
+    {
+      "apiname": "Achiev5Upgrade",
+      "achieved": 1,
+      "unlocktime": 1749562250,
+      "name": "Judo",
+      "description": "Fully buy out 5 upgrades"
+    },
+    {
+      "apiname": "Achiev10Upgrade",
+      "achieved": 1,
+      "unlocktime": 1749562259,
+      "name": "Arnis",
+      "description": "Fully buy out 10 upgrades"
+    },
+    {
+      "apiname": "AchievUpgradeAll",
+      "achieved": 1,
+      "unlocktime": 1749562289,
+      "name": "Jeet Kune Do",
+      "description": "Fully buy out all upgrades"
+    },
+    {
+      "apiname": "AchievMaster",
+      "achieved": 1,
+      "unlocktime": 1749570635,
+      "name": "Kajukenbo",
+      "description": "Become a master"
+    },
+    {
+      "apiname": "AchievLegend",
+      "achieved": 1,
+      "unlocktime": 1750002415,
+      "name": "Pankration",
+      "description": "Become a legend"
+    }
+  ]
+}

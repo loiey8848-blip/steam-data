@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 359390,
+  "game": "Amnesia™: Memories",
+  "total": 26,
+  "unlocked": 1,
+  "percent": 3.8,
+  "updated_at_utc": "2026-09-15T06:49:33.429290+00:00",
+  "achievements": [
+    {
+      "apiname": "TOROPHY_IDX_PLATINUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories Returned",
+      "description": "Collected every trophy in the game"
+    },
+    {
+      "apiname": "TOROPHY_IDX_PROLOGUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Encounter with Orion",
+      "description": "Cleared the Prologue"
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It Was Love All Along",
+      "description": "Reached the Good Ending in the Heart World"
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_SPADE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fate Truly Brought Us Together",
+      "description": "Reached the Good Ending in the Spade World"
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_DIAMOND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Even Now, and Always... Forever.",
+      "description": "Reached the Good Ending in the Diamond World"
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_CLOVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Will Never Leave You",
+      "description": "Reached the Good Ending in the Clover World"
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_JOKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Most Important Thing",
+      "description": "Reached the Good Ending in the Joker World"
+    },
+    {
+      "apiname": "TOROPHY_IDX_NORMAL_END",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peaceful World",
+      "description": "Reached a normal ending in one of the routes"
+    },
+    {
+      "apiname": "TOROPHY_IDX_BAD_END",
+      "achieved": 1,
+      "unlocktime": 1514202888,
+      "name": "Grim Fate",
+      "description": "Reached a bad ending in one of the routes."
+    },
+    {
+      "apiname": "TOROPHY_IDX_GOOD_END_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Ending Master",
+      "description": "Experienced good endings in all of the routes"
+    },
+    {
+      "apiname": "TOROPHY_IDX_NORMAL_END_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Normal Ending Master",
+      "description": "Experienced normal endings in all of the routes"
+    },
+    {
+      "apiname": "TOROPHY_IDX_BAD_END_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Ending Master",
+      "description": "Experienced bad endings in all of the routes"
+    },
+    {
+      "apiname": "TOROPHY_IDX_ALL_END_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traveler of Worlds",
+      "description": "Experienced every possible ending"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Shin",
+      "description": "Unlocked Memories of Shin"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_SPADE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Ikki",
+      "description": "Unlocked Memories of Ikki"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_DIAMOND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Toma",
+      "description": "Unlocked Memories of Toma"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_CLOVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Kent",
+      "description": "Unlocked Memories of Kent"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_JOKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Ukyo",
+      "description": "Unlocked Memories of Ukyo"
+    },
+    {
+      "apiname": "TOROPHY_IDX_CG_COMPLETE_ETC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eternal Memories",
+      "description": "Unlocked Memories of every character"
+    },
+    {
+      "apiname": "TOROPHY_IDX_MG01_CLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock-Paper-Scissors Champion",
+      "description": "Won against three people in Rock-Paper-Scissors"
+    },
+    {
+      "apiname": "TOROPHY_IDX_MG02_CLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Hockey Champion",
+      "description": "Won against three people in Air Hockey"
+    },
+    {
+      "apiname": "TOROPHY_IDX_MG01_ALL_CLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock-Paper-Scissors Master",
+      "description": "Won against all five people in Rock-Paper-Scissors"
+    },
+    {
+      "apiname": "TOROPHY_IDX_MG02_ALL_CLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Air Hockey Master",
+      "description": "Won against all five people in Air Hockey"
+    },
+    {
+      "apiname": "TOROPHY_IDX_MG_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Congratulations!",
+      "description": "Achieved the Mini Game reward"
+    },
+    {
+      "apiname": "TOROPHY_IDX_EXTRA_SCENARIO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visions Shared",
+      "description": "Witnessed all of the extra stories"
+    },
+    {
+      "apiname": "TOROPHY_IDX_TOUCH_VOICE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secrets Revealed",
+      "description": "Listened to every still image voice"
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1623730,
+  "game": "Palworld",
+  "total": 75,
+  "unlocked": 57,
+  "percent": 76.0,
+  "updated_at_utc": "2026-09-15T06:52:16.081012+00:00",
+  "achievements": [
+    {
+      "apiname": "Pal_Achievement_1",
+      "achieved": 1,
+      "unlocktime": 1705826359,
+      "name": "Hillside Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_2",
+      "achieved": 1,
+      "unlocktime": 1706622715,
+      "name": "Forest Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_3",
+      "achieved": 1,
+      "unlocktime": 1749357913,
+      "name": "Desert Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_4",
+      "achieved": 1,
+      "unlocktime": 1735747451,
+      "name": "Volcano Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_5",
+      "achieved": 1,
+      "unlocktime": 1749359056,
+      "name": "Astral Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_6",
+      "achieved": 1,
+      "unlocktime": 1705768150,
+      "name": "Beginning of the Legend",
+      "description": "Caught your first Pal"
+    },
+    {
+      "apiname": "Pal_Achievement_7",
+      "achieved": 1,
+      "unlocktime": 1706883441,
+      "name": "Newbie Pal Tamer",
+      "description": "Caught 10 kinds of Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_8",
+      "achieved": 1,
+      "unlocktime": 1706883441,
+      "name": "Intermediate Pal Tamer",
+      "description": "Caught 20 kinds of Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_9",
+      "achieved": 1,
+      "unlocktime": 1706883441,
+      "name": "Skilled Pal Tamer",
+      "description": "Caught 50 kinds of Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_10",
+      "achieved": 1,
+      "unlocktime": 1706883441,
+      "name": "Seasoned Pal Tamer",
+      "description": "Caught 90 kinds of Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_11",
+      "achieved": 1,
+      "unlocktime": 1749362362,
+      "name": "Twilight Siren",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_12",
+      "achieved": 1,
+      "unlocktime": 1749362290,
+      "name": "Eclipsed Siren",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_13",
+      "achieved": 1,
+      "unlocktime": 1749355866,
+      "name": "Blossom Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_14",
+      "achieved": 1,
+      "unlocktime": 1749361736,
+      "name": "Incarnation of the Eternal Flame",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_15",
+      "achieved": 1,
+      "unlocktime": 1749364428,
+      "name": "Exceptional Pal Tamer",
+      "description": "Caught 140 kinds of Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_16",
+      "achieved": 1,
+      "unlocktime": 1749392591,
+      "name": "Overhunting",
+      "description": "Caught 1000 Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_17",
+      "achieved": 1,
+      "unlocktime": 1749288919,
+      "name": "Inhuman Act",
+      "description": "Caught a Human"
+    },
+    {
+      "apiname": "Pal_Achievement_18",
+      "achieved": 1,
+      "unlocktime": 1735931253,
+      "name": "Legendary Celestial Dragon",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_19",
+      "achieved": 1,
+      "unlocktime": 1749357638,
+      "name": "Holy Knight of Legend",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_20",
+      "achieved": 1,
+      "unlocktime": 1749357640,
+      "name": "Dark Knight of Legend",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_21",
+      "achieved": 1,
+      "unlocktime": 1749359248,
+      "name": "Legendary Steed of Ice",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_22",
+      "achieved": 1,
+      "unlocktime": 1749390521,
+      "name": "Trail of the Castaway",
+      "description": "Obtained 40 Notes"
+    },
+    {
+      "apiname": "Pal_Achievement_23",
+      "achieved": 1,
+      "unlocktime": 1749388968,
+      "name": "Palpagos Guru",
+      "description": "Obtained 50 Lifmunk Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_24",
+      "achieved": 1,
+      "unlocktime": 1749369145,
+      "name": "All for One",
+      "description": "Maximized the rank of a Pal"
+    },
+    {
+      "apiname": "Pal_Achievement_25",
+      "achieved": 1,
+      "unlocktime": 1749369215,
+      "name": "Voice of Resentment",
+      "description": "Maximized the rank of 5 Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_26",
+      "achieved": 1,
+      "unlocktime": 1749379492,
+      "name": "Senior Adventurer",
+      "description": "Cleared 20 dungeons"
+    },
+    {
+      "apiname": "Pal_Achievement_27",
+      "achieved": 1,
+      "unlocktime": 1735418448,
+      "name": "Conqueror of the Sea",
+      "description": "Seized the Oil Rig"
+    },
+    {
+      "apiname": "Pal_Achievement_28",
+      "achieved": 1,
+      "unlocktime": 1749380140,
+      "name": "Champion of the Palpagos Islands",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_29",
+      "achieved": 1,
+      "unlocktime": 1749323394,
+      "name": "Sphere Craftsman",
+      "description": "Crafted 2,000 spheres"
+    },
+    {
+      "apiname": "Pal_Achievement_30",
+      "achieved": 1,
+      "unlocktime": 1749352571,
+      "name": "Iron Heart",
+      "description": "Crafted 10,000 ingots"
+    },
+    {
+      "apiname": "Pal_Achievement_31",
+      "achieved": 1,
+      "unlocktime": 1749324071,
+      "name": "Blood and Iron",
+      "description": "Crafted 20,000 ammo"
+    },
+    {
+      "apiname": "Pal_Achievement_32",
+      "achieved": 1,
+      "unlocktime": 1749365720,
+      "name": "Feybreak Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_33",
+      "achieved": 1,
+      "unlocktime": 1749485332,
+      "name": "Invader from Space",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_34",
+      "achieved": 1,
+      "unlocktime": 1749482280,
+      "name": "Palpagos Guardian",
+      "description": "Obtained 100 Lifmunk Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_35",
+      "achieved": 1,
+      "unlocktime": 1748448651,
+      "name": "Pal Labor Student",
+      "description": "Completed 10 Pal Labor Research projects"
+    },
+    {
+      "apiname": "Pal_Achievement_36",
+      "achieved": 1,
+      "unlocktime": 1749368146,
+      "name": "Pal Labor Researcher",
+      "description": "Completed 30 Pal Labor Research projects"
+    },
+    {
+      "apiname": "Pal_Achievement_37",
+      "achieved": 1,
+      "unlocktime": 1749392250,
+      "name": "Pal Labor Professor",
+      "description": "Completed 70 Pal Labor Research projects"
+    },
+    {
+      "apiname": "Pal_Achievement_38",
+      "achieved": 1,
+      "unlocktime": 1749366252,
+      "name": "Novice Pal Dispatcher",
+      "description": "Undertook 10 Pal Expeditions"
+    },
+    {
+      "apiname": "Pal_Achievement_39",
+      "achieved": 1,
+      "unlocktime": 1749371130,
+      "name": "Elite Pal Dispatcher",
+      "description": "Undertook 20 Pal Expeditions"
+    },
+    {
+      "apiname": "Pal_Achievement_40",
+      "achieved": 1,
+      "unlocktime": 1748448651,
+      "name": "Freshman Surveyor",
+      "description": "Found 10 new areas"
+    },
+    {
+      "apiname": "Pal_Achievement_41",
+      "achieved": 1,
+      "unlocktime": 1748448651,
+      "name": "Junior Surveyor",
+      "description": "Found 30 new areas"
+    },
+    {
+      "apiname": "Pal_Achievement_42",
+      "achieved": 1,
+      "unlocktime": 1749364879,
+      "name": "Senior Surveyor",
+      "description": "Found 70 new areas"
+    },
+    {
+      "apiname": "Pal_Achievement_43",
+      "achieved": 1,
+      "unlocktime": 1749385032,
+      "name": "Predator Hunter",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_44",
+      "achieved": 1,
+      "unlocktime": 1749381980,
+      "name": "No-Fly Zone",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_45",
+      "achieved": 1,
+      "unlocktime": 1771227313,
+      "name": "Novice Angler",
+      "description": "Reeled in 10 Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_46",
+      "achieved": 1,
+      "unlocktime": 1771227879,
+      "name": "Seasoned Angler",
+      "description": "Reeled in 30 Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_47",
+      "achieved": 1,
+      "unlocktime": 1771228491,
+      "name": "Veteran Angler",
+      "description": "Reeled in 50 Pals"
+    },
+    {
+      "apiname": "Pal_Achievement_48",
+      "achieved": 1,
+      "unlocktime": 1771228385,
+      "name": "Lunker Hunter",
+      "description": "Reeled in 1 Lunker"
+    },
+    {
+      "apiname": "Pal_Achievement_49",
+      "achieved": 1,
+      "unlocktime": 1771229933,
+      "name": "Silver Champ",
+      "description": "Reached Silver Rank in the Arena"
+    },
+    {
+      "apiname": "Pal_Achievement_50",
+      "achieved": 1,
+      "unlocktime": 1771232496,
+      "name": "Arena Champion",
+      "description": "Reached Master Rank in the Arena"
+    },
+    {
+      "apiname": "Pal_Achievement_51",
+      "achieved": 1,
+      "unlocktime": 1771226989,
+      "name": "Best Friends Forever",
+      "description": "Reached Trust level 10 with a Pal"
+    },
+    {
+      "apiname": "Pal_Achievement_52",
+      "achieved": 1,
+      "unlocktime": 1771232948,
+      "name": "Successful Infiltration",
+      "description": "Cleared 1 enemy faction base"
+    },
+    {
+      "apiname": "Pal_Achievement_53",
+      "achieved": 1,
+      "unlocktime": 1771234243,
+      "name": "Unstoppable Streak",
+      "description": "Cleared 10 enemy faction bases"
+    },
+    {
+      "apiname": "Pal_Achievement_54",
+      "achieved": 1,
+      "unlocktime": 1771236016,
+      "name": "A Nose for Treasure",
+      "description": "Found 5 treasures with Treasure Maps"
+    },
+    {
+      "apiname": "Pal_Achievement_55",
+      "achieved": 1,
+      "unlocktime": 1752346367,
+      "name": "Rookie Pal Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_56",
+      "achieved": 1,
+      "unlocktime": 1752346367,
+      "name": "Alpha Pal Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_57",
+      "achieved": 1,
+      "unlocktime": 1771229490,
+      "name": "King of Salvation",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Guru",
+      "description": "Obtained 20 Lamball Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_59",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Volcano Guru",
+      "description": "Obtained 20 Pengullet Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Desert Guru",
+      "description": "Obtained 20 Munchill Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_61",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowy Mountain Guru",
+      "description": "Obtained 20 Rooby Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_62",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sakurajima Guru",
+      "description": "Obtained 20 Herbil Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_63",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feybreak Guru",
+      "description": "Obtained 20 Tanzee Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_64",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunreach Guru",
+      "description": "Obtained 20 Depresso Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_65",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Tree Guru",
+      "description": "Obtained 20 Cattiva Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_66",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forest Traveler",
+      "description": "Obtained 4 Lunaris Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_67",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Island Traveler",
+      "description": "Obtained 4 Relaxaurus Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_68",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "World Traveler",
+      "description": "Obtained 4 Yakumo Effigies"
+    },
+    {
+      "apiname": "Pal_Achievement_69",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meddling With Mutation",
+      "description": "Mutated a Pal for the first time"
+    },
+    {
+      "apiname": "Pal_Achievement_70",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Potential",
+      "description": "Awakened a Pal for the first time"
+    },
+    {
+      "apiname": "Pal_Achievement_71",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arena Legend",
+      "description": "Reached legend rank in the arena"
+    },
+    {
+      "apiname": "Pal_Achievement_72",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunreach Sovereign",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_73",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Ocean King",
+      "description": ""
+    },
+    {
+      "apiname": "Pal_Achievement_74",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the World Tree",
+      "description": "Set foot within the World Tree"
+    },
+    {
+      "apiname": "Pal_Achievement_75",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior of Palpagos",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1566690,
+  "game": "Outpost: Infinity Siege",
+  "total": 26,
+  "unlocked": 3,
+  "percent": 11.5,
+  "updated_at_utc": "2026-09-15T06:52:14.335181+00:00",
+  "achievements": [
+    {
+      "apiname": "A_SaveMissingCharacter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can Still Save Him!",
+      "description": "Save a missing operative."
+    },
+    {
+      "apiname": "A_LockPickerOpenChest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sneaky Bastard",
+      "description": "Open a locked container using a lockpick."
+    },
+    {
+      "apiname": "A_AngleKneelDown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kneel Before Me",
+      "description": "Exploit Kronos' weakness and make him kneel down."
+    },
+    {
+      "apiname": "A_FirstTimePassL0",
+      "achieved": 1,
+      "unlocktime": 1712288809,
+      "name": "Operation Starfall",
+      "description": "Clear level [Into the Abyss] for the first time."
+    },
+    {
+      "apiname": "A_FirstTimePassL1",
+      "achieved": 1,
+      "unlocktime": 1712290169,
+      "name": "New Arrival",
+      "description": "Clear level [Outpost 11] for the first time."
+    },
+    {
+      "apiname": "A_FirstTimePassL2",
+      "achieved": 1,
+      "unlocktime": 1712328617,
+      "name": "Rescue",
+      "description": "Clear level [Rescue] for the first time."
+    },
+    {
+      "apiname": "A_FirstTimePassL3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nebulas",
+      "description": "Clear level [The Nebulas] for the first time."
+    },
+    {
+      "apiname": "A_FirstTimePassL4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seraph",
+      "description": "Clear level [Seraph] for the first time."
+    },
+    {
+      "apiname": "A_OutpostPrice_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moving Fortress",
+      "description": "Reach an Outpost value of 10000."
+    },
+    {
+      "apiname": "A_OutpostPrice_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battleship on Land",
+      "description": "Reach an Outpost value of 50000."
+    },
+    {
+      "apiname": "A_OutpostPrice_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behemoth",
+      "description": "Reach an Outpost value of 100000."
+    },
+    {
+      "apiname": "A_MasterGrowUp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran",
+      "description": "Reach level 30."
+    },
+    {
+      "apiname": "A_RecoveryPrice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wasteland Hoarder",
+      "description": "Recover items worth 3000R in a single Recovery."
+    },
+    {
+      "apiname": "A_RecoveryDay_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Soldiers Never Die",
+      "description": ""
+    },
+    {
+      "apiname": "A_AllResearchCompleted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Researcher",
+      "description": ""
+    },
+    {
+      "apiname": "A_AllDepartment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Unlock all departments."
+    },
+    {
+      "apiname": "A_KillWeakPoint",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Shot One Kill",
+      "description": "Defeat 500 enemies by hitting the weak spot."
+    },
+    {
+      "apiname": "A_KillMachineMobileFortress",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kronos Hunter",
+      "description": "Defeat Kronos for the first time."
+    },
+    {
+      "apiname": "A_KillFlyBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crius Hunter",
+      "description": "Defeat Crius for the first time."
+    },
+    {
+      "apiname": "A_ExploredLandmark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traveler",
+      "description": "Explore 10 different landmarks."
+    },
+    {
+      "apiname": "A_SingleCauseDamage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slayer",
+      "description": ""
+    },
+    {
+      "apiname": "A_MoveFastMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flash",
+      "description": ""
+    },
+    {
+      "apiname": "A_KillBomberByMelee",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live Dangerously",
+      "description": ""
+    },
+    {
+      "apiname": "A_FlyMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying Dutchman",
+      "description": "Do not touch the ground for more than 30 seconds."
+    },
+    {
+      "apiname": "A_SingleShootBulletCost",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Than a Flesh Wound",
+      "description": "Have a single round cost of more than 150."
+    },
+    {
+      "apiname": "A_GreatJourney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Great Journey",
+      "description": ""
+    }
+  ]
+}

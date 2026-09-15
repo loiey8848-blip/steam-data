@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4570720,
+  "game": "DragonSword : Awakening",
+  "total": 60,
+  "unlocked": 60,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:53:39.927069+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_EXP_100001",
+      "achieved": 1,
+      "unlocktime": 1785562292,
+      "name": "Oh! Our Goddess",
+      "description": "Restored all Goddess Statues of Organa."
+    },
+    {
+      "apiname": "ACH_EXP_100002",
+      "achieved": 1,
+      "unlocktime": 1785561614,
+      "name": "The Wind Path That Unveils the Unknown",
+      "description": "Activated all of Eona's Legacy."
+    },
+    {
+      "apiname": "ACH_EXP_100003",
+      "achieved": 1,
+      "unlocktime": 1785418180,
+      "name": "A Mercenary! Open the Door!",
+      "description": "Activated Dungeon Gates."
+    },
+    {
+      "apiname": "ACH_EXP_100004",
+      "achieved": 1,
+      "unlocktime": 1785562121,
+      "name": "Fast Travel Expert",
+      "description": "Activated all Waypoints."
+    },
+    {
+      "apiname": "ACH_EXP_100005",
+      "achieved": 1,
+      "unlocktime": 1785308182,
+      "name": "Anything in Here?",
+      "description": "Opened a Treasure Chest."
+    },
+    {
+      "apiname": "ACH_EXP_100006",
+      "achieved": 1,
+      "unlocktime": 1785906413,
+      "name": "Ah, Can't Resist a Chest",
+      "description": "Opened more Treasure Chests."
+    },
+    {
+      "apiname": "ACH_EXP_100007",
+      "achieved": 1,
+      "unlocktime": 1785699611,
+      "name": "In Search of Hidden Treasure",
+      "description": "Used a Treasure Map."
+    },
+    {
+      "apiname": "ACH_EXP_100008",
+      "achieved": 1,
+      "unlocktime": 1785889873,
+      "name": "Gotta Open That Suspicious Chest",
+      "description": "Opened all Treasure Chests in the Dungeon."
+    },
+    {
+      "apiname": "ACH_EXP_100009",
+      "achieved": 1,
+      "unlocktime": 1785906413,
+      "name": "There's a Marmot in That Burrow!",
+      "description": "Won the bet against the Marmot."
+    },
+    {
+      "apiname": "ACH_EXP_100010",
+      "achieved": 1,
+      "unlocktime": 1785907878,
+      "name": "Hold On, Stand Right There",
+      "description": "Solved the Platform Puzzle mini-game."
+    },
+    {
+      "apiname": "ACH_EXP_100011",
+      "achieved": 1,
+      "unlocktime": 1785696530,
+      "name": "Puzzle Solved by Pushing",
+      "description": "Solved the Slide Puzzle."
+    },
+    {
+      "apiname": "ACH_GRW_200001",
+      "achieved": 1,
+      "unlocktime": 1785287945,
+      "name": "Awakened Heart",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GRW_200002",
+      "achieved": 1,
+      "unlocktime": 1785332202,
+      "name": "What Was Kept and What Was Lost",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GRW_200003",
+      "achieved": 1,
+      "unlocktime": 1785419112,
+      "name": "A Hero's Beginning",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_GRW_200004",
+      "achieved": 1,
+      "unlocktime": 1785604404,
+      "name": "A Mercenary as of Today",
+      "description": "Received Anne's help."
+    },
+    {
+      "apiname": "ACH_GRW_200005",
+      "achieved": 1,
+      "unlocktime": 1785718233,
+      "name": "Dreams ★ Do Come True",
+      "description": "Completed Bart's quest."
+    },
+    {
+      "apiname": "ACH_GRW_200006",
+      "achieved": 1,
+      "unlocktime": 1785602569,
+      "name": "An Unforgettable Encounter",
+      "description": "Completed Ninian's quest."
+    },
+    {
+      "apiname": "ACH_GRW_200007",
+      "achieved": 1,
+      "unlocktime": 1785751606,
+      "name": "Savior of the De-monworld",
+      "description": "Completed Marmot King Hog's quest."
+    },
+    {
+      "apiname": "ACH_GRW_200008",
+      "achieved": 1,
+      "unlocktime": 1785855728,
+      "name": "One Strawberry Flavor, as Ordered",
+      "description": "Completed Dana's Hero Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200009",
+      "achieved": 1,
+      "unlocktime": 1785753625,
+      "name": "Warmth for Frozen Wisdom",
+      "description": "Completed Cerese's Hero Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200010",
+      "achieved": 1,
+      "unlocktime": 1785815018,
+      "name": "No One Will Know, Right?",
+      "description": "Completed Ornette's Hero Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200011",
+      "achieved": 1,
+      "unlocktime": 1785854245,
+      "name": "The End of the White Mistflower",
+      "description": "Completed Theresia's Hero Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200012",
+      "achieved": 1,
+      "unlocktime": 1785777593,
+      "name": "A Tale Carried on the Embers",
+      "description": "Completed Kalien's Hero Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200013",
+      "achieved": 1,
+      "unlocktime": 1785775929,
+      "name": "Struck Up a Chat, Got a Job",
+      "description": "Completed an Area Quest."
+    },
+    {
+      "apiname": "ACH_GRW_200014",
+      "achieved": 1,
+      "unlocktime": 1785975172,
+      "name": "We Solve Anything",
+      "description": "Completed all Area Quests."
+    },
+    {
+      "apiname": "ACH_COM_400001",
+      "achieved": 1,
+      "unlocktime": 1785346070,
+      "name": "Subjugation Squad, Open for Business",
+      "description": "Defeated Hunt Monsters 10 times."
+    },
+    {
+      "apiname": "ACH_COM_400002",
+      "achieved": 1,
+      "unlocktime": 1785564489,
+      "name": "A Towering Threat Brought Down",
+      "description": "Successfully completed Raids 10 times."
+    },
+    {
+      "apiname": "ACH_COM_400003",
+      "achieved": 1,
+      "unlocktime": 1785346993,
+      "name": "This World's Janitor",
+      "description": "Defeated 1,000 monsters in the world."
+    },
+    {
+      "apiname": "ACH_COM_400004",
+      "achieved": 1,
+      "unlocktime": 1785419471,
+      "name": "May I Have Your Name?",
+      "description": "Completed Sudden Missions 10 times."
+    },
+    {
+      "apiname": "ACH_COM_400005",
+      "achieved": 1,
+      "unlocktime": 1785564841,
+      "name": "Conqueror of Furcas",
+      "description": "Defeated the Starving Ghost of Corrosion, Furcas, on 【Nightmare difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400006",
+      "achieved": 1,
+      "unlocktime": 1785565351,
+      "name": "Conqueror of Vanak",
+      "description": "Defeated Vanak the Bloody Hook on 【Nightmare difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400007",
+      "achieved": 1,
+      "unlocktime": 1785816831,
+      "name": "Conqueror of Gallore the Collapse",
+      "description": "Defeated Gallore the Collapse on 【Nightmare difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400008",
+      "achieved": 1,
+      "unlocktime": 1785815973,
+      "name": "Conqueror of Ghoul Greed",
+      "description": "Defeated Ghoul Greed on 【Nightmare difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400009",
+      "achieved": 1,
+      "unlocktime": 1785816695,
+      "name": "Conqueror of the Earthlander",
+      "description": "Defeated the Earthlander of the Ravenous Earth on 【Nightmare difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400010",
+      "achieved": 1,
+      "unlocktime": 1785718383,
+      "name": "Subduer of Horg",
+      "description": "Defeated Horg the Roamer 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400011",
+      "achieved": 1,
+      "unlocktime": 1785718462,
+      "name": "Subduer of Andras",
+      "description": "Defeated Andras the Predator 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400012",
+      "achieved": 1,
+      "unlocktime": 1785643416,
+      "name": "Subduer of Pakirus",
+      "description": "Defeated Pakirus the Specter of Thirst 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400013",
+      "achieved": 1,
+      "unlocktime": 1785718558,
+      "name": "Subduer of Brack",
+      "description": "Defeated Scraping Brack 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400014",
+      "achieved": 1,
+      "unlocktime": 1785718774,
+      "name": "Subduer of Hagen",
+      "description": "Defeated Hagen the Dark Necromancer 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400015",
+      "achieved": 1,
+      "unlocktime": 1785718718,
+      "name": "Subduer of Karon",
+      "description": "Defeated Karon the Tyrant 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400016",
+      "achieved": 1,
+      "unlocktime": 1785718916,
+      "name": "Subduer of Lavanis",
+      "description": "Defeated Lavanis, Feather of Burning Ashes, 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400017",
+      "achieved": 1,
+      "unlocktime": 1785718832,
+      "name": "Subduer of Octavia",
+      "description": "Defeated Hungry Eye Octavia 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400018",
+      "achieved": 1,
+      "unlocktime": 1785718996,
+      "name": "Subduer of Barpedin",
+      "description": "Defeated Barpedin, the Crushing Darkness, 3 times."
+    },
+    {
+      "apiname": "ACH_COM_400019",
+      "achieved": 1,
+      "unlocktime": 1785378726,
+      "name": "Conqueror of Gauron",
+      "description": "Defeated Gauron on 【Very Hard difficulty】."
+    },
+    {
+      "apiname": "ACH_COM_400020",
+      "achieved": 1,
+      "unlocktime": 1785454274,
+      "name": "Conqueror of Ursula",
+      "description": "Defeated Ursula on 【Very Hard difficulty】."
+    },
+    {
+      "apiname": "ACH_CHL_500001",
+      "achieved": 1,
+      "unlocktime": 1785718642,
+      "name": "Who Cast the Frenzy?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500002",
+      "achieved": 1,
+      "unlocktime": 1785671607,
+      "name": "There Was an Arm, and Then There Wasn't",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500003",
+      "achieved": 1,
+      "unlocktime": 1785672251,
+      "name": "Assassin Grid",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500004",
+      "achieved": 1,
+      "unlocktime": 1785891501,
+      "name": "Status Ailment Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500006",
+      "achieved": 1,
+      "unlocktime": 1785815427,
+      "name": "This Is Eye Level Between You and Me",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500007",
+      "achieved": 1,
+      "unlocktime": 1785815787,
+      "name": "Gas! Gas! Gas!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500008",
+      "achieved": 1,
+      "unlocktime": 1785309284,
+      "name": "Lucky!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500009",
+      "achieved": 1,
+      "unlocktime": 1785890482,
+      "name": "The One Who Roots Out the Source of Harm",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500010",
+      "achieved": 1,
+      "unlocktime": 1785719089,
+      "name": "Heh, Perfect Landing!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500011",
+      "achieved": 1,
+      "unlocktime": 1785719714,
+      "name": "Is Stomping Your Hobby?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500012",
+      "achieved": 1,
+      "unlocktime": 1785886225,
+      "name": "I'll Stand in the Sky",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500013",
+      "achieved": 1,
+      "unlocktime": 1785259838,
+      "name": "Round and Round",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500014",
+      "achieved": 1,
+      "unlocktime": 1785948975,
+      "name": "10,000,000!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CHL_500015",
+      "achieved": 1,
+      "unlocktime": 1785980926,
+      "name": "Dragon Sword?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_COM_400021",
+      "achieved": 1,
+      "unlocktime": 1786776279,
+      "name": "Conqueror of Barduk",
+      "description": "Defeated Barduk the Corrupted on 【Nightmare difficulty】."
+    }
+  ]
+}

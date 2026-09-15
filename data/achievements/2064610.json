@@ -1,0 +1,305 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2064610,
+  "game": "Relic Guardian",
+  "total": 42,
+  "unlocked": 42,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:27.109238+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_1",
+      "achieved": 1,
+      "unlocktime": 1769829641,
+      "name": "Journey Begins",
+      "description": "Complete the tutorial."
+    },
+    {
+      "apiname": "ACHIEVEMENT_2",
+      "achieved": 1,
+      "unlocktime": 1769830113,
+      "name": "Oh, Sorry",
+      "description": "High-five the strange hand."
+    },
+    {
+      "apiname": "ACHIEVEMENT_3",
+      "achieved": 1,
+      "unlocktime": 1769829769,
+      "name": "Wisp on the Tree",
+      "description": "You feel your magic fading."
+    },
+    {
+      "apiname": "ACHIEVEMENT_4",
+      "achieved": 1,
+      "unlocktime": 1769829903,
+      "name": "Give Me a Reward",
+      "description": "Got something... stinky."
+    },
+    {
+      "apiname": "ACHIEVEMENT_5",
+      "achieved": 1,
+      "unlocktime": 1769830120,
+      "name": "Sheep are Demons",
+      "description": "Demons are sheep."
+    },
+    {
+      "apiname": "ACHIEVEMENT_6",
+      "achieved": 1,
+      "unlocktime": 1769830630,
+      "name": "Ancient Technology",
+      "description": "You really have that many parts?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_7",
+      "achieved": 1,
+      "unlocktime": 1769832018,
+      "name": "Ashen one",
+      "description": "Burn the tree."
+    },
+    {
+      "apiname": "ACHIEVEMENT_8",
+      "achieved": 1,
+      "unlocktime": 1769832628,
+      "name": "Forest Friend",
+      "description": "Complete all levels in Chapter 1."
+    },
+    {
+      "apiname": "ACHIEVEMENT_9",
+      "achieved": 1,
+      "unlocktime": 1769832766,
+      "name": "You'll Float Too",
+      "description": "Conveniently, a sewer is right here."
+    },
+    {
+      "apiname": "ACHIEVEMENT_10",
+      "achieved": 1,
+      "unlocktime": 1769833793,
+      "name": "Traffic Cone",
+      "description": "Why isn't it pink?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_11",
+      "achieved": 1,
+      "unlocktime": 1769833806,
+      "name": "Perfect Timeline",
+      "description": "He did it."
+    },
+    {
+      "apiname": "ACHIEVEMENT_12",
+      "achieved": 1,
+      "unlocktime": 1769834312,
+      "name": "The Legend Cut Short",
+      "description": "Sink down!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_13",
+      "achieved": 1,
+      "unlocktime": 1769834484,
+      "name": "Breadman",
+      "description": "Rattle the toaster."
+    },
+    {
+      "apiname": "ACHIEVEMENT_14",
+      "achieved": 1,
+      "unlocktime": 1769847691,
+      "name": "Short Break",
+      "description": "You are more than a vessel."
+    },
+    {
+      "apiname": "ACHIEVEMENT_15",
+      "achieved": 1,
+      "unlocktime": 1769848815,
+      "name": "Strange Marks",
+      "description": "Corruption +1."
+    },
+    {
+      "apiname": "ACHIEVEMENT_16",
+      "achieved": 1,
+      "unlocktime": 1769849625,
+      "name": "Arena Champion",
+      "description": "Complete all levels in Chapter 2."
+    },
+    {
+      "apiname": "ACHIEVEMENT_17",
+      "achieved": 1,
+      "unlocktime": 1769866440,
+      "name": "Digging Master",
+      "description": "Unearth all 5 treasures."
+    },
+    {
+      "apiname": "ACHIEVEMENT_18",
+      "achieved": 1,
+      "unlocktime": 1769850671,
+      "name": "Predecessor",
+      "description": "Obtain the Predecessor Fragment."
+    },
+    {
+      "apiname": "ACHIEVEMENT_19",
+      "achieved": 1,
+      "unlocktime": 1769865091,
+      "name": "\"Do Not Press This Button\"",
+      "description": "No one resists pressing it."
+    },
+    {
+      "apiname": "ACHIEVEMENT_20",
+      "achieved": 1,
+      "unlocktime": 1769865839,
+      "name": "Sisyphmato",
+      "description": "One must imagine Sisyphmato smiling."
+    },
+    {
+      "apiname": "ACHIEVEMENT_21",
+      "achieved": 1,
+      "unlocktime": 1769866445,
+      "name": "Hostage Rescue",
+      "description": "Think you can make that jump?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_22",
+      "achieved": 1,
+      "unlocktime": 1769866532,
+      "name": "The King",
+      "description": "A King is born."
+    },
+    {
+      "apiname": "ACHIEVEMENT_23",
+      "achieved": 1,
+      "unlocktime": 1769866909,
+      "name": "Mutation, Explosions and Countdown",
+      "description": "Complete all levels in Chapter 3."
+    },
+    {
+      "apiname": "ACHIEVEMENT_24",
+      "achieved": 1,
+      "unlocktime": 1769867059,
+      "name": "Mushroom Isle",
+      "description": "Defeat a mushroom."
+    },
+    {
+      "apiname": "ACHIEVEMENT_25",
+      "achieved": 1,
+      "unlocktime": 1769874514,
+      "name": "Knock, Knock, Knock",
+      "description": "So annoying!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_26",
+      "achieved": 1,
+      "unlocktime": 1769867493,
+      "name": "Balloon",
+      "description": "Monkeys are their natural predators."
+    },
+    {
+      "apiname": "ACHIEVEMENT_27",
+      "achieved": 1,
+      "unlocktime": 1769867810,
+      "name": "Novice Sword",
+      "description": "Unbreakable."
+    },
+    {
+      "apiname": "ACHIEVEMENT_28",
+      "achieved": 1,
+      "unlocktime": 1769868687,
+      "name": "Vacation",
+      "description": "Finally, a hot bath!"
+    },
+    {
+      "apiname": "ACHIEVEMENT_29",
+      "achieved": 1,
+      "unlocktime": 1769869643,
+      "name": "Plants and Zombies",
+      "description": "The Zombies ate your mushroom cap."
+    },
+    {
+      "apiname": "ACHIEVEMENT_30",
+      "achieved": 1,
+      "unlocktime": 1769871082,
+      "name": "Annoying Mushroom",
+      "description": "Find all disguised mushrooms."
+    },
+    {
+      "apiname": "ACHIEVEMENT_31",
+      "achieved": 1,
+      "unlocktime": 1769870846,
+      "name": "Queen and Knight",
+      "description": "Complete all levels in Chapter 4."
+    },
+    {
+      "apiname": "ACHIEVEMENT_32",
+      "achieved": 1,
+      "unlocktime": 1769871444,
+      "name": "Off Work",
+      "description": "Even gods need rest."
+    },
+    {
+      "apiname": "ACHIEVEMENT_33",
+      "achieved": 1,
+      "unlocktime": 1769871231,
+      "name": "Piggy Bank",
+      "description": "It comes with wings."
+    },
+    {
+      "apiname": "ACHIEVEMENT_34",
+      "achieved": 1,
+      "unlocktime": 1769871234,
+      "name": "Sword of Mourne",
+      "description": "Cold and frost."
+    },
+    {
+      "apiname": "ACHIEVEMENT_35",
+      "achieved": 1,
+      "unlocktime": 1769871236,
+      "name": "Light and Darkness",
+      "description": "Conceding is never an option."
+    },
+    {
+      "apiname": "ACHIEVEMENT_36",
+      "achieved": 1,
+      "unlocktime": 1769871238,
+      "name": "Ominous Egg",
+      "description": "I have a bad feeling about this."
+    },
+    {
+      "apiname": "ACHIEVEMENT_37",
+      "achieved": 1,
+      "unlocktime": 1769871240,
+      "name": "Old Friend",
+      "description": "Again!?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_38",
+      "achieved": 1,
+      "unlocktime": 1769871325,
+      "name": "Elixir",
+      "description": "Where are your Towers?"
+    },
+    {
+      "apiname": "ACHIEVEMENT_39",
+      "achieved": 1,
+      "unlocktime": 1769872359,
+      "name": "Mei",
+      "description": "Just a cat."
+    },
+    {
+      "apiname": "ACHIEVEMENT_40",
+      "achieved": 1,
+      "unlocktime": 1769872729,
+      "name": "Fishing Failed",
+      "description": "Got fished away by the fish."
+    },
+    {
+      "apiname": "ACHIEVEMENT_41",
+      "achieved": 1,
+      "unlocktime": 1769874124,
+      "name": "Witch Hunter",
+      "description": "Complete all levels in Chapter 5."
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 1,
+      "unlocktime": 1769916203,
+      "name": "Golden Brave One",
+      "description": "Complete all challenges."
+    }
+  ]
+}

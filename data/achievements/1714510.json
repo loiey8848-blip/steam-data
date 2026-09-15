@@ -1,0 +1,326 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1714510,
+  "game": "Kusan : City of Wolves",
+  "total": 45,
+  "unlocked": 12,
+  "percent": 26.7,
+  "updated_at_utc": "2026-09-15T06:52:18.649056+00:00",
+  "achievements": [
+    {
+      "apiname": "CLEAR_STAGE_1-0",
+      "achieved": 1,
+      "unlocktime": 1785866456,
+      "name": "Fixer",
+      "description": "Complete the Prologue"
+    },
+    {
+      "apiname": "CLEAR_STAGE_1-1",
+      "achieved": 1,
+      "unlocktime": 1785867034,
+      "name": "Binding",
+      "description": "Complete Chapter 1 Scene 1"
+    },
+    {
+      "apiname": "CLEAR_STAGE_1-2",
+      "achieved": 1,
+      "unlocktime": 1785867698,
+      "name": "Girl",
+      "description": "Complete Chapter 1 Scene 2"
+    },
+    {
+      "apiname": "CLEAR_STAGE_1-3",
+      "achieved": 1,
+      "unlocktime": 1785868592,
+      "name": "Limbus",
+      "description": "Complete Chapter 1 Scene 3"
+    },
+    {
+      "apiname": "CLEAR_STAGE_1-4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DJ",
+      "description": "Complete Chapter 1 Scene 4"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comrade",
+      "description": "Complete Chapter 2 Scene 1"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Request",
+      "description": "Complete Chapter 2 Scene 2"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MAMA",
+      "description": "Complete Chapter 2 Scene 3"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream",
+      "description": "Complete Chapter 2 Scene 4"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zero core",
+      "description": "Complete Chapter 2 Scene 5"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assault",
+      "description": "Complete Chapter 2 Scene 6"
+    },
+    {
+      "apiname": "CLEAR_STAGE_2-7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chase",
+      "description": "Complete Chapter 2 Scene 7"
+    },
+    {
+      "apiname": "CLEAR_STAGE_3-1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare",
+      "description": "Complete Chapter 3 Scene 1"
+    },
+    {
+      "apiname": "CLEAR_STAGE_3-2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Midgnight",
+      "description": "Complete Chapter 3 Scene 2"
+    },
+    {
+      "apiname": "CLEAR_STAGE_3-3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Convergence",
+      "description": "Complete Chapter 3 Scene 3"
+    },
+    {
+      "apiname": "CLEAR_STAGE_3-4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fall",
+      "description": "Complete Chapter 3 Scene 4"
+    },
+    {
+      "apiname": "ALL_FLOOR_SS_PROLOGUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Fixer",
+      "description": "Achieve SS rank for all floors in the Prologue"
+    },
+    {
+      "apiname": "ALL_FLOOR_SS_CHAPTER1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Presence",
+      "description": "Achieve SS rank for all floors in the Chapter 1"
+    },
+    {
+      "apiname": "ALL_FLOOR_SS_CHAPTER2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Past",
+      "description": "Achieve SS rank for all floors in the Chapter 2"
+    },
+    {
+      "apiname": "ALL_FLOOR_SS_CHAPTER3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Beyond",
+      "description": "Achieve SS rank for all floors in the Chapter 3"
+    },
+    {
+      "apiname": "FIRST_DEATH",
+      "achieved": 1,
+      "unlocktime": 1785760321,
+      "name": "Nasty Way To Go!",
+      "description": "Die for the first time."
+    },
+    {
+      "apiname": "KILL_FIRST_ENEMY",
+      "achieved": 1,
+      "unlocktime": 1785760234,
+      "name": "First impressions matter.",
+      "description": "Kill your first enemy."
+    },
+    {
+      "apiname": "KILL_50_ENEMY",
+      "achieved": 1,
+      "unlocktime": 1785866365,
+      "name": "Whoever comes, whoever it is... I'll kill them. I'll kill them all.",
+      "description": "Kill 50 enemies"
+    },
+    {
+      "apiname": "KILL_100_ENEMY",
+      "achieved": 1,
+      "unlocktime": 1785866791,
+      "name": "A man of focus",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "KILL_300_ENEMY",
+      "achieved": 1,
+      "unlocktime": 1785868098,
+      "name": "A man of commitment",
+      "description": "Kill 300 enemies"
+    },
+    {
+      "apiname": "KILL_500_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A man of sheer will",
+      "description": "Kill 500 enemies"
+    },
+    {
+      "apiname": "KILL_1000_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "'Baba Yaga'... is that you?",
+      "description": "Kill 1000 enemies"
+    },
+    {
+      "apiname": "FREE_LIMBUS",
+      "achieved": 1,
+      "unlocktime": 1785868538,
+      "name": "Escape.exe",
+      "description": "Free a Limbus"
+    },
+    {
+      "apiname": "FREE_ALL_LIMBUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Error 404: Chains Not Found",
+      "description": "Free all Limbus"
+    },
+    {
+      "apiname": "TECHTRIX_PURCHASE_FIRST",
+      "achieved": 1,
+      "unlocktime": 1785866557,
+      "name": "Armed and dangerous",
+      "description": "Make an upgrade to the War-hand"
+    },
+    {
+      "apiname": "TECHTRIX_PURCHASE_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Very Armed and Very Dangerous",
+      "description": "Unlock all War-hand upgrade slots"
+    },
+    {
+      "apiname": "TECHTRIX_OPTIMIZE",
+      "achieved": 1,
+      "unlocktime": 1785868644,
+      "name": "R&D",
+      "description": "Optimise an upgrade for the War-hand"
+    },
+    {
+      "apiname": "TECHTRIX_USE_ALL_SLOTS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He's got tickets to the gun show—and they're VIP",
+      "description": "Unlock and use all the slots."
+    },
+    {
+      "apiname": "CLEAR_STAGE_USING_ONLY_PUNCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Silent Type",
+      "description": "Kill every enemy of a stage with War-hand only"
+    },
+    {
+      "apiname": "DIE_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Try, Try, and Try Again",
+      "description": "Die 100 times"
+    },
+    {
+      "apiname": "TECHTRIX_UNLOCK_ALL_WEAPON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to the Continental",
+      "description": "Unlock every weapon"
+    },
+    {
+      "apiname": "FIRE_BULLETS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trigger Happy",
+      "description": "Fire 1,000 bullets"
+    },
+    {
+      "apiname": "DIE_PROLOGUE_FIRST_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tougher than It Looks!",
+      "description": "Die to the first enemy in the prologue."
+    },
+    {
+      "apiname": "CLEAR_FLOOR_WITH_COMBO_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Combo Master",
+      "description": "Complete a floor with a combo of 20 or more."
+    },
+    {
+      "apiname": "CLEAR_ANY_LEVEL_SS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "S²",
+      "description": "Complete any level with an SS rank."
+    },
+    {
+      "apiname": "CLEAR_STAGE_WITHOUT_DEATH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't touch me",
+      "description": "Clear any stage without dying once."
+    },
+    {
+      "apiname": "KILL_MIKE_AXE_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lead Them to the Slaughterhouse.",
+      "description": "Kill 1,000 'White Rat with an Axe' enemies."
+    },
+    {
+      "apiname": "KILL_CHARLIE_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Meat",
+      "description": "Kill 1,000 'Rushing Bull' enemies."
+    },
+    {
+      "apiname": "KILL_DAK_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fly my Pretties, fly",
+      "description": "Kill 1,000 'Red Psycho Monkey' enemies."
+    },
+    {
+      "apiname": "KILL_SKELETON_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "T-1000?",
+      "description": "Kill 1,000 'Cyborgs'."
+    }
+  ]
+}

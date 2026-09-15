@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 40700,
+  "game": "Machinarium",
+  "total": 12,
+  "unlocked": 12,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:48:35.422758+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1780073580,
+      "name": "SURVIVOR",
+      "description": "Escape the scrapyard"
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1780073580,
+      "name": "BACK IN TOWN",
+      "description": "Enter Machinarium"
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1780073990,
+      "name": "FREE ROBOT",
+      "description": "Free yourself and jail mates"
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1780074618,
+      "name": "PET CATCHER",
+      "description": "Bring the dog to the lady"
+    },
+    {
+      "apiname": "5",
+      "achieved": 1,
+      "unlocktime": 1780074971,
+      "name": "BOARD GAME MASTER",
+      "description": "Win the tic-tac-toe game"
+    },
+    {
+      "apiname": "6",
+      "achieved": 1,
+      "unlocktime": 1780076184,
+      "name": "MUSIC LOVER",
+      "description": "Help the musicians"
+    },
+    {
+      "apiname": "7",
+      "achieved": 1,
+      "unlocktime": 1780078850,
+      "name": "VIDEOGAMER",
+      "description": "Win all console games"
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1780076362,
+      "name": "PLUMBER",
+      "description": "Flood the Blackhats"
+    },
+    {
+      "apiname": "9",
+      "achieved": 1,
+      "unlocktime": 1780080305,
+      "name": "DEACTIVATOR",
+      "description": "Disable the bomb"
+    },
+    {
+      "apiname": "10",
+      "achieved": 1,
+      "unlocktime": 1780081179,
+      "name": "DEBUGGER",
+      "description": "Repair the brain"
+    },
+    {
+      "apiname": "11",
+      "achieved": 1,
+      "unlocktime": 1780081354,
+      "name": "RESCUER",
+      "description": "Rescue Berta"
+    },
+    {
+      "apiname": "12",
+      "achieved": 1,
+      "unlocktime": 1780081551,
+      "name": "ESCAPER",
+      "description": "Escape Machinarium"
+    }
+  ]
+}

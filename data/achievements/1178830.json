@@ -1,0 +1,221 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1178830,
+  "game": "Bright Memory: Infinite",
+  "total": 30,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:51:13.341416+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_KILLTIANYUA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Balance",
+      "description": "Defeat the Tian Yu Emperor"
+    },
+    {
+      "apiname": "ACHIEVEMENT_KILLTIANYUB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fallen General",
+      "description": "Kill the Tian Yu Emperor"
+    },
+    {
+      "apiname": "ACHIEVEMENT_KILLJULING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battlefield Veteran",
+      "description": "Kill the Giant King"
+    },
+    {
+      "apiname": "ACHIEVEMENT_KILLBOSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burning Bridges",
+      "description": "Kill the Six-armed Emperor"
+    },
+    {
+      "apiname": "ACHIEVEMENT_WEEK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restoration",
+      "description": "Clear the game"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DIFF2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bitter Rivals",
+      "description": "Clear the game on “Revenge” difficulty"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DIFF3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Infinite",
+      "description": "Clear the game on “Hell” difficulty"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DZ50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Battle-hardened",
+      "description": "Sever 50 enemy limbs using weapons or skills"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DZ100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Matchless Warrior",
+      "description": "Sever 100 enemy limbs using weapons or skills"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIREAI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Heat is On",
+      "description": "Defeat 20 enemies using flame-type weapons or skills"
+    },
+    {
+      "apiname": "ACHIEVEMENT_HIDEKILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "None Shall Survive",
+      "description": "Assassinate 14 people without being spotted by the enemy in the “Surrounded” infiltration mission"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DEFU50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extreme Skills",
+      "description": "Activate “Counter” 50 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_DEFU100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invulnerable",
+      "description": "Activate “Counter” 100 times"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FARDEFU20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eagle-eye",
+      "description": "Use “Defend” to deflect 20 enemy bullets"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SWORD01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peerless Warrior",
+      "description": "Defeat 80 enemies using any skill"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SWORD02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Herculean Strength",
+      "description": "Defeat 150 enemies using any skill"
+    },
+    {
+      "apiname": "ACHIEVEMENT_VEPR01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AR Silver",
+      "description": "Defeat 80 enemies using your assault rifle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_VEPR02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "AR Gold",
+      "description": "Defeat 150 enemies using your assault rifle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_GER01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SG Silver",
+      "description": "Defeat 80 enemies using your shotgun"
+    },
+    {
+      "apiname": "ACHIEVEMENT_GER02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SG Gold",
+      "description": "Defeat 150 enemies using your shotgun"
+    },
+    {
+      "apiname": "ACHIEVEMENT_META01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HG Silver",
+      "description": "Defeat 50 enemies using your handgun"
+    },
+    {
+      "apiname": "ACHIEVEMENT_META02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "HG Gold",
+      "description": "Defeat 100 enemies using your handgun"
+    },
+    {
+      "apiname": "ACHIEVEMENT_IOPR01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SR Silver",
+      "description": "Defeat 50 enemies using your sniper rifle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_IOPR02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "SR Gold",
+      "description": "Defeat 100 enemies using your sniper rifle"
+    },
+    {
+      "apiname": "ACHIEVEMENT_CARBOOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullseye",
+      "description": "Destroy 5 enemy vehicles with missiles during the car chase"
+    },
+    {
+      "apiname": "ACHIEVEMENT_YUXI20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Rich",
+      "description": "Acquire 20 “Reliquaries”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_YUXI50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Richer",
+      "description": "Acquire 50 “Reliquaries”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SLZ100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Richest",
+      "description": "Acquire 100 “Relics”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SKILLDFS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Auto-Tracking",
+      "description": "Unlock “Blade Slash Whirlwind: Lv.3”"
+    },
+    {
+      "apiname": "ACHIEVEMENT_SKILLHJQ",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flames in the Sky",
+      "description": "Unlock “Rocket Punch: Lv.3”"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2477950,
+  "game": "文字密室逃脱",
+  "total": 46,
+  "unlocked": 46,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:50.761141+00:00",
+  "achievements": [
+    {
+      "apiname": "MISSION_1",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete the first level",
+      "description": "Unlocked after passing \"Level Mode - Level 1"
+    },
+    {
+      "apiname": "MISSION_2",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete the second level",
+      "description": "Unlocked after passing \"Level Mode - Level 2"
+    },
+    {
+      "apiname": "MISSION_3",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete Level 3",
+      "description": "Unlocked after passing \"Level Mode - Level 3"
+    },
+    {
+      "apiname": "MISSION_4",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete Level 4",
+      "description": "Unlocked after passing \"Level Mode - Level 4"
+    },
+    {
+      "apiname": "MISSION_5",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete Level 5",
+      "description": "Unlocked after passing \"Level Mode - Level 5"
+    },
+    {
+      "apiname": "MISSION_6",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Complete level 6",
+      "description": "Unlocked after passing \"Level Mode - Level 6"
+    },
+    {
+      "apiname": "MISSION_7",
+      "achieved": 1,
+      "unlocktime": 1773675705,
+      "name": "Complete level 7",
+      "description": "Unlocked after passing \"Level Mode - Level 7"
+    },
+    {
+      "apiname": "MISSION_ALL",
+      "achieved": 1,
+      "unlocktime": 1773675705,
+      "name": "Level mode fully unlocked",
+      "description": "Unlocked after passing all levels of Level Mode"
+    },
+    {
+      "apiname": "FANTASY_1",
+      "achieved": 1,
+      "unlocktime": 1773676368,
+      "name": "Time Management Master",
+      "description": "Unlocked after passing \"Journey of Fantasy - Time Labyrinth\""
+    },
+    {
+      "apiname": "FANTASY_2",
+      "achieved": 1,
+      "unlocktime": 1773677626,
+      "name": "Art is an explosion",
+      "description": "Unlocked after passing \"Journey of Fantasy - The Mirror World"
+    },
+    {
+      "apiname": "FANTASY_3",
+      "achieved": 1,
+      "unlocktime": 1773681999,
+      "name": "The little one is cute too",
+      "description": "Unlocked after passing \"Fantastic Journey - Deadly Giants\""
+    },
+    {
+      "apiname": "FANTASY_4",
+      "achieved": 1,
+      "unlocktime": 1773685849,
+      "name": "Catching butterflies!",
+      "description": "Unlocked after passing \"Journey of Fantasy - The Butterfly Effect"
+    },
+    {
+      "apiname": "FANTASY_4_ALL",
+      "achieved": 1,
+      "unlocktime": 1775015098,
+      "name": "Butterfly Terminator",
+      "description": "Unlocked after clearing all the endings of \"Journey of Fantasy - The Butterfly Effect"
+    },
+    {
+      "apiname": "FANTASY_5",
+      "achieved": 1,
+      "unlocktime": 1774922446,
+      "name": "80 years",
+      "description": "Unlocked after passing the \"Fantasy Journey - Virtual Access\" ending"
+    },
+    {
+      "apiname": "UCP_1",
+      "achieved": 1,
+      "unlocktime": 1774918588,
+      "name": "Top 7%",
+      "description": "Unlocked after passing \"Theme Mode - Containment Breach\""
+    },
+    {
+      "apiname": "UCP_1_3",
+      "achieved": 1,
+      "unlocktime": 1774920928,
+      "name": "D at large",
+      "description": "Unlocked after passing \"Theme Mode - Containment Breach\" ending 3"
+    },
+    {
+      "apiname": "DLC_1",
+      "achieved": 1,
+      "unlocktime": 1773734237,
+      "name": "First generation mini-levels",
+      "description": "Unlocked after passing the \"DLC - Escape Room"
+    },
+    {
+      "apiname": "DLC_2",
+      "achieved": 1,
+      "unlocktime": 1773735126,
+      "name": "Binary fans",
+      "description": "Unlocked after passing \"DLC - Escape from the Secondary Room"
+    },
+    {
+      "apiname": "DLC_3",
+      "achieved": 1,
+      "unlocktime": 1773735678,
+      "name": "Hello, Devil",
+      "description": "Unlocked after passing \"DLC - Demon Ritual\""
+    },
+    {
+      "apiname": "DLC_4",
+      "achieved": 1,
+      "unlocktime": 1773733163,
+      "name": "Cao Raids Must Die",
+      "description": "Unlocked after passing \"DLC - This Game Thing\""
+    },
+    {
+      "apiname": "DLC_4_CXZR",
+      "achieved": 1,
+      "unlocktime": 1775014315,
+      "name": "Make a fresh start",
+      "description": ""
+    },
+    {
+      "apiname": "MISSION_6_JJL",
+      "achieved": 1,
+      "unlocktime": 1773684497,
+      "name": "996",
+      "description": ""
+    },
+    {
+      "apiname": "MISSION_7_LTBHXH",
+      "achieved": 1,
+      "unlocktime": 1773684652,
+      "name": "Society for the Protection of the Aged",
+      "description": ""
+    },
+    {
+      "apiname": "UCP_1_JSXL",
+      "achieved": 1,
+      "unlocktime": 1774919889,
+      "name": "Make merry in time",
+      "description": ""
+    },
+    {
+      "apiname": "UCP_1_TXZZ",
+      "achieved": 1,
+      "unlocktime": 1775015289,
+      "name": "The Chosen One",
+      "description": ""
+    },
+    {
+      "apiname": "UCP_1_TCG",
+      "achieved": 1,
+      "unlocktime": 1774919826,
+      "name": "Glutton for punishment",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_2_CMMT",
+      "achieved": 1,
+      "unlocktime": 1773677391,
+      "name": "Toilet obsession",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_5_SJP",
+      "achieved": 1,
+      "unlocktime": 1774923108,
+      "name": "Collecting fetish",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_4_ZMD",
+      "achieved": 1,
+      "unlocktime": 1774924024,
+      "name": "Walking Light",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_3_JCBX",
+      "achieved": 1,
+      "unlocktime": 1773684283,
+      "name": "Perseverance",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_5_FG",
+      "achieved": 1,
+      "unlocktime": 1774923135,
+      "name": "Anti-bone",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_5_DLR",
+      "achieved": 1,
+      "unlocktime": 1773732748,
+      "name": "Agents",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_5_YDFR",
+      "achieved": 1,
+      "unlocktime": 1774922174,
+      "name": "To convince people with virtue",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_4_XXZC",
+      "achieved": 1,
+      "unlocktime": 1773685472,
+      "name": "The Shame of XX",
+      "description": ""
+    },
+    {
+      "apiname": "FANTASY_3_DWZZJ",
+      "achieved": 1,
+      "unlocktime": 1773682246,
+      "name": "Animal Terminator",
+      "description": ""
+    },
+    {
+      "apiname": "LUCK_1_1",
+      "achieved": 1,
+      "unlocktime": 1773683701,
+      "name": "Balance of income and expenditure",
+      "description": "Unlocked after passing \"Theme Mode - Buried Alive\" ending 1"
+    },
+    {
+      "apiname": "LUCK_1_2",
+      "achieved": 1,
+      "unlocktime": 1773684091,
+      "name": "Multi-millionaire",
+      "description": "Unlocked after passing \"Theme Mode - Buried Alive\" ending 2"
+    },
+    {
+      "apiname": "LUCK_1_YLJS",
+      "achieved": 1,
+      "unlocktime": 1774919235,
+      "name": "lit. strike a stone with an egg (idiom); to hit a stone with an egg",
+      "description": ""
+    },
+    {
+      "apiname": "LUCK_1_ZBLL",
+      "achieved": 1,
+      "unlocktime": 1774919538,
+      "name": "self-inflicted",
+      "description": ""
+    },
+    {
+      "apiname": "LUCK_2_1",
+      "achieved": 1,
+      "unlocktime": 1773639310,
+      "name": "Play with a rope",
+      "description": "Unlocked after passing \\\"Theme Mode - Falling\\\" ending 1"
+    },
+    {
+      "apiname": "LUCK_2_2",
+      "achieved": 1,
+      "unlocktime": 1773682941,
+      "name": "Straight to the sky",
+      "description": "Unlocked after passing \\\"Theme Mode - Falling\\\" ending 2"
+    },
+    {
+      "apiname": "DLC_5",
+      "achieved": 1,
+      "unlocktime": 1773733666,
+      "name": "Goodbye, Devil",
+      "description": "Unlocked after passing 'DLC - Devil's Cabin'"
+    },
+    {
+      "apiname": "LUCK_2_MSMMDS",
+      "achieved": 1,
+      "unlocktime": 1774921209,
+      "name": "Morse Code Master",
+      "description": ""
+    },
+    {
+      "apiname": "DLC_5_ZC",
+      "achieved": 1,
+      "unlocktime": 1774921505,
+      "name": "There are millions of roads, but safety comes first",
+      "description": ""
+    },
+    {
+      "apiname": "DLC_5_WXFM",
+      "achieved": 1,
+      "unlocktime": 1774921661,
+      "name": "Invalid enchantment",
+      "description": ""
+    },
+    {
+      "apiname": "UCP_1_SNDR",
+      "achieved": 1,
+      "unlocktime": 1774920382,
+      "name": "Master of storage",
+      "description": ""
+    }
+  ]
+}

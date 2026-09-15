@@ -1,0 +1,242 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 985900,
+  "game": "Young Souls",
+  "total": 33,
+  "unlocked": 2,
+  "percent": 6.1,
+  "updated_at_utc": "2026-09-15T06:51:07.868960+00:00",
+  "achievements": [
+    {
+      "apiname": "youngsouls_1",
+      "achieved": 1,
+      "unlocktime": 1647525182,
+      "name": "First Blood",
+      "description": "Kill a goblin for the first time"
+    },
+    {
+      "apiname": "youngsouls_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Much for the Master of Magic",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Definitely Silent",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "She Became One With Her Machine",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Faster Than His Shadow",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still No \"Master\"",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NINJA!",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Brawn and No Brains",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reunited At Last",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Big a Price to Pay",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Deserts?",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beast Rider",
+      "description": "Ride a dragon for the first time"
+    },
+    {
+      "apiname": "youngsouls_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Training Complete",
+      "description": ""
+    },
+    {
+      "apiname": "youngsouls_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Pain, No Gain",
+      "description": "Earn 5 stars on a Happy Fit training session"
+    },
+    {
+      "apiname": "youngsouls_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Block Master",
+      "description": "Block 10 attacks"
+    },
+    {
+      "apiname": "youngsouls_16",
+      "achieved": 1,
+      "unlocktime": 1647525377,
+      "name": "Will You Parry Me",
+      "description": "Parry an attack"
+    },
+    {
+      "apiname": "youngsouls_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dodge Master",
+      "description": "Dodge an attack by rolling"
+    },
+    {
+      "apiname": "youngsouls_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Skilled for You",
+      "description": "Complete a dungeon without taking any damage"
+    },
+    {
+      "apiname": "youngsouls_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Better",
+      "description": "Upgrade a weapon or armor"
+    },
+    {
+      "apiname": "youngsouls_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overpowered",
+      "description": "Upgrade a weapon to 6 stars"
+    },
+    {
+      "apiname": "youngsouls_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Gear",
+      "description": "Upgrade an accessory to its maximum level"
+    },
+    {
+      "apiname": "youngsouls_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm So Fancy",
+      "description": "Equip an armor and helmet combo"
+    },
+    {
+      "apiname": "youngsouls_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Keeper I",
+      "description": "Collect 25,000 gold"
+    },
+    {
+      "apiname": "youngsouls_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Keeper II",
+      "description": "Collect 50,000 gold"
+    },
+    {
+      "apiname": "youngsouls_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Keeper III",
+      "description": "Collect 100,000 gold"
+    },
+    {
+      "apiname": "youngsouls_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I See Dead Goblins",
+      "description": "Clear all Catacombs"
+    },
+    {
+      "apiname": "youngsouls_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Badass",
+      "description": "Clear all hard branches"
+    },
+    {
+      "apiname": "youngsouls_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter I",
+      "description": "Open all bronze key chests"
+    },
+    {
+      "apiname": "youngsouls_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter II",
+      "description": "Open all silver key chests"
+    },
+    {
+      "apiname": "youngsouls_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter III",
+      "description": "Open all gold key chests"
+    },
+    {
+      "apiname": "youngsouls_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Challenger",
+      "description": "Finish the game at least in Challenging mode"
+    },
+    {
+      "apiname": "youngsouls_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert",
+      "description": "Finish the game in Expert mode"
+    },
+    {
+      "apiname": "youngsouls_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Job's Done!",
+      "description": "Complete the game at 100%"
+    }
+  ]
+}

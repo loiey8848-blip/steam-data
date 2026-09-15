@@ -1,0 +1,410 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1091500,
+  "game": "Cyberpunk 2077",
+  "total": 57,
+  "unlocked": 17,
+  "percent": 29.8,
+  "updated_at_utc": "2026-09-15T06:51:09.579041+00:00",
+  "achievements": [
+    {
+      "apiname": "TheFool",
+      "achieved": 1,
+      "unlocktime": 1607587364,
+      "name": "The Fool",
+      "description": ""
+    },
+    {
+      "apiname": "TheLovers",
+      "achieved": 1,
+      "unlocktime": 1607619883,
+      "name": "The Lovers",
+      "description": ""
+    },
+    {
+      "apiname": "TheHermit",
+      "achieved": 1,
+      "unlocktime": 1607792522,
+      "name": "The Hermit",
+      "description": ""
+    },
+    {
+      "apiname": "TheWheelOfFortune",
+      "achieved": 1,
+      "unlocktime": 1607792522,
+      "name": "The Wheel of Fortune",
+      "description": ""
+    },
+    {
+      "apiname": "TheHightPriestess",
+      "achieved": 1,
+      "unlocktime": 1607850869,
+      "name": "The High Priestess",
+      "description": ""
+    },
+    {
+      "apiname": "TheWorld",
+      "achieved": 1,
+      "unlocktime": 1608027266,
+      "name": "The World",
+      "description": "Complete the main storyline."
+    },
+    {
+      "apiname": "TheDevil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Devil",
+      "description": ""
+    },
+    {
+      "apiname": "TheStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Star",
+      "description": ""
+    },
+    {
+      "apiname": "TheSun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sun",
+      "description": ""
+    },
+    {
+      "apiname": "Temperance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Temperance",
+      "description": ""
+    },
+    {
+      "apiname": "FollowingTheRiver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Protect and Serve",
+      "description": ""
+    },
+    {
+      "apiname": "BornToBeWild",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To Bad Decisions!",
+      "description": ""
+    },
+    {
+      "apiname": "UnderPressure",
+      "achieved": 1,
+      "unlocktime": 1608276244,
+      "name": "Judy vs Night City",
+      "description": ""
+    },
+    {
+      "apiname": "QueenOfTheHighway",
+      "achieved": 1,
+      "unlocktime": 1607853599,
+      "name": "Life of the Road",
+      "description": ""
+    },
+    {
+      "apiname": "BushidoAndChill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bushido and Chill",
+      "description": ""
+    },
+    {
+      "apiname": "NeverFadeAway",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breathtaking",
+      "description": "Collect all items that once belonged to Johnny Silverhand."
+    },
+    {
+      "apiname": "YipMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's Elementary",
+      "description": "Complete all gigs and NCPD Scanner Hustles in Watson."
+    },
+    {
+      "apiname": "IAmMaxTac",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Am The Law",
+      "description": "Complete all Cyberpsycho Sightings."
+    },
+    {
+      "apiname": "ThisIsPacifica",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Greetings from Pacifica!",
+      "description": "Complete all gigs and NCPD Scanner Hustles in Pacifica."
+    },
+    {
+      "apiname": "NoMansLand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wasteland",
+      "description": "Complete all gigs and NCPD Scanner Hustles in the Badlands."
+    },
+    {
+      "apiname": "LittleTokyo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Tokyo",
+      "description": "Complete all gigs and NCPD Scanner Hustles in Westbrook."
+    },
+    {
+      "apiname": "LikeFatherLikeSon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mean Streets",
+      "description": "Complete all gigs and NCPD Scanner Hustles in Heywood."
+    },
+    {
+      "apiname": "TradeUnion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Jungle",
+      "description": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo."
+    },
+    {
+      "apiname": "Bladerunner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "City Lights",
+      "description": "Complete all gigs and NCPD Scanner Hustles in City Center."
+    },
+    {
+      "apiname": "Cyberjunkie",
+      "achieved": 1,
+      "unlocktime": 1695979190,
+      "name": "Full Body Conversion",
+      "description": "Install at least one implant in each system and body part."
+    },
+    {
+      "apiname": "GunKata",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gun Fu",
+      "description": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat."
+    },
+    {
+      "apiname": "MasterRunner",
+      "achieved": 1,
+      "unlocktime": 1695982614,
+      "name": "Christmas Tree Attack",
+      "description": "Complete a Breach Protocol with a minimum of 3 daemons uploaded."
+    },
+    {
+      "apiname": "Specialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten out of Ten",
+      "description": "Reach the max level in any skill."
+    },
+    {
+      "apiname": "Gunslinger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunslinger",
+      "description": "Shoot an enemy grenade in midair with a revolver."
+    },
+    {
+      "apiname": "TwoHeadsOneBullet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Heads, One Bullet",
+      "description": "Kill or incapacitate 2 enemies with the same sniper rifle shot."
+    },
+    {
+      "apiname": "ThatIsSoHardForTheKnees",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rough Landing",
+      "description": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies."
+    },
+    {
+      "apiname": "Roleplayer",
+      "achieved": 1,
+      "unlocktime": 1607800197,
+      "name": "Stanislavski's Method",
+      "description": "Use a dialogue option related to V's life path 10 times."
+    },
+    {
+      "apiname": "Gearhead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Autojock",
+      "description": "Buy all vehicles available for purchase."
+    },
+    {
+      "apiname": "HandyMan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Crafter",
+      "description": "Craft 3 Legendary items."
+    },
+    {
+      "apiname": "NotTheMobile",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daemon In The Shell",
+      "description": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack."
+    },
+    {
+      "apiname": "MaxPain",
+      "achieved": 1,
+      "unlocktime": 1696009336,
+      "name": "The Quick and the Dead",
+      "description": "Kill or incapacitate 50 enemies while time is slowed."
+    },
+    {
+      "apiname": "MustBeTheRats",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Must Be Rats",
+      "description": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself."
+    },
+    {
+      "apiname": "VForVendetta",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "V for Vendetta",
+      "description": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds."
+    },
+    {
+      "apiname": "TrueSoldier",
+      "achieved": 1,
+      "unlocktime": 1607775843,
+      "name": "True Soldier",
+      "description": "Kill or incapacitate 300 enemies using ranged weapons."
+    },
+    {
+      "apiname": "TrueWarrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Warrior",
+      "description": "Kill or incapacitate 100 enemies using melee weapons."
+    },
+    {
+      "apiname": "Denied",
+      "achieved": 1,
+      "unlocktime": 1607697551,
+      "name": "Right Back At Ya",
+      "description": "Kill or incapacitate an enemy who threw a grenade at you."
+    },
+    {
+      "apiname": "Fortuneteller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wandering Fool",
+      "description": "Find all the tarot graffiti for the job Fool on the Hill."
+    },
+    {
+      "apiname": "GetMeThereScottie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frequent Flyer",
+      "description": "Find all fast travel dataterms."
+    },
+    {
+      "apiname": "YouKnowWhoIAm",
+      "achieved": 1,
+      "unlocktime": 1607767021,
+      "name": "Legend of The Afterlife",
+      "description": "Reach max Street Cred."
+    },
+    {
+      "apiname": "KingOfTheCups",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of Cups",
+      "description": ""
+    },
+    {
+      "apiname": "KingOfThePentacles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of Pentacles",
+      "description": ""
+    },
+    {
+      "apiname": "KingOfTheWands",
+      "achieved": 1,
+      "unlocktime": 1696011710,
+      "name": "King of Wands",
+      "description": ""
+    },
+    {
+      "apiname": "KingOfTheSwords",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "King of Swords",
+      "description": ""
+    },
+    {
+      "apiname": "TheTower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tower",
+      "description": ""
+    },
+    {
+      "apiname": "Kingmaker",
+      "achieved": 1,
+      "unlocktime": 1696247352,
+      "name": "Spin Doctor",
+      "description": ""
+    },
+    {
+      "apiname": "AllThePresidentsMen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All the President's Men",
+      "description": "Save President Myers."
+    },
+    {
+      "apiname": "DirtyWork",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirty Deeds",
+      "description": "Complete every Gig in Dogtown."
+    },
+    {
+      "apiname": "HydraIsDead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Judgement Day",
+      "description": "Eliminate three bosses from the \"Increased criminal activity\" category."
+    },
+    {
+      "apiname": "EasyComeEasyGo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Easy Come, Easy Go",
+      "description": "Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan."
+    },
+    {
+      "apiname": "IHateSpider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arachnophobia",
+      "description": ""
+    },
+    {
+      "apiname": "RelicMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Relic Ruler",
+      "description": "Unlock all Perks in the Relic Perk tree."
+    },
+    {
+      "apiname": "DogtownLaw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The APB is Not Enough",
+      "description": "Become Dogtown's most wanted criminal."
+    }
+  ]
+}

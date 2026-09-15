@@ -1,0 +1,242 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 704850,
+  "game": "Thief Simulator",
+  "total": 33,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:27.472995+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHALARMS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hackerman",
+      "description": "Disable 10 control panels"
+    },
+    {
+      "apiname": "ACHALLCARS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crazy about cars",
+      "description": "Steal 5 cars"
+    },
+    {
+      "apiname": "ACHART1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Art connoisseur",
+      "description": "Steal 10 paintings"
+    },
+    {
+      "apiname": "ACHBRICK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nice throw man",
+      "description": "Break a window with a brick"
+    },
+    {
+      "apiname": "ACHCAR1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car enthusiast 1",
+      "description": "Steal Bolthorn 86 Classic"
+    },
+    {
+      "apiname": "ACHCAR2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car enthusiast 2",
+      "description": "Steal Aisan Cougar"
+    },
+    {
+      "apiname": "ACHCAR3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car enthusiast 3",
+      "description": "Steal Bolthorn Family MkV"
+    },
+    {
+      "apiname": "ACHCAR4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car enthusiast 4",
+      "description": "Steal Vulcan Spectre"
+    },
+    {
+      "apiname": "ACHCAR5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car enthusiast 5",
+      "description": "Steal Kubra GTS"
+    },
+    {
+      "apiname": "ACHCASH1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealth redistribution 1",
+      "description": "Steal items worth 5000"
+    },
+    {
+      "apiname": "ACHCASH2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealth redistribution 2",
+      "description": "Steal items worth 20000"
+    },
+    {
+      "apiname": "ACHCASH3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealth redistribution 3",
+      "description": "Steal items worth 50000"
+    },
+    {
+      "apiname": "ACHCASH4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wealth redistribution 4",
+      "description": "Steal items worth 100000"
+    },
+    {
+      "apiname": "ACHCONSOLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Console gamer",
+      "description": "Steal 5 consoles "
+    },
+    {
+      "apiname": "ACHDISHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Who needs dishes",
+      "description": "Break 10 dishes"
+    },
+    {
+      "apiname": "ACHFREEMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Debt free man",
+      "description": "Get fired"
+    },
+    {
+      "apiname": "ACHSNEAK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sneaky sneak",
+      "description": "Finish 10 S rank thefts without beeing seen"
+    },
+    {
+      "apiname": "ACHTOILETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plumbing expert",
+      "description": "Break 10 toilets"
+    },
+    {
+      "apiname": "ACHTV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too much television is bad for you",
+      "description": "Steal 5 TVs"
+    },
+    {
+      "apiname": "ACHWINDOWS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh air",
+      "description": "Break 10 windows"
+    },
+    {
+      "apiname": "ACHTOAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Toasters Toast Toast",
+      "description": "Steal 10 toasters"
+    },
+    {
+      "apiname": "ACHEGG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Egg hunt",
+      "description": "Find 5 Faberge Egg replicas in Richie R."
+    },
+    {
+      "apiname": "ACHXMAS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reverse Santa",
+      "description": "Sell all presents on BlackBay"
+    },
+    {
+      "apiname": "ACHCLOAK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A what?",
+      "description": "Buy a cloaking device on ng+"
+    },
+    {
+      "apiname": "ACHEQUIPMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well equipped",
+      "description": "Steal 5 construction yellow boxes"
+    },
+    {
+      "apiname": "ACHCARFORKLIFT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forking workflow",
+      "description": "Steal the forklift"
+    },
+    {
+      "apiname": "ACHCARSKIDLOADER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skid mark",
+      "description": "Steal the skid loader"
+    },
+    {
+      "apiname": "ACHHALLOWEENCANDY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like candy from a baby",
+      "description": "Steal and sell 8 candy bags on BlackBay"
+    },
+    {
+      "apiname": "ACHHALLOWEENDOLLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Creepy",
+      "description": "Steal and sell 4 creepy dolls on BlackBay"
+    },
+    {
+      "apiname": "ACHHALLOWEENPUMPKINS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halloween is here",
+      "description": "Steal and sell 7 pumpkins on BlackBay"
+    },
+    {
+      "apiname": "ACHXMASSLEIGH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dude, where's my sleigh?",
+      "description": "Steal santa sleigh car"
+    },
+    {
+      "apiname": "ACHBIGTOYS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Toys for greedy boys",
+      "description": "Steal 6 big toy boxes"
+    },
+    {
+      "apiname": "ACHVHS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "VHS is the best",
+      "description": "Sell 5 VHS on BlackBay"
+    }
+  ]
+}

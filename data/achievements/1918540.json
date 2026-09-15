@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1918540,
+  "game": "The Ramen Sensei",
+  "total": 6,
+  "unlocked": 1,
+  "percent": 16.7,
+  "updated_at_utc": "2026-09-15T06:52:24.222583+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kairobot certified store.",
+      "description": "Proof of obtaining a Gold Kairo Statue."
+    },
+    {
+      "apiname": "GAMECLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The noodles that keep spread forever.",
+      "description": "Proof of running a ramen shop for many years."
+    },
+    {
+      "apiname": "RANK30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An extraordinary management power.",
+      "description": "Proof of getting the manager to rank 30."
+    },
+    {
+      "apiname": "WIN30COMPET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is the true ramen.",
+      "description": "Proof of getting a total of 30 victories."
+    },
+    {
+      "apiname": "CUSTOMER500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The stomach is also level up!",
+      "description": "Proof that the total level of customers has reached 500."
+    },
+    {
+      "apiname": "FIRSTRAMEN",
+      "achieved": 1,
+      "unlocktime": 1788799070,
+      "name": "The first entry of confidence!",
+      "description": "Proof of making ramen for the first time."
+    }
+  ]
+}

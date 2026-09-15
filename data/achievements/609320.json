@@ -1,0 +1,109 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 609320,
+  "game": "FAR: Lone Sails",
+  "total": 14,
+  "unlocked": 14,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:50:17.184130+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_SET_SAIL",
+      "achieved": 1,
+      "unlocktime": 1779920329,
+      "name": "Set Sail",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_BREAK_IT_FIX_IT",
+      "achieved": 1,
+      "unlocktime": 1779921944,
+      "name": "Break it, fix it!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SUCK_IT_UP",
+      "achieved": 1,
+      "unlocktime": 1779923576,
+      "name": "Suck it up!",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_PIMP_MY_RIDE",
+      "achieved": 1,
+      "unlocktime": 1780086007,
+      "name": "Pimp my Ride",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_42",
+      "achieved": 1,
+      "unlocktime": 1780089348,
+      "name": "The answer to life, the universe and everything",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_COMPLETE",
+      "achieved": 1,
+      "unlocktime": 1780090341,
+      "name": "Goodbye old Friend",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_SOUND_OF_SILENCE",
+      "achieved": 1,
+      "unlocktime": 1784099856,
+      "name": "The Sound of Silence",
+      "description": "Burn the Radio while it plays"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FULL_THROTTLE",
+      "achieved": 1,
+      "unlocktime": 1780087057,
+      "name": "Full Throttle",
+      "description": "Ride the Okomotive at full Speed"
+    },
+    {
+      "apiname": "ACHIEVEMENT_MY_HEART_WILL_GO_ON",
+      "achieved": 1,
+      "unlocktime": 1784087555,
+      "name": "My Heart will go on",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_PIECE_OF_HOME",
+      "achieved": 1,
+      "unlocktime": 1784099856,
+      "name": "A piece of Home",
+      "description": "Reach the end with the mailbox"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FIRE_IN_THE_HOLE",
+      "achieved": 1,
+      "unlocktime": 1784086702,
+      "name": "Fire in the Hole!",
+      "description": "Blow up every explosive barrel"
+    },
+    {
+      "apiname": "ACHIEVEMENT_HOARDER",
+      "achieved": 1,
+      "unlocktime": 1779921570,
+      "name": "Hoarder",
+      "description": "Store 15 object inside the Okomotive"
+    },
+    {
+      "apiname": "ACHIEVEMENT_OVER_9000",
+      "achieved": 1,
+      "unlocktime": 1784107052,
+      "name": "It’s over 9000!",
+      "description": "Reach 9001 on the distance counter"
+    },
+    {
+      "apiname": "ACHIEVEMENT_FULL_SPEED",
+      "achieved": 1,
+      "unlocktime": 1784099856,
+      "name": "I got 99 minutes",
+      "description": "Rush through the game in less than 99 minutes"
+    }
+  ]
+}

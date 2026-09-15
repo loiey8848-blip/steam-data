@@ -1,0 +1,74 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 501300,
+  "game": "What Remains of Edith Finch",
+  "total": 9,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:53.399573+00:00",
+  "achievements": [
+    {
+      "apiname": "AllStories",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End of Everything",
+      "description": "Finish all stories"
+    },
+    {
+      "apiname": "AllPeepholes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Closer Look",
+      "description": "Look in all peepholes and telescopes long enough to hear Edith's commentary"
+    },
+    {
+      "apiname": "TakeBothPathsToTheHouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Roads",
+      "description": "Take both paths to the house"
+    },
+    {
+      "apiname": "EfficientOwl",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Owl",
+      "description": "Catch 2 rabbits with only 2 swoops"
+    },
+    {
+      "apiname": "LetDrunkenSailorFinishSinging",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let Him Finish",
+      "description": "Let the drunken sailor finish his song"
+    },
+    {
+      "apiname": "KnockAllPoolBallsOffTheTable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clear the Table",
+      "description": "Clear all balls off the pool table"
+    },
+    {
+      "apiname": "KnockAllGregoryLettersIntoBathtub",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "G-R-E-G-O-R-Y",
+      "description": "Knock all the letters of Gregory's name into the bathtub"
+    },
+    {
+      "apiname": "Johann",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks, Johann!",
+      "description": "See Johann's name in the ending credits"
+    },
+    {
+      "apiname": "ReplaySwingset",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loop-de-loop-de-loop",
+      "description": "Play Calvin's story again"
+    }
+  ]
+}

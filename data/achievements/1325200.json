@@ -1,0 +1,627 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1325200,
+  "game": "Nioh 2 – The Complete Edition",
+  "total": 88,
+  "unlocked": 15,
+  "percent": 17.0,
+  "updated_at_utc": "2026-09-15T06:51:17.575380+00:00",
+  "achievements": [
+    {
+      "apiname": "TROPHY_PLATINUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Are Nioh",
+      "description": "You have unlocked all achievements!"
+    },
+    {
+      "apiname": "TROPHY_ACHIEVE_LEVEL_A",
+      "achieved": 1,
+      "unlocktime": 1768718214,
+      "name": "The Beginning of a Samurai",
+      "description": "Reached level 10."
+    },
+    {
+      "apiname": "TROPHY_ACHIEVE_LEVEL_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full-fledged Samurai",
+      "description": "Reached level 100."
+    },
+    {
+      "apiname": "TROPHY_MISSION_01",
+      "achieved": 1,
+      "unlocktime": 1768716650,
+      "name": "Dawn of a Dream",
+      "description": "Befriended Tokichiro."
+    },
+    {
+      "apiname": "TROPHY_MISSION_02",
+      "achieved": 1,
+      "unlocktime": 1768788849,
+      "name": "An Electrifying Triumph",
+      "description": "Defeated Imagawa Yoshimoto and was made a samurai."
+    },
+    {
+      "apiname": "TROPHY_MISSION_03",
+      "achieved": 1,
+      "unlocktime": 1768849948,
+      "name": "Hideyoshi",
+      "description": "Decided to share a name with Tokichiro."
+    },
+    {
+      "apiname": "TROPHY_MISSION_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Paths We Tread",
+      "description": "Parted ways with Tokichiro."
+    },
+    {
+      "apiname": "TROPHY_MISSION_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream's Toll",
+      "description": "Defeated Tokichiro."
+    },
+    {
+      "apiname": "TROPHY_MISSION_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mother and Child",
+      "description": "Reunited with your mother in the Interim."
+    },
+    {
+      "apiname": "TROPHY_MISSION_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What is Written",
+      "description": "Fulfilled your ultimate destiny."
+    },
+    {
+      "apiname": "TROPHY_MISSION_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dream Within a Dream",
+      "description": "Saw Tokichiro off on his final departure."
+    },
+    {
+      "apiname": "TROPHY_SPIRIT_WEAPON_MAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Weapon's Mind",
+      "description": "Listened to the innermost thoughts of a Yokai Weapon."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_KATANA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sword Master",
+      "description": "Acquired mystic art for the sword."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_NITOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dual Sword Master",
+      "description": "Acquired mystic art for the dual swords."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_YARI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spear Master",
+      "description": "Acquired mystic art for the spear."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_ONO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Axe Master",
+      "description": "Acquired mystic art for the axe."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_KAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kusarigama Master",
+      "description": "Acquired mystic art for the kusarigama."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_ODACHI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Odachi Master",
+      "description": "Acquired mystic art for the odachi."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_TONFA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tonfa Master",
+      "description": "Acquired mystic art for the tonfa."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_TEONO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hatchet Master",
+      "description": "Acquired mystic art for the hatchets."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_NAGIGAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Switchglaive Master",
+      "description": "Acquired mystic art for the switchglaive."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_NIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ninjutsu Master",
+      "description": "Acquired mystic art for Ninjutsu."
+    },
+    {
+      "apiname": "TROPHY_SKILL_HIDDEN_ONMYOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Onmyo Magic Master",
+      "description": "Acquired mystic art for Onmyo Magic."
+    },
+    {
+      "apiname": "TROPHY_SPIRIT_ACTION_ATTACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burst Breaker",
+      "description": "Used the Brute, Feral, and Phantom Burst Counters five times each to counter a Burst Attack."
+    },
+    {
+      "apiname": "TROPHY_FIRST_FUSION",
+      "achieved": 1,
+      "unlocktime": 1768724876,
+      "name": "Match Made in Heaven",
+      "description": "Performed a Soul Match."
+    },
+    {
+      "apiname": "TROPHY_FIRST_FORGING",
+      "achieved": 1,
+      "unlocktime": 1768788987,
+      "name": "Latest Masterpiece",
+      "description": "Forged an item."
+    },
+    {
+      "apiname": "TROPHY_FIRST_REMODELING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Remodeling Novice",
+      "description": "Remodeled a piece of equipment."
+    },
+    {
+      "apiname": "TROPHY_APPRAISAL_TEASET",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tea Connoisseur",
+      "description": "Appraised your tea utensils 50 times."
+    },
+    {
+      "apiname": "TROPHY_FIRST_SET_KAKEJIKU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lover of Letters",
+      "description": "Displayed a calligraphy scroll in your hut."
+    },
+    {
+      "apiname": "TROPHY_FIRST_KODAMA_SHOP",
+      "achieved": 1,
+      "unlocktime": 1768723990,
+      "name": "Trinket Triumph",
+      "description": "Used the Kodama Bazaar."
+    },
+    {
+      "apiname": "TROPHY_ACHIEVE_COOP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Teamwork",
+      "description": "Completed 10 missions with NPCs or as Expeditions with other users. (Does not include Acolytes.)"
+    },
+    {
+      "apiname": "TROPHY_USE_GIJINDUKA",
+      "achieved": 1,
+      "unlocktime": 1768788573,
+      "name": "Help Wanted",
+      "description": "Summoned an Acolyte from a Benevolent Grave 10 times."
+    },
+    {
+      "apiname": "TROPHY_FIRST_OUMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twilight Walker",
+      "description": "Completed your first Twilight mission."
+    },
+    {
+      "apiname": "TROPHY_FIRST_SPA",
+      "achieved": 1,
+      "unlocktime": 1768720868,
+      "name": "Spa Healer",
+      "description": "Bathed in first hot spring."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_SPA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spa Lover",
+      "description": "Bathed in every hot spring."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_ENEMY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yokai Quelling Master",
+      "description": "Defeated all types of yokai."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_KODAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kodama Leader",
+      "description": "Collected all Kodama."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_GUARDIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend of Guardians",
+      "description": "Collected all Guardian Spirits."
+    },
+    {
+      "apiname": "TROPHY_FIRST_SUDAMA_TRADE",
+      "achieved": 1,
+      "unlocktime": 1768786439,
+      "name": "Sudama Swapper",
+      "description": "Exchanged gifts with a Sudama for the first time."
+    },
+    {
+      "apiname": "TROPHY_FIRST_GET_TAMASHIRO",
+      "achieved": 1,
+      "unlocktime": 1768714329,
+      "name": "Core Score",
+      "description": "Obtained your first Soul Core."
+    },
+    {
+      "apiname": "TROPHY_KODAMA_TAMASHIRO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friend to the Kodama",
+      "description": "Obtained a Kodama's Soul Core."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_TAMASHIRO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Searcher",
+      "description": "Obtained all Soul Cores."
+    },
+    {
+      "apiname": "TROPHY_TAMASHIRO_RANK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fuse It or Lose It",
+      "description": "Fused any Soul Core until it reached rank 9."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_MAP_ITEM",
+      "achieved": 1,
+      "unlocktime": 1768904430,
+      "name": "Seasoned Traveler",
+      "description": "Discovered 10 hidden items on the map."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_TOKOYAMI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let There Be Light",
+      "description": "Dispelled every instance of the Dark Realm in the main missions."
+    },
+    {
+      "apiname": "TROPHY_GOZUMEZU",
+      "achieved": 1,
+      "unlocktime": 1768716410,
+      "name": "Grazer Eraser",
+      "description": "Defeated Mezuki and Gozuki in the same mission. "
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_KUSO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dungball Roller",
+      "description": "Became Ryunojo the Dung Lover's best friend and received the Coiled Snake Helmet smithing text."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_USURABI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hidden Hopes",
+      "description": "Encountered all the Usura-Hicho in \"The Frenzied Blaze\"."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_KUSABI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Sweep",
+      "description": "Destroyed every Amrita shard in \"The High-spirited Demon\"."
+    },
+    {
+      "apiname": "TROPHY_SHIRAHEBI_STATUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devout Believer",
+      "description": "Defeated the boss of \"The Viper's Sanctum\" without breaking the statue of Shirohami. "
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_7YARI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seven Wonders",
+      "description": "Defeated each of the Seven Spears in \"Cherry Blossom Viewing in Daigo\"."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_TATARIMOKKE",
+      "achieved": 1,
+      "unlocktime": 1768884652,
+      "name": "Feather Buster",
+      "description": "Drove back every Tatarimokke along the journey in \"A Way Out\"."
+    },
+    {
+      "apiname": "TROPHY_DEFEAT_CH1_GOZUKI",
+      "achieved": 1,
+      "unlocktime": 1768713672,
+      "name": "Bold Wrangler",
+      "description": "Defeated Gozuki in \"The Village of Cursed Blossoms\"."
+    },
+    {
+      "apiname": "TROPHY_GYUKI_HIT_SEKI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Schemer",
+      "description": "Got Gyuki to attack the dam in \"Pervading Waters\"."
+    },
+    {
+      "apiname": "TROPHY_COMPLETE_BELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peal of Ten Thousand Bells",
+      "description": "Rang all the bells in \"Ruin Draws Near\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_MISSION_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Kindred Light",
+      "description": "Completed \"A Song to Calm the Storm\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_MISSION_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Will to Fight",
+      "description": "Completed \"Eternal Rivals\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_MISSION_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Casting Out the Shadows",
+      "description": "Completed \"Shadows Creep in Kurama\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_COMPLETE_KODAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kodama General",
+      "description": "Collected all Kodama in \"The Tengu's Disciple\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_HIDDEN_SANSETSU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splitstaff Master",
+      "description": "Acquired mystic art for the splitstaff."
+    },
+    {
+      "apiname": "TROPHY_DLC1_UTAHUDA_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poetry in Motion",
+      "description": "Collected all of Saigyo's poetry cards."
+    },
+    {
+      "apiname": "TROPHY_DLC1_COMPLETE_SPA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spa Addict",
+      "description": "Bathed in every hot spring found in \"The Tengu's Disciple\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_COMPLETE_BIG_BOW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sundering Arrows",
+      "description": "Used all the giant bows in \"A Song to Calm the Storm\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_COMPLETE_GOLDEN_AMRITA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heretical Glow",
+      "description": "Destroyed 150 of the golden Amrita shards found in the gold mine in \"Eternal Rivals\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_KNOCK_OFF_YOSHITSUNE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tengu Crusher",
+      "description": "Used an attack to knock Yoshitsune off his perch on the bridge in \"Eternal Rivals\"."
+    },
+    {
+      "apiname": "TROPHY_DLC1_EMAKI_CLEAR_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonic Parade-Goer",
+      "description": "Completed picture scroll missions 10 times."
+    },
+    {
+      "apiname": "TROPHY_DLC2_MISSION_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Demon and the Phoenix",
+      "description": "Completed \"Suzune in the Flames\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_MISSION_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian of the Gate",
+      "description": "Completed \"The Blighted Gate\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_MISSION_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What Must Be Done",
+      "description": "Completed \"Palace of the Damned\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_COMPLETE_KODAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kodama Pathfinder",
+      "description": "Collected all Kodama in \"Darkness in the Capital\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_HIDDEN_TEKKOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fist Master",
+      "description": "Acquired mystic art for the fists."
+    },
+    {
+      "apiname": "TROPHY_DLC2_GOMA_FIRE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Flame That Lights the Darkness",
+      "description": "Lit all fire altars in \"Palace of the Damned\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_COMPLETE_SPA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spa Fanatic",
+      "description": "Bathed in every hot spring found in \"Darkness in the Capital\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_MISSION_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ultimate Recognition",
+      "description": "Completed \"The Dragon's Kin\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_TSUCHIGUMO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tsuchigumo Exterminated",
+      "description": "Defeated Tsuchigumo while equipped with at least one piece of gear with the special effect \"Dragon Ninja\"."
+    },
+    {
+      "apiname": "TROPHY_DLC2_OBOROGURUMA_AMRITA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behind the Bamboo Blinds",
+      "description": "Caused Oboroguruma to release Amrita from its carriage at least 10 times."
+    },
+    {
+      "apiname": "TROPHY_DLC2_COMPLETE_NANGYOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Atonement",
+      "description": "Attained 100% Penitence on a Stone of Penance."
+    },
+    {
+      "apiname": "TROPHY_DLC3_MISSION_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Things Begin",
+      "description": "Completed \"Dawn of the Demon\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_MISSION_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Dream of Peace",
+      "description": "Completed \"A Distant Dream\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_COMPLETE_KODAMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit Guide",
+      "description": "Collected all Kodama in \"The First Samurai\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_SHINSUI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleansing Caskmaster",
+      "description": "Used a cask of holy water in \"Dawn of the Demon\" to damage an enemy's Ki."
+    },
+    {
+      "apiname": "TROPHY_DLC3_MISSION_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scent of Danger",
+      "description": "Completed \"The Alluring Ancient\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_COMPLETE_SPA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spa Connoisseur",
+      "description": "Bathed in every hot spring found in \"The First Samurai\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_MUJINA_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Friend Indeed",
+      "description": "Saved all the Mujina in \"A Distant Dream\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_SHIKI_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Demons' Den",
+      "description": "Defeated the four demons in \"A Distant Dream\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_MISSION_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Way of the Vanquisher",
+      "description": "Completed \"Against All Comers\" on Dream of the Demon or higher."
+    },
+    {
+      "apiname": "TROPHY_DLC3_FUDE_COMPLETE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honoring the Dead",
+      "description": "Collected all of Kukai's brushes in \"Words of Respite\"."
+    },
+    {
+      "apiname": "TROPHY_DLC3_COMPLETE_SUB92_GIJINDUKA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Path We've Taken",
+      "description": "Obtained the aid of Tokichiro, Minamoto no Yoshitsune, and Minamoto no Yorimitsu from a Benevolent Grave in \"A Familiar Glow\"."
+    }
+  ]
+}

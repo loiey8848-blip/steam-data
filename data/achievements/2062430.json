@@ -1,0 +1,452 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2062430,
+  "game": "BALL x PIT",
+  "total": 63,
+  "unlocked": 63,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:26.893322+00:00",
+  "achievements": [
+    {
+      "apiname": "complete_graveyards",
+      "achieved": 1,
+      "unlocktime": 1769955573,
+      "name": "BONExYARD",
+      "description": "Complete the BONExYARD"
+    },
+    {
+      "apiname": "complete_snowy",
+      "achieved": 1,
+      "unlocktime": 1771656066,
+      "name": "SNOWYxSHORES",
+      "description": ""
+    },
+    {
+      "apiname": "complete_desert",
+      "achieved": 1,
+      "unlocktime": 1771657345,
+      "name": "LIMINALxDESERT",
+      "description": ""
+    },
+    {
+      "apiname": "complete_savanna",
+      "achieved": 1,
+      "unlocktime": 1771663227,
+      "name": "GORYxGRASSLANDS",
+      "description": ""
+    },
+    {
+      "apiname": "complete_shroom",
+      "achieved": 1,
+      "unlocktime": 1771662229,
+      "name": "FUNGALxFOREST",
+      "description": ""
+    },
+    {
+      "apiname": "complete_fiery",
+      "achieved": 1,
+      "unlocktime": 1771667349,
+      "name": "SMOLDERINGxDEPTHS",
+      "description": ""
+    },
+    {
+      "apiname": "complete_heaven",
+      "achieved": 1,
+      "unlocktime": 1771669315,
+      "name": "HEAVENLYxGATES",
+      "description": ""
+    },
+    {
+      "apiname": "complete_void",
+      "achieved": 1,
+      "unlocktime": 1771700375,
+      "name": "VASTxVOID",
+      "description": ""
+    },
+    {
+      "apiname": "complete_graveyards10",
+      "achieved": 1,
+      "unlocktime": 1771699136,
+      "name": "BONExYARD Conquered",
+      "description": "Complete the BONExYARD with 10 different characters"
+    },
+    {
+      "apiname": "complete_snowy10",
+      "achieved": 1,
+      "unlocktime": 1771701124,
+      "name": "SNOWYxSHORES Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_desert10",
+      "achieved": 1,
+      "unlocktime": 1771732670,
+      "name": "LIMINALxDESERT Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_savanna10",
+      "achieved": 1,
+      "unlocktime": 1771737918,
+      "name": "GORYxGRASSLANDS Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_shroom10",
+      "achieved": 1,
+      "unlocktime": 1771737187,
+      "name": "FUNGALxFOREST Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_fiery10",
+      "achieved": 1,
+      "unlocktime": 1771739494,
+      "name": "SMOLDERINGxDEPTHS Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_heaven10",
+      "achieved": 1,
+      "unlocktime": 1771746928,
+      "name": "HEAVENLYxGATES Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "complete_void10",
+      "achieved": 1,
+      "unlocktime": 1771735845,
+      "name": "VASTxVOID Conquered",
+      "description": ""
+    },
+    {
+      "apiname": "warrior_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771735283,
+      "name": "True Warrior",
+      "description": "Complete every level with The Warrior"
+    },
+    {
+      "apiname": "recaller_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771752254,
+      "name": "Repentance",
+      "description": ""
+    },
+    {
+      "apiname": "itchyfinger_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771735283,
+      "name": "Itch Scratched",
+      "description": ""
+    },
+    {
+      "apiname": "cogitator_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771750923,
+      "name": "Cogitated",
+      "description": ""
+    },
+    {
+      "apiname": "tactician_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771750923,
+      "name": "Master General",
+      "description": ""
+    },
+    {
+      "apiname": "spendthrift_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771753962,
+      "name": "All Spent",
+      "description": ""
+    },
+    {
+      "apiname": "embedded_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771748774,
+      "name": "Embedder",
+      "description": ""
+    },
+    {
+      "apiname": "radicalai_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771748194,
+      "name": "Radicalized",
+      "description": ""
+    },
+    {
+      "apiname": "emptynester_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771748194,
+      "name": "Golden Years",
+      "description": ""
+    },
+    {
+      "apiname": "shade_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771751722,
+      "name": "Long Shadow",
+      "description": ""
+    },
+    {
+      "apiname": "cohabitants_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771746928,
+      "name": "Unpacked",
+      "description": ""
+    },
+    {
+      "apiname": "physicist_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771753962,
+      "name": "Gravity's Rainbow",
+      "description": ""
+    },
+    {
+      "apiname": "brickhead_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771737918,
+      "name": "Brick Breaker",
+      "description": ""
+    },
+    {
+      "apiname": "sisyphus_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771746928,
+      "name": "Herculean",
+      "description": ""
+    },
+    {
+      "apiname": "flagellant_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771752534,
+      "name": "Masochist",
+      "description": ""
+    },
+    {
+      "apiname": "wimp_all_levels",
+      "achieved": 1,
+      "unlocktime": 1771748774,
+      "name": "Entertainer",
+      "description": ""
+    },
+    {
+      "apiname": "first_evo",
+      "achieved": 1,
+      "unlocktime": 1769993423,
+      "name": "Evolution",
+      "description": "Create your first evolution"
+    },
+    {
+      "apiname": "first_fusion",
+      "achieved": 1,
+      "unlocktime": 1769954919,
+      "name": "Fusion",
+      "description": "Fuse two balls for the first time"
+    },
+    {
+      "apiname": "create_nosferatu",
+      "achieved": 1,
+      "unlocktime": 1771749958,
+      "name": "Nosferatu",
+      "description": ""
+    },
+    {
+      "apiname": "create_nuclearbomb",
+      "achieved": 1,
+      "unlocktime": 1771735845,
+      "name": "Nuclear Bomb",
+      "description": ""
+    },
+    {
+      "apiname": "create_satan",
+      "achieved": 1,
+      "unlocktime": 1771753159,
+      "name": "Satan",
+      "description": ""
+    },
+    {
+      "apiname": "create_soulreaver",
+      "achieved": 1,
+      "unlocktime": 1771747180,
+      "name": "Soul Reaver",
+      "description": ""
+    },
+    {
+      "apiname": "create_deadeyescross",
+      "achieved": 1,
+      "unlocktime": 1771701283,
+      "name": "Deadeye's Cross",
+      "description": ""
+    },
+    {
+      "apiname": "100000_kills",
+      "achieved": 1,
+      "unlocktime": 1771752918,
+      "name": "Legion Slayer",
+      "description": "Kill 100,000 enemies"
+    },
+    {
+      "apiname": "5000_gold",
+      "achieved": 1,
+      "unlocktime": 1771657373,
+      "name": "Riches",
+      "description": "Collect 5000 gold in total"
+    },
+    {
+      "apiname": "1000_wheat",
+      "achieved": 1,
+      "unlocktime": 1771696683,
+      "name": "Wheat Farmer",
+      "description": "Collect 1000 wheat in total"
+    },
+    {
+      "apiname": "1000_wood",
+      "achieved": 1,
+      "unlocktime": 1771734235,
+      "name": "Woodcutter",
+      "description": "Collect 1000 wood in total"
+    },
+    {
+      "apiname": "1000_stone",
+      "achieved": 1,
+      "unlocktime": 1771696691,
+      "name": "Stone Miner",
+      "description": "Collect 1000 stone in total"
+    },
+    {
+      "apiname": "1000_gold_harvest",
+      "achieved": 1,
+      "unlocktime": 1771746965,
+      "name": "Gold Miner",
+      "description": "Mine 1000 gold in a single harvest"
+    },
+    {
+      "apiname": "100_wheat_harvest",
+      "achieved": 1,
+      "unlocktime": 1771734305,
+      "name": "Bountiful Harvest",
+      "description": "Collect 100 wheat in a single harvest"
+    },
+    {
+      "apiname": "100_wood_harvest",
+      "achieved": 1,
+      "unlocktime": 1771734305,
+      "name": "Deforestation",
+      "description": "Collect 100 wood in a single harvest"
+    },
+    {
+      "apiname": "100_stone_harvest",
+      "achieved": 1,
+      "unlocktime": 1771734305,
+      "name": "Boulder Breaker",
+      "description": "Collect 100 stone in a single harvest"
+    },
+    {
+      "apiname": "collect_all_blueprints",
+      "achieved": 1,
+      "unlocktime": 1771695929,
+      "name": "City Planner",
+      "description": "Collect 50 blueprints"
+    },
+    {
+      "apiname": "construct_trophy",
+      "achieved": 1,
+      "unlocktime": 1771661168,
+      "name": "Trophy",
+      "description": "Construct a trophy"
+    },
+    {
+      "apiname": "construct_monument",
+      "achieved": 1,
+      "unlocktime": 1771729614,
+      "name": "Monument",
+      "description": "Construct an infinitely upgradeable building"
+    },
+    {
+      "apiname": "construct_workersguild",
+      "achieved": 1,
+      "unlocktime": 1771731343,
+      "name": "Worker's Guild",
+      "description": "Construct the Worker's Guild"
+    },
+    {
+      "apiname": "construct_evochamber",
+      "achieved": 1,
+      "unlocktime": 1771697395,
+      "name": "Evolution Chamber",
+      "description": "Construct the Evolution Chamber"
+    },
+    {
+      "apiname": "construct_reliccollector",
+      "achieved": 1,
+      "unlocktime": 1771697395,
+      "name": "Relic Collector",
+      "description": "Construct the Relic Collector"
+    },
+    {
+      "apiname": "construct_bagmaker",
+      "achieved": 1,
+      "unlocktime": 1771696758,
+      "name": "Bag Maker",
+      "description": "Construct the Bag Maker"
+    },
+    {
+      "apiname": "construct_carpenter",
+      "achieved": 1,
+      "unlocktime": 1771696758,
+      "name": "Carpenter",
+      "description": "Construct the Carpenter"
+    },
+    {
+      "apiname": "expand5",
+      "achieved": 1,
+      "unlocktime": 1771658948,
+      "name": "Land Grabber",
+      "description": "Expand your base 5 times"
+    },
+    {
+      "apiname": "stat_building_full_upgrade",
+      "achieved": 1,
+      "unlocktime": 1771662770,
+      "name": "Structural Power",
+      "description": "Reach +5 bonus in any attribute from a building"
+    },
+    {
+      "apiname": "stat_scaling_full_upgrade",
+      "achieved": 1,
+      "unlocktime": 1771664816,
+      "name": "S Rank",
+      "description": "Reach S stat scaling in any attribute"
+    },
+    {
+      "apiname": "place_15_houses",
+      "achieved": 1,
+      "unlocktime": 1771697379,
+      "name": "Neighborhood",
+      "description": "Build 15 housing structures"
+    },
+    {
+      "apiname": "fuse_evolved_balls",
+      "achieved": 1,
+      "unlocktime": 1771667623,
+      "name": "Fusion Evolution",
+      "description": "Fuse two evolved balls"
+    },
+    {
+      "apiname": "complete_encyclopedia",
+      "achieved": 1,
+      "unlocktime": 1771753159,
+      "name": "Scholar",
+      "description": "Unlock every entry in the Encyclopedia"
+    },
+    {
+      "apiname": "complete_game",
+      "achieved": 1,
+      "unlocktime": 1771734185,
+      "name": "Ballbylon Has Risen",
+      "description": ""
+    }
+  ]
+}

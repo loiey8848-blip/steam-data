@@ -1,0 +1,697 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 434650,
+  "game": "Lost Castle",
+  "total": 98,
+  "unlocked": 24,
+  "percent": 24.5,
+  "updated_at_utc": "2026-09-15T06:49:49.656217+00:00",
+  "achievements": [
+    {
+      "apiname": "Lost_in_The_Castle",
+      "achieved": 1,
+      "unlocktime": 1529932703,
+      "name": "Lost in The Castle",
+      "description": "Be caught into castle by goblins."
+    },
+    {
+      "apiname": "A_Private_Coffer",
+      "achieved": 1,
+      "unlocktime": 1531489271,
+      "name": "A Private Coffer",
+      "description": "Collect 500 gold."
+    },
+    {
+      "apiname": "Warrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior",
+      "description": "Kill 500 monsters with a two-handed sword."
+    },
+    {
+      "apiname": "Guardian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guardian",
+      "description": "Kill 500 monsters with a single-handed sword."
+    },
+    {
+      "apiname": "Lancer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lancer",
+      "description": "Kill 500 monsters with a spear."
+    },
+    {
+      "apiname": "Rifleman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rifleman",
+      "description": "Kill 500 monsters with a musket."
+    },
+    {
+      "apiname": "Magician",
+      "achieved": 1,
+      "unlocktime": 1529938129,
+      "name": "Magician",
+      "description": "Kill 500 monsters with a staff."
+    },
+    {
+      "apiname": "Assassin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assassin",
+      "description": "Kill 500 monsters with dual blade."
+    },
+    {
+      "apiname": "Ranger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranger",
+      "description": "Kill 500 monsters with a bow."
+    },
+    {
+      "apiname": "King_Slayer",
+      "achieved": 1,
+      "unlocktime": 1529935021,
+      "name": "King Slayer",
+      "description": "Defeat King of Goblins."
+    },
+    {
+      "apiname": "Spider_Killer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spider Killer",
+      "description": "Defeat Demon Spider."
+    },
+    {
+      "apiname": "The_Conquerer_of_Death",
+      "achieved": 1,
+      "unlocktime": 1529939911,
+      "name": "The Conquerer of Death",
+      "description": "Defeat Death Lord."
+    },
+    {
+      "apiname": "The_Regicides",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Regicides",
+      "description": "Defeat Evil Tyrant."
+    },
+    {
+      "apiname": "The_Secret_Chamber",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Secret Chamber",
+      "description": "Enter earl's secret chamber, and accomplish the first playthrough."
+    },
+    {
+      "apiname": "Blacksmith_s_Gratitude",
+      "achieved": 1,
+      "unlocktime": 1529934134,
+      "name": "Blacksmith's Gratitude",
+      "description": "Rescue blacksmith."
+    },
+    {
+      "apiname": "Thief_s_Gratitude",
+      "achieved": 1,
+      "unlocktime": 1529937046,
+      "name": "Thief's Gratitude",
+      "description": "Rescue thief."
+    },
+    {
+      "apiname": "Pharmacist_s_Gratitude",
+      "achieved": 1,
+      "unlocktime": 1529937049,
+      "name": "Pharmacist's Gratitude",
+      "description": "Rescue pharmacist."
+    },
+    {
+      "apiname": "Rookie_Treasure_Hunter",
+      "achieved": 1,
+      "unlocktime": 1529936992,
+      "name": "Rookie Treasure Hunter",
+      "description": "Reach level 10."
+    },
+    {
+      "apiname": "Senior_Treasure_Hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Senior Treasure Hunter",
+      "description": "Reach level 30."
+    },
+    {
+      "apiname": "Nightmare_Crasher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightmare Crasher",
+      "description": "Defeat Nightmare Guardian."
+    },
+    {
+      "apiname": "Banker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banker",
+      "description": "Collect 3000 gold."
+    },
+    {
+      "apiname": "Full_Moon",
+      "achieved": 1,
+      "unlocktime": 1529935951,
+      "name": "Full Moon",
+      "description": "Turns into a werewolf."
+    },
+    {
+      "apiname": "Raise_Dead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raise Dead",
+      "description": "Be revived by Badge of Rebirth."
+    },
+    {
+      "apiname": "Life_or_Death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Life or Death",
+      "description": "Be saved by Protector of Life."
+    },
+    {
+      "apiname": "Ghost_Servant",
+      "achieved": 1,
+      "unlocktime": 1529933323,
+      "name": "Ghost Servant",
+      "description": "Pick up the Ghost Armor."
+    },
+    {
+      "apiname": "Ghost_Guardian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost Guardian",
+      "description": "Accomplish final evolution of Ghost Armor."
+    },
+    {
+      "apiname": "A_Little_Cute",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little Cute",
+      "description": "Pick up the Spirit."
+    },
+    {
+      "apiname": "Skull_Servants",
+      "achieved": 1,
+      "unlocktime": 1529936493,
+      "name": "Skull Servants",
+      "description": "Summon skull servants."
+    },
+    {
+      "apiname": "Eroded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eroded",
+      "description": "Cast erosion skill."
+    },
+    {
+      "apiname": "One_More_Drink",
+      "achieved": 1,
+      "unlocktime": 1529934281,
+      "name": "One More Drink?",
+      "description": "Get drunk."
+    },
+    {
+      "apiname": "Incendiary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incendiary",
+      "description": "Drink Ignition Potion, and set fire to everywhere."
+    },
+    {
+      "apiname": "Give_Me_the_Money_Back",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give Me the Money Back",
+      "description": "Drink Potion of Impoverishment."
+    },
+    {
+      "apiname": "Lucky_Angel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Angel",
+      "description": "Drink Potion of Fortune."
+    },
+    {
+      "apiname": "Answer_the_Call_of_Nature",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Answer the Call of Nature",
+      "description": "Drink Cathartic Potion, and poo everywhere."
+    },
+    {
+      "apiname": "Gigantism",
+      "achieved": 1,
+      "unlocktime": 1529936817,
+      "name": "Gigantism",
+      "description": "Drink Giant Potion."
+    },
+    {
+      "apiname": "Dwarfism",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dwarfism",
+      "description": "Drink Dwarf Potion."
+    },
+    {
+      "apiname": "Pitch_Dark",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pitch Dark",
+      "description": "Drink Blind Potion."
+    },
+    {
+      "apiname": "Fart_Knight_Rises",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fart Knight Rises",
+      "description": "Drink Fart Potion, and fart everywhere."
+    },
+    {
+      "apiname": "Rescue_Expert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rescue Expert",
+      "description": "Save others 50 times."
+    },
+    {
+      "apiname": "Pray",
+      "achieved": 1,
+      "unlocktime": 1529939271,
+      "name": "Pray",
+      "description": "Save other player successfully."
+    },
+    {
+      "apiname": "I_ll_Come_Back",
+      "achieved": 1,
+      "unlocktime": 1529938784,
+      "name": "I'll Come Back",
+      "description": "Die 5 times."
+    },
+    {
+      "apiname": "Fearless_of_Death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fearless of Death",
+      "description": "Die 30 times."
+    },
+    {
+      "apiname": "Smell_of_Treasure",
+      "achieved": 1,
+      "unlocktime": 1529936732,
+      "name": "Smell of Treasure",
+      "description": "Open 30 chests."
+    },
+    {
+      "apiname": "Cornucopia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cornucopia",
+      "description": "Open 100 chests."
+    },
+    {
+      "apiname": "Purification_of_Evil",
+      "achieved": 1,
+      "unlocktime": 1529933898,
+      "name": "Purification of Evil",
+      "description": "Kill 100 enemies."
+    },
+    {
+      "apiname": "Embodiment_of_Justice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Embodiment of Justice",
+      "description": "Kill 1000 enemies."
+    },
+    {
+      "apiname": "Potion_Addict",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Potion Addict",
+      "description": "Drink 100 potions."
+    },
+    {
+      "apiname": "Blood_Oath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Oath",
+      "description": "Use 5 blood altars."
+    },
+    {
+      "apiname": "Gambler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gambler",
+      "description": "Play one-arm bandit 100 times."
+    },
+    {
+      "apiname": "Soul_Reaper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soul Reaper",
+      "description": "Collect 3000 evil souls."
+    },
+    {
+      "apiname": "Too_Darn_Hot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Darn Hot",
+      "description": "Get burning debuff 100 times."
+    },
+    {
+      "apiname": "Give_Me_A_Coat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Give Me A Coat",
+      "description": "Get freezing debuff 100 times."
+    },
+    {
+      "apiname": "Poisonous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Poisonous",
+      "description": "Get poisoned debuff 100 times."
+    },
+    {
+      "apiname": "Siege",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siege",
+      "description": "Defeat King of Goblins(fortress)."
+    },
+    {
+      "apiname": "Gardener",
+      "achieved": 1,
+      "unlocktime": 1529938291,
+      "name": "Gardener",
+      "description": "Defeat Big Head."
+    },
+    {
+      "apiname": "Crisis_of_Dinosaur",
+      "achieved": 1,
+      "unlocktime": 1529933235,
+      "name": "Crisis of Dinosaur",
+      "description": "Defeat The Puppy."
+    },
+    {
+      "apiname": "Asura",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Asura",
+      "description": "Defeat Death Asura."
+    },
+    {
+      "apiname": "Cursed_kanata",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cursed katana",
+      "description": "Defeat Yaksha."
+    },
+    {
+      "apiname": "Ghost_from_the_east",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost from the East",
+      "description": "Defeat Rakshasa."
+    },
+    {
+      "apiname": "Grume_EVERYWHERE",
+      "achieved": 1,
+      "unlocktime": 1529936090,
+      "name": "Grume EVERYWHERE!!",
+      "description": "Defeat Boss Slime."
+    },
+    {
+      "apiname": "Beware_of_sharks",
+      "achieved": 1,
+      "unlocktime": 1529939102,
+      "name": "Beware of sharks!!",
+      "description": "Defeat Great Mole Shark."
+    },
+    {
+      "apiname": "As_firm_as_a_rock",
+      "achieved": 1,
+      "unlocktime": 1529936875,
+      "name": "As firm as a rock",
+      "description": "Defeat Great Golem."
+    },
+    {
+      "apiname": "Leader_of_the_fools",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leader of the fools",
+      "description": "Defeat Cyclops."
+    },
+    {
+      "apiname": "Dragon_Slayer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Slayer",
+      "description": "Defeat Fallen Dreagon."
+    },
+    {
+      "apiname": "Uncover_inside_story",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uncover inside story",
+      "description": "Defeat Lord Harwood."
+    },
+    {
+      "apiname": "Victory_over_self",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Victory over self",
+      "description": "Defeat Fallen Treasure Hunter."
+    },
+    {
+      "apiname": "Silver_Conquerer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silver Conquerer",
+      "description": "Defeat General."
+    },
+    {
+      "apiname": "See_me_fly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "See me fly !!",
+      "description": "Pick up Fallen Wings."
+    },
+    {
+      "apiname": "Do_you_see_my_little_dino",
+      "achieved": 1,
+      "unlocktime": 1529938900,
+      "name": "Did you see my little dino ?",
+      "description": "Hatch a baby dinosaur."
+    },
+    {
+      "apiname": "It_eat_up_all_of_my_meat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It eat up ALL of my meat !!",
+      "description": "Feed the baby dinosaur to become adult."
+    },
+    {
+      "apiname": "Another_me_in_the_mirror",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another me in the mirror",
+      "description": "Pick up Evil mirror and generate another self."
+    },
+    {
+      "apiname": "Master_of_spirits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of spirits",
+      "description": "3 spirits follow you at the same time."
+    },
+    {
+      "apiname": "Collector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Record over 250 kinds of weapons and armor."
+    },
+    {
+      "apiname": "Biologist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Biologist",
+      "description": "Record over 85 kinds of monsters in the castle."
+    },
+    {
+      "apiname": "Royal_treasury",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Royal treasury",
+      "description": "Record over 145 kinds of items and treasures."
+    },
+    {
+      "apiname": "Armed_and_dangerous",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armed and dangerous",
+      "description": "Defeat Death Asura WITHOUT breaking any of its hands."
+    },
+    {
+      "apiname": "Blaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blaster",
+      "description": "Destroy Goblin king's fortress ONLY with bombs."
+    },
+    {
+      "apiname": "Its_time_for_dinner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's time for dinner !!",
+      "description": "Give The Puppy a meat."
+    },
+    {
+      "apiname": "Professional_Treasure_Hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Treasure Hunter",
+      "description": "Reach level 80."
+    },
+    {
+      "apiname": "Master_Treasure_Hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Treasure Hunter",
+      "description": "Reach level 110."
+    },
+    {
+      "apiname": "The_Terminator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Terminator",
+      "description": "Defeat Death Spirit."
+    },
+    {
+      "apiname": "Fish_Guard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kung Fu Murloc",
+      "description": "Defeat Monk Murloc"
+    },
+    {
+      "apiname": "Wood_Knight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expel the Wood Ghost",
+      "description": "Defeat Wood Knight"
+    },
+    {
+      "apiname": "Red_Dragon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Great Champion",
+      "description": "Defeat Dragon"
+    },
+    {
+      "apiname": "FishPrincess",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Princess Rescue?",
+      "description": "Defeat Murloc Princess"
+    },
+    {
+      "apiname": "IceCyclops",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ice Rock Leader",
+      "description": "Defeat Ice Giant"
+    },
+    {
+      "apiname": "RockReal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Troll Slayer",
+      "description": "Defeat Ancient Troll"
+    },
+    {
+      "apiname": "Samurai_Asura",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blasphemer",
+      "description": "Defeat Adad"
+    },
+    {
+      "apiname": "PigKing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rotten God",
+      "description": "Defeat Gibil"
+    },
+    {
+      "apiname": "PigKingRed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burned Out",
+      "description": "Defeat Nusku"
+    },
+    {
+      "apiname": "RuinKing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forgotten Castle",
+      "description": "Defeat Forgotten Lord"
+    },
+    {
+      "apiname": "Lilith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fatal Heiress",
+      "description": "Defeat Lilith the Forgotten Heiress"
+    },
+    {
+      "apiname": "God",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Final Challenger",
+      "description": "Defeat Lord of the Light"
+    },
+    {
+      "apiname": "IceElement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "IceElement",
+      "description": "Defeat Ice Element"
+    },
+    {
+      "apiname": "Rollingmon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rollingmon",
+      "description": "Defeat Rollingmon"
+    },
+    {
+      "apiname": "FireHoof",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullfighter",
+      "description": "Defeat Fire Hoof"
+    },
+    {
+      "apiname": "Goblinzilla",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Hail our King!",
+      "description": "Defeat Go.Blin.Zilla"
+    },
+    {
+      "apiname": "Hideyoshi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "White Fox Mask",
+      "description": "Defeat Undefeated Hideyoshi"
+    }
+  ]
+}

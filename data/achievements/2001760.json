@@ -1,0 +1,333 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2001760,
+  "game": "Beast of Reincarnation",
+  "total": 46,
+  "unlocked": 46,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:25.808742+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_THE_END_OF_ALL_WISHES",
+      "achieved": 1,
+      "unlocktime": 1786195315,
+      "name": "Duty Fulfilled",
+      "description": "Unlock every achievement."
+    },
+    {
+      "apiname": "ACH_MASTER_OF_THE_SWORD",
+      "achieved": 1,
+      "unlocktime": 1786193958,
+      "name": "Blademaster",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PROFUSION_OF_FLOWERS",
+      "achieved": 1,
+      "unlocktime": 1786193953,
+      "name": "Floral Profusion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LIVE",
+      "achieved": 1,
+      "unlocktime": 1786133943,
+      "name": "Life After the End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BEAST_OF_REINCARNATION",
+      "achieved": 1,
+      "unlocktime": 1786133943,
+      "name": "The End of Reincarnation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CUT",
+      "achieved": 1,
+      "unlocktime": 1786193929,
+      "name": "Blade Enthusiast",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SHOOT",
+      "achieved": 1,
+      "unlocktime": 1786173155,
+      "name": "Munitions Master",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WISH",
+      "achieved": 1,
+      "unlocktime": 1786031958,
+      "name": "Bestie",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TOGETHER_FOREVER",
+      "achieved": 1,
+      "unlocktime": 1786021001,
+      "name": "Closest Companion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FAMILY_DINING_TABLE",
+      "achieved": 1,
+      "unlocktime": 1786155282,
+      "name": "Gourmand",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ALL_INFORMATION_GATHERING",
+      "achieved": 1,
+      "unlocktime": 1786157888,
+      "name": "Know-It-All",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_THE_ULTIMATE_VESSEL",
+      "achieved": 1,
+      "unlocktime": 1786195315,
+      "name": "The Ultimate Vessel",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BEST_BUDDY",
+      "achieved": 1,
+      "unlocktime": 1786195315,
+      "name": "The Perfect Pal",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_THE_END_OF_REINCARNATION",
+      "achieved": 1,
+      "unlocktime": 1786193748,
+      "name": "Reincarnated",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_THE_TRUTH_IS_HERE",
+      "achieved": 1,
+      "unlocktime": 1786162573,
+      "name": "Behold, the Truth",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_AND_THE_SOUL_REVOLVES",
+      "achieved": 1,
+      "unlocktime": 1786160357,
+      "name": "Soul Returned",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_A_LARGE_TREE_HAS_SPROUTED",
+      "achieved": 1,
+      "unlocktime": 1786191044,
+      "name": "Giant Tree Budburst",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BIG_TREE_BLOOMING",
+      "achieved": 1,
+      "unlocktime": 1786191044,
+      "name": "Giant Tree in Bloom",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ALL_RESTING_PLACE",
+      "achieved": 1,
+      "unlocktime": 1786159340,
+      "name": "Happy Camper",
+      "description": "Discover every campsite."
+    },
+    {
+      "apiname": "ACH_SWORDS_COLLECTOR",
+      "achieved": 1,
+      "unlocktime": 1786154777,
+      "name": "Blade Collector",
+      "description": "Obtain every blade."
+    },
+    {
+      "apiname": "ACH_FORMULA_COLLECTOR",
+      "achieved": 1,
+      "unlocktime": 1786154712,
+      "name": "Manual Maniac",
+      "description": "Obtain the manuals for every arrow and bolt type."
+    },
+    {
+      "apiname": "ACH_PLANT_COLLECTOR",
+      "achieved": 1,
+      "unlocktime": 1786034701,
+      "name": "Green Thumb",
+      "description": "Obtain every type of seedling."
+    },
+    {
+      "apiname": "ACH_LORE_GOLEM",
+      "achieved": 1,
+      "unlocktime": 1786158247,
+      "name": "Finders, Keepers",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KENGO",
+      "achieved": 1,
+      "unlocktime": 1786105554,
+      "name": "Wandering Duelist",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEGENERATION_OF_IMPURITY",
+      "achieved": 1,
+      "unlocktime": 1786154912,
+      "name": "Degeneration​",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SEALER_EMMA",
+      "achieved": 1,
+      "unlocktime": 1786069798,
+      "name": "The Sealer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_REQUIEM_FOR_EMMA",
+      "achieved": 1,
+      "unlocktime": 1785989421,
+      "name": "Repose for the Departed",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_VERY_DEXTEROUS_FRONT_LEGS",
+      "achieved": 1,
+      "unlocktime": 1786066027,
+      "name": "Busy Paws",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DELICIOUS",
+      "achieved": 1,
+      "unlocktime": 1785846745,
+      "name": "Snack Time",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WITH_KAGURA",
+      "achieved": 1,
+      "unlocktime": 1785868884,
+      "name": "Knowing Me, Knowing You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WITH_KUU",
+      "achieved": 1,
+      "unlocktime": 1785842823,
+      "name": "Man's Best Friend",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CRESCENT",
+      "achieved": 1,
+      "unlocktime": 1786134056,
+      "name": "Horror in the Sky",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_RESONANCE",
+      "achieved": 1,
+      "unlocktime": 1785870119,
+      "name": "Entangled",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PURIFIER",
+      "achieved": 1,
+      "unlocktime": 1785806450,
+      "name": "Purifier's Mantle",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ENCAMPMENT",
+      "achieved": 1,
+      "unlocktime": 1785807095,
+      "name": "First Fire",
+      "description": "Discover your first campsite."
+    },
+    {
+      "apiname": "ACH_SHRINE",
+      "achieved": 1,
+      "unlocktime": 1785872113,
+      "name": "Place of Return",
+      "description": "Discover your first shrine."
+    },
+    {
+      "apiname": "ACH_GROWTH_OF_IMPURITY",
+      "achieved": 1,
+      "unlocktime": 1785807134,
+      "name": "Blight-Touched",
+      "description": "Enhance an attribute for the first time."
+    },
+    {
+      "apiname": "ACH_NUSHI_SHIKA",
+      "achieved": 1,
+      "unlocktime": 1785871086,
+      "name": "Rangifer's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_SALAMANDER",
+      "achieved": 1,
+      "unlocktime": 1785911844,
+      "name": "Lacerta's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_KUMA",
+      "achieved": 1,
+      "unlocktime": 1786111019,
+      "name": "Ursa's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_CROW",
+      "achieved": 1,
+      "unlocktime": 1786066192,
+      "name": "Corvus's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_WILD_BOAR",
+      "achieved": 1,
+      "unlocktime": 1786129830,
+      "name": "Erymanth's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_KU",
+      "achieved": 1,
+      "unlocktime": 1786106126,
+      "name": "Koo de Grâce",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NUSHI_USHI",
+      "achieved": 1,
+      "unlocktime": 1786026736,
+      "name": "Taurus's End",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SHIDOU_AND_NUE",
+      "achieved": 1,
+      "unlocktime": 1786111019,
+      "name": "Shidou & Nue",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KUNAI_AND_KIRIN",
+      "achieved": 1,
+      "unlocktime": 1786131295,
+      "name": "Kunai & Kirin",
+      "description": ""
+    }
+  ]
+}

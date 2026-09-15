@@ -1,0 +1,676 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 527430,
+  "game": "Warhammer 40,000: Inquisitor - Martyr",
+  "total": 95,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:50:07.549335+00:00",
+  "achievements": [
+    {
+      "apiname": "tutorial_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First steps on the Martyr",
+      "description": "You have left the hangar deck of the „Martyr”"
+    },
+    {
+      "apiname": "first_hub",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Plot Thickens",
+      "description": "You have finished Chapter One and left the \"Martyr\""
+    },
+    {
+      "apiname": "genator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Matters Biological",
+      "description": "You have found Metrodora Thelema"
+    },
+    {
+      "apiname": "first_assignment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pawns of the Beast",
+      "description": "You have begun the investigation against the Feral Beasts mercenary group"
+    },
+    {
+      "apiname": "techpriest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Servant of the Omnissiah",
+      "description": "You have found Omicron Arkh"
+    },
+    {
+      "apiname": "tarot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Hand One is Dealt",
+      "description": "You have used Uther’s Tarot to find the „Martyr”"
+    },
+    {
+      "apiname": "klosterheim_killed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Questionable Intents",
+      "description": ""
+    },
+    {
+      "apiname": "klosterheim_spared",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Dedicated Warrior",
+      "description": ""
+    },
+    {
+      "apiname": "vanWynterMorality",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Trader's Fate",
+      "description": "You have made your decision regarding the fate of the van Wynter House"
+    },
+    {
+      "apiname": "tank",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Mailed Fist",
+      "description": "You have commanded a Shadowsword tank through enemy lines"
+    },
+    {
+      "apiname": "knight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight of the Cog",
+      "description": "You have commanded an Imperial Knight through enemy lines"
+    },
+    {
+      "apiname": "rosette",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Key",
+      "description": "You have found the Rosette of Uther Tiberius"
+    },
+    {
+      "apiname": "gameover",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Great Unknown",
+      "description": "You have finished the main campaign of the game"
+    },
+    {
+      "apiname": "blacklegion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos Undivided",
+      "description": "You have killed Lord Antaroz, the Black Legion warlord"
+    },
+    {
+      "apiname": "ZarvanyHD_AoeDPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Verminslayer",
+      "description": "Complete the Verminslayer Heroic Deed (Kill 2500 Horde type enemies)"
+    },
+    {
+      "apiname": "ZarvanyHD_SingleDPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reaper",
+      "description": "Complete the Reaper Heroic Deed (Kill 250 Champion enemies)"
+    },
+    {
+      "apiname": "ZarvanyHD_AimedShot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ranged Avenger",
+      "description": "Complete the Ranged Avenger Heroic Deed (Kill 5000 enemies with ranged skills)"
+    },
+    {
+      "apiname": "ZarvanyHD_Execution",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Relentless Slaughter",
+      "description": "Complete the Relentless Slaughter Heroic Deed (Kill 5000 enemies with melee skills)"
+    },
+    {
+      "apiname": "ZarvanyHD_Support",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ordance Seeker",
+      "description": "Complete the Ordance Seeker Heroic Deed (Open 10 supply chests)"
+    },
+    {
+      "apiname": "ZarvanyHD_HeatDamage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demolisher",
+      "description": "Complete the Demolisher Heroic Deed (Blow up 50 explosive containers)"
+    },
+    {
+      "apiname": "perfectInvestigation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perfect Record",
+      "description": "Complete the Perfect Record Heroic Deed (Complete an entire Priority Assignment sequence without dying)"
+    },
+    {
+      "apiname": "noEscape",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Escape",
+      "description": "Complete the No Escape Heroic Deed (Kill 50 enemies while they are in cover)"
+    },
+    {
+      "apiname": "grenadier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grenadier",
+      "description": "Complete the Grenadier Heroic Deed (Kill 1000 enemies with grenades)"
+    },
+    {
+      "apiname": "perilsOfTheWarp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perils of the Warp",
+      "description": "Complete the Perils of the Warp Heroic Deed (Create 100 warp anomalies with a Psyker)"
+    },
+    {
+      "apiname": "uprootingEvil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Uprooting Evil",
+      "description": "Complete the Uprooting Evil Heroic Deed (Complete 5 Priority Assignments on any difficulty)"
+    },
+    {
+      "apiname": "magosBiologis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magos Biologis",
+      "description": "Complete the Magos Biologis Heroc Deed (Use booster type inoculator components 250 times)"
+    },
+    {
+      "apiname": "heroOfTheImperium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hero of the Imperium",
+      "description": "Complete the Hero of the Imperium Heroic Deed (Acquire 750 Fate points)"
+    },
+    {
+      "apiname": "noTurningBack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Turning Back",
+      "description": "Complete the No Turning Back Heroic Deed (Reach Inquisitorial Rank 20 with one character)"
+    },
+    {
+      "apiname": "ZarvanyHD_PhysicalDamage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where it Hurts",
+      "description": "Complete the Where it Hurts Heroic Deed (Kill 50 Commander enemies)"
+    },
+    {
+      "apiname": "ZarvanyHD_Maxsuppression",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stalwart Servant",
+      "description": "Complete the Stalwart Servant Heroic Deed (Complete 15 events during missions)"
+    },
+    {
+      "apiname": "ZarvanyHD_Defense",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Invincible",
+      "description": "Complete the Invincible Heroic Deed (Complete 25 missions without dying)"
+    },
+    {
+      "apiname": "ZarvanyHD_Dot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheating Death",
+      "description": "Complete the Cheating Death Heroic Deed (Activate 50 traps)"
+    },
+    {
+      "apiname": "cullTheStrong",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cull the Strong",
+      "description": "Complete the Cull the Strong Heroic Deed (Kill 100 elite enemies)"
+    },
+    {
+      "apiname": "hunterOfHunters",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hunter of Hunters",
+      "description": "Complete the Hunter of Hunters Heroic Deed (Kill 5 Boss creatures)"
+    },
+    {
+      "apiname": "technoarcheologist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Technoarcheologist",
+      "description": "Craft 25 items"
+    },
+    {
+      "apiname": "bloodSacrifice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood Sacrifice",
+      "description": "Achieve the Massacre bonus for the first time"
+    },
+    {
+      "apiname": "sacredFury",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sacred Fury",
+      "description": "Get the Killstreak bonus 30 times"
+    },
+    {
+      "apiname": "deathIncarnated",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Incarnated",
+      "description": "Get the Angel of Death bonus 30 times"
+    },
+    {
+      "apiname": "untouchable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Untouchable",
+      "description": "Get the Unbreakable bonus 30 times"
+    },
+    {
+      "apiname": "forgeLord",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forge Lord",
+      "description": "Fuse a socket into a Relic (or better) item"
+    },
+    {
+      "apiname": "emperorJustice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Emperor’s Justice",
+      "description": ""
+    },
+    {
+      "apiname": "painkiller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Painkiller",
+      "description": ""
+    },
+    {
+      "apiname": "deliverance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deliverance",
+      "description": ""
+    },
+    {
+      "apiname": "forgottenPlace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Forgotten Place",
+      "description": "Unlock the Agartha Subsector"
+    },
+    {
+      "apiname": "carefulThorne",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Careful, Thorn!",
+      "description": ""
+    },
+    {
+      "apiname": "biggerTheyAre",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bigger They Are...",
+      "description": ""
+    },
+    {
+      "apiname": "vengenanceForTheStormwatchers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vengeance for the Stormwatchers",
+      "description": ""
+    },
+    {
+      "apiname": "harvesterOfPainAndGlory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvester of Pain and Glory",
+      "description": "Reach 1500 Score in City of Suffering (City of Suffering DLC needed)"
+    },
+    {
+      "apiname": "sweetPain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sweet Pain",
+      "description": "Destroy 100 Pain Catalysts in City of Suffering (City of Suffering DLC needed)"
+    },
+    {
+      "apiname": "efficientOperative",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Efficient Operative",
+      "description": "Complete a Priority Assignment on Impossible difficulty or higher"
+    },
+    {
+      "apiname": "chosenWarrior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chosen Warrior",
+      "description": "Equip your first Relic item"
+    },
+    {
+      "apiname": "lexicoArcanus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lexico Arcanus",
+      "description": "Learn all skills from a single Skill tree"
+    },
+    {
+      "apiname": "bibliophiliac",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bibliophiliac",
+      "description": "Unlock all Skill trees"
+    },
+    {
+      "apiname": "judgeAndJury",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Judge and Jury",
+      "description": "Execute 50 enemies (Assassin and Crusader only)"
+    },
+    {
+      "apiname": "savior",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Savior",
+      "description": "Revive each other 50 times"
+    },
+    {
+      "apiname": "veteranOfBattles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran of Battles",
+      "description": "Complete 50 multiplayer missions"
+    },
+    {
+      "apiname": "brotherInArms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brother In Arms",
+      "description": "Join a cabal"
+    },
+    {
+      "apiname": "toughChoices",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tough Choices",
+      "description": "Reach the end of the Puritan or Radical axis on the Morality Chart"
+    },
+    {
+      "apiname": "visionary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visionary",
+      "description": "Complete 10 Void Crusade missions"
+    },
+    {
+      "apiname": "allKindsOfTrouble",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Kinds of Trouble",
+      "description": "Complete at least one mission from every type on the StarMap"
+    },
+    {
+      "apiname": "mechasapient",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechasapient",
+      "description": "Research 10 Tech tree upgrades at Omicron Arkh"
+    },
+    {
+      "apiname": "glorious",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Glorious",
+      "description": "Reach maximum points in a Weekly Glory challenge"
+    },
+    {
+      "apiname": "onlyWarAchi",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only War",
+      "description": "Complete a Warzone mission after reaching level 50"
+    },
+    {
+      "apiname": "scourgeOfDrukari",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scourge of the Drukari",
+      "description": "Kill 1000 Dark Eldar enemies"
+    },
+    {
+      "apiname": "bloodMustFlow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Blood Must Flow",
+      "description": "Kill 1000 Khorne enemies"
+    },
+    {
+      "apiname": "ProphecyFullfilled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prophecy Fullfilled",
+      "description": ""
+    },
+    {
+      "apiname": "SecretFoundAndLost",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Secret Found and Lost",
+      "description": ""
+    },
+    {
+      "apiname": "ThePrimogenitor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Primogenitor",
+      "description": ""
+    },
+    {
+      "apiname": "GiftOfTheHarlequin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gift of the Harlequin",
+      "description": ""
+    },
+    {
+      "apiname": "ThereIsNoTruthInFlesh",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There is No Truth in Flesh",
+      "description": ""
+    },
+    {
+      "apiname": "masterDatasmith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Datasmith",
+      "description": "Complete the Master Datasmith Heroic Deed (Kill 2500 Enemies by your Kastelan Robots) [Tech-Adept only]"
+    },
+    {
+      "apiname": "knightoftheCog",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight of the Cog",
+      "description": "Complete the Knight of the Cog Heroic Deed (Kill 20 Elite enemies on your level or higher) [Tech-Adept only]"
+    },
+    {
+      "apiname": "cognisProtocol",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cognis Protocol",
+      "description": "Complete the Cognis Protocol Heroic Deed (Complete a mission dealing damage only by your Construct turrets on your level or higher) [Tech-Adept only]"
+    },
+    {
+      "apiname": "unmarredCorpus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unmarred Corpus",
+      "description": "Complete the Unmarred Corpus Heroic Deed (Complete 5 missions without taking any Melee damage) [Tech-Adept only]"
+    },
+    {
+      "apiname": "stcSpecialist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "STC Specialist",
+      "description": "Complete the STC Specialist Heroic Deed (Summon 1000 Constructs) [Tech-Adept only]"
+    },
+    {
+      "apiname": "unyieldingLegion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unyielding Legion",
+      "description": "Complete the Unyielding Legion Heroic Deed (Complete 25 missions without loosing a Construct) [Tech-Adept only]"
+    },
+    {
+      "apiname": "assistedRedemption",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Assisted Redemption",
+      "description": "Complete the Assisted Redemption Heroic Deed (Kill 1000 enemies in Embodied Saint Form as a Battle Sister)"
+    },
+    {
+      "apiname": "demonstrationofPurity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonstration of Purity",
+      "description": "Complete the Demonstration of Purity Heroic Deed (Kill 50 Chaos Engine Elites while under the effect of an Act of Faith)"
+    },
+    {
+      "apiname": "displayofValour",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Display of Valour",
+      "description": "Complete the Display of Valour Heroic Deed (Trigger 100 Killstreak effects as a Battle Sister)"
+    },
+    {
+      "apiname": "exemplaryDevotion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Exemplary Devotion",
+      "description": "Complete the Exemplary Devotion Heroic Deed (Generate 10.000 Faith as a Battle Sister)"
+    },
+    {
+      "apiname": "hallowedRejuvenation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hallowed Rejuvenation",
+      "description": "Complete the Hallowed Rejuvenation Heroic Deed (Gain 100.000 Health from Banners as a Battle Sister)"
+    },
+    {
+      "apiname": "symbolsoftheCreed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Symbols of the Creed",
+      "description": "Complete the Symbols of the Creed Heroic Deed (Deploy 150 Banners as a Battle Sister)"
+    },
+    {
+      "apiname": "tapestryofVengeance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tapestry of Vengeance",
+      "description": "Complete the Tapestry of Vengeance Heroic Deed (Defeat 500 foes while under the effect of a Banner as a Battle Sister)"
+    },
+    {
+      "apiname": "theEmperorsBride",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Emperor's Bride",
+      "description": "Complete the The Emperor's Bride Heroic Deed (Transform into Embodied Saint form 100 times as a Battle Sister)"
+    },
+    {
+      "apiname": "toolsofRetribution",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tools of Retribution",
+      "description": "Complete the Tools of Retribution Heroic Deed (Kill 500 enemies with Combo Weapons as a Battle Sister)"
+    },
+    {
+      "apiname": "journeyOfFaith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Journey of Faith",
+      "description": "Reach maximum level with a Battle Sister"
+    },
+    {
+      "apiname": "strengthInNumbers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strength in Numbers",
+      "description": "Complete the Strength in Numbers Heroic Deed (Reach 1000 Retinue Kills as a Hierophant)"
+    },
+    {
+      "apiname": "demonstrationOfFaith",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demonstration of Faith",
+      "description": "Complete the Demonstration of Faith Heroic Deed (Kill 10 Chaos Engine Elites with Hierophant Spells)"
+    },
+    {
+      "apiname": "retinueCommander",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Retinue Commander",
+      "description": "Complete the Retinue Commander Heroic Deed (Issue 100 Orders for your Retinue as a Hierophant)"
+    },
+    {
+      "apiname": "devotedMember",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devoted Member",
+      "description": "Complete the Devoted Member Heroic Deed (Generate 10.000 Devotion as a Hierophant)"
+    },
+    {
+      "apiname": "notTheTimeYet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not The Time",
+      "description": "Complete the Not The Time Heroic Deed (Resurrect Retinue Members 10 times as a Hierophant)"
+    },
+    {
+      "apiname": "veteranLeader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Veteran Leader",
+      "description": "Complete the Veteran Leader Heroic Deed (Complete 25 Missions without losing a Retinue Member as a Hierophant)"
+    },
+    {
+      "apiname": "blessedByTheMinistorum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed by the Ministorum",
+      "description": "Complete the Blessed by the Ministorum Heroic Deed (Bless your Allies 50 times as a Hierophant)"
+    },
+    {
+      "apiname": "sacredEradication",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sacred Eradication",
+      "description": "Complete the Sacred Eradication Heroic Deed (Deal 100.000 Damage with Hierophant Spells)"
+    },
+    {
+      "apiname": "flamesOfTheOrder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flames of the Order",
+      "description": "Complete the Flames of the Order Heroic Deed (Ignite 1000 Enemies as a Hierophant)"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2533870,
+  "game": "希罗之书（The Book Of Hiro）",
+  "total": 15,
+  "unlocked": 15,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:51.467966+00:00",
+  "achievements": [
+    {
+      "apiname": "Stage_0_0",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Prologue - Welcome, Reader",
+      "description": "Clear 0-0"
+    },
+    {
+      "apiname": "Stage_0_1",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Introduction - Storyteller",
+      "description": "Clear 0-1"
+    },
+    {
+      "apiname": "Stage_1_1",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter One - Early Morning",
+      "description": "Clear 1-1"
+    },
+    {
+      "apiname": "Stage_1_2",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Two - Embarking on the Journey",
+      "description": "Clear 1-2"
+    },
+    {
+      "apiname": "Stage_1_3",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Three - Brave Hero",
+      "description": "Clear 1-3"
+    },
+    {
+      "apiname": "Stage_1_4",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Four - Demon King",
+      "description": "Clear 1-4"
+    },
+    {
+      "apiname": "Stage_1_5",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Five - Escape",
+      "description": "Clear 1-5"
+    },
+    {
+      "apiname": "Stage_1_6",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Six - Obstructed",
+      "description": "Clear 1-6"
+    },
+    {
+      "apiname": "Stage_1_7",
+      "achieved": 1,
+      "unlocktime": 1767855109,
+      "name": "Chapter Seven - Conclusion",
+      "description": "Clear 1-7 (excluding hidden ending)"
+    },
+    {
+      "apiname": "Hide_Scroll_1",
+      "achieved": 1,
+      "unlocktime": 1767856855,
+      "name": "Huh, what's this...?",
+      "description": ""
+    },
+    {
+      "apiname": "Hide_Thing_1",
+      "achieved": 1,
+      "unlocktime": 1767856855,
+      "name": "An Unexpected Discovery",
+      "description": ""
+    },
+    {
+      "apiname": "Use_Hide_Thing_1",
+      "achieved": 1,
+      "unlocktime": 1767856855,
+      "name": "Crossroads of Fate",
+      "description": ""
+    },
+    {
+      "apiname": "Use_Hide_Thing_2",
+      "achieved": 1,
+      "unlocktime": 1767856855,
+      "name": "Hidden Clue",
+      "description": ""
+    },
+    {
+      "apiname": "Use_Hide_Thing_3",
+      "achieved": 1,
+      "unlocktime": 1767856895,
+      "name": "An Alternative Choice",
+      "description": ""
+    },
+    {
+      "apiname": "Use_Hide_Thing_4",
+      "achieved": 1,
+      "unlocktime": 1767856918,
+      "name": "The Buried Story",
+      "description": ""
+    }
+  ]
+}

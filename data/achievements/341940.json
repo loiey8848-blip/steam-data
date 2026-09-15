@@ -1,0 +1,529 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 341940,
+  "game": "Hatred",
+  "total": 74,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:49:26.574035+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_KILL_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terrorist",
+      "description": "Kill 1,000 people"
+    },
+    {
+      "apiname": "ACH_KILL_2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Natural Selector",
+      "description": "Kill 2,000 people"
+    },
+    {
+      "apiname": "ACH_KILL_3000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genocide Machine",
+      "description": "Kill 3,000 people"
+    },
+    {
+      "apiname": "ACH_KILL_5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Death Incarnate",
+      "description": "Kill 5,000 people"
+    },
+    {
+      "apiname": "ACH_KILL_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raider of Apocalypse",
+      "description": "Kill 10,000 people"
+    },
+    {
+      "apiname": "ACH_KILL_FEMALE_2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Misogynist",
+      "description": "Kill 2,000 females"
+    },
+    {
+      "apiname": "ACH_KILL_MALE_2000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feminist",
+      "description": "Kill 2,000 males"
+    },
+    {
+      "apiname": "ACH_KILL_POLICE_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cop Killer",
+      "description": "Kill 200 police officers"
+    },
+    {
+      "apiname": "ACH_KILL_POLICE_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Riot Causer",
+      "description": "Kill 500 Police Officers"
+    },
+    {
+      "apiname": "ACH_KILL_SWAT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can Opener",
+      "description": "Kill 50 SWAT Team members"
+    },
+    {
+      "apiname": "ACH_KILL_SWAT_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leon",
+      "description": "Kill 100 SWAT Team members"
+    },
+    {
+      "apiname": "ACH_KILL_SOLDIER_150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vietcong",
+      "description": "Kill 150 Soldiers"
+    },
+    {
+      "apiname": "ACH_KILL_SOLDIER_300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Omaha Beach MG Bunker",
+      "description": "Kill 300 Soldiers"
+    },
+    {
+      "apiname": "ACH_KILL_GRENADE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackson Pollock",
+      "description": "Kill 10 people with one grenade"
+    },
+    {
+      "apiname": "ACH_KILL_CAR_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "They didn't play COD-MP",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KILL_JUNKIE_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Winners Don't Use Drugs",
+      "description": "Execute 20 junkies"
+    },
+    {
+      "apiname": "ACH_KILL_HIPSTER_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mainstream Guy",
+      "description": "Kill 50 hipsters"
+    },
+    {
+      "apiname": "ACH_KILLS_BY_POLICE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Police Brutality",
+      "description": "Cause 10 people to be shot by police"
+    },
+    {
+      "apiname": "ACH_KILLS_FIRE_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kentucky Fried People",
+      "description": "Set 200 people on fire"
+    },
+    {
+      "apiname": "ACH_KILLS_FIRE_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Postal Dude Would Be Proud",
+      "description": "Set 500 people on fire"
+    },
+    {
+      "apiname": "ACH_BULLETS_5000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Liberal",
+      "description": "Fire 10,000 rounds"
+    },
+    {
+      "apiname": "ACH_BULLETS_15000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conservative",
+      "description": "Fire 25,000 rounds"
+    },
+    {
+      "apiname": "ACH_BULLETS_25000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "\"War Is In My Blood\" - J. R.",
+      "description": "Fire 50,000 rounds"
+    },
+    {
+      "apiname": "ACH_STOMP_EXECUTION_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hateful History X",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DESTROY_TV_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome To Primetime",
+      "description": "Break 50 TV's"
+    },
+    {
+      "apiname": "ACH_DESTROY_10_CARS_10_SECONDS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Theft Hatred",
+      "description": "Destroy 10 cars in 10 seconds"
+    },
+    {
+      "apiname": "ACH_LEVEL_10_MINUTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time Trial",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EXPLOSIVES_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bay Would be Proud",
+      "description": "Destroy 50 explosive items"
+    },
+    {
+      "apiname": "ACH_500_EXECUTIONS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Edgy",
+      "description": "Perform 500 executions"
+    },
+    {
+      "apiname": "ACH_DODGE_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Witcher",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PLAYTIME_100_HOURS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You should see a shrink",
+      "description": "Play for 50 hours"
+    },
+    {
+      "apiname": "ACH_LVL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Neighbour",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holiday Destroyer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conductor",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Terrorizer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bill Williamson",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "War Craftsman",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LVL_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nuclear Lucifer",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINISH_EASY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wuss",
+      "description": "Beat the game on easy difficulty"
+    },
+    {
+      "apiname": "ACH_FINISH_MEDIUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hater",
+      "description": "Beat the game on hard difficulty"
+    },
+    {
+      "apiname": "ACH_FINISH_HARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extremist",
+      "description": "Beat the game on extreme difficulty"
+    },
+    {
+      "apiname": "ACH_DRUNK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cheers!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINISH_VERYEASY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sluggish",
+      "description": "Beat the game on story mode"
+    },
+    {
+      "apiname": "ACH_FINISH_VERYHARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Madman",
+      "description": "Beat the game on insane difficulty"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leave that lawn alone",
+      "description": "Complete \"Home\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's my plan for your retirement",
+      "description": "Complete \"Marina\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Car free day",
+      "description": "Complete \"Train\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Last stop",
+      "description": "Complete \"Train Station\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No more traffic",
+      "description": "Complete \"Downtown\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My turn now",
+      "description": "Complete \"Army Base\" level on insane difficulty with all sidequests"
+    },
+    {
+      "apiname": "ACH_MASTER_LVL_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blackout",
+      "description": "Complete \"Power Plant\" level on insane difficulty"
+    },
+    {
+      "apiname": "ACH_SUICIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial suicide",
+      "description": "Die 10 times in Survival game mode"
+    },
+    {
+      "apiname": "ACH_GOODGUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm the good guy",
+      "description": "Hit the 25000 score mark as a Policeman in Survival game mode"
+    },
+    {
+      "apiname": "ACH_STINGS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It stings!",
+      "description": "Hit the 25000 score mark as a Widowmaker in Survival game mode"
+    },
+    {
+      "apiname": "ACH_PLACE_PRISON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No place like prison",
+      "description": "Hit the 25000 score mark as a Recidivist in Survival game mode"
+    },
+    {
+      "apiname": "ACH_NEXT_DOOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guy next door",
+      "description": "Reach the score of 50000 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_CHICK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chick across the street",
+      "description": "Reach the score of 100000 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_MOTHER_IN_LAW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mother-in-law",
+      "description": "Reach the score of 250000 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_CLUELESS_GUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clueless guy in high place",
+      "description": "Reach the score of 500000 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_WHINER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular whiner",
+      "description": "Acquire Rank 5 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_BRUTALITY_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brutality expert",
+      "description": "Acquire Rank 10 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_HATRED_COMMANDO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hatred commando",
+      "description": "Acquire Rank 15 in Survival game mode"
+    },
+    {
+      "apiname": "ACH_PICNIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quit the picnic already",
+      "description": "Reach maximum adrenaline on 'Apocalyptic Harbour' map in Survival game mode"
+    },
+    {
+      "apiname": "ACH_FOUND_YOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Found you!",
+      "description": "Reach maximum adrenaline on 'Metro Station Shelter' map in Survival game mode"
+    },
+    {
+      "apiname": "ACH_GOT_WHAT_DESERVED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You got what you deserved",
+      "description": "Reach maximum adrenaline on 'Federal Tax Department' in Survival game mode"
+    },
+    {
+      "apiname": "ACH_LIKE_A_COP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Like a cop",
+      "description": "Reach the score of 25000 playing as a Policeman only using regular pistol on your victims in Survival game mode"
+    },
+    {
+      "apiname": "ACH_TOUGH_GUY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tough guy",
+      "description": "Reach the score of 25000 playing as a Recidivist only using shotgun on your victims in Survival game mode"
+    },
+    {
+      "apiname": "ACH_IM_FAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm fast",
+      "description": "Reach the score of 25000 playing as a Widowmaker only using SWAT sub-machine gun on your victims in Survival game mode"
+    },
+    {
+      "apiname": "ACH_NO_INSURANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Got no insurance",
+      "description": "Don't get hit by a single bullet or explosion for 5 minutes in Survival game mode"
+    },
+    {
+      "apiname": "ACH_NO_MERCHANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm no merchant",
+      "description": "Reach 50000 score without spending anything in Survival game mode"
+    },
+    {
+      "apiname": "ACH_NO_MERCHANT_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meant it when I said it",
+      "description": "Reach 100000 score without spending anything in Survival game mode"
+    },
+    {
+      "apiname": "ACH_BE_PREPARED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Be always prepared",
+      "description": "Buy all the explosives on a map in a single play in Survival game mode"
+    },
+    {
+      "apiname": "ACH_NO_VAMPIRES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No vampires allowed",
+      "description": "Achieve 50000 score while not healing yourself by using executions in Survival game mode"
+    },
+    {
+      "apiname": "ACH_BAD_DAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sorry, had a bad day",
+      "description": "Raise you score to 50000 and do not let any civilian die in Survival game mode"
+    }
+  ]
+}

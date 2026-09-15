@@ -1,0 +1,340 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1866130,
+  "game": "Morbid Metal",
+  "total": 47,
+  "unlocked": 5,
+  "percent": 10.6,
+  "updated_at_utc": "2026-09-15T06:52:21.137647+00:00",
+  "achievements": [
+    {
+      "apiname": "FINISH_TUTORIAL",
+      "achieved": 1,
+      "unlocktime": 1776747694,
+      "name": "Calibration complete",
+      "description": "Finish the Tutorial"
+    },
+    {
+      "apiname": "FIRST_UPGRADE_NEXUSNODE",
+      "achieved": 1,
+      "unlocktime": 1776922343,
+      "name": "Your path has just begun",
+      "description": "Buy your first upgrade in the Neural Nexus"
+    },
+    {
+      "apiname": "FIRST_CORPORA_EQUIPPED",
+      "achieved": 1,
+      "unlocktime": 1776923064,
+      "name": "Be stronger",
+      "description": "Equip your first Corpora"
+    },
+    {
+      "apiname": "KILL_BOSS_B1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You’re closer",
+      "description": "Complete Biome 1"
+    },
+    {
+      "apiname": "KILL_BOSS_B2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I see you",
+      "description": "Complete Biome 2"
+    },
+    {
+      "apiname": "OPERATOR_TRIALS_FIRST_SUCESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He will never know",
+      "description": "Successfully complete an Operator’s Trial"
+    },
+    {
+      "apiname": "DEVILS_BARGAIN_FIRST_CHOSEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are you sure?",
+      "description": "Accept your first Devil’s Bargain"
+    },
+    {
+      "apiname": "VOID_RIFT_FIRST_INTERACTED",
+      "achieved": 1,
+      "unlocktime": 1776923109,
+      "name": "Welcome to the Void",
+      "description": "Interact with a Void Rift"
+    },
+    {
+      "apiname": "STYLE_RANK_SSS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So stylish",
+      "description": "Reach your first SSS stylerank in a combat"
+    },
+    {
+      "apiname": "CHAR_UNLOCK_EKKU",
+      "achieved": 1,
+      "unlocktime": 1776922869,
+      "name": "Now you’re two",
+      "description": "Unlock Ekku"
+    },
+    {
+      "apiname": "CHAR_UNLOCK_VEKTA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And three",
+      "description": "Unlock Vekta"
+    },
+    {
+      "apiname": "PICKUP_FIRST_LORECODEX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That’s the first chapter",
+      "description": "Find your first lore codex"
+    },
+    {
+      "apiname": "RESOURCE_COLLECTED_TOKENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That’s enough",
+      "description": "Collect a total of 50000 tokens"
+    },
+    {
+      "apiname": "SUBBIOME_B1_ENTERED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sunken Grounds",
+      "description": "Enter the Overgrown Ruins, Sub Biome"
+    },
+    {
+      "apiname": "SUBBIOME_B2_ENTERED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Abyssal Assembly",
+      "description": "Enter the Industrial Temple, Sub Biome"
+    },
+    {
+      "apiname": "UNLOCK_DIFFICULTY_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cycle Continues",
+      "description": "Unlock the Advanced difficulty Level"
+    },
+    {
+      "apiname": "UNLOCK_DIFFICULTY_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You show potential",
+      "description": "Unlock the Expert difficulty Level"
+    },
+    {
+      "apiname": "UNLOCK_DIFFICULTY_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now the Real Test begins",
+      "description": "Unlock the Morbid difficulty Level"
+    },
+    {
+      "apiname": "ITERATIONS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So it Begins",
+      "description": "Start your first Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fail and Repeat",
+      "description": "Start your second Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rule of Three",
+      "description": "Start your third Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5 in a Row",
+      "description": "Start your fifth Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cant get enough",
+      "description": "Start your tenth Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Okay, nice",
+      "description": "Start your 25th Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maybe you should rest",
+      "description": "Start your 50th Iteration"
+    },
+    {
+      "apiname": "ITERATIONS_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Touch some Grass",
+      "description": "Start your 100th Iteration"
+    },
+    {
+      "apiname": "NOVICE_DEFENDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Defender",
+      "description": "Get the first Reward in the \"Defend the Base\" Game mode"
+    },
+    {
+      "apiname": "EXPERT_DEFENDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Defender",
+      "description": "Get the Second Reward in the \"Defend the Base\" Game mode"
+    },
+    {
+      "apiname": "MASTER_DEFENDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Defender",
+      "description": "Get the Third Reward in the \"Defend the Base\" Game mode"
+    },
+    {
+      "apiname": "FLUX_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flux Novice",
+      "description": "Kill 50 Enemies with Flux"
+    },
+    {
+      "apiname": "NOVICE_ENGINEER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Engineer",
+      "description": "Get the First Reward in the \"Kill all Turrets\" Game mode"
+    },
+    {
+      "apiname": "EXPERT_ENGINEER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Engineer",
+      "description": "Get the Second Reward in the \"Kill all Turrets\" Game mode"
+    },
+    {
+      "apiname": "MASTER_ENGINEER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Engineer",
+      "description": "Get the Third Reward in the \"Kill all Turrets\" Game mode"
+    },
+    {
+      "apiname": "FLUX_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flux Expert",
+      "description": "Kill 250 Enemies with Flux"
+    },
+    {
+      "apiname": "NOVICE_SLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Slayer",
+      "description": "Get the First Reward in the \"Time Trial\" Game mode"
+    },
+    {
+      "apiname": "EXPERT_SLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Slayer",
+      "description": "Get the Second Reward in the \"Time Trial\" Game mode"
+    },
+    {
+      "apiname": "MASTER_SLAYER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Slayer",
+      "description": "Get the Third Reward in the \"Time Trial\" Game mode"
+    },
+    {
+      "apiname": "FLUX_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flux Master",
+      "description": "Kill 500 Enemies with Flux"
+    },
+    {
+      "apiname": "EKKU_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ekku Novice",
+      "description": "Kill 50 Enemies with Ekku"
+    },
+    {
+      "apiname": "EKKU_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ekku Expert",
+      "description": "Kill 250 Enemies with Ekku"
+    },
+    {
+      "apiname": "EKKU_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ekku Master",
+      "description": "Kill 500 Enemies with Ekku"
+    },
+    {
+      "apiname": "FLUX_UNLEASHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flux Unleashed",
+      "description": "Kill 1000 Enemies with Flux"
+    },
+    {
+      "apiname": "EKKU_UNLEASHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ekku Unleashed",
+      "description": "Kill 1000 Enemies with Ekku"
+    },
+    {
+      "apiname": "VEKTA_NOVICE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vekta Novice",
+      "description": "Kill 50 Enemies with Vekta "
+    },
+    {
+      "apiname": "VEKTA_EXPERT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vekta Expert",
+      "description": "Kill 250 Enemies with Vekta "
+    },
+    {
+      "apiname": "VEKTA_MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vekta Master",
+      "description": "Kill 500 Enemies with Vekta "
+    },
+    {
+      "apiname": "VEKTA_UNLEASHED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vekta Unleashed",
+      "description": "Kill 1000 Enemies with Vekta "
+    }
+  ]
+}

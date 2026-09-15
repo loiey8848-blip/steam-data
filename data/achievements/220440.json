@@ -1,0 +1,417 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 220440,
+  "game": "DmC Devil May Cry",
+  "total": 58,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:38.694959+00:00",
+  "achievements": [
+    {
+      "apiname": "Achievement_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to go to work guys!",
+      "description": "Purchase your first upgrade"
+    },
+    {
+      "apiname": "Achievement_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come on Puppy. Let's go!",
+      "description": "Defeat your pursuer"
+    },
+    {
+      "apiname": "Achievement_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's got to stay in the family",
+      "description": "Acquire Arbiter"
+    },
+    {
+      "apiname": "Achievement_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thing drives me crazy",
+      "description": "Acquire Osiris"
+    },
+    {
+      "apiname": "Achievement_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only kind of gift worth giving",
+      "description": "Acquire the Angel Boost ability"
+    },
+    {
+      "apiname": "Achievement_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flock off, feather-face!",
+      "description": "Survive the encounter with the Tyrant"
+    },
+    {
+      "apiname": "Achievement_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This baby sure can pack a punch",
+      "description": "Acquire Eryx"
+    },
+    {
+      "apiname": "Achievement_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "He's a demon too",
+      "description": "Help Phineas retrieve his eye"
+    },
+    {
+      "apiname": "Achievement_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You are not a Human, are you?",
+      "description": "Acquire the Devil Trigger ability"
+    },
+    {
+      "apiname": "Achievement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No talking!",
+      "description": "Acquire Aquila"
+    },
+    {
+      "apiname": "Achievement_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More than just a few sparks",
+      "description": "Acquire Revenant"
+    },
+    {
+      "apiname": "Achievement_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whatever, Lady",
+      "description": "Defeat Mundus' spawn"
+    },
+    {
+      "apiname": "Achievement_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're not going to shoot me",
+      "description": "Acquire Kablooey"
+    },
+    {
+      "apiname": "Achievement_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's time to finish this! ",
+      "description": "Help Vergil open the Vault"
+    },
+    {
+      "apiname": "Achievement_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cleaning up his Dad's mess",
+      "description": "Defeat Mundus"
+    },
+    {
+      "apiname": "Achievement_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The end? Don't bet on it",
+      "description": "Complete the final mission on Human, Devil Hunter or Nephilim difficulty"
+    },
+    {
+      "apiname": "Achievement_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looks like it's your lucky day",
+      "description": "Complete a level without taking any damage"
+    },
+    {
+      "apiname": "Achievement_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every hero has a weakness",
+      "description": "Complete Furnace of Souls without taking damage from the furnace"
+    },
+    {
+      "apiname": "Achievement_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's only the rain",
+      "description": "Kill 10 enemies by pushing them into the Hurricane ride on Mission 1"
+    },
+    {
+      "apiname": "Achievement_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A man with guts and honor",
+      "description": "Reach the end of the descent on Mission 6 having killed all of the enemies"
+    },
+    {
+      "apiname": "Achievement_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now my coat's all charred",
+      "description": "Navigate the Sky Bridge on Mission 16 without hitting the lasers"
+    },
+    {
+      "apiname": "Achievement_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where does the time go?",
+      "description": "Complete a level with 2 minutes or less on the clock"
+    },
+    {
+      "apiname": "Achievement_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "For Tony Redgrave",
+      "description": "Kill 50 enemies using nothing but firearms"
+    },
+    {
+      "apiname": "Achievement_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the name of my father",
+      "description": "Kill 100 enemies using nothing but Demon weapons"
+    },
+    {
+      "apiname": "Achievement_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You'll never have her fire",
+      "description": "Kill 100 enemies using nothing but Angel weapons"
+    },
+    {
+      "apiname": "Achievement_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Impressive",
+      "description": "Slay 100 Demons"
+    },
+    {
+      "apiname": "Achievement_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bring it on!",
+      "description": "Slay 1,000 Demons"
+    },
+    {
+      "apiname": "Achievement_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looks like we have a winner",
+      "description": "Slay 5,000 Demons"
+    },
+    {
+      "apiname": "Achievement_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sensational!",
+      "description": "Gain a SSS Style Rank during combat"
+    },
+    {
+      "apiname": "Achievement_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's showtime. Come on!",
+      "description": "Earn 1,500 Style Bonuses"
+    },
+    {
+      "apiname": "Achievement_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is my kind of rain",
+      "description": "Spend 10,000 Red Orbs"
+    },
+    {
+      "apiname": "Achievement_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolutely crazy about it",
+      "description": "Spend 50,000 Red Orbs"
+    },
+    {
+      "apiname": "Achievement_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's rock, baby!",
+      "description": "Upgrade Dante's health to maximum"
+    },
+    {
+      "apiname": "Achievement_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You can't handle it",
+      "description": "Upgrade Dante's Devil Trigger to maximum"
+    },
+    {
+      "apiname": "Achievement_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power... Give me more power!",
+      "description": "Purchase all of Dante's combat upgrades"
+    },
+    {
+      "apiname": "Achievement_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dude, the show's over!",
+      "description": "Find all of the Keys"
+    },
+    {
+      "apiname": "Achievement_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's welcome chaos!",
+      "description": "Open all of the Secret Doors"
+    },
+    {
+      "apiname": "Achievement_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And you are set free",
+      "description": "Free half of the Lost Souls"
+    },
+    {
+      "apiname": "Achievement_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fill your dark soul with light",
+      "description": "Free all of the Lost Souls"
+    },
+    {
+      "apiname": "Achievement_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeps getting better and better",
+      "description": "Gain a 100% completion rank on all missions (difficulty doesn't matter)"
+    },
+    {
+      "apiname": "Achievement_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stylish!",
+      "description": "Complete a mission with a SSS rank"
+    },
+    {
+      "apiname": "Achievement_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too easy!",
+      "description": "Complete all missions on the Son of Sparda difficulty"
+    },
+    {
+      "apiname": "Achievement_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devils never cry",
+      "description": "Complete all missions on the Dante Must Die difficulty"
+    },
+    {
+      "apiname": "Achievement_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is what I live for!",
+      "description": "Complete all missions on the Heaven or Hell difficulty"
+    },
+    {
+      "apiname": "Achievement_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And welcome to Hell!",
+      "description": "Complete all missions on the Hell and Hell difficulty"
+    },
+    {
+      "apiname": "Achievement_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot!",
+      "description": "Complete all missions on the Nephilim difficulty with a SSS rank"
+    },
+    {
+      "apiname": "Achievement_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This party's just getting crazy!",
+      "description": "Complete 10 Secret Missions"
+    },
+    {
+      "apiname": "Achievement_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One hell of a party!",
+      "description": "Complete all of the Secret Missions"
+    },
+    {
+      "apiname": "Achievement_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We have an uninvited guest",
+      "description": "Defeat a Wisp"
+    },
+    {
+      "apiname": "Achievement_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You don't belong here",
+      "description": "Defeat an Imprisoner"
+    },
+    {
+      "apiname": "Achievement_51",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Our souls are at odds brother",
+      "description": "Complete Vergil's downfall"
+    },
+    {
+      "apiname": "Achievement_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I've come to retrieve my power",
+      "description": "Acquire all of Vergil's health, Devil trigger and combat upgrades"
+    },
+    {
+      "apiname": "Achievement_53",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Might controls everything",
+      "description": "Gain a 100% completion rank on all missions in Vergil's downfall (difficulty doesn't matter)"
+    },
+    {
+      "apiname": "Achievement_54",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'll try it your way for once",
+      "description": "Complete all missions in Vergil's downfall on the Nephilim difficulty with a SSS rank"
+    },
+    {
+      "apiname": "Achievement_55",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I need more power!",
+      "description": "Complete Vergil's downfall on Son of Sparda difficulty"
+    },
+    {
+      "apiname": "Achievement_56",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is the power of Sparda!",
+      "description": "Complete Vergil's downfall on Vergil Must Die difficulty"
+    },
+    {
+      "apiname": "Achievement_57",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Now I'm a little motivated!",
+      "description": "Complete Vergil's downfall on Heaven or Hell difficulty"
+    },
+    {
+      "apiname": "Achievement_58",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You're not worthy as my opponent",
+      "description": "Complete Vergil's downfall on Hell and Hell difficulty"
+    }
+  ]
+}

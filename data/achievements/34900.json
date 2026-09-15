@@ -1,0 +1,102 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 34900,
+  "game": "Bad Rats",
+  "total": 13,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-15T06:48:35.011239+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_F1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fast Thinker ",
+      "description": "Solved five maps with less than one minute"
+    },
+    {
+      "apiname": "ACH_F2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Super Fast Thinker",
+      "description": "Solved ten maps with less than one minute "
+    },
+    {
+      "apiname": "ACH_F3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Super Fast Thinker",
+      "description": "Uou! Solved fifteen maps in less than one minute."
+    },
+    {
+      "apiname": "ACH_M1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Rat Junior",
+      "description": "Solved ten maps"
+    },
+    {
+      "apiname": "ACH_M2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Very Bad Rat",
+      "description": "Solved twenty maps"
+    },
+    {
+      "apiname": "ACH_M3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serious Bad Rat",
+      "description": "Thirty maps solved"
+    },
+    {
+      "apiname": "ACH_M4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Bad Rat",
+      "description": "Forty maps solved"
+    },
+    {
+      "apiname": "ACH_M5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Rats' King",
+      "description": "Completed all levels"
+    },
+    {
+      "apiname": "ACH_S1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Single Rat Move",
+      "description": "Completed two maps using one single object."
+    },
+    {
+      "apiname": "ACH_E1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Economic Bad Rat",
+      "description": "Completed five maps using less objects than planned"
+    },
+    {
+      "apiname": "ACH_E2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Extra Economic Bad Rat",
+      "description": "Finished ten maps using less objects than the plan"
+    },
+    {
+      "apiname": "ACH_E3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Genius Economic Bad Rat",
+      "description": "OHH! Fifteen maps completed using less objects than planned"
+    },
+    {
+      "apiname": "ACH_O1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Click One Death",
+      "description": "Finished 10 maps in the first try"
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1282100,
+  "game": "Remnant II",
+  "total": 65,
+  "unlocked": 3,
+  "percent": 4.6,
+  "updated_at_utc": "2026-09-15T06:51:16.019994+00:00",
+  "achievements": [
+    {
+      "apiname": "Meet_Nimue",
+      "achieved": 1,
+      "unlocktime": 1691234073,
+      "name": "Blue Goddess",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Flautist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Familiar Face",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Meidra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Equal Measures",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Custodian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Janitor",
+      "description": ""
+    },
+    {
+      "apiname": "Meet_Mudtooth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tall Tales",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Corrupted_Ravager",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chaos",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Nightweaver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Designs",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Final_Boss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forever is a Long Time Coming",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Abberations_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Am I Seeing This?",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Abberations_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ghost in the Machine",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Cube",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gleaming the Cube",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Tal_Ratha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Madman's Paradise",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Special_Enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not so special now",
+      "description": "Defeat 100 Special Enemies"
+    },
+    {
+      "apiname": "Defeat_Guardian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Surge",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Boss_No_Damage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only Human",
+      "description": "Defeat a Boss in Single-Player Without Taking Any Damage"
+    },
+    {
+      "apiname": "Defeat_World_Boss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quest for Survival",
+      "description": "Defeat a World Boss"
+    },
+    {
+      "apiname": "Defeat_Many_Faces",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The God Gambit",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Mantis",
+      "achieved": 1,
+      "unlocktime": 1690605704,
+      "name": "The Killing Jar",
+      "description": ""
+    },
+    {
+      "apiname": "Defeat_Faelin_Faerin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Traitor",
+      "description": ""
+    },
+    {
+      "apiname": "Discover_Blood_Moon_Room",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Room",
+      "description": ""
+    },
+    {
+      "apiname": "Discover_Letos_Lab",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Agenda",
+      "description": ""
+    },
+    {
+      "apiname": "Obtain_Boss_Weapon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boss'n Up",
+      "description": "Craft a Boss Weapon"
+    },
+    {
+      "apiname": "Obtain_Melee_Weapons_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Edgelord",
+      "description": "Acquire 10 Melee Weapons"
+    },
+    {
+      "apiname": "Obtain_Melee_Weapons_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cutting Edge",
+      "description": "Acquire 20 Melee Weapons"
+    },
+    {
+      "apiname": "Obtain_Archetype",
+      "achieved": 1,
+      "unlocktime": 1690605954,
+      "name": "First of Many",
+      "description": "Choose Your First Archetype"
+    },
+    {
+      "apiname": "Obtain_Archetype_Dual",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Duality",
+      "description": "Slot a Second Archetype"
+    },
+    {
+      "apiname": "Obtain_Archetype_Secret",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shhh...It's a Secret",
+      "description": ""
+    },
+    {
+      "apiname": "Obtain_Archetype_Level",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Top Performer",
+      "description": "Reach Level 10 on Any Archetype"
+    },
+    {
+      "apiname": "Obtain_Traits_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Your Average Trait",
+      "description": "Obtain a Non-Starter Trait"
+    },
+    {
+      "apiname": "Obtain_Traits_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All These Traits...",
+      "description": "Obtain 10 Traits"
+    },
+    {
+      "apiname": "Obtain_Traits_C",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proving Grounds",
+      "description": "Acquire 20 traits"
+    },
+    {
+      "apiname": "Obtain_Scrap_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Collector",
+      "description": "Acquire 50,000 Scrap"
+    },
+    {
+      "apiname": "Obtain_Scrap_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scrap Hoarder",
+      "description": "Acquire 100,000 Scrap"
+    },
+    {
+      "apiname": "Obtain_Guns_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strapped",
+      "description": "Acquire 15 Guns"
+    },
+    {
+      "apiname": "Obtain_Guns_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Trigger",
+      "description": "Acquire 30 Guns"
+    },
+    {
+      "apiname": "Obtain_Nightweaver_Item",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Web",
+      "description": ""
+    },
+    {
+      "apiname": "Obtain_Boss_Alt_Reward",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Was This Supposed To Happen?",
+      "description": "Acquire a World Boss's Alternate Reward"
+    },
+    {
+      "apiname": "Obtain_Relics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Collector",
+      "description": "Acquire 10 Relics"
+    },
+    {
+      "apiname": "Obtain_Blood_Moon_Item",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bad Moon Rising",
+      "description": ""
+    },
+    {
+      "apiname": "Obtain_Water_Harp_Item",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carnage in C-Minor",
+      "description": ""
+    },
+    {
+      "apiname": "Craft_Weapon_Mod_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding Horizons",
+      "description": "Craft a Non-Starter Weapon Mod"
+    },
+    {
+      "apiname": "Craft_Weapon_Mod_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crafty",
+      "description": "Craft 15 Weapon Mods"
+    },
+    {
+      "apiname": "Upgrade_Traits_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trait Chaser",
+      "description": "Upgrade Any Trait to 10"
+    },
+    {
+      "apiname": "Upgrade_Traits_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maxed Out!",
+      "description": ""
+    },
+    {
+      "apiname": "Upgrade_Boss_Weapon_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ultimate Weapon",
+      "description": "Upgrade a Boss Weapon to +10"
+    },
+    {
+      "apiname": "Upgrade_Boss_Weapon_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Almost There",
+      "description": "Upgrade a Boss Weapon to +5"
+    },
+    {
+      "apiname": "Upgrade_Standard_Weapon_A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good, but Could be Better!",
+      "description": "Upgrade a Standard Weapon to +10"
+    },
+    {
+      "apiname": "Upgrade_Standard_Weapon_B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No One Should Have All That Power",
+      "description": "Upgrade a Standard Weapon to +20"
+    },
+    {
+      "apiname": "Upgrade_Relic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Make Some Room",
+      "description": "Upgrade Relic Capacity"
+    },
+    {
+      "apiname": "Upgrade_Weapon_Mutator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transmutate",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Defeat_OneTrueKing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regicide",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Obtain_Scribe_Reward",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Foul Feast",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Discover_True_Ending",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Succession",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Obtain_Archetype",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the Dark Arts",
+      "description": ""
+    },
+    {
+      "apiname": "DLC1_Obtain_Warden_Reward",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Shall Pass",
+      "description": ""
+    },
+    {
+      "apiname": "DLC2_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Requiem of the Forgotten Kingdom",
+      "description": ""
+    },
+    {
+      "apiname": "DLC2_Meet_Walt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thank You For Being a Friend",
+      "description": ""
+    },
+    {
+      "apiname": "DLC2_Upgrade_Item",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Burden Hardest to Bear",
+      "description": ""
+    },
+    {
+      "apiname": "DLC2_Obtain_Archetype",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Elements",
+      "description": ""
+    },
+    {
+      "apiname": "DLC2_Obtain_Crossbow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Triple Takeover",
+      "description": ""
+    },
+    {
+      "apiname": "DLC3_Complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ultimate Doom",
+      "description": "Complete The Dark Horizon Story"
+    },
+    {
+      "apiname": "DLC3_Obtain_Redeemer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Master Builder",
+      "description": ""
+    },
+    {
+      "apiname": "DLC3_Obtain_SpiritAlternator",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "B.O.T.",
+      "description": ""
+    },
+    {
+      "apiname": "DLC3_Obtain_Archetype",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Technology",
+      "description": ""
+    },
+    {
+      "apiname": "DLC3_Obtain_Bastion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Not a Janitor",
+      "description": ""
+    }
+  ]
+}

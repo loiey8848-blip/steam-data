@@ -1,0 +1,382 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2627260,
+  "game": "Ninja Gaiden 4",
+  "total": 53,
+  "unlocked": 53,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-15T06:52:53.024934+00:00",
+  "achievements": [
+    {
+      "apiname": "1",
+      "achieved": 1,
+      "unlocktime": 1761883057,
+      "name": "True Ninja",
+      "description": "Acquire all achievements"
+    },
+    {
+      "apiname": "2",
+      "achieved": 1,
+      "unlocktime": 1761030718,
+      "name": "The Art of Obliteration",
+      "description": "Perform an Obliteration"
+    },
+    {
+      "apiname": "3",
+      "achieved": 1,
+      "unlocktime": 1761030796,
+      "name": "Bloodraven Form",
+      "description": "Enter Bloodraven Form"
+    },
+    {
+      "apiname": "4",
+      "achieved": 1,
+      "unlocktime": 1761048043,
+      "name": "The Art of the Bloodbath Kill",
+      "description": "Perform a Bloodbath Kill"
+    },
+    {
+      "apiname": "5",
+      "achieved": 1,
+      "unlocktime": 1761279731,
+      "name": "The Art of the Bloodbath Slaughter",
+      "description": "Perform a Bloodbath Slaughter"
+    },
+    {
+      "apiname": "6",
+      "achieved": 1,
+      "unlocktime": 1761034403,
+      "name": "Raven Gear: Caddis Wire",
+      "description": ""
+    },
+    {
+      "apiname": "7",
+      "achieved": 1,
+      "unlocktime": 1761290927,
+      "name": "Raven Gear: Dragonfly Glider",
+      "description": ""
+    },
+    {
+      "apiname": "8",
+      "achieved": 1,
+      "unlocktime": 1761325449,
+      "name": "Raven Gear: Pond Strider",
+      "description": ""
+    },
+    {
+      "apiname": "9",
+      "achieved": 1,
+      "unlocktime": 1761290927,
+      "name": "Oh, Foxy Lady",
+      "description": ""
+    },
+    {
+      "apiname": "10",
+      "achieved": 1,
+      "unlocktime": 1761323026,
+      "name": "It's a Dog! It's a Plane! It's...",
+      "description": ""
+    },
+    {
+      "apiname": "11",
+      "achieved": 1,
+      "unlocktime": 1761402407,
+      "name": "Smile, You Son of a...",
+      "description": ""
+    },
+    {
+      "apiname": "12",
+      "achieved": 1,
+      "unlocktime": 1761415939,
+      "name": "Priestess of the Dark Dragon",
+      "description": ""
+    },
+    {
+      "apiname": "13",
+      "achieved": 1,
+      "unlocktime": 1761419160,
+      "name": "Return of the Super Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "14",
+      "achieved": 1,
+      "unlocktime": 1761453469,
+      "name": "The Priestess's Wish",
+      "description": ""
+    },
+    {
+      "apiname": "15",
+      "achieved": 1,
+      "unlocktime": 1761458607,
+      "name": "Bloodsoaked Fate",
+      "description": ""
+    },
+    {
+      "apiname": "16",
+      "achieved": 1,
+      "unlocktime": 1761460977,
+      "name": "A New Master Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "20",
+      "achieved": 1,
+      "unlocktime": 1761883057,
+      "name": "Way of the Master Ninja",
+      "description": "Complete the game on MASTER NINJA difficulty"
+    },
+    {
+      "apiname": "21",
+      "achieved": 1,
+      "unlocktime": 1761796799,
+      "name": "Ninja Fortitude",
+      "description": ""
+    },
+    {
+      "apiname": "22",
+      "achieved": 1,
+      "unlocktime": 1761377830,
+      "name": "Master of the Blade",
+      "description": "Use Takeminakata to attack 5 or more enemies at once"
+    },
+    {
+      "apiname": "23",
+      "achieved": 1,
+      "unlocktime": 1761481886,
+      "name": "Master of the Drill",
+      "description": "Use Yatousen to inflict massive damage in a short time"
+    },
+    {
+      "apiname": "24",
+      "achieved": 1,
+      "unlocktime": 1761481944,
+      "name": "Master of the Hammer",
+      "description": "Use Magatsuhi to Bloodbath Kill 5 or more enemies in a short time"
+    },
+    {
+      "apiname": "25",
+      "achieved": 1,
+      "unlocktime": 1761481004,
+      "name": "Master of the Toolbox",
+      "description": "Use Kage-Hiruko to defeat an enemy launched in the air"
+    },
+    {
+      "apiname": "26",
+      "achieved": 1,
+      "unlocktime": 1761804457,
+      "name": "Wielder of Darkness",
+      "description": ""
+    },
+    {
+      "apiname": "27",
+      "achieved": 1,
+      "unlocktime": 1761794772,
+      "name": "Consumed by Corruption",
+      "description": ""
+    },
+    {
+      "apiname": "28",
+      "achieved": 1,
+      "unlocktime": 1761456684,
+      "name": "Ninja Business",
+      "description": "Complete 20 Missions"
+    },
+    {
+      "apiname": "29",
+      "achieved": 1,
+      "unlocktime": 1761279531,
+      "name": "NinjaCoin Miner",
+      "description": "Obtain 100,000 NinjaCoin"
+    },
+    {
+      "apiname": "30",
+      "achieved": 1,
+      "unlocktime": 1761048278,
+      "name": "Need, not Greed",
+      "description": "Obtain 30 items"
+    },
+    {
+      "apiname": "31",
+      "achieved": 1,
+      "unlocktime": 1761323938,
+      "name": "Way of the Dragon",
+      "description": "Defeat 3 enemies in a row with an Ultimate Technique"
+    },
+    {
+      "apiname": "32",
+      "achieved": 1,
+      "unlocktime": 1761292168,
+      "name": "Combo Master",
+      "description": "Achieve a 2000-point combo"
+    },
+    {
+      "apiname": "33",
+      "achieved": 1,
+      "unlocktime": 1761503248,
+      "name": "The Grind Never Stops",
+      "description": "Clear Chapter 02 without falling once (Auto Movement must be turned OFF)"
+    },
+    {
+      "apiname": "34",
+      "achieved": 1,
+      "unlocktime": 1761544653,
+      "name": "Free as a Bird",
+      "description": "Clear Chapter 06 without hitting any obstacles (Auto Movement must be turned OFF)"
+    },
+    {
+      "apiname": "35",
+      "achieved": 1,
+      "unlocktime": 1761542228,
+      "name": "Surf Ninja",
+      "description": "Clear Chapter 10 without hitting any obstacles (Auto Movement must be turned OFF)"
+    },
+    {
+      "apiname": "36",
+      "achieved": 1,
+      "unlocktime": 1761545859,
+      "name": "Laser's Edge",
+      "description": "Clear Chapter 12 without being hit by a laser (Auto Movement must be turned OFF)"
+    },
+    {
+      "apiname": "37",
+      "achieved": 1,
+      "unlocktime": 1761293056,
+      "name": "Master of Takeminakata",
+      "description": "Learn all Takeminakata Weapon Skills"
+    },
+    {
+      "apiname": "38",
+      "achieved": 1,
+      "unlocktime": 1761380931,
+      "name": "Master of Yatousen",
+      "description": "Learn all Yatousen Weapon Skills"
+    },
+    {
+      "apiname": "39",
+      "achieved": 1,
+      "unlocktime": 1761456848,
+      "name": "Master of Magatsuhi",
+      "description": "Learn all Magatsuhi Weapon Skills"
+    },
+    {
+      "apiname": "40",
+      "achieved": 1,
+      "unlocktime": 1761794889,
+      "name": "Master of Kage-Hiruko",
+      "description": "Learn all Kage-Hiruko Weapon Skills"
+    },
+    {
+      "apiname": "41",
+      "achieved": 1,
+      "unlocktime": 1761809584,
+      "name": "Master of the Dark Dragon Blade",
+      "description": ""
+    },
+    {
+      "apiname": "42",
+      "achieved": 1,
+      "unlocktime": 1761796799,
+      "name": "Master of Combat",
+      "description": "Learn all Combat Skills"
+    },
+    {
+      "apiname": "43",
+      "achieved": 1,
+      "unlocktime": 1761552323,
+      "name": "The One Who Obliterates",
+      "description": "Obliterate every enemy"
+    },
+    {
+      "apiname": "44",
+      "achieved": 1,
+      "unlocktime": 1761796206,
+      "name": "Critter Collector",
+      "description": "Collect every Gourdy"
+    },
+    {
+      "apiname": "45",
+      "achieved": 1,
+      "unlocktime": 1761801089,
+      "name": "Work Horse",
+      "description": "Complete all Missions"
+    },
+    {
+      "apiname": "46",
+      "achieved": 1,
+      "unlocktime": 1761802366,
+      "name": "Annihilator",
+      "description": "Complete all Purgatory trials"
+    },
+    {
+      "apiname": "48",
+      "achieved": 1,
+      "unlocktime": 1761410739,
+      "name": "Shadow Incarnate",
+      "description": "Complete any chapter without dying (excluding Chapters 00 and 14)"
+    },
+    {
+      "apiname": "49",
+      "achieved": 1,
+      "unlocktime": 1761814410,
+      "name": "Challenger of Challenges",
+      "description": ""
+    },
+    {
+      "apiname": "50",
+      "achieved": 1,
+      "unlocktime": 1772852977,
+      "name": "The Pursuit of Duty",
+      "description": ""
+    },
+    {
+      "apiname": "51",
+      "achieved": 1,
+      "unlocktime": 1772855058,
+      "name": "A Life Dedicated to Duty",
+      "description": ""
+    },
+    {
+      "apiname": "52",
+      "achieved": 1,
+      "unlocktime": 1772856730,
+      "name": "The Two Masters",
+      "description": ""
+    },
+    {
+      "apiname": "53",
+      "achieved": 1,
+      "unlocktime": 1772856731,
+      "name": "Way of the New Master Ninja",
+      "description": ""
+    },
+    {
+      "apiname": "54",
+      "achieved": 1,
+      "unlocktime": 1772857541,
+      "name": "Scornful Mother of the Damned",
+      "description": ""
+    },
+    {
+      "apiname": "55",
+      "achieved": 1,
+      "unlocktime": 1772857087,
+      "name": "More Machine than Fiend",
+      "description": ""
+    },
+    {
+      "apiname": "56",
+      "achieved": 1,
+      "unlocktime": 1772858278,
+      "name": "Ultimate Challenge",
+      "description": ""
+    },
+    {
+      "apiname": "57",
+      "achieved": 1,
+      "unlocktime": 1773130824,
+      "name": "Conqueror of the Abyss",
+      "description": ""
+    }
+  ]
+}
