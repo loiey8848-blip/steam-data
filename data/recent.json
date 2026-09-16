@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-16T10:14:46.330526+00:00",
+  "updated_at_utc": "2026-09-16T12:17:54.011484+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -60,7 +60,7 @@
     {
       "appid": 1923680,
       "name": "Mega Mall Story",
-      "playtime_2weeks": 422,
+      "playtime_2weeks": 353,
       "playtime_forever": 422,
       "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
       "playtime_windows_forever": 422,
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3393280,
+      "name": "Anime Shop Simulator ✨",
+      "playtime_2weeks": 174,
+      "playtime_forever": 174,
+      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
+      "playtime_windows_forever": 174,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2350790,
       "name": "Moonlighter 2: The Endless Vault",
       "playtime_2weeks": 128,
@@ -91,34 +102,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3393280,
-      "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 123,
-      "playtime_forever": 123,
-      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 123,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
       "playtime_forever": 90,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 90,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1608070,
-      "name": "CRISIS CORE –FINAL FANTASY VII– REUNION",
-      "playtime_2weeks": 41,
-      "playtime_forever": 1298,
-      "img_icon_url": "80f4044e4cf12b1eb8d344b19af99629022c3ab3",
-      "playtime_windows_forever": 1298,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
