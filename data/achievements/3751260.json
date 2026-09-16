@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 6,
-  "percent": 13.0,
-  "updated_at_utc": "2026-09-16T00:12:55.395403+00:00",
+  "unlocked": 8,
+  "percent": 17.4,
+  "updated_at_utc": "2026-09-16T06:12:50.554410+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "ACH_Like_Shadow",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789527044,
       "name": "Shadow Roamer",
       "description": "Travel 1000 metres using Vampiric Abilities."
     },
@@ -310,8 +310,8 @@
     },
     {
       "apiname": "ACH_Metropolitan",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789530270,
       "name": "Big-City Living",
       "description": "Visit the City of Svartrau."
     },

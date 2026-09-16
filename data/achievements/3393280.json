@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 9,
-  "percent": 23.7,
-  "updated_at_utc": "2026-09-16T00:12:55.173020+00:00",
+  "unlocked": 11,
+  "percent": 28.9,
+  "updated_at_utc": "2026-09-16T06:12:50.283496+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ACH_FIND_HIDDEN_ITEM",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789524946,
       "name": "Case Closed!",
       "description": "Find the hidden item"
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_HIRE_EMPLOYEE_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789523325,
       "name": "My Retail Academia",
       "description": "Hire your first employee"
     },
