@@ -1,0 +1,62 @@
+{
+  "updated_at_utc": "2026-09-16T12:35:05.931416+00:00",
+  "count": 4,
+  "games": [
+    {
+      "appid": 2757350,
+      "priority": 0,
+      "date_added_unix": 1788003675,
+      "date_added_utc": "2026-08-29T11:41:15+00:00",
+      "steam_url": "https://store.steampowered.com/app/2757350/",
+      "name": "谍影成双",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 11.0,
+      "price_final_cny": 11.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 4700560,
+      "priority": 0,
+      "date_added_unix": 1787588166,
+      "date_added_utc": "2026-08-24T16:16:06+00:00",
+      "steam_url": "https://store.steampowered.com/app/4700560/",
+      "name": "The Girl in the Window",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 15.0,
+      "price_final_cny": 15.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 3949040,
+      "priority": 0,
+      "date_added_unix": 1785284065,
+      "date_added_utc": "2026-07-29T00:14:25+00:00",
+      "steam_url": "https://store.steampowered.com/app/3949040/",
+      "name": "我们到了吗？",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 33.0,
+      "price_final_cny": 19.8,
+      "discount_percent": 40
+    },
+    {
+      "appid": 3874450,
+      "priority": 0,
+      "date_added_unix": 1781007048,
+      "date_added_utc": "2026-06-09T12:10:48+00:00",
+      "steam_url": "https://store.steampowered.com/app/3874450/",
+      "name": "夕阳攀岩团 (Sunset Summit)",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 22.0,
+      "price_final_cny": 13.64,
+      "discount_percent": 38
+    }
+  ]
+}
