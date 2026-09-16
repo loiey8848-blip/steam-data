@@ -3,7 +3,7 @@ name: Steam Data Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
 
 permissions:
   contents: write
@@ -53,678 +53,128 @@ jobs:
           def unix_iso(ts):
               if not ts:
                   return None
-
-              return datetime.fromtimestamp(
-                  int(ts),
-                  timezone.utc
-              ).isoformat()
+              return datetime.fromtimestamp(int(ts), timezone.utc).isoformat()
 
           def steam_api(path, params, retries=3):
-              url = (
-                  "https://api.steampowered.com/"
-                  + path
-                  + "?"
-                  + urlencode(params)
-              )
-
+              url = "https://api.steampowered.com/" + path + "?" + urlencode(params)
               last_error = None
-
               for attempt in range(retries):
                   try:
-                      request = Request(
-                          url,
-                          headers={
-                              "User-Agent":
-                              "Loiey-Steam-Data-Sync/1.0"
-                          }
-                      )
-
-                      with urlopen(
-                          request,
-                          timeout=30
-                      ) as response:
-                          return json.loads(
-                              response.read().decode("utf-8")
-                          )
-
-                  except (
-                      HTTPError,
-                      URLError,
-                      TimeoutError
-                  ) as error:
-
+                      request = Request(url, headers={"User-Agent": "Loiey-Steam-Data-Sync/1.0"})
+                      with urlopen(request, timeout=30) as response:
+                          return json.loads(response.read().decode("utf-8"))
+                  except (HTTPError, URLError, TimeoutError) as error:
                       last_error = error
                       time.sleep(2 * (attempt + 1))
+              raise RuntimeError(f"Steam API request failed: {last_error}")
 
-              raise RuntimeError(
-                  f"Steam API request failed: {last_error}"
-              )
+          owned_response = steam_api("IPlayerService/GetOwnedGames/v1/", {"key": KEY, "steamid": STEAM_ID, "include_appinfo": "true", "include_played_free_games": "true", "format": "json"})
+          games = owned_response.get("response", {}).get("games", [])
+          games.sort(key=lambda x: x.get("name", "").casefold())
 
-          # -------------------------
-          # 1. Steam 完整游戏库
-          # -------------------------
-
-          owned_response = steam_api(
-              "IPlayerService/GetOwnedGames/v1/",
-              {
-                  "key": KEY,
-                  "steamid": STEAM_ID,
-                  "include_appinfo": "true",
-                  "include_played_free_games": "true",
-                  "format": "json"
-              }
-          )
-
-          games = (
-              owned_response
-              .get("response", {})
-              .get("games", [])
-          )
-
-          games.sort(
-              key=lambda x:
-              x.get("name", "").casefold()
-          )
-
-          # -------------------------
-          # 2. 最近游玩
-          # -------------------------
-
-          recent_response = steam_api(
-              "IPlayerService/GetRecentlyPlayedGames/v1/",
-              {
-                  "key": KEY,
-                  "steamid": STEAM_ID,
-                  "count": 50,
-                  "format": "json"
-              }
-          )
-
-          recent_games = (
-              recent_response
-              .get("response", {})
-              .get("games", [])
-          )
-
-          recent_ids = {
-              int(game["appid"])
-              for game in recent_games
-          }
-
-          # -------------------------
-          # 3. 读取上一次游戏库
-          # -------------------------
+          recent_response = steam_api("IPlayerService/GetRecentlyPlayedGames/v1/", {"key": KEY, "steamid": STEAM_ID, "count": 50, "format": "json"})
+          recent_games = recent_response.get("response", {}).get("games", [])
+          recent_ids = {int(game["appid"]) for game in recent_games}
 
           old_library_path = ROOT / "library.json"
-
           old_games = {}
-
           if old_library_path.exists():
               try:
-                  old_data = json.loads(
-                      old_library_path.read_text(
-                          encoding="utf-8"
-                      )
-                  )
-
-                  old_games = {
-                      int(game["appid"]): game
-                      for game
-                      in old_data.get("games", [])
-                  }
-
+                  old_data = json.loads(old_library_path.read_text(encoding="utf-8"))
+                  old_games = {int(game["appid"]): game for game in old_data.get("games", [])}
               except Exception:
                   old_games = {}
 
-          # -------------------------
-          # 4. 整理当前游戏库
-          # -------------------------
-
           library = []
           changed_games = set()
-
           for game in games:
-
               appid = int(game["appid"])
-
-              playtime = int(
-                  game.get(
-                      "playtime_forever",
-                      0
-                  )
-              )
-
-              last_played = int(
-                  game.get(
-                      "rtime_last_played",
-                      0
-                  ) or 0
-              )
-
-              item = {
-                  "appid": appid,
-                  "name":
-                      game.get("name", ""),
-                  "playtime_minutes":
-                      playtime,
-                  "playtime_hours":
-                      round(
-                          playtime / 60,
-                          1
-                      ),
-                  "last_played_unix":
-                      last_played,
-                  "last_played_utc":
-                      unix_iso(last_played),
-                  "recent":
-                      appid in recent_ids
-              }
-
+              playtime = int(game.get("playtime_forever", 0))
+              last_played = int(game.get("rtime_last_played", 0) or 0)
+              item = {"appid": appid, "name": game.get("name", ""), "playtime_minutes": playtime, "playtime_hours": round(playtime / 60, 1), "last_played_unix": last_played, "last_played_utc": unix_iso(last_played), "recent": appid in recent_ids}
               library.append(item)
-
               previous = old_games.get(appid)
-
               if playtime > 0:
-
-                  if previous is None:
+                  if previous is None or int(previous.get("playtime_minutes", -1)) != playtime or int(previous.get("last_played_unix", -1)) != last_played:
                       changed_games.add(appid)
 
-                  elif (
-                      int(
-                          previous.get(
-                              "playtime_minutes",
-                              -1
-                          )
-                      )
-                      != playtime
-                  ):
-                      changed_games.add(appid)
-
-                  elif (
-                      int(
-                          previous.get(
-                              "last_played_unix",
-                              -1
-                          )
-                      )
-                      != last_played
-                  ):
-                      changed_games.add(appid)
-
-          # -------------------------
-          # 5. 决定哪些游戏刷新成就
-          # -------------------------
-
-          achievement_targets = (
-              recent_ids
-              | changed_games
-          )
-
+          achievement_targets = recent_ids | changed_games
           for game in library:
-
               if game["playtime_minutes"] <= 0:
                   continue
-
-              achievement_file = (
-                  ACH_DIR
-                  / f"{game['appid']}.json"
-              )
-
+              achievement_file = ACH_DIR / f"{game['appid']}.json"
               if not achievement_file.exists():
-                  achievement_targets.add(
-                      game["appid"]
-                  )
+                  achievement_targets.add(game["appid"])
 
-          game_by_id = {
-              game["appid"]: game
-              for game in library
-          }
-
+          game_by_id = {game["appid"]: game for game in library}
           refreshed = 0
           skipped = 0
-
-          # -------------------------
-          # 6. 获取个人成就
-          # -------------------------
-
-          for index, appid in enumerate(
-              sorted(achievement_targets)
-          ):
-
+          for index, appid in enumerate(sorted(achievement_targets)):
               try:
-
-                  achievement_response = steam_api(
-                      "ISteamUserStats/"
-                      "GetPlayerAchievements/v1/",
-                      {
-                          "key": KEY,
-                          "steamid": STEAM_ID,
-                          "appid": appid,
-                          "l": "english",
-                          "format": "json"
-                      },
-                      retries=2
-                  )
-
-                  stats = (
-                      achievement_response
-                      .get(
-                          "playerstats",
-                          {}
-                      )
-                  )
-
-                  achievements = stats.get(
-                      "achievements"
-                  )
-
-                  if (
-                      stats.get("success") is True
-                      and
-                      isinstance(
-                          achievements,
-                          list
-                      )
-                  ):
-
-                      unlocked = sum(
-                          1
-                          for achievement
-                          in achievements
-                          if achievement.get(
-                              "achieved"
-                          ) == 1
-                      )
-
-                      result = {
-                          "steamid":
-                              STEAM_ID,
-                          "appid":
-                              appid,
-                          "game":
-                              stats.get(
-                                  "gameName"
-                              )
-                              or
-                              game_by_id.get(
-                                  appid,
-                                  {}
-                              ).get(
-                                  "name",
-                                  ""
-                              ),
-                          "total":
-                              len(
-                                  achievements
-                              ),
-                          "unlocked":
-                              unlocked,
-                          "percent":
-                              round(
-                                  (
-                                      unlocked
-                                      /
-                                      len(
-                                          achievements
-                                      )
-                                      *
-                                      100
-                                  ),
-                                  1
-                              )
-                              if achievements
-                              else 0,
-                          "updated_at_utc":
-                              now_iso(),
-                          "achievements":
-                              achievements
-                      }
-
-                      achievement_file = (
-                          ACH_DIR
-                          /
-                          f"{appid}.json"
-                      )
-
-                      achievement_file.write_text(
-                          json.dumps(
-                              result,
-                              ensure_ascii=False,
-                              indent=2
-                          ),
-                          encoding="utf-8"
-                      )
-
+                  achievement_response = steam_api("ISteamUserStats/GetPlayerAchievements/v1/", {"key": KEY, "steamid": STEAM_ID, "appid": appid, "l": "english", "format": "json"}, retries=2)
+                  stats = achievement_response.get("playerstats", {})
+                  achievements = stats.get("achievements")
+                  if stats.get("success") is True and isinstance(achievements, list):
+                      unlocked = sum(1 for achievement in achievements if achievement.get("achieved") == 1)
+                      result = {"steamid": STEAM_ID, "appid": appid, "game": stats.get("gameName") or game_by_id.get(appid, {}).get("name", ""), "total": len(achievements), "unlocked": unlocked, "percent": round((unlocked / len(achievements) * 100), 1) if achievements else 0, "updated_at_utc": now_iso(), "achievements": achievements}
+                      (ACH_DIR / f"{appid}.json").write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
                       refreshed += 1
-
                   else:
                       skipped += 1
-
               except Exception as error:
-
-                  print(
-                      "Achievement skipped:",
-                      appid,
-                      error
-                  )
-
+                  print("Achievement skipped:", appid, error)
                   skipped += 1
-
-              if (
-                  index > 0
-                  and
-                  index % 50 == 0
-              ):
+              if index > 0 and index % 50 == 0:
                   time.sleep(2)
 
-          # -------------------------
-          # 7. 成就汇总
-          # -------------------------
-
           achievement_summary = []
-
           for game in library:
-
-              achievement_file = (
-                  ACH_DIR
-                  /
-                  f"{game['appid']}.json"
-              )
-
-              unlocked = None
-              total = None
-              percent = None
-
+              achievement_file = ACH_DIR / f"{game['appid']}.json"
+              unlocked = total = percent = None
               if achievement_file.exists():
-
                   try:
-
-                      achievement_data = json.loads(
-                          achievement_file.read_text(
-                              encoding="utf-8"
-                          )
-                      )
-
-                      unlocked = (
-                          achievement_data
-                          .get("unlocked")
-                      )
-
-                      total = (
-                          achievement_data
-                          .get("total")
-                      )
-
-                      percent = (
-                          achievement_data
-                          .get("percent")
-                      )
-
+                      achievement_data = json.loads(achievement_file.read_text(encoding="utf-8"))
+                      unlocked = achievement_data.get("unlocked")
+                      total = achievement_data.get("total")
+                      percent = achievement_data.get("percent")
                   except Exception:
                       pass
+              achievement_summary.append({**game, "achievements_unlocked": unlocked, "achievements_total": total, "achievement_percent": percent})
 
-              achievement_summary.append(
-                  {
-                      **game,
-                      "achievements_unlocked":
-                          unlocked,
-                      "achievements_total":
-                          total,
-                      "achievement_percent":
-                          percent
-                  }
-              )
-
-          # -------------------------
-          # 8. 新增游戏
-          # -------------------------
-
-          old_appids = set(
-              old_games.keys()
-          )
-
-          new_games = [
-              game
-              for game in library
-              if game["appid"]
-              not in old_appids
-          ]
-
+          old_appids = set(old_games.keys())
+          new_games = [game for game in library if game["appid"] not in old_appids]
           updated = now_iso()
+          library_payload = {"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "new_games": new_games, "games": library}
+          old_library_path.write_text(json.dumps(library_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
-          # -------------------------
-          # 9. 输出 JSON
-          # -------------------------
+          owned_appids = sorted(game["appid"] for game in library)
+          owned_games_index = {str(game["appid"]): game["name"] for game in sorted(library, key=lambda x: x["appid"])}
+          (ROOT / "owned-appids.json").write_text(json.dumps(owned_appids, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+          (ROOT / "owned-games-index.json").write_text(json.dumps(owned_games_index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+          (ROOT / "recent.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "games": recent_games}, ensure_ascii=False, indent=2), encoding="utf-8")
+          (ROOT / "achievement-summary.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "games": achievement_summary}, ensure_ascii=False, indent=2), encoding="utf-8")
+          (ROOT / "status.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "recent_games": len(recent_games), "achievement_games_refreshed": refreshed, "achievement_games_skipped": skipped, "new_games": len(new_games)}, ensure_ascii=False, indent=2), encoding="utf-8")
 
-          library_payload = {
-              "steamid":
-                  STEAM_ID,
-              "updated_at_utc":
-                  updated,
-              "owned_games":
-                  len(library),
-              "new_games":
-                  new_games,
-              "games":
-                  library
-          }
-
-          old_library_path.write_text(
-              json.dumps(
-                  library_payload,
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          # -------------------------
-          # 9.1 轻量库存索引
-          # -------------------------
-
-          owned_appids = sorted(
-              game["appid"]
-              for game in library
-          )
-
-          owned_games_index = {
-              str(game["appid"]): game["name"]
-              for game in sorted(
-                  library,
-                  key=lambda x: x["appid"]
-              )
-          }
-
-          (
-              ROOT / "owned-appids.json"
-          ).write_text(
-              json.dumps(
-                  owned_appids,
-                  ensure_ascii=False,
-                  separators=(",", ":")
-              ),
-              encoding="utf-8"
-          )
-
-          (
-              ROOT / "owned-games-index.json"
-          ).write_text(
-              json.dumps(
-                  owned_games_index,
-                  ensure_ascii=False,
-                  separators=(",", ":")
-              ),
-              encoding="utf-8"
-          )
-
-          (
-              ROOT / "recent.json"
-          ).write_text(
-              json.dumps(
-                  {
-                      "steamid":
-                          STEAM_ID,
-                      "updated_at_utc":
-                          updated,
-                      "games":
-                          recent_games
-                  },
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          (
-              ROOT
-              /
-              "achievement-summary.json"
-          ).write_text(
-              json.dumps(
-                  {
-                      "steamid":
-                          STEAM_ID,
-                      "updated_at_utc":
-                          updated,
-                      "games":
-                          achievement_summary
-                  },
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          (
-              ROOT / "status.json"
-          ).write_text(
-              json.dumps(
-                  {
-                      "steamid":
-                          STEAM_ID,
-                      "updated_at_utc":
-                          updated,
-                      "owned_games":
-                          len(library),
-                      "recent_games":
-                          len(recent_games),
-                      "achievement_games_refreshed":
-                          refreshed,
-                      "achievement_games_skipped":
-                          skipped,
-                      "new_games":
-                          len(new_games)
-                  },
-                  ensure_ascii=False,
-                  indent=2
-              ),
-              encoding="utf-8"
-          )
-
-          # -------------------------
-          # 10. 输出 CSV
-          # -------------------------
-
-          with (
-              ROOT / "library.csv"
-          ).open(
-              "w",
-              newline="",
-              encoding="utf-8-sig"
-          ) as file:
-
-              fields = [
-                  "appid",
-                  "name",
-                  "playtime_hours",
-                  "last_played_utc",
-                  "recent"
-              ]
-
-              writer = csv.DictWriter(
-                  file,
-                  fieldnames=fields
-              )
-
+          with (ROOT / "library.csv").open("w", newline="", encoding="utf-8-sig") as file:
+              fields = ["appid", "name", "playtime_hours", "last_played_utc", "recent"]
+              writer = csv.DictWriter(file, fieldnames=fields)
               writer.writeheader()
-
               for game in library:
+                  writer.writerow({field: game.get(field) for field in fields})
 
-                  writer.writerow(
-                      {
-                          field:
-                              game.get(field)
-                          for field in fields
-                      }
-                  )
-
-          with (
-              ROOT
-              /
-              "achievement-summary.csv"
-          ).open(
-              "w",
-              newline="",
-              encoding="utf-8-sig"
-          ) as file:
-
-              fields = [
-                  "appid",
-                  "name",
-                  "playtime_hours",
-                  "last_played_utc",
-                  "achievements_unlocked",
-                  "achievements_total",
-                  "achievement_percent"
-              ]
-
-              writer = csv.DictWriter(
-                  file,
-                  fieldnames=fields
-              )
-
+          with (ROOT / "achievement-summary.csv").open("w", newline="", encoding="utf-8-sig") as file:
+              fields = ["appid", "name", "playtime_hours", "last_played_utc", "achievements_unlocked", "achievements_total", "achievement_percent"]
+              writer = csv.DictWriter(file, fieldnames=fields)
               writer.writeheader()
-
               for game in achievement_summary:
+                  writer.writerow({field: game.get(field) for field in fields})
 
-                  writer.writerow(
-                      {
-                          field:
-                              game.get(field)
-                          for field in fields
-                      }
-                  )
-
-          print(
-              "Owned games:",
-              len(library)
-          )
-
-          print(
-              "Ownership index:",
-              len(owned_appids)
-          )
-
-          print(
-              "Recent games:",
-              len(recent_games)
-          )
-
-          print(
-              "Achievement games refreshed:",
-              refreshed
-          )
-
-          print(
-              "Achievement games skipped:",
-              skipped
-          )
-
-          print(
-              "New games:",
-              len(new_games)
-          )
-
+          print("Owned games:", len(library))
+          print("Ownership index:", len(owned_appids))
+          print("Recent games:", len(recent_games))
+          print("Achievement games refreshed:", refreshed)
+          print("Achievement games skipped:", skipped)
+          print("New games:", len(new_games))
           PY
 
           python3 /tmp/steam_sync.py
@@ -733,9 +183,7 @@ jobs:
         run: |
           git config user.name "steam-data-bot"
           git config user.email "steam-data-bot@users.noreply.github.com"
-
           git add data/
-
           if git diff --cached --quiet; then
             echo "No Steam data changes."
           else
