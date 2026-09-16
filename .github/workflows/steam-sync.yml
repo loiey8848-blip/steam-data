@@ -28,10 +28,7 @@ jobs:
 
         run: |
           cat > /tmp/steam_sync.py <<'PY'
-          import csv
-          import json
-          import os
-          import time
+          import csv, json, os, time
           from datetime import datetime, timezone
           from pathlib import Path
           from urllib.parse import urlencode
@@ -40,10 +37,8 @@ jobs:
 
           KEY = os.environ["STEAM_API_KEY"]
           STEAM_ID = os.environ["STEAM_ID"]
-
           ROOT = Path("data")
           ACH_DIR = ROOT / "achievements"
-
           ROOT.mkdir(exist_ok=True)
           ACH_DIR.mkdir(exist_ok=True)
 
@@ -51,9 +46,7 @@ jobs:
               return datetime.now(timezone.utc).isoformat()
 
           def unix_iso(ts):
-              if not ts:
-                  return None
-              return datetime.fromtimestamp(int(ts), timezone.utc).isoformat()
+              return datetime.fromtimestamp(int(ts), timezone.utc).isoformat() if ts else None
 
           def steam_api(path, params, retries=3):
               url = "https://api.steampowered.com/" + path + "?" + urlencode(params)
@@ -76,6 +69,24 @@ jobs:
           recent_games = recent_response.get("response", {}).get("games", [])
           recent_ids = {int(game["appid"]) for game in recent_games}
 
+          wishlist_games = []
+          try:
+              wishlist_response = steam_api("IWishlistService/GetWishlist/v1/", {"key": KEY, "steamid": STEAM_ID, "format": "json"})
+              raw_wishlist = wishlist_response.get("response", {}).get("items", [])
+              for item in raw_wishlist:
+                  appid = int(item.get("appid", 0) or 0)
+                  if not appid:
+                      continue
+                  wishlist_games.append({
+                      "appid": appid,
+                      "priority": item.get("priority"),
+                      "date_added_unix": int(item.get("date_added", 0) or 0),
+                      "date_added_utc": unix_iso(item.get("date_added", 0))
+                  })
+              wishlist_games.sort(key=lambda x: (x.get("priority") if x.get("priority") is not None else 999999, -x.get("date_added_unix", 0)))
+          except Exception as error:
+              print("Wishlist sync skipped:", error)
+
           old_library_path = ROOT / "library.json"
           old_games = {}
           if old_library_path.exists():
@@ -94,21 +105,16 @@ jobs:
               item = {"appid": appid, "name": game.get("name", ""), "playtime_minutes": playtime, "playtime_hours": round(playtime / 60, 1), "last_played_unix": last_played, "last_played_utc": unix_iso(last_played), "recent": appid in recent_ids}
               library.append(item)
               previous = old_games.get(appid)
-              if playtime > 0:
-                  if previous is None or int(previous.get("playtime_minutes", -1)) != playtime or int(previous.get("last_played_unix", -1)) != last_played:
-                      changed_games.add(appid)
+              if playtime > 0 and (previous is None or int(previous.get("playtime_minutes", -1)) != playtime or int(previous.get("last_played_unix", -1)) != last_played):
+                  changed_games.add(appid)
 
           achievement_targets = recent_ids | changed_games
           for game in library:
-              if game["playtime_minutes"] <= 0:
-                  continue
-              achievement_file = ACH_DIR / f"{game['appid']}.json"
-              if not achievement_file.exists():
+              if game["playtime_minutes"] > 0 and not (ACH_DIR / f"{game['appid']}.json").exists():
                   achievement_targets.add(game["appid"])
 
           game_by_id = {game["appid"]: game for game in library}
-          refreshed = 0
-          skipped = 0
+          refreshed = skipped = 0
           for index, appid in enumerate(sorted(achievement_targets)):
               try:
                   achievement_response = steam_api("ISteamUserStats/GetPlayerAchievements/v1/", {"key": KEY, "steamid": STEAM_ID, "appid": appid, "l": "english", "format": "json"}, retries=2)
@@ -116,7 +122,7 @@ jobs:
                   achievements = stats.get("achievements")
                   if stats.get("success") is True and isinstance(achievements, list):
                       unlocked = sum(1 for achievement in achievements if achievement.get("achieved") == 1)
-                      result = {"steamid": STEAM_ID, "appid": appid, "game": stats.get("gameName") or game_by_id.get(appid, {}).get("name", ""), "total": len(achievements), "unlocked": unlocked, "percent": round((unlocked / len(achievements) * 100), 1) if achievements else 0, "updated_at_utc": now_iso(), "achievements": achievements}
+                      result = {"steamid": STEAM_ID, "appid": appid, "game": stats.get("gameName") or game_by_id.get(appid, {}).get("name", ""), "total": len(achievements), "unlocked": unlocked, "percent": round(unlocked / len(achievements) * 100, 1) if achievements else 0, "updated_at_utc": now_iso(), "achievements": achievements}
                       (ACH_DIR / f"{appid}.json").write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
                       refreshed += 1
                   else:
@@ -144,16 +150,16 @@ jobs:
           old_appids = set(old_games.keys())
           new_games = [game for game in library if game["appid"] not in old_appids]
           updated = now_iso()
-          library_payload = {"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "new_games": new_games, "games": library}
-          old_library_path.write_text(json.dumps(library_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+          old_library_path.write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "new_games": new_games, "games": library}, ensure_ascii=False, indent=2), encoding="utf-8")
 
           owned_appids = sorted(game["appid"] for game in library)
           owned_games_index = {str(game["appid"]): game["name"] for game in sorted(library, key=lambda x: x["appid"])}
           (ROOT / "owned-appids.json").write_text(json.dumps(owned_appids, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
           (ROOT / "owned-games-index.json").write_text(json.dumps(owned_games_index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
           (ROOT / "recent.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "games": recent_games}, ensure_ascii=False, indent=2), encoding="utf-8")
+          (ROOT / "wishlist.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "wishlist_count": len(wishlist_games), "games": wishlist_games}, ensure_ascii=False, indent=2), encoding="utf-8")
           (ROOT / "achievement-summary.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "games": achievement_summary}, ensure_ascii=False, indent=2), encoding="utf-8")
-          (ROOT / "status.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "recent_games": len(recent_games), "achievement_games_refreshed": refreshed, "achievement_games_skipped": skipped, "new_games": len(new_games)}, ensure_ascii=False, indent=2), encoding="utf-8")
+          (ROOT / "status.json").write_text(json.dumps({"steamid": STEAM_ID, "updated_at_utc": updated, "owned_games": len(library), "wishlist_games": len(wishlist_games), "recent_games": len(recent_games), "achievement_games_refreshed": refreshed, "achievement_games_skipped": skipped, "new_games": len(new_games)}, ensure_ascii=False, indent=2), encoding="utf-8")
 
           with (ROOT / "library.csv").open("w", newline="", encoding="utf-8-sig") as file:
               fields = ["appid", "name", "playtime_hours", "last_played_utc", "recent"]
@@ -170,6 +176,7 @@ jobs:
                   writer.writerow({field: game.get(field) for field in fields})
 
           print("Owned games:", len(library))
+          print("Wishlist games:", len(wishlist_games))
           print("Ownership index:", len(owned_appids))
           print("Recent games:", len(recent_games))
           print("Achievement games refreshed:", refreshed)
@@ -187,6 +194,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No Steam data changes."
           else
-            git commit -m "Update Steam library and achievements"
+            git commit -m "Update Steam library, wishlist and achievements"
             git push
           fi
