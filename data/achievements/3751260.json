@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 8,
-  "percent": 17.4,
-  "updated_at_utc": "2026-09-16T08:14:38.337254+00:00",
+  "unlocked": 9,
+  "percent": 19.6,
+  "updated_at_utc": "2026-09-16T10:14:37.271856+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_Stunning_Views",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789547481,
       "name": "Bird's-Eye View",
       "description": "Climb all the towers and scout the surrounding areas."
     },
