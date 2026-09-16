@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 9,
-  "percent": 19.6,
-  "updated_at_utc": "2026-09-16T16:14:57.689992+00:00",
+  "unlocked": 12,
+  "percent": 26.1,
+  "updated_at_utc": "2026-09-16T18:15:58.077668+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "ACH_All_for_Me",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789575733,
       "name": "Absolutely Insatiable",
       "description": "Have 3 Passive Abilities equipped at the same time."
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "ACH_Miser",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789576848,
       "name": "Miser",
       "description": "Accumulate 5000 denarii. What are you planning to buy, mate?"
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "ACH_The_Outcast",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789578377,
       "name": "The Outcast",
       "description": ""
     },

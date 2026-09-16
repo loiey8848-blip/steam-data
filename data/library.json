@@ -1,18 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-16T16:15:06.563835+00:00",
+  "updated_at_utc": "2026-09-16T18:16:06.990058+00:00",
   "owned_games": 1415,
-  "new_games": [
-    {
-      "appid": 2572040,
-      "name": "Woodo",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -10160,10 +10150,10 @@
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_minutes": 749,
-      "playtime_hours": 12.5,
-      "last_played_unix": 1789573992,
-      "last_played_utc": "2026-09-16T15:53:12+00:00",
+      "playtime_minutes": 862,
+      "playtime_hours": 14.4,
+      "last_played_unix": 1789580765,
+      "last_played_utc": "2026-09-16T17:46:05+00:00",
       "recent": true
     },
     {
