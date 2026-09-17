@@ -3,9 +3,9 @@
   "appid": 2572040,
   "game": "Woodo",
   "total": 24,
-  "unlocked": 5,
-  "percent": 20.8,
-  "updated_at_utc": "2026-09-17T14:14:47.794475+00:00",
+  "unlocked": 6,
+  "percent": 25.0,
+  "updated_at_utc": "2026-09-17T16:14:27.760105+00:00",
   "achievements": [
     {
       "apiname": "ACH_AFTER_CHEST",
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "ACH_PLACE_PIECES_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789660475,
       "name": "Little by Little",
       "description": "Place 500 pieces"
     },
