@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-17T10:14:11.530975+00:00",
+  "updated_at_utc": "2026-09-17T12:17:29.962786+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -27,7 +27,7 @@
     {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 1929,
+      "playtime_2weeks": 1880,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
@@ -108,6 +108,17 @@
       "playtime_forever": 128,
       "img_icon_url": "d81f04ab67d598bcf786925d7c9295dac67d070f",
       "playtime_windows_forever": 128,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2572040,
+      "name": "Woodo",
+      "playtime_2weeks": 46,
+      "playtime_forever": 46,
+      "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
+      "playtime_windows_forever": 46,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
