@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 11,
-  "percent": 28.9,
-  "updated_at_utc": "2026-09-17T04:14:24.888548+00:00",
+  "unlocked": 12,
+  "percent": 31.6,
+  "updated_at_utc": "2026-09-17T06:17:52.370284+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ACH_STORAGE_EXPANSION_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789621958,
       "name": "Storage Jutsu!",
       "description": "Purchase your first storage expansion"
     },
