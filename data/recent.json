@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-17T00:17:28.455513+00:00",
+  "updated_at_utc": "2026-09-17T02:14:41.486993+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -27,7 +27,7 @@
     {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 2096,
+      "playtime_2weeks": 2058,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2350790,
-      "name": "Moonlighter 2: The Endless Vault",
-      "playtime_2weeks": 112,
-      "playtime_forever": 128,
-      "img_icon_url": "d81f04ab67d598bcf786925d7c9295dac67d070f",
-      "playtime_windows_forever": 128,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
       "playtime_forever": 90,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 90,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2350790,
+      "name": "Moonlighter 2: The Endless Vault",
+      "playtime_2weeks": 55,
+      "playtime_forever": 128,
+      "img_icon_url": "d81f04ab67d598bcf786925d7c9295dac67d070f",
+      "playtime_windows_forever": 128,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
