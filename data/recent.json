@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-17T12:17:29.962786+00:00",
+  "updated_at_utc": "2026-09-17T14:15:23.755772+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -58,6 +58,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3393280,
+      "name": "Anime Shop Simulator ✨",
+      "playtime_2weeks": 402,
+      "playtime_forever": 402,
+      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
+      "playtime_windows_forever": 402,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1923680,
       "name": "Mega Mall Story",
       "playtime_2weeks": 331,
@@ -75,17 +86,6 @@
       "playtime_forever": 316,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3393280,
-      "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 312,
-      "playtime_forever": 312,
-      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 312,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
