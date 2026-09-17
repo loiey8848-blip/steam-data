@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-09-17T16:15:02.895317+00:00",
-  "count": 3,
+  "updated_at_utc": "2026-09-17T18:16:48.655386+00:00",
+  "count": 4,
   "games": [
+    {
+      "appid": 996770,
+      "priority": 0,
+      "date_added_unix": 1788168287,
+      "date_added_utc": "2026-08-31T09:24:47+00:00",
+      "steam_url": "https://store.steampowered.com/app/996770/",
+      "name": "Moving Out",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 98.0,
+      "price_final_cny": 9.8,
+      "discount_percent": 90
+    },
     {
       "appid": 2757350,
       "priority": 0,
