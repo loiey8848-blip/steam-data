@@ -3,9 +3,9 @@
   "appid": 2572040,
   "game": "Woodo",
   "total": 24,
-  "unlocked": 6,
-  "percent": 25.0,
-  "updated_at_utc": "2026-09-17T16:14:27.760105+00:00",
+  "unlocked": 15,
+  "percent": 62.5,
+  "updated_at_utc": "2026-09-17T18:16:11.560874+00:00",
   "achievements": [
     {
       "apiname": "ACH_AFTER_CHEST",
@@ -30,43 +30,43 @@
     },
     {
       "apiname": "ACH_AFTER_BEN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789662038,
       "name": "Busy Paws",
       "description": "Some things take time"
     },
     {
       "apiname": "ACH_AFTER_FIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789662592,
       "name": "A Change of Heart",
       "description": "Halfway there, Foxy!"
     },
     {
       "apiname": "ACH_AFTER_LAKE_NIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789666651,
       "name": "Under the Stars",
       "description": "Embraced by the night"
     },
     {
       "apiname": "ACH_TAKE_LAST_BACKPACK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789668669,
       "name": "A Quiet Night",
       "description": "One last piece"
     },
     {
       "apiname": "ACH_AFTER_STARS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789668812,
       "name": "Whisper of Wind",
       "description": "Now it's yours to remember"
     },
     {
       "apiname": "ACH_READ_EVERY_STORY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789668861,
       "name": "Village Tales",
       "description": "Read every Storybook entry"
     },
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ACH_PLACE_PIECES_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789664009,
       "name": "More and More",
       "description": "Place 1000 pieces"
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "ACH_UNPACK_IT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789663203,
       "name": "Unpack It",
       "description": "It all started with a box"
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_HANDS_ON_DECK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789664887,
       "name": "Hands On Deck!",
       "description": "Let the fish and the caterpillar kiss"
     },
