@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-18T06:17:12.943567+00:00",
+  "updated_at_utc": "2026-09-18T08:14:57.544928+00:00",
   "games": [
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 3141,
+      "playtime_2weeks": 3140,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4538140,
+      "name": "Rehaunted",
+      "playtime_2weeks": 236,
+      "playtime_forever": 236,
+      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
+      "playtime_windows_forever": 236,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2572040,
       "name": "Woodo",
       "playtime_2weeks": 224,
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4538140,
-      "name": "Rehaunted",
-      "playtime_2weeks": 116,
-      "playtime_forever": 116,
-      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
-      "playtime_windows_forever": 116,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

@@ -3,9 +3,9 @@
   "appid": 4538140,
   "game": "Rehaunted",
   "total": 22,
-  "unlocked": 8,
-  "percent": 36.4,
-  "updated_at_utc": "2026-09-18T06:17:06.533599+00:00",
+  "unlocked": 21,
+  "percent": 95.5,
+  "updated_at_utc": "2026-09-18T08:14:51.242195+00:00",
   "achievements": [
     {
       "apiname": "Blood on the Table",
@@ -16,36 +16,36 @@
     },
     {
       "apiname": "A Fresh Shave",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789715266,
       "name": "A Fresh Shave",
       "description": ""
     },
     {
       "apiname": "Till Death Do Us Part",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789715970,
       "name": "Till Death Do Us Part",
       "description": ""
     },
     {
       "apiname": "Two Lines",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789712540,
       "name": "Two Lines",
       "description": ""
     },
     {
       "apiname": "Prescription for Sorrow",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789712358,
       "name": "Prescription for Sorrow",
       "description": ""
     },
     {
       "apiname": "Love Withered",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789712358,
       "name": "Love Withered",
       "description": ""
     },
@@ -79,15 +79,15 @@
     },
     {
       "apiname": "The Usual Order",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789718301,
       "name": "The Usual Order",
       "description": "Call the pizzeria."
     },
     {
       "apiname": "Say It With Flowers",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789713735,
       "name": "Say It With Flowers",
       "description": "Call the flower shop."
     },
@@ -100,36 +100,36 @@
     },
     {
       "apiname": "Off the Books",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789716696,
       "name": "Off the Books",
       "description": "Call the renovation contractor."
     },
     {
       "apiname": "Behind the Wallpaper",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789716750,
       "name": "Behind the Wallpaper",
       "description": ""
     },
     {
       "apiname": "Unknown Caller",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789716801,
       "name": "Unknown Caller",
       "description": ""
     },
     {
       "apiname": "Restricted Access",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789715805,
       "name": "Restricted Access",
       "description": "Gain access to the CIA laptop."
     },
     {
       "apiname": "Murdered",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789717522,
       "name": "Murdered",
       "description": "Conclude that the victim was killed."
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "Rehaunted",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789717857,
       "name": "Rehaunted",
       "description": "Discover the truth behind everything."
     },
