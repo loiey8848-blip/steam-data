@@ -1,18 +1,7 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-18T08:14:57.544928+00:00",
+  "updated_at_utc": "2026-09-18T10:14:24.300792+00:00",
   "games": [
-    {
-      "appid": 2638890,
-      "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 3140,
-      "playtime_forever": 3262,
-      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
-      "playtime_windows_forever": 3262,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
     {
       "appid": 4243990,
       "name": "Path of Idle: Old Gods Rising",
@@ -20,6 +9,17 @@
       "playtime_forever": 3106,
       "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
       "playtime_windows_forever": 3106,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword",
+      "playtime_2weeks": 3020,
+      "playtime_forever": 3262,
+      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
+      "playtime_windows_forever": 3262,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -80,23 +80,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4538140,
+      "name": "Rehaunted",
+      "playtime_2weeks": 253,
+      "playtime_forever": 253,
+      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
+      "playtime_windows_forever": 253,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1923680,
       "name": "Mega Mall Story",
       "playtime_2weeks": 245,
       "playtime_forever": 422,
       "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
       "playtime_windows_forever": 422,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4538140,
-      "name": "Rehaunted",
-      "playtime_2weeks": 236,
-      "playtime_forever": 236,
-      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
-      "playtime_windows_forever": 236,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

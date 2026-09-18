@@ -3,9 +3,9 @@
   "appid": 4538140,
   "game": "Rehaunted",
   "total": 22,
-  "unlocked": 21,
-  "percent": 95.5,
-  "updated_at_utc": "2026-09-18T08:14:51.242195+00:00",
+  "unlocked": 22,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-18T10:14:18.048636+00:00",
   "achievements": [
     {
       "apiname": "Blood on the Table",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "By Her Own Hand",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789719855,
       "name": "By Her Own Hand",
       "description": "Conclude that the victim took her own life."
     },
