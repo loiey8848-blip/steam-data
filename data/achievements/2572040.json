@@ -3,9 +3,9 @@
   "appid": 2572040,
   "game": "Woodo",
   "total": 24,
-  "unlocked": 15,
-  "percent": 62.5,
-  "updated_at_utc": "2026-09-18T00:17:29.869325+00:00",
+  "unlocked": 24,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-18T02:14:33.365713+00:00",
   "achievements": [
     {
       "apiname": "ACH_AFTER_CHEST",
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "ACH_REPLAY_ANY_LEVEL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789696435,
       "name": "We'll Meet Again",
       "description": "Replay any level"
     },
@@ -114,29 +114,29 @@
     },
     {
       "apiname": "ACH_PET_CHARACTERS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789695935,
       "name": "So Squishy",
       "description": "Pet characters"
     },
     {
       "apiname": "ACH_LIGHT_IT_UP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789695875,
       "name": "Light It Up",
       "description": "Turn on every light in the dusty den"
     },
     {
       "apiname": "ACH_WALKIE_TALKIE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789696066,
       "name": "Walkie-Talkie",
       "description": "Listen to all radio messages"
     },
     {
       "apiname": "ACH_FIND_MONKS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789696413,
       "name": "Tiny Monks",
       "description": "Find all the hidden monks"
     },
@@ -149,29 +149,29 @@
     },
     {
       "apiname": "ACH_PHOTO_STRAW",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789695823,
       "name": "An Old Habit",
       "description": "Take a photo of Ben's beloved straw, but in nature."
     },
     {
       "apiname": "ACH_PHOTO_BEE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789696155,
       "name": "Busy Bumblebee",
       "description": "Take a photo of a bumblebee"
     },
     {
       "apiname": "ACH_PHOTO_FIREPLACE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789695822,
       "name": "Fireside",
       "description": "Take a photo of Ben and Foxy by the fire"
     },
     {
       "apiname": "ACH_PHOTO_CAPTAIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789696207,
       "name": "Aye Aye, Captain!",
       "description": "Take a photo of the yellow captain"
     }
