@@ -3,14 +3,14 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 13,
-  "percent": 34.2,
-  "updated_at_utc": "2026-09-18T02:14:59.016022+00:00",
+  "unlocked": 17,
+  "percent": 44.7,
+  "updated_at_utc": "2026-09-18T04:14:22.038472+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789700552,
       "name": "Beginner's Luck",
       "description": "Complete the Common League"
     },
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "ACH_CATCH_THIEVES_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789702556,
       "name": "Attack on Thieves",
       "description": "Catch 5 thieves"
     },
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ACH_COLLECT_UNIQUE_CARDS_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789698020,
       "name": "Card Collector Arc",
       "description": "Collect 100 unique cards"
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_HANDLE_AGE_CHECK_CORRECTLY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789701053,
       "name": "Shelf Guardian",
       "description": "Correctly verify a customer's age"
     },

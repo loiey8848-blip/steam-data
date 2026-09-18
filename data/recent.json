@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-18T02:15:08.138775+00:00",
+  "updated_at_utc": "2026-09-18T04:14:31.504068+00:00",
   "games": [
     {
       "appid": 2638890,
@@ -27,7 +27,7 @@
     {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 1721,
+      "playtime_2weeks": 1710,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
@@ -60,21 +60,10 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 464,
-      "playtime_forever": 464,
+      "playtime_2weeks": 583,
+      "playtime_forever": 583,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 464,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1923680,
-      "name": "Mega Mall Story",
-      "playtime_2weeks": 331,
-      "playtime_forever": 422,
-      "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
-      "playtime_windows_forever": 422,
+      "playtime_windows_forever": 583,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -86,6 +75,17 @@
       "playtime_forever": 316,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 316,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1923680,
+      "name": "Mega Mall Story",
+      "playtime_2weeks": 245,
+      "playtime_forever": 422,
+      "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
+      "playtime_windows_forever": 422,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

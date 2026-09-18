@@ -1,8 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-18T02:15:08.138775+00:00",
-  "owned_games": 1415,
-  "new_games": [],
+  "updated_at_utc": "2026-09-18T04:14:31.504068+00:00",
+  "owned_games": 1416,
+  "new_games": [
+    {
+      "appid": 4538140,
+      "name": "Rehaunted",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -466,10 +476,10 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_minutes": 464,
-      "playtime_hours": 7.7,
-      "last_played_unix": 1789696488,
-      "last_played_utc": "2026-09-18T01:54:48+00:00",
+      "playtime_minutes": 583,
+      "playtime_hours": 9.7,
+      "last_played_unix": 1789703641,
+      "last_played_utc": "2026-09-18T03:54:01+00:00",
       "recent": true
     },
     {
@@ -8206,6 +8216,15 @@
     {
       "appid": 680360,
       "name": "Regions Of Ruin",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4538140,
+      "name": "Rehaunted",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
