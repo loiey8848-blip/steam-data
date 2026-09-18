@@ -1,18 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-18T04:14:31.504068+00:00",
+  "updated_at_utc": "2026-09-18T06:17:12.943567+00:00",
   "owned_games": 1416,
-  "new_games": [
-    {
-      "appid": 4538140,
-      "name": "Rehaunted",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -8225,11 +8215,11 @@
     {
       "appid": 4538140,
       "name": "Rehaunted",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 116,
+      "playtime_hours": 1.9,
+      "last_played_unix": 1789711639,
+      "last_played_utc": "2026-09-18T06:07:19+00:00",
+      "recent": true
     },
     {
       "appid": 2064610,
