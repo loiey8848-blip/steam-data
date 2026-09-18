@@ -1,0 +1,298 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4990390,
+  "game": "Toll: The Ferryman's Ledger",
+  "total": 41,
+  "unlocked": 5,
+  "percent": 12.2,
+  "updated_at_utc": "2026-09-18T18:15:26.281327+00:00",
+  "achievements": [
+    {
+      "apiname": "REACH_ACHERON",
+      "achieved": 1,
+      "unlocktime": 1789754078,
+      "name": "The Mourning River",
+      "description": "Ferry the dead to the Acheron."
+    },
+    {
+      "apiname": "REACH_LETHE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waters of Oblivion",
+      "description": "Reach the Lethe, where the dead forget."
+    },
+    {
+      "apiname": "REACH_PHLEGETHON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The River of Fire",
+      "description": "Reach the burning Phlegethon."
+    },
+    {
+      "apiname": "REACH_COCYTUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The River of Wailing",
+      "description": "Reach the last river, the Cocytus."
+    },
+    {
+      "apiname": "FIRST_TRIBUTE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Tribute",
+      "description": "Pay your first tribute to Hades."
+    },
+    {
+      "apiname": "FIVE_TRIBUTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Long Servitude",
+      "description": "Pay tribute to Hades five times."
+    },
+    {
+      "apiname": "THE_RANSOM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Coin of My Own",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_CYCLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Empty Boat",
+      "description": ""
+    },
+    {
+      "apiname": "CARPAL_TUNNEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Repetitive Strain Injury",
+      "description": "Usher 1,000 souls aboard by hand."
+    },
+    {
+      "apiname": "SKILL_ISSUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skill Issue",
+      "description": "Let 20 souls slip away in a single run."
+    },
+    {
+      "apiname": "NUMBER_GO_UP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Number Go Up",
+      "description": "Bank 500,000 obols in a single run."
+    },
+    {
+      "apiname": "WHOM_AMONG_US",
+      "achieved": 1,
+      "unlocktime": 1789753575,
+      "name": "Whom Among Us",
+      "description": "Overhear a soul's dying regret."
+    },
+    {
+      "apiname": "TOUCH_GRASS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Touch Grass",
+      "description": "Return to the ferry after a full day away."
+    },
+    {
+      "apiname": "BUILT_DIFFERENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Built Different",
+      "description": "Max out every upgrade in the Charon branch."
+    },
+    {
+      "apiname": "SARDINE_CLASS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sardine Class",
+      "description": "Ferry 2,000 souls in a single run."
+    },
+    {
+      "apiname": "IT_CROWD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Have You Tried Turning It Off And On Again",
+      "description": "Let the hull burn down to nothing on the Phlegethon."
+    },
+    {
+      "apiname": "STANDING_ROOM",
+      "achieved": 1,
+      "unlocktime": 1789753964,
+      "name": "Standing Room Only",
+      "description": "Ferry 300 souls in a single run."
+    },
+    {
+      "apiname": "CARGO_HOLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cargo Hold",
+      "description": "Ferry 5,000 souls in a single run."
+    },
+    {
+      "apiname": "PETTY_CASH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Petty Cash",
+      "description": "Bank 100,000 obols in a single run."
+    },
+    {
+      "apiname": "HOARD_OF_THE_DEAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoard of the Dead",
+      "description": "Bank 1,000,000 obols in a single run."
+    },
+    {
+      "apiname": "FIRST_FORTUNE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Fortune",
+      "description": "Earn 50,000 obols in total, across every run."
+    },
+    {
+      "apiname": "DEEP_POCKETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep Pockets",
+      "description": "Earn 500,000 obols in total, across every run."
+    },
+    {
+      "apiname": "THE_RIVER_BANK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The River Bank",
+      "description": "Earn 2,000,000 obols in total, across every run."
+    },
+    {
+      "apiname": "BLISTERED_HANDS",
+      "achieved": 1,
+      "unlocktime": 1789753898,
+      "name": "Blistered Hands",
+      "description": "Usher 250 souls aboard by hand."
+    },
+    {
+      "apiname": "THE_CALLUSED_FERRYMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Callused Ferryman",
+      "description": "Usher 5,000 souls aboard by hand in one sitting."
+    },
+    {
+      "apiname": "AGAINST_THE_CURRENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Against the Current",
+      "description": "Carry a soul back against the current, once."
+    },
+    {
+      "apiname": "FERRYMAN_OF_THE_LIVING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ferryman of the Living",
+      "description": "Carry ten souls back against the current."
+    },
+    {
+      "apiname": "BOTH_WAYS_TOLL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Both Ways Toll",
+      "description": "Carry twenty souls back against the current."
+    },
+    {
+      "apiname": "MARKED_ONCE",
+      "achieved": 1,
+      "unlocktime": 1789753593,
+      "name": "Marked Once",
+      "description": "Take a curse from a marked soul, once."
+    },
+    {
+      "apiname": "OLD_HAND_AT_CURSES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Old Hand at Curses",
+      "description": "Take twenty-five curses from marked souls."
+    },
+    {
+      "apiname": "HAUNTED_FERRYMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Haunted Ferryman",
+      "description": "Take a hundred curses from marked souls."
+    },
+    {
+      "apiname": "SMALL_TALK_WITH_GODS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Small Talk With Gods",
+      "description": "Answer five questions from the rivers' daimons."
+    },
+    {
+      "apiname": "CONFIDANT_OF_RIVERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Confidant of Rivers",
+      "description": "Answer twenty-five questions from the rivers' daimons."
+    },
+    {
+      "apiname": "THE_FERRYMAN_LISTENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ferryman Listens",
+      "description": "Answer a hundred questions from the rivers' daimons."
+    },
+    {
+      "apiname": "ONE_HOUR_ON_THE_RIVER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Hour on the River",
+      "description": "Spend an hour on the river."
+    },
+    {
+      "apiname": "TEN_HOURS_DEEP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Hours Deep",
+      "description": "Spend ten hours on the river."
+    },
+    {
+      "apiname": "A_LIFETIMES_WORK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Lifetime's Work",
+      "description": "Spend twenty hours on the river."
+    },
+    {
+      "apiname": "FIFTY_STORIES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fifty Stories",
+      "description": "Hear fifty of the dead's dying words."
+    },
+    {
+      "apiname": "A_HUNDRED_REGRETS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hundred Regrets",
+      "description": "Hear a hundred of the dead's dying words."
+    },
+    {
+      "apiname": "EVERY_LAST_WORD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every Last Word",
+      "description": "Hear every one of the dead's dying words."
+    },
+    {
+      "apiname": "FIFTEEN_TRIBUTES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hades Has Your Number",
+      "description": "Pay tribute to Hades fifteen times."
+    }
+  ]
+}
