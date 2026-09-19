@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-18T22:14:03.362998+00:00",
-  "count": 4,
+  "updated_at_utc": "2026-09-19T00:17:49.095601+00:00",
+  "count": 8,
   "games": [
     {
       "appid": 996770,
@@ -57,6 +57,62 @@
       "price_initial_cny": 33.0,
       "price_final_cny": 19.8,
       "discount_percent": 40
+    },
+    {
+      "appid": 3575790,
+      "priority": 0,
+      "date_added_unix": 1775538040,
+      "date_added_utc": "2026-04-07T05:00:40+00:00",
+      "steam_url": "https://store.steampowered.com/app/3575790/",
+      "name": "小花园",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 18.0,
+      "price_final_cny": 18.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 3630410,
+      "priority": 0,
+      "date_added_unix": 1774848079,
+      "date_added_utc": "2026-03-30T05:21:19+00:00",
+      "steam_url": "https://store.steampowered.com/app/3630410/",
+      "name": "小女巫幸存者",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 18.0,
+      "price_final_cny": 18.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 4291080,
+      "priority": 0,
+      "date_added_unix": 1774847880,
+      "date_added_utc": "2026-03-30T05:18:00+00:00",
+      "steam_url": "https://store.steampowered.com/app/4291080/",
+      "name": "关于鸶门市的一些传闻",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 18.0,
+      "price_final_cny": 18.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 1658290,
+      "priority": 0,
+      "date_added_unix": 1773623152,
+      "date_added_utc": "2026-03-16T01:05:52+00:00",
+      "steam_url": "https://store.steampowered.com/app/1658290/",
+      "name": "Eiyuden Chronicle: Rising 百英雄传：崛起",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 66.0,
+      "price_final_cny": 16.5,
+      "discount_percent": 75
     }
   ]
 }
