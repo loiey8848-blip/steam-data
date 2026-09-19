@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-19T16:14:06.407953+00:00",
+  "updated_at_utc": "2026-09-19T18:15:04.750573+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -16,7 +16,7 @@
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 1951,
+      "playtime_2weeks": 1829,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -124,23 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 142,
+      "playtime_forever": 142,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 142,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
       "playtime_forever": 90,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 90,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 60,
-      "playtime_forever": 60,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 60,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

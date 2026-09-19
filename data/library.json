@@ -1,36 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-19T16:14:06.407953+00:00",
+  "updated_at_utc": "2026-09-19T18:15:04.750573+00:00",
   "owned_games": 1421,
-  "new_games": [
-    {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_minutes": 60,
-      "playtime_hours": 1.0,
-      "last_played_unix": 1789833046,
-      "last_played_utc": "2026-09-19T15:50:46+00:00",
-      "recent": true
-    },
-    {
-      "appid": 5075680,
-      "name": "Graveyard Keeper 2 Demo",
-      "playtime_minutes": 11,
-      "playtime_hours": 0.2,
-      "last_played_unix": 1789828872,
-      "last_played_utc": "2026-09-19T14:41:12+00:00",
-      "recent": true
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -3194,10 +3166,10 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 60,
-      "playtime_hours": 1.0,
-      "last_played_unix": 1789833046,
-      "last_played_utc": "2026-09-19T15:50:46+00:00",
+      "playtime_minutes": 142,
+      "playtime_hours": 2.4,
+      "last_played_unix": 1789838000,
+      "last_played_utc": "2026-09-19T17:13:20+00:00",
       "recent": true
     },
     {

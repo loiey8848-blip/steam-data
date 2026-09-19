@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 1,
-  "percent": 1.0,
-  "updated_at_utc": "2026-09-19T16:13:24.177402+00:00",
+  "unlocked": 6,
+  "percent": 6.0,
+  "updated_at_utc": "2026-09-19T18:14:23.663104+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "WORLD_1_CASUAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789837952,
       "name": "Misty Forest Traveler",
       "description": "Clear the Misty Forest on Casual or higher."
     },
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "WORLD_1_NORMAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789837953,
       "name": "Misty Forest Explorer",
       "description": "Clear the Misty Forest on Normal or higher."
     },
@@ -303,15 +303,15 @@
     },
     {
       "apiname": "TALENT_LEARN_FIRST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789836686,
       "name": "First Step",
       "description": "Learn your first talent."
     },
     {
       "apiname": "TALENT_LEARN_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789836842,
       "name": "Fully Experienced",
       "description": "Learn every talent in the talent tree."
     },
@@ -429,8 +429,8 @@
     },
     {
       "apiname": "BUILD_TOWER_TYPE_LEVEL1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789834616,
       "name": "Tower Apprentice",
       "description": "Build 10 different types of towers."
     },
