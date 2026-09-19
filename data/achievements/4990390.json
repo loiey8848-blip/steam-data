@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 23,
-  "percent": 56.1,
-  "updated_at_utc": "2026-09-19T08:14:51.610669+00:00",
+  "unlocked": 26,
+  "percent": 63.4,
+  "updated_at_utc": "2026-09-19T10:13:34.249964+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "NUMBER_GO_UP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789812633,
       "name": "Number Go Up",
       "description": "Bank 500,000 obols in a single run."
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "AGAINST_THE_CURRENT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789812355,
       "name": "Against the Current",
       "description": "Carry a soul back against the current, once."
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "TEN_HOURS_DEEP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789811521,
       "name": "Ten Hours Deep",
       "description": "Spend ten hours on the river."
     },
