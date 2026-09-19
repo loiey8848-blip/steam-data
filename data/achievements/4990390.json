@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 17,
-  "percent": 41.5,
-  "updated_at_utc": "2026-09-19T02:14:02.119805+00:00",
+  "unlocked": 23,
+  "percent": 56.1,
+  "updated_at_utc": "2026-09-19T04:14:13.407323+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -51,15 +51,15 @@
     },
     {
       "apiname": "THE_RANSOM",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789785586,
       "name": "A Coin of My Own",
       "description": ""
     },
     {
       "apiname": "NEW_CYCLE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789785635,
       "name": "The Empty Boat",
       "description": ""
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "BUILT_DIFFERENT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789785420,
       "name": "Built Different",
       "description": "Max out every upgrade in the Charon branch."
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "CARGO_HOLD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789784700,
       "name": "Cargo Hold",
       "description": "Ferry 5,000 souls in a single run."
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "DEEP_POCKETS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789785530,
       "name": "Deep Pockets",
       "description": "Earn 500,000 obols in total, across every run."
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "CONFIDANT_OF_RIVERS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789784324,
       "name": "Confidant of Rivers",
       "description": "Answer twenty-five questions from the rivers' daimons."
     },
