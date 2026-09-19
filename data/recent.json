@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-19T00:17:49.095601+00:00",
+  "updated_at_utc": "2026-09-19T02:14:02.192399+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4990390,
+      "name": "Toll: The Ferryman's Ledger",
+      "playtime_2weeks": 76,
+      "playtime_forever": 76,
+      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
+      "playtime_windows_forever": 76,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
@@ -152,17 +163,6 @@
       "playtime_forever": 32,
       "img_icon_url": "55a14aaa3f5ef5367225f3099ce564462f15b171",
       "playtime_windows_forever": 32,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4990390,
-      "name": "Toll: The Ferryman's Ledger",
-      "playtime_2weeks": 16,
-      "playtime_forever": 16,
-      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
-      "playtime_windows_forever": 16,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

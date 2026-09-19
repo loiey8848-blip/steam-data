@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 5,
-  "percent": 12.2,
-  "updated_at_utc": "2026-09-19T00:17:49.023145+00:00",
+  "unlocked": 17,
+  "percent": 41.5,
+  "updated_at_utc": "2026-09-19T02:14:02.119805+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -16,29 +16,29 @@
     },
     {
       "apiname": "REACH_LETHE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789779963,
       "name": "Waters of Oblivion",
       "description": "Reach the Lethe, where the dead forget."
     },
     {
       "apiname": "REACH_PHLEGETHON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789781362,
       "name": "The River of Fire",
       "description": "Reach the burning Phlegethon."
     },
     {
       "apiname": "REACH_COCYTUS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789782643,
       "name": "The River of Wailing",
       "description": "Reach the last river, the Cocytus."
     },
     {
       "apiname": "FIRST_TRIBUTE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789779415,
       "name": "First Tribute",
       "description": "Pay your first tribute to Hades."
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "SKILL_ISSUE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789781575,
       "name": "Skill Issue",
       "description": "Let 20 souls slip away in a single run."
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "SARDINE_CLASS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789781316,
       "name": "Sardine Class",
       "description": "Ferry 2,000 souls in a single run."
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "PETTY_CASH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789783424,
       "name": "Petty Cash",
       "description": "Bank 100,000 obols in a single run."
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "FIRST_FORTUNE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789782840,
       "name": "First Fortune",
       "description": "Earn 50,000 obols in total, across every run."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "SMALL_TALK_WITH_GODS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789779060,
       "name": "Small Talk With Gods",
       "description": "Answer five questions from the rivers' daimons."
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "ONE_HOUR_ON_THE_RIVER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789778841,
       "name": "One Hour on the River",
       "description": "Spend an hour on the river."
     },
@@ -268,15 +268,15 @@
     },
     {
       "apiname": "FIFTY_STORIES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789779614,
       "name": "Fifty Stories",
       "description": "Hear fifty of the dead's dying words."
     },
     {
       "apiname": "A_HUNDRED_REGRETS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789783006,
       "name": "A Hundred Regrets",
       "description": "Hear a hundred of the dead's dying words."
     },
