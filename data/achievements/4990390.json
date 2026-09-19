@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 35,
-  "percent": 85.4,
-  "updated_at_utc": "2026-09-19T12:16:10.463782+00:00",
+  "unlocked": 40,
+  "percent": 97.6,
+  "updated_at_utc": "2026-09-19T14:13:37.065820+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "THE_CALLUSED_FERRYMAN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789825637,
       "name": "The Callused Ferryman",
       "description": "Usher 5,000 souls aboard by hand in one sitting."
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "BOTH_WAYS_TOLL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789824600,
       "name": "Both Ways Toll",
       "description": "Carry twenty souls back against the current."
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "HAUNTED_FERRYMAN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789822522,
       "name": "Haunted Ferryman",
       "description": "Take a hundred curses from marked souls."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "THE_FERRYMAN_LISTENS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789821511,
       "name": "The Ferryman Listens",
       "description": "Answer a hundred questions from the rivers' daimons."
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "A_LIFETIMES_WORK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789823020,
       "name": "A Lifetime's Work",
       "description": "Spend twenty hours on the river."
     },

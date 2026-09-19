@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-19T12:16:10.535338+00:00",
+  "updated_at_utc": "2026-09-19T14:13:37.109317+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -16,7 +16,7 @@
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 2188,
+      "playtime_2weeks": 2071,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -69,23 +69,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4990390,
+      "name": "Toll: The Ferryman's Ledger",
+      "playtime_2weeks": 377,
+      "playtime_forever": 377,
+      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
+      "playtime_windows_forever": 377,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2101390,
       "name": "Lost and Found Co.",
       "playtime_2weeks": 316,
       "playtime_forever": 316,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4990390,
-      "name": "Toll: The Ferryman's Ledger",
-      "playtime_2weeks": 268,
-      "playtime_forever": 268,
-      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
-      "playtime_windows_forever": 268,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
