@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 26,
-  "percent": 63.4,
-  "updated_at_utc": "2026-09-19T10:13:34.249964+00:00",
+  "unlocked": 35,
+  "percent": 85.4,
+  "updated_at_utc": "2026-09-19T12:16:10.463782+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "FIVE_TRIBUTES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789815463,
       "name": "The Long Servitude",
       "description": "Pay tribute to Hades five times."
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "CARPAL_TUNNEL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789814378,
       "name": "Repetitive Strain Injury",
       "description": "Usher 1,000 souls aboard by hand."
     },
@@ -114,8 +114,8 @@
     },
     {
       "apiname": "IT_CROWD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789815690,
       "name": "Have You Tried Turning It Off And On Again",
       "description": "Let the hull burn down to nothing on the Phlegethon."
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "HOARD_OF_THE_DEAD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789815453,
       "name": "Hoard of the Dead",
       "description": "Bank 1,000,000 obols in a single run."
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "THE_RIVER_BANK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789814966,
       "name": "The River Bank",
       "description": "Earn 2,000,000 obols in total, across every run."
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "FERRYMAN_OF_THE_LIVING",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789815088,
       "name": "Ferryman of the Living",
       "description": "Carry ten souls back against the current."
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "OLD_HAND_AT_CURSES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789814075,
       "name": "Old Hand at Curses",
       "description": "Take twenty-five curses from marked souls."
     },
@@ -282,15 +282,15 @@
     },
     {
       "apiname": "EVERY_LAST_WORD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789820091,
       "name": "Every Last Word",
       "description": "Hear every one of the dead's dying words."
     },
     {
       "apiname": "FIFTEEN_TRIBUTES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789818761,
       "name": "Hades Has Your Number",
       "description": "Pay tribute to Hades fifteen times."
     }
