@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-19T14:13:37.109317+00:00",
+  "updated_at_utc": "2026-09-19T16:14:06.407953+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -16,7 +16,7 @@
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 2071,
+      "playtime_2weeks": 1951,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 60,
+      "playtime_forever": 60,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 60,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1918540,
       "name": "The Ramen Sensei",
       "playtime_2weeks": 29,
@@ -163,6 +174,17 @@
       "playtime_forever": 32,
       "img_icon_url": "55a14aaa3f5ef5367225f3099ce564462f15b171",
       "playtime_windows_forever": 32,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5075680,
+      "name": "Graveyard Keeper 2 Demo",
+      "playtime_2weeks": 11,
+      "playtime_forever": 11,
+      "img_icon_url": "eae1a00961c88ddc9a486fec0eaa8c88b6aa75eb",
+      "playtime_windows_forever": 11,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
