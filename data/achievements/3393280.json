@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 25,
-  "percent": 65.8,
-  "updated_at_utc": "2026-09-20T12:16:00.418201+00:00",
+  "unlocked": 32,
+  "percent": 84.2,
+  "updated_at_utc": "2026-09-20T14:13:30.389046+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -65,22 +65,22 @@
     },
     {
       "apiname": "ACH_COLLECT_KEYCHAINS_160",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789909385,
       "name": "No Keychain No Life",
       "description": "Collect 160 unique  keychains"
     },
     {
       "apiname": "ACH_COLLECT_PINS_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789908261,
       "name": "Pin Collector Arc",
       "description": "Collect 50 unique pins"
     },
     {
       "apiname": "ACH_COLLECT_PINS_160",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789911136,
       "name": "The Pin Vault",
       "description": "Collect 160 unique  pins"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "ACH_OPEN_BOOSTERS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789907700,
       "name": "Just One More Boost...",
       "description": "Open 1,000 boosters"
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_OPEN_PINS_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789908387,
       "name": "Pin no Ko",
       "description": "Open 50 pins"
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "ACH_SHOP_EXPANSIONS_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789909750,
       "name": "Ultimate Store Form",
       "description": "Purchase all shop expansions"
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "ACH_SHOP_LEVEL_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789910252,
       "name": "A-Rank Shopkeeper",
       "description": "Reach shop level 50"
     },
