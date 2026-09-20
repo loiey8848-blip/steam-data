@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 13,
-  "percent": 28.3,
-  "updated_at_utc": "2026-09-20T02:13:54.895012+00:00",
+  "unlocked": 15,
+  "percent": 32.6,
+  "updated_at_utc": "2026-09-20T04:14:09.648280+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_Delivery_Delay",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789872605,
       "name": "Delivery Delay",
       "description": "Destroy 8 vrakhiri transports."
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ACH_Practice_Makes_Perfect",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789873210,
       "name": "Mastery",
       "description": "Level up one Swordmastery, Witchcraft, or Vampiric Ability to its full potential."
     },
