@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 37,
-  "percent": 97.4,
-  "updated_at_utc": "2026-09-20T16:14:11.334533+00:00",
+  "unlocked": 38,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-20T18:14:55.747544+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "ACH_TCG_LEAGUE_DIAMOND",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789921240,
       "name": "I am the Champion",
       "description": "Complete the Diamond League"
     },

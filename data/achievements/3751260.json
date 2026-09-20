@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 15,
-  "percent": 32.6,
-  "updated_at_utc": "2026-09-20T16:14:11.723653+00:00",
+  "unlocked": 18,
+  "percent": 39.1,
+  "updated_at_utc": "2026-09-20T18:14:56.219262+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "ACH_The_Right_Fist_of_the_Knyaz",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789926699,
       "name": "The Right Fist of the Knyaz",
       "description": ""
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_Overkill",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789925170,
       "name": "Better Safe than Sorry",
       "description": ""
     },
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "ACH_Where_am_I",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789926601,
       "name": "Realmwalker",
       "description": ""
     },

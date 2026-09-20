@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-20T16:14:27.470804+00:00",
+  "updated_at_utc": "2026-09-20T18:15:11.624729+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -25,6 +25,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "playtime_2weeks": 1482,
+      "playtime_forever": 1482,
+      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
+      "playtime_windows_forever": 1482,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
       "playtime_2weeks": 1396,
@@ -36,23 +47,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 1392,
-      "playtime_forever": 1392,
-      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 1392,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 1109,
-      "playtime_forever": 1109,
+      "playtime_2weeks": 1128,
+      "playtime_forever": 1128,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 1109,
+      "playtime_windows_forever": 1128,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
