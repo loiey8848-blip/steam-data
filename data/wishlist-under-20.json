@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-09-20T12:16:15.612866+00:00",
-  "count": 3,
+  "updated_at_utc": "2026-09-20T14:13:45.598569+00:00",
+  "count": 4,
   "games": [
+    {
+      "appid": 603850,
+      "priority": 0,
+      "date_added_unix": 1789909582,
+      "date_added_utc": "2026-09-20T13:06:22+00:00",
+      "steam_url": "https://store.steampowered.com/app/603850/",
+      "name": "Age of History II",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 30.0,
+      "price_final_cny": 4.5,
+      "discount_percent": 85
+    },
     {
       "appid": 2757350,
       "priority": 0,
