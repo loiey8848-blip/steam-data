@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-20T20:13:27.155909+00:00",
+  "updated_at_utc": "2026-09-20T22:13:19.759617+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -14,23 +14,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "playtime_2weeks": 1722,
+      "playtime_forever": 1722,
+      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
+      "playtime_windows_forever": 1722,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
       "playtime_2weeks": 1710,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 1602,
-      "playtime_forever": 1602,
-      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 1602,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
