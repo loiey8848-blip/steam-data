@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 13,
-  "percent": 13.0,
-  "updated_at_utc": "2026-09-20T10:12:49.774404+00:00",
+  "unlocked": 14,
+  "percent": 14.0,
+  "updated_at_utc": "2026-09-20T12:15:35.344783+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -450,8 +450,8 @@
     },
     {
       "apiname": "USE_RELIC_TYPE_LEVEL1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789899227,
       "name": "Relic Novice",
       "description": "Use more than 20 different Relics."
     },

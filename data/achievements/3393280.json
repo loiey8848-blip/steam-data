@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 21,
-  "percent": 55.3,
-  "updated_at_utc": "2026-09-20T10:13:15.458445+00:00",
+  "unlocked": 25,
+  "percent": 65.8,
+  "updated_at_utc": "2026-09-20T12:16:00.418201+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "ACH_TCG_LEAGUE_SILVER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789902253,
       "name": "Main Character Energy",
       "description": "Complete the Silver League"
     },
     {
       "apiname": "ACH_TCG_LEAGUE_GOLD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789903900,
       "name": "Catch Me If You Can",
       "description": "Complete the Gold League"
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "ACH_COLLECT_UNIQUE_CARDS_500",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789905223,
       "name": "The Legend of Cardmaster",
       "description": "Collect 500 unique cards"
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "ACH_DISPOSE_TRASH_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789904418,
       "name": "Cleanup Episode",
       "description": "Throw 50 pieces of trash into a trash bin"
     },
