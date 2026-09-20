@@ -3,14 +3,14 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 18,
-  "percent": 39.1,
-  "updated_at_utc": "2026-09-20T18:14:56.219262+00:00",
+  "unlocked": 21,
+  "percent": 45.7,
+  "updated_at_utc": "2026-09-20T20:13:11.205370+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789931532,
       "name": "Selfish",
       "description": ""
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "ACH_Golden",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789930170,
       "name": "Gear of the Gods",
       "description": ""
     },
@@ -324,8 +324,8 @@
     },
     {
       "apiname": "ACH_Smuggler",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789930858,
       "name": "Smuggler",
       "description": "Earn 1000 denarii selling silver."
     }
