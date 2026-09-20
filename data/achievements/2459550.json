@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 6,
-  "percent": 6.0,
-  "updated_at_utc": "2026-09-20T08:13:43.592656+00:00",
+  "unlocked": 13,
+  "percent": 13.0,
+  "updated_at_utc": "2026-09-20T10:12:49.774404+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "WORLD_2_CASUAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789897881,
       "name": "Bone Desert Traveler",
       "description": "Clear the Bone Desert on Casual or higher."
     },
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "WORLD_2_NORMAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789897881,
       "name": "Bone Desert Explorer",
       "description": "Clear the Bone Desert on Normal or higher."
     },
@@ -184,29 +184,29 @@
     },
     {
       "apiname": "CHAR_UNLOCK_KNIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789897905,
       "name": "Belloc the Pyroguard",
       "description": "Unlock Belloc the Pyroguard."
     },
     {
       "apiname": "CHAR_UNLOCK_MERCHANT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789896567,
       "name": "Silas the Merchant",
       "description": "Unlock Silas the Merchant."
     },
     {
       "apiname": "CHAR_UNLOCK_SORCERER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789897905,
       "name": "Tana the Sorcerer",
       "description": "Unlock Tana the Sorcerer."
     },
     {
       "apiname": "CHAR_UNLOCK_CHUNK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789896567,
       "name": "Chunk the Builder",
       "description": "Unlock Chunk the Builder."
     },
@@ -331,8 +331,8 @@
     },
     {
       "apiname": "NO_DAMAGE_VICTORY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789897880,
       "name": "Flawless Victory",
       "description": "Win a run without taking any damage."
     },

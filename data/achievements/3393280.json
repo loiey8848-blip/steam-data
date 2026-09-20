@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 20,
-  "percent": 52.6,
-  "updated_at_utc": "2026-09-20T08:14:08.880903+00:00",
+  "unlocked": 21,
+  "percent": 55.3,
+  "updated_at_utc": "2026-09-20T10:13:15.458445+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "ACH_SHOP_LEVEL_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789893319,
       "name": "C-Rank Shopkeeper",
       "description": "Reach shop level 25"
     },

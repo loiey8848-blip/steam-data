@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-20T08:14:24.194949+00:00",
+  "updated_at_utc": "2026-09-20T10:13:31.986936+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -49,10 +49,10 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 763,
-      "playtime_forever": 763,
+      "playtime_2weeks": 795,
+      "playtime_forever": 795,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 763,
+      "playtime_windows_forever": 795,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 268,
+      "playtime_forever": 268,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 268,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4538140,
       "name": "Rehaunted",
       "playtime_2weeks": 253,
       "playtime_forever": 253,
       "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
       "playtime_windows_forever": 253,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1923680,
-      "name": "Mega Mall Story",
-      "playtime_2weeks": 245,
-      "playtime_forever": 422,
-      "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
-      "playtime_windows_forever": 422,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -124,12 +124,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 178,
-      "playtime_forever": 178,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 178,
+      "appid": 1923680,
+      "name": "Mega Mall Story",
+      "playtime_2weeks": 128,
+      "playtime_forever": 422,
+      "img_icon_url": "880a33b52d42ab00a9bb21d8d1b6e5f6c304a96b",
+      "playtime_windows_forever": 422,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
