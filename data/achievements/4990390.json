@@ -3,9 +3,9 @@
   "appid": 4990390,
   "game": "Toll: The Ferryman's Ledger",
   "total": 41,
-  "unlocked": 40,
-  "percent": 97.6,
-  "updated_at_utc": "2026-09-20T14:13:39.274395+00:00",
+  "unlocked": 41,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-20T16:14:21.187693+00:00",
   "achievements": [
     {
       "apiname": "REACH_ACHERON",
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "TOUCH_GRASS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789914904,
       "name": "Touch Grass",
       "description": "Return to the ferry after a full day away."
     },

@@ -3,9 +3,9 @@
   "appid": 3393280,
   "game": "Anime Shop Simulator ✨",
   "total": 38,
-  "unlocked": 32,
-  "percent": 84.2,
-  "updated_at_utc": "2026-09-20T14:13:30.389046+00:00",
+  "unlocked": 37,
+  "percent": 97.4,
+  "updated_at_utc": "2026-09-20T16:14:11.334533+00:00",
   "achievements": [
     {
       "apiname": "ACH_TCG_LEAGUE_COMMON",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ACH_TCG_LEAGUE_PLATINUM",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789920358,
       "name": "Road to the Finals",
       "description": "Complete the Platinum League"
     },
@@ -114,8 +114,8 @@
     },
     {
       "apiname": "ACH_EARN_CRYSTALS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789919713,
       "name": "Moon Crystal Power!",
       "description": "Earn a total of 1,000 crystals"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "ACH_OPEN_KEYCHAINS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789914870,
       "name": "Keychain × Keychain",
       "description": "Open 1,000 keychains"
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "ACH_OPEN_PINS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789919713,
       "name": "Pin Piece",
       "description": "Open 1,000 pins"
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "ACH_SHOP_LEVEL_80",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789915916,
       "name": "S-Rank Shopkeeper",
       "description": "Reach shop level 80"
     },
