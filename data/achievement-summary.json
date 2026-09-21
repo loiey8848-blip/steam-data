@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T10:14:53.726794+00:00",
+  "updated_at_utc": "2026-09-21T12:16:27.681069+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5595,18 +5595,6 @@
       "achievement_percent": null
     },
     {
-      "appid": 5075680,
-      "name": "Graveyard Keeper 2 Demo",
-      "playtime_minutes": 11,
-      "playtime_hours": 0.2,
-      "last_played_unix": 1789828872,
-      "last_played_utc": "2026-09-19T14:41:12+00:00",
-      "recent": true,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
-    },
-    {
       "appid": 420370,
       "name": "Gravity Island",
       "playtime_minutes": 0,
@@ -10901,14 +10889,14 @@
     {
       "appid": 3116700,
       "name": "Reap and Rush",
-      "playtime_minutes": 2874,
-      "playtime_hours": 47.9,
-      "last_played_unix": 1789983334,
-      "last_played_utc": "2026-09-21T09:35:34+00:00",
+      "playtime_minutes": 3010,
+      "playtime_hours": 50.2,
+      "last_played_unix": 1789991497,
+      "last_played_utc": "2026-09-21T11:51:37+00:00",
       "recent": true,
-      "achievements_unlocked": 108,
+      "achievements_unlocked": 111,
       "achievements_total": 115,
-      "achievement_percent": 93.9
+      "achievement_percent": 96.5
     },
     {
       "appid": 290300,

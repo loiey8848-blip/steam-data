@@ -3,9 +3,9 @@
   "appid": 3116700,
   "game": "Reap and Rush",
   "total": 115,
-  "unlocked": 108,
-  "percent": 93.9,
-  "updated_at_utc": "2026-09-21T10:14:37.084137+00:00",
+  "unlocked": 111,
+  "percent": 96.5,
+  "updated_at_utc": "2026-09-21T12:16:10.876063+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1",
@@ -758,8 +758,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_27",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789990706,
       "name": "Worker's Body, Worker's Soul",
       "description": "Activate Liu's shovel 1,000 times."
     },
@@ -793,15 +793,15 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_187_0",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789992189,
       "name": "Just a Bit Longer",
       "description": "Take 5,000 cumulative mist damage after a Karmic Burst."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_187_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789990706,
       "name": "Can't Touch Me",
       "description": "Dodge 8 times in a row."
     },

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T10:14:53.726794+00:00",
+  "updated_at_utc": "2026-09-21T12:16:27.681069+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -102,6 +102,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3116700,
+      "name": "Reap and Rush",
+      "playtime_2weeks": 307,
+      "playtime_forever": 3010,
+      "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
+      "playtime_windows_forever": 3010,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4538140,
       "name": "Rehaunted",
       "playtime_2weeks": 253,
@@ -119,17 +130,6 @@
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3116700,
-      "name": "Reap and Rush",
-      "playtime_2weeks": 187,
-      "playtime_forever": 2874,
-      "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
-      "playtime_windows_forever": 2874,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
