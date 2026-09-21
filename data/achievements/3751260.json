@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 24,
-  "percent": 52.2,
-  "updated_at_utc": "2026-09-21T04:13:47.229303+00:00",
+  "unlocked": 25,
+  "percent": 54.3,
+  "updated_at_utc": "2026-09-21T06:18:30.111382+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "ACH_The_Blood_of_Dawnwalker",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789964640,
       "name": "The Blood of Dawnwalker",
       "description": "Finish the story."
     },

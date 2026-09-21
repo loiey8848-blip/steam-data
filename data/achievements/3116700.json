@@ -3,9 +3,9 @@
   "appid": 3116700,
   "game": "Reap and Rush",
   "total": 115,
-  "unlocked": 99,
-  "percent": 86.1,
-  "updated_at_utc": "2026-09-15T06:53:26.571552+00:00",
+  "unlocked": 102,
+  "percent": 88.7,
+  "updated_at_utc": "2026-09-21T06:18:29.587831+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1",
@@ -709,8 +709,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789970946,
       "name": "Cold Soul Reaper",
       "description": "Unlock all of White Impermanence's talents."
     },
@@ -737,15 +737,15 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_24",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789970583,
       "name": "There You Are!",
       "description": "Unlock the Warden, White Impermanence."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789970389,
       "name": "Here Comes the Ox!",
       "description": "Unlock all of Liu's talents."
     },

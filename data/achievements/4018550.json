@@ -3,9 +3,9 @@
   "appid": 4018550,
   "game": "Cat Isle",
   "total": 16,
-  "unlocked": 14,
-  "percent": 87.5,
-  "updated_at_utc": "2026-09-15T06:53:38.374638+00:00",
+  "unlocked": 16,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-21T06:18:32.514059+00:00",
   "achievements": [
     {
       "apiname": "LEVEL_0_COMPLETE",
@@ -107,15 +107,15 @@
     },
     {
       "apiname": "SPEED_CHALLENGE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789965649,
       "name": "Faster than the Creators",
       "description": "Complete the Speed Challenge at any level"
     },
     {
       "apiname": "HARD_MODE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789966385,
       "name": "Challenge Accepted",
       "description": "Complete any level in Hard Mode"
     }
