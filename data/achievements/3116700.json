@@ -3,9 +3,9 @@
   "appid": 3116700,
   "game": "Reap and Rush",
   "total": 115,
-  "unlocked": 102,
-  "percent": 88.7,
-  "updated_at_utc": "2026-09-21T08:15:14.787640+00:00",
+  "unlocked": 108,
+  "percent": 93.9,
+  "updated_at_utc": "2026-09-21T10:14:37.084137+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1",
@@ -702,8 +702,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_19",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789980101,
       "name": "Eighteen Against Fate",
       "description": "After White Impermanence casts the Yin Law 'Netherworld Ghost Claw', defeat 18 enemies in a row."
     },
@@ -716,8 +716,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_21",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789983751,
       "name": "Dodge Master",
       "description": "Reach 2,000 dodges."
     },
@@ -730,8 +730,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_23",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789982098,
       "name": "Ghost Claw Picks a Flower",
       "description": "Win an Asura Realm run with White Impermanence."
     },
@@ -765,8 +765,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_28",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789980347,
       "name": "The King's Treasury",
       "description": ""
     },
@@ -779,15 +779,15 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_30",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789978895,
       "name": "It Wasn't Me",
       "description": "Trigger the Wandering Deity event and have the deity's big foot defeat 36 enemies."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_169_31",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789979124,
       "name": "Deceive the Heavens to Cross the Sea",
       "description": "Complete the Capture the Pickpocket Immortal event while the pickpocket's total movement distance stays within 10 meters."
     },
