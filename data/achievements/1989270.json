@@ -3,9 +3,9 @@
   "appid": 1989270,
   "game": "Slay the Princess — The Pristine Cut",
   "total": 131,
-  "unlocked": 118,
-  "percent": 90.1,
-  "updated_at_utc": "2026-09-21T18:15:06.684921+00:00",
+  "unlocked": 130,
+  "percent": 99.2,
+  "updated_at_utc": "2026-09-21T20:13:11.136176+00:00",
   "achievements": [
     {
       "apiname": "ACH_CREDITS",
@@ -30,22 +30,22 @@
     },
     {
       "apiname": "ACH_MIRROR_BREAK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015159,
       "name": "I Don't Need Answers",
       "description": "Break the mirror without asking any questions."
     },
     {
       "apiname": "ACH_STRANGE_END",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015239,
       "name": "Strange Beginnings",
       "description": "Beget Strange Endings."
     },
     {
       "apiname": "ACH_GOOD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014707,
       "name": "The Good Ending",
       "description": "You did it! You saved everyone!"
     },
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ACH_END_LOOP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015665,
       "name": "You're on a path in the woods...",
       "description": "And at the end of that path is a cabin."
     },
@@ -107,15 +107,15 @@
     },
     {
       "apiname": "ACH_END_SLAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790016451,
       "name": "A New and Unending Dawn",
       "description": "Slay the Princess."
     },
     {
       "apiname": "ACH_END_SLAY_ALT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790016752,
       "name": "A New and Unending Dawn, and Everyone Hates You",
       "description": "Slay the Princess, and make some enemies along the way."
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_END_CABIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015258,
       "name": "And? What happens next?",
       "description": "Whatever it is, you'll face it together."
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "ACH_BEAST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015767,
       "name": "A Cunning Heart",
       "description": ""
     },
@@ -646,8 +646,8 @@
     },
     {
       "apiname": "ACH_THORN_TRAP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014586,
       "name": "Trust Issues",
       "description": "Share a thorny prison."
     },
@@ -660,8 +660,8 @@
     },
     {
       "apiname": "ACH_THORN_LEAF",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015665,
       "name": "Turning Over a New Leaf",
       "description": "Work through some issues and learn to trust again."
     },
@@ -681,8 +681,8 @@
     },
     {
       "apiname": "ACH_ALONE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790017441,
       "name": "Your New World",
       "description": "There are worse things to be than alone."
     },
@@ -765,8 +765,8 @@
     },
     {
       "apiname": "ACH_DRAGON_FUSE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790015945,
       "name": "The Princess and the Dragon",
       "description": ""
     },

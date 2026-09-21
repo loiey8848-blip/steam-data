@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T18:16:04.810539+00:00",
+  "updated_at_utc": "2026-09-21T20:14:05.864168+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -47,23 +47,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2638890,
-      "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 745,
-      "playtime_forever": 3262,
-      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
-      "playtime_windows_forever": 3262,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3998900,
       "name": "Claws Of Power",
       "playtime_2weeks": 677,
       "playtime_forever": 712,
       "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
       "playtime_windows_forever": 712,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword",
+      "playtime_2weeks": 627,
+      "playtime_forever": 3262,
+      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
+      "playtime_windows_forever": 3262,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "playtime_2weeks": 270,
+      "playtime_forever": 368,
+      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
+      "playtime_windows_forever": 368,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4538140,
       "name": "Rehaunted",
       "playtime_2weeks": 253,
@@ -130,17 +141,6 @@
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 207,
-      "playtime_forever": 305,
-      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 305,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
