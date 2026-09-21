@@ -3,9 +3,9 @@
   "appid": 1989270,
   "game": "Slay the Princess — The Pristine Cut",
   "total": 131,
-  "unlocked": 66,
-  "percent": 50.4,
-  "updated_at_utc": "2026-09-21T16:13:40.791357+00:00",
+  "unlocked": 118,
+  "percent": 90.1,
+  "updated_at_utc": "2026-09-21T18:15:06.684921+00:00",
   "achievements": [
     {
       "apiname": "ACH_CREDITS",
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "ACH_FURY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012548,
       "name": "A Weathered Heart",
       "description": ""
     },
@@ -198,15 +198,15 @@
     },
     {
       "apiname": "ACH_GREY_DAMSEL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014059,
       "name": "A Bright Heart",
       "description": ""
     },
     {
       "apiname": "ACH_WRAITH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008145,
       "name": "A Driven Heart",
       "description": ""
     },
@@ -247,15 +247,15 @@
     },
     {
       "apiname": "ACH_DAMSEL_DEREAL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013971,
       "name": "A Pliable Heart",
       "description": ""
     },
     {
       "apiname": "ACH_NIGHTMARE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008661,
       "name": "A Tender Heart",
       "description": ""
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "ACH_RAZORHEART",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790009510,
       "name": "A Piercing Heart, Beating Free",
       "description": ""
     },
@@ -331,22 +331,22 @@
     },
     {
       "apiname": "ACH_CLARITY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790009054,
       "name": "A Wise Heart",
       "description": ""
     },
     {
       "apiname": "ACH_DEN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013742,
       "name": "A Ravenous Heart",
       "description": ""
     },
     {
       "apiname": "ACH_THORN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790010606,
       "name": "A Cautious Heart",
       "description": ""
     },
@@ -415,8 +415,8 @@
     },
     {
       "apiname": "ACH_BEAST_FIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013674,
       "name": "Fight",
       "description": "Successfully take the fight to a creature in its den"
     },
@@ -443,43 +443,43 @@
     },
     {
       "apiname": "ACH_DAMSEL_SLAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014012,
       "name": "Ladykiller",
       "description": "Slay an innocent."
     },
     {
       "apiname": "ACH_DAMSEL_DEREALIZE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013916,
       "name": "And They Lived Happily Ever After",
       "description": "It's all she wanted."
     },
     {
       "apiname": "ACH_NIGHT_FALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008881,
       "name": "Terminal Velocity",
       "description": "Fall for the rest of your life."
     },
     {
       "apiname": "ACH_NIGHT_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008626,
       "name": "A World of Terror",
       "description": "Let your terrors loose upon the world."
     },
     {
       "apiname": "ACH_NIGHT_STUCK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008722,
       "name": "House of... No... Leave",
       "description": "Stuck in a dream without a stair to be seen."
     },
     {
       "apiname": "ACH_NIGHT_MONOLITH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008803,
       "name": "A Monolith of Fear",
       "description": "See what hides behind her mask."
     },
@@ -520,8 +520,8 @@
     },
     {
       "apiname": "ACH_RAZOR_PACIFISM",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790009420,
       "name": "Be formless, shapeless",
       "description": "Allow a sharp foe to vanquish herself."
     },
@@ -562,8 +562,8 @@
     },
     {
       "apiname": "ACH_TOWER_SLAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014212,
       "name": "Godkiller",
       "description": "Slay your better."
     },
@@ -576,8 +576,8 @@
     },
     {
       "apiname": "ACH_WITCH_BETRAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790009824,
       "name": "The Scorpion",
       "description": "It was in your nature."
     },
@@ -597,15 +597,15 @@
     },
     {
       "apiname": "ACH_WITCH_ABANDON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790009702,
       "name": "Playing it Safe",
       "description": "Leave a suspicious character in the basement."
     },
     {
       "apiname": "ACH_WITCH_SACRIFICE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790010075,
       "name": "Past Life Gambit",
       "description": "Hand your power to a suspicious character."
     },
@@ -625,22 +625,22 @@
     },
     {
       "apiname": "ACH_EXORCIST_III",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007895,
       "name": "The Exorcist III",
       "description": "When taken against your will, deal with your enemy the only way you can."
     },
     {
       "apiname": "ACH_PASSENGER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790008203,
       "name": "The Passenger",
       "description": "When taken against your will, witness your enemy's freedom."
     },
     {
       "apiname": "ACH_THORN_KISS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790010553,
       "name": "True Love's Kiss",
       "description": "Kiss her."
     },
@@ -653,8 +653,8 @@
     },
     {
       "apiname": "ACH_THORN_ABANDON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790010449,
       "name": "Abandonment",
       "description": "Abandon her in a thorny prison."
     },
@@ -674,8 +674,8 @@
     },
     {
       "apiname": "ACH_GRAY_BURN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790014059,
       "name": "Burning Down the House",
       "description": "Burn at the hands of a faded spirit."
     },
@@ -688,36 +688,36 @@
     },
     {
       "apiname": "ACH_CAGE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011930,
       "name": "An Open Heart, or a Watchful One",
       "description": ""
     },
     {
       "apiname": "ACH_DRAGON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007552,
       "name": "An Empathetic Heart",
       "description": ""
     },
     {
       "apiname": "ACH_DRAGON_FUSE_HEART",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007648,
       "name": "An Empathetic Heart, Held in Stencil",
       "description": ""
     },
     {
       "apiname": "ACH_FURY_HEART",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013006,
       "name": "A Weathered Heart, Held in Ribbons",
       "description": ""
     },
     {
       "apiname": "ACH_HAPPY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011158,
       "name": "An Honest Heart",
       "description": ""
     },
@@ -730,29 +730,29 @@
     },
     {
       "apiname": "ACH_CAGE_RIDDLE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012042,
       "name": "The Riddle of Steel",
       "description": "Twist a pattern in a steely cage."
     },
     {
       "apiname": "ACH_CAGE_TRAP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011913,
       "name": "No Exit",
       "description": "Remain stuck between the walls of a pattern in a steely cage."
     },
     {
       "apiname": "ACH_CAGE_DROP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012195,
       "name": "Free Will",
       "description": "Exert your will at the edge of a steely cage. Even if it hurts you."
     },
     {
       "apiname": "ACH_CAGE_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012163,
       "name": "Allegory of the Cage",
       "description": "The walls of your cage were always your own creation."
     },
@@ -779,50 +779,50 @@
     },
     {
       "apiname": "ACH_DRAGON_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007268,
       "name": "What Once Was One, Then Was Two",
       "description": "Share a quiet moment after really getting to know each other."
     },
     {
       "apiname": "ACH_DRAGON_OOPS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007787,
       "name": "Wait wait wait wait wait!",
       "description": "Fail to disarm a harsh companion"
     },
     {
       "apiname": "ACH_HAPPY_DANCE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011383,
       "name": "I Meant It.",
       "description": ""
     },
     {
       "apiname": "ACH_HAPPY_FLAMES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011139,
       "name": "We Don't Have to Let It Go Out.",
       "description": ""
     },
     {
       "apiname": "ACH_HAPPY_SLAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011447,
       "name": "It's Finally Over.",
       "description": ""
     },
     {
       "apiname": "ACH_HAPPY_GAMES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011104,
       "name": "Game Night",
       "description": "Win a game with the help of a manipulative voice."
     },
     {
       "apiname": "ACH_HAPPY_SHADOWS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790011275,
       "name": "Shadows on the Walls",
       "description": ""
     },
@@ -835,29 +835,29 @@
     },
     {
       "apiname": "ACH_APOTH_BATTLE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013431,
       "name": "Courage and Madness",
       "description": ""
     },
     {
       "apiname": "ACH_APOTH_BOUND",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013193,
       "name": "A Window to the Unknown",
       "description": ""
     },
     {
       "apiname": "ACH_APOTH_GRACE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013223,
       "name": "Grace",
       "description": "Receive grace from a divine being."
     },
     {
       "apiname": "ACH_APOTH_THREADS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013431,
       "name": "A Goddess Unraveled",
       "description": ""
     },
@@ -870,15 +870,15 @@
     },
     {
       "apiname": "ACH_DEN_EAT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013759,
       "name": "She eats he eats she eats he eats...",
       "description": ""
     },
     {
       "apiname": "ACH_DEN_STRIKE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790013701,
       "name": "Heroic Strike",
       "description": ""
     },
@@ -898,29 +898,29 @@
     },
     {
       "apiname": "ACH_FURY_UNARMED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012965,
       "name": "Going the distance",
       "description": "Triumph over a scorned adversary."
     },
     {
       "apiname": "ACH_FURY_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012736,
       "name": "A new leaf in a weathered book",
       "description": ""
     },
     {
       "apiname": "ACH_FURY_SAD_SLAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012710,
       "name": "A hint of feeling",
       "description": ""
     },
     {
       "apiname": "ACH_FURY_TOWER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790012523,
       "name": "Quantum beak",
       "description": ""
     }

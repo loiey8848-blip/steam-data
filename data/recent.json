@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T16:14:38.110573+00:00",
+  "updated_at_utc": "2026-09-21T18:16:04.810539+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -49,7 +49,7 @@
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 810,
+      "playtime_2weeks": 745,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -137,10 +137,10 @@
     {
       "appid": 1989270,
       "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 72,
-      "playtime_forever": 167,
+      "playtime_2weeks": 207,
+      "playtime_forever": 305,
       "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 167,
+      "playtime_windows_forever": 305,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -152,17 +152,6 @@
       "playtime_forever": 90,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 90,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1918540,
-      "name": "The Ramen Sensei",
-      "playtime_2weeks": 29,
-      "playtime_forever": 29,
-      "img_icon_url": "682179f9ed6c5234443aaa15537e1fed00a29a37",
-      "playtime_windows_forever": 29,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -229,6 +218,17 @@
       "playtime_forever": 1,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 1,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1918540,
+      "name": "The Ramen Sensei",
+      "playtime_2weeks": 1,
+      "playtime_forever": 29,
+      "img_icon_url": "682179f9ed6c5234443aaa15537e1fed00a29a37",
+      "playtime_windows_forever": 29,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
