@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 21,
-  "percent": 45.7,
-  "updated_at_utc": "2026-09-21T02:13:36.469270+00:00",
+  "unlocked": 24,
+  "percent": 52.2,
+  "updated_at_utc": "2026-09-21T04:13:47.229303+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -107,15 +107,15 @@
     },
     {
       "apiname": "ACH_The_Folk_Hero",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789963397,
       "name": "The Folk Hero",
       "description": ""
     },
     {
       "apiname": "ACH_In_the_Nick_of_Time",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789963397,
       "name": "In the Nick of Time",
       "description": ""
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "ACH_Burst_like_a_Bubble",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789958622,
       "name": "Make It Rain",
       "description": "Cause an enemy to explode using an Active Ability."
     },
