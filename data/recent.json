@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T14:14:29.889834+00:00",
+  "updated_at_utc": "2026-09-21T16:14:38.110573+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -49,7 +49,7 @@
     {
       "appid": 2638890,
       "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 843,
+      "playtime_2weeks": 810,
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
@@ -71,10 +71,10 @@
     {
       "appid": 3116700,
       "name": "Reap and Rush",
-      "playtime_2weeks": 437,
-      "playtime_forever": 3100,
+      "playtime_2weeks": 490,
+      "playtime_forever": 3193,
       "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
-      "playtime_windows_forever": 3100,
+      "playtime_windows_forever": 3193,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "playtime_2weeks": 72,
+      "playtime_forever": 167,
+      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
+      "playtime_windows_forever": 167,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
@@ -163,17 +174,6 @@
       "playtime_forever": 265,
       "img_icon_url": "ca11a79d824534ddfee1b82e9a272b2e3db110ed",
       "playtime_windows_forever": 265,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 22,
-      "playtime_forever": 120,
-      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 120,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

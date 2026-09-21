@@ -3,9 +3,9 @@
   "appid": 1989270,
   "game": "Slay the Princess — The Pristine Cut",
   "total": 131,
-  "unlocked": 43,
-  "percent": 32.8,
-  "updated_at_utc": "2026-09-21T14:13:32.985418+00:00",
+  "unlocked": 66,
+  "percent": 50.4,
+  "updated_at_utc": "2026-09-21T16:13:40.791357+00:00",
   "achievements": [
     {
       "apiname": "ACH_CREDITS",
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "ACH_WILD_NERVES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790004252,
       "name": "A Curious and Beautiful Heart",
       "description": ""
     },
@@ -261,15 +261,15 @@
     },
     {
       "apiname": "ACH_PRISONER_FULL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790005955,
       "name": "A Patient Heart",
       "description": ""
     },
     {
       "apiname": "ACH_PRISONER_HEAD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006135,
       "name": "A Clever Heart",
       "description": ""
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "ACH_SPECTRE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006652,
       "name": "A Yearning Heart",
       "description": ""
     },
@@ -359,8 +359,8 @@
     },
     {
       "apiname": "ACH_ADV_BAIT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790002918,
       "name": "That Shouldn't Have Worked",
       "description": "Take the bait from your foe."
     },
@@ -373,8 +373,8 @@
     },
     {
       "apiname": "ACH_ADV_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790003249,
       "name": "The Blind Leading the Blind",
       "description": "Free someone who doesn't want to be freed"
     },
@@ -387,29 +387,29 @@
     },
     {
       "apiname": "ACH_ADV_NO_DIE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790003123,
       "name": "That Which Cannot Die Cannot Die...",
       "description": "A bloody dance to last forever."
     },
     {
       "apiname": "ACH_BEAST_AHAB",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790003989,
       "name": "Ahab",
       "description": "Strike the heart from the belly of the beast."
     },
     {
       "apiname": "ACH_BEAST_DISSOLVE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790004110,
       "name": "Dissolving Will",
       "description": "Free a creature while under extreme duress."
     },
     {
       "apiname": "ACH_BEAST_DUSTIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790003859,
       "name": "Opossum",
       "description": "Fool a predator by faking your own death."
     },
@@ -422,15 +422,15 @@
     },
     {
       "apiname": "ACH_BEAST_FLIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790004781,
       "name": "Flight",
       "description": "Successfully flee from a creature in its den"
     },
     {
       "apiname": "ACH_BEAST_FREEZE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790003743,
       "name": "Freeze",
       "description": "Freeze in front of a creature on your first meeting."
     },
@@ -492,15 +492,15 @@
     },
     {
       "apiname": "ACH_PRISONER_STUCK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790005787,
       "name": "Prison of the Mind",
       "description": "Become your own jailer."
     },
     {
       "apiname": "ACH_PRISONER_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006104,
       "name": "Talking Heads",
       "description": ""
     },
@@ -527,22 +527,22 @@
     },
     {
       "apiname": "ACH_SPECTRE_EXORCIST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006719,
       "name": "The Exorcist",
       "description": "Take on a spirit and destroy it the only way you can."
     },
     {
       "apiname": "ACH_SPECTRE_HITCH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006624,
       "name": "Hitchhiker",
       "description": "Pick up a passenger and take her to her destination."
     },
     {
       "apiname": "ACH_SPECTRE_HEART",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790006473,
       "name": "Heart-ripper",
       "description": "There are worse fates to suffer than a broken heart."
     },
@@ -611,8 +611,8 @@
     },
     {
       "apiname": "ACH_WILD_FREE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790004202,
       "name": "A Glimpse of Something Bigger",
       "description": "Embrace your transformation."
     },
@@ -758,8 +758,8 @@
     },
     {
       "apiname": "ACH_DRAGON_ABANDON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007189,
       "name": "An Opportunist at Heart",
       "description": "Leave a shared heart to languish."
     },
@@ -772,8 +772,8 @@
     },
     {
       "apiname": "ACH_DRAGON_LOOP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790007001,
       "name": "You don't have to keep picking the same option",
       "description": "You know that, right?"
     },
@@ -863,8 +863,8 @@
     },
     {
       "apiname": "ACH_DEN_LION",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790004958,
       "name": "The Lion and the Mouse",
       "description": ""
     },
@@ -884,15 +884,15 @@
     },
     {
       "apiname": "ACH_DEN_COUP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790005260,
       "name": "Coup de grâce",
       "description": ""
     },
     {
       "apiname": "ACH_DEN_STARVE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790005054,
       "name": "Hunger pangs",
       "description": "Wait with her in a dark den."
     },
