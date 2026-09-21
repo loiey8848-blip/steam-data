@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 14,
-  "percent": 14.0,
-  "updated_at_utc": "2026-09-21T06:18:03.430283+00:00",
+  "unlocked": 16,
+  "percent": 16.0,
+  "updated_at_utc": "2026-09-21T08:14:49.079836+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "CHAR_UNLOCK_TINY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789977351,
       "name": "Tiny the Bot",
       "description": "Unlock Tiny the Bot."
     },
@@ -548,8 +548,8 @@
     },
     {
       "apiname": "KILL_LARGE_MONSTER_IMMEDIATELY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789975925,
       "name": "Spawn Camping",
       "description": "On Normal difficulty or higher, kill a large monster within 3 seconds of its appearance."
     },

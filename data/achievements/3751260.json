@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 25,
-  "percent": 54.3,
-  "updated_at_utc": "2026-09-21T06:18:30.111382+00:00",
+  "unlocked": 27,
+  "percent": 58.7,
+  "updated_at_utc": "2026-09-21T08:15:15.411185+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "ACH_Master_of_Arms",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789972324,
       "name": "Master of Arms",
       "description": "Unlock an Ultimate Perk in the Swordmastery tree."
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "ACH_Creature_of_the_Night",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1789972313,
       "name": "Creature of the Night",
       "description": "Unlock an Ultimate Perk in the Vampirism tree."
     },
