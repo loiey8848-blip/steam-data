@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 23,
-  "percent": 32.4,
-  "updated_at_utc": "2026-09-22T06:13:55.430704+00:00",
+  "unlocked": 26,
+  "percent": 36.6,
+  "updated_at_utc": "2026-09-22T08:11:29.464820+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -44,15 +44,15 @@
     },
     {
       "apiname": "ach_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790058737,
       "name": "Arachnophobia",
       "description": ""
     },
     {
       "apiname": "ach_6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790060966,
       "name": "Slither into Oblivion",
       "description": ""
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "ach_39",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790061548,
       "name": "Not a Scratch on Her!",
       "description": "I'm not taking any chances, this bus can't take much more damage. (Ch. 12)"
     },
