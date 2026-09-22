@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 19,
-  "percent": 26.8,
-  "updated_at_utc": "2026-09-15T06:49:00.953008+00:00",
+  "unlocked": 20,
+  "percent": 28.2,
+  "updated_at_utc": "2026-09-22T04:11:02.719800+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "ach_37",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790049641,
       "name": "Item Management",
       "description": "This cave echoes like crazy. Better put the gun away and keep quiet. (Ch. 8)"
     },

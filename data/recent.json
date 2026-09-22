@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-22T02:14:41.050778+00:00",
+  "updated_at_utc": "2026-09-22T04:14:21.555261+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -16,10 +16,10 @@
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 2184,
-      "playtime_forever": 2184,
+      "playtime_2weeks": 2244,
+      "playtime_forever": 2244,
       "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 2184,
+      "playtime_windows_forever": 2244,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2638890,
-      "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 269,
-      "playtime_forever": 3262,
-      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
-      "playtime_windows_forever": 3262,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4538140,
       "name": "Rehaunted",
       "playtime_2weeks": 253,
@@ -146,12 +135,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword",
+      "playtime_2weeks": 149,
+      "playtime_forever": 3262,
+      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
+      "playtime_windows_forever": 3262,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 66,
       "playtime_forever": 90,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 90,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 42,
+      "playtime_forever": 965,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 965,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
