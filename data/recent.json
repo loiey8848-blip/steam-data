@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-22T08:14:45.489035+00:00",
+  "updated_at_utc": "2026-09-22T10:15:32.888432+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -69,6 +69,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 402,
+      "playtime_forever": 1325,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 1325,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4990390,
       "name": "Toll: The Ferryman's Ledger",
       "playtime_2weeks": 377,
@@ -97,17 +108,6 @@
       "playtime_forever": 316,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 282,
-      "playtime_forever": 1205,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 1205,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -196,17 +196,6 @@
       "playtime_forever": 11,
       "img_icon_url": "eae1a00961c88ddc9a486fec0eaa8c88b6aa75eb",
       "playtime_windows_forever": 11,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1267910,
-      "name": "Melvor Idle",
-      "playtime_2weeks": 7,
-      "playtime_forever": 25053,
-      "img_icon_url": "88eca64c662c128de095b4e452881398ac71969c",
-      "playtime_windows_forever": 25053,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

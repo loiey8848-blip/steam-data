@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 26,
-  "percent": 36.6,
-  "updated_at_utc": "2026-09-22T08:11:29.464820+00:00",
+  "unlocked": 34,
+  "percent": 47.9,
+  "updated_at_utc": "2026-09-22T10:12:04.804728+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -65,15 +65,15 @@
     },
     {
       "apiname": "ach_8",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790069970,
       "name": "First Step into Darkness",
       "description": "Complete the game on Casual difficulty."
     },
     {
       "apiname": "ach_9",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790069970,
       "name": "Another Day on the Job",
       "description": "Complete the game on Survival difficulty."
     },
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "ach_11",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790070648,
       "name": "Every Nook and Cranny",
       "description": "Collect every collectable in the game."
     },
     {
       "apiname": "ach_12",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790066779,
       "name": "Master of Unlocking",
       "description": "Open up all the lockers in the save room."
     },
@@ -121,15 +121,15 @@
     },
     {
       "apiname": "ach_16",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790071143,
       "name": "Unstoppable Arsenal",
       "description": "Completely upgrade all weapons."
     },
     {
       "apiname": "ach_17",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790071538,
       "name": "Why Can't I Hold All This Ammo?",
       "description": "Upgrade all options in the Stock menu."
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "ach_24",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790064978,
       "name": "One Man Army",
       "description": "Kill 400 enemies."
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "ach_40",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790066071,
       "name": "Entry Level Electrician",
       "description": "I should get this whole generator panel running just in case. (Ch. 14)"
     },
