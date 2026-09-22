@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-22T16:14:33.133770+00:00",
-  "count": 4,
+  "updated_at_utc": "2026-09-22T18:16:57.460713+00:00",
+  "count": 5,
   "games": [
     {
       "appid": 603850,
@@ -43,6 +43,20 @@
       "price_initial_cny": 15.0,
       "price_final_cny": 15.0,
       "discount_percent": 0
+    },
+    {
+      "appid": 990380,
+      "priority": 0,
+      "date_added_unix": 1786373915,
+      "date_added_utc": "2026-08-10T14:58:35+00:00",
+      "steam_url": "https://store.steampowered.com/app/990380/",
+      "name": "合金天使：堕入伊甸",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 84.8,
+      "price_final_cny": 16.96,
+      "discount_percent": 80
     },
     {
       "appid": 3949040,
