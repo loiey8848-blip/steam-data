@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 34,
-  "percent": 47.9,
-  "updated_at_utc": "2026-09-22T12:13:49.337942+00:00",
+  "unlocked": 35,
+  "percent": 49.3,
+  "updated_at_utc": "2026-09-22T14:11:06.989312+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "ach_28",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790083678,
       "name": "The Quick and the Dead",
       "description": "Finish the game with a clear time of under 5:00:00"
     },
