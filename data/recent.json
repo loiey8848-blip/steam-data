@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-22T14:14:30.756833+00:00",
+  "updated_at_utc": "2026-09-22T16:14:33.133770+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -27,7 +27,7 @@
     {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 1710,
+      "playtime_2weeks": 1643,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
@@ -47,23 +47,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 764,
+      "playtime_forever": 1688,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 1688,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3998900,
       "name": "Claws Of Power",
       "playtime_2weeks": 677,
       "playtime_forever": 712,
       "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
       "playtime_windows_forever": 712,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 644,
-      "playtime_forever": 1568,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 1568,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
