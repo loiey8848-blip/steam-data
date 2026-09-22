@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 20,
-  "percent": 28.2,
-  "updated_at_utc": "2026-09-22T04:11:02.719800+00:00",
+  "unlocked": 23,
+  "percent": 32.4,
+  "updated_at_utc": "2026-09-22T06:13:55.430704+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ach_4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790056398,
       "name": "The First, Not the Last",
       "description": ""
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "ach_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790050519,
       "name": "Ammo Conservationist",
       "description": "Kill 25 enemies with melee attacks."
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "ach_38",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790055097,
       "name": "Bathed in Flames",
       "description": "Enough running! I'll burn her to the ground right here! (Ch. 10)"
     },

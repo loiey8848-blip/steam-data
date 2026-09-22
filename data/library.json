@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-22T04:14:21.555261+00:00",
+  "updated_at_utc": "2026-09-22T06:17:16.330038+00:00",
   "owned_games": 1420,
   "new_games": [],
   "games": [
@@ -10411,10 +10411,10 @@
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_minutes": 965,
-      "playtime_hours": 16.1,
-      "last_played_unix": 1790050003,
-      "last_played_utc": "2026-09-22T04:06:43+00:00",
+      "playtime_minutes": 1085,
+      "playtime_hours": 18.1,
+      "last_played_unix": 1790057205,
+      "last_played_utc": "2026-09-22T06:06:45+00:00",
       "recent": true
     },
     {
@@ -10829,7 +10829,7 @@
       "playtime_hours": 0.5,
       "last_played_unix": 1788845827,
       "last_played_utc": "2026-09-08T05:37:07+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 265590,

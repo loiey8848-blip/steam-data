@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-22T04:14:21.555261+00:00",
+  "updated_at_utc": "2026-09-22T06:17:16.330038+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -135,12 +135,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2638890,
-      "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 149,
-      "playtime_forever": 3262,
-      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
-      "playtime_windows_forever": 3262,
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 162,
+      "playtime_forever": 1085,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 1085,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,12 +157,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 42,
-      "playtime_forever": 965,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 965,
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword",
+      "playtime_2weeks": 63,
+      "playtime_forever": 3262,
+      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
+      "playtime_windows_forever": 3262,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -229,17 +229,6 @@
       "playtime_forever": 1,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 1,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1918540,
-      "name": "The Ramen Sensei",
-      "playtime_2weeks": 1,
-      "playtime_forever": 29,
-      "img_icon_url": "682179f9ed6c5234443aaa15537e1fed00a29a37",
-      "playtime_windows_forever": 29,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
