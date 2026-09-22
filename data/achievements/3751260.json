@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 27,
-  "percent": 58.7,
-  "updated_at_utc": "2026-09-22T00:17:44.594658+00:00",
+  "unlocked": 28,
+  "percent": 60.9,
+  "updated_at_utc": "2026-09-22T02:14:25.083192+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "ACH_The_Mad_Khan",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790041451,
       "name": "The Mad Khan",
       "description": ""
     },
