@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-21T22:14:03.812221+00:00",
+  "updated_at_utc": "2026-09-22T00:18:00.149537+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -58,23 +58,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2638890,
-      "name": "Onimusha: Way of the Sword",
-      "playtime_2weeks": 507,
-      "playtime_forever": 3262,
-      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
-      "playtime_windows_forever": 3262,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3116700,
       "name": "Reap and Rush",
       "playtime_2weeks": 490,
       "playtime_forever": 3193,
       "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
       "playtime_windows_forever": 3193,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2638890,
+      "name": "Onimusha: Way of the Sword",
+      "playtime_2weeks": 383,
+      "playtime_forever": 3262,
+      "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
+      "playtime_windows_forever": 3262,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
