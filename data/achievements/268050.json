@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 40,
-  "percent": 56.3,
-  "updated_at_utc": "2026-09-23T02:11:08.842267+00:00",
+  "unlocked": 49,
+  "percent": 69.0,
+  "updated_at_utc": "2026-09-23T04:11:25.626334+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -303,22 +303,22 @@
     },
     {
       "apiname": "ach_42",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790130113,
       "name": "Clutch!",
       "description": "Use a single trap to kill two or more enemies in The Assignment. (Ch. 2)"
     },
     {
       "apiname": "ach_43",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790130845,
       "name": "All You Need is Axe",
       "description": "Survive the duel without using any electronic devices in the environment. (Ch. 2)"
     },
     {
       "apiname": "ach_44",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790129639,
       "name": "Death Grip",
       "description": "Get a Cadaver to grab and kill a Haunted. (Ch. 2)"
     },
@@ -331,29 +331,29 @@
     },
     {
       "apiname": "ach_46",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790132743,
       "name": "Not as it Seems",
       "description": ""
     },
     {
       "apiname": "ach_47",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790131258,
       "name": "Doctor's Notes",
       "description": "Collect all Research Documents in The Assignment."
     },
     {
       "apiname": "ach_48",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790131087,
       "name": "A Piece of My Past",
       "description": "Collect all Personnel Files in The Assignment."
     },
     {
       "apiname": "ach_49",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790131933,
       "name": "A Warning",
       "description": "Complete the hidden letter in The Assignment."
     },
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "ach_51",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790133596,
       "name": "Fumbling in the Dark",
       "description": ""
     },
@@ -394,8 +394,8 @@
     },
     {
       "apiname": "ach_55",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790136322,
       "name": "Things Fall Apart",
       "description": ""
     },
