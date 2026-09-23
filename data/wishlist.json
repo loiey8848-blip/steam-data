@@ -1,3717 +1,1921 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-23T00:17:42.639156+00:00",
-  "wishlist_count": 322,
+  "updated_at_utc": "2026-09-23T02:14:31.993902+00:00",
+  "wishlist_count": 319,
   "games": [
     {
       "appid": 1507580,
       "priority": 0,
       "date_added_unix": 1790016041,
-      "date_added_utc": "2026-09-21T18:40:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/1507580/",
-      "name": "渎神之夜 Enigma of fear",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 92.0,
-      "price_final_cny": 64.4,
-      "discount_percent": 30
+      "date_added_utc": "2026-09-21T18:40:41+00:00"
     },
     {
       "appid": 821250,
       "priority": 0,
       "date_added_unix": 1789909635,
-      "date_added_utc": "2026-09-20T13:07:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/821250/",
-      "name": "Flotsam",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 80.0,
-      "price_final_cny": 80.0,
-      "discount_percent": 0
-    },
-    {
-      "appid": 603850,
-      "priority": 0,
-      "date_added_unix": 1789909582,
-      "date_added_utc": "2026-09-20T13:06:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/603850/",
-      "name": "Age of History II",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 30.0,
-      "price_final_cny": 4.5,
-      "discount_percent": 85
+      "date_added_utc": "2026-09-20T13:07:15+00:00"
     },
     {
       "appid": 3558600,
       "priority": 0,
       "date_added_unix": 1789870493,
-      "date_added_utc": "2026-09-20T02:14:53+00:00",
-      "steam_url": "https://store.steampowered.com/app/3558600/",
-      "name": "绿植小筑",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 32.0,
-      "price_final_cny": 25.6,
-      "discount_percent": 20
+      "date_added_utc": "2026-09-20T02:14:53+00:00"
     },
     {
       "appid": 2514330,
       "priority": 0,
       "date_added_unix": 1789870472,
-      "date_added_utc": "2026-09-20T02:14:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/2514330/",
-      "name": "The Rabbit Haul",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 55.0,
-      "price_final_cny": 46.75,
-      "discount_percent": 15
+      "date_added_utc": "2026-09-20T02:14:32+00:00"
     },
     {
       "appid": 2678640,
       "priority": 0,
       "date_added_unix": 1789817231,
-      "date_added_utc": "2026-09-19T11:27:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/2678640/",
-      "name": "朝露：境界旅程",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 45.0,
-      "price_final_cny": 45.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-19T11:27:11+00:00"
     },
     {
       "appid": 1575990,
       "priority": 0,
       "date_added_unix": 1789811426,
-      "date_added_utc": "2026-09-19T09:50:26+00:00",
-      "steam_url": "https://store.steampowered.com/app/1575990/",
-      "name": "Twisted Tower",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 75.0,
-      "price_final_cny": 75.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-19T09:50:26+00:00"
     },
     {
       "appid": 5006540,
       "priority": 0,
       "date_added_unix": 1789810973,
-      "date_added_utc": "2026-09-19T09:42:53+00:00",
-      "steam_url": "https://store.steampowered.com/app/5006540/",
-      "name": "Dead Extraction",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-09-19T09:42:53+00:00"
     },
     {
       "appid": 2092840,
       "priority": 0,
       "date_added_unix": 1789753371,
-      "date_added_utc": "2026-09-18T17:42:51+00:00",
-      "steam_url": "https://store.steampowered.com/app/2092840/",
-      "name": "诡岛灵探 - The Occultist",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-18T17:42:51+00:00"
     },
     {
       "appid": 4380490,
       "priority": 0,
       "date_added_unix": 1789669144,
-      "date_added_utc": "2026-09-17T18:19:04+00:00",
-      "steam_url": "https://store.steampowered.com/app/4380490/",
-      "name": "猫咪邮政",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 40.0,
-      "price_final_cny": 40.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-17T18:19:04+00:00"
     },
     {
       "appid": 3639070,
       "priority": 0,
       "date_added_unix": 1789563456,
-      "date_added_utc": "2026-09-16T12:57:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/3639070/",
-      "name": "BLACKWOOD",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 93.0,
-      "price_final_cny": 83.7,
-      "discount_percent": 10
+      "date_added_utc": "2026-09-16T12:57:36+00:00"
     },
     {
       "appid": 2073250,
       "priority": 0,
       "date_added_unix": 1789487789,
-      "date_added_utc": "2026-09-15T15:56:29+00:00",
-      "steam_url": "https://store.steampowered.com/app/2073250/",
-      "name": "节奏裂隙",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 62.0,
-      "price_final_cny": 21.7,
-      "discount_percent": 65
+      "date_added_utc": "2026-09-15T15:56:29+00:00"
     },
     {
       "appid": 1867240,
       "priority": 0,
       "date_added_unix": 1789189487,
-      "date_added_utc": "2026-09-12T05:04:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/1867240/",
-      "name": "WARDOGS",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 149.0,
-      "price_final_cny": 149.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-12T05:04:47+00:00"
     },
     {
       "appid": 4300090,
       "priority": 0,
       "date_added_unix": 1789179856,
-      "date_added_utc": "2026-09-12T02:24:16+00:00",
-      "steam_url": "https://store.steampowered.com/app/4300090/",
-      "name": "焕然一新的收纳生活",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 29.4,
-      "discount_percent": 30
+      "date_added_utc": "2026-09-12T02:24:16+00:00"
     },
     {
       "appid": 2589500,
       "priority": 0,
       "date_added_unix": 1789179844,
-      "date_added_utc": "2026-09-12T02:24:04+00:00",
-      "steam_url": "https://store.steampowered.com/app/2589500/",
-      "name": "呓语小镇",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 54.0,
-      "price_final_cny": 54.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-12T02:24:04+00:00"
     },
     {
       "appid": 2576150,
       "priority": 0,
       "date_added_unix": 1789176931,
-      "date_added_utc": "2026-09-12T01:35:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/2576150/",
-      "name": "LET IT DIE: INFERNO",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 124.66,
-      "price_final_cny": 49.86,
-      "discount_percent": 60
+      "date_added_utc": "2026-09-12T01:35:31+00:00"
     },
     {
       "appid": 3590290,
       "priority": 0,
       "date_added_unix": 1789154606,
-      "date_added_utc": "2026-09-11T19:23:26+00:00",
-      "steam_url": "https://store.steampowered.com/app/3590290/",
-      "name": "生死深潜：雨之子民",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 73.0,
-      "price_final_cny": 73.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-11T19:23:26+00:00"
     },
     {
       "appid": 3259780,
       "priority": 0,
       "date_added_unix": 1789154017,
-      "date_added_utc": "2026-09-11T19:13:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/3259780/",
-      "name": "FINAL FANTASY RESONANCE",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 268.0,
-      "price_final_cny": 268.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-11T19:13:37+00:00"
     },
     {
       "appid": 5123770,
       "priority": 0,
       "date_added_unix": 1788913625,
-      "date_added_utc": "2026-09-09T00:27:05+00:00",
-      "steam_url": "https://store.steampowered.com/app/5123770/",
-      "name": "伊始之猫",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-09-09T00:27:05+00:00"
     },
     {
       "appid": 4450620,
       "priority": 0,
       "date_added_unix": 1788913384,
-      "date_added_utc": "2026-09-09T00:23:04+00:00",
-      "steam_url": "https://store.steampowered.com/app/4450620/",
-      "name": "GRAIN ROT",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 39.0,
-      "price_final_cny": 33.15,
-      "discount_percent": 15
+      "date_added_utc": "2026-09-09T00:23:04+00:00"
     },
     {
       "appid": 2027960,
       "priority": 0,
       "date_added_unix": 1788791037,
-      "date_added_utc": "2026-09-07T14:23:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/2027960/",
-      "name": "潜入",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 38.0,
-      "price_final_cny": 38.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-07T14:23:57+00:00"
     },
     {
       "appid": 3110760,
       "priority": 0,
       "date_added_unix": 1788488926,
-      "date_added_utc": "2026-09-04T02:28:46+00:00",
-      "steam_url": "https://store.steampowered.com/app/3110760/",
-      "name": "皓白初晓",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 93.0,
-      "price_final_cny": 93.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-04T02:28:46+00:00"
     },
     {
       "appid": 1573550,
       "priority": 0,
       "date_added_unix": 1788488866,
-      "date_added_utc": "2026-09-04T02:27:46+00:00",
-      "steam_url": "https://store.steampowered.com/app/1573550/",
-      "name": "LEGO®天际线",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-09-04T02:27:46+00:00"
     },
     {
       "appid": 4094660,
       "priority": 0,
       "date_added_unix": 1788253696,
-      "date_added_utc": "2026-09-01T09:08:16+00:00",
-      "steam_url": "https://store.steampowered.com/app/4094660/",
-      "name": "她在时间之外",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 79.2,
-      "discount_percent": 10
+      "date_added_utc": "2026-09-01T09:08:16+00:00"
     },
     {
       "appid": 2821390,
       "priority": 0,
       "date_added_unix": 1788253665,
-      "date_added_utc": "2026-09-01T09:07:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/2821390/",
-      "name": "HOT WHEELS™ Infinite Rush",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 248.0,
-      "price_final_cny": 248.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:07:45+00:00"
     },
     {
       "appid": 3886200,
       "priority": 0,
       "date_added_unix": 1788253626,
-      "date_added_utc": "2026-09-01T09:07:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/3886200/",
-      "name": "破碎怪谈：切勿欺骗",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 63.0,
-      "price_final_cny": 56.7,
-      "discount_percent": 10
+      "date_added_utc": "2026-09-01T09:07:06+00:00"
     },
     {
       "appid": 2459840,
       "priority": 0,
       "date_added_unix": 1788253607,
-      "date_added_utc": "2026-09-01T09:06:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/2459840/",
-      "name": "Barbarian Saga: The Beastmaster",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 52.2,
-      "discount_percent": 10
+      "date_added_utc": "2026-09-01T09:06:47+00:00"
     },
     {
       "appid": 3219630,
       "priority": 0,
       "date_added_unix": 1788253584,
-      "date_added_utc": "2026-09-01T09:06:24+00:00",
-      "steam_url": "https://store.steampowered.com/app/3219630/",
-      "name": "Halloween: The Game",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 137.0,
-      "price_final_cny": 137.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:06:24+00:00"
     },
     {
       "appid": 2397320,
       "priority": 0,
       "date_added_unix": 1788253550,
-      "date_added_utc": "2026-09-01T09:05:50+00:00",
-      "steam_url": "https://store.steampowered.com/app/2397320/",
-      "name": "巴士模拟器 27",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 109.0,
-      "price_final_cny": 109.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:05:50+00:00"
     },
     {
       "appid": 2798330,
       "priority": 0,
       "date_added_unix": 1788253515,
-      "date_added_utc": "2026-09-01T09:05:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/2798330/",
-      "name": "地城拓荒 Dungeon Settlers",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 68.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:05:15+00:00"
     },
     {
       "appid": 3183760,
       "priority": 0,
       "date_added_unix": 1788253494,
-      "date_added_utc": "2026-09-01T09:04:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/3183760/",
-      "name": "SpeedRunners 2: King of Speed",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 34.99,
-      "price_final_cny": 34.99,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:04:54+00:00"
     },
     {
       "appid": 3650170,
       "priority": 0,
       "date_added_unix": 1788253454,
-      "date_added_utc": "2026-09-01T09:04:14+00:00",
-      "steam_url": "https://store.steampowered.com/app/3650170/",
-      "name": "Marsupilami 2 - Salsa Palombia",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 88.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:04:14+00:00"
     },
     {
       "appid": 3905450,
       "priority": 0,
       "date_added_unix": 1788253392,
-      "date_added_utc": "2026-09-01T09:03:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/3905450/",
-      "name": "WheelMates (双轮成行)",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 77.0,
-      "price_final_cny": 77.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:03:12+00:00"
     },
     {
       "appid": 4317690,
       "priority": 0,
       "date_added_unix": 1788253354,
-      "date_added_utc": "2026-09-01T09:02:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/4317690/",
-      "name": "Crimson Moon",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 88.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:02:34+00:00"
     },
     {
       "appid": 2067210,
       "priority": 0,
       "date_added_unix": 1788253303,
-      "date_added_utc": "2026-09-01T09:01:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/2067210/",
-      "name": "英雄萨姆：破碎宇宙",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 77.0,
-      "price_final_cny": 77.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-09-01T09:01:43+00:00"
     },
     {
       "appid": 1731290,
       "priority": 0,
       "date_added_unix": 1788168250,
-      "date_added_utc": "2026-08-31T09:24:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/1731290/",
-      "name": "SPINE - This is Gun Fu",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-31T09:24:10+00:00"
     },
     {
       "appid": 3501540,
       "priority": 0,
       "date_added_unix": 1788149788,
-      "date_added_utc": "2026-08-31T04:16:28+00:00",
-      "steam_url": "https://store.steampowered.com/app/3501540/",
-      "name": "Spiritstead",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 35.0,
-      "price_final_cny": 35.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-31T04:16:28+00:00"
     },
     {
       "appid": 2282790,
       "priority": 0,
       "date_added_unix": 1788148758,
-      "date_added_utc": "2026-08-31T03:59:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/2282790/",
-      "name": "秘境猎人",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 68.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-31T03:59:18+00:00"
     },
     {
       "appid": 4604540,
       "priority": 0,
       "date_added_unix": 1788105875,
-      "date_added_utc": "2026-08-30T16:04:35+00:00",
-      "steam_url": "https://store.steampowered.com/app/4604540/",
-      "name": "TARAE: The Unbound",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-30T16:04:35+00:00"
     },
     {
       "appid": 1933000,
       "priority": 0,
       "date_added_unix": 1788075770,
-      "date_added_utc": "2026-08-30T07:42:50+00:00",
-      "steam_url": "https://store.steampowered.com/app/1933000/",
-      "name": "月之深渊",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 98.0,
-      "price_final_cny": 98.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-30T07:42:50+00:00"
     },
     {
       "appid": 2757350,
       "priority": 0,
       "date_added_unix": 1788003675,
-      "date_added_utc": "2026-08-29T11:41:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/2757350/",
-      "name": "谍影成双",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 11.0,
-      "price_final_cny": 11.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-29T11:41:15+00:00"
     },
     {
       "appid": 2924520,
       "priority": 0,
       "date_added_unix": 1787754468,
-      "date_added_utc": "2026-08-26T14:27:48+00:00",
-      "steam_url": "https://store.steampowered.com/app/2924520/",
-      "name": "ONTOS",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:27:48+00:00"
     },
     {
       "appid": 4354570,
       "priority": 0,
       "date_added_unix": 1787754406,
-      "date_added_utc": "2026-08-26T14:26:46+00:00",
-      "steam_url": "https://store.steampowered.com/app/4354570/",
-      "name": "FINAL FANTASY VII REVELATION",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 298.0,
-      "price_final_cny": 298.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-26T14:26:46+00:00"
     },
     {
       "appid": 3885720,
       "priority": 0,
       "date_added_unix": 1787754379,
-      "date_added_utc": "2026-08-26T14:26:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/3885720/",
-      "name": "壁画迷境",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:26:19+00:00"
     },
     {
       "appid": 1687540,
       "priority": 0,
       "date_added_unix": 1787754349,
-      "date_added_utc": "2026-08-26T14:25:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/1687540/",
-      "name": "昭和米国物语",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:25:49+00:00"
     },
     {
       "appid": 3845010,
       "priority": 0,
       "date_added_unix": 1787754331,
-      "date_added_utc": "2026-08-26T14:25:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/3845010/",
-      "name": "Lofsöng",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:25:31+00:00"
     },
     {
       "appid": 2161710,
       "priority": 0,
       "date_added_unix": 1787754317,
-      "date_added_utc": "2026-08-26T14:25:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/2161710/",
-      "name": "NO LAW",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:25:17+00:00"
     },
     {
       "appid": 1967610,
       "priority": 0,
       "date_added_unix": 1787754303,
-      "date_added_utc": "2026-08-26T14:25:03+00:00",
-      "steam_url": "https://store.steampowered.com/app/1967610/",
-      "name": "Turok: Origins",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T14:25:03+00:00"
     },
     {
       "appid": 4582880,
       "priority": 0,
       "date_added_unix": 1787743476,
-      "date_added_utc": "2026-08-26T11:24:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/4582880/",
-      "name": "Signet City",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-26T11:24:36+00:00"
     },
     {
       "appid": 1578650,
       "priority": 0,
       "date_added_unix": 1787743458,
-      "date_added_utc": "2026-08-26T11:24:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/1578650/",
-      "name": "深空梦里人",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 76.0,
-      "price_final_cny": 76.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-26T11:24:18+00:00"
     },
     {
       "appid": 4073860,
       "priority": 0,
       "date_added_unix": 1787737015,
-      "date_added_utc": "2026-08-26T09:36:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/4073860/",
-      "name": "吸吸吸有限公司",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 23.99,
-      "price_final_cny": 23.99,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-26T09:36:55+00:00"
     },
     {
       "appid": 1062090,
       "priority": 0,
       "date_added_unix": 1787667870,
-      "date_added_utc": "2026-08-25T14:24:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/1062090/",
-      "name": "海狸浮生记 Timberborn",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 128.0,
-      "price_final_cny": 128.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-25T14:24:30+00:00"
     },
     {
       "appid": 4348910,
       "priority": 0,
       "date_added_unix": 1787654957,
-      "date_added_utc": "2026-08-25T10:49:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/4348910/",
-      "name": "深空当铺：可能是偷得",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-25T10:49:17+00:00"
     },
     {
       "appid": 3804370,
       "priority": 0,
       "date_added_unix": 1787588702,
-      "date_added_utc": "2026-08-24T16:25:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/3804370/",
-      "name": "黎明门前的吹笛人",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:25:02+00:00"
     },
     {
       "appid": 3866890,
       "priority": 0,
       "date_added_unix": 1787588675,
-      "date_added_utc": "2026-08-24T16:24:35+00:00",
-      "steam_url": "https://store.steampowered.com/app/3866890/",
-      "name": "莫娜：无尽的旅途",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:24:35+00:00"
     },
     {
       "appid": 3473430,
       "priority": 0,
       "date_added_unix": 1787588622,
-      "date_added_utc": "2026-08-24T16:23:42+00:00",
-      "steam_url": "https://store.steampowered.com/app/3473430/",
-      "name": "爱与机器人维修技术 All Our Broken Parts",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:23:42+00:00"
     },
     {
       "appid": 3253930,
       "priority": 0,
       "date_added_unix": 1787588607,
-      "date_added_utc": "2026-08-24T16:23:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/3253930/",
-      "name": "节奏旅社",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:23:27+00:00"
     },
     {
       "appid": 3599920,
       "priority": 0,
       "date_added_unix": 1787588595,
-      "date_added_utc": "2026-08-24T16:23:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/3599920/",
-      "name": "艺术狂飙 ARTIUS",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:23:15+00:00"
     },
     {
       "appid": 4184170,
       "priority": 0,
       "date_added_unix": 1787588559,
-      "date_added_utc": "2026-08-24T16:22:39+00:00",
-      "steam_url": "https://store.steampowered.com/app/4184170/",
-      "name": "斩业人",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:22:39+00:00"
     },
     {
       "appid": 3374020,
       "priority": 0,
       "date_added_unix": 1787588542,
-      "date_added_utc": "2026-08-24T16:22:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/3374020/",
-      "name": "虫虫巴迪",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-24T16:22:22+00:00"
     },
     {
       "appid": 3920610,
       "priority": 0,
       "date_added_unix": 1787588346,
-      "date_added_utc": "2026-08-24T16:19:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/3920610/",
-      "name": "零 ～红蝶～ REMAKE",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 298.0,
-      "price_final_cny": 298.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:19:06+00:00"
     },
     {
       "appid": 3288210,
       "priority": 0,
       "date_added_unix": 1787588334,
-      "date_added_utc": "2026-08-24T16:18:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/3288210/",
-      "name": "超级肉肉男孩 3D",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 88.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:18:54+00:00"
     },
     {
       "appid": 1820000,
       "priority": 0,
       "date_added_unix": 1787588313,
-      "date_added_utc": "2026-08-24T16:18:33+00:00",
-      "steam_url": "https://store.steampowered.com/app/1820000/",
-      "name": "炎姬",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 70.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-08-24T16:18:33+00:00"
     },
     {
       "appid": 3275050,
       "priority": 0,
       "date_added_unix": 1787588297,
-      "date_added_utc": "2026-08-24T16:18:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/3275050/",
-      "name": "血色序曲",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 61.2,
-      "discount_percent": 10
+      "date_added_utc": "2026-08-24T16:18:17+00:00"
     },
     {
       "appid": 3170490,
       "priority": 0,
       "date_added_unix": 1787588268,
-      "date_added_utc": "2026-08-24T16:17:48+00:00",
-      "steam_url": "https://store.steampowered.com/app/3170490/",
-      "name": "这有猫腻",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 49.0,
-      "price_final_cny": 49.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:17:48+00:00"
     },
     {
       "appid": 3669570,
       "priority": 0,
       "date_added_unix": 1787588256,
-      "date_added_utc": "2026-08-24T16:17:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/3669570/",
-      "name": "炼金工厂",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 58.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:17:36+00:00"
     },
     {
       "appid": 4268460,
       "priority": 0,
       "date_added_unix": 1787588230,
-      "date_added_utc": "2026-08-24T16:17:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/4268460/",
-      "name": "ShoreTiles",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 29.0,
-      "price_final_cny": 29.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:17:10+00:00"
     },
     {
       "appid": 4700560,
       "priority": 0,
       "date_added_unix": 1787588166,
-      "date_added_utc": "2026-08-24T16:16:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/4700560/",
-      "name": "The Girl in the Window",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 15.0,
-      "price_final_cny": 15.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:16:06+00:00"
     },
     {
       "appid": 3448650,
       "priority": 0,
       "date_added_unix": 1787588037,
-      "date_added_utc": "2026-08-24T16:13:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/3448650/",
-      "name": "异形：火力精英2",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 170.0,
-      "price_final_cny": 170.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:13:57+00:00"
     },
     {
       "appid": 1929290,
       "priority": 0,
       "date_added_unix": 1787587988,
-      "date_added_utc": "2026-08-24T16:13:08+00:00",
-      "steam_url": "https://store.steampowered.com/app/1929290/",
-      "name": "啵点节奏 Bits & Bops",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 62.0,
-      "price_final_cny": 62.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-24T16:13:08+00:00"
     },
     {
       "appid": 3151380,
       "priority": 0,
       "date_added_unix": 1787587922,
-      "date_added_utc": "2026-08-24T16:12:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/3151380/",
-      "name": "Small Spaces",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 29.4,
-      "discount_percent": 30
+      "date_added_utc": "2026-08-24T16:12:02+00:00"
     },
     {
       "appid": 3058360,
       "priority": 0,
       "date_added_unix": 1787574678,
-      "date_added_utc": "2026-08-24T12:31:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/3058360/",
-      "name": "法国小馆儿模拟器",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 65.0,
-      "price_final_cny": 39.0,
-      "discount_percent": 40
+      "date_added_utc": "2026-08-24T12:31:18+00:00"
     },
     {
       "appid": 2468550,
       "priority": 0,
       "date_added_unix": 1787420297,
-      "date_added_utc": "2026-08-22T17:38:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/2468550/",
-      "name": "灵动世界",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 76.0,
-      "price_final_cny": 76.0,
-      "discount_percent": 0
-    },
-    {
-      "appid": 1636440,
-      "priority": 0,
-      "date_added_unix": 1786991152,
-      "date_added_utc": "2026-08-17T18:25:52+00:00",
-      "steam_url": "https://store.steampowered.com/app/1636440/",
-      "name": "SILENT HILL: Townfall",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 310.0,
-      "price_final_cny": 310.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-22T17:38:17+00:00"
     },
     {
       "appid": 2638370,
       "priority": 0,
       "date_added_unix": 1786888133,
-      "date_added_utc": "2026-08-16T13:48:53+00:00",
-      "steam_url": "https://store.steampowered.com/app/2638370/",
-      "name": "Five Nights at Freddy's: Into the Pit",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 76.0,
-      "price_final_cny": 76.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-16T13:48:53+00:00"
     },
     {
       "appid": 1386750,
       "priority": 0,
       "date_added_unix": 1786787831,
-      "date_added_utc": "2026-08-15T09:57:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/1386750/",
-      "name": "爱，死亡和小猪",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 54.0,
-      "price_final_cny": 54.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-15T09:57:11+00:00"
     },
     {
       "appid": 1164940,
       "priority": 0,
       "date_added_unix": 1786419217,
-      "date_added_utc": "2026-08-11T03:33:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/1164940/",
-      "name": "海参2",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 154.0,
-      "price_final_cny": 38.5,
-      "discount_percent": 75
+      "date_added_utc": "2026-08-11T03:33:37+00:00"
     },
     {
       "appid": 250320,
       "priority": 0,
       "date_added_unix": 1786381941,
-      "date_added_utc": "2026-08-10T17:12:21+00:00",
-      "steam_url": "https://store.steampowered.com/app/250320/",
-      "name": "The Wolf Among Us",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 50.0,
-      "price_final_cny": 50.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-10T17:12:21+00:00"
     },
     {
       "appid": 3812600,
       "priority": 0,
       "date_added_unix": 1786381110,
-      "date_added_utc": "2026-08-10T16:58:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/3812600/",
-      "name": "维修物语",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 55.0,
-      "price_final_cny": 55.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-10T16:58:30+00:00"
     },
     {
       "appid": 2660230,
       "priority": 0,
       "date_added_unix": 1786380555,
-      "date_added_utc": "2026-08-10T16:49:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/2660230/",
-      "name": "杀死影子",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 65.0,
-      "price_final_cny": 65.0,
-      "discount_percent": 0
-    },
-    {
-      "appid": 990380,
-      "priority": 0,
-      "date_added_unix": 1786373915,
-      "date_added_utc": "2026-08-10T14:58:35+00:00",
-      "steam_url": "https://store.steampowered.com/app/990380/",
-      "name": "合金天使：堕入伊甸",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 84.8,
-      "price_final_cny": 16.96,
-      "discount_percent": 80
+      "date_added_utc": "2026-08-10T16:49:15+00:00"
     },
     {
       "appid": 3293260,
       "priority": 0,
       "date_added_unix": 1786254185,
-      "date_added_utc": "2026-08-09T05:43:05+00:00",
-      "steam_url": "https://store.steampowered.com/app/3293260/",
-      "name": "水上乐园模拟器",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-09T05:43:05+00:00"
     },
     {
       "appid": 2069250,
       "priority": 0,
       "date_added_unix": 1786220097,
-      "date_added_utc": "2026-08-08T20:14:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/2069250/",
-      "name": "高能人生2",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 137.0,
-      "price_final_cny": 137.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-08T20:14:57+00:00"
     },
     {
       "appid": 2542020,
       "priority": 0,
       "date_added_unix": 1786220046,
-      "date_added_utc": "2026-08-08T20:14:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/2542020/",
-      "name": "Duskfade",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 112.0,
-      "price_final_cny": 112.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-08T20:14:06+00:00"
     },
     {
       "appid": 1067360,
       "priority": 0,
       "date_added_unix": 1786220023,
-      "date_added_utc": "2026-08-08T20:13:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/1067360/",
-      "name": "暗星铁律",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-08T20:13:43+00:00"
     },
     {
       "appid": 294100,
       "priority": 0,
       "date_added_unix": 1785778637,
-      "date_added_utc": "2026-08-03T17:37:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/294100/",
-      "name": "边缘世界 RimWorld",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 128.0,
-      "price_final_cny": 128.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-03T17:37:17+00:00"
     },
     {
       "appid": 3156770,
       "priority": 0,
       "date_added_unix": 1785778523,
-      "date_added_utc": "2026-08-03T17:35:23+00:00",
-      "steam_url": "https://store.steampowered.com/app/3156770/",
-      "name": "Witchfire",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 139.0,
-      "price_final_cny": 139.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-03T17:35:23+00:00"
     },
     {
       "appid": 3156330,
       "priority": 0,
       "date_added_unix": 1785702000,
-      "date_added_utc": "2026-08-02T20:20:00+00:00",
-      "steam_url": "https://store.steampowered.com/app/3156330/",
-      "name": "鹰派大统领",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 38.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-08-02T20:20:00+00:00"
     },
     {
       "appid": 1256670,
       "priority": 0,
       "date_added_unix": 1785701959,
-      "date_added_utc": "2026-08-02T20:19:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/1256670/",
-      "name": "Library Of Ruina",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 160.0,
-      "price_final_cny": 160.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T20:19:19+00:00"
     },
     {
       "appid": 2481810,
       "priority": 0,
       "date_added_unix": 1785701812,
-      "date_added_utc": "2026-08-02T20:16:52+00:00",
-      "steam_url": "https://store.steampowered.com/app/2481810/",
-      "name": "喵喵工坊",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 42.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T20:16:52+00:00"
     },
     {
       "appid": 1996090,
       "priority": 0,
       "date_added_unix": 1785701701,
-      "date_added_utc": "2026-08-02T20:15:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/1996090/",
-      "name": "蒸汽世界",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T20:15:01+00:00"
     },
     {
       "appid": 2828710,
       "priority": 0,
       "date_added_unix": 1785701670,
-      "date_added_utc": "2026-08-02T20:14:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/2828710/",
-      "name": "不朽遗志 Valor Mortis",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:14:30+00:00"
     },
     {
       "appid": 2919170,
       "priority": 0,
       "date_added_unix": 1785701629,
-      "date_added_utc": "2026-08-02T20:13:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/2919170/",
-      "name": "雾隐",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:13:49+00:00"
     },
     {
       "appid": 2648900,
       "priority": 0,
       "date_added_unix": 1785701610,
-      "date_added_utc": "2026-08-02T20:13:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/2648900/",
-      "name": "井域：喀洛之血",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 39.0,
-      "price_final_cny": 39.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T20:13:30+00:00"
     },
     {
       "appid": 4687860,
       "priority": 0,
       "date_added_unix": 1785701567,
-      "date_added_utc": "2026-08-02T20:12:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/4687860/",
-      "name": "Guns and Dragons",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:12:47+00:00"
     },
     {
       "appid": 3377830,
       "priority": 0,
       "date_added_unix": 1785701547,
-      "date_added_utc": "2026-08-02T20:12:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/3377830/",
-      "name": "Backroom Cleaners",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:12:27+00:00"
     },
     {
       "appid": 3129360,
       "priority": 0,
       "date_added_unix": 1785701528,
-      "date_added_utc": "2026-08-02T20:12:08+00:00",
-      "steam_url": "https://store.steampowered.com/app/3129360/",
-      "name": "Aksun",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T20:12:08+00:00"
     },
     {
       "appid": 4354610,
       "priority": 0,
       "date_added_unix": 1785701496,
-      "date_added_utc": "2026-08-02T20:11:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/4354610/",
-      "name": "诡影藏锋",
-      "type": "game",
-      "is_free": true,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:11:36+00:00"
     },
     {
       "appid": 3582120,
       "priority": 0,
       "date_added_unix": 1785701454,
-      "date_added_utc": "2026-08-02T20:10:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/3582120/",
-      "name": "科恩 1939",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:10:54+00:00"
     },
     {
       "appid": 3846900,
       "priority": 0,
       "date_added_unix": 1785701410,
-      "date_added_utc": "2026-08-02T20:10:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/3846900/",
-      "name": "猿公剑",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:10:10+00:00"
     },
     {
       "appid": 3184960,
       "priority": 0,
       "date_added_unix": 1785701402,
-      "date_added_utc": "2026-08-02T20:10:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/3184960/",
-      "name": "抵抗者",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:10:02+00:00"
     },
     {
       "appid": 4061170,
       "priority": 0,
       "date_added_unix": 1785701377,
-      "date_added_utc": "2026-08-02T20:09:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/4061170/",
-      "name": "零境·入侵",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:09:37+00:00"
     },
     {
       "appid": 4295810,
       "priority": 0,
       "date_added_unix": 1785701345,
-      "date_added_utc": "2026-08-02T20:09:05+00:00",
-      "steam_url": "https://store.steampowered.com/app/4295810/",
-      "name": "一盏秋声：锦衣卫",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:09:05+00:00"
     },
     {
       "appid": 4209920,
       "priority": 0,
       "date_added_unix": 1785701325,
-      "date_added_utc": "2026-08-02T20:08:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/4209920/",
-      "name": "不问凡尘",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-08-02T20:08:45+00:00"
     },
     {
       "appid": 4421010,
       "priority": 0,
       "date_added_unix": 1785692617,
-      "date_added_utc": "2026-08-02T17:43:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/4421010/",
-      "name": "账单必须支付 Bills Must Be Paid",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 28.0,
-      "price_final_cny": 22.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-08-02T17:43:37+00:00"
     },
     {
       "appid": 4121170,
       "priority": 0,
       "date_added_unix": 1785679774,
-      "date_added_utc": "2026-08-02T14:09:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/4121170/",
-      "name": "Fears to Fathom® - Scratch Creek",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 33.0,
-      "price_final_cny": 33.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-08-02T14:09:34+00:00"
     },
     {
       "appid": 3949040,
       "priority": 0,
       "date_added_unix": 1785284065,
-      "date_added_utc": "2026-07-29T00:14:25+00:00",
-      "steam_url": "https://store.steampowered.com/app/3949040/",
-      "name": "我们到了吗？",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 33.0,
-      "price_final_cny": 19.8,
-      "discount_percent": 40
+      "date_added_utc": "2026-07-29T00:14:25+00:00"
     },
     {
       "appid": 2333000,
       "priority": 0,
       "date_added_unix": 1785096295,
-      "date_added_utc": "2026-07-26T20:04:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/2333000/",
-      "name": "Silver Pines",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-26T20:04:55+00:00"
     },
     {
       "appid": 2468200,
       "priority": 0,
       "date_added_unix": 1785096231,
-      "date_added_utc": "2026-07-26T20:03:51+00:00",
-      "steam_url": "https://store.steampowered.com/app/2468200/",
-      "name": "DDoD",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-26T20:03:51+00:00"
     },
     {
       "appid": 3756700,
       "priority": 0,
       "date_added_unix": 1785005805,
-      "date_added_utc": "2026-07-25T18:56:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/3756700/",
-      "name": "Warhammer Age of Sigmar: Deathmaster",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-25T18:56:45+00:00"
     },
     {
       "appid": 3649720,
       "priority": 0,
       "date_added_unix": 1784985270,
-      "date_added_utc": "2026-07-25T13:14:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/3649720/",
-      "name": "西渡记",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-25T13:14:30+00:00"
     },
     {
       "appid": 3664200,
       "priority": 0,
       "date_added_unix": 1784961859,
-      "date_added_utc": "2026-07-25T06:44:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/3664200/",
-      "name": "Unhinged",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-25T06:44:19+00:00"
     },
     {
       "appid": 1696770,
       "priority": 0,
       "date_added_unix": 1784628877,
-      "date_added_utc": "2026-07-21T10:14:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/1696770/",
-      "name": "The Mermaid Mask",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 77.0,
-      "price_final_cny": 77.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-21T10:14:37+00:00"
     },
     {
       "appid": 1314000,
       "priority": 0,
       "date_added_unix": 1784628677,
-      "date_added_utc": "2026-07-21T10:11:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/1314000/",
-      "name": "Achilles: Legends Untold",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 92.0,
-      "price_final_cny": 92.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-21T10:11:17+00:00"
     },
     {
       "appid": 2436940,
       "priority": 0,
       "date_added_unix": 1784488570,
-      "date_added_utc": "2026-07-19T19:16:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/2436940/",
-      "name": "赛菲莉娅",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 68.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:16:10+00:00"
     },
     {
       "appid": 2939790,
       "priority": 0,
       "date_added_unix": 1784488501,
-      "date_added_utc": "2026-07-19T19:15:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/2939790/",
-      "name": "星之旅Lunarium",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 69.0,
-      "price_final_cny": 69.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:15:01+00:00"
     },
     {
       "appid": 2806050,
       "priority": 0,
       "date_added_unix": 1784488466,
-      "date_added_utc": "2026-07-19T19:14:26+00:00",
-      "steam_url": "https://store.steampowered.com/app/2806050/",
-      "name": "Halo: Campaign Evolved",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 298.0,
-      "price_final_cny": 298.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:14:26+00:00"
     },
     {
       "appid": 1165870,
       "priority": 0,
       "date_added_unix": 1784488443,
-      "date_added_utc": "2026-07-19T19:14:03+00:00",
-      "steam_url": "https://store.steampowered.com/app/1165870/",
-      "name": "Mahou Arms",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 137.0,
-      "price_final_cny": 137.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:14:03+00:00"
     },
     {
       "appid": 931060,
       "priority": 0,
       "date_added_unix": 1784488377,
-      "date_added_utc": "2026-07-19T19:12:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/931060/",
-      "name": "Tormentum II",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 77.0,
-      "price_final_cny": 57.75,
-      "discount_percent": 25
+      "date_added_utc": "2026-07-19T19:12:57+00:00"
     },
     {
       "appid": 1845250,
       "priority": 0,
       "date_added_unix": 1784488320,
-      "date_added_utc": "2026-07-19T19:12:00+00:00",
-      "steam_url": "https://store.steampowered.com/app/1845250/",
-      "name": "红眼露比",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 79.0,
-      "price_final_cny": 63.2,
-      "discount_percent": 20
+      "date_added_utc": "2026-07-19T19:12:00+00:00"
     },
     {
       "appid": 4134600,
       "priority": 0,
       "date_added_unix": 1784488255,
-      "date_added_utc": "2026-07-19T19:10:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/4134600/",
-      "name": "EverRail",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 59.0,
-      "price_final_cny": 59.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:10:55+00:00"
     },
     {
       "appid": 2936290,
       "priority": 0,
       "date_added_unix": 1784488215,
-      "date_added_utc": "2026-07-19T19:10:15+00:00",
-      "steam_url": "https://store.steampowered.com/app/2936290/",
-      "name": "The Life and Suffering of Prince Jerian",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 93.0,
-      "price_final_cny": 93.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T19:10:15+00:00"
     },
     {
       "appid": 1805110,
       "priority": 0,
       "date_added_unix": 1784436590,
-      "date_added_utc": "2026-07-19T04:49:50+00:00",
-      "steam_url": "https://store.steampowered.com/app/1805110/",
-      "name": "太阳朋克：浮岛家园",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 58.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-19T04:49:50+00:00"
     },
     {
       "appid": 3170460,
       "priority": 0,
       "date_added_unix": 1784436325,
-      "date_added_utc": "2026-07-19T04:45:25+00:00",
-      "steam_url": "https://store.steampowered.com/app/3170460/",
-      "name": "小先生 Little ShiFu",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 32.0,
-      "price_final_cny": 28.8,
-      "discount_percent": 10
+      "date_added_utc": "2026-07-19T04:45:25+00:00"
     },
     {
       "appid": 3565290,
       "priority": 0,
       "date_added_unix": 1784403013,
-      "date_added_utc": "2026-07-18T19:30:13+00:00",
-      "steam_url": "https://store.steampowered.com/app/3565290/",
-      "name": "主神的游戏",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 42.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-18T19:30:13+00:00"
     },
     {
       "appid": 2697940,
       "priority": 0,
       "date_added_unix": 1784290968,
-      "date_added_utc": "2026-07-17T12:22:48+00:00",
-      "steam_url": "https://store.steampowered.com/app/2697940/",
-      "name": "零秒：时光的归途",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-17T12:22:48+00:00"
     },
     {
       "appid": 2828860,
       "priority": 0,
       "date_added_unix": 1784212661,
-      "date_added_utc": "2026-07-16T14:37:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/2828860/",
-      "name": "永恒寒冬",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-16T14:37:41+00:00"
     },
     {
       "appid": 4223290,
       "priority": 0,
       "date_added_unix": 1784206806,
-      "date_added_utc": "2026-07-16T13:00:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/4223290/",
-      "name": "ROCKMAN: Dual Override",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-16T13:00:06+00:00"
     },
     {
       "appid": 4829700,
       "priority": 0,
       "date_added_unix": 1784206802,
-      "date_added_utc": "2026-07-16T13:00:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/4829700/",
-      "name": "Monster Hunter Wilds: Ascendance",
-      "type": "dlc",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-07-16T13:00:02+00:00"
     },
     {
       "appid": 2142790,
       "priority": 0,
       "date_added_unix": 1782993931,
-      "date_added_utc": "2026-07-02T12:05:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/2142790/",
-      "name": "Fields of Mistria",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 56.0,
-      "price_final_cny": 56.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-07-02T12:05:31+00:00"
     },
     {
       "appid": 986680,
       "priority": 0,
       "date_added_unix": 1782603990,
-      "date_added_utc": "2026-06-27T23:46:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/986680/",
-      "name": "PAGUI打鬼",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 76.0,
-      "price_final_cny": 76.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-27T23:46:30+00:00"
     },
     {
       "appid": 2852190,
       "priority": 0,
       "date_added_unix": 1782323298,
-      "date_added_utc": "2026-06-24T17:48:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/2852190/",
-      "name": "Monster Hunter Stories 3: 命运双龙",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 298.0,
-      "price_final_cny": 298.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-24T17:48:18+00:00"
     },
     {
       "appid": 3483510,
       "priority": 0,
       "date_added_unix": 1782068255,
-      "date_added_utc": "2026-06-21T18:57:35+00:00",
-      "steam_url": "https://store.steampowered.com/app/3483510/",
-      "name": "冒险家艾略特的千年奇谭",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 298.0,
-      "price_final_cny": 223.5,
-      "discount_percent": 25
+      "date_added_utc": "2026-06-21T18:57:35+00:00"
     },
     {
       "appid": 2244210,
       "priority": 0,
       "date_added_unix": 1781877803,
-      "date_added_utc": "2026-06-19T14:03:23+00:00",
-      "steam_url": "https://store.steampowered.com/app/2244210/",
-      "name": "艾恩葛朗特 回荡新声",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 268.0,
-      "price_final_cny": 268.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-19T14:03:23+00:00"
     },
     {
       "appid": 2610770,
       "priority": 0,
       "date_added_unix": 1781835061,
-      "date_added_utc": "2026-06-19T02:11:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/2610770/",
-      "name": "Dust Front RTS",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-19T02:11:01+00:00"
     },
     {
       "appid": 2261430,
       "priority": 0,
       "date_added_unix": 1781725061,
-      "date_added_utc": "2026-06-17T19:37:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/2261430/",
-      "name": "流明物语：特雷的回忆 ",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 113.99,
-      "price_final_cny": 91.19,
-      "discount_percent": 20
+      "date_added_utc": "2026-06-17T19:37:41+00:00"
     },
     {
       "appid": 3558670,
       "priority": 0,
       "date_added_unix": 1781284903,
-      "date_added_utc": "2026-06-12T17:21:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/3558670/",
-      "name": "《古墓丽影：亚特兰蒂斯遗迹》",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 268.0,
-      "price_final_cny": 268.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-12T17:21:43+00:00"
     },
     {
       "appid": 3428570,
       "priority": 0,
       "date_added_unix": 1781260855,
-      "date_added_utc": "2026-06-12T10:40:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/3428570/",
-      "name": "囚徒的柜台",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-12T10:40:55+00:00"
     },
     {
       "appid": 4824610,
       "priority": 0,
       "date_added_unix": 1781176302,
-      "date_added_utc": "2026-06-11T11:11:42+00:00",
-      "steam_url": "https://store.steampowered.com/app/4824610/",
-      "name": "Resident Evil Veronica",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-11T11:11:42+00:00"
     },
     {
       "appid": 3874450,
       "priority": 0,
       "date_added_unix": 1781007048,
-      "date_added_utc": "2026-06-09T12:10:48+00:00",
-      "steam_url": "https://store.steampowered.com/app/3874450/",
-      "name": "夕阳攀岩团 (Sunset Summit)",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 22.0,
-      "price_final_cny": 22.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-09T12:10:48+00:00"
     },
     {
       "appid": 4218620,
       "priority": 0,
       "date_added_unix": 1780998355,
-      "date_added_utc": "2026-06-09T09:45:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/4218620/",
-      "name": "Double Dealers",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-09T09:45:55+00:00"
     },
     {
       "appid": 2140100,
       "priority": 0,
       "date_added_unix": 1780939984,
-      "date_added_utc": "2026-06-08T17:33:04+00:00",
-      "steam_url": "https://store.steampowered.com/app/2140100/",
-      "name": "Whisker Squadron: Survivor",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 76.0,
-      "price_final_cny": 76.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-08T17:33:04+00:00"
     },
     {
       "appid": 1449780,
       "priority": 0,
       "date_added_unix": 1780939970,
-      "date_added_utc": "2026-06-08T17:32:50+00:00",
-      "steam_url": "https://store.steampowered.com/app/1449780/",
-      "name": "Cyberwar: Neon City",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 47.6,
-      "discount_percent": 30
+      "date_added_utc": "2026-06-08T17:32:50+00:00"
     },
     {
       "appid": 3955960,
       "priority": 0,
       "date_added_unix": 1780841642,
-      "date_added_utc": "2026-06-07T14:14:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/3955960/",
-      "name": "叨叨巫师",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-07T14:14:02+00:00"
     },
     {
       "appid": 4395300,
       "priority": 0,
       "date_added_unix": 1780763645,
-      "date_added_utc": "2026-06-06T16:34:05+00:00",
-      "steam_url": "https://store.steampowered.com/app/4395300/",
-      "name": "跳舞的线",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 30.0,
-      "price_final_cny": 30.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-06T16:34:05+00:00"
     },
     {
       "appid": 2863680,
       "priority": 0,
       "date_added_unix": 1780763542,
-      "date_added_utc": "2026-06-06T16:32:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/2863680/",
-      "name": "归零巡礼：亡谍镇魂曲",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 128.0,
-      "price_final_cny": 102.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-06-06T16:32:22+00:00"
     },
     {
       "appid": 1297900,
       "priority": 0,
       "date_added_unix": 1780749560,
-      "date_added_utc": "2026-06-06T12:39:20+00:00",
-      "steam_url": "https://store.steampowered.com/app/1297900/",
-      "name": "Gothic 1 Remake",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 238.0,
-      "price_final_cny": 238.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-06T12:39:20+00:00"
     },
     {
       "appid": 3633680,
       "priority": 0,
       "date_added_unix": 1780722880,
-      "date_added_utc": "2026-06-06T05:14:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/3633680/",
-      "name": "遗忘之海",
-      "type": "game",
-      "is_free": true,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:14:40+00:00"
     },
     {
       "appid": 3949550,
       "priority": 0,
       "date_added_unix": 1780722816,
-      "date_added_utc": "2026-06-06T05:13:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/3949550/",
-      "name": "1666：阿姆斯特丹",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 98.0,
-      "price_final_cny": 98.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-06T05:13:36+00:00"
     },
     {
       "appid": 4687500,
       "priority": 0,
       "date_added_unix": 1780722807,
-      "date_added_utc": "2026-06-06T05:13:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/4687500/",
-      "name": "穿越火线：潜伏",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:13:27+00:00"
     },
     {
       "appid": 2865960,
       "priority": 0,
       "date_added_unix": 1780722777,
-      "date_added_utc": "2026-06-06T05:12:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/2865960/",
-      "name": "SAW: Genesis",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:12:57+00:00"
     },
     {
       "appid": 3524720,
       "priority": 0,
       "date_added_unix": 1780722773,
-      "date_added_utc": "2026-06-06T05:12:53+00:00",
-      "steam_url": "https://store.steampowered.com/app/3524720/",
-      "name": "赫克斯",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:12:53+00:00"
     },
     {
       "appid": 4729320,
       "priority": 0,
       "date_added_unix": 1780722766,
-      "date_added_utc": "2026-06-06T05:12:46+00:00",
-      "steam_url": "https://store.steampowered.com/app/4729320/",
-      "name": "古剑",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:12:46+00:00"
     },
     {
       "appid": 4767480,
       "priority": 0,
       "date_added_unix": 1780722752,
-      "date_added_utc": "2026-06-06T05:12:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/4767480/",
-      "name": "Lords of the Fallen II",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-06T05:12:32+00:00"
     },
     {
       "appid": 3348640,
       "priority": 0,
       "date_added_unix": 1780685441,
-      "date_added_utc": "2026-06-05T18:50:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/3348640/",
-      "name": "沙皇之女:传说纪元",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-05T18:50:41+00:00"
     },
     {
       "appid": 2640750,
       "priority": 0,
       "date_added_unix": 1780685414,
-      "date_added_utc": "2026-06-05T18:50:14+00:00",
-      "steam_url": "https://store.steampowered.com/app/2640750/",
-      "name": "NightFall Shade",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-05T18:50:14+00:00"
     },
     {
       "appid": 2882720,
       "priority": 0,
       "date_added_unix": 1780685389,
-      "date_added_utc": "2026-06-05T18:49:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/2882720/",
-      "name": "Koshmar: The Last Reverie",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-05T18:49:49+00:00"
     },
     {
       "appid": 2681030,
       "priority": 0,
       "date_added_unix": 1780684647,
-      "date_added_utc": "2026-06-05T18:37:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/2681030/",
-      "name": "Outbound / 拾光旅人",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 88.0,
-      "price_final_cny": 70.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-06-05T18:37:27+00:00"
     },
     {
       "appid": 3918200,
       "priority": 0,
       "date_added_unix": 1780566186,
-      "date_added_utc": "2026-06-04T09:43:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/3918200/",
-      "name": "港警成双:来自城寨",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-04T09:43:06+00:00"
     },
     {
       "appid": 581320,
       "priority": 0,
       "date_added_unix": 1780497989,
-      "date_added_utc": "2026-06-03T14:46:29+00:00",
-      "steam_url": "https://store.steampowered.com/app/581320/",
-      "name": "Insurgency: Sandstorm",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 129.0,
-      "price_final_cny": 129.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-03T14:46:29+00:00"
     },
     {
       "appid": 3378960,
       "priority": 0,
       "date_added_unix": 1780382909,
-      "date_added_utc": "2026-06-02T06:48:29+00:00",
-      "steam_url": "https://store.steampowered.com/app/3378960/",
-      "name": "失落之魂",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 268.0,
-      "price_final_cny": 268.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-02T06:48:29+00:00"
     },
     {
       "appid": 2717880,
       "priority": 0,
       "date_added_unix": 1780336285,
-      "date_added_utc": "2026-06-01T17:51:25+00:00",
-      "steam_url": "https://store.steampowered.com/app/2717880/",
-      "name": "波斯王子：Rogue",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 80.0,
-      "price_final_cny": 80.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-06-01T17:51:25+00:00"
     },
     {
       "appid": 1728620,
       "priority": 0,
       "date_added_unix": 1780293645,
-      "date_added_utc": "2026-06-01T06:00:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/1728620/",
-      "name": "IKUMA - The Frozen Compass",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-06-01T06:00:45+00:00"
     },
     {
       "appid": 1375750,
       "priority": 0,
       "date_added_unix": 1780134191,
-      "date_added_utc": "2026-05-30T09:43:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/1375750/",
-      "name": "废墟国度：符文之门",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 51.0,
-      "discount_percent": 25
+      "date_added_utc": "2026-05-30T09:43:11+00:00"
     },
     {
       "appid": 2057760,
       "priority": 0,
       "date_added_unix": 1780134181,
-      "date_added_utc": "2026-05-30T09:43:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/2057760/",
-      "name": "奥秘消退",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 92.0,
-      "price_final_cny": 92.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-30T09:43:01+00:00"
     },
     {
       "appid": 2603910,
       "priority": 0,
       "date_added_unix": 1780134079,
-      "date_added_utc": "2026-05-30T09:41:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/2603910/",
-      "name": "桂花落",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 22.0,
-      "price_final_cny": 22.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-30T09:41:19+00:00"
     },
     {
       "appid": 3301370,
       "priority": 0,
       "date_added_unix": 1780133819,
-      "date_added_utc": "2026-05-30T09:36:59+00:00",
-      "steam_url": "https://store.steampowered.com/app/3301370/",
-      "name": "昏迷",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 52.0,
-      "price_final_cny": 52.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-30T09:36:59+00:00"
     },
     {
       "appid": 2597080,
       "priority": 0,
       "date_added_unix": 1780131834,
-      "date_added_utc": "2026-05-30T09:03:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/2597080/",
-      "name": "墨境",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 72.0,
-      "price_final_cny": 57.6,
-      "discount_percent": 20
+      "date_added_utc": "2026-05-30T09:03:54+00:00"
     },
     {
       "appid": 4683260,
       "priority": 0,
       "date_added_unix": 1779729401,
-      "date_added_utc": "2026-05-25T17:16:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/4683260/",
-      "name": "Project Rabbit",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-25T17:16:41+00:00"
     },
     {
       "appid": 2827820,
       "priority": 0,
       "date_added_unix": 1779729330,
-      "date_added_utc": "2026-05-25T17:15:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/2827820/",
-      "name": "The Relic: First Guardian",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 129.0,
-      "price_final_cny": 129.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-25T17:15:30+00:00"
     },
     {
       "appid": 2589980,
       "priority": 0,
       "date_added_unix": 1779728866,
-      "date_added_utc": "2026-05-25T17:07:46+00:00",
-      "steam_url": "https://store.steampowered.com/app/2589980/",
-      "name": "Eden's Guardian",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-25T17:07:46+00:00"
     },
     {
       "appid": 3660710,
       "priority": 0,
       "date_added_unix": 1779638200,
-      "date_added_utc": "2026-05-24T15:56:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/3660710/",
-      "name": "Armatus",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-24T15:56:40+00:00"
     },
     {
       "appid": 4284570,
       "priority": 0,
       "date_added_unix": 1779557652,
-      "date_added_utc": "2026-05-23T17:34:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/4284570/",
-      "name": "盲盒店模拟器",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 35.7,
-      "discount_percent": 15
+      "date_added_utc": "2026-05-23T17:34:12+00:00"
     },
     {
       "appid": 3341000,
       "priority": 0,
       "date_added_unix": 1779461422,
-      "date_added_utc": "2026-05-22T14:50:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/3341000/",
-      "name": "面面俱盗",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 29.0,
-      "price_final_cny": 29.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-22T14:50:22+00:00"
     },
     {
       "appid": 3942260,
       "priority": 0,
       "date_added_unix": 1779450926,
-      "date_added_utc": "2026-05-22T11:55:26+00:00",
-      "steam_url": "https://store.steampowered.com/app/3942260/",
-      "name": "巨鳞与王权 - KingFish",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-22T11:55:26+00:00"
     },
     {
       "appid": 855740,
       "priority": 0,
       "date_added_unix": 1779350438,
-      "date_added_utc": "2026-05-21T08:00:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/855740/",
-      "name": "Bum Simulator",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 74.99,
-      "price_final_cny": 74.99,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-21T08:00:38+00:00"
     },
     {
       "appid": 632300,
       "priority": 0,
       "date_added_unix": 1779350395,
-      "date_added_utc": "2026-05-21T07:59:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/632300/",
-      "name": "Hobo: Tough Life",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-21T07:59:55+00:00"
     },
     {
       "appid": 4197610,
       "priority": 0,
       "date_added_unix": 1779019783,
-      "date_added_utc": "2026-05-17T12:09:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/4197610/",
-      "name": "图书管理员：整理魔法图书馆吧！",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 26.0,
-      "price_final_cny": 26.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-17T12:09:43+00:00"
     },
     {
       "appid": 3276270,
       "priority": 0,
       "date_added_unix": 1778909373,
-      "date_added_utc": "2026-05-16T05:29:33+00:00",
-      "steam_url": "https://store.steampowered.com/app/3276270/",
-      "name": "Fallen Fates",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-16T05:29:33+00:00"
     },
     {
       "appid": 1280930,
       "priority": 0,
       "date_added_unix": 1778908981,
-      "date_added_utc": "2026-05-16T05:23:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/1280930/",
-      "name": "星界战士",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 68.0,
-      "price_final_cny": 68.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-16T05:23:01+00:00"
     },
     {
       "appid": 4466620,
       "priority": 0,
       "date_added_unix": 1778904236,
-      "date_added_utc": "2026-05-16T04:03:56+00:00",
-      "steam_url": "https://store.steampowered.com/app/4466620/",
-      "name": "SiNiSistar 2",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 59.0,
-      "price_final_cny": 44.25,
-      "discount_percent": 25
+      "date_added_utc": "2026-05-16T04:03:56+00:00"
     },
     {
       "appid": 2091020,
       "priority": 0,
       "date_added_unix": 1778849575,
-      "date_added_utc": "2026-05-15T12:52:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/2091020/",
-      "name": "《烈焰之刃》 Blades of Fire",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 136.0,
-      "price_final_cny": 102.0,
-      "discount_percent": 25
+      "date_added_utc": "2026-05-15T12:52:55+00:00"
     },
     {
       "appid": 4265120,
       "priority": 0,
       "date_added_unix": 1778849557,
-      "date_added_utc": "2026-05-15T12:52:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/4265120/",
-      "name": "绝地鸭卫",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 58.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-15T12:52:37+00:00"
     },
     {
       "appid": 1962700,
       "priority": 0,
       "date_added_unix": 1778607972,
-      "date_added_utc": "2026-05-12T17:46:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/1962700/",
-      "name": "Subnautica 2：异星水域",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-12T17:46:12+00:00"
     },
     {
       "appid": 3077640,
       "priority": 0,
       "date_added_unix": 1778605249,
-      "date_added_utc": "2026-05-12T17:00:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/3077640/",
-      "name": "《超能蕾雅的异次元之旅》MIGHTREYA",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-12T17:00:49+00:00"
     },
     {
       "appid": 3870140,
       "priority": 0,
       "date_added_unix": 1778498517,
-      "date_added_utc": "2026-05-11T11:21:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/3870140/",
-      "name": "衔蝶",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 36.0,
-      "price_final_cny": 36.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-11T11:21:57+00:00"
     },
     {
       "appid": 4000090,
       "priority": 0,
       "date_added_unix": 1778326007,
-      "date_added_utc": "2026-05-09T11:26:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/4000090/",
-      "name": "颈椎病",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 21.0,
-      "price_final_cny": 21.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-09T11:26:47+00:00"
     },
     {
       "appid": 546560,
       "priority": 0,
       "date_added_unix": 1778257278,
-      "date_added_utc": "2026-05-08T16:21:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/546560/",
-      "name": "Half-Life: Alyx",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 198.0,
-      "price_final_cny": 198.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-08T16:21:18+00:00"
     },
     {
       "appid": 1374680,
       "priority": 0,
       "date_added_unix": 1778150062,
-      "date_added_utc": "2026-05-07T10:34:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/1374680/",
-      "name": "危险等级",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 40.0,
-      "price_final_cny": 40.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-07T10:34:22+00:00"
     },
     {
       "appid": 1602300,
       "priority": 0,
       "date_added_unix": 1778149812,
-      "date_added_utc": "2026-05-07T10:30:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/1602300/",
-      "name": "人窟日记",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-07T10:30:12+00:00"
     },
     {
       "appid": 1612420,
       "priority": 0,
       "date_added_unix": 1778042432,
-      "date_added_utc": "2026-05-06T04:40:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/1612420/",
-      "name": "Suit for Hire",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 58.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-06T04:40:32+00:00"
     },
     {
       "appid": 3124540,
       "priority": 0,
       "date_added_unix": 1778040658,
-      "date_added_utc": "2026-05-06T04:10:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/3124540/",
-      "name": "遥遥西土 Far Far West",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 72.0,
-      "price_final_cny": 72.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-06T04:10:58+00:00"
     },
     {
       "appid": 2810730,
       "priority": 0,
       "date_added_unix": 1777905439,
-      "date_added_utc": "2026-05-04T14:37:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/2810730/",
-      "name": "A Building Full of Cats 2",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 29.0,
-      "price_final_cny": 29.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-04T14:37:19+00:00"
     },
     {
       "appid": 3489340,
       "priority": 0,
       "date_added_unix": 1777837292,
-      "date_added_utc": "2026-05-03T19:41:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/3489340/",
-      "name": "蝼蚁之城",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-05-03T19:41:32+00:00"
     },
     {
       "appid": 1735700,
       "priority": 0,
       "date_added_unix": 1777837261,
-      "date_added_utc": "2026-05-03T19:41:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/1735700/",
-      "name": "动物迷城",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 98.0,
-      "price_final_cny": 98.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-03T19:41:01+00:00"
     },
     {
       "appid": 907470,
       "priority": 0,
       "date_added_unix": 1777782351,
-      "date_added_utc": "2026-05-03T04:25:51+00:00",
-      "steam_url": "https://store.steampowered.com/app/907470/",
-      "name": "Iris.Fall",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-03T04:25:51+00:00"
     },
     {
       "appid": 1965270,
       "priority": 0,
       "date_added_unix": 1777705185,
-      "date_added_utc": "2026-05-02T06:59:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/1965270/",
-      "name": "窒爱SUFFOCATE",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 58.0,
-      "price_final_cny": 58.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-05-02T06:59:45+00:00"
     },
     {
       "appid": 3481020,
       "priority": 0,
       "date_added_unix": 1777570238,
-      "date_added_utc": "2026-04-30T17:30:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/3481020/",
-      "name": "恶魔牌",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 36.0,
-      "price_final_cny": 36.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-30T17:30:38+00:00"
     },
     {
       "appid": 3720420,
       "priority": 0,
       "date_added_unix": 1777570236,
-      "date_added_utc": "2026-04-30T17:30:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/3720420/",
-      "name": "卡片魔王：只剩个头！",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 38.4,
-      "discount_percent": 20
+      "date_added_utc": "2026-04-30T17:30:36+00:00"
     },
     {
       "appid": 4141950,
       "priority": 0,
       "date_added_unix": 1777570226,
-      "date_added_utc": "2026-04-30T17:30:26+00:00",
-      "steam_url": "https://store.steampowered.com/app/4141950/",
-      "name": "久我山栞的死法手账",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 69.0,
-      "price_final_cny": 69.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-30T17:30:26+00:00"
     },
     {
       "appid": 3618520,
       "priority": 0,
       "date_added_unix": 1777570187,
-      "date_added_utc": "2026-04-30T17:29:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/3618520/",
-      "name": "Twin Shot Deluxe",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 42.0,
-      "price_final_cny": 42.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-30T17:29:47+00:00"
     },
     {
       "appid": 2172010,
       "priority": 0,
       "date_added_unix": 1777050413,
-      "date_added_utc": "2026-04-24T17:06:53+00:00",
-      "steam_url": "https://store.steampowered.com/app/2172010/",
-      "name": "Until Dawn™",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 398.0,
-      "price_final_cny": 398.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-24T17:06:53+00:00"
     },
     {
       "appid": 1757350,
       "priority": 0,
       "date_added_unix": 1777050298,
-      "date_added_utc": "2026-04-24T17:04:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/1757350/",
-      "name": "ILL",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-04-24T17:04:58+00:00"
     },
     {
       "appid": 2914150,
       "priority": 0,
       "date_added_unix": 1777019422,
-      "date_added_utc": "2026-04-24T08:30:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/2914150/",
-      "name": "晕晕电波症候群",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 54.0,
-      "price_final_cny": 54.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-24T08:30:22+00:00"
     },
     {
       "appid": 1245560,
       "priority": 0,
       "date_added_unix": 1777019340,
-      "date_added_utc": "2026-04-24T08:29:00+00:00",
-      "steam_url": "https://store.steampowered.com/app/1245560/",
-      "name": "Roots of Pacha",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 110.0,
-      "price_final_cny": 110.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-24T08:29:00+00:00"
     },
     {
       "appid": 3512480,
       "priority": 0,
       "date_added_unix": 1776925081,
-      "date_added_utc": "2026-04-23T06:18:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/3512480/",
-      "name": "Drownlight",
-      "type": "game",
-      "is_free": false,
-      "currency": null,
-      "price_initial_cny": null,
-      "price_final_cny": null,
-      "discount_percent": null
+      "date_added_utc": "2026-04-23T06:18:01+00:00"
     },
     {
       "appid": 2678080,
       "priority": 0,
       "date_added_unix": 1776913089,
-      "date_added_utc": "2026-04-23T02:58:09+00:00",
-      "steam_url": "https://store.steampowered.com/app/2678080/",
-      "name": "明日潮汐 Tides of Tomorrow 🌊",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 108.0,
-      "price_final_cny": 108.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-04-23T02:58:09+00:00"
     },
     {
       "appid": 2373990,
       "priority": 0,
       "date_added_unix": 1776602249,
-      "date_added_utc": "2026-04-19T12:37:29+00:00",
-      "steam_url": "https://store.steampowered.com/app/2373990/"
+      "date_added_utc": "2026-04-19T12:37:29+00:00"
     },
     {
       "appid": 367520,
       "priority": 0,
       "date_added_unix": 1776576118,
-      "date_added_utc": "2026-04-19T05:21:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/367520/"
+      "date_added_utc": "2026-04-19T05:21:58+00:00"
     },
     {
       "appid": 3105440,
       "priority": 0,
       "date_added_unix": 1776187633,
-      "date_added_utc": "2026-04-14T17:27:13+00:00",
-      "steam_url": "https://store.steampowered.com/app/3105440/"
+      "date_added_utc": "2026-04-14T17:27:13+00:00"
     },
     {
       "appid": 1947910,
       "priority": 0,
       "date_added_unix": 1776187462,
-      "date_added_utc": "2026-04-14T17:24:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/1947910/"
+      "date_added_utc": "2026-04-14T17:24:22+00:00"
     },
     {
       "appid": 977880,
       "priority": 0,
       "date_added_unix": 1776085274,
-      "date_added_utc": "2026-04-13T13:01:14+00:00",
-      "steam_url": "https://store.steampowered.com/app/977880/"
+      "date_added_utc": "2026-04-13T13:01:14+00:00"
     },
     {
       "appid": 4259360,
       "priority": 0,
       "date_added_unix": 1775812483,
-      "date_added_utc": "2026-04-10T09:14:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/4259360/"
+      "date_added_utc": "2026-04-10T09:14:43+00:00"
     },
     {
       "appid": 3035120,
       "priority": 0,
       "date_added_unix": 1775812297,
-      "date_added_utc": "2026-04-10T09:11:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/3035120/"
+      "date_added_utc": "2026-04-10T09:11:37+00:00"
     },
     {
       "appid": 264710,
       "priority": 0,
       "date_added_unix": 1775557675,
-      "date_added_utc": "2026-04-07T10:27:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/264710/"
+      "date_added_utc": "2026-04-07T10:27:55+00:00"
     },
     {
       "appid": 3575790,
       "priority": 0,
       "date_added_unix": 1775538040,
-      "date_added_utc": "2026-04-07T05:00:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/3575790/"
+      "date_added_utc": "2026-04-07T05:00:40+00:00"
     },
     {
       "appid": 3681780,
       "priority": 0,
       "date_added_unix": 1775048051,
-      "date_added_utc": "2026-04-01T12:54:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/3681780/"
+      "date_added_utc": "2026-04-01T12:54:11+00:00"
     },
     {
       "appid": 3399960,
       "priority": 0,
       "date_added_unix": 1775048034,
-      "date_added_utc": "2026-04-01T12:53:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/3399960/"
+      "date_added_utc": "2026-04-01T12:53:54+00:00"
     },
     {
       "appid": 1273560,
       "priority": 0,
       "date_added_unix": 1774848297,
-      "date_added_utc": "2026-03-30T05:24:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/1273560/"
+      "date_added_utc": "2026-03-30T05:24:57+00:00"
     },
     {
       "appid": 400630,
       "priority": 0,
       "date_added_unix": 1774848094,
-      "date_added_utc": "2026-03-30T05:21:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/400630/"
+      "date_added_utc": "2026-03-30T05:21:34+00:00"
     },
     {
       "appid": 3630410,
       "priority": 0,
       "date_added_unix": 1774848079,
-      "date_added_utc": "2026-03-30T05:21:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/3630410/"
+      "date_added_utc": "2026-03-30T05:21:19+00:00"
     },
     {
       "appid": 2579280,
       "priority": 0,
       "date_added_unix": 1774848058,
-      "date_added_utc": "2026-03-30T05:20:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/2579280/"
+      "date_added_utc": "2026-03-30T05:20:58+00:00"
     },
     {
       "appid": 238460,
       "priority": 0,
       "date_added_unix": 1774847914,
-      "date_added_utc": "2026-03-30T05:18:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/238460/",
-      "name": "BattleBlock Theater®",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 48.0,
-      "price_final_cny": 48.0,
-      "discount_percent": 0
+      "date_added_utc": "2026-03-30T05:18:34+00:00"
     },
     {
       "appid": 2943150,
       "priority": 0,
       "date_added_unix": 1774847901,
-      "date_added_utc": "2026-03-30T05:18:21+00:00",
-      "steam_url": "https://store.steampowered.com/app/2943150/"
+      "date_added_utc": "2026-03-30T05:18:21+00:00"
     },
     {
       "appid": 4291080,
       "priority": 0,
       "date_added_unix": 1774847880,
-      "date_added_utc": "2026-03-30T05:18:00+00:00",
-      "steam_url": "https://store.steampowered.com/app/4291080/"
+      "date_added_utc": "2026-03-30T05:18:00+00:00"
     },
     {
       "appid": 4160210,
       "priority": 0,
       "date_added_unix": 1774846778,
-      "date_added_utc": "2026-03-30T04:59:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/4160210/"
+      "date_added_utc": "2026-03-30T04:59:38+00:00"
     },
     {
       "appid": 1594940,
       "priority": 0,
       "date_added_unix": 1774834611,
-      "date_added_utc": "2026-03-30T01:36:51+00:00",
-      "steam_url": "https://store.steampowered.com/app/1594940/"
+      "date_added_utc": "2026-03-30T01:36:51+00:00"
     },
     {
       "appid": 2624870,
       "priority": 0,
       "date_added_unix": 1774551249,
-      "date_added_utc": "2026-03-26T18:54:09+00:00",
-      "steam_url": "https://store.steampowered.com/app/2624870/"
+      "date_added_utc": "2026-03-26T18:54:09+00:00"
     },
     {
       "appid": 1902960,
       "priority": 0,
       "date_added_unix": 1774551208,
-      "date_added_utc": "2026-03-26T18:53:28+00:00",
-      "steam_url": "https://store.steampowered.com/app/1902960/"
+      "date_added_utc": "2026-03-26T18:53:28+00:00"
     },
     {
       "appid": 1624540,
       "priority": 0,
       "date_added_unix": 1773743144,
-      "date_added_utc": "2026-03-17T10:25:44+00:00",
-      "steam_url": "https://store.steampowered.com/app/1624540/"
+      "date_added_utc": "2026-03-17T10:25:44+00:00"
     },
     {
       "appid": 1658290,
       "priority": 0,
       "date_added_unix": 1773623152,
-      "date_added_utc": "2026-03-16T01:05:52+00:00",
-      "steam_url": "https://store.steampowered.com/app/1658290/"
+      "date_added_utc": "2026-03-16T01:05:52+00:00"
     },
     {
       "appid": 2833580,
       "priority": 0,
       "date_added_unix": 1773622425,
-      "date_added_utc": "2026-03-16T00:53:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/2833580/"
+      "date_added_utc": "2026-03-16T00:53:45+00:00"
     },
     {
       "appid": 3896970,
       "priority": 0,
       "date_added_unix": 1773423631,
-      "date_added_utc": "2026-03-13T17:40:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/3896970/"
+      "date_added_utc": "2026-03-13T17:40:31+00:00"
     },
     {
       "appid": 2582960,
       "priority": 0,
       "date_added_unix": 1773333777,
-      "date_added_utc": "2026-03-12T16:42:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/2582960/"
+      "date_added_utc": "2026-03-12T16:42:57+00:00"
     },
     {
       "appid": 3467710,
       "priority": 0,
       "date_added_unix": 1772546974,
-      "date_added_utc": "2026-03-03T14:09:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/3467710/"
+      "date_added_utc": "2026-03-03T14:09:34+00:00"
     },
     {
       "appid": 3978820,
       "priority": 0,
       "date_added_unix": 1772472072,
-      "date_added_utc": "2026-03-02T17:21:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/3978820/"
+      "date_added_utc": "2026-03-02T17:21:12+00:00"
     },
     {
       "appid": 2070270,
       "priority": 0,
       "date_added_unix": 1772472056,
-      "date_added_utc": "2026-03-02T17:20:56+00:00",
-      "steam_url": "https://store.steampowered.com/app/2070270/"
+      "date_added_utc": "2026-03-02T17:20:56+00:00"
     },
     {
       "appid": 2313700,
       "priority": 0,
       "date_added_unix": 1772468857,
-      "date_added_utc": "2026-03-02T16:27:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/2313700/"
+      "date_added_utc": "2026-03-02T16:27:37+00:00"
     },
     {
       "appid": 1928980,
       "priority": 0,
       "date_added_unix": 1771984414,
-      "date_added_utc": "2026-02-25T01:53:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/1928980/"
+      "date_added_utc": "2026-02-25T01:53:34+00:00"
     },
     {
       "appid": 2106840,
       "priority": 0,
       "date_added_unix": 1771309571,
-      "date_added_utc": "2026-02-17T06:26:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/2106840/"
+      "date_added_utc": "2026-02-17T06:26:11+00:00"
     },
     {
       "appid": 2966320,
       "priority": 0,
       "date_added_unix": 1770905799,
-      "date_added_utc": "2026-02-12T14:16:39+00:00",
-      "steam_url": "https://store.steampowered.com/app/2966320/"
+      "date_added_utc": "2026-02-12T14:16:39+00:00"
     },
     {
       "appid": 3065800,
       "priority": 0,
       "date_added_unix": 1770781153,
-      "date_added_utc": "2026-02-11T03:39:13+00:00",
-      "steam_url": "https://store.steampowered.com/app/3065800/"
+      "date_added_utc": "2026-02-11T03:39:13+00:00"
     },
     {
       "appid": 2499860,
       "priority": 0,
       "date_added_unix": 1770080623,
-      "date_added_utc": "2026-02-03T01:03:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/2499860/"
+      "date_added_utc": "2026-02-03T01:03:43+00:00"
     },
     {
       "appid": 1139900,
       "priority": 0,
       "date_added_unix": 1768850854,
-      "date_added_utc": "2026-01-19T19:27:34+00:00",
-      "steam_url": "https://store.steampowered.com/app/1139900/"
+      "date_added_utc": "2026-01-19T19:27:34+00:00"
     },
     {
       "appid": 1340990,
       "priority": 0,
       "date_added_unix": 1768811439,
-      "date_added_utc": "2026-01-19T08:30:39+00:00",
-      "steam_url": "https://store.steampowered.com/app/1340990/"
+      "date_added_utc": "2026-01-19T08:30:39+00:00"
     },
     {
       "appid": 3427940,
       "priority": 0,
       "date_added_unix": 1768810784,
-      "date_added_utc": "2026-01-19T08:19:44+00:00",
-      "steam_url": "https://store.steampowered.com/app/3427940/"
+      "date_added_utc": "2026-01-19T08:19:44+00:00"
     },
     {
       "appid": 2612690,
       "priority": 0,
       "date_added_unix": 1768810751,
-      "date_added_utc": "2026-01-19T08:19:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/2612690/"
+      "date_added_utc": "2026-01-19T08:19:11+00:00"
     },
     {
       "appid": 2795540,
       "priority": 0,
       "date_added_unix": 1768810645,
-      "date_added_utc": "2026-01-19T08:17:25+00:00",
-      "steam_url": "https://store.steampowered.com/app/2795540/"
+      "date_added_utc": "2026-01-19T08:17:25+00:00"
     },
     {
       "appid": 3937550,
       "priority": 0,
       "date_added_unix": 1768810405,
-      "date_added_utc": "2026-01-19T08:13:25+00:00",
-      "steam_url": "https://store.steampowered.com/app/3937550/"
+      "date_added_utc": "2026-01-19T08:13:25+00:00"
     },
     {
       "appid": 3910680,
       "priority": 0,
       "date_added_unix": 1768797392,
-      "date_added_utc": "2026-01-19T04:36:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/3910680/"
+      "date_added_utc": "2026-01-19T04:36:32+00:00"
     },
     {
       "appid": 3292470,
       "priority": 0,
       "date_added_unix": 1768745667,
-      "date_added_utc": "2026-01-18T14:14:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/3292470/"
+      "date_added_utc": "2026-01-18T14:14:27+00:00"
     },
     {
       "appid": 2754380,
       "priority": 0,
       "date_added_unix": 1768653748,
-      "date_added_utc": "2026-01-17T12:42:28+00:00",
-      "steam_url": "https://store.steampowered.com/app/2754380/"
+      "date_added_utc": "2026-01-17T12:42:28+00:00"
     },
     {
       "appid": 2678830,
       "priority": 0,
       "date_added_unix": 1768636797,
-      "date_added_utc": "2026-01-17T07:59:57+00:00",
-      "steam_url": "https://store.steampowered.com/app/2678830/"
+      "date_added_utc": "2026-01-17T07:59:57+00:00"
     },
     {
       "appid": 3245640,
       "priority": 0,
       "date_added_unix": 1768621342,
-      "date_added_utc": "2026-01-17T03:42:22+00:00",
-      "steam_url": "https://store.steampowered.com/app/3245640/"
+      "date_added_utc": "2026-01-17T03:42:22+00:00"
     },
     {
       "appid": 2791230,
       "priority": 0,
       "date_added_unix": 1768621324,
-      "date_added_utc": "2026-01-17T03:42:04+00:00",
-      "steam_url": "https://store.steampowered.com/app/2791230/"
+      "date_added_utc": "2026-01-17T03:42:04+00:00"
     },
     {
       "appid": 2133830,
       "priority": 0,
       "date_added_unix": 1768616018,
-      "date_added_utc": "2026-01-17T02:13:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/2133830/"
+      "date_added_utc": "2026-01-17T02:13:38+00:00"
     },
     {
       "appid": 2797960,
       "priority": 0,
       "date_added_unix": 1768527726,
-      "date_added_utc": "2026-01-16T01:42:06+00:00",
-      "steam_url": "https://store.steampowered.com/app/2797960/"
+      "date_added_utc": "2026-01-16T01:42:06+00:00"
     },
     {
       "appid": 718670,
       "priority": 0,
       "date_added_unix": 1768402691,
-      "date_added_utc": "2026-01-14T14:58:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/718670/"
+      "date_added_utc": "2026-01-14T14:58:11+00:00"
     },
     {
       "appid": 2249450,
       "priority": 0,
       "date_added_unix": 1768401121,
-      "date_added_utc": "2026-01-14T14:32:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/2249450/"
+      "date_added_utc": "2026-01-14T14:32:01+00:00"
     },
     {
       "appid": 2708860,
       "priority": 0,
       "date_added_unix": 1768203642,
-      "date_added_utc": "2026-01-12T07:40:42+00:00",
-      "steam_url": "https://store.steampowered.com/app/2708860/"
+      "date_added_utc": "2026-01-12T07:40:42+00:00"
     },
     {
       "appid": 2240620,
       "priority": 0,
       "date_added_unix": 1767233982,
-      "date_added_utc": "2026-01-01T02:19:42+00:00",
-      "steam_url": "https://store.steampowered.com/app/2240620/"
+      "date_added_utc": "2026-01-01T02:19:42+00:00"
     },
     {
       "appid": 3561220,
       "priority": 0,
       "date_added_unix": 1766904278,
-      "date_added_utc": "2025-12-28T06:44:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/3561220/"
+      "date_added_utc": "2025-12-28T06:44:38+00:00"
     },
     {
       "appid": 2208350,
       "priority": 0,
       "date_added_unix": 1765649197,
-      "date_added_utc": "2025-12-13T18:06:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/2208350/"
+      "date_added_utc": "2025-12-13T18:06:37+00:00"
     },
     {
       "appid": 3925150,
       "priority": 0,
       "date_added_unix": 1765531614,
-      "date_added_utc": "2025-12-12T09:26:54+00:00",
-      "steam_url": "https://store.steampowered.com/app/3925150/"
+      "date_added_utc": "2025-12-12T09:26:54+00:00"
     },
     {
       "appid": 2863640,
       "priority": 0,
       "date_added_unix": 1765531571,
-      "date_added_utc": "2025-12-12T09:26:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/2863640/"
+      "date_added_utc": "2025-12-12T09:26:11+00:00"
     },
     {
       "appid": 4228810,
       "priority": 0,
       "date_added_unix": 1765033583,
-      "date_added_utc": "2025-12-06T15:06:23+00:00",
-      "steam_url": "https://store.steampowered.com/app/4228810/"
+      "date_added_utc": "2025-12-06T15:06:23+00:00"
     },
     {
       "appid": 2751000,
       "priority": 0,
       "date_added_unix": 1764010047,
-      "date_added_utc": "2025-11-24T18:47:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/2751000/"
+      "date_added_utc": "2025-11-24T18:47:27+00:00"
     },
     {
       "appid": 3609750,
       "priority": 0,
       "date_added_unix": 1763837511,
-      "date_added_utc": "2025-11-22T18:51:51+00:00",
-      "steam_url": "https://store.steampowered.com/app/3609750/"
+      "date_added_utc": "2025-11-22T18:51:51+00:00"
     },
     {
       "appid": 532790,
       "priority": 0,
       "date_added_unix": 1761475727,
-      "date_added_utc": "2025-10-26T10:48:47+00:00",
-      "steam_url": "https://store.steampowered.com/app/532790/"
+      "date_added_utc": "2025-10-26T10:48:47+00:00"
     },
     {
       "appid": 4054220,
       "priority": 0,
       "date_added_unix": 1761068145,
-      "date_added_utc": "2025-10-21T17:35:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/4054220/"
+      "date_added_utc": "2025-10-21T17:35:45+00:00"
     },
     {
       "appid": 1657630,
       "priority": 0,
       "date_added_unix": 1758678284,
-      "date_added_utc": "2025-09-24T01:44:44+00:00",
-      "steam_url": "https://store.steampowered.com/app/1657630/"
+      "date_added_utc": "2025-09-24T01:44:44+00:00"
     },
     {
       "appid": 851100,
       "priority": 0,
       "date_added_unix": 1758088037,
-      "date_added_utc": "2025-09-17T05:47:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/851100/"
+      "date_added_utc": "2025-09-17T05:47:17+00:00"
     },
     {
       "appid": 2527500,
       "priority": 0,
       "date_added_unix": 1758087938,
-      "date_added_utc": "2025-09-17T05:45:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/2527500/"
+      "date_added_utc": "2025-09-17T05:45:38+00:00"
     },
     {
       "appid": 2187220,
       "priority": 0,
       "date_added_unix": 1757667317,
-      "date_added_utc": "2025-09-12T08:55:17+00:00",
-      "steam_url": "https://store.steampowered.com/app/2187220/"
+      "date_added_utc": "2025-09-12T08:55:17+00:00"
     },
     {
       "appid": 1285190,
       "priority": 0,
       "date_added_unix": 1757099543,
-      "date_added_utc": "2025-09-05T19:12:23+00:00",
-      "steam_url": "https://store.steampowered.com/app/1285190/"
+      "date_added_utc": "2025-09-05T19:12:23+00:00"
     },
     {
       "appid": 2738230,
       "priority": 0,
       "date_added_unix": 1756778760,
-      "date_added_utc": "2025-09-02T02:06:00+00:00",
-      "steam_url": "https://store.steampowered.com/app/2738230/"
+      "date_added_utc": "2025-09-02T02:06:00+00:00"
     },
     {
       "appid": 2288470,
       "priority": 0,
       "date_added_unix": 1756778733,
-      "date_added_utc": "2025-09-02T02:05:33+00:00",
-      "steam_url": "https://store.steampowered.com/app/2288470/"
+      "date_added_utc": "2025-09-02T02:05:33+00:00"
     },
     {
       "appid": 1757300,
       "priority": 0,
       "date_added_unix": 1756778707,
-      "date_added_utc": "2025-09-02T02:05:07+00:00",
-      "steam_url": "https://store.steampowered.com/app/1757300/"
+      "date_added_utc": "2025-09-02T02:05:07+00:00"
     },
     {
       "appid": 2949320,
       "priority": 0,
       "date_added_unix": 1756778642,
-      "date_added_utc": "2025-09-02T02:04:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/2949320/"
+      "date_added_utc": "2025-09-02T02:04:02+00:00"
     },
     {
       "appid": 1538550,
       "priority": 0,
       "date_added_unix": 1756778619,
-      "date_added_utc": "2025-09-02T02:03:39+00:00",
-      "steam_url": "https://store.steampowered.com/app/1538550/"
+      "date_added_utc": "2025-09-02T02:03:39+00:00"
     },
     {
       "appid": 2063090,
       "priority": 0,
       "date_added_unix": 1756778522,
-      "date_added_utc": "2025-09-02T02:02:02+00:00",
-      "steam_url": "https://store.steampowered.com/app/2063090/"
+      "date_added_utc": "2025-09-02T02:02:02+00:00"
     },
     {
       "appid": 3216500,
       "priority": 0,
       "date_added_unix": 1756778398,
-      "date_added_utc": "2025-09-02T01:59:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/3216500/"
+      "date_added_utc": "2025-09-02T01:59:58+00:00"
     },
     {
       "appid": 1850740,
       "priority": 0,
       "date_added_unix": 1753408252,
-      "date_added_utc": "2025-07-25T01:50:52+00:00",
-      "steam_url": "https://store.steampowered.com/app/1850740/"
+      "date_added_utc": "2025-07-25T01:50:52+00:00"
     },
     {
       "appid": 1741170,
       "priority": 0,
       "date_added_unix": 1753407807,
-      "date_added_utc": "2025-07-25T01:43:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/1741170/"
+      "date_added_utc": "2025-07-25T01:43:27+00:00"
     },
     {
       "appid": 427410,
       "priority": 0,
       "date_added_unix": 1753318398,
-      "date_added_utc": "2025-07-24T00:53:18+00:00",
-      "steam_url": "https://store.steampowered.com/app/427410/"
+      "date_added_utc": "2025-07-24T00:53:18+00:00"
     },
     {
       "appid": 2226730,
       "priority": 0,
       "date_added_unix": 1753245643,
-      "date_added_utc": "2025-07-23T04:40:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/2226730/"
+      "date_added_utc": "2025-07-23T04:40:43+00:00"
     },
     {
       "appid": 1953430,
       "priority": 0,
       "date_added_unix": 1753245595,
-      "date_added_utc": "2025-07-23T04:39:55+00:00",
-      "steam_url": "https://store.steampowered.com/app/1953430/"
+      "date_added_utc": "2025-07-23T04:39:55+00:00"
     },
     {
       "appid": 2776780,
       "priority": 0,
       "date_added_unix": 1753148532,
-      "date_added_utc": "2025-07-22T01:42:12+00:00",
-      "steam_url": "https://store.steampowered.com/app/2776780/"
+      "date_added_utc": "2025-07-22T01:42:12+00:00"
     },
     {
       "appid": 2904000,
       "priority": 0,
       "date_added_unix": 1752754849,
-      "date_added_utc": "2025-07-17T12:20:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/2904000/"
+      "date_added_utc": "2025-07-17T12:20:49+00:00"
     },
     {
       "appid": 2617700,
       "priority": 0,
       "date_added_unix": 1751822080,
-      "date_added_utc": "2025-07-06T17:14:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/2617700/"
+      "date_added_utc": "2025-07-06T17:14:40+00:00"
     },
     {
       "appid": 3103780,
       "priority": 0,
       "date_added_unix": 1751821978,
-      "date_added_utc": "2025-07-06T17:12:58+00:00",
-      "steam_url": "https://store.steampowered.com/app/3103780/"
+      "date_added_utc": "2025-07-06T17:12:58+00:00"
     },
     {
       "appid": 2696050,
       "priority": 0,
       "date_added_unix": 1751821777,
-      "date_added_utc": "2025-07-06T17:09:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/2696050/"
+      "date_added_utc": "2025-07-06T17:09:37+00:00"
     },
     {
       "appid": 1796470,
       "priority": 0,
       "date_added_unix": 1751821658,
-      "date_added_utc": "2025-07-06T17:07:38+00:00",
-      "steam_url": "https://store.steampowered.com/app/1796470/"
+      "date_added_utc": "2025-07-06T17:07:38+00:00"
     },
     {
       "appid": 2861080,
       "priority": 0,
       "date_added_unix": 1751703288,
-      "date_added_utc": "2025-07-05T08:14:48+00:00",
-      "steam_url": "https://store.steampowered.com/app/2861080/"
+      "date_added_utc": "2025-07-05T08:14:48+00:00"
     },
     {
       "appid": 2104890,
       "priority": 0,
       "date_added_unix": 1749816409,
-      "date_added_utc": "2025-06-13T12:06:49+00:00",
-      "steam_url": "https://store.steampowered.com/app/2104890/"
+      "date_added_utc": "2025-06-13T12:06:49+00:00"
     },
     {
       "appid": 1104280,
       "priority": 0,
       "date_added_unix": 1747580667,
-      "date_added_utc": "2025-05-18T15:04:27+00:00",
-      "steam_url": "https://store.steampowered.com/app/1104280/"
+      "date_added_utc": "2025-05-18T15:04:27+00:00"
     },
     {
       "appid": 1911610,
       "priority": 0,
       "date_added_unix": 1747544696,
-      "date_added_utc": "2025-05-18T05:04:56+00:00",
-      "steam_url": "https://store.steampowered.com/app/1911610/"
+      "date_added_utc": "2025-05-18T05:04:56+00:00"
     },
     {
       "appid": 2109270,
       "priority": 0,
       "date_added_unix": 1747410783,
-      "date_added_utc": "2025-05-16T15:53:03+00:00",
-      "steam_url": "https://store.steampowered.com/app/2109270/"
+      "date_added_utc": "2025-05-16T15:53:03+00:00"
     },
     {
       "appid": 1809540,
       "priority": 0,
       "date_added_unix": 1746601591,
-      "date_added_utc": "2025-05-07T07:06:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/1809540/"
+      "date_added_utc": "2025-05-07T07:06:31+00:00"
     },
     {
       "appid": 3218530,
       "priority": 0,
       "date_added_unix": 1746507585,
-      "date_added_utc": "2025-05-06T04:59:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/3218530/"
+      "date_added_utc": "2025-05-06T04:59:45+00:00"
     },
     {
       "appid": 2405060,
       "priority": 0,
       "date_added_unix": 1746359971,
-      "date_added_utc": "2025-05-04T11:59:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/2405060/"
+      "date_added_utc": "2025-05-04T11:59:31+00:00"
     },
     {
       "appid": 1934570,
       "priority": 0,
       "date_added_unix": 1744214556,
-      "date_added_utc": "2025-04-09T16:02:36+00:00",
-      "steam_url": "https://store.steampowered.com/app/1934570/"
+      "date_added_utc": "2025-04-09T16:02:36+00:00"
     },
     {
       "appid": 3499380,
       "priority": 0,
       "date_added_unix": 1743962101,
-      "date_added_utc": "2025-04-06T17:55:01+00:00",
-      "steam_url": "https://store.steampowered.com/app/3499380/"
+      "date_added_utc": "2025-04-06T17:55:01+00:00"
     },
     {
       "appid": 2751600,
       "priority": 0,
       "date_added_unix": 1743523049,
-      "date_added_utc": "2025-04-01T15:57:29+00:00",
-      "steam_url": "https://store.steampowered.com/app/2751600/"
+      "date_added_utc": "2025-04-01T15:57:29+00:00"
     },
     {
       "appid": 2569760,
       "priority": 0,
       "date_added_unix": 1743093250,
-      "date_added_utc": "2025-03-27T16:34:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/2569760/"
+      "date_added_utc": "2025-03-27T16:34:10+00:00"
     },
     {
       "appid": 2951770,
       "priority": 0,
       "date_added_unix": 1741497849,
-      "date_added_utc": "2025-03-09T05:24:09+00:00",
-      "steam_url": "https://store.steampowered.com/app/2951770/"
+      "date_added_utc": "2025-03-09T05:24:09+00:00"
     },
     {
       "appid": 3138780,
       "priority": 0,
       "date_added_unix": 1741496961,
-      "date_added_utc": "2025-03-09T05:09:21+00:00",
-      "steam_url": "https://store.steampowered.com/app/3138780/"
+      "date_added_utc": "2025-03-09T05:09:21+00:00"
     },
     {
       "appid": 427520,
       "priority": 0,
       "date_added_unix": 1736247919,
-      "date_added_utc": "2025-01-07T11:05:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/427520/"
+      "date_added_utc": "2025-01-07T11:05:19+00:00"
     },
     {
       "appid": 3267430,
       "priority": 0,
       "date_added_unix": 1732671335,
-      "date_added_utc": "2024-11-27T01:35:35+00:00",
-      "steam_url": "https://store.steampowered.com/app/3267430/"
+      "date_added_utc": "2024-11-27T01:35:35+00:00"
     },
     {
       "appid": 1689080,
       "priority": 0,
       "date_added_unix": 1732511021,
-      "date_added_utc": "2024-11-25T05:03:41+00:00",
-      "steam_url": "https://store.steampowered.com/app/1689080/"
+      "date_added_utc": "2024-11-25T05:03:41+00:00"
     },
     {
       "appid": 2198150,
       "priority": 0,
       "date_added_unix": 1727176588,
-      "date_added_utc": "2024-09-24T11:16:28+00:00",
-      "steam_url": "https://store.steampowered.com/app/2198150/"
+      "date_added_utc": "2024-09-24T11:16:28+00:00"
     },
     {
       "appid": 2646460,
       "priority": 0,
       "date_added_unix": 1718013249,
-      "date_added_utc": "2024-06-10T09:54:09+00:00",
-      "steam_url": "https://store.steampowered.com/app/2646460/"
+      "date_added_utc": "2024-06-10T09:54:09+00:00"
     },
     {
       "appid": 1641960,
       "priority": 0,
       "date_added_unix": 1712400010,
-      "date_added_utc": "2024-04-06T10:40:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/1641960/"
+      "date_added_utc": "2024-04-06T10:40:10+00:00"
     },
     {
       "appid": 1368030,
       "priority": 0,
       "date_added_unix": 1704465536,
-      "date_added_utc": "2024-01-05T14:38:56+00:00",
-      "steam_url": "https://store.steampowered.com/app/1368030/"
+      "date_added_utc": "2024-01-05T14:38:56+00:00"
     },
     {
       "appid": 2015270,
       "priority": 0,
       "date_added_unix": 1696401390,
-      "date_added_utc": "2023-10-04T06:36:30+00:00",
-      "steam_url": "https://store.steampowered.com/app/2015270/"
+      "date_added_utc": "2023-10-04T06:36:30+00:00"
     },
     {
       "appid": 753640,
       "priority": 0,
       "date_added_unix": 1681639330,
-      "date_added_utc": "2023-04-16T10:02:10+00:00",
-      "steam_url": "https://store.steampowered.com/app/753640/"
+      "date_added_utc": "2023-04-16T10:02:10+00:00"
     },
     {
       "appid": 1703340,
       "priority": 0,
       "date_added_unix": 1681639183,
-      "date_added_utc": "2023-04-16T09:59:43+00:00",
-      "steam_url": "https://store.steampowered.com/app/1703340/"
+      "date_added_utc": "2023-04-16T09:59:43+00:00"
     },
     {
       "appid": 1774880,
       "priority": 0,
       "date_added_unix": 1681530261,
-      "date_added_utc": "2023-04-15T03:44:21+00:00",
-      "steam_url": "https://store.steampowered.com/app/1774880/"
+      "date_added_utc": "2023-04-15T03:44:21+00:00"
     },
     {
       "appid": 1361510,
       "priority": 0,
       "date_added_unix": 1655425652,
-      "date_added_utc": "2022-06-17T00:27:32+00:00",
-      "steam_url": "https://store.steampowered.com/app/1361510/"
+      "date_added_utc": "2022-06-17T00:27:32+00:00"
     },
     {
       "appid": 1740720,
       "priority": 0,
       "date_added_unix": 1647315459,
-      "date_added_utc": "2022-03-15T03:37:39+00:00",
-      "steam_url": "https://store.steampowered.com/app/1740720/"
+      "date_added_utc": "2022-03-15T03:37:39+00:00"
     },
     {
       "appid": 774181,
       "priority": 0,
       "date_added_unix": 1647170851,
-      "date_added_utc": "2022-03-13T11:27:31+00:00",
-      "steam_url": "https://store.steampowered.com/app/774181/"
+      "date_added_utc": "2022-03-13T11:27:31+00:00"
     },
     {
       "appid": 1144200,
       "priority": 0,
       "date_added_unix": 1640568263,
-      "date_added_utc": "2021-12-27T01:24:23+00:00",
-      "steam_url": "https://store.steampowered.com/app/1144200/"
+      "date_added_utc": "2021-12-27T01:24:23+00:00"
     }
   ]
 }

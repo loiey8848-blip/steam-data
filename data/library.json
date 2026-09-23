@@ -1,8 +1,45 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-23T00:17:42.639156+00:00",
-  "owned_games": 1423,
-  "new_games": [],
+  "updated_at_utc": "2026-09-23T02:14:31.993902+00:00",
+  "owned_games": 1427,
+  "new_games": [
+    {
+      "appid": 603850,
+      "name": "Age of History II",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 990380,
+      "name": "METAL EDEN",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1636440,
+      "name": "SILENT HILL: Townfall",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3699590,
+      "name": "Well Dweller",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -286,6 +323,15 @@
     {
       "appid": 374900,
       "name": "Agatha Christie - The ABC Murders",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 603850,
+      "name": "Age of History II",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -6395,6 +6441,15 @@
       "recent": false
     },
     {
+      "appid": 990380,
+      "name": "METAL EDEN",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 366250,
       "name": "METAL SLUG",
       "playtime_minutes": 0,
@@ -9185,6 +9240,15 @@
       "recent": false
     },
     {
+      "appid": 1636440,
+      "name": "SILENT HILL: Townfall",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1598780,
       "name": "Silly Polly Beast",
       "playtime_minutes": 77,
@@ -10431,8 +10495,8 @@
       "name": "The Evil Within",
       "playtime_minutes": 1794,
       "playtime_hours": 29.9,
-      "last_played_unix": 1790100233,
-      "last_played_utc": "2026-09-22T18:03:53+00:00",
+      "last_played_unix": 1790128636,
+      "last_played_utc": "2026-09-23T01:57:16+00:00",
       "recent": true
     },
     {
@@ -12229,6 +12293,15 @@
     {
       "appid": 1519090,
       "name": "Welcome to ParadiZe",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3699590,
+      "name": "Well Dweller",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
