@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 57,
-  "percent": 80.3,
-  "updated_at_utc": "2026-09-23T08:11:29.336762+00:00",
+  "unlocked": 58,
+  "percent": 81.7,
+  "updated_at_utc": "2026-09-23T10:10:58.764953+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -478,8 +478,8 @@
     },
     {
       "apiname": "ach_67",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790151439,
       "name": "Home Invasion",
       "description": ""
     },
