@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 65,
-  "percent": 91.5,
-  "updated_at_utc": "2026-09-23T14:11:41.477085+00:00",
+  "unlocked": 69,
+  "percent": 97.2,
+  "updated_at_utc": "2026-09-23T16:11:41.110192+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ach_7",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790178909,
       "name": "One of the Many",
       "description": ""
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ach_18",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790173012,
       "name": "Blow Up the Playing Field",
       "description": "Use a secret explosive weapon to kill 10 enemies. (Agony Bolt effects negate results)"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "ach_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790178210,
       "name": "Silent Kill",
       "description": "Kill 5 enemies in a row with a sneak kill without being discovered."
     },
@@ -492,8 +492,8 @@
     },
     {
       "apiname": "ach_69",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790178210,
       "name": "I've Got Box of Steel",
       "description": ""
     },
