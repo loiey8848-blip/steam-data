@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-23T12:17:35.155742+00:00",
-  "count": 5,
+  "updated_at_utc": "2026-09-23T14:15:07.369190+00:00",
+  "count": 3,
   "games": [
     {
       "appid": 2757350,
@@ -43,34 +43,6 @@
       "price_initial_cny": 33.0,
       "price_final_cny": 19.8,
       "discount_percent": 40
-    },
-    {
-      "appid": 3575790,
-      "priority": 0,
-      "date_added_unix": 1775538040,
-      "date_added_utc": "2026-04-07T05:00:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/3575790/",
-      "name": "小花园",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 18.0,
-      "price_final_cny": 18.0,
-      "discount_percent": 0
-    },
-    {
-      "appid": 3630410,
-      "priority": 0,
-      "date_added_unix": 1774848079,
-      "date_added_utc": "2026-03-30T05:21:19+00:00",
-      "steam_url": "https://store.steampowered.com/app/3630410/",
-      "name": "小女巫幸存者",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 18.0,
-      "price_final_cny": 18.0,
-      "discount_percent": 0
     }
   ]
 }
