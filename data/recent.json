@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-23T10:14:14.898156+00:00",
+  "updated_at_utc": "2026-09-23T12:17:35.155742+00:00",
   "games": [
     {
       "appid": 4243990,
@@ -141,6 +141,17 @@
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4358690,
+      "name": "Graveyard Keeper 2",
+      "playtime_2weeks": 69,
+      "playtime_forever": 69,
+      "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
+      "playtime_windows_forever": 69,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

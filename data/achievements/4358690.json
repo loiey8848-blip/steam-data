@@ -1,0 +1,277 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4358690,
+  "game": "Graveyard Keeper 2",
+  "total": 38,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-09-23T12:17:22.097413+00:00",
+  "achievements": [
+    {
+      "apiname": "ach_new_beginning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Beginning",
+      "description": "The journey has begun. The world is waiting."
+    },
+    {
+      "apiname": "ach_two_faces",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two faces",
+      "description": "You met Januarius and Jully. However, it seems like they're the same person."
+    },
+    {
+      "apiname": "ach_jack_in_town",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Man of Many Talents",
+      "description": "Jack has found his way to the town."
+    },
+    {
+      "apiname": "ach_call_fairy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little Magic",
+      "description": "The fairy has answered the call."
+    },
+    {
+      "apiname": "ach_win_battle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Blood",
+      "description": "You won your first battle."
+    },
+    {
+      "apiname": "ach_sermon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Words of Faith",
+      "description": "You delivered your first sermon."
+    },
+    {
+      "apiname": "ach_gunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Man Behind the Curtain",
+      "description": "Gunter has entered the story."
+    },
+    {
+      "apiname": "ach_recover_house",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Life",
+      "description": "The town has taken its first steps toward recovery."
+    },
+    {
+      "apiname": "ach_first_town_order",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open for Business",
+      "description": "You completed your first town order."
+    },
+    {
+      "apiname": "ach_clear_town_a",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A New Dawn",
+      "description": "The South part of Town has been cleared of zombies."
+    },
+    {
+      "apiname": "ach_met_bandits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friends in Low Places",
+      "description": "You met the bandits."
+    },
+    {
+      "apiname": "ach_linda_concert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Night to Remember",
+      "description": "You attended Linda's concert."
+    },
+    {
+      "apiname": "ach_necronomicon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forbidden Knowledge",
+      "description": "You found the Necronomicon. Some books should stay buried."
+    },
+    {
+      "apiname": "ach_election",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The People Have Spoken",
+      "description": "The elections are over. The future has been decided."
+    },
+    {
+      "apiname": "ach_agatha_herbert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Unlikely Pair",
+      "description": ""
+    },
+    {
+      "apiname": "ach_jack_gunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Broken Souls",
+      "description": ""
+    },
+    {
+      "apiname": "ach_linda_albert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Dangerous Romance",
+      "description": ""
+    },
+    {
+      "apiname": "ach_old_god",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ancient One",
+      "description": ""
+    },
+    {
+      "apiname": "ach_alt_keeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Other Keeper",
+      "description": ""
+    },
+    {
+      "apiname": "ach_the_end",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End of the Journey",
+      "description": "You completed the game."
+    },
+    {
+      "apiname": "ach_cut_trees",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tree Bane",
+      "description": "You've felled 100 trees! The whole forest fears you now."
+    },
+    {
+      "apiname": "ach_bury_bodies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Graveyard Keeper",
+      "description": "You've buried 50 corpses! Now you are The True Graveyard Keeper!"
+    },
+    {
+      "apiname": "ach_build_market_stalls",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Patron of merchants",
+      "description": "You built all the market stalls in the Town."
+    },
+    {
+      "apiname": "ach_biuld_houses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Urban Planner",
+      "description": "You've restored all the houses in the Town. It's never looked so good!"
+    },
+    {
+      "apiname": "ach_graveyard_quality_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Sweet Tomb",
+      "description": "The quality of your cemetery has reached 200. Rest in style."
+    },
+    {
+      "apiname": "ach_bronze_ingots_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bronze Age",
+      "description": "You've smelted 100 bronze ingots."
+    },
+    {
+      "apiname": "ach_iron_ingots_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Iron Age",
+      "description": "You've smelted 100 iron ingots. Why so much?"
+    },
+    {
+      "apiname": "ach_supplies_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supplier",
+      "description": "You've created 50 supplies. The town is depending on you."
+    },
+    {
+      "apiname": "ach_orders_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchants' Best Friend",
+      "description": "You've completed 25 merchant orders."
+    },
+    {
+      "apiname": "ach_war_equipment_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warmaker",
+      "description": "You've crafted 50 battle items. What a time to live!"
+    },
+    {
+      "apiname": "ach_cook_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Cook",
+      "description": "You've cooked 100 dishes! You won't be starving."
+    },
+    {
+      "apiname": "ach_resurrect_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Necromancer",
+      "description": "You've resurrected 50 zombies. A whole army!"
+    },
+    {
+      "apiname": "ach_harvest_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Farmer",
+      "description": "You've harvested 100 crops. Enough for the whole Town!"
+    },
+    {
+      "apiname": "ach_alcohol_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alcohol Baron",
+      "description": "You have produced 100 bottles of alcohol... Handle with care."
+    },
+    {
+      "apiname": "ach_sermon_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shepherd of Souls",
+      "description": "You've preached 50 sermons! A true shepherd of wayward souls."
+    },
+    {
+      "apiname": "ach_inspirations_150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stroke of Genius",
+      "description": "You've had 150 Inspirations. Your mind is sparkling."
+    },
+    {
+      "apiname": "ach_alchemist_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Alchemist",
+      "description": "You've brewed 25 potions. The eyebrows will grow back."
+    },
+    {
+      "apiname": "ach_catch_fish_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Magnet",
+      "description": "You caught 50 fish, so now they've put a bounty on your head."
+    }
+  ]
+}

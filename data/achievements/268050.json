@@ -3,9 +3,9 @@
   "appid": 268050,
   "game": "The Evil Within",
   "total": 71,
-  "unlocked": 58,
-  "percent": 81.7,
-  "updated_at_utc": "2026-09-23T10:10:58.764953+00:00",
+  "unlocked": 60,
+  "percent": 84.5,
+  "updated_at_utc": "2026-09-23T12:14:10.327648+00:00",
   "achievements": [
     {
       "apiname": "ach_0",
@@ -464,15 +464,15 @@
     },
     {
       "apiname": "ach_65",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790165189,
       "name": "Trapper and Keeper",
       "description": ""
     },
     {
       "apiname": "ach_66",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790164870,
       "name": "Got to Destroy the Brain",
       "description": ""
     },
