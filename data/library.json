@@ -1,8 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-24T10:14:22.873708+00:00",
-  "owned_games": 1471,
-  "new_games": [],
+  "updated_at_utc": "2026-09-24T12:17:15.441180+00:00",
+  "owned_games": 1472,
+  "new_games": [
+    {
+      "appid": 2060130,
+      "name": "Return to Monkey Island",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -8681,6 +8691,15 @@
       "recent": false
     },
     {
+      "appid": 2060130,
+      "name": "Return to Monkey Island",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1649240,
       "name": "Returnal™",
       "playtime_minutes": 4044,
@@ -8881,11 +8900,11 @@
     {
       "appid": 1839510,
       "name": "RPG Time: The Legend of Wright",
-      "playtime_minutes": 36,
-      "playtime_hours": 0.6,
-      "last_played_unix": 1776520764,
-      "last_played_utc": "2026-04-18T13:59:24+00:00",
-      "recent": false
+      "playtime_minutes": 118,
+      "playtime_hours": 2.0,
+      "last_played_unix": 1790251375,
+      "last_played_utc": "2026-09-24T12:02:55+00:00",
+      "recent": true
     },
     {
       "appid": 1206610,

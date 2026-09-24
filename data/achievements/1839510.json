@@ -3,14 +3,14 @@
   "appid": 1839510,
   "game": "ＲＰＧタイム！～ライトの伝説～",
   "total": 15,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-09-15T06:52:20.772397+00:00",
+  "unlocked": 4,
+  "percent": 26.7,
+  "updated_at_utc": "2026-09-24T12:16:18.491812+00:00",
   "achievements": [
     {
       "apiname": "ACHIEVEMENT01",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790248952,
       "name": "Novice Ninja",
       "description": "Find 5 Mininja."
     },
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "ACHIEVEMENT04",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790247864,
       "name": "Medal King",
       "description": "Talk to Medal King."
     },
@@ -79,15 +79,15 @@
     },
     {
       "apiname": "ACHIEVEMENT11",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790250545,
       "name": "Investigator",
       "description": "View 30 things in Help Mode."
     },
     {
       "apiname": "ACHIEVEMENT12",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790246830,
       "name": "Careful Hero",
       "description": "Complete the tutorial dungeon."
     },
