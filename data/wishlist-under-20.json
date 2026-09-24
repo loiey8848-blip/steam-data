@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-24T14:14:57.100313+00:00",
-  "count": 3,
+  "updated_at_utc": "2026-09-24T16:15:02.431461+00:00",
+  "count": 2,
   "games": [
     {
       "appid": 2757350,
@@ -29,20 +29,6 @@
       "price_initial_cny": 15.0,
       "price_final_cny": 15.0,
       "discount_percent": 0
-    },
-    {
-      "appid": 4209920,
-      "priority": 0,
-      "date_added_unix": 1785701325,
-      "date_added_utc": "2026-08-02T20:08:45+00:00",
-      "steam_url": "https://store.steampowered.com/app/4209920/",
-      "name": "不问凡尘",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 29.7,
-      "price_final_cny": 19.89,
-      "discount_percent": 33
     }
   ]
 }
