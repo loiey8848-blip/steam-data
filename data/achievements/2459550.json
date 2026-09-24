@@ -5,7 +5,7 @@
   "total": 100,
   "unlocked": 16,
   "percent": 16.0,
-  "updated_at_utc": "2026-09-23T22:14:00.172555+00:00",
+  "updated_at_utc": "2026-09-24T00:17:03.906548+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -607,105 +607,105 @@
       "achieved": 0,
       "unlocktime": 0,
       "name": "Oathkeeper",
-      "description": ""
+      "description": "On Heroic difficulty, forge a pact with every element at the Altar at the same time, then successfully fulfill the pact."
     },
     {
       "apiname": "XMAS_EVENT_WAVE_20",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Gift Defender",
-      "description": ""
+      "description": "Survive through wave 20 at the Snowridge Outpost."
     },
     {
       "apiname": "TD_EVENT_WAVE_20",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Frontier Guardian",
-      "description": ""
+      "description": "Survive through wave 20 at the Wyrmfell Bridge."
     },
     {
       "apiname": "WORLD_5_CASUAL_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Void Depths Traveler",
-      "description": ""
+      "description": "Clear the Void Depths on Casual difficulty or higher."
     },
     {
       "apiname": "WORLD_5_NORMAL_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Void Depths Explorer",
-      "description": ""
+      "description": "Clear the Void Depths on Normal difficulty or higher."
     },
     {
       "apiname": "WORLD_5_HEROIC_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Void Depths Pioneer",
-      "description": ""
+      "description": "Clear the Void Depths on Heroic difficulty."
     },
     {
       "apiname": "WORLD_5_HEROIC_SHARD_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Void Depths Conqueror",
-      "description": ""
+      "description": "Without using an event character, clear the Void Depths on Heroic difficulty with Infernal Shard Level 24."
     },
     {
       "apiname": "BOSS_FIGHT_SPECIAL_WORLD_5",
       "achieved": 0,
       "unlocktime": 0,
       "name": "All In",
-      "description": ""
+      "description": "Defeat the Eye of the Void before the end of round 8 on Heroic difficulty."
     },
     {
       "apiname": "WORLD_5_NO_TALENT_HEROIC_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Mad Genius",
-      "description": ""
+      "description": "Clear the Void Depths on Heroic difficulty without using any talents."
     },
     {
       "apiname": "PORTAL_X_TIMES",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Monster Express",
-      "description": ""
+      "description": "Let more than 10000 monsters pass through the portal in the Void Depths."
     },
     {
       "apiname": "ENIGMA_SANCTUM_FINISH",
       "achieved": 0,
       "unlocktime": 0,
       "name": "It's Over 9000!",
-      "description": ""
+      "description": "Complete a trial in the Enigma Sanctum with a score over 9000."
     },
     {
       "apiname": "ALL_ELEMENT_LARGE_TOWERS",
       "achieved": 0,
       "unlocktime": 0,
       "name": "The Big Five",
-      "description": ""
+      "description": "On Normal difficulty or higher, clear a stage while the Volcano Tower, Froststorm Tower, Thunder Tower, Starfall Tower, and Cauldron Tower are all on the field at the same time."
     },
     {
       "apiname": "ALL_COSMO_FEAST_PERK_COMPLETE",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Abyssal Foodie",
-      "description": ""
+      "description": "Enjoy the full Academy Course Meal during an adventure in the Void Depths."
     },
     {
       "apiname": "VOID_FLAME_RUN",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Thinking with Portals",
-      "description": ""
+      "description": "Clear the Chaos Realm on Heroic difficulty using the Void Flame."
     },
     {
       "apiname": "ALL_HEROIC_SHARD_CLEAR",
       "achieved": 0,
       "unlocktime": 0,
       "name": "Emberwarder",
-      "description": ""
+      "description": "Without using an event character, clear the Misty Forest, Bone Desert, Frost Ruins, Sealed Citadel and Void Depths on Heroic difficulty with Infernal Shard Level 24."
     }
   ]
 }
