@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 28,
-  "percent": 60.9,
-  "updated_at_utc": "2026-09-24T00:17:30.561422+00:00",
+  "unlocked": 29,
+  "percent": 63.0,
+  "updated_at_utc": "2026-09-24T02:14:01.706132+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "ACH_Capture_the_Flag",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790210219,
       "name": "Capture the Flag",
       "description": "Tear down all of Brencis's flags."
     },
