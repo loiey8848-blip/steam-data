@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-24T10:04:48.024173+00:00",
-  "count": 6,
+  "updated_at_utc": "2026-09-24T10:14:22.873708+00:00",
+  "count": 4,
   "games": [
     {
       "appid": 2757350,
@@ -57,34 +57,6 @@
       "price_initial_cny": 33.0,
       "price_final_cny": 19.8,
       "discount_percent": 40
-    },
-    {
-      "appid": 3575790,
-      "priority": 0,
-      "date_added_unix": 1775538040,
-      "date_added_utc": "2026-04-07T05:00:40+00:00",
-      "steam_url": "https://store.steampowered.com/app/3575790/",
-      "name": "小花园",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 18.0,
-      "price_final_cny": 18.0,
-      "discount_percent": 0
-    },
-    {
-      "appid": 3681780,
-      "priority": 0,
-      "date_added_unix": 1775048051,
-      "date_added_utc": "2026-04-01T12:54:11+00:00",
-      "steam_url": "https://store.steampowered.com/app/3681780/",
-      "name": "小微怪",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 22.0,
-      "price_final_cny": 19.8,
-      "discount_percent": 10
     }
   ]
 }
