@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-09-24T18:16:44.182976+00:00",
-  "count": 2,
+  "updated_at_utc": "2026-09-24T20:15:25.332882+00:00",
+  "count": 3,
   "games": [
     {
       "appid": 2757350,
@@ -28,6 +28,20 @@
       "currency": "CNY",
       "price_initial_cny": 15.0,
       "price_final_cny": 15.0,
+      "discount_percent": 0
+    },
+    {
+      "appid": 3575790,
+      "priority": 0,
+      "date_added_unix": 1775538040,
+      "date_added_utc": "2026-04-07T05:00:40+00:00",
+      "steam_url": "https://store.steampowered.com/app/3575790/",
+      "name": "小花园",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 18.0,
+      "price_final_cny": 18.0,
       "discount_percent": 0
     }
   ]
