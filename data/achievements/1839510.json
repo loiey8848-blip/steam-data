@@ -3,9 +3,9 @@
   "appid": 1839510,
   "game": "ＲＰＧタイム！～ライトの伝説～",
   "total": 15,
-  "unlocked": 4,
-  "percent": 26.7,
-  "updated_at_utc": "2026-09-24T12:16:18.491812+00:00",
+  "unlocked": 7,
+  "percent": 46.7,
+  "updated_at_utc": "2026-09-24T14:14:00.605163+00:00",
   "achievements": [
     {
       "apiname": "ACHIEVEMENT01",
@@ -16,15 +16,15 @@
     },
     {
       "apiname": "ACHIEVEMENT02",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790253025,
       "name": "Junior Ninja",
       "description": "Find 10 Mininja."
     },
     {
       "apiname": "ACHIEVEMENT03",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790254717,
       "name": "Master Ninja",
       "description": "Find 15 Mininja."
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "ACHIEVEMENT13",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790256162,
       "name": "Searcher",
       "description": "Complete The Subterrane Search Party."
     },
