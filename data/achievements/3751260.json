@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 42,
-  "percent": 91.3,
-  "updated_at_utc": "2026-09-24T06:17:21.535161+00:00",
+  "unlocked": 45,
+  "percent": 97.8,
+  "updated_at_utc": "2026-09-24T08:15:23.133868+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ACH_The_Dark_Mistress",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790232074,
       "name": "The Dark Mistress",
       "description": ""
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "ACH_Always_Hiding",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790234941,
       "name": "The Manumit",
       "description": ""
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "ACH_The_Knyazmaker",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790235751,
       "name": "The Knyazmaker",
       "description": ""
     },
