@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 35,
-  "percent": 76.1,
-  "updated_at_utc": "2026-09-24T04:14:05.301761+00:00",
+  "unlocked": 42,
+  "percent": 91.3,
+  "updated_at_utc": "2026-09-24T06:17:21.535161+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "ACH_Infamous",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790226391,
       "name": "Throne of Thorns",
       "description": "Reach peak Infamy in Vale Sangora."
     },
@@ -163,15 +163,15 @@
     },
     {
       "apiname": "ACH_Arbiters_Blade",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790228529,
       "name": "Arbiter's Blade",
       "description": "Restore St Mihai's sword to its former glory."
     },
     {
       "apiname": "ACH_Arbiters_Regalia",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790229296,
       "name": "Arbiter's Regalia",
       "description": "Gather all the parts of the Arbiter's set of armour and unlock their full potential."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "ACH_Arch_Warlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790229588,
       "name": "Arch Warlock",
       "description": "Unlock an Ultimate Perk in the Witchcraft tree."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "ACH_A_Quick_Learner",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790230621,
       "name": "Glass Ceiling",
       "description": "Reach Level 50."
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "ACH_The_Unquenchable_Thirst",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790226959,
       "name": "The Unquenchable Thirst",
       "description": ""
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "ACH_Eternal_Bliss",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790225917,
       "name": "Together Forever",
       "description": ""
     },
