@@ -1,8 +1,54 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-24T14:14:57.100313+00:00",
-  "owned_games": 1472,
-  "new_games": [],
+  "updated_at_utc": "2026-09-24T16:15:02.431461+00:00",
+  "owned_games": 1477,
+  "new_games": [
+    {
+      "appid": 2106670,
+      "name": "Gatekeeper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2020710,
+      "name": "Havendock",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1214470,
+      "name": "Hotel Renovator",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1364100,
+      "name": "Lacuna",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1348690,
+      "name": "Oaken",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1978,11 +2024,11 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1790265400,
+      "last_played_utc": "2026-09-24T15:56:40+00:00",
+      "recent": true
     },
     {
       "appid": 870780,
@@ -4100,6 +4146,15 @@
       "recent": false
     },
     {
+      "appid": 2106670,
+      "name": "Gatekeeper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1771360,
       "name": "Gerda: A Flame in Winter",
       "playtime_minutes": 0,
@@ -4685,6 +4740,15 @@
       "recent": false
     },
     {
+      "appid": 2020710,
+      "name": "Havendock",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1761620,
       "name": "Headbangers: Rhythm Royale",
       "playtime_minutes": 0,
@@ -5128,6 +5192,15 @@
     {
       "appid": 2089450,
       "name": "Hot Springs Story 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1214470,
+      "name": "Hotel Renovator",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5879,6 +5952,15 @@
       "playtime_hours": 2.3,
       "last_played_unix": 1698759456,
       "last_played_utc": "2023-10-31T13:37:36+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1364100,
+      "name": "Lacuna",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -7423,6 +7505,15 @@
     {
       "appid": 2337860,
       "name": "Nubs!",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1348690,
+      "name": "Oaken",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

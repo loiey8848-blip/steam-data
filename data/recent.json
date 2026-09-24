@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-24T14:14:57.100313+00:00",
+  "updated_at_utc": "2026-09-24T16:15:02.431461+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -16,7 +16,7 @@
     {
       "appid": 4243990,
       "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 2624,
+      "playtime_2weeks": 2553,
       "playtime_forever": 3106,
       "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
       "playtime_windows_forever": 3106,
@@ -152,6 +152,17 @@
       "playtime_forever": 199,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 199,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 90,
+      "playtime_forever": 90,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 90,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
