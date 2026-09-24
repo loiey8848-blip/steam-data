@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 7,
-  "percent": 14.3,
-  "updated_at_utc": "2026-09-24T16:14:46.405392+00:00",
+  "unlocked": 10,
+  "percent": 20.4,
+  "updated_at_utc": "2026-09-24T18:16:26.396914+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_35",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790267954,
       "name": "Paranatural Agility ",
       "description": "Perform 3 Perfect Dodges in less than 6 seconds."
     },
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_41",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790273060,
       "name": "Core Competency",
       "description": "Obtain a Health Upgrade or Power Upgrade."
     },
@@ -310,8 +310,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_43",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790267632,
       "name": "Finalization Protocol",
       "description": ""
     },

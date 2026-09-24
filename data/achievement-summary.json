@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-24T16:15:02.431461+00:00",
+  "updated_at_utc": "2026-09-24T18:16:44.182976+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2439,6 +2439,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1108000,
+      "name": "Children of Silentown",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 736190,
       "name": "Chinese Parents",
       "playtime_minutes": 744,
@@ -2633,14 +2645,14 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1790265400,
-      "last_played_utc": "2026-09-24T15:56:40+00:00",
+      "playtime_minutes": 153,
+      "playtime_hours": 2.5,
+      "last_played_unix": 1790272627,
+      "last_played_utc": "2026-09-24T17:57:07+00:00",
       "recent": true,
-      "achievements_unlocked": 7,
+      "achievements_unlocked": 10,
       "achievements_total": 49,
-      "achievement_percent": 14.3
+      "achievement_percent": 20.4
     },
     {
       "appid": 870780,
@@ -13791,6 +13803,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1205170,
+      "name": "Super Magbot",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1619990,
       "name": "SUPER PEOPLE Testing Grounds",
       "playtime_minutes": 0,
@@ -14093,6 +14117,18 @@
     {
       "appid": 2054810,
       "name": "Tennis Club Story",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1912750,
+      "name": "Terra Memoria",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -17633,6 +17669,18 @@
     {
       "appid": 1092400,
       "name": "月球坠落时 Moon Fall",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 4885890,
+      "name": "田游族谱",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
