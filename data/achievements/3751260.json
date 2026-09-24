@@ -3,9 +3,9 @@
   "appid": 3751260,
   "game": "The Blood of Dawnwalker",
   "total": 46,
-  "unlocked": 29,
-  "percent": 63.0,
-  "updated_at_utc": "2026-09-24T02:14:01.706132+00:00",
+  "unlocked": 35,
+  "percent": 76.1,
+  "updated_at_utc": "2026-09-24T04:14:05.301761+00:00",
   "achievements": [
     {
       "apiname": "ACH_Selfish",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ACH_The_Coward",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790222390,
       "name": "A Hero They Deserve",
       "description": ""
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "ACH_Nightbloom",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790219768,
       "name": "Misery Loves Company",
       "description": ""
     },
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "ACH_The_Turncoat",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790221745,
       "name": "The Turncoat",
       "description": ""
     },
     {
       "apiname": "ACH_The_Omen_Bringer",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790220901,
       "name": "The Patricide",
       "description": ""
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "ACH_Tsarinas_Pet",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790218955,
       "name": "The Tsarina's Favourite Human",
       "description": ""
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "ACH_Valley_Trotter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790218950,
       "name": "Tour Guide Training",
       "description": "Visit all of Vale Sangora's villages."
     },
