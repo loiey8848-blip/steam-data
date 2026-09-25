@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 10,
-  "percent": 20.4,
-  "updated_at_utc": "2026-09-25T02:13:29.237573+00:00",
+  "unlocked": 13,
+  "percent": 26.5,
+  "updated_at_utc": "2026-09-25T04:13:56.452684+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790306054,
       "name": "Rescue Mission",
       "description": ""
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_38",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790304900,
       "name": "Out of Uniform",
       "description": "Equip an outfit item in every customization slot."
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_44",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790306327,
       "name": "Paranatural Apprentice",
       "description": "Craft an Artifact."
     },
