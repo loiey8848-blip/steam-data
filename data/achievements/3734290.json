@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 18,
-  "percent": 41.9,
-  "updated_at_utc": "2026-09-25T14:14:52.833846+00:00",
+  "unlocked": 23,
+  "percent": 53.5,
+  "updated_at_utc": "2026-09-25T16:14:48.309592+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "FIRST_BURNED_POOP_CREATED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790346283,
       "name": "Oh no, the Kitchen is on Fire!",
       "description": "Create your first burnt poop!"
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "FEED_CUSTOMERS_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790346310,
       "name": "Restaurant Apprentice",
       "description": "Feed 1000 customers."
     },
@@ -268,15 +268,15 @@
     },
     {
       "apiname": "COLLECT_POOPS_IN_RUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790346283,
       "name": "Waste Disposal Management",
       "description": "Collect 50 poops in a single run!"
     },
     {
       "apiname": "CREATE_SASHIMI_IN_RUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790352597,
       "name": "Sashimi Maniac",
       "description": "Create 1000 sashimis in a single run!"
     },
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "WIN_CHEF_DIFFICULTY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790352597,
       "name": "5 Gourmet Points!",
       "description": "Win a run with the Chef difficulty"
     },

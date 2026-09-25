@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-25T14:15:09.765521+00:00",
+  "updated_at_utc": "2026-09-25T16:15:04.933546+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -58,23 +58,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2075800,
-      "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 585,
-      "playtime_forever": 2096,
-      "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
-      "playtime_windows_forever": 2096,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3669870,
       "name": "CONTROL Resonant",
       "playtime_2weeks": 581,
       "playtime_forever": 581,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
       "playtime_windows_forever": 581,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2075800,
+      "name": "STAR WARS Zero Company™",
+      "playtime_2weeks": 572,
+      "playtime_forever": 2096,
+      "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
+      "playtime_windows_forever": 2096,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,23 +157,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 246,
+      "playtime_forever": 270,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 270,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2572040,
       "name": "Woodo",
       "playtime_2weeks": 224,
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3734290,
-      "name": "Goblin Sushi",
-      "playtime_2weeks": 126,
-      "playtime_forever": 150,
-      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
-      "playtime_windows_forever": 150,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
