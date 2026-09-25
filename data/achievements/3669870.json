@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 18,
-  "percent": 36.7,
-  "updated_at_utc": "2026-09-25T18:15:26.881057+00:00",
+  "unlocked": 20,
+  "percent": 40.8,
+  "updated_at_utc": "2026-09-25T20:13:16.011597+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790361166,
       "name": "Thermal Termination",
       "description": ""
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_32",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790361141,
       "name": "Paranatural Craftsman",
       "description": "Equip 3 Artifacts."
     },

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-25T18:15:43.916919+00:00",
+  "updated_at_utc": "2026-09-25T20:13:31.525624+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -47,6 +47,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 695,
+      "playtime_forever": 695,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 695,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3998900,
       "name": "Claws Of Power",
       "playtime_2weeks": 677,
@@ -58,34 +69,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3669870,
-      "name": "CONTROL Resonant",
-      "playtime_2weeks": 581,
-      "playtime_forever": 581,
-      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 581,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3116700,
       "name": "Reap and Rush",
       "playtime_2weeks": 490,
       "playtime_forever": 3193,
       "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
       "playtime_windows_forever": 3193,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2075800,
-      "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 451,
-      "playtime_forever": 2096,
-      "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
-      "playtime_windows_forever": 2096,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -119,6 +108,17 @@
       "playtime_forever": 360,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 360,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2075800,
+      "name": "STAR WARS Zero Company™",
+      "playtime_2weeks": 334,
+      "playtime_forever": 2096,
+      "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
+      "playtime_windows_forever": 2096,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
