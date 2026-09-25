@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 15,
-  "percent": 30.6,
-  "updated_at_utc": "2026-09-25T10:14:11.074408+00:00",
+  "unlocked": 16,
+  "percent": 32.7,
+  "updated_at_utc": "2026-09-25T12:17:12.232799+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_36",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790336613,
       "name": "Love to Deep Dive",
       "description": ""
     },
