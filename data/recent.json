@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-25T06:17:14.681501+00:00",
+  "updated_at_utc": "2026-09-25T08:14:42.301270+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -49,7 +49,7 @@
     {
       "appid": 2075800,
       "name": "STAR WARS Zero Company™",
-      "playtime_2weeks": 936,
+      "playtime_2weeks": 872,
       "playtime_forever": 2096,
       "img_icon_url": "2ea789a3f42fff1d49327520de8b97b0ef25e210",
       "playtime_windows_forever": 2096,
@@ -146,23 +146,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1839510,
+      "name": "ＲＰＧタイム！～ライトの伝説～",
+      "playtime_2weeks": 253,
+      "playtime_forever": 289,
+      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
+      "playtime_windows_forever": 289,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2572040,
       "name": "Woodo",
       "playtime_2weeks": 224,
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1839510,
-      "name": "ＲＰＧタイム！～ライトの伝説～",
-      "playtime_2weeks": 163,
-      "playtime_forever": 199,
-      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
-      "playtime_windows_forever": 199,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

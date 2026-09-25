@@ -3,9 +3,9 @@
   "appid": 1839510,
   "game": "ＲＰＧタイム！～ライトの伝説～",
   "total": 15,
-  "unlocked": 7,
-  "percent": 46.7,
-  "updated_at_utc": "2026-09-25T06:16:19.422608+00:00",
+  "unlocked": 11,
+  "percent": 73.3,
+  "updated_at_utc": "2026-09-25T08:13:47.030239+00:00",
   "achievements": [
     {
       "apiname": "ACHIEVEMENT01",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ACHIEVEMENT05",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790318403,
       "name": "Swordmaster",
       "description": "Get all swords."
     },
@@ -58,22 +58,22 @@
     },
     {
       "apiname": "ACHIEVEMENT08",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790319758,
       "name": "Burger Baron",
       "description": "Get all burgers."
     },
     {
       "apiname": "ACHIEVEMENT09",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790323583,
       "name": "Pottery Pro",
       "description": "Inspect all pots and vases."
     },
     {
       "apiname": "ACHIEVEMENT10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790321293,
       "name": "Funny Face",
       "description": "Inspect all cutout photo stands."
     },
