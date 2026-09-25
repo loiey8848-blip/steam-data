@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 13,
-  "percent": 26.5,
-  "updated_at_utc": "2026-09-25T04:13:56.452684+00:00",
+  "unlocked": 15,
+  "percent": 30.6,
+  "updated_at_utc": "2026-09-25T06:16:58.453411+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_11",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790312018,
       "name": "Curtain Fall",
       "description": ""
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_23",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790310022,
       "name": "Be What You Want to Be",
       "description": ""
     },
