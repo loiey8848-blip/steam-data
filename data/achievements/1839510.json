@@ -3,9 +3,9 @@
   "appid": 1839510,
   "game": "ＲＰＧタイム！～ライトの伝説～",
   "total": 15,
-  "unlocked": 11,
-  "percent": 73.3,
-  "updated_at_utc": "2026-09-25T08:13:47.030239+00:00",
+  "unlocked": 15,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-25T10:13:30.316533+00:00",
   "achievements": [
     {
       "apiname": "ACHIEVEMENT01",
@@ -44,15 +44,15 @@
     },
     {
       "apiname": "ACHIEVEMENT06",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790324813,
       "name": "Doodler",
       "description": "Get all doodle sheets."
     },
     {
       "apiname": "ACHIEVEMENT07",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790328621,
       "name": "Hungry Hero",
       "description": "Get all food."
     },
@@ -100,15 +100,15 @@
     },
     {
       "apiname": "ACHIEVEMENT14",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790329416,
       "name": "Slow Starter",
       "description": "See all Title Screen events."
     },
     {
       "apiname": "ACHIEVEMENT15",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790330913,
       "name": "Seven Shards",
       "description": "Collect all 7 Shards of Light without eating any."
     }
