@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 15,
-  "percent": 34.9,
-  "updated_at_utc": "2026-09-25T12:17:12.409050+00:00",
+  "unlocked": 18,
+  "percent": 41.9,
+  "updated_at_utc": "2026-09-25T14:14:52.833846+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "FIRST_SASHIMI_CREATED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790344199,
       "name": "Thinly Sliced",
       "description": "Create your first Sashimi."
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "INTERACT_WITH_TRASH_GOBLIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790344199,
       "name": "Garbage Goblin?",
       "description": "Trash an upgrade with the trash goblin."
     },
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "WIN_NORMAL_DIFFICULTY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790344199,
       "name": "Homecooking Advanced",
       "description": "Win a run with the Normal difficulty"
     }
