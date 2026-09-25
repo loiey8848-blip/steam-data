@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 23,
-  "percent": 53.5,
-  "updated_at_utc": "2026-09-25T16:14:48.309592+00:00",
+  "unlocked": 33,
+  "percent": 76.7,
+  "updated_at_utc": "2026-09-25T18:15:27.140791+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "OBTAIN_PERK_JUICE_EXTRA_SLOT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790356737,
       "name": "Extra Juice",
       "description": "Unlock the Extra Juice Perk"
     },
@@ -58,15 +58,15 @@
     },
     {
       "apiname": "OBTAIN_PERK_REROLL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790356737,
       "name": "Another Try",
       "description": "Unlock the Another Try Perk"
     },
     {
       "apiname": "OBTAIN_PERK_RICE_COOKER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790356737,
       "name": "Rice Apprentice",
       "description": "Unlock the Rice Apprentice Perk"
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "FIRST_HIGH_PRICE_SALE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790356737,
       "name": "Astronomical Bill",
       "description": "Sell your first dish with a price higher than 100000"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "CREATE_POOP_STAGE_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790356737,
       "name": "Constipation Prescription",
       "description": "Create 1500 poops."
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "LANDLORD_EXPLODE_STAGE_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790354749,
       "name": "I need a lawyer!",
       "description": "Explode the landlord 10 times."
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "FEED_CUSTOMERS_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790354721,
       "name": "Restaurant Prodigy",
       "description": "Feed 5000 customers."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "MIXER_USAGE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790354742,
       "name": "I can see it spinning!",
       "description": "Use the mixer 100 times."
     },
@@ -282,15 +282,15 @@
     },
     {
       "apiname": "WIN_DEVIL_DIFFICULTY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790354711,
       "name": "My blood is sushi!",
       "description": "Win a run with the Devil difficulty"
     },
     {
       "apiname": "WIN_KING_DIFFICULTY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790353733,
       "name": "Royal Decree!",
       "description": "Win a run with the King difficulty"
     },
