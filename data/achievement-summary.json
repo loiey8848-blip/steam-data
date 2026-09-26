@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-26T04:14:00.497687+00:00",
+  "updated_at_utc": "2026-09-26T06:17:00.463484+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2645,14 +2645,14 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 755,
-      "playtime_hours": 12.6,
-      "last_played_unix": 1790395650,
-      "last_played_utc": "2026-09-26T04:07:30+00:00",
+      "playtime_minutes": 850,
+      "playtime_hours": 14.2,
+      "last_played_unix": 1790401344,
+      "last_played_utc": "2026-09-26T05:42:24+00:00",
       "recent": true,
-      "achievements_unlocked": 21,
+      "achievements_unlocked": 22,
       "achievements_total": 49,
-      "achievement_percent": 42.9
+      "achievement_percent": 44.9
     },
     {
       "appid": 870780,
@@ -5623,8 +5623,8 @@
       "name": "Goblin Sushi",
       "playtime_minutes": 360,
       "playtime_hours": 6.0,
-      "last_played_unix": 1790356882,
-      "last_played_utc": "2026-09-25T17:21:22+00:00",
+      "last_played_unix": 1790402409,
+      "last_played_utc": "2026-09-26T06:00:09+00:00",
       "recent": true,
       "achievements_unlocked": 33,
       "achievements_total": 43,
@@ -6393,7 +6393,7 @@
       "playtime_hours": 0.0,
       "last_played_unix": 1789190754,
       "last_played_utc": "2026-09-12T05:25:54+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 0,
       "achievements_total": 72,
       "achievement_percent": 0.0
