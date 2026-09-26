@@ -1,0 +1,88 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2103680,
+  "game": "Mediterranea Inferno",
+  "total": 11,
+  "unlocked": 1,
+  "percent": 9.1,
+  "updated_at_utc": "2026-09-26T18:14:53.175135+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Puglia",
+      "description": "Survive the first night of the vacation"
+    },
+    {
+      "apiname": "ACH_0",
+      "achieved": 1,
+      "unlocktime": 1790446426,
+      "name": "The Tower",
+      "description": "See the puppet theather during the first Mirage"
+    },
+    {
+      "apiname": "ACH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pump It Up",
+      "description": "Check all cabina during the mirage at the beach"
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cloistered",
+      "description": "Shoot a neorealist scene during the Mirage on the film set"
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stand-off",
+      "description": "Win the duel unharmed during the Mirage in the rain"
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sell the Essence",
+      "description": "Sell the Italian dream during the Mirage at the cemetery"
+    },
+    {
+      "apiname": "ACH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Ragazzi del Sole",
+      "description": "Collect enough holy cards for one final Mirage"
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crisis",
+      "description": "Witness an after-dinner nightmare"
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heritage",
+      "description": "Ascend to Heaven"
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Thanks",
+      "description": "Refuse to buy a Mirage"
+    },
+    {
+      "apiname": "ACH_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Try",
+      "description": "Finish the game once"
+    }
+  ]
+}
