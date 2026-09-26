@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 38,
-  "percent": 88.4,
-  "updated_at_utc": "2026-09-26T08:15:03.148748+00:00",
+  "unlocked": 43,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-26T10:13:28.106254+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -72,15 +72,15 @@
     },
     {
       "apiname": "OBTAIN_PERK_SALMON_HOSO_MAKI_START",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790416093,
       "name": "Salmon Farmer",
       "description": "Unlock the Salmon Farmer Perk"
     },
     {
       "apiname": "OBTAIN_PERK_YAKITORI_START",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790414906,
       "name": "Chicken Hoarder",
       "description": "Unlock the Chicken Hoarder Perk"
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "CREATE_POOP_STAGE_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790415279,
       "name": "Severe Food Safety Violation",
       "description": "Create 10000 poops."
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "LANDLORD_EXPLODE_STAGE_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790413846,
       "name": "Reversed Eviction Notice",
       "description": "Explode the landlord 100 times."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "FEED_CUSTOMERS_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790414906,
       "name": "Restaurant Expert",
       "description": "Feed 10000 customers."
     },
