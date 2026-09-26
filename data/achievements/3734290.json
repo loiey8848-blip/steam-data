@@ -3,9 +3,9 @@
   "appid": 3734290,
   "game": "Goblin Sushi",
   "total": 43,
-  "unlocked": 33,
-  "percent": 76.7,
-  "updated_at_utc": "2026-09-26T06:16:44.073901+00:00",
+  "unlocked": 38,
+  "percent": 88.4,
+  "updated_at_utc": "2026-09-26T08:15:03.148748+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "OBTAIN_PERK_IKURA_MAKI_START",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790409649,
       "name": "Egg Collector",
       "description": "Unlock the Egg Collector Perk"
     },
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "OBTAIN_PERK_KNIFE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790403672,
       "name": "Knife Master",
       "description": "Unlock the Knife Master Perk"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "LANDLORD_STARVATION",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790403672,
       "name": "Poorman’s Economics",
       "description": "Starve the landlord 20 times."
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "LANDLORD_EXPLODE_STAGE_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790407544,
       "name": "Serial Tenant",
       "description": "Explode the landlord 30 times."
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "RICE_COOKER_USAGE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790409649,
       "name": "Rice Factory",
       "description": "Produce 50000 rice!"
     },

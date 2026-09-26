@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-26T06:17:00.463484+00:00",
+  "updated_at_utc": "2026-09-26T08:15:19.395059+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -14,23 +14,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4243990,
-      "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 2029,
-      "playtime_forever": 3106,
-      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
-      "playtime_windows_forever": 3106,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 268050,
       "name": "The Evil Within",
       "playtime_2weeks": 2018,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4243990,
+      "name": "Path of Idle: Old Gods Rising",
+      "playtime_2weeks": 1911,
+      "playtime_forever": 3106,
+      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
+      "playtime_windows_forever": 3106,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 456,
+      "playtime_forever": 480,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 480,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1839510,
       "name": "ＲＰＧタイム！～ライトの伝説～",
       "playtime_2weeks": 400,
@@ -97,17 +108,6 @@
       "playtime_forever": 377,
       "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
       "playtime_windows_forever": 377,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3734290,
-      "name": "Goblin Sushi",
-      "playtime_2weeks": 336,
-      "playtime_forever": 360,
-      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
-      "playtime_windows_forever": 360,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
