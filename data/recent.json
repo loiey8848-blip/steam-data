@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-26T18:15:40.004067+00:00",
+  "updated_at_utc": "2026-09-26T20:13:10.946937+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -27,7 +27,7 @@
     {
       "appid": 4243990,
       "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 1538,
+      "playtime_2weeks": 1471,
       "playtime_forever": 3106,
       "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
       "playtime_windows_forever": 3106,
@@ -168,6 +168,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2103680,
+      "name": "Mediterranea Inferno",
+      "playtime_2weeks": 92,
+      "playtime_forever": 92,
+      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
+      "playtime_windows_forever": 92,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
@@ -229,17 +240,6 @@
       "playtime_forever": 3262,
       "img_icon_url": "5eb7d3081d17f214b5b3c557933840c340814caa",
       "playtime_windows_forever": 3262,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2103680,
-      "name": "Mediterranea Inferno",
-      "playtime_2weeks": 2,
-      "playtime_forever": 0,
-      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
-      "playtime_windows_forever": 0,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
