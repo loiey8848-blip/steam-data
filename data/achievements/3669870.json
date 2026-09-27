@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 24,
-  "percent": 49.0,
-  "updated_at_utc": "2026-09-27T18:15:30.650681+00:00",
+  "unlocked": 25,
+  "percent": 51.0,
+  "updated_at_utc": "2026-09-27T20:13:32.895335+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790539231,
       "name": "Sibling Reunion",
       "description": ""
     },
