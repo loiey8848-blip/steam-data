@@ -3,9 +3,9 @@
   "appid": 2103680,
   "game": "Mediterranea Inferno",
   "total": 11,
-  "unlocked": 5,
-  "percent": 45.5,
-  "updated_at_utc": "2026-09-27T04:13:13.291769+00:00",
+  "unlocked": 11,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-27T06:16:41.893552+00:00",
   "achievements": [
     {
       "apiname": "ACH_12",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "ACH_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790486892,
       "name": "Pump It Up",
       "description": "Check all cabina during the mirage at the beach"
     },
     {
       "apiname": "ACH_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790485943,
       "name": "Cloistered",
       "description": "Shoot a neorealist scene during the Mirage on the film set"
     },
@@ -44,15 +44,15 @@
     },
     {
       "apiname": "ACH_4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790487665,
       "name": "Sell the Essence",
       "description": "Sell the Italian dream during the Mirage at the cemetery"
     },
     {
       "apiname": "ACH_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790485404,
       "name": "I Ragazzi del Sole",
       "description": "Collect enough holy cards for one final Mirage"
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ACH_7",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790489207,
       "name": "Heritage",
       "description": "Ascend to Heaven"
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "ACH_13",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790484972,
       "name": "First Try",
       "description": "Finish the game once"
     }
