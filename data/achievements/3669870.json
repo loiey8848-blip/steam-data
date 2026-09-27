@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 25,
-  "percent": 51.0,
-  "updated_at_utc": "2026-09-27T20:13:32.895335+00:00",
+  "unlocked": 30,
+  "percent": 61.2,
+  "updated_at_utc": "2026-09-27T22:13:20.089043+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790546839,
       "name": "Stop it at the Source",
       "description": ""
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790540447,
       "name": "The First Link",
       "description": ""
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_16",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790541170,
       "name": "Zone Warden",
       "description": "Unlock 40 Zone Upgrades."
     },
@@ -219,15 +219,15 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_30",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790544607,
       "name": "Astral Adept",
       "description": "Max-out any Aberrant Form."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_31",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790544072,
       "name": "Field Control",
       "description": "Reach level 5 in every Zone."
     },
