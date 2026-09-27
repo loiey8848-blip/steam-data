@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 16,
-  "percent": 16.0,
-  "updated_at_utc": "2026-09-27T16:13:38.543993+00:00",
+  "unlocked": 19,
+  "percent": 19.0,
+  "updated_at_utc": "2026-09-27T18:15:04.031013+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "WORLD_3_CASUAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790528606,
       "name": "Frost Ruins Traveler",
       "description": "Clear the Frost Ruins on Casual or higher."
     },
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "WORLD_3_NORMAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790528607,
       "name": "Frost Ruins Explorer",
       "description": "Clear the Frost Ruins on Normal or higher."
     },
@@ -436,8 +436,8 @@
     },
     {
       "apiname": "BUILD_TOWER_TYPE_LEVEL2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790528165,
       "name": "Tower Specialist",
       "description": "Build 30 different types of towers."
     },
