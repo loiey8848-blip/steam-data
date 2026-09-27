@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-27T12:16:59.927736+00:00",
+  "updated_at_utc": "2026-09-27T14:13:28.448547+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2645,14 +2645,14 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 969,
-      "playtime_hours": 16.1,
-      "last_played_unix": 1790509504,
-      "last_played_utc": "2026-09-27T11:45:04+00:00",
+      "playtime_minutes": 1037,
+      "playtime_hours": 17.3,
+      "last_played_unix": 1790513545,
+      "last_played_utc": "2026-09-27T12:52:25+00:00",
       "recent": true,
-      "achievements_unlocked": 23,
+      "achievements_unlocked": 24,
       "achievements_total": 49,
-      "achievement_percent": 46.9
+      "achievement_percent": 49.0
     },
     {
       "appid": 870780,
@@ -8325,7 +8325,7 @@
       "playtime_hours": 5.3,
       "last_played_unix": 1789307395,
       "last_played_utc": "2026-09-13T13:49:55+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 29,
       "achievements_total": 29,
       "achievement_percent": 100.0
