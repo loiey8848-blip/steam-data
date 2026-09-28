@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 40,
-  "percent": 81.6,
-  "updated_at_utc": "2026-09-28T14:16:19.961734+00:00",
+  "unlocked": 41,
+  "percent": 83.7,
+  "updated_at_utc": "2026-09-28T16:15:55.924658+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790610373,
       "name": "Diligent Consultant",
       "description": "Complete 20 FBC Tasks."
     },
