@@ -1,8 +1,144 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-28T16:16:11.472098+00:00",
-  "owned_games": 1483,
-  "new_games": [],
+  "updated_at_utc": "2026-09-28T18:16:52.066923+00:00",
+  "owned_games": 1498,
+  "new_games": [
+    {
+      "appid": 668550,
+      "name": "8Doors: Arum's Afterlife Adventure",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1367300,
+      "name": "Blade Assault",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1325900,
+      "name": "Demon Turf",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 718650,
+      "name": "Driftland: The Magic Revival",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1298140,
+      "name": "Fobia - St. Dinfna Hotel",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 735290,
+      "name": "Genesis Noir",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1231880,
+      "name": "Haiku, the Robot",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2521630,
+      "name": "Mini Settlers",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3028310,
+      "name": "Nordhold",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1899060,
+      "name": "Pocket Mirror ~ GoldenerTraum",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1069690,
+      "name": "Rogue Lords",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2134770,
+      "name": "SteamWorld Build",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 865610,
+      "name": "Tails Noir",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1266030,
+      "name": "The Pale Beyond",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2744010,
+      "name": "Urban Jungle",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -115,6 +251,15 @@
     {
       "appid": 2074810,
       "name": "8-Bit Farm",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 668550,
+      "name": "8Doors: Arum's Afterlife Adventure",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -1211,6 +1356,15 @@
       "recent": false
     },
     {
+      "appid": 1367300,
+      "name": "Blade Assault",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2333510,
       "name": "Blade Prince Academy",
       "playtime_minutes": 0,
@@ -1987,10 +2141,10 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 1484,
-      "playtime_hours": 24.7,
-      "last_played_unix": 1790610984,
-      "last_played_utc": "2026-09-28T15:56:24+00:00",
+      "playtime_minutes": 1588,
+      "playtime_hours": 26.5,
+      "last_played_unix": 1790617792,
+      "last_played_utc": "2026-09-28T17:49:52+00:00",
       "recent": true
     },
     {
@@ -2633,6 +2787,15 @@
       "recent": false
     },
     {
+      "appid": 1325900,
+      "name": "Demon Turf",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 897930,
       "name": "Demonheart: Hunters",
       "playtime_minutes": 206,
@@ -3121,6 +3284,15 @@
     {
       "appid": 592740,
       "name": "Drift 7 Islands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 718650,
+      "name": "Driftland: The Magic Revival",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -3884,6 +4056,15 @@
       "recent": false
     },
     {
+      "appid": 1298140,
+      "name": "Fobia - St. Dinfna Hotel",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2720280,
       "name": "Follow the meaning",
       "playtime_minutes": 0,
@@ -4120,6 +4301,15 @@
     {
       "appid": 2106670,
       "name": "Gatekeeper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 735290,
+      "name": "Genesis Noir",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -4619,6 +4809,15 @@
       "playtime_hours": 11.5,
       "last_played_unix": 1766491945,
       "last_played_utc": "2025-12-23T12:12:25+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1231880,
+      "name": "Haiku, the Robot",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -6836,6 +7035,15 @@
       "recent": false
     },
     {
+      "appid": 2521630,
+      "name": "Mini Settlers",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2411910,
       "name": "miniBONG",
       "playtime_minutes": 11859,
@@ -7463,6 +7671,15 @@
       "playtime_hours": 5.8,
       "last_played_unix": 1775015369,
       "last_played_utc": "2026-04-01T03:49:29+00:00",
+      "recent": false
+    },
+    {
+      "appid": 3028310,
+      "name": "Nordhold",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -8204,6 +8421,15 @@
       "recent": false
     },
     {
+      "appid": 1899060,
+      "name": "Pocket Mirror ~ GoldenerTraum",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1918530,
       "name": "Pocket Stables",
       "playtime_minutes": 0,
@@ -8917,6 +9143,15 @@
     {
       "appid": 787810,
       "name": "Rogue Heroes: Ruins of Tasos",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1069690,
+      "name": "Rogue Lords",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -10157,6 +10392,15 @@
       "recent": false
     },
     {
+      "appid": 2134770,
+      "name": "SteamWorld Build",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 571310,
       "name": "SteamWorld Dig 2",
       "playtime_minutes": 0,
@@ -10465,6 +10709,15 @@
     {
       "appid": 744550,
       "name": "Tactical Operations",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 865610,
+      "name": "Tails Noir",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11284,6 +11537,15 @@
     {
       "appid": 624270,
       "name": "The Painscreek Killings",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1266030,
+      "name": "The Pale Beyond",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -12422,6 +12684,15 @@
       "playtime_hours": 0.1,
       "last_played_unix": 1750524190,
       "last_played_utc": "2025-06-21T16:43:10+00:00",
+      "recent": false
+    },
+    {
+      "appid": 2744010,
+      "name": "Urban Jungle",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {

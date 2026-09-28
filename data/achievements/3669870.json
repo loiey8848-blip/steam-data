@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 41,
-  "percent": 83.7,
-  "updated_at_utc": "2026-09-28T16:15:55.924658+00:00",
+  "unlocked": 46,
+  "percent": 93.9,
+  "updated_at_utc": "2026-09-28T18:16:35.493569+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_17",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790617191,
       "name": "Astral",
       "description": "Obtain 4 Power Upgrades."
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_22",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790617788,
       "name": "Panopticon Intern",
       "description": "Contain Altered Items and help Langston."
     },
@@ -198,22 +198,22 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_27",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790615806,
       "name": "Dog's Best Friend",
       "description": "Gain a furry friend."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_28",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790614398,
       "name": "Backroom Espionage",
       "description": "Visit all the Secret Hideouts."
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_29",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790613252,
       "name": "Budding Mycologist",
       "description": "Deal with the major Mold Incidents in Manhattan."
     },
