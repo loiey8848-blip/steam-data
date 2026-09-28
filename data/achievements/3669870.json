@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 30,
-  "percent": 61.2,
-  "updated_at_utc": "2026-09-28T02:13:49.403480+00:00",
+  "unlocked": 33,
+  "percent": 67.3,
+  "updated_at_utc": "2026-09-28T04:14:52.556212+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_7",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790568502,
       "name": "Honorable Discharge",
       "description": ""
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_13",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790567142,
       "name": "Astral Potency",
       "description": "Reach Aberrant Strength 100."
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790567041,
       "name": "Budding Analyst",
       "description": "Help Pope finish her research. "
     },
