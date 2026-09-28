@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-28T08:17:18.432040+00:00",
+  "updated_at_utc": "2026-09-28T10:15:47.515850+00:00",
   "games": [
     {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 2890,
+      "playtime_2weeks": 2852,
       "playtime_forever": 3094,
       "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
       "playtime_windows_forever": 3094,
@@ -71,7 +71,7 @@
     {
       "appid": 3998900,
       "name": "Claws Of Power",
-      "playtime_2weeks": 481,
+      "playtime_2weeks": 413,
       "playtime_forever": 712,
       "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
       "playtime_windows_forever": 712,
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4243990,
-      "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 122,
-      "playtime_forever": 3106,
-      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
-      "playtime_windows_forever": 3106,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
@@ -218,6 +207,17 @@
       "playtime_forever": 1126,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "playtime_windows_forever": 1126,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4243990,
+      "name": "Path of Idle: Old Gods Rising",
+      "playtime_2weeks": 4,
+      "playtime_forever": 3106,
+      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
+      "playtime_windows_forever": 3106,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
