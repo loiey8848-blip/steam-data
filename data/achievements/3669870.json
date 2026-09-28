@@ -3,21 +3,21 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 33,
-  "percent": 67.3,
-  "updated_at_utc": "2026-09-28T04:14:52.556212+00:00",
+  "unlocked": 39,
+  "percent": 79.6,
+  "updated_at_utc": "2026-09-28T06:18:28.406819+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790569640,
       "name": "Graffiti Artist",
       "description": ""
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790569640,
       "name": "Repeating, Refracting",
       "description": ""
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_18",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790571276,
       "name": "Combat Readiness",
       "description": ""
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_21",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790570080,
       "name": "Form Over Function",
       "description": "Obtain 12 outfit items."
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_34",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790572539,
       "name": "Intense Precision ",
       "description": "Keep Dominance active for 60 seconds."
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_40",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790572061,
       "name": "FBC Recruit",
       "description": "Complete an FBC Task."
     },
