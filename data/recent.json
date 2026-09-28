@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-28T10:15:47.515850+00:00",
+  "updated_at_utc": "2026-09-28T12:18:05.684574+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -27,10 +27,10 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_2weeks": 1414,
-      "playtime_forever": 1414,
+      "playtime_2weeks": 1454,
+      "playtime_forever": 1454,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1414,
+      "playtime_windows_forever": 1454,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -49,7 +49,7 @@
     {
       "appid": 3734290,
       "name": "Goblin Sushi",
-      "playtime_2weeks": 564,
+      "playtime_2weeks": 525,
       "playtime_forever": 589,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 589,
@@ -207,17 +207,6 @@
       "playtime_forever": 1126,
       "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
       "playtime_windows_forever": 1126,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4243990,
-      "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 4,
-      "playtime_forever": 3106,
-      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
-      "playtime_windows_forever": 3106,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
