@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 39,
-  "percent": 79.6,
-  "updated_at_utc": "2026-09-28T06:18:28.406819+00:00",
+  "unlocked": 40,
+  "percent": 81.6,
+  "updated_at_utc": "2026-09-28T08:17:02.267668+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_33",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790581828,
       "name": "Psychic Domination",
       "description": "Command a Breaker enemy."
     },

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-28T06:18:44.973212+00:00",
+  "updated_at_utc": "2026-09-28T08:17:18.432040+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -27,10 +27,10 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_2weeks": 1350,
-      "playtime_forever": 1350,
+      "playtime_2weeks": 1414,
+      "playtime_forever": 1414,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1350,
+      "playtime_windows_forever": 1414,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -42,17 +42,6 @@
       "playtime_forever": 1128,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
       "playtime_windows_forever": 1128,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3998900,
-      "name": "Claws Of Power",
-      "playtime_2weeks": 582,
-      "playtime_forever": 712,
-      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
-      "playtime_windows_forever": 712,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -75,6 +64,17 @@
       "playtime_forever": 3193,
       "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
       "playtime_windows_forever": 3193,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3998900,
+      "name": "Claws Of Power",
+      "playtime_2weeks": 481,
+      "playtime_forever": 712,
+      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
+      "playtime_windows_forever": 712,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -135,17 +135,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4243990,
-      "name": "Path of Idle: Old Gods Rising",
-      "playtime_2weeks": 241,
-      "playtime_forever": 3106,
-      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
-      "playtime_windows_forever": 3106,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2572040,
       "name": "Woodo",
       "playtime_2weeks": 224,
@@ -163,6 +152,17 @@
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4243990,
+      "name": "Path of Idle: Old Gods Rising",
+      "playtime_2weeks": 122,
+      "playtime_forever": 3106,
+      "img_icon_url": "85e3d78b89c76b430ac7b5dfe2819997908e5671",
+      "playtime_windows_forever": 3106,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
