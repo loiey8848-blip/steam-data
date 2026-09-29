@@ -3,9 +3,9 @@
   "appid": 5212940,
   "game": "Bunker Tidy Up",
   "total": 14,
-  "unlocked": 12,
-  "percent": 85.7,
-  "updated_at_utc": "2026-09-29T14:16:20.310508+00:00",
+  "unlocked": 14,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-29T16:16:20.585323+00:00",
   "achievements": [
     {
       "apiname": "PlaceFirstItem",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "PlaceAllItems",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790696953,
       "name": "American Dream",
       "description": "Correctly place all items on the shelves"
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "MaxAllSkills",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790696913,
       "name": "Jack of All Trades",
       "description": "Fully unlock and upgrade all skills"
     },
