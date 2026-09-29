@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-29T08:17:28.454462+00:00",
+  "updated_at_utc": "2026-09-29T10:15:29.930703+00:00",
   "owned_games": 1505,
   "new_games": [],
   "games": [
@@ -11122,11 +11122,11 @@
     {
       "appid": 601430,
       "name": "The Evil Within 2",
-      "playtime_minutes": 2,
-      "playtime_hours": 0.0,
-      "last_played_unix": 1754759073,
-      "last_played_utc": "2025-08-09T17:04:33+00:00",
-      "recent": false
+      "playtime_minutes": 32,
+      "playtime_hours": 0.5,
+      "last_played_unix": 1790671974,
+      "last_played_utc": "2026-09-29T08:52:54+00:00",
+      "recent": true
     },
     {
       "appid": 1182310,
@@ -11823,7 +11823,7 @@
     },
     {
       "appid": 292030,
-      "name": "The Witcher 3: Wild Hunt - Complete Edition",
+      "name": "The Witcher 3: Wild Hunt — Remastered",
       "playtime_minutes": 542,
       "playtime_hours": 9.0,
       "last_played_unix": 1765306229,
