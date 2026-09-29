@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-29T04:14:54.523938+00:00",
+  "updated_at_utc": "2026-09-29T06:17:35.022456+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 394,
+      "playtime_forever": 394,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 394,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4990390,
       "name": "Toll: The Ferryman's Ledger",
       "playtime_2weeks": 377,
@@ -91,20 +102,9 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 374,
-      "playtime_forever": 374,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 374,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3998900,
       "name": "Claws Of Power",
-      "playtime_2weeks": 372,
+      "playtime_2weeks": 287,
       "playtime_forever": 712,
       "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
       "playtime_windows_forever": 712,
