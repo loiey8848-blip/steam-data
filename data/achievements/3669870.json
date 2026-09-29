@@ -3,9 +3,9 @@
   "appid": 3669870,
   "game": "CONTROL Resonant",
   "total": 49,
-  "unlocked": 46,
-  "percent": 93.9,
-  "updated_at_utc": "2026-09-29T02:13:10.288931+00:00",
+  "unlocked": 49,
+  "percent": 100.0,
+  "updated_at_utc": "2026-09-29T04:14:38.784289+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_19",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790651901,
       "name": "Paranatural Artisan",
       "description": "Craft 30 Artifacts."
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_24",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790651753,
       "name": "Threshold Researcher",
       "description": "Deal with all the Thresholds in Manhattan."
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_26",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790648593,
       "name": "Work-Life Balance",
       "description": "Complete all instances of the Sketchbook."
     },

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-29T02:13:26.309173+00:00",
+  "updated_at_utc": "2026-09-29T04:14:54.523938+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -857,6 +857,18 @@
     {
       "appid": 244210,
       "name": "Assetto Corsa",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1046400,
+      "name": "Astalon: Tears of the Earth",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -2669,14 +2681,14 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_minutes": 1588,
-      "playtime_hours": 26.5,
-      "last_played_unix": 1790647429,
-      "last_played_utc": "2026-09-29T02:03:49+00:00",
+      "playtime_minutes": 1662,
+      "playtime_hours": 27.7,
+      "last_played_unix": 1790651906,
+      "last_played_utc": "2026-09-29T03:18:26+00:00",
       "recent": true,
-      "achievements_unlocked": 46,
+      "achievements_unlocked": 49,
       "achievements_total": 49,
-      "achievement_percent": 93.9
+      "achievement_percent": 100.0
     },
     {
       "appid": 870780,
@@ -4181,6 +4193,18 @@
     {
       "appid": 2488340,
       "name": "Dream Town Island",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1040420,
+      "name": "Dreamscaper",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -7443,6 +7467,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 899310,
+      "name": "Iron Danger",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 224900,
       "name": "Iron Sky Invasion",
       "playtime_minutes": 0,
@@ -8741,6 +8777,18 @@
     {
       "appid": 511070,
       "name": "MANIC MINERS",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 473950,
+      "name": "Manifold Garden",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11535,6 +11583,18 @@
       "achievement_percent": 100.0
     },
     {
+      "appid": 970960,
+      "name": "Rebel Cops",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 290300,
       "name": "Rebel Galaxy",
       "playtime_minutes": 0,
@@ -13923,6 +13983,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 315210,
+      "name": "Suicide Squad: Kill the Justice League",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 3117820,
       "name": "Sultan's Game",
       "playtime_minutes": 0,
@@ -14233,6 +14305,18 @@
       "achievements_unlocked": 0,
       "achievements_total": 50,
       "achievement_percent": 0.0
+    },
+    {
+      "appid": 5019920,
+      "name": "Tasty Chef",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 1525700,
