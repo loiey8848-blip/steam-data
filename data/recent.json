@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-09-29T10:15:29.930703+00:00",
+  "updated_at_utc": "2026-09-29T12:18:20.373437+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -102,17 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3998900,
-      "name": "Claws Of Power",
-      "playtime_2weeks": 266,
-      "playtime_forever": 712,
-      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
-      "playtime_windows_forever": 712,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4538140,
       "name": "Rehaunted",
       "playtime_2weeks": 253,
@@ -157,23 +146,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 180,
+      "playtime_forever": 180,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 180,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3998900,
+      "name": "Claws Of Power",
+      "playtime_2weeks": 143,
+      "playtime_forever": 712,
+      "img_icon_url": "01f2ca783e01ef68ae3b615c77ff596fa5755c87",
+      "playtime_windows_forever": 712,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
       "playtime_forever": 69,
       "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
       "playtime_windows_forever": 69,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 60,
-      "playtime_forever": 60,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 60,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

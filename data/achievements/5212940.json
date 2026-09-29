@@ -3,9 +3,9 @@
   "appid": 5212940,
   "game": "Bunker Tidy Up",
   "total": 14,
-  "unlocked": 7,
-  "percent": 50.0,
-  "updated_at_utc": "2026-09-29T10:15:29.857968+00:00",
+  "unlocked": 10,
+  "percent": 71.4,
+  "updated_at_utc": "2026-09-29T12:18:20.335490+00:00",
   "achievements": [
     {
       "apiname": "PlaceFirstItem",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "PlaceThousandItems",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790677205,
       "name": "Fine Craftsmanship",
       "description": "Correctly place 1,000 items on the shelves"
     },
     {
       "apiname": "PlaceFiveThousandItems",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790681412,
       "name": "Perfect Order",
       "description": "Correctly place 5,000 items on the shelves"
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "PlaceAllBooks",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790678680,
       "name": "Archivist",
       "description": "Correctly place all the books"
     },
