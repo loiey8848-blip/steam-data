@@ -3,9 +3,9 @@
   "appid": 5212940,
   "game": "Bunker Tidy Up",
   "total": 14,
-  "unlocked": 10,
-  "percent": 71.4,
-  "updated_at_utc": "2026-09-29T12:18:20.335490+00:00",
+  "unlocked": 12,
+  "percent": 85.7,
+  "updated_at_utc": "2026-09-29T14:16:20.310508+00:00",
   "achievements": [
     {
       "apiname": "PlaceFirstItem",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "PlaceTenThousandItems",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790685899,
       "name": "Bunker Keeper",
       "description": "Correctly place 10,000 items on the shelves"
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "CollectAllCollectibles",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790689074,
       "name": "Nothing Forgotten",
       "description": "Collect all collectible items"
     }
