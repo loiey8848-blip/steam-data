@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 5,
-  "percent": 9.8,
-  "updated_at_utc": "2026-09-30T06:15:47.095570+00:00",
+  "unlocked": 7,
+  "percent": 13.7,
+  "updated_at_utc": "2026-09-30T08:14:29.884056+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ach_020",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790749411,
       "name": "You Got Red in You",
       "description": "Used your first Red Gel."
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "ach_022",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790749331,
       "name": "Making Things a Little Easier",
       "description": "Used your first High-Grade Weapon Parts."
     },
