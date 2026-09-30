@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 9,
-  "percent": 17.6,
-  "updated_at_utc": "2026-09-30T10:13:38.754024+00:00",
+  "unlocked": 12,
+  "percent": 23.5,
+  "updated_at_utc": "2026-09-30T12:16:15.029218+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "ach_006",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790765059,
       "name": "Taken",
       "description": ""
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "ach_023",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790765494,
       "name": "Now You're Playing with Power",
       "description": "Upgraded a weapon to Level 3."
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "ach_045",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790763682,
       "name": "I Am The Night",
       "description": "Killed 10 enemies using Sneak Kills."
     },
