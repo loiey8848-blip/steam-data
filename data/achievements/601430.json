@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-09-30T00:17:14.183384+00:00",
+  "unlocked": 1,
+  "percent": 2.0,
+  "updated_at_utc": "2026-09-30T02:12:07.594903+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ach_005",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790733885,
       "name": "Welcome to Union",
       "description": ""
     },
