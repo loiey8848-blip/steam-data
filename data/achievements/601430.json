@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 7,
-  "percent": 13.7,
-  "updated_at_utc": "2026-09-30T08:14:29.884056+00:00",
+  "unlocked": 9,
+  "percent": 17.6,
+  "updated_at_utc": "2026-09-30T10:13:38.754024+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "ach_017",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790761040,
       "name": "Backup Ain't Coming",
       "description": "Completed the \"Rogue Signal\" side mission."
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "ach_039",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790759735,
       "name": "Clearing a Path",
       "description": "Killed 60 enemies."
     },
