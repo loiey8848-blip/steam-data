@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 12,
-  "percent": 23.5,
-  "updated_at_utc": "2026-09-30T14:15:44.074974+00:00",
+  "unlocked": 15,
+  "percent": 29.4,
+  "updated_at_utc": "2026-09-30T16:14:32.547737+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -51,15 +51,15 @@
     },
     {
       "apiname": "ach_007",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790781663,
       "name": "Not Running This Time",
       "description": ""
     },
     {
       "apiname": "ach_008",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790784255,
       "name": "The Team Psychologist",
       "description": ""
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "ach_029",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790782647,
       "name": "Doing Some Detecting",
       "description": "Collected 20 files."
     },
