@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-01T16:15:06.731611+00:00",
-  "count": 4,
+  "updated_at_utc": "2026-10-01T18:19:11.075492+00:00",
+  "count": 14,
   "games": [
     {
       "appid": 1311070,
@@ -17,6 +17,34 @@
       "discount_percent": 80
     },
     {
+      "appid": 2073250,
+      "priority": 0,
+      "date_added_unix": 1789487789,
+      "date_added_utc": "2026-09-15T15:56:29+00:00",
+      "steam_url": "https://store.steampowered.com/app/2073250/",
+      "name": "节奏裂隙",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 62.0,
+      "price_final_cny": 18.6,
+      "discount_percent": 70
+    },
+    {
+      "appid": 2027960,
+      "priority": 0,
+      "date_added_unix": 1788791037,
+      "date_added_utc": "2026-09-07T14:23:57+00:00",
+      "steam_url": "https://store.steampowered.com/app/2027960/",
+      "name": "潜入",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 38.0,
+      "price_final_cny": 19.0,
+      "discount_percent": 50
+    },
+    {
       "appid": 2757350,
       "priority": 0,
       "date_added_unix": 1788003675,
@@ -31,6 +59,20 @@
       "discount_percent": 0
     },
     {
+      "appid": 4073860,
+      "priority": 0,
+      "date_added_unix": 1787737015,
+      "date_added_utc": "2026-08-26T09:36:55+00:00",
+      "steam_url": "https://store.steampowered.com/app/4073860/",
+      "name": "吸吸吸有限公司",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 23.99,
+      "price_final_cny": 19.19,
+      "discount_percent": 20
+    },
+    {
       "appid": 4700560,
       "priority": 0,
       "date_added_unix": 1787588166,
@@ -41,8 +83,8 @@
       "is_free": false,
       "currency": "CNY",
       "price_initial_cny": 15.0,
-      "price_final_cny": 15.0,
-      "discount_percent": 0
+      "price_final_cny": 10.5,
+      "discount_percent": 30
     },
     {
       "appid": 4209920,
@@ -57,6 +99,104 @@
       "price_initial_cny": 29.7,
       "price_final_cny": 19.89,
       "discount_percent": 33
+    },
+    {
+      "appid": 4421010,
+      "priority": 0,
+      "date_added_unix": 1785692617,
+      "date_added_utc": "2026-08-02T17:43:37+00:00",
+      "steam_url": "https://store.steampowered.com/app/4421010/",
+      "name": "账单必须支付 Bills Must Be Paid",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 28.0,
+      "price_final_cny": 19.6,
+      "discount_percent": 30
+    },
+    {
+      "appid": 3949040,
+      "priority": 0,
+      "date_added_unix": 1785284065,
+      "date_added_utc": "2026-07-29T00:14:25+00:00",
+      "steam_url": "https://store.steampowered.com/app/3949040/",
+      "name": "我们到了吗？",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 33.0,
+      "price_final_cny": 19.8,
+      "discount_percent": 40
+    },
+    {
+      "appid": 1314000,
+      "priority": 0,
+      "date_added_unix": 1784628677,
+      "date_added_utc": "2026-07-21T10:11:17+00:00",
+      "steam_url": "https://store.steampowered.com/app/1314000/",
+      "name": "Achilles: Legends Untold",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 92.0,
+      "price_final_cny": 18.4,
+      "discount_percent": 80
+    },
+    {
+      "appid": 2603910,
+      "priority": 0,
+      "date_added_unix": 1780134079,
+      "date_added_utc": "2026-05-30T09:41:19+00:00",
+      "steam_url": "https://store.steampowered.com/app/2603910/",
+      "name": "桂花落",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 22.0,
+      "price_final_cny": 17.6,
+      "discount_percent": 20
+    },
+    {
+      "appid": 855740,
+      "priority": 0,
+      "date_added_unix": 1779350438,
+      "date_added_utc": "2026-05-21T08:00:38+00:00",
+      "steam_url": "https://store.steampowered.com/app/855740/",
+      "name": "Bum Simulator",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 74.99,
+      "price_final_cny": 18.74,
+      "discount_percent": 75
+    },
+    {
+      "appid": 4000090,
+      "priority": 0,
+      "date_added_unix": 1778326007,
+      "date_added_utc": "2026-05-09T11:26:47+00:00",
+      "steam_url": "https://store.steampowered.com/app/4000090/",
+      "name": "颈椎病",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 21.0,
+      "price_final_cny": 18.9,
+      "discount_percent": 10
+    },
+    {
+      "appid": 1658290,
+      "priority": 0,
+      "date_added_unix": 1773623152,
+      "date_added_utc": "2026-03-16T01:05:52+00:00",
+      "steam_url": "https://store.steampowered.com/app/1658290/",
+      "name": "Eiyuden Chronicle: Rising 百英雄传：崛起",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 66.0,
+      "price_final_cny": 16.5,
+      "discount_percent": 75
     }
   ]
 }
