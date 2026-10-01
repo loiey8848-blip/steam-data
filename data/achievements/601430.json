@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 16,
-  "percent": 31.4,
-  "updated_at_utc": "2026-10-01T00:18:19.540790+00:00",
+  "unlocked": 22,
+  "percent": 43.1,
+  "updated_at_utc": "2026-10-01T02:12:37.547720+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -72,22 +72,22 @@
     },
     {
       "apiname": "ach_010",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790816061,
       "name": "Another Ally",
       "description": ""
     },
     {
       "apiname": "ach_011",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790819399,
       "name": "Crossing to the Other Side",
       "description": ""
     },
     {
       "apiname": "ach_012",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790820588,
       "name": "Spiritual Awakening",
       "description": ""
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ach_019",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790818252,
       "name": "Finally Free",
       "description": "Experienced every traumatic encounter and made peace with your inner demons."
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ach_037",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790816885,
       "name": "Caffeine Addict",
       "description": "Used every Coffee Maker at least once."
     },
@@ -310,8 +310,8 @@
     },
     {
       "apiname": "ach_044",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790815139,
       "name": "Bootable Offense",
       "description": "Stomped and killed 15 fallen enemies."
     },
