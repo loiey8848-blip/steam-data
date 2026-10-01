@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-01T16:15:06.731611+00:00",
+  "updated_at_utc": "2026-10-01T18:19:11.075492+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -82,10 +82,10 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_2weeks": 424,
-      "playtime_forever": 424,
+      "playtime_2weeks": 452,
+      "playtime_forever": 452,
       "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 424,
+      "playtime_windows_forever": 452,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2572040,
-      "name": "Woodo",
-      "playtime_2weeks": 137,
-      "playtime_forever": 224,
-      "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
-      "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
@@ -181,10 +170,21 @@
     {
       "appid": 1488490,
       "name": "Nivalis Nights",
-      "playtime_2weeks": 37,
-      "playtime_forever": 37,
+      "playtime_2weeks": 58,
+      "playtime_forever": 58,
       "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
-      "playtime_windows_forever": 37,
+      "playtime_windows_forever": 58,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1939970,
+      "name": "Nobody Wants to Die",
+      "playtime_2weeks": 30,
+      "playtime_forever": 98,
+      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
+      "playtime_windows_forever": 98,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -196,6 +196,17 @@
       "playtime_forever": 265,
       "img_icon_url": "ca11a79d824534ddfee1b82e9a272b2e3db110ed",
       "playtime_windows_forever": 265,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2572040,
+      "name": "Woodo",
+      "playtime_2weeks": 13,
+      "playtime_forever": 224,
+      "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
+      "playtime_windows_forever": 224,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

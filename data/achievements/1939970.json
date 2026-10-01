@@ -3,9 +3,9 @@
   "appid": 1939970,
   "game": "Nobody Wants to Die",
   "total": 26,
-  "unlocked": 6,
-  "percent": 23.1,
-  "updated_at_utc": "2026-09-15T06:52:24.885102+00:00",
+  "unlocked": 9,
+  "percent": 34.6,
+  "updated_at_utc": "2026-10-01T18:18:11.871983+00:00",
   "achievements": [
     {
       "apiname": "Level_Cinema",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "Level_DA1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790877077,
       "name": "Tenant",
       "description": ""
     },
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "DA1_TheGame",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790876308,
       "name": "The Game",
       "description": "Win the Decontamination Game"
     },
     {
       "apiname": "DA1_OldBastard",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790876023,
       "name": "Old Bastard",
       "description": "Listen to a message from your boss"
     },

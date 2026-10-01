@@ -3,9 +3,9 @@
   "appid": 1488490,
   "game": "Nivalis Nights",
   "total": 120,
-  "unlocked": 7,
-  "percent": 5.8,
-  "updated_at_utc": "2026-10-01T16:13:58.922298+00:00",
+  "unlocked": 9,
+  "percent": 7.5,
+  "updated_at_utc": "2026-10-01T18:17:58.664400+00:00",
   "achievements": [
     {
       "apiname": "BUSINESS_FIRST_CUSTOMER",
@@ -534,8 +534,8 @@
     },
     {
       "apiname": "LOCATION_CENTRAL_CANYON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790874238,
       "name": "Central Canyon",
       "description": "Visit Central Canyon."
     },
@@ -590,8 +590,8 @@
     },
     {
       "apiname": "LOCATION_METRO_HUB",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790874126,
       "name": "Metro Hub",
       "description": "Visit Metro Hub."
     },
