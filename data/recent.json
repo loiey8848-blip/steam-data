@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-01T10:16:39.873067+00:00",
+  "updated_at_utc": "2026-10-01T12:19:15.380409+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -38,10 +38,10 @@
     {
       "appid": 601430,
       "name": "The Evil Within 2",
-      "playtime_2weeks": 981,
-      "playtime_forever": 983,
+      "playtime_2weeks": 1101,
+      "playtime_forever": 1103,
       "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
-      "playtime_windows_forever": 983,
+      "playtime_windows_forever": 1103,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -146,23 +146,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2572040,
-      "name": "Woodo",
-      "playtime_2weeks": 224,
-      "playtime_forever": 224,
-      "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
-      "playtime_windows_forever": 224,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2103680,
       "name": "Mediterranea Inferno",
       "playtime_2weeks": 187,
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2572040,
+      "name": "Woodo",
+      "playtime_2weeks": 177,
+      "playtime_forever": 224,
+      "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
+      "playtime_windows_forever": 224,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
