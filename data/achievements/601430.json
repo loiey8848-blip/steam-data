@@ -3,28 +3,28 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 22,
-  "percent": 43.1,
-  "updated_at_utc": "2026-10-01T02:12:37.547720+00:00",
+  "unlocked": 31,
+  "percent": 60.8,
+  "updated_at_utc": "2026-10-01T04:13:17.046083+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790827097,
       "name": "Rookie",
       "description": "Completed the game on Casual difficulty or higher."
     },
     {
       "apiname": "ach_002",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790827097,
       "name": "Survivor",
       "description": "Completed the game on Survival difficulty or higher."
     },
     {
       "apiname": "ach_003",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790827097,
       "name": "Against All Odds",
       "description": "Completed the game on Nightmare difficulty or higher."
     },
@@ -93,29 +93,29 @@
     },
     {
       "apiname": "ach_013",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790822807,
       "name": "Fire Walk With Me",
       "description": ""
     },
     {
       "apiname": "ach_014",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790823985,
       "name": "Overcome the Past",
       "description": ""
     },
     {
       "apiname": "ach_015",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790824712,
       "name": "Everything Comes Crumbling Down",
       "description": ""
     },
     {
       "apiname": "ach_016",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790825755,
       "name": "Unfortunate Consequence",
       "description": ""
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ach_018",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790822127,
       "name": "Sykes Out",
       "description": "Completed the \"The Last Step\" side mission."
     },
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "ach_043",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790821202,
       "name": "Kick, Shoot, Burn",
       "description": "Killed 2 or more enemies at once using oil on the ground."
     },
