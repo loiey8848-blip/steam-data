@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-10-01T18:19:11.075492+00:00",
+  "updated_at_utc": "2026-10-01T20:15:19.648962+00:00",
   "count": 14,
   "games": [
     {
@@ -185,18 +185,18 @@
       "discount_percent": 10
     },
     {
-      "appid": 1658290,
+      "appid": 400630,
       "priority": 0,
-      "date_added_unix": 1773623152,
-      "date_added_utc": "2026-03-16T01:05:52+00:00",
-      "steam_url": "https://store.steampowered.com/app/1658290/",
-      "name": "Eiyuden Chronicle: Rising 百英雄传：崛起",
+      "date_added_unix": 1774848094,
+      "date_added_utc": "2026-03-30T05:21:34+00:00",
+      "steam_url": "https://store.steampowered.com/app/400630/",
+      "name": "Wuppo: Definitive Edition",
       "type": "game",
       "is_free": false,
       "currency": "CNY",
-      "price_initial_cny": 66.0,
-      "price_final_cny": 16.5,
-      "discount_percent": 75
+      "price_initial_cny": 48.0,
+      "price_final_cny": 12.48,
+      "discount_percent": 74
     }
   ]
 }
