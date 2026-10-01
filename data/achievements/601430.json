@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 43,
-  "percent": 84.3,
-  "updated_at_utc": "2026-10-01T12:16:54.025930+00:00",
+  "unlocked": 50,
+  "percent": 98.0,
+  "updated_at_utc": "2026-10-01T14:14:55.204505+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "ach_028",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790862733,
       "name": "Echoes Within STEM",
       "description": "Observed all Residual Memories."
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "ach_030",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790862389,
       "name": "Diligent Reader",
       "description": "Collected all files."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "ach_032",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790861984,
       "name": "Locksmith",
       "description": "Opened all lockers."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "ach_034",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790859594,
       "name": "Chatting With Kidman",
       "description": "Talked to Kidman about all of the photographic slides."
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "ach_036",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790861618,
       "name": "All in the Family",
       "description": "Collected all of the Mysterious Objects."
     },
@@ -345,15 +345,15 @@
     },
     {
       "apiname": "ach_049",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790858019,
       "name": "Melancholy Memories",
       "description": "Reminisced about every moment from your past. (Ch. 12)"
     },
     {
       "apiname": "ach_050",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790860704,
       "name": "I'll Take You Down Myself",
       "description": "Brought your own equipment to the barbecue this time. (Ch. 14)"
     },
