@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 41,
-  "percent": 80.4,
-  "updated_at_utc": "2026-10-01T08:14:25.885855+00:00",
+  "unlocked": 42,
+  "percent": 82.4,
+  "updated_at_utc": "2026-10-01T10:14:18.501411+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -331,8 +331,8 @@
     },
     {
       "apiname": "ach_047",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790846841,
       "name": "Death From Above",
       "description": "Killed 2 or more enemies at once using a hanging lamp. (Ch. 9)"
     },
