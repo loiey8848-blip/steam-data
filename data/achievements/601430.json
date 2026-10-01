@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 15,
-  "percent": 29.4,
-  "updated_at_utc": "2026-09-30T22:12:08.716841+00:00",
+  "unlocked": 16,
+  "percent": 31.4,
+  "updated_at_utc": "2026-10-01T00:18:19.540790+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ach_009",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790813770,
       "name": "Premature Finale",
       "description": ""
     },
