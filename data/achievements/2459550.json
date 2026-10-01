@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 19,
-  "percent": 19.0,
-  "updated_at_utc": "2026-10-01T14:16:34.975870+00:00",
+  "unlocked": 20,
+  "percent": 20.0,
+  "updated_at_utc": "2026-10-01T16:14:25.321417+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "CHAR_UNLOCK_SCHOLAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790870563,
       "name": "Astromancer",
       "description": "Unlock Estelle the Astromancer."
     },

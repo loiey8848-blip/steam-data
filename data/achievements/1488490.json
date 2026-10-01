@@ -1,0 +1,851 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1488490,
+  "game": "Nivalis Nights",
+  "total": 120,
+  "unlocked": 7,
+  "percent": 5.8,
+  "updated_at_utc": "2026-10-01T16:13:58.922298+00:00",
+  "achievements": [
+    {
+      "apiname": "BUSINESS_FIRST_CUSTOMER",
+      "achieved": 1,
+      "unlocktime": 1790865055,
+      "name": "First customer",
+      "description": "You have served the first customer."
+    },
+    {
+      "apiname": "BUSINESS_FIRST_4_REVIEW",
+      "achieved": 1,
+      "unlocktime": 1790865055,
+      "name": "First 4* Review",
+      "description": "Get your first 4* review."
+    },
+    {
+      "apiname": "APARTMENT_ZENITH_SPIRE_SUITE_902A",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zenith Spire, Suite 902-A",
+      "description": "Discover apartment Zenith Spire, Suite 902-A."
+    },
+    {
+      "apiname": "APARTMENT_LOWTIDE_RESIDENCES_UNIT_7B",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Low-Tide Residences, Unit 7b",
+      "description": "Discover apartment Low-Tide Residences, Unit 7b."
+    },
+    {
+      "apiname": "APARTMENT_NEXUS_TIER_UNIT_2351",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nexus Tier, Unit 2351",
+      "description": "Discover apartment Nexus Tier, Unit 2351."
+    },
+    {
+      "apiname": "APARTMENT_808_HARBOR_OVERLOOK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "808 Harbor Overlook",
+      "description": "Discover apartment 808 Harbor Overlook."
+    },
+    {
+      "apiname": "APARTMENT_CALYPSO_ISLAND_WATER_VILLA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calypso Island Water Villa",
+      "description": "Discover Calypso Island Water Villa."
+    },
+    {
+      "apiname": "APARTMENT_CALYPSO_ISLAND_BEACH_VILLA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calypso Island Beach Villa",
+      "description": "Discover Calypso Island Beach Villa."
+    },
+    {
+      "apiname": "APARTMENT_MERIDIAN_RIM_LEVEL_42_UNIT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meridian Rim, Level 42, Unit 3",
+      "description": "Discover apartment Meridian Rim, Level 42, Unit 3."
+    },
+    {
+      "apiname": "APARTMENT_SEABOARD_RESIDENCES_APP_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seaboard Residences, App. 15",
+      "description": "Discover apartment Seaboard Residences, App. 15."
+    },
+    {
+      "apiname": "APARTMENT_MAHOGANY_SPIRE_UNIT_89C",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mahogany Spire, Unit 89c",
+      "description": "Discover apartment Mahogany Spire, Unit 89c."
+    },
+    {
+      "apiname": "APARTMENT_SKYLOT_49_APEX_TIER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sky-Lot 49, Apex Tier",
+      "description": "Discover apartment Sky-Lot 49, Apex Tier."
+    },
+    {
+      "apiname": "APARTMENT_STACKS_UNIT_1804C",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": " Stacks Unit 1804-C",
+      "description": " Discover apartment Stacks Unit 1804-C."
+    },
+    {
+      "apiname": "BUSINESS_1000_REVENUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1000 Revenue",
+      "description": "Earn a total of 1000 Lims in revenue."
+    },
+    {
+      "apiname": "BUSINESS_4_AVERAGE_REVIEWS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "4* Average Reviews",
+      "description": "Get an average of 4* reviews in one of your venues. Requires at least 100 reviews."
+    },
+    {
+      "apiname": "BUSINESS_FIRST_5_REVIEW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First 5* Review",
+      "description": "Get your first 5* review."
+    },
+    {
+      "apiname": "BUSINESS_HANDLE_A_COMPLAINT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handle a Complaint",
+      "description": "Handle a complaint from one of your customers."
+    },
+    {
+      "apiname": "BUSINESS_SERVE_100_CUSTOMERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serve 100 Customers",
+      "description": "Serve 100 customers across all your venues."
+    },
+    {
+      "apiname": "BUSINESS_SERVE_500_CUSTOMERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serve 500 Customers",
+      "description": "Serve 500 customers across all your venues."
+    },
+    {
+      "apiname": "BUSINESS_OWN_2_VENUES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Own 2 Venues",
+      "description": "Start operating 2 venues. You need to gain a permit to lease your second venue."
+    },
+    {
+      "apiname": "BUSINESS_OWN_5_VENUES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Own 5 Venues",
+      "description": "Start operating 5 venues."
+    },
+    {
+      "apiname": "BUSINESS_OFFER_DRINKS",
+      "achieved": 1,
+      "unlocktime": 1790865662,
+      "name": "Offer Drinks",
+      "description": "Offer drinks on the menu in one of your venues."
+    },
+    {
+      "apiname": "BUSINESS_OFFER_A_DESSERT",
+      "achieved": 1,
+      "unlocktime": 1790866315,
+      "name": "Offer a Dessert",
+      "description": "Put a dessert on your restaurant's menu."
+    },
+    {
+      "apiname": "BUSINESS_DAILY_500_REVENUE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "500 Daily Revenue",
+      "description": "Reach a daily revenue of 500 lims across your venues."
+    },
+    {
+      "apiname": "BUSINESS_PICTURES_ON_THE_WALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pictures on the wall!",
+      "description": "Put a picture on the wall in one of your venues."
+    },
+    {
+      "apiname": "BUSINESS_UMBRELLA_CORP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Umbrella Corp",
+      "description": "Place an umbrella in one of your venues to protect more customers from the rain."
+    },
+    {
+      "apiname": "BUSINESS_DEBT_FREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Debt Free",
+      "description": "You did it! Ramen Noir is debt-free. Congratulations!"
+    },
+    {
+      "apiname": "BUSINESS_PAID_BACK_A_LOAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paid Back a Loan",
+      "description": "You have paid back a loan shark with interest. "
+    },
+    {
+      "apiname": "FISH_BURBOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burbot",
+      "description": "Find and catch Burbot."
+    },
+    {
+      "apiname": "FISH_PIKE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pike",
+      "description": "Find and catch Pike."
+    },
+    {
+      "apiname": "FISH_STICKLEBACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stickleback",
+      "description": "Find and catch Stickleback."
+    },
+    {
+      "apiname": "FISH_RUDD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rudd",
+      "description": "Find and catch Rudd."
+    },
+    {
+      "apiname": "FISH_CRUCIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Crucian",
+      "description": "Find and catch Crucian."
+    },
+    {
+      "apiname": "FISH_VOLGA_ZANDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Volga Zander",
+      "description": "Find and catch Volga Zander."
+    },
+    {
+      "apiname": "FISH_IDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ide",
+      "description": "Find and catch Ide."
+    },
+    {
+      "apiname": "FISH_CARP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carp",
+      "description": "Find and catch Carp."
+    },
+    {
+      "apiname": "FISH_LAKE_TROUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lake Trout",
+      "description": "Find and catch Lake Trout."
+    },
+    {
+      "apiname": "FISH_BREAM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bream",
+      "description": "Find and catch Bream."
+    },
+    {
+      "apiname": "FISH_BROOK_TROUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brook Trout",
+      "description": "Find and catch Brook Trout."
+    },
+    {
+      "apiname": "FISH_TENCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tench",
+      "description": "Find and catch Tench."
+    },
+    {
+      "apiname": "FISH_DACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dace",
+      "description": "Find and catch Dace."
+    },
+    {
+      "apiname": "FISH_GRAYLING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grayling",
+      "description": "Find and catch Grayling."
+    },
+    {
+      "apiname": "FISH_PERCH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Perch",
+      "description": "Find and catch Perch."
+    },
+    {
+      "apiname": "FISH_ROACH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roach",
+      "description": "Find and catch Roach."
+    },
+    {
+      "apiname": "FISH_RUFFE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ruffe",
+      "description": "Find and catch Ruffe."
+    },
+    {
+      "apiname": "FISH_SABREFISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sabrefish",
+      "description": "Find and catch Sabrefish."
+    },
+    {
+      "apiname": "FISH_ZOPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zope",
+      "description": "Find and catch Zope."
+    },
+    {
+      "apiname": "FISH_ZANDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Zander",
+      "description": "Find and catch Zander."
+    },
+    {
+      "apiname": "FISH_TAIMEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taimen",
+      "description": "Find and catch Taimen."
+    },
+    {
+      "apiname": "FISH_WHITEFISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whitefish",
+      "description": "Find and catch Whitefish."
+    },
+    {
+      "apiname": "FISH_RAINBOW_TROUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rainbow Trout",
+      "description": "Find and catch Rainbow Trout."
+    },
+    {
+      "apiname": "FISH_SALMON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salmon",
+      "description": "Find and catch Salmon."
+    },
+    {
+      "apiname": "GRAFFITI_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Found a Graffiti",
+      "description": "Find a Graffiti."
+    },
+    {
+      "apiname": "GRAFFITI_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "5 Graffiti Found",
+      "description": "Find 5 Graffiti."
+    },
+    {
+      "apiname": "GRAFFITI_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "10 Graffiti Found",
+      "description": "Find 10 Graffiti."
+    },
+    {
+      "apiname": "GRAFFITI_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Graffiti Admirer",
+      "description": "Find all Graffiti."
+    },
+    {
+      "apiname": "CROPS_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Harvest",
+      "description": "Plant and harvest something in the greenhouse."
+    },
+    {
+      "apiname": "CROPS_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Harvester",
+      "description": "Plant, grow, and harvest 5 unique crops."
+    },
+    {
+      "apiname": "CROPS_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farmer",
+      "description": "Successfully harvest 10 different types of crops."
+    },
+    {
+      "apiname": "CROPS_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serial Farmer",
+      "description": "Grow 20 different crops from seed to harvest."
+    },
+    {
+      "apiname": "CROPS_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Farming Specialist",
+      "description": "Cultivate a diverse garden from all available crop types."
+    },
+    {
+      "apiname": "MENU_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collectable Menu Found",
+      "description": "Find an old collectable menu card."
+    },
+    {
+      "apiname": "MENU_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Menu Collector",
+      "description": "Find 10 collectable menu cards."
+    },
+    {
+      "apiname": "MENU_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Historian",
+      "description": "Find all collectable menu cards."
+    },
+    {
+      "apiname": "OBJECT_CALYPSO_ISLAND_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calypso Island Postcard",
+      "description": "Collect a postcard of Calypso Island."
+    },
+    {
+      "apiname": "OBJECT_CENTRAL_CANYON_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Central Canyon Postcard",
+      "description": "Collect a postcard of Central Canyon."
+    },
+    {
+      "apiname": "OBJECT_DOCKS_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Docks Postcard",
+      "description": "Collect a postcard of the Docks."
+    },
+    {
+      "apiname": "OBJECT_HELIX_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helix Postcard",
+      "description": "Collect a postcard of Helix Monumental."
+    },
+    {
+      "apiname": "OBJECT_MERIDIAN_MARKET_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meridian Market Postcard",
+      "description": "Collect a postcard of Meridian Market."
+    },
+    {
+      "apiname": "OBJECT_METRO_HUB_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metro Hub Postcard",
+      "description": "Collect a postcard of Metro Hub."
+    },
+    {
+      "apiname": "OBJECT_OUTER_SPACE_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Outer Space Postcard",
+      "description": "Collect a postcard of Outer Space."
+    },
+    {
+      "apiname": "OBJECT_SKYHIGH_GARDENS_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skyhigh Gardens Postcard",
+      "description": "Collect a postcard of Skyhigh Gardens."
+    },
+    {
+      "apiname": "OBJECT_SPACE_PORT_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Port Postcard",
+      "description": "Collect a postcard of the Space Port."
+    },
+    {
+      "apiname": "OBJECT_SPIRE_POSTCARD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spire Postcard",
+      "description": "Collect a postcard of the Spire."
+    },
+    {
+      "apiname": "LOCATION_CALYPSO_ISLAND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Calypso Island",
+      "description": "Visit Calypso Island."
+    },
+    {
+      "apiname": "LOCATION_CENTRAL_CANYON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Central Canyon",
+      "description": "Visit Central Canyon."
+    },
+    {
+      "apiname": "LOCATION_DOCKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Docks",
+      "description": "Visit the Docks."
+    },
+    {
+      "apiname": "LOCATION_EASTERN_RESIDENTIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eastern Residential",
+      "description": "Visit Eastern Residential."
+    },
+    {
+      "apiname": "LOCATION_HELIX_MONUMENTAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Helix Monumental",
+      "description": "Visit Helix Monumental."
+    },
+    {
+      "apiname": "LOCATION_HIVE_MALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hive Mall",
+      "description": "Visit Hive Mall."
+    },
+    {
+      "apiname": "LOCATION_INDUSTRIAL_DISTRICT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrial District",
+      "description": "Visit Industrial District."
+    },
+    {
+      "apiname": "LOCATION_LOWTOWN",
+      "achieved": 1,
+      "unlocktime": 1790864426,
+      "name": "Lowtown",
+      "description": "Visit Lowtown."
+    },
+    {
+      "apiname": "LOCATION_MERIDIAN_MARKET",
+      "achieved": 1,
+      "unlocktime": 1790864627,
+      "name": "Meridian Market",
+      "description": "Visit Meridian Market."
+    },
+    {
+      "apiname": "LOCATION_METRO_HUB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Metro Hub",
+      "description": "Visit Metro Hub."
+    },
+    {
+      "apiname": "LOCATION_MOUNTAIN_TOWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain Town",
+      "description": "Visit Mountain Town."
+    },
+    {
+      "apiname": "LOCATION_OIL_RIG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oil Rig",
+      "description": "Visit Oil Rig."
+    },
+    {
+      "apiname": "LOCATION_SEASIDE_BOARDWALK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seaside Boardwalk",
+      "description": "Visit Seaside Boardwalk."
+    },
+    {
+      "apiname": "LOCATION_SEWERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sewers",
+      "description": "Visit the Sewers."
+    },
+    {
+      "apiname": "LOCATION_SKYHIGH_GARDENS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skyhigh Gardens",
+      "description": "Visit Skyhigh Gardens."
+    },
+    {
+      "apiname": "LOCATION_SPACE_PORT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Space Port",
+      "description": "Visit the Space Port."
+    },
+    {
+      "apiname": "LOCATION_SPIRE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spire",
+      "description": "Visit the Spire."
+    },
+    {
+      "apiname": "LOCATION_THE_STACKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Stacks",
+      "description": "Visit the Stacks."
+    },
+    {
+      "apiname": "VENUES_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Foodie",
+      "description": "Eat at 5 different restaurants across the city."
+    },
+    {
+      "apiname": "VENUES_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gastronomy Nerd",
+      "description": "Try dishes from 10 separate dining locations."
+    },
+    {
+      "apiname": "VENUES_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Connoisseur",
+      "description": "Sample the menu at 20 distinct eateries."
+    },
+    {
+      "apiname": "VENUES_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet",
+      "description": "Discover and dine at 30 unique food spots."
+    },
+    {
+      "apiname": "VENUES_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Megacity Epicurean",
+      "description": "Complete your culinary tour of 50 dining spots across Nivalis."
+    },
+    {
+      "apiname": "QUESTS_NETWORK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Network",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_INTRO",
+      "achieved": 1,
+      "unlocktime": 1790865625,
+      "name": "Noodle Bar Introduction",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_BOAT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seafarer",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_LOSTCHILD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Child",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_SCORPION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scorpion",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_FINDLOVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Find Love",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_SALMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Find Salma's Brother",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_CHESS1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Good Game",
+      "description": "Play a Game of Chess."
+    },
+    {
+      "apiname": "QUESTS_CHESS2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Knight in Nivalis",
+      "description": "Win the \"A Knight in Nivalis\" chess tournament."
+    },
+    {
+      "apiname": "QUESTS_MASK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mask for Iann",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_AVA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where is Ava?",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_FAUXTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fauxter's Band",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_COFFEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coffee Time",
+      "description": "Nivalis needs caffeine. Deliver 3 runs of coffee for Coffee PoccoCup."
+    },
+    {
+      "apiname": "QUESTS_SAILOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lost Captain",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_THADDEUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thaddeus Mystery",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_ASEPTIC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aseptic",
+      "description": "Solve the Aseptic case!"
+    },
+    {
+      "apiname": "QUESTS_CAMERA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "After Curfew",
+      "description": ""
+    },
+    {
+      "apiname": "QUESTS_GLADSTONE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rat Whisperer",
+      "description": "Help rat whisperer Gladstone on a secret mission during curfew."
+    },
+    {
+      "apiname": "QUESTS_GRAPEVINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Project Grapevine",
+      "description": "Spread seeds on the Oil Rig."
+    },
+    {
+      "apiname": "QUESTS_GHOST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seen a Ghost",
+      "description": "Make contact with a ghost in Nivalis."
+    },
+    {
+      "apiname": "QUESTS_STAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home Makeover",
+      "description": "Design the interior of an apartment for a client."
+    },
+    {
+      "apiname": "QUESTS_STAGE2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Certified Decorator",
+      "description": "Stage 5 apartments for various clients."
+    },
+    {
+      "apiname": "QUESTS_MAGOMBA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ma Gomba's Gift",
+      "description": "Grow poisonous mushrooms for Ma Gomba."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-01T14:17:15.223878+00:00",
+  "updated_at_utc": "2026-10-01T16:15:06.731611+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -4469,14 +4469,14 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 394,
-      "playtime_hours": 6.6,
-      "last_played_unix": 1790659561,
-      "last_played_utc": "2026-09-29T05:26:01+00:00",
+      "playtime_minutes": 424,
+      "playtime_hours": 7.1,
+      "last_played_unix": 1790870311,
+      "last_played_utc": "2026-10-01T15:58:31+00:00",
       "recent": true,
-      "achievements_unlocked": 19,
+      "achievements_unlocked": 20,
       "achievements_total": 100,
-      "achievement_percent": 19.0
+      "achievement_percent": 20.0
     },
     {
       "appid": 1654660,
@@ -10025,14 +10025,14 @@
     {
       "appid": 1488490,
       "name": "Nivalis Nights",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "playtime_minutes": 37,
+      "playtime_hours": 0.6,
+      "last_played_unix": 1790866587,
+      "last_played_utc": "2026-10-01T14:56:27+00:00",
+      "recent": true,
+      "achievements_unlocked": 7,
+      "achievements_total": 120,
+      "achievement_percent": 5.8
     },
     {
       "appid": 2676840,

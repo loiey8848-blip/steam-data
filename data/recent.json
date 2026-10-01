@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-01T14:17:15.223878+00:00",
+  "updated_at_utc": "2026-10-01T16:15:06.731611+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -49,7 +49,7 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 712,
+      "playtime_2weeks": 664,
       "playtime_forever": 1128,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
       "playtime_windows_forever": 1128,
@@ -80,23 +80,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 424,
+      "playtime_forever": 424,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 424,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1839510,
       "name": "ＲＰＧタイム！～ライトの伝説～",
       "playtime_2weeks": 400,
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 394,
-      "playtime_forever": 394,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 394,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -159,7 +159,7 @@
     {
       "appid": 2572040,
       "name": "Woodo",
-      "playtime_2weeks": 177,
+      "playtime_2weeks": 137,
       "playtime_forever": 224,
       "img_icon_url": "ad25b5031dc1f6c170c1a59e9247a182684f9fa4",
       "playtime_windows_forever": 224,
@@ -174,6 +174,17 @@
       "playtime_forever": 69,
       "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
       "playtime_windows_forever": 69,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1488490,
+      "name": "Nivalis Nights",
+      "playtime_2weeks": 37,
+      "playtime_forever": 37,
+      "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
+      "playtime_windows_forever": 37,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
