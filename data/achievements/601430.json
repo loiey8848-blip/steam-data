@@ -3,9 +3,9 @@
   "appid": 601430,
   "game": "The Evil Within 2",
   "total": 51,
-  "unlocked": 31,
-  "percent": 60.8,
-  "updated_at_utc": "2026-10-01T04:13:17.046083+00:00",
+  "unlocked": 32,
+  "percent": 62.7,
+  "updated_at_utc": "2026-10-01T06:17:09.966267+00:00",
   "achievements": [
     {
       "apiname": "ach_001",
@@ -359,8 +359,8 @@
     },
     {
       "apiname": "ach_051",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790828104,
       "name": "That Cinematic Feel...",
       "description": ""
     }
