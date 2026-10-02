@@ -3,9 +3,9 @@
   "appid": 1939970,
   "game": "Nobody Wants to Die",
   "total": 26,
-  "unlocked": 9,
-  "percent": 34.6,
-  "updated_at_utc": "2026-10-02T00:18:37.473388+00:00",
+  "unlocked": 14,
+  "percent": 53.8,
+  "updated_at_utc": "2026-10-02T02:14:09.485695+00:00",
   "achievements": [
     {
       "apiname": "Level_Cinema",
@@ -30,15 +30,15 @@
     },
     {
       "apiname": "Level_Icarus",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790905398,
       "name": "I as in Icarus",
       "description": ""
     },
     {
       "apiname": "Level_SmallTalk",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790906538,
       "name": "Altered States",
       "description": ""
     },
@@ -156,22 +156,22 @@
     },
     {
       "apiname": "SmallTalk_OldFashioned",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790905884,
       "name": "Old Fashioned",
       "description": "Drink the Scotch you took from Icarus"
     },
     {
       "apiname": "DA2_YouveGotMail",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790906715,
       "name": "You've Got Mail",
       "description": "Catch the message in the air"
     },
     {
       "apiname": "DA2_RayOfLight",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790907042,
       "name": "Ray of Light",
       "description": "Save the tree"
     },

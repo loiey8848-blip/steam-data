@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T00:19:30.157050+00:00",
+  "updated_at_utc": "2026-10-02T02:15:05.208454+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -341,6 +341,18 @@
     {
       "appid": 1815570,
       "name": "Aces and Adventures",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1314000,
+      "name": "Achilles: Legends Untold",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -1575,6 +1587,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 751820,
+      "name": "Black Future '88",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2358720,
       "name": "Black Myth: Wukong",
       "playtime_minutes": 4701,
@@ -1757,6 +1781,18 @@
     {
       "appid": 960090,
       "name": "Bloons TD 6",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 2579280,
+      "name": "Blossom",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -2669,6 +2705,18 @@
     {
       "appid": 3238670,
       "name": "Conquest Dark",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1273400,
+      "name": "Construction Simulator",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5235,6 +5283,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 821250,
+      "name": "Flotsam",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 777880,
       "name": "Fluffy Horde",
       "playtime_minutes": 0,
@@ -5549,6 +5609,18 @@
     {
       "appid": 917720,
       "name": "Gamedec - Definitive Edition",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 878580,
+      "name": "GARAGE: Bad Trip",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5981,6 +6053,18 @@
     {
       "appid": 420370,
       "name": "Gravity Island",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1311070,
+      "name": "Greak: Memories of Azur",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -7131,6 +7215,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 393520,
+      "name": "Iconoclasts",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2738080,
       "name": "Ignited in Cavern",
       "playtime_minutes": 0,
@@ -8079,6 +8175,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1480560,
+      "name": "Lawn Mowing Simulator",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 391720,
       "name": "Layers of Fear (2016)",
       "playtime_minutes": 68,
@@ -8357,6 +8465,18 @@
     {
       "appid": 1392860,
       "name": "Little Nightmares III",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 2653470,
+      "name": "Little Problems",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -8681,6 +8801,30 @@
     {
       "appid": 2891120,
       "name": "Mad Smartphone Tycoon",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 50130,
+      "name": "Mafia II (Classic)",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1030830,
+      "name": "Mafia II: Definitive Edition",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -9327,6 +9471,18 @@
       "achievement_percent": 100.0
     },
     {
+      "appid": 1233570,
+      "name": "Mirror's Edge™ Catalyst",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1578220,
       "name": "Mister Furry: Hot Muscles",
       "playtime_minutes": 0,
@@ -9555,6 +9711,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1331910,
+      "name": "Morkredd",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 976310,
       "name": "Mortal Kombat 11",
       "playtime_minutes": 129,
@@ -9761,6 +9929,18 @@
     {
       "appid": 1169040,
       "name": "Necesse",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1222370,
+      "name": "Necromunda: Hired Gun",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -10097,14 +10277,14 @@
     {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
-      "playtime_minutes": 123,
-      "playtime_hours": 2.0,
-      "last_played_unix": 1790878963,
-      "last_played_utc": "2026-10-01T18:22:43+00:00",
+      "playtime_minutes": 153,
+      "playtime_hours": 2.5,
+      "last_played_unix": 1790905845,
+      "last_played_utc": "2026-10-02T01:50:45+00:00",
       "recent": true,
-      "achievements_unlocked": 9,
+      "achievements_unlocked": 14,
       "achievements_total": 26,
-      "achievement_percent": 34.6
+      "achievement_percent": 53.8
     },
     {
       "appid": 1634080,
@@ -11763,6 +11943,18 @@
       "achievement_percent": 100.0
     },
     {
+      "appid": 941570,
+      "name": "Relicta",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 228300,
       "name": "Remember Me",
       "playtime_minutes": 197,
@@ -13095,6 +13287,30 @@
       "achievement_percent": null
     },
     {
+      "appid": 1011190,
+      "name": "SIMULACRA 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 4466620,
+      "name": "SiNiSistar 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 204880,
       "name": "Sins of a Solar Empire: Rebellion",
       "playtime_minutes": 208,
@@ -13995,6 +14211,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 779290,
+      "name": "Stygian: Reign of the Old Ones",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1750570,
       "name": "Subway Midnight",
       "playtime_minutes": 0,
@@ -14885,14 +15113,14 @@
     {
       "appid": 601430,
       "name": "The Evil Within 2",
-      "playtime_minutes": 1539,
-      "playtime_hours": 25.6,
-      "last_played_unix": 1790898787,
-      "last_played_utc": "2026-10-01T23:53:07+00:00",
+      "playtime_minutes": 1625,
+      "playtime_hours": 27.1,
+      "last_played_unix": 1790903953,
+      "last_played_utc": "2026-10-02T01:19:13+00:00",
       "recent": true,
-      "achievements_unlocked": 50,
+      "achievements_unlocked": 51,
       "achievements_total": 51,
-      "achievement_percent": 98.0
+      "achievement_percent": 100.0
     },
     {
       "appid": 1182310,
@@ -15005,6 +15233,18 @@
     {
       "appid": 392280,
       "name": "The Franz Kafka Videogame",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 4700560,
+      "name": "The Girl in the Window",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -15327,6 +15567,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 2863640,
+      "name": "The Midnight Walk",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1304930,
       "name": "The Outlast Trials",
       "playtime_minutes": 0,
@@ -15639,6 +15891,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 835960,
+      "name": "The Talos Principle 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1009560,
       "name": "The Tenants",
       "playtime_minutes": 0,
@@ -15757,6 +16021,18 @@
       "achievements_unlocked": 0,
       "achievements_total": 48,
       "achievement_percent": 0.0
+    },
+    {
+      "appid": 536220,
+      "name": "The Walking Dead: A New Frontier",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 1449690,
@@ -17163,6 +17439,18 @@
       "achievement_percent": 0.0
     },
     {
+      "appid": 673880,
+      "name": "Warhammer 40,000: Mechanicus",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2186680,
       "name": "Warhammer 40,000: Rogue Trader",
       "playtime_minutes": 0,
@@ -17601,7 +17889,7 @@
       "playtime_hours": 3.7,
       "last_played_unix": 1789696442,
       "last_played_utc": "2026-09-18T01:54:02+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 24,
       "achievements_total": 24,
       "achievement_percent": 100.0
