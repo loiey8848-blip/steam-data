@@ -1,54 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T10:14:42.318783+00:00",
+  "updated_at_utc": "2026-10-02T12:17:45.319134+00:00",
   "owned_games": 1559,
-  "new_games": [
-    {
-      "appid": 1336120,
-      "name": "Bridge Constructor: The Walking Dead",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1646120,
-      "name": "Citizens: Far Lands",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 945770,
-      "name": "Dark Envoy",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 226720,
-      "name": "Lost Planet 3",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 233720,
-      "name": "Surgeon Simulator",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -4121,11 +4075,11 @@
     {
       "appid": 821250,
       "name": "Flotsam",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 1790935196,
-      "last_played_utc": "2026-10-02T09:59:56+00:00",
-      "recent": false
+      "playtime_minutes": 45,
+      "playtime_hours": 0.8,
+      "last_played_unix": 1790937898,
+      "last_played_utc": "2026-10-02T10:44:58+00:00",
+      "recent": true
     },
     {
       "appid": 777880,

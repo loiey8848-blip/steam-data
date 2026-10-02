@@ -1,0 +1,305 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 821250,
+  "game": "Flotsam",
+  "total": 42,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-02T12:15:39.233971+00:00",
+  "achievements": [
+    {
+      "apiname": "_ACH_Specialist_Rescued_Aquaculturist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Questionable Fishionary",
+      "description": "Rescue the Aquaculturist."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Architect",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Inspection Connection",
+      "description": "Rescue the Architect."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Birdkeeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gull-Fu Sensei",
+      "description": "Rescue the Birdkeeper."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Botanist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Photosympathist",
+      "description": "Rescue the Botanist."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Chef",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Five-Starfish Chef",
+      "description": "Rescue the Chef."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Doctor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ill Dottore",
+      "description": "Rescue the Doctor."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Electrician",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Tripping",
+      "description": "Rescue the Electrician."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Chemist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goop Scoop",
+      "description": "Rescue the Chemist."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Engineer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Know-It-All Fix-It-All",
+      "description": "Rescue the Engineer."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Farmer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Soil Survivor",
+      "description": "Rescue the Farmer."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_RadioTechnician",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trash Talker",
+      "description": "Rescue the Radio Technician."
+    },
+    {
+      "apiname": "_ACH_Specialist_Rescued_Astronaut",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wet Feet on the Ground",
+      "description": ""
+    },
+    {
+      "apiname": "_ACH_Quest_CompleteTheGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End of the Line",
+      "description": ""
+    },
+    {
+      "apiname": "_ACH_Quest_RadioStation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On Air and Water",
+      "description": ""
+    },
+    {
+      "apiname": "_ACH_Quest_Spaceship",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Space-Ship!",
+      "description": ""
+    },
+    {
+      "apiname": "_ACH_Rescue_Drifter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Sign of Life",
+      "description": "Rescue a drifter."
+    },
+    {
+      "apiname": "_ACH_Statistical_ResearchComplete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trashcended",
+      "description": "Research all technologies."
+    },
+    {
+      "apiname": "_ACH_Statistical_BuildBoat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whatever Floats Your Boat",
+      "description": "Build a Salvaging Boat."
+    },
+    {
+      "apiname": "_ACH_Challenge_FloatingTown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Floating Town",
+      "description": "Have a town with 10 drifters."
+    },
+    {
+      "apiname": "_ACH_Challenge_FloatingCity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Floating City",
+      "description": "Have a town with 25 drifters."
+    },
+    {
+      "apiname": "_ACH_Challenge_Seasoned",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seasoned",
+      "description": "Reach day 100."
+    },
+    {
+      "apiname": "_ACH_Challenge_Boatie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boatie",
+      "description": "Travel 50.000 units with the town."
+    },
+    {
+      "apiname": "_ACH_Challenge_Captain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Captain",
+      "description": "Travel 200.000 units with the town."
+    },
+    {
+      "apiname": "_ACH_Statistical_SeagullAmount",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gull-friend",
+      "description": "Rescue 10 seagulls."
+    },
+    {
+      "apiname": "_ACH_Challenge_AroundTheWorld",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Around the World in 80 days",
+      "description": "Travel 42.000 units within 80 days."
+    },
+    {
+      "apiname": "_ACH_Challenge_GullBoss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gull-Bossing It",
+      "description": "Have more seagulls than drifters in your town."
+    },
+    {
+      "apiname": "_ACH_Challenge_NoDrifterLeftBehind",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Drifter Left Behind",
+      "description": "Complete the game without having a drifter die."
+    },
+    {
+      "apiname": "_ACH_Challenge_AccidentallyVegan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Accidentally Vegan",
+      "description": "Survive 20 days with all drifters eating only Seaweed Salads."
+    },
+    {
+      "apiname": "_ACH_Challenge_HappyGoLucky",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy Go-Lucky",
+      "description": "Have 10 or more ecstatic drifters at the same time."
+    },
+    {
+      "apiname": "_ACH_Challenge_LoneWolf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lone Wolf",
+      "description": "Survive 20 days with a single drifter."
+    },
+    {
+      "apiname": "_ACH_Challenge_AllGasNoBrakes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Gas No Brakes",
+      "description": "Have 50 or more buildings upgraded with Gas Bags."
+    },
+    {
+      "apiname": "_ACH_Challenge_TheFloatingRestaurant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Floating Restaurant",
+      "description": "Cook 50 'Yummy' or higher quality food in a single day."
+    },
+    {
+      "apiname": "_ACH_Challenge_TheFinalChowdown",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Final Chowdown",
+      "description": "Craft 100 'Animal Chow' in a single day."
+    },
+    {
+      "apiname": "_ACH_Challenge_TourDeMer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tour de Mer",
+      "description": "Generate over 150 Eels/s by only using Manual-Powered Generators."
+    },
+    {
+      "apiname": "_ACH_Challenge_ILoveMyJob",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Love My Job",
+      "description": "Have 15 or more drifters doing their favorite task at the same time."
+    },
+    {
+      "apiname": "_ACH_Challenge_TheJackOfAllTrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "THE Jack of All Trades",
+      "description": "Have a drifter with maximum expertise in all attributes."
+    },
+    {
+      "apiname": "_ACH_Challenge_AYear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Year!",
+      "description": "Reach day 365."
+    },
+    {
+      "apiname": "_ACH_Challenge_CannedFoodie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Canned Foodie",
+      "description": "Survive 30 consecutive days without cooking food."
+    },
+    {
+      "apiname": "_ACH_Challenge_HydroHomies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hydro Homies",
+      "description": "Use a total of 100 Fresh Water in a single day."
+    },
+    {
+      "apiname": "_ACH_Challenge_BiggerIsBetter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bigger is Better",
+      "description": "Exceed 15.000 total weight of the town."
+    },
+    {
+      "apiname": "_ACH_Challenge_LandHopper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Land Hopper",
+      "description": "Fully salvage 15 different landmarks in one day."
+    },
+    {
+      "apiname": "_ACH_Challenge_Shelltered",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shell-tered",
+      "description": "House all drifters."
+    }
+  ]
+}
