@@ -1,6 +1,6 @@
 {
-  "updated_at_utc": "2026-10-01T22:14:03.957967+00:00",
-  "count": 13,
+  "updated_at_utc": "2026-10-02T00:19:30.157050+00:00",
+  "count": 16,
   "games": [
     {
       "appid": 1311070,
@@ -183,6 +183,48 @@
       "price_initial_cny": 21.0,
       "price_final_cny": 18.9,
       "discount_percent": 10
+    },
+    {
+      "appid": 3681780,
+      "priority": 0,
+      "date_added_unix": 1775048051,
+      "date_added_utc": "2026-04-01T12:54:11+00:00",
+      "steam_url": "https://store.steampowered.com/app/3681780/",
+      "name": "小微怪",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 22.0,
+      "price_final_cny": 19.8,
+      "discount_percent": 10
+    },
+    {
+      "appid": 1273560,
+      "priority": 0,
+      "date_added_unix": 1774848297,
+      "date_added_utc": "2026-03-30T05:24:57+00:00",
+      "steam_url": "https://store.steampowered.com/app/1273560/",
+      "name": "DeathSprint 66",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 78.0,
+      "price_final_cny": 19.5,
+      "discount_percent": 75
+    },
+    {
+      "appid": 400630,
+      "priority": 0,
+      "date_added_unix": 1774848094,
+      "date_added_utc": "2026-03-30T05:21:34+00:00",
+      "steam_url": "https://store.steampowered.com/app/400630/",
+      "name": "Wuppo: Definitive Edition",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 48.0,
+      "price_final_cny": 12.48,
+      "discount_percent": 74
     }
   ]
 }
