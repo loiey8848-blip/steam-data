@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T04:15:09.445623+00:00",
+  "updated_at_utc": "2026-10-02T06:17:45.224411+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -10397,14 +10397,14 @@
     {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
-      "playtime_minutes": 273,
-      "playtime_hours": 4.5,
-      "last_played_unix": 1790913046,
-      "last_played_utc": "2026-10-02T03:50:46+00:00",
+      "playtime_minutes": 313,
+      "playtime_hours": 5.2,
+      "last_played_unix": 1790915433,
+      "last_played_utc": "2026-10-02T04:30:33+00:00",
       "recent": true,
-      "achievements_unlocked": 22,
+      "achievements_unlocked": 26,
       "achievements_total": 26,
-      "achievement_percent": 84.6
+      "achievement_percent": 100.0
     },
     {
       "appid": 1634080,
@@ -13687,8 +13687,8 @@
       "name": "Sludgineers",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
+      "last_played_unix": 1790921453,
+      "last_played_utc": "2026-10-02T06:10:53+00:00",
       "recent": false,
       "achievements_unlocked": null,
       "achievements_total": null,

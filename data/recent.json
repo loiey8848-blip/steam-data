@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T04:15:09.445623+00:00",
+  "updated_at_utc": "2026-10-02T06:17:45.224411+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -124,17 +124,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4538140,
-      "name": "Rehaunted",
-      "playtime_2weeks": 252,
-      "playtime_forever": 253,
-      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
-      "playtime_windows_forever": 253,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1989270,
       "name": "Slay the Princess — The Pristine Cut",
       "playtime_2weeks": 248,
@@ -148,10 +137,10 @@
     {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
-      "playtime_2weeks": 205,
-      "playtime_forever": 273,
+      "playtime_2weeks": 245,
+      "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
-      "playtime_windows_forever": 273,
+      "playtime_windows_forever": 313,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -163,6 +152,17 @@
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4538140,
+      "name": "Rehaunted",
+      "playtime_2weeks": 130,
+      "playtime_forever": 253,
+      "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
+      "playtime_windows_forever": 253,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

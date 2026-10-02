@@ -3,9 +3,9 @@
   "appid": 1939970,
   "game": "Nobody Wants to Die",
   "total": 26,
-  "unlocked": 22,
-  "percent": 84.6,
-  "updated_at_utc": "2026-10-02T04:14:14.386453+00:00",
+  "unlocked": 26,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-02T06:16:49.363445+00:00",
   "achievements": [
     {
       "apiname": "Level_Cinema",
@@ -86,29 +86,29 @@
     },
     {
       "apiname": "Level_IslandFinal",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790914506,
       "name": "Fire Walk with Me",
       "description": ""
     },
     {
       "apiname": "Ending_Anguish",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790915426,
       "name": "Anguish ",
       "description": ""
     },
     {
       "apiname": "Ending_EndOfDeadlyDreams",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790914761,
       "name": "End of Deadly Dreams",
       "description": ""
     },
     {
       "apiname": "Epilogue_OneMissedCall",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790914920,
       "name": "One Missed Call",
       "description": ""
     },
