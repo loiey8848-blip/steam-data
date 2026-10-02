@@ -1,8 +1,54 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T08:16:13.898880+00:00",
-  "owned_games": 1554,
-  "new_games": [],
+  "updated_at_utc": "2026-10-02T10:14:42.318783+00:00",
+  "owned_games": 1559,
+  "new_games": [
+    {
+      "appid": 1336120,
+      "name": "Bridge Constructor: The Walking Dead",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1646120,
+      "name": "Citizens: Far Lands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 945770,
+      "name": "Dark Envoy",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 226720,
+      "name": "Lost Planet 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 233720,
+      "name": "Surgeon Simulator",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1517,6 +1563,15 @@
       "recent": false
     },
     {
+      "appid": 1336120,
+      "name": "Bridge Constructor: The Walking Dead",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1178830,
       "name": "Bright Memory: Infinite",
       "playtime_minutes": 14,
@@ -1994,6 +2049,15 @@
       "recent": false
     },
     {
+      "appid": 1646120,
+      "name": "Citizens: Far Lands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1903340,
       "name": "Clair Obscur: Expedition 33",
       "playtime_minutes": 2093,
@@ -2428,6 +2492,15 @@
     {
       "appid": 413410,
       "name": "Danganronpa: Trigger Happy Havoc",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 945770,
+      "name": "Dark Envoy",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -4050,8 +4123,8 @@
       "name": "Flotsam",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
+      "last_played_unix": 1790935196,
+      "last_played_utc": "2026-10-02T09:59:56+00:00",
       "recent": false
     },
     {
@@ -6593,6 +6666,15 @@
       "recent": false
     },
     {
+      "appid": 226720,
+      "name": "Lost Planet 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1931180,
       "name": "Lost Skies",
       "playtime_minutes": 0,
@@ -9047,7 +9129,7 @@
       "playtime_hours": 4.2,
       "last_played_unix": 1789719859,
       "last_played_utc": "2026-09-18T08:24:19+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 2064610,
@@ -10267,10 +10349,10 @@
     {
       "appid": 4073860,
       "name": "Sludgineers",
-      "playtime_minutes": 52,
-      "playtime_hours": 0.9,
-      "last_played_unix": 1790924597,
-      "last_played_utc": "2026-10-02T07:03:17+00:00",
+      "playtime_minutes": 117,
+      "playtime_hours": 1.9,
+      "last_played_unix": 1790933939,
+      "last_played_utc": "2026-10-02T09:38:59+00:00",
       "recent": true
     },
     {
@@ -10924,6 +11006,15 @@
     {
       "appid": 438080,
       "name": "Surfingers",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 233720,
+      "name": "Surgeon Simulator",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
