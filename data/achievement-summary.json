@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T12:17:45.319134+00:00",
+  "updated_at_utc": "2026-10-02T14:16:09.764628+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2307,6 +2307,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 3569500,
+      "name": "Card Shop Simulator Multiplayer",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2198070,
       "name": "Cardboard Town",
       "playtime_minutes": 0,
@@ -3327,8 +3339,56 @@
       "achievement_percent": 2.4
     },
     {
+      "appid": 50620,
+      "name": "Darksiders",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 710920,
+      "name": "Darksiders Genesis",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 388410,
+      "name": "Darksiders II Deathinitive Edition",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 606280,
       "name": "Darksiders III",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 462780,
+      "name": "Darksiders Warmastered Edition",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -4625,10 +4685,10 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 452,
-      "playtime_hours": 7.5,
-      "last_played_unix": 1790871964,
-      "last_played_utc": "2026-10-01T16:26:04+00:00",
+      "playtime_minutes": 470,
+      "playtime_hours": 7.8,
+      "last_played_unix": 1790945282,
+      "last_played_utc": "2026-10-02T12:48:02+00:00",
       "recent": true,
       "achievements_unlocked": 20,
       "achievements_total": 100,
@@ -5009,6 +5069,18 @@
     {
       "appid": 1528810,
       "name": "Exodus Borealis",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1330470,
+      "name": "F.I.S.T.: Forged In Shadow Torch",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -10993,6 +11065,18 @@
       "achievements_unlocked": 57,
       "achievements_total": 75,
       "achievement_percent": 76.0
+    },
+    {
+      "appid": 1735950,
+      "name": "Paper Bride",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 1334040,
