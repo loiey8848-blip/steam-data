@@ -1,0 +1,333 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 921780,
+  "game": "The Dark Occult",
+  "total": 46,
+  "unlocked": 5,
+  "percent": 10.9,
+  "updated_at_utc": "2026-10-02T18:16:04.585260+00:00",
+  "achievements": [
+    {
+      "apiname": "TCH_ACHIEVEMENT_Aries",
+      "achieved": 1,
+      "unlocktime": 1790963973,
+      "name": "Hide and Seek",
+      "description": "Find Aries key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Taurus",
+      "achieved": 1,
+      "unlocktime": 1790964658,
+      "name": "The Skeleton Key",
+      "description": "Find Taurus key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Gemini",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tale of Two Sisters",
+      "description": "Find Gemini key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Cancer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Exorcist",
+      "description": "Find Cancer key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Leo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drag Me to Hell",
+      "description": "Find Leo key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Virgo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chucky Friend's",
+      "description": "Find Virgo key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Libra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Alone in the Dark",
+      "description": "Find Libra key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Scorpio",
+      "achieved": 1,
+      "unlocktime": 1790962489,
+      "name": "The Nightmare Begin",
+      "description": "Find Scorpio key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Sagittarius",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ritual",
+      "description": "Find Sagittarius key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Capricorn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Return",
+      "description": "Find Capricorn key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Aquarius",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honogurai Mizu no soko kara",
+      "description": "Find Aquarius key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Pisces",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Shining",
+      "description": "Find Pisces key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Ophiuchus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The 13th Zodiac Sign",
+      "description": "Find Ophiuchus key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Closet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parasol Henbee",
+      "description": "Find Closet key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_SBox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scavenger Hunt",
+      "description": "Find Box key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Attic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pan's Labyrinth",
+      "description": "Find Attic key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Basement",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Basement",
+      "description": "Find Basement key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Attic2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Attic",
+      "description": "Find Attic 2nd key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Mysterious",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "X-Files",
+      "description": "Find Mysterious key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Crypt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Locksmith",
+      "description": "Find Crypt key"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_MusicBox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memories of Murder",
+      "description": "Burn Music Box Artifact"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Grimoire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Necronomicon Burner",
+      "description": "Burn Grimoire Artifact"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_WizardStaff",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wood Staff +8 (Flame Damage : 64)",
+      "description": "Burn Wizard Staff Artifact"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_Mask",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to Reality",
+      "description": "Burn Mask Artifact"
+    },
+    {
+      "apiname": "TCH_ACHIEVEMENT_DeadBody",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Nightmare is Over",
+      "description": "Burn The 5th Artifact"
+    },
+    {
+      "apiname": "TCH_ACH_CM_MeetDW",
+      "achieved": 1,
+      "unlocktime": 1790963022,
+      "name": "Grave Encounters",
+      "description": "Meet the Demon Woman before she get angry"
+    },
+    {
+      "apiname": "TCH_ACH_CM_DW1stSpawn",
+      "achieved": 1,
+      "unlocktime": 1790964321,
+      "name": "RUN FOREST RUN",
+      "description": "Run from the Demon Woman"
+    },
+    {
+      "apiname": "TCH_ACH_CM_FindAllSafeRooms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Safety First",
+      "description": "Find All Safe Rooms"
+    },
+    {
+      "apiname": "TCH_ACH_CM_UseAllSaveBooks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Books of relief",
+      "description": "Save the game using every SaveBook in the mansion"
+    },
+    {
+      "apiname": "TCH_ACH_CM_DemoniacArmSwitch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart Attack",
+      "description": "Activate the right switch in the wrong time"
+    },
+    {
+      "apiname": "TCH_ACH_CM_GMPrison",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "RUN YOU FOOL",
+      "description": "Run from your enemy in the prison"
+    },
+    {
+      "apiname": "TCH_ACH_CM_AllNotes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Diaries Collection",
+      "description": "Collect all Notes"
+    },
+    {
+      "apiname": "TCH_ACH_CM_MrsAtkinson",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sleeping Beauty",
+      "description": "Find Mrs Atkinson deadbody"
+    },
+    {
+      "apiname": "TCH_ACH_CM_FinishGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Evil Dead",
+      "description": "Finish the game"
+    },
+    {
+      "apiname": "TCH_ACH_DM_FinishGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks Game Map",
+      "description": "Finish the game in Normal Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_KickOffXDolls",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dolls Kick 4ss",
+      "description": "Kick off 5 Dolls in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_KillXDolls",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Of Puppets",
+      "description": "Kill 15 Dolls in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_UseAllFirePlaces",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromania Show",
+      "description": "Use every Fireplace to burn demonic objects in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_UseXPT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hamsa Hand ",
+      "description": "Use Protection Talismans 15 times against the Demon woman in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_CollectAllPT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Intouchable",
+      "description": "Collect all Protection Talismans in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_Act4CandlesDoors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lucky Man",
+      "description": "Achieve the candle puzzle from the 1st attemp in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_BurnMaskFrom1stTry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elephant Memory",
+      "description": "Achieve the maze from the 1st attemp before waking up in Terror Mode (right before burning the 4th artifact)"
+    },
+    {
+      "apiname": "TCH_ACH_TM_FinishGameUse0PT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Constantine",
+      "description": "Finish the game without using any Protection Talisman in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_FinishGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guts Over Fear",
+      "description": "Finish the game in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_TM_OpenAllBoxes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open Them All",
+      "description": "Open all the boxes in Terror Mode"
+    },
+    {
+      "apiname": "TCH_ACH_Legend",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Detective",
+      "description": "Unlock all the achievements"
+    }
+  ]
+}

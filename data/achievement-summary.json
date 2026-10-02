@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T16:14:30.318837+00:00",
+  "updated_at_utc": "2026-10-02T18:17:52.502350+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -7863,6 +7863,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1084160,
+      "name": "Jagged Alliance 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 446020,
       "name": "Jalopy",
       "playtime_minutes": 0,
@@ -9773,6 +9785,18 @@
     {
       "appid": 796510,
       "name": "Monkey Slap",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1446780,
+      "name": "MONSTER HUNTER RISE",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13959,6 +13983,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1096530,
+      "name": "Solasta: Crown of the Magister",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 282140,
       "name": "SOMA",
       "playtime_minutes": 0,
@@ -15325,6 +15361,18 @@
       "achievements_unlocked": null,
       "achievements_total": null,
       "achievement_percent": null
+    },
+    {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_minutes": 30,
+      "playtime_hours": 0.5,
+      "last_played_unix": 1790963220,
+      "last_played_utc": "2026-10-02T17:47:00+00:00",
+      "recent": true,
+      "achievements_unlocked": 5,
+      "achievements_total": 46,
+      "achievement_percent": 10.9
     },
     {
       "appid": 1281590,
