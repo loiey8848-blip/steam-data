@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-02T02:15:05.208454+00:00",
+  "updated_at_utc": "2026-10-02T04:15:09.445623+00:00",
   "games": [
     {
       "appid": 3751260,
@@ -49,7 +49,7 @@
     {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 648,
+      "playtime_2weeks": 545,
       "playtime_forever": 1128,
       "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
       "playtime_windows_forever": 1128,
@@ -126,7 +126,7 @@
     {
       "appid": 4538140,
       "name": "Rehaunted",
-      "playtime_2weeks": 253,
+      "playtime_2weeks": 252,
       "playtime_forever": 253,
       "img_icon_url": "805f47db9039ca11ad5e65f47f810a4a2676cbfe",
       "playtime_windows_forever": 253,
@@ -146,23 +146,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1939970,
+      "name": "Nobody Wants to Die",
+      "playtime_2weeks": 205,
+      "playtime_forever": 273,
+      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
+      "playtime_windows_forever": 273,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2103680,
       "name": "Mediterranea Inferno",
       "playtime_2weeks": 187,
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1939970,
-      "name": "Nobody Wants to Die",
-      "playtime_2weeks": 85,
-      "playtime_forever": 153,
-      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
-      "playtime_windows_forever": 153,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

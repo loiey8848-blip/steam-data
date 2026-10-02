@@ -3,9 +3,9 @@
   "appid": 1939970,
   "game": "Nobody Wants to Die",
   "total": 26,
-  "unlocked": 14,
-  "percent": 53.8,
-  "updated_at_utc": "2026-10-02T02:14:09.485695+00:00",
+  "unlocked": 22,
+  "percent": 84.6,
+  "updated_at_utc": "2026-10-02T04:14:14.386453+00:00",
   "achievements": [
     {
       "apiname": "Level_Cinema",
@@ -44,43 +44,43 @@
     },
     {
       "apiname": "Level_DASynchro",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790907673,
       "name": "In the Mouth of Madness",
       "description": ""
     },
     {
       "apiname": "Level_PA2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790910303,
       "name": "Deep Red",
       "description": ""
     },
     {
       "apiname": "Level_LibertySlums",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790910704,
       "name": "The Last House on the Right",
       "description": ""
     },
     {
       "apiname": "Level_SaraBasement",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790911984,
       "name": "Darkness Under the Stairs",
       "description": ""
     },
     {
       "apiname": "Level_Train",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790913428,
       "name": "James' Ladder",
       "description": ""
     },
     {
       "apiname": "Level_CentralPark",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790914111,
       "name": "What Ever Happened to Jane Salma?",
       "description": ""
     },
@@ -177,15 +177,15 @@
     },
     {
       "apiname": "SaraBasement_ChickenOfJustice",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790911233,
       "name": "\"Chicken of Justice\"",
       "description": "Solve the puzzle"
     },
     {
       "apiname": "SaraBasement_NothingButTheTruth",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790911784,
       "name": "Nothing But the Truth",
       "description": "Complete all boards"
     }
