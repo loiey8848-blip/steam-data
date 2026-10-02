@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4073860,
+  "game": "Sludgineers",
+  "total": 25,
+  "unlocked": 4,
+  "percent": 16.0,
+  "updated_at_utc": "2026-10-02T08:15:58.985976+00:00",
+  "achievements": [
+    {
+      "apiname": "LEVEL_COMPLETED",
+      "achieved": 1,
+      "unlocktime": 1790921812,
+      "name": "Satisfied Customer",
+      "description": "Complete a job"
+    },
+    {
+      "apiname": "REGION_UNLOCKED",
+      "achieved": 1,
+      "unlocktime": 1790922081,
+      "name": "Regional Expansion",
+      "description": "Unlock a region"
+    },
+    {
+      "apiname": "QUEST_COMPLETED",
+      "achieved": 1,
+      "unlocktime": 1790922281,
+      "name": "Side Gig",
+      "description": "Complete a quest"
+    },
+    {
+      "apiname": "BATTERY_COLLECTED_LOW_ENERGY",
+      "achieved": 1,
+      "unlocktime": 1790924196,
+      "name": "Close Call",
+      "description": "Pick up a battery with < 5% energy"
+    },
+    {
+      "apiname": "TURBO_LEVEL_PROGRESS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbo Domination",
+      "description": "Clear 50% of a level with a single turbo charge"
+    },
+    {
+      "apiname": "GOLD_COINS_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Midas Touch",
+      "description": "Collect 100 gold coins"
+    },
+    {
+      "apiname": "MAGNET_MONEY_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attractive Investment",
+      "description": "Collect $500 with a single magnet"
+    },
+    {
+      "apiname": "BONUS_OBJECTS_STREAK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Streak",
+      "description": "Clean 10 bonus objects in 5 seconds"
+    },
+    {
+      "apiname": "TURBO_DURATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbo Time",
+      "description": "Maintain turbo boost mode for 10 seconds"
+    },
+    {
+      "apiname": "LEVEL_BATTERIES_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supercharged",
+      "description": "Collect 5 batteries in a single level"
+    },
+    {
+      "apiname": "LEVEL_POLLUTION_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barrel Bonanza",
+      "description": "Filled 20 barrels in a single level"
+    },
+    {
+      "apiname": "POLLUTION_REFINED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Refined Taste",
+      "description": "Refine 500 barrels of pollution"
+    },
+    {
+      "apiname": "VENTS_DESTROYED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Preventative Measures",
+      "description": "Destroy 10 vents before they erupt"
+    },
+    {
+      "apiname": "CRYSTALS_DESTROYED_CRITICAL_HITS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Criticality",
+      "description": "Destroy 100 zorkite crystals with critical hits"
+    },
+    {
+      "apiname": "GAS_CLOUDS_DESTROYED_LIGHTNING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clearing the Air",
+      "description": "Destroy 50 vexon gas clouds with lightning storms"
+    },
+    {
+      "apiname": "SAFES_OPENED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Safe Hands",
+      "description": "Open 25 safes"
+    },
+    {
+      "apiname": "DIAMONDS_COLLECTED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bling King",
+      "description": "Collect 50 diamonds"
+    },
+    {
+      "apiname": "MONEY_EARNED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cash Cow",
+      "description": "Earn $250,000"
+    },
+    {
+      "apiname": "ALL_REFINERIES_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Operational",
+      "description": "All refineries unlocked"
+    },
+    {
+      "apiname": "ALL_DRONES_UNLOCKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drone Swarm",
+      "description": "All drones unlocked"
+    },
+    {
+      "apiname": "GAME_COMPLETED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pollution Solution",
+      "description": "Complete the game"
+    },
+    {
+      "apiname": "VACUUM_FULLY_UPGRADED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Maximum Suckage",
+      "description": "Fully upgrade the vacuum"
+    },
+    {
+      "apiname": "JACKHAMMER_FULLY_UPGRADED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jacked",
+      "description": "Fully upgrade the jackhammer"
+    },
+    {
+      "apiname": "AIR_FILTER_FULLY_UPGRADED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Filtration Amplification",
+      "description": "Fully upgrade the air filter"
+    },
+    {
+      "apiname": "ALL_UPGRADES_PURCHASED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Completionist",
+      "description": "Purchase all upgrades"
+    }
+  ]
+}
