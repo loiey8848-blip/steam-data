@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T04:16:59.989363+00:00",
+  "updated_at_utc": "2026-10-03T06:22:24.573062+00:00",
   "games": [
     {
       "appid": 268050,
@@ -146,6 +146,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 213,
+      "playtime_forever": 213,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 213,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2103680,
       "name": "Mediterranea Inferno",
       "playtime_2weeks": 187,
@@ -185,17 +196,6 @@
       "playtime_forever": 69,
       "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
       "playtime_windows_forever": 69,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 68,
-      "playtime_forever": 68,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 68,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

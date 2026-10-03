@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 5,
-  "percent": 10.9,
-  "updated_at_utc": "2026-10-03T04:15:14.866405+00:00",
+  "unlocked": 8,
+  "percent": 17.4,
+  "updated_at_utc": "2026-10-03T06:20:40.415755+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Cancer",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791005505,
       "name": "The Exorcist",
       "description": "Find Cancer key"
     },
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Pisces",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791003167,
       "name": "The Shining",
       "description": "Find Pisces key"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_MusicBox",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791003071,
       "name": "Memories of Murder",
       "description": "Burn Music Box Artifact"
     },
