@@ -3,9 +3,9 @@
   "appid": 821250,
   "game": "Flotsam",
   "total": 42,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-10-03T02:12:54.339171+00:00",
+  "unlocked": 2,
+  "percent": 4.8,
+  "updated_at_utc": "2026-10-03T04:14:55.447755+00:00",
   "achievements": [
     {
       "apiname": "_ACH_Specialist_Rescued_Aquaculturist",
@@ -114,8 +114,8 @@
     },
     {
       "apiname": "_ACH_Rescue_Drifter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790994468,
       "name": "A Sign of Life",
       "description": "Rescue a drifter."
     },
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "_ACH_Challenge_Shelltered",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1790995653,
       "name": "Shell-tered",
       "description": "House all drifters."
     }

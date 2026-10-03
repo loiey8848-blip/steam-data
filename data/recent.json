@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T02:14:57.637785+00:00",
+  "updated_at_utc": "2026-10-03T04:16:59.989363+00:00",
   "games": [
     {
       "appid": 268050,
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4990390,
-      "name": "Toll: The Ferryman's Ledger",
-      "playtime_2weeks": 277,
-      "playtime_forever": 377,
-      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
-      "playtime_windows_forever": 377,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1989270,
       "name": "Slay the Princess — The Pristine Cut",
       "playtime_2weeks": 248,
@@ -146,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4990390,
+      "name": "Toll: The Ferryman's Ledger",
+      "playtime_2weeks": 235,
+      "playtime_forever": 377,
+      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
+      "playtime_windows_forever": 377,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2103680,
       "name": "Mediterranea Inferno",
       "playtime_2weeks": 187,
@@ -163,6 +163,17 @@
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 821250,
+      "name": "Flotsam",
+      "playtime_2weeks": 106,
+      "playtime_forever": 106,
+      "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
+      "playtime_windows_forever": 106,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -196,17 +207,6 @@
       "playtime_forever": 58,
       "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
       "playtime_windows_forever": 58,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 821250,
-      "name": "Flotsam",
-      "playtime_2weeks": 45,
-      "playtime_forever": 45,
-      "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
-      "playtime_windows_forever": 45,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
