@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T15:00:20.893759+00:00",
+  "updated_at_utc": "2026-10-03T20:08:02.701670+00:00",
   "games": [
     {
       "appid": 268050,
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 464,
-      "playtime_forever": 470,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 470,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1839510,
       "name": "ＲＰＧタイム！～ライトの伝説～",
       "playtime_2weeks": 400,
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 328,
+      "playtime_forever": 470,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 470,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -229,6 +229,17 @@
       "playtime_forever": 18,
       "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
       "playtime_windows_forever": 18,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1627840,
+      "name": "Universe For Sale",
+      "playtime_2weeks": 15,
+      "playtime_forever": 15,
+      "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
+      "playtime_windows_forever": 15,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
