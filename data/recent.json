@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T00:18:30.643596+00:00",
+  "updated_at_utc": "2026-10-03T02:14:57.637785+00:00",
   "games": [
     {
       "appid": 268050,
@@ -102,23 +102,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4990390,
-      "name": "Toll: The Ferryman's Ledger",
-      "playtime_2weeks": 361,
-      "playtime_forever": 377,
-      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
-      "playtime_windows_forever": 377,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 308,
       "playtime_forever": 308,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 308,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4990390,
+      "name": "Toll: The Ferryman's Ledger",
+      "playtime_2weeks": 277,
+      "playtime_forever": 377,
+      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
+      "playtime_windows_forever": 377,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
