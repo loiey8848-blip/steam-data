@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T10:13:15.457435+00:00",
+  "updated_at_utc": "2026-10-03T15:00:20.893759+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -6917,14 +6917,14 @@
     {
       "appid": 3372060,
       "name": "Hell Maiden",
-      "playtime_minutes": 1,
-      "playtime_hours": 0.0,
-      "last_played_unix": 1789190754,
-      "last_played_utc": "2026-09-12T05:25:54+00:00",
-      "recent": false,
-      "achievements_unlocked": 0,
+      "playtime_minutes": 57,
+      "playtime_hours": 0.9,
+      "last_played_unix": 1791037411,
+      "last_played_utc": "2026-10-03T14:23:31+00:00",
+      "recent": true,
+      "achievements_unlocked": 10,
       "achievements_total": 72,
-      "achievement_percent": 0.0
+      "achievement_percent": 13.9
     },
     {
       "appid": 2461850,
@@ -15461,14 +15461,14 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_minutes": 398,
-      "playtime_hours": 6.6,
-      "last_played_unix": 1791021742,
-      "last_played_utc": "2026-10-03T10:02:22+00:00",
+      "playtime_minutes": 591,
+      "playtime_hours": 9.8,
+      "last_played_unix": 1791033358,
+      "last_played_utc": "2026-10-03T13:15:58+00:00",
       "recent": true,
-      "achievements_unlocked": 9,
+      "achievements_unlocked": 11,
       "achievements_total": 46,
-      "achievement_percent": 19.6
+      "achievement_percent": 23.9
     },
     {
       "appid": 1281590,

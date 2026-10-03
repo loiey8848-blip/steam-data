@@ -3,9 +3,9 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-09-26T04:13:44.343388+00:00",
+  "unlocked": 10,
+  "percent": 13.9,
+  "updated_at_utc": "2026-10-03T15:00:09.462711+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
@@ -30,15 +30,15 @@
     },
     {
       "apiname": "AstralWayfarer",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791037051,
       "name": "Astral Wayfarer",
       "description": "Use Blazing Quill in Limbo twice."
     },
     {
       "apiname": "ConquererOfLimbo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Conqueror of Limbo",
       "description": "Survive 12 minutes in Circle 1, Limbo."
     },
@@ -100,15 +100,15 @@
     },
     {
       "apiname": "HeavenlyGift",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Heavenly Gift",
       "description": "Get a Charm of Crystal rarity."
     },
     {
       "apiname": "DevilishTalent",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Devilish Talent",
       "description": "Deal 200.000 damage with a single weapon in a single run."
     },
@@ -128,15 +128,15 @@
     },
     {
       "apiname": "WeaponMaster",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Weapon Master",
       "description": "Get a full hand of Weapon cards in a single run."
     },
     {
       "apiname": "StrategyMaster",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Strategy Master",
       "description": "Get a full hand of Weapon and Mod cards in a single run."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "Bloodthirsty",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Bloodthirsty",
       "description": "Kill 2500 enemies in a single run."
     },
@@ -261,15 +261,15 @@
     },
     {
       "apiname": "WayfinderI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791037360,
       "name": "Wayfinder I",
       "description": "Use Virgil's Wayfinder."
     },
     {
       "apiname": "WayfinderII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791037361,
       "name": "Wayfinder II",
       "description": "Use Virgil's Spell."
     },
@@ -408,8 +408,8 @@
     },
     {
       "apiname": "BlazingQuillI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791035533,
       "name": "Blazing Quill I",
       "description": "Use Dante's Spell."
     },

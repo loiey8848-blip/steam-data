@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T10:13:15.457435+00:00",
+  "updated_at_utc": "2026-10-03T15:00:20.893759+00:00",
   "games": [
     {
       "appid": 268050,
@@ -47,6 +47,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 591,
+      "playtime_forever": 591,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 591,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3393280,
       "name": "Anime Shop Simulator ✨",
       "playtime_2weeks": 545,
@@ -82,7 +93,7 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_2weeks": 470,
+      "playtime_2weeks": 464,
       "playtime_forever": 470,
       "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
       "playtime_windows_forever": 470,
@@ -97,17 +108,6 @@
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 398,
-      "playtime_forever": 398,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 398,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -141,17 +141,6 @@
       "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
       "playtime_windows_forever": 313,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4990390,
-      "name": "Toll: The Ferryman's Ledger",
-      "playtime_2weeks": 218,
-      "playtime_forever": 377,
-      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
-      "playtime_windows_forever": 377,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -212,6 +201,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 57,
+      "playtime_forever": 57,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 57,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4018550,
       "name": "Cat Isle",
       "playtime_2weeks": 23,
@@ -234,12 +234,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 5075680,
-      "name": "Graveyard Keeper 2 Demo",
-      "playtime_2weeks": 11,
-      "playtime_forever": 11,
-      "img_icon_url": "eae1a00961c88ddc9a486fec0eaa8c88b6aa75eb",
-      "playtime_windows_forever": 11,
+      "appid": 4990390,
+      "name": "Toll: The Ferryman's Ledger",
+      "playtime_2weeks": 1,
+      "playtime_forever": 377,
+      "img_icon_url": "7298b9403e000493bc987fcf12458edd996700de",
+      "playtime_windows_forever": 377,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

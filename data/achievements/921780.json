@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 9,
-  "percent": 19.6,
-  "updated_at_utc": "2026-10-03T10:11:30.567208+00:00",
+  "unlocked": 11,
+  "percent": 23.9,
+  "updated_at_utc": "2026-10-03T14:58:40.016160+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Gemini",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791030180,
       "name": "A Tale of Two Sisters",
       "description": "Find Gemini key"
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "TCH_ACH_CM_DemoniacArmSwitch",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791030958,
       "name": "Heart Attack",
       "description": "Activate the right switch in the wrong time"
     },
