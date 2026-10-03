@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T06:22:24.573062+00:00",
+  "updated_at_utc": "2026-10-03T08:15:24.744952+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5597,10 +5597,10 @@
     {
       "appid": 821250,
       "name": "Flotsam",
-      "playtime_minutes": 106,
-      "playtime_hours": 1.8,
-      "last_played_unix": 1791008055,
-      "last_played_utc": "2026-10-03T06:14:15+00:00",
+      "playtime_minutes": 126,
+      "playtime_hours": 2.1,
+      "last_played_unix": 1791009201,
+      "last_played_utc": "2026-10-03T06:33:21+00:00",
       "recent": true,
       "achievements_unlocked": 2,
       "achievements_total": 42,
@@ -5621,14 +5621,14 @@
     {
       "appid": 1298140,
       "name": "Fobia - St. Dinfna Hotel",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "playtime_minutes": 18,
+      "playtime_hours": 0.3,
+      "last_played_unix": 1791010597,
+      "last_played_utc": "2026-10-03T06:56:37+00:00",
+      "recent": true,
+      "achievements_unlocked": 0,
+      "achievements_total": 28,
+      "achievement_percent": 0.0
     },
     {
       "appid": 2720280,
@@ -15461,14 +15461,14 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_minutes": 213,
-      "playtime_hours": 3.5,
-      "last_played_unix": 1791008046,
-      "last_played_utc": "2026-10-03T06:14:06+00:00",
+      "playtime_minutes": 278,
+      "playtime_hours": 4.6,
+      "last_played_unix": 1791014540,
+      "last_played_utc": "2026-10-03T08:02:20+00:00",
       "recent": true,
-      "achievements_unlocked": 8,
+      "achievements_unlocked": 9,
       "achievements_total": 46,
-      "achievement_percent": 17.4
+      "achievement_percent": 19.6
     },
     {
       "appid": 1281590,

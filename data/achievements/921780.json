@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 8,
-  "percent": 17.4,
-  "updated_at_utc": "2026-10-03T06:20:40.415755+00:00",
+  "unlocked": 9,
+  "percent": 19.6,
+  "updated_at_utc": "2026-10-03T08:13:39.245031+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Libra",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791011206,
       "name": "Alone in the Dark",
       "description": "Find Libra key"
     },
