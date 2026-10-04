@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2019380,
+  "game": "Pocket Harvest",
+  "total": 6,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-04T02:55:01.680475+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kairobot that hatches from the golden egg.",
+      "description": "Proof of harvesting Kairobot doll."
+    },
+    {
+      "apiname": "GAMECLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A heartwarming farm life.",
+      "description": "Proof of producing a farm for many years."
+    },
+    {
+      "apiname": "CROPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Longing for a colorful farm.",
+      "description": "Proof of obtained 20 kinds of crops."
+    },
+    {
+      "apiname": "CONTEST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Popular local products spread all over the world.",
+      "description": "Proof of winning the world-class contest."
+    },
+    {
+      "apiname": "MISSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Missions that come in one after another.",
+      "description": "Proof of completing 10 shop missions."
+    },
+    {
+      "apiname": "DEVELOP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The first step to an ultra farm.",
+      "description": "Proof of the first development."
+    }
+  ]
+}

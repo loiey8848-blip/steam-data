@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-03T20:08:02.701670+00:00",
+  "updated_at_utc": "2026-10-04T02:55:51.270961+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -11681,14 +11681,14 @@
     {
       "appid": 2019380,
       "name": "Pocket Harvest",
-      "playtime_minutes": 0,
+      "playtime_minutes": 1,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "last_played_unix": 1791078791,
+      "last_played_utc": "2026-10-04T01:53:11+00:00",
+      "recent": true,
+      "achievements_unlocked": 0,
+      "achievements_total": 6,
+      "achievement_percent": 0.0
     },
     {
       "appid": 1923690,
