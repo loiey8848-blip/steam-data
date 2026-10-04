@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1842690,
+  "game": "Station Manager",
+  "total": 6,
+  "unlocked": 3,
+  "percent": 50.0,
+  "updated_at_utc": "2026-10-04T18:15:18.553207+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That red and yellow robot arrives.",
+      "description": "Proof of Reduplicatron K bacame a customer."
+    },
+    {
+      "apiname": "RANKING1ST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The No.1 most popular station.",
+      "description": "Proof of being the first place in any town."
+    },
+    {
+      "apiname": "ALLCITY1YEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The track that stretches to anywhere.",
+      "description": "Proof of running stations for over a year in all towns."
+    },
+    {
+      "apiname": "MANYCUSTOMER",
+      "achieved": 1,
+      "unlocktime": 1789115287,
+      "name": "The overflow customers from home.",
+      "description": "Proof of discovering more than 50 customers in any town."
+    },
+    {
+      "apiname": "MANYTRAINGET",
+      "achieved": 1,
+      "unlocktime": 1789813570,
+      "name": "Please wait behind the white line.",
+      "description": "Proof of discovering more than 25 types of trains."
+    },
+    {
+      "apiname": "TRAINCUSTOM",
+      "achieved": 1,
+      "unlocktime": 1788868147,
+      "name": "The train will arrive soon.",
+      "description": "Proof that the train was organized for the first time."
+    }
+  ]
+}

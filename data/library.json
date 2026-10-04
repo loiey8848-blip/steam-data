@@ -1,8 +1,63 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-04T11:24:20.853750+00:00",
-  "owned_games": 1593,
-  "new_games": [],
+  "updated_at_utc": "2026-10-04T18:16:08.551700+00:00",
+  "owned_games": 1599,
+  "new_games": [
+    {
+      "appid": 1346840,
+      "name": "Dead Reset",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 252330,
+      "name": "Slender: The Arrival",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 409320,
+      "name": "Syndrome",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2688570,
+      "name": "The Inn-Sanity",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 715380,
+      "name": "Those Who Remain",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1164940,
+      "name": "Trepang2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -506,7 +561,7 @@
       "playtime_hours": 18.8,
       "last_played_unix": 1789921247,
       "last_played_utc": "2026-09-20T16:20:47+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 1933970,
@@ -2644,6 +2699,15 @@
     {
       "appid": 383180,
       "name": "Dead Island Riptide Definitive Edition",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1346840,
+      "name": "Dead Reset",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5362,11 +5426,11 @@
     {
       "appid": 2431880,
       "name": "High Sea Saga DX",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1791136227,
+      "last_played_utc": "2026-10-04T17:50:27+00:00",
+      "recent": true
     },
     {
       "appid": 6850,
@@ -5614,11 +5678,11 @@
     {
       "appid": 2089450,
       "name": "Hot Springs Story 2",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1791136173,
+      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "recent": true
     },
     {
       "appid": 1214470,
@@ -6145,11 +6209,11 @@
     {
       "appid": 2191480,
       "name": "Jumbo Airport Story",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1791136173,
+      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "recent": true
     },
     {
       "appid": 1951780,
@@ -10535,6 +10599,15 @@
       "recent": false
     },
     {
+      "appid": 252330,
+      "name": "Slender: The Arrival",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_minutes": 8,
@@ -10924,11 +10997,11 @@
     {
       "appid": 1842690,
       "name": "Station Manager",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 90,
+      "playtime_hours": 1.5,
+      "last_played_unix": 1791136173,
+      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "recent": true
     },
     {
       "appid": 2272400,
@@ -11266,6 +11339,15 @@
     {
       "appid": 1488200,
       "name": "Symphony of War: The Nephilim Saga",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 409320,
+      "name": "Syndrome",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11984,6 +12066,15 @@
       "recent": false
     },
     {
+      "appid": 2688570,
+      "name": "The Inn-Sanity",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 613470,
       "name": "The Inner World: The Last Wind Monk",
       "playtime_minutes": 0,
@@ -12641,6 +12732,15 @@
       "recent": false
     },
     {
+      "appid": 715380,
+      "name": "Those Who Remain",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 803390,
       "name": "Thunderbolt",
       "playtime_minutes": 0,
@@ -12985,6 +13085,15 @@
     {
       "appid": 1370050,
       "name": "Trek to Yomi",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1164940,
+      "name": "Trepang2",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13345,10 +13454,10 @@
     {
       "appid": 1627840,
       "name": "Universe For Sale",
-      "playtime_minutes": 15,
-      "playtime_hours": 0.2,
-      "last_played_unix": 1791044461,
-      "last_played_utc": "2026-10-03T16:21:01+00:00",
+      "playtime_minutes": 269,
+      "playtime_hours": 4.5,
+      "last_played_unix": 1791128591,
+      "last_played_utc": "2026-10-04T15:43:11+00:00",
       "recent": true
     },
     {

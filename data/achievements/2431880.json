@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2431880,
+  "game": "High Sea Saga DX",
+  "total": 6,
+  "unlocked": 2,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-04T18:15:33.055859+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I'm going to be the robot king",
+      "description": "Proof of changing jobs to a robot"
+    },
+    {
+      "apiname": "ENDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I am the Great Pirate",
+      "description": "Proof of reaching Fleet Rank 50"
+    },
+    {
+      "apiname": "BATTLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The rumored guys in the world's oceans",
+      "description": "Proof of 100 wins in free battles"
+    },
+    {
+      "apiname": "CREW",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A charismatic captain who steals heart",
+      "description": "Proof of having 50 crews."
+    },
+    {
+      "apiname": "QUEST",
+      "achieved": 1,
+      "unlocktime": 1791133934,
+      "name": "I'll take my fame",
+      "description": "Proof of completely conquered a base quest"
+    },
+    {
+      "apiname": "SHIP",
+      "achieved": 1,
+      "unlocktime": 1790998000,
+      "name": "Yosoro to the Great Voyage!",
+      "description": "Proof of acquiring a ship"
+    }
+  ]
+}

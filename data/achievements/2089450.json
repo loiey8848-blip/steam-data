@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2089450,
+  "game": "Hot Springs Story 2",
+  "total": 6,
+  "unlocked": 5,
+  "percent": 83.3,
+  "updated_at_utc": "2026-10-04T18:15:32.401831+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIRO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slightly pink robot",
+      "description": "Proof that Kairobot joined."
+    },
+    {
+      "apiname": "ENDING",
+      "achieved": 1,
+      "unlocktime": 1790379886,
+      "name": "Joining the ranks of super long-established inns",
+      "description": "Proof of running a splendid hot spring inn for many years."
+    },
+    {
+      "apiname": "OPENBATH",
+      "achieved": 1,
+      "unlocktime": 1790774012,
+      "name": "Smooth egg skin from hot bath 2",
+      "description": "Proof of completion of the open-air bath."
+    },
+    {
+      "apiname": "BEAR",
+      "achieved": 1,
+      "unlocktime": 1790551443,
+      "name": "Let's keep peace in the city",
+      "description": "Proof of being safe after defeating a bear."
+    },
+    {
+      "apiname": "HAWAII",
+      "achieved": 1,
+      "unlocktime": 1790551443,
+      "name": "I went to Hawaii!",
+      "description": "Proof of going to Hawaii."
+    },
+    {
+      "apiname": "BATH",
+      "achieved": 1,
+      "unlocktime": 1790188486,
+      "name": "Flowing from the source.",
+      "description": "Proof of a fresh hot spring as it is from the source."
+    }
+  ]
+}

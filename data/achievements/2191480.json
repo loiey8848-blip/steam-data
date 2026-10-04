@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2191480,
+  "game": "Jumbo Airport Story",
+  "total": 6,
+  "unlocked": 2,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-04T18:15:32.684379+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIRO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Always leave it to the wind",
+      "description": "Proof of obtaining a Kairo-kun shaped balloon."
+    },
+    {
+      "apiname": "ENDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take off tomorrow!",
+      "description": "Proof of having managed the airport for many years"
+    },
+    {
+      "apiname": "WORLD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Connect the world!",
+      "description": "Proof that all air routes are open"
+    },
+    {
+      "apiname": "INTERNATIONAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Global!",
+      "description": "Proof that an international route has opened"
+    },
+    {
+      "apiname": "THIEF",
+      "achieved": 1,
+      "unlocktime": 1791130071,
+      "name": "Beware of pickpockets",
+      "description": "Proof of catching a thief yourself"
+    },
+    {
+      "apiname": "AIRPLANE",
+      "achieved": 1,
+      "unlocktime": 1791130071,
+      "name": "Take off into the sky",
+      "description": "Proof of getting your first plane"
+    }
+  ]
+}
