@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 11,
-  "percent": 23.9,
-  "updated_at_utc": "2026-10-04T02:54:10.136130+00:00",
+  "unlocked": 19,
+  "percent": 41.3,
+  "updated_at_utc": "2026-10-04T05:44:41.088325+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -37,15 +37,15 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Leo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791085182,
       "name": "Drag Me to Hell",
       "description": "Find Leo key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Virgo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791089786,
       "name": "Chucky Friend's",
       "description": "Find Virgo key"
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Sagittarius",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791086882,
       "name": "The Ritual",
       "description": "Find Sagittarius key"
     },
@@ -100,15 +100,15 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Closet",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791089444,
       "name": "Parasol Henbee",
       "description": "Find Closet key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_SBox",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791090242,
       "name": "Scavenger Hunt",
       "description": "Find Box key"
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Grimoire",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791085182,
       "name": "Necronomicon Burner",
       "description": "Burn Grimoire Artifact"
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "TCH_ACH_CM_GMPrison",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791089706,
       "name": "RUN YOU FOOL",
       "description": "Run from your enemy in the prison"
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_KickOffXDolls",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791092173,
       "name": "Dolls Kick 4ss",
       "description": "Kick off 5 Dolls in Terror Mode"
     },

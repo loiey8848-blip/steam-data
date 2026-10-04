@@ -1,8 +1,144 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-04T02:55:51.270961+00:00",
-  "owned_games": 1578,
-  "new_games": [],
+  "updated_at_utc": "2026-10-04T05:46:22.692691+00:00",
+  "owned_games": 1593,
+  "new_games": [
+    {
+      "appid": 1309620,
+      "name": "Bears In Space",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 499180,
+      "name": "Braid, Anniversary Edition",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1216710,
+      "name": "Cyber Manhunt",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 230230,
+      "name": "Divinity: Original Sin (Classic)",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 373420,
+      "name": "Divinity: Original Sin Enhanced Edition",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4019220,
+      "name": "Dressmaker",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1182620,
+      "name": "Impostor Factory",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1229020,
+      "name": "Kona II: Brume",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1051310,
+      "name": "Paper Dolls Original",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3263880,
+      "name": "Project DevourSlime",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 5044770,
+      "name": "The Death Game Report",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 210970,
+      "name": "The Witness",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1332720,
+      "name": "Thief Simulator 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1004750,
+      "name": "WRC 8 FIA World Rally Championship",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -968,6 +1104,15 @@
       "recent": false
     },
     {
+      "appid": 1309620,
+      "name": "Bears In Space",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2001760,
       "name": "Beast of Reincarnation",
       "playtime_minutes": 1737,
@@ -1474,6 +1619,15 @@
     {
       "appid": 1947950,
       "name": "Boxing Gym Story",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 499180,
+      "name": "Braid, Anniversary Edition",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -2399,6 +2553,15 @@
       "recent": false
     },
     {
+      "appid": 1216710,
+      "name": "Cyber Manhunt",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1091500,
       "name": "Cyberpunk 2077",
       "playtime_minutes": 3095,
@@ -3074,8 +3237,26 @@
       "recent": false
     },
     {
+      "appid": 230230,
+      "name": "Divinity: Original Sin (Classic)",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 435150,
       "name": "Divinity: Original Sin 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 373420,
+      "name": "Divinity: Original Sin Enhanced Edition",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -3310,6 +3491,15 @@
     {
       "appid": 1040420,
       "name": "Dreamscaper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4019220,
+      "name": "Dressmaker",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5684,6 +5874,15 @@
       "recent": false
     },
     {
+      "appid": 1182620,
+      "name": "Impostor Factory",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1119980,
       "name": "In Sound Mind",
       "playtime_minutes": 0,
@@ -6280,6 +6479,15 @@
     {
       "appid": 1626620,
       "name": "Koira",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1229020,
+      "name": "Kona II: Brume",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -8411,6 +8619,15 @@
       "recent": false
     },
     {
+      "appid": 1051310,
+      "name": "Paper Dolls Original",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1889740,
       "name": "Paper Trail",
       "playtime_minutes": 0,
@@ -8933,6 +9150,15 @@
       "recent": false
     },
     {
+      "appid": 3263880,
+      "name": "Project DevourSlime",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 423580,
       "name": "Project Highrise",
       "playtime_minutes": 0,
@@ -8957,6 +9183,15 @@
       "playtime_hours": 3.3,
       "last_played_unix": 1647190876,
       "last_played_utc": "2022-03-13T17:01:16+00:00",
+      "recent": false
+    },
+    {
+      "appid": 108600,
+      "name": "Project Zomboid",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -11599,10 +11834,10 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_minutes": 591,
-      "playtime_hours": 9.8,
-      "last_played_unix": 1791033358,
-      "last_played_utc": "2026-10-03T13:15:58+00:00",
+      "playtime_minutes": 711,
+      "playtime_hours": 11.8,
+      "last_played_unix": 1791091956,
+      "last_played_utc": "2026-10-04T05:32:36+00:00",
       "recent": true
     },
     {
@@ -11662,6 +11897,15 @@
     {
       "appid": 2285890,
       "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 5044770,
+      "name": "The Death Game Report",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -12461,6 +12705,15 @@
       "recent": false
     },
     {
+      "appid": 210970,
+      "name": "The Witness",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 518790,
       "name": "theHunter: Call of the Wild™",
       "playtime_minutes": 0,
@@ -12494,6 +12747,15 @@
       "playtime_hours": 0.2,
       "last_played_unix": 1784399347,
       "last_played_utc": "2026-07-18T18:29:07+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1332720,
+      "name": "Thief Simulator 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -13840,6 +14102,15 @@
     {
       "appid": 621830,
       "name": "WRC 7",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1004750,
+      "name": "WRC 8 FIA World Rally Championship",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
