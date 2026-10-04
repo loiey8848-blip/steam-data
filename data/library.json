@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-04T18:16:08.551700+00:00",
-  "owned_games": 1599,
+  "updated_at_utc": "2026-10-04T21:30:47.729882+00:00",
+  "owned_games": 1604,
   "new_games": [
     {
-      "appid": 1346840,
-      "name": "Dead Reset",
+      "appid": 21090,
+      "name": "F.E.A.R.",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13,8 +13,8 @@
       "recent": false
     },
     {
-      "appid": 252330,
-      "name": "Slender: The Arrival",
+      "appid": 16450,
+      "name": "F.E.A.R. 2: Project Origin",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -22,8 +22,8 @@
       "recent": false
     },
     {
-      "appid": 409320,
-      "name": "Syndrome",
+      "appid": 21100,
+      "name": "F.E.A.R. 3",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -31,8 +31,8 @@
       "recent": false
     },
     {
-      "appid": 2688570,
-      "name": "The Inn-Sanity",
+      "appid": 21110,
+      "name": "F.E.A.R.: Extraction Point",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -40,17 +40,8 @@
       "recent": false
     },
     {
-      "appid": 715380,
-      "name": "Those Who Remain",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1164940,
-      "name": "Trepang2",
+      "appid": 21120,
+      "name": "F.E.A.R.: Perseus Mandate",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -3930,6 +3921,51 @@
       "recent": false
     },
     {
+      "appid": 21090,
+      "name": "F.E.A.R.",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 16450,
+      "name": "F.E.A.R. 2: Project Origin",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 21100,
+      "name": "F.E.A.R. 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 21110,
+      "name": "F.E.A.R.: Extraction Point",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 21120,
+      "name": "F.E.A.R.: Perseus Mandate",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1330470,
       "name": "F.I.S.T.: Forged In Shadow Torch",
       "playtime_minutes": 0,
@@ -5426,10 +5462,10 @@
     {
       "appid": 2431880,
       "name": "High Sea Saga DX",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136227,
-      "last_played_utc": "2026-10-04T17:50:27+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148827,
+      "last_played_utc": "2026-10-04T21:20:27+00:00",
       "recent": true
     },
     {
@@ -5678,10 +5714,10 @@
     {
       "appid": 2089450,
       "name": "Hot Springs Story 2",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true
     },
     {
@@ -6209,10 +6245,10 @@
     {
       "appid": 2191480,
       "name": "Jumbo Airport Story",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true
     },
     {
@@ -10997,10 +11033,10 @@
     {
       "appid": 1842690,
       "name": "Station Manager",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true
     },
     {

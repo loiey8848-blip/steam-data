@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-04T18:16:08.551700+00:00",
+  "updated_at_utc": "2026-10-04T21:30:47.729882+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5163,6 +5163,66 @@
       "achievement_percent": null
     },
     {
+      "appid": 21090,
+      "name": "F.E.A.R.",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 16450,
+      "name": "F.E.A.R. 2: Project Origin",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 21100,
+      "name": "F.E.A.R. 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 21110,
+      "name": "F.E.A.R.: Extraction Point",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 21120,
+      "name": "F.E.A.R.: Perseus Mandate",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1330470,
       "name": "F.I.S.T.: Forged In Shadow Torch",
       "playtime_minutes": 0,
@@ -7157,10 +7217,10 @@
     {
       "appid": 2431880,
       "name": "High Sea Saga DX",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136227,
-      "last_played_utc": "2026-10-04T17:50:27+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148827,
+      "last_played_utc": "2026-10-04T21:20:27+00:00",
       "recent": true,
       "achievements_unlocked": 2,
       "achievements_total": 6,
@@ -7493,10 +7553,10 @@
     {
       "appid": 2089450,
       "name": "Hot Springs Story 2",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true,
       "achievements_unlocked": 5,
       "achievements_total": 6,
@@ -8201,10 +8261,10 @@
     {
       "appid": 2191480,
       "name": "Jumbo Airport Story",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true,
       "achievements_unlocked": 2,
       "achievements_total": 6,
@@ -14585,14 +14645,14 @@
     {
       "appid": 1842690,
       "name": "Station Manager",
-      "playtime_minutes": 90,
-      "playtime_hours": 1.5,
-      "last_played_unix": 1791136173,
-      "last_played_utc": "2026-10-04T17:49:33+00:00",
+      "playtime_minutes": 300,
+      "playtime_hours": 5.0,
+      "last_played_unix": 1791148773,
+      "last_played_utc": "2026-10-04T21:19:33+00:00",
       "recent": true,
-      "achievements_unlocked": 3,
+      "achievements_unlocked": 4,
       "achievements_total": 6,
-      "achievement_percent": 50.0
+      "achievement_percent": 66.7
     },
     {
       "appid": 2272400,

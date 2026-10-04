@@ -3,9 +3,9 @@
   "appid": 1842690,
   "game": "Station Manager",
   "total": 6,
-  "unlocked": 3,
-  "percent": 50.0,
-  "updated_at_utc": "2026-10-04T18:15:18.553207+00:00",
+  "unlocked": 4,
+  "percent": 66.7,
+  "updated_at_utc": "2026-10-04T21:29:55.841830+00:00",
   "achievements": [
     {
       "apiname": "KAIROKUN",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "RANKING1ST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791138164,
       "name": "The No.1 most popular station.",
       "description": "Proof of being the first place in any town."
     },
