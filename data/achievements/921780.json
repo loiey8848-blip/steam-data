@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 19,
-  "percent": 41.3,
-  "updated_at_utc": "2026-10-04T05:44:41.088325+00:00",
+  "unlocked": 22,
+  "percent": 47.8,
+  "updated_at_utc": "2026-10-04T11:22:39.925521+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -72,15 +72,15 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Capricorn",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791094415,
       "name": "No Return",
       "description": "Find Capricorn key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Aquarius",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791093047,
       "name": "Honogurai Mizu no soko kara",
       "description": "Find Aquarius key"
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_KillXDolls",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791092950,
       "name": "Master Of Puppets",
       "description": "Kill 15 Dolls in Terror Mode"
     },

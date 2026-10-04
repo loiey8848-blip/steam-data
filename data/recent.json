@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-04T05:46:22.692691+00:00",
+  "updated_at_utc": "2026-10-04T11:24:20.853750+00:00",
   "games": [
     {
       "appid": 268050,
@@ -49,21 +49,10 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 711,
-      "playtime_forever": 711,
+      "playtime_2weeks": 768,
+      "playtime_forever": 768,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 711,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3393280,
-      "name": "Anime Shop Simulator ✨",
-      "playtime_2weeks": 505,
-      "playtime_forever": 1128,
-      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
-      "playtime_windows_forever": 1128,
+      "playtime_windows_forever": 768,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,12 +102,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 292,
-      "playtime_forever": 470,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 470,
+      "appid": 3393280,
+      "name": "Anime Shop Simulator ✨",
+      "playtime_2weeks": 300,
+      "playtime_forever": 1128,
+      "img_icon_url": "6c67bfab21a872ce82807552383a43c330b03337",
+      "playtime_windows_forever": 1128,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -141,6 +130,17 @@
       "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
       "playtime_windows_forever": 313,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 188,
+      "playtime_forever": 470,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 470,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -179,6 +179,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 94,
+      "playtime_forever": 94,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 94,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
@@ -196,17 +207,6 @@
       "playtime_forever": 58,
       "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
       "playtime_windows_forever": 58,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 57,
-      "playtime_forever": 57,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 57,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

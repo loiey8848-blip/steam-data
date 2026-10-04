@@ -3,9 +3,9 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 10,
-  "percent": 13.9,
-  "updated_at_utc": "2026-10-04T05:46:12.707528+00:00",
+  "unlocked": 12,
+  "percent": 16.7,
+  "updated_at_utc": "2026-10-04T11:24:10.436054+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "GhoulHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791095422,
       "name": "Ghoul Hunter",
       "description": "Kill 500 Ghoul enemies."
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "LostSoulHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791095422,
       "name": "Lost Soul Hunter",
       "description": "Kill 500 Lost Soul enemies."
     },
