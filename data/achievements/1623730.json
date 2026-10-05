@@ -3,9 +3,9 @@
   "appid": 1623730,
   "game": "Palworld",
   "total": 75,
-  "unlocked": 61,
-  "percent": 81.3,
-  "updated_at_utc": "2026-10-05T10:16:33.588015+00:00",
+  "unlocked": 64,
+  "percent": 85.3,
+  "updated_at_utc": "2026-10-05T12:18:11.449438+00:00",
   "achievements": [
     {
       "apiname": "Pal_Achievement_1",
@@ -457,8 +457,8 @@
     },
     {
       "apiname": "Pal_Achievement_65",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791202248,
       "name": "World Tree Guru",
       "description": "Obtained 20 Cattiva Effigies"
     },
@@ -471,8 +471,8 @@
     },
     {
       "apiname": "Pal_Achievement_67",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791200725,
       "name": "Island Traveler",
       "description": "Obtained 4 Relaxaurus Effigies"
     },
@@ -513,8 +513,8 @@
     },
     {
       "apiname": "Pal_Achievement_73",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791198656,
       "name": "Legendary Ocean King",
       "description": ""
     },

@@ -1,8 +1,63 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T10:17:23.503687+00:00",
-  "owned_games": 1604,
-  "new_games": [],
+  "updated_at_utc": "2026-10-05T12:19:00.461410+00:00",
+  "owned_games": 1610,
+  "new_games": [
+    {
+      "appid": 1490840,
+      "name": "Bloodshore",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2095300,
+      "name": "Breakout 13",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1346830,
+      "name": "I Saw Black Clouds",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 584980,
+      "name": "Late Shift",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1477920,
+      "name": "Night Book",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1107790,
+      "name": "The Complex",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1346,6 +1401,15 @@
       "recent": false
     },
     {
+      "appid": 1490840,
+      "name": "Bloodshore",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 336110,
       "name": "Bloody Streets",
       "playtime_minutes": 192,
@@ -1510,6 +1574,15 @@
     {
       "appid": 943370,
       "name": "Bravery and Greed",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2095300,
+      "name": "Breakout 13",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5747,6 +5820,15 @@
       "recent": false
     },
     {
+      "appid": 1346830,
+      "name": "I Saw Black Clouds",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 95400,
       "name": "ibb & obb",
       "playtime_minutes": 182,
@@ -6505,6 +6587,15 @@
     {
       "appid": 289690,
       "name": "Lara Croft and the Temple of Osiris",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 584980,
+      "name": "Late Shift",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -7934,6 +8025,15 @@
       "recent": false
     },
     {
+      "appid": 1477920,
+      "name": "Night Book",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1743080,
       "name": "Night Cascades",
       "playtime_minutes": 0,
@@ -8512,10 +8612,10 @@
     {
       "appid": 1623730,
       "name": "Palworld",
-      "playtime_minutes": 7814,
-      "playtime_hours": 130.2,
-      "last_played_unix": 1791194238,
-      "last_played_utc": "2026-10-05T09:57:18+00:00",
+      "playtime_minutes": 7934,
+      "playtime_hours": 132.2,
+      "last_played_unix": 1791201438,
+      "last_played_utc": "2026-10-05T11:57:18+00:00",
       "recent": true
     },
     {
@@ -11734,6 +11834,15 @@
     {
       "appid": 600090,
       "name": "The Coma: Recut",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1107790,
+      "name": "The Complex",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
