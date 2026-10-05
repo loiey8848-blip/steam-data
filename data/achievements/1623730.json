@@ -3,9 +3,9 @@
   "appid": 1623730,
   "game": "Palworld",
   "total": 75,
-  "unlocked": 64,
-  "percent": 85.3,
-  "updated_at_utc": "2026-10-05T12:18:11.449438+00:00",
+  "unlocked": 74,
+  "percent": 98.7,
+  "updated_at_utc": "2026-10-05T14:18:20.508769+00:00",
   "achievements": [
     {
       "apiname": "Pal_Achievement_1",
@@ -408,50 +408,50 @@
     },
     {
       "apiname": "Pal_Achievement_58",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791204932,
       "name": "Forest Guru",
       "description": "Obtained 20 Lamball Effigies"
     },
     {
       "apiname": "Pal_Achievement_59",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791206798,
       "name": "Volcano Guru",
       "description": "Obtained 20 Pengullet Effigies"
     },
     {
       "apiname": "Pal_Achievement_60",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791205451,
       "name": "Desert Guru",
       "description": "Obtained 20 Munchill Effigies"
     },
     {
       "apiname": "Pal_Achievement_61",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791205917,
       "name": "Snowy Mountain Guru",
       "description": "Obtained 20 Rooby Effigies"
     },
     {
       "apiname": "Pal_Achievement_62",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791204206,
       "name": "Sakurajima Guru",
       "description": "Obtained 20 Herbil Effigies"
     },
     {
       "apiname": "Pal_Achievement_63",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791207199,
       "name": "Feybreak Guru",
       "description": "Obtained 20 Tanzee Effigies"
     },
     {
       "apiname": "Pal_Achievement_64",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791203817,
       "name": "Sunreach Guru",
       "description": "Obtained 20 Depresso Effigies"
     },
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "Pal_Achievement_66",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791203168,
       "name": "Forest Traveler",
       "description": "Obtained 4 Lunaris Effigies"
     },
@@ -478,8 +478,8 @@
     },
     {
       "apiname": "Pal_Achievement_68",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791204404,
       "name": "World Traveler",
       "description": "Obtained 4 Yakumo Effigies"
     },
@@ -492,8 +492,8 @@
     },
     {
       "apiname": "Pal_Achievement_70",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791207851,
       "name": "Hidden Potential",
       "description": "Awakened a Pal for the first time"
     },

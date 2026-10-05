@@ -1,63 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T12:19:00.461410+00:00",
+  "updated_at_utc": "2026-10-05T14:19:11.088018+00:00",
   "owned_games": 1610,
-  "new_games": [
-    {
-      "appid": 1490840,
-      "name": "Bloodshore",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 2095300,
-      "name": "Breakout 13",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1346830,
-      "name": "I Saw Black Clouds",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 584980,
-      "name": "Late Shift",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1477920,
-      "name": "Night Book",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1107790,
-      "name": "The Complex",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -8612,10 +8557,10 @@
     {
       "appid": 1623730,
       "name": "Palworld",
-      "playtime_minutes": 7934,
-      "playtime_hours": 132.2,
-      "last_played_unix": 1791201438,
-      "last_played_utc": "2026-10-05T11:57:18+00:00",
+      "playtime_minutes": 8054,
+      "playtime_hours": 134.2,
+      "last_played_unix": 1791208638,
+      "last_played_utc": "2026-10-05T13:57:18+00:00",
       "recent": true
     },
     {

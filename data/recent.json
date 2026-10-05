@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T12:19:00.461410+00:00",
+  "updated_at_utc": "2026-10-05T14:19:11.088018+00:00",
   "games": [
     {
       "appid": 268050,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1623730,
+      "name": "Palworld",
+      "playtime_2weeks": 468,
+      "playtime_forever": 8054,
+      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+      "playtime_windows_forever": 8025,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 29,
+      "playtime_deck_forever": 29
+    },
+    {
       "appid": 1839510,
       "name": "ＲＰＧタイム！～ライトの伝説～",
       "playtime_2weeks": 400,
@@ -122,17 +133,6 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1623730,
-      "name": "Palworld",
-      "playtime_2weeks": 348,
-      "playtime_forever": 7934,
-      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
-      "playtime_windows_forever": 7905,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 29,
-      "playtime_deck_forever": 29
     },
     {
       "appid": 5212940,
@@ -185,17 +185,6 @@
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3116700,
-      "name": "Reap and Rush",
-      "playtime_2weeks": 159,
-      "playtime_forever": 3193,
-      "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
-      "playtime_windows_forever": 3193,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -273,6 +262,17 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3116700,
+      "name": "Reap and Rush",
+      "playtime_2weeks": 39,
+      "playtime_forever": 3193,
+      "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
+      "playtime_windows_forever": 3193,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
