@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T14:19:11.088018+00:00",
+  "updated_at_utc": "2026-10-05T16:15:30.080689+00:00",
   "games": [
     {
       "appid": 268050,
@@ -58,12 +58,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2431880,
+      "name": "High Sea Saga DX",
+      "playtime_2weeks": 586,
+      "playtime_forever": 586,
+      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
+      "playtime_windows_forever": 586,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2191480,
       "name": "Jumbo Airport Story",
-      "playtime_2weeks": 580,
-      "playtime_forever": 580,
+      "playtime_2weeks": 585,
+      "playtime_forever": 585,
       "img_icon_url": "5d2b4b2b9548f57d68651de4db7eb033ade4181c",
-      "playtime_windows_forever": 580,
+      "playtime_windows_forever": 585,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -71,10 +82,10 @@
     {
       "appid": 2089450,
       "name": "Hot Springs Story 2",
-      "playtime_2weeks": 580,
-      "playtime_forever": 580,
+      "playtime_2weeks": 585,
+      "playtime_forever": 585,
       "img_icon_url": "ec1f9c165fb65629e99a5bb2a84ead21425b7749",
-      "playtime_windows_forever": 580,
+      "playtime_windows_forever": 585,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -82,24 +93,24 @@
     {
       "appid": 1842690,
       "name": "Station Manager",
-      "playtime_2weeks": 580,
-      "playtime_forever": 580,
+      "playtime_2weeks": 585,
+      "playtime_forever": 585,
       "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
-      "playtime_windows_forever": 580,
+      "playtime_windows_forever": 585,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2431880,
-      "name": "High Sea Saga DX",
+      "appid": 1623730,
+      "name": "Palworld",
       "playtime_2weeks": 580,
-      "playtime_forever": 580,
-      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
-      "playtime_windows_forever": 580,
+      "playtime_forever": 8166,
+      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+      "playtime_windows_forever": 8137,
       "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
+      "playtime_linux_forever": 29,
+      "playtime_deck_forever": 29
     },
     {
       "appid": 3734290,
@@ -111,17 +122,6 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1623730,
-      "name": "Palworld",
-      "playtime_2weeks": 468,
-      "playtime_forever": 8054,
-      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
-      "playtime_windows_forever": 8025,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 29,
-      "playtime_deck_forever": 29
     },
     {
       "appid": 1839510,
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 248,
-      "playtime_forever": 368,
-      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 368,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
       "playtime_2weeks": 245,
@@ -185,6 +174,17 @@
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "playtime_2weeks": 172,
+      "playtime_forever": 368,
+      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
+      "playtime_windows_forever": 368,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -262,17 +262,6 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3116700,
-      "name": "Reap and Rush",
-      "playtime_2weeks": 39,
-      "playtime_forever": 3193,
-      "img_icon_url": "d437af02f678757ae78de09e1d96e31227fbb176",
-      "playtime_windows_forever": 3193,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

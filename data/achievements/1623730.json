@@ -3,9 +3,9 @@
   "appid": 1623730,
   "game": "Palworld",
   "total": 75,
-  "unlocked": 74,
-  "percent": 98.7,
-  "updated_at_utc": "2026-10-05T14:18:20.508769+00:00",
+  "unlocked": 75,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-05T16:14:41.166774+00:00",
   "achievements": [
     {
       "apiname": "Pal_Achievement_1",
@@ -499,8 +499,8 @@
     },
     {
       "apiname": "Pal_Achievement_71",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791211226,
       "name": "Arena Legend",
       "description": "Reached legend rank in the arena"
     },
