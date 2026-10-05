@@ -1,0 +1,431 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2114740,
+  "game": "Blasphemous 2",
+  "total": 60,
+  "unlocked": 1,
+  "percent": 1.7,
+  "updated_at_utc": "2026-10-05T06:21:42.594999+00:00",
+  "achievements": [
+    {
+      "apiname": "AC00",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Penitent Two",
+      "description": "Unlock all the Achievements."
+    },
+    {
+      "apiname": "AC01",
+      "achieved": 1,
+      "unlocktime": 1791178431,
+      "name": "A Thousand Years Later",
+      "description": ""
+    },
+    {
+      "apiname": "AC02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood and Dust",
+      "description": ""
+    },
+    {
+      "apiname": "AC03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood and Gold",
+      "description": ""
+    },
+    {
+      "apiname": "AC04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood and Iron",
+      "description": ""
+    },
+    {
+      "apiname": "AC05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sharpest Tool in the Shed",
+      "description": ""
+    },
+    {
+      "apiname": "AC06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Ascension",
+      "description": ""
+    },
+    {
+      "apiname": "AC07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sea dies on the Shore",
+      "description": ""
+    },
+    {
+      "apiname": "AC08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forged in Fire",
+      "description": ""
+    },
+    {
+      "apiname": "AC09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fermosa Fembra",
+      "description": ""
+    },
+    {
+      "apiname": "AC10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Wait is Over",
+      "description": ""
+    },
+    {
+      "apiname": "AC11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Heart of Gold",
+      "description": ""
+    },
+    {
+      "apiname": "AC12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Canvas of Light and Time",
+      "description": "Unlock Ending A."
+    },
+    {
+      "apiname": "AC13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Psalm",
+      "description": "Unlock Ending B."
+    },
+    {
+      "apiname": "AC14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acta, Non Verba",
+      "description": "Find all of the Prayers in the base game."
+    },
+    {
+      "apiname": "AC15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Devotion",
+      "description": "Find all of the Rosary Beads in the base game."
+    },
+    {
+      "apiname": "AC16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weight of Penance",
+      "description": "Find all of the Figures in the base game."
+    },
+    {
+      "apiname": "AC17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Pilgrimage",
+      "description": "Reveal the entire base game's map."
+    },
+    {
+      "apiname": "AC18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Acquired Taste",
+      "description": "Unlock all Bile Flasks."
+    },
+    {
+      "apiname": "AC19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soledad",
+      "description": "Unlock all of the Rosary Bead slots."
+    },
+    {
+      "apiname": "AC20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Still Among Us",
+      "description": "Find all of the hidden symbols."
+    },
+    {
+      "apiname": "AC21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Cherub Left Behind",
+      "description": "Free Próximo’s brothers."
+    },
+    {
+      "apiname": "AC22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empty Handed",
+      "description": "Purchase all available items in the shop in the City of the Blessed Name."
+    },
+    {
+      "apiname": "AC23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide and Seek",
+      "description": "Find all the hidden Cobijadas."
+    },
+    {
+      "apiname": "AC24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Work of a Master",
+      "description": "Bring every Remembrance to an artisan and turn them into Figures."
+    },
+    {
+      "apiname": "AC25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "House of Grief and Hatred",
+      "description": "Complete all the battle challenges."
+    },
+    {
+      "apiname": "AC26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Leap of Faith",
+      "description": "Lift the Curse of the Unforgiven."
+    },
+    {
+      "apiname": "AC27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twisted is the Path of the Miracle",
+      "description": "Hear the echoes of the past."
+    },
+    {
+      "apiname": "AC28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Punished One",
+      "description": "Kill 300 enemies using Ruego Al Alba."
+    },
+    {
+      "apiname": "AC29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Veteran One",
+      "description": "Kill 300 enemies using Sarmiento & Centella."
+    },
+    {
+      "apiname": "AC30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Anointed One",
+      "description": "Kill 300 enemies using Veredicto."
+    },
+    {
+      "apiname": "AC31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Merciless One",
+      "description": "Execute 50 different enemies."
+    },
+    {
+      "apiname": "AC32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nobody Expects the Spanish Inquisition!",
+      "description": "Kill every type of enemy in the base game."
+    },
+    {
+      "apiname": "AC33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultima Ratio",
+      "description": ""
+    },
+    {
+      "apiname": "AC34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Sharp Rendezvous",
+      "description": "Reach the room of the Sentinel of the Emery in under 30 minutes."
+    },
+    {
+      "apiname": "AC35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flawless Penance",
+      "description": "After the first fight, defeat any boss without receiving damage."
+    },
+    {
+      "apiname": "AC36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blessed Incense",
+      "description": "Unlock the true power of Veredicto."
+    },
+    {
+      "apiname": "AC37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storm of Death",
+      "description": "Unlock the true power of Sarmiento & Centella."
+    },
+    {
+      "apiname": "AC38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Edge of Orison",
+      "description": "Unlock the true power of Ruego Al Alba."
+    },
+    {
+      "apiname": "AC39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warrior of the Silent Sorrow",
+      "description": "Unlock all Weapon Memories."
+    },
+    {
+      "apiname": "AC40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome Back!",
+      "description": "Fall into spikes and survive."
+    },
+    {
+      "apiname": "AC41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Happy New Year!",
+      "description": ""
+    },
+    {
+      "apiname": "AC42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Two Old Ones Eating Soup",
+      "description": ""
+    },
+    {
+      "apiname": "AC43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Finest Craftmanship",
+      "description": "Unlock all slots in the Altarpiece of Favours."
+    },
+    {
+      "apiname": "AC44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This is Blasphemy",
+      "description": "Deal more than 250 damage with a single strike."
+    },
+    {
+      "apiname": "AC45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Martyrdom",
+      "description": "Complete 100% of the game."
+    },
+    {
+      "apiname": "AC101",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Repose",
+      "description": ""
+    },
+    {
+      "apiname": "AC102",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prisoner of the Holy Return",
+      "description": ""
+    },
+    {
+      "apiname": "AC103",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "At the Mercy of the Grievous Miracle",
+      "description": ""
+    },
+    {
+      "apiname": "AC104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Post-Mortem",
+      "description": "Unlock Ending C."
+    },
+    {
+      "apiname": "AC105",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dedicated Explorer",
+      "description": "Reveal the entire map, including new areas."
+    },
+    {
+      "apiname": "AC106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Consummate Collector",
+      "description": "Collect all items on an Ascended playthrough."
+    },
+    {
+      "apiname": "AC107",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mind Your Head",
+      "description": ""
+    },
+    {
+      "apiname": "AC108",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cruel Compassion",
+      "description": ""
+    },
+    {
+      "apiname": "AC109",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legacy of the Twisted One",
+      "description": ""
+    },
+    {
+      "apiname": "AC201",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Atonement of Sins",
+      "description": ""
+    },
+    {
+      "apiname": "AC202",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Embrujo of the Flames",
+      "description": ""
+    },
+    {
+      "apiname": "AC203",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chorus of the Servants",
+      "description": ""
+    },
+    {
+      "apiname": "AC204",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Omnis Facies Poenitentiae",
+      "description": ""
+    },
+    {
+      "apiname": "AC205",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbreakable Bond",
+      "description": ""
+    }
+  ]
+}

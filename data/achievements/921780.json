@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 28,
-  "percent": 60.9,
-  "updated_at_utc": "2026-10-05T04:15:43.185401+00:00",
+  "unlocked": 36,
+  "percent": 78.3,
+  "updated_at_utc": "2026-10-05T06:20:37.642129+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Crypt",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791174941,
       "name": "The Locksmith",
       "description": "Find Crypt key"
     },
@@ -170,15 +170,15 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Mask",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791175859,
       "name": "Back to Reality",
       "description": "Burn Mask Artifact"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_DeadBody",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791177348,
       "name": "The Nightmare is Over",
       "description": "Burn The 5th Artifact"
     },
@@ -198,15 +198,15 @@
     },
     {
       "apiname": "TCH_ACH_CM_FindAllSafeRooms",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791176625,
       "name": "Safety First",
       "description": "Find All Safe Rooms"
     },
     {
       "apiname": "TCH_ACH_CM_UseAllSaveBooks",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791176664,
       "name": "Books of relief",
       "description": "Save the game using every SaveBook in the mansion"
     },
@@ -233,15 +233,15 @@
     },
     {
       "apiname": "TCH_ACH_CM_MrsAtkinson",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791174689,
       "name": "Sleeping Beauty",
       "description": "Find Mrs Atkinson deadbody"
     },
     {
       "apiname": "TCH_ACH_CM_FinishGame",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791177580,
       "name": "The Evil Dead",
       "description": "Finish the game"
     },
@@ -310,8 +310,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_FinishGame",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791177580,
       "name": "Guts Over Fear",
       "description": "Finish the game in Terror Mode"
     },

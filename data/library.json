@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T04:17:24.925102+00:00",
+  "updated_at_utc": "2026-10-05T06:22:17.747894+00:00",
   "owned_games": 1604,
   "new_games": [],
   "games": [
@@ -1303,11 +1303,11 @@
     {
       "appid": 2114740,
       "name": "Blasphemous 2",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 41,
+      "playtime_hours": 0.7,
+      "last_played_unix": 1791180395,
+      "last_played_utc": "2026-10-05T06:06:35+00:00",
+      "recent": true
     },
     {
       "appid": 2273430,
@@ -1847,7 +1847,7 @@
       "playtime_hours": 4.4,
       "last_played_unix": 1789966395,
       "last_played_utc": "2026-09-21T04:53:15+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 593280,
@@ -8514,8 +8514,8 @@
       "name": "Palworld",
       "playtime_minutes": 7585,
       "playtime_hours": 126.4,
-      "last_played_unix": 1783960464,
-      "last_played_utc": "2026-07-13T16:34:24+00:00",
+      "last_played_unix": 1791180483,
+      "last_played_utc": "2026-10-05T06:08:03+00:00",
       "recent": false
     },
     {
@@ -11770,10 +11770,10 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_minutes": 890,
-      "playtime_hours": 14.8,
-      "last_played_unix": 1791172872,
-      "last_played_utc": "2026-10-05T04:01:12+00:00",
+      "playtime_minutes": 970,
+      "playtime_hours": 16.2,
+      "last_played_unix": 1791177685,
+      "last_played_utc": "2026-10-05T05:21:25+00:00",
       "recent": true
     },
     {
