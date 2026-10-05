@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 22,
-  "percent": 47.8,
-  "updated_at_utc": "2026-10-05T02:13:34.358425+00:00",
+  "unlocked": 28,
+  "percent": 60.9,
+  "updated_at_utc": "2026-10-05T04:15:43.185401+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Ophiuchus",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791168944,
       "name": "The 13th Zodiac Sign",
       "description": "Find Ophiuchus key"
     },
@@ -114,29 +114,29 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Attic",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791171535,
       "name": "Pan's Labyrinth",
       "description": "Find Attic key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Basement",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791167822,
       "name": "The Basement",
       "description": "Find Basement key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Attic2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791171994,
       "name": "The Attic",
       "description": "Find Attic 2nd key"
     },
     {
       "apiname": "TCH_ACHIEVEMENT_Mysterious",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791172500,
       "name": "X-Files",
       "description": "Find Mysterious key"
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "TCH_ACHIEVEMENT_WizardStaff",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791172485,
       "name": "Wood Staff +8 (Flame Damage : 64)",
       "description": "Burn Wizard Staff Artifact"
     },

@@ -3,9 +3,9 @@
   "appid": 2191480,
   "game": "Jumbo Airport Story",
   "total": 6,
-  "unlocked": 2,
-  "percent": 33.3,
-  "updated_at_utc": "2026-10-05T02:14:39.154899+00:00",
+  "unlocked": 3,
+  "percent": 50.0,
+  "updated_at_utc": "2026-10-05T04:16:48.447461+00:00",
   "achievements": [
     {
       "apiname": "KAIRO",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "INTERNATIONAL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791167023,
       "name": "Global!",
       "description": "Proof that an international route has opened"
     },
