@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T16:15:30.080689+00:00",
+  "updated_at_utc": "2026-10-05T18:18:05.658883+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -8825,14 +8825,14 @@
     {
       "appid": 2215200,
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_minutes": 1853,
-      "playtime_hours": 30.9,
-      "last_played_unix": 1787620724,
-      "last_played_utc": "2026-08-25T01:18:44+00:00",
-      "recent": false,
-      "achievements_unlocked": 52,
-      "achievements_total": 52,
-      "achievement_percent": 100.0
+      "playtime_minutes": 1902,
+      "playtime_hours": 31.7,
+      "last_played_unix": 1791222787,
+      "last_played_utc": "2026-10-05T17:53:07+00:00",
+      "recent": true,
+      "achievements_unlocked": 53,
+      "achievements_total": 64,
+      "achievement_percent": 82.8
     },
     {
       "appid": 1898290,
@@ -11405,10 +11405,10 @@
     {
       "appid": 1623730,
       "name": "Palworld",
-      "playtime_minutes": 8166,
-      "playtime_hours": 136.1,
-      "last_played_unix": 1791215343,
-      "last_played_utc": "2026-10-05T15:49:03+00:00",
+      "playtime_minutes": 8232,
+      "playtime_hours": 137.2,
+      "last_played_unix": 1791219304,
+      "last_played_utc": "2026-10-05T16:55:04+00:00",
       "recent": true,
       "achievements_unlocked": 75,
       "achievements_total": 75,

@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 2215200,
   "game": "LEGO® Batman™: Legacy of the Dark Knight",
-  "total": 52,
-  "unlocked": 52,
-  "percent": 100.0,
-  "updated_at_utc": "2026-09-15T06:52:43.662141+00:00",
+  "total": 64,
+  "unlocked": 53,
+  "percent": 82.8,
+  "updated_at_utc": "2026-10-05T18:17:30.296883+00:00",
   "achievements": [
     {
       "apiname": "Achievement_0_Id",
@@ -370,6 +370,90 @@
       "unlocktime": 1787584067,
       "name": "\"Is that like parachuting?\"",
       "description": "Glide in 10 different wind tunnels"
+    },
+    {
+      "apiname": "Achievement_52_Id",
+      "achieved": 1,
+      "unlocktime": 1791221425,
+      "name": "Maximum Security",
+      "description": "Break out of Arkham"
+    },
+    {
+      "apiname": "Achievement_53_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Mayhem",
+      "description": "Complete 5 Mayhem Runs"
+    },
+    {
+      "apiname": "Achievement_54_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to the Crew",
+      "description": "Recruit 3 henchpeople to your crew"
+    },
+    {
+      "apiname": "Achievement_55_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bargain",
+      "description": "Purchase every power up once from the pop-up shop"
+    },
+    {
+      "apiname": "Achievement_56_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost a Wheel",
+      "description": "Steal each hero vehicle once"
+    },
+    {
+      "apiname": "Achievement_57_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lacking Agency",
+      "description": "Defeat 300 A.R.G.U.S. Agents"
+    },
+    {
+      "apiname": "Achievement_58_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Have 10 crew members summoned at once"
+    },
+    {
+      "apiname": "Achievement_59_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Equipped",
+      "description": "Purchase every piece of equipment from the Joker-Mite shop"
+    },
+    {
+      "apiname": "Achievement_60_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Base of Operations",
+      "description": "Fully expand the hideout"
+    },
+    {
+      "apiname": "Achievement_61_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Villified",
+      "description": "Attend the Villy Awards"
+    },
+    {
+      "apiname": "Achievement_62_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Pipes Lead to Home",
+      "description": "Use each extraction point"
+    },
+    {
+      "apiname": "Achievement_63_Id",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Part of the Plan",
+      "description": "Reroll 5 Bonus Activities at the Planning Table"
     }
   ]
 }
