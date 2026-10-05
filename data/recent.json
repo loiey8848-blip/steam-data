@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-05T18:18:05.658883+00:00",
+  "updated_at_utc": "2026-10-05T22:14:50.533200+00:00",
   "games": [
     {
       "appid": 268050,
@@ -245,17 +245,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1989270,
-      "name": "Slay the Princess — The Pristine Cut",
-      "playtime_2weeks": 50,
-      "playtime_forever": 368,
-      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
-      "playtime_windows_forever": 368,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2215200,
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "playtime_2weeks": 48,
@@ -295,6 +284,17 @@
       "playtime_forever": 1,
       "img_icon_url": "2617cd7756abf2aaa196aaeccd7e88bef7dfe8a6",
       "playtime_windows_forever": 1,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1989270,
+      "name": "Slay the Princess — The Pristine Cut",
+      "playtime_2weeks": 1,
+      "playtime_forever": 368,
+      "img_icon_url": "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b",
+      "playtime_windows_forever": 368,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
