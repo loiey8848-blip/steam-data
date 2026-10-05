@@ -3,9 +3,9 @@
   "appid": 1623730,
   "game": "Palworld",
   "total": 75,
-  "unlocked": 57,
-  "percent": 76.0,
-  "updated_at_utc": "2026-10-05T06:21:28.650603+00:00",
+  "unlocked": 61,
+  "percent": 81.3,
+  "updated_at_utc": "2026-10-05T08:17:15.664158+00:00",
   "achievements": [
     {
       "apiname": "Pal_Achievement_1",
@@ -485,8 +485,8 @@
     },
     {
       "apiname": "Pal_Achievement_69",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791185050,
       "name": "Meddling With Mutation",
       "description": "Mutated a Pal for the first time"
     },
@@ -506,8 +506,8 @@
     },
     {
       "apiname": "Pal_Achievement_72",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791184538,
       "name": "Sunreach Sovereign",
       "description": ""
     },
@@ -520,15 +520,15 @@
     },
     {
       "apiname": "Pal_Achievement_74",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791186203,
       "name": "To the World Tree",
       "description": "Set foot within the World Tree"
     },
     {
       "apiname": "Pal_Achievement_75",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791187237,
       "name": "Savior of Palpagos",
       "description": ""
     }
