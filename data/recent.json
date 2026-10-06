@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T16:16:32.437883+00:00",
+  "updated_at_utc": "2026-10-06T18:15:30.659898+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -27,7 +27,7 @@
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 1250,
+      "playtime_2weeks": 1147,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -261,6 +261,17 @@
       "playtime_2weeks": 58,
       "playtime_forever": 58,
       "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
+      "playtime_windows_forever": 58,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 49,
+      "playtime_forever": 58,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 58,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,

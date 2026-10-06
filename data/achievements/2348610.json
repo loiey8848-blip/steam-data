@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 3,
-  "percent": 1.7,
-  "updated_at_utc": "2026-09-15T06:52:45.512478+00:00",
+  "unlocked": 6,
+  "percent": 3.3,
+  "updated_at_utc": "2026-10-06T18:14:53.778424+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "kill_armor_reducer",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791309364,
       "name": "Two Towers",
       "description": "Kill 2 Watchers"
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "level_1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791309084,
       "name": "Maintenance Facility",
       "description": "Beat level 1"
     },
@@ -1066,8 +1066,8 @@
     },
     {
       "apiname": "particles_aura_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791309084,
       "name": "Poisonous Slime Trail",
       "description": "Unlock the upgrade \"Poisonous Slime Trail\""
     },

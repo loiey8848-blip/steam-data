@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T16:16:32.437883+00:00",
+  "updated_at_utc": "2026-10-06T18:15:30.659898+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -14213,14 +14213,14 @@
     {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
-      "playtime_minutes": 8,
-      "playtime_hours": 0.1,
-      "last_played_unix": 1766904952,
-      "last_played_utc": "2025-12-28T06:55:52+00:00",
-      "recent": false,
-      "achievements_unlocked": 3,
+      "playtime_minutes": 58,
+      "playtime_hours": 1.0,
+      "last_played_unix": 1791310195,
+      "last_played_utc": "2026-10-06T18:09:55+00:00",
+      "recent": true,
+      "achievements_unlocked": 6,
       "achievements_total": 181,
-      "achievement_percent": 1.7
+      "achievement_percent": 3.3
     },
     {
       "appid": 433340,
