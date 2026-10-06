@@ -3,9 +3,9 @@
   "appid": 2215200,
   "game": "LEGO® Batman™: Legacy of the Dark Knight",
   "total": 64,
-  "unlocked": 58,
-  "percent": 90.6,
-  "updated_at_utc": "2026-10-06T02:13:52.885523+00:00",
+  "unlocked": 59,
+  "percent": 92.2,
+  "updated_at_utc": "2026-10-06T04:15:22.592413+00:00",
   "achievements": [
     {
       "apiname": "Achievement_0_Id",
@@ -394,8 +394,8 @@
     },
     {
       "apiname": "Achievement_55_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791258629,
       "name": "Bargain",
       "description": "Purchase every power up once from the pop-up shop"
     },

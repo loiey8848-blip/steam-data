@@ -1,0 +1,298 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3699590,
+  "game": "Well Dweller",
+  "total": 41,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-06T04:15:50.391845+00:00",
+  "achievements": [
+    {
+      "apiname": "01_groundskeeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Garden",
+      "description": "Defeat the Groundskeeper"
+    },
+    {
+      "apiname": "02_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snatched Up",
+      "description": "Meet the Hunter"
+    },
+    {
+      "apiname": "03_campfire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Warm Fire",
+      "description": "Go camping with Ilda"
+    },
+    {
+      "apiname": "04_swarm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buggy Business",
+      "description": "Defeat the swarm"
+    },
+    {
+      "apiname": "05_drains",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Down the Drain",
+      "description": "Defeat the Lady of the Drains"
+    },
+    {
+      "apiname": "06_egbert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Littlest Bird",
+      "description": "Collect Egbert"
+    },
+    {
+      "apiname": "07_queen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hide and Seek",
+      "description": "Evade the Queen"
+    },
+    {
+      "apiname": "08_vessel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Into the Deep",
+      "description": "Gain access to a water vessel"
+    },
+    {
+      "apiname": "09_twins",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Trouble",
+      "description": "Collect Thimble and Thistle"
+    },
+    {
+      "apiname": "10_king",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fancy Feast",
+      "description": "Win over the Forest King"
+    },
+    {
+      "apiname": "11_starsinger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Song of the Stars",
+      "description": "Defeat the Starsinger"
+    },
+    {
+      "apiname": "12_magda",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Dollmaker's House",
+      "description": "Collect Magda"
+    },
+    {
+      "apiname": "13_sevensons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stormy Night",
+      "description": "Defeat the Shrine of the Seven Sons"
+    },
+    {
+      "apiname": "14_looter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stitched Up",
+      "description": "Put Looter back together again"
+    },
+    {
+      "apiname": "15_gravedigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dig Deep",
+      "description": "Defeat the Gravedigger"
+    },
+    {
+      "apiname": "16_webdrench",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Late Night Guest",
+      "description": "Escape Webdrench Inn"
+    },
+    {
+      "apiname": "17_silverdoll",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sharp and Shiny",
+      "description": "Defeat the Silver Doll"
+    },
+    {
+      "apiname": "18_queen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The End",
+      "description": "Battle the Queen"
+    },
+    {
+      "apiname": "19_hat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Kings Cap",
+      "description": "Buy a festive hat"
+    },
+    {
+      "apiname": "20_shop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Purchase",
+      "description": "Buy something from Looter's shop"
+    },
+    {
+      "apiname": "21_trinket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hobby Collector",
+      "description": "Collect a trinket"
+    },
+    {
+      "apiname": "22_10trinkets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experienced Collector",
+      "description": "Collect 10 trinkets"
+    },
+    {
+      "apiname": "23_32trinkets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Collector",
+      "description": "Collect 32 trinkets"
+    },
+    {
+      "apiname": "24_spirit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solo Spirit",
+      "description": "Return a spirit"
+    },
+    {
+      "apiname": "25_10spirits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halfway There",
+      "description": "Return 10 spirits"
+    },
+    {
+      "apiname": "26_20spirits",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Flock",
+      "description": "Return 20 spirits"
+    },
+    {
+      "apiname": "27_upgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Workshop",
+      "description": "Upgrade a trinket"
+    },
+    {
+      "apiname": "28_page",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Once Upon a Time...",
+      "description": "Collect a story page"
+    },
+    {
+      "apiname": "29_witchsbargain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First-Born Daughter",
+      "description": "Collect all pages for \"The Witch's Bargain\""
+    },
+    {
+      "apiname": "30_dollmaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Tattered Doll",
+      "description": "Collect all pages for \"The Dollmaker's House\""
+    },
+    {
+      "apiname": "31_lookouttower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Above the Kingdom",
+      "description": "Collect all pages for \"The Lookout Tower\""
+    },
+    {
+      "apiname": "32_spa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking a Break",
+      "description": "Visit the spa"
+    },
+    {
+      "apiname": "33_soar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flying High",
+      "description": "Learn to soar"
+    },
+    {
+      "apiname": "34_finalflock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Together at Last",
+      "description": "Reunite the flock"
+    },
+    {
+      "apiname": "35_vessel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromaniac",
+      "description": "Throw 100 flaming vessels"
+    },
+    {
+      "apiname": "36_juggle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bouncing Bottles",
+      "description": "Juggle a flaming vessel 10 times without it breaking"
+    },
+    {
+      "apiname": "37_32upgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fully Stocked",
+      "description": "Upgrade all of your trinkets to the maximum amount"
+    },
+    {
+      "apiname": "38_100enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warming Up",
+      "description": "Kill 100 enemies"
+    },
+    {
+      "apiname": "39_500enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On Fire",
+      "description": "Kill 500 enemies"
+    },
+    {
+      "apiname": "40_10slots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Slots",
+      "description": "Collect 10 trinket slots"
+    },
+    {
+      "apiname": "41_50slots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50 Slots",
+      "description": "Collect 50 trinket slots"
+    }
+  ]
+}
