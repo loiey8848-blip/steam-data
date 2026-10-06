@@ -3,9 +3,9 @@
   "appid": 2215200,
   "game": "LEGO® Batman™: Legacy of the Dark Knight",
   "total": 64,
-  "unlocked": 62,
-  "percent": 96.9,
-  "updated_at_utc": "2026-10-06T08:15:31.705153+00:00",
+  "unlocked": 64,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-06T10:14:27.344942+00:00",
   "achievements": [
     {
       "apiname": "Achievement_0_Id",
@@ -401,15 +401,15 @@
     },
     {
       "apiname": "Achievement_56_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791276659,
       "name": "Lost a Wheel",
       "description": "Steal each hero vehicle once"
     },
     {
       "apiname": "Achievement_57_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791275332,
       "name": "Lacking Agency",
       "description": "Defeat 300 A.R.G.U.S. Agents"
     },

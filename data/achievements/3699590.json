@@ -3,9 +3,9 @@
   "appid": 3699590,
   "game": "Well Dweller",
   "total": 41,
-  "unlocked": 2,
-  "percent": 4.9,
-  "updated_at_utc": "2026-10-06T08:15:59.371913+00:00",
+  "unlocked": 6,
+  "percent": 14.6,
+  "updated_at_utc": "2026-10-06T10:14:55.844150+00:00",
   "achievements": [
     {
       "apiname": "01_groundskeeper",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "02_hunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791278072,
       "name": "Snatched Up",
       "description": "Meet the Hunter"
     },
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "20_shop",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791277692,
       "name": "First Purchase",
       "description": "Buy something from Looter's shop"
     },
     {
       "apiname": "21_trinket",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791277692,
       "name": "Hobby Collector",
       "description": "Collect a trinket"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "24_spirit",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791277785,
       "name": "Solo Spirit",
       "description": "Return a spirit"
     },

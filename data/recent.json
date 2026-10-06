@@ -1,18 +1,7 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T08:16:06.259421+00:00",
+  "updated_at_utc": "2026-10-06T10:15:03.414048+00:00",
   "games": [
-    {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 1730,
-      "playtime_forever": 2942,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 2942,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
@@ -31,6 +20,17 @@
       "playtime_forever": 1625,
       "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
       "playtime_windows_forever": 1625,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 1611,
+      "playtime_forever": 2942,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 2942,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,23 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 526,
+      "playtime_forever": 2380,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2380,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 498,
       "playtime_forever": 589,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 589,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 456,
-      "playtime_forever": 2310,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2310,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -234,6 +234,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3699590,
+      "name": "Well Dweller",
+      "playtime_2weeks": 71,
+      "playtime_forever": 71,
+      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
+      "playtime_windows_forever": 71,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4358690,
       "name": "Graveyard Keeper 2",
       "playtime_2weeks": 69,
@@ -262,17 +273,6 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3699590,
-      "name": "Well Dweller",
-      "playtime_2weeks": 29,
-      "playtime_forever": 29,
-      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
-      "playtime_windows_forever": 29,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
