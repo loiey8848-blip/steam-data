@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T06:18:04.967846+00:00",
+  "updated_at_utc": "2026-10-06T08:16:06.259421+00:00",
   "games": [
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 1848,
+      "playtime_2weeks": 1730,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -124,23 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 456,
+      "playtime_forever": 2310,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2310,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1839510,
       "name": "ＲＰＧタイム！～ライトの伝説～",
       "playtime_2weeks": 400,
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 336,
-      "playtime_forever": 2190,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2190,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
