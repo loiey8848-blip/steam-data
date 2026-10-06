@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T00:21:18.260970+00:00",
+  "updated_at_utc": "2026-10-06T02:14:29.101008+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -8825,14 +8825,14 @@
     {
       "appid": 2215200,
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_minutes": 1902,
-      "playtime_hours": 31.7,
-      "last_played_unix": 1791222787,
-      "last_played_utc": "2026-10-05T17:53:07+00:00",
+      "playtime_minutes": 1937,
+      "playtime_hours": 32.3,
+      "last_played_unix": 1791251270,
+      "last_played_utc": "2026-10-06T01:47:50+00:00",
       "recent": true,
-      "achievements_unlocked": 53,
+      "achievements_unlocked": 58,
       "achievements_total": 64,
-      "achievement_percent": 82.8
+      "achievement_percent": 90.6
     },
     {
       "appid": 1898290,
@@ -14121,7 +14121,7 @@
       "playtime_hours": 6.1,
       "last_played_unix": 1790040338,
       "last_played_utc": "2026-09-22T01:25:38+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 131,
       "achievements_total": 131,
       "achievement_percent": 100.0
