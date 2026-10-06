@@ -3,14 +3,14 @@
   "appid": 3699590,
   "game": "Well Dweller",
   "total": 41,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-10-06T04:15:50.391845+00:00",
+  "unlocked": 2,
+  "percent": 4.9,
+  "updated_at_utc": "2026-10-06T06:17:57.916724+00:00",
   "achievements": [
     {
       "apiname": "01_groundskeeper",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791265180,
       "name": "Dark Garden",
       "description": "Defeat the Groundskeeper"
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "28_page",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791261078,
       "name": "Once Upon a Time...",
       "description": "Collect a story page"
     },

@@ -3,9 +3,9 @@
   "appid": 2215200,
   "game": "LEGO® Batman™: Legacy of the Dark Knight",
   "total": 64,
-  "unlocked": 59,
-  "percent": 92.2,
-  "updated_at_utc": "2026-10-06T04:15:22.592413+00:00",
+  "unlocked": 62,
+  "percent": 96.9,
+  "updated_at_utc": "2026-10-06T06:17:29.860943+00:00",
   "achievements": [
     {
       "apiname": "Achievement_0_Id",
@@ -415,8 +415,8 @@
     },
     {
       "apiname": "Achievement_58_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791265863,
       "name": "Full House",
       "description": "Have 10 crew members summoned at once"
     },
@@ -429,15 +429,15 @@
     },
     {
       "apiname": "Achievement_60_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791260159,
       "name": "Base of Operations",
       "description": "Fully expand the hideout"
     },
     {
       "apiname": "Achievement_61_Id",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791262651,
       "name": "Villified",
       "description": "Attend the Villy Awards"
     },

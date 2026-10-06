@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T04:15:57.953045+00:00",
+  "updated_at_utc": "2026-10-06T06:18:04.967846+00:00",
   "games": [
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 1970,
+      "playtime_2weeks": 1848,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 336,
+      "playtime_forever": 2190,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2190,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 308,
@@ -163,17 +174,6 @@
       "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
       "playtime_windows_forever": 313,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 203,
-      "playtime_forever": 2057,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2057,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -267,23 +267,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3699590,
+      "name": "Well Dweller",
+      "playtime_2weeks": 29,
+      "playtime_forever": 29,
+      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
+      "playtime_windows_forever": 29,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1298140,
       "name": "Fobia - St. Dinfna Hotel",
       "playtime_2weeks": 18,
       "playtime_forever": 18,
       "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
       "playtime_windows_forever": 18,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3699590,
-      "name": "Well Dweller",
-      "playtime_2weeks": 5,
-      "playtime_forever": 5,
-      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
-      "playtime_windows_forever": 5,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
