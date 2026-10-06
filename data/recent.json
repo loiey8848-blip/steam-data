@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T18:15:30.659898+00:00",
+  "updated_at_utc": "2026-10-06T20:14:42.972005+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -38,10 +38,10 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 970,
-      "playtime_forever": 970,
+      "playtime_2weeks": 1060,
+      "playtime_forever": 1060,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 970,
+      "playtime_windows_forever": 1060,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -256,22 +256,22 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1488490,
-      "name": "Nivalis Nights",
-      "playtime_2weeks": 58,
-      "playtime_forever": 58,
-      "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
-      "playtime_windows_forever": 58,
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 64,
+      "playtime_forever": 73,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "playtime_windows_forever": 73,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 49,
+      "appid": 1488490,
+      "name": "Nivalis Nights",
+      "playtime_2weeks": 58,
       "playtime_forever": 58,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
       "playtime_windows_forever": 58,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,

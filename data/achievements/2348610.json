@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 6,
-  "percent": 3.3,
-  "updated_at_utc": "2026-10-06T18:14:53.778424+00:00",
+  "unlocked": 12,
+  "percent": 6.6,
+  "updated_at_utc": "2026-10-06T20:14:04.768015+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "kill_fridge_man",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316617,
       "name": "Hunger",
       "description": "Kill 50 Fridge Men"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "kill_wheel_man",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316532,
       "name": "Axle Breaker",
       "description": "Kill 1 Wheelman"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "level_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316166,
       "name": "Hallway of Death",
       "description": "Beat level 2"
     },
@@ -653,8 +653,8 @@
     },
     {
       "apiname": "skill_Lighting",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316451,
       "name": "Absolute Storm",
       "description": "Get a level 3 copy of \"Absolute Storm\""
     },
@@ -1010,8 +1010,8 @@
     },
     {
       "apiname": "slime10_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316166,
       "name": "Flashy",
       "description": "Unlock starting setup \"Flashy\""
     },
@@ -1080,8 +1080,8 @@
     },
     {
       "apiname": "shop_slots_bonus_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791316166,
       "name": "Increased Capacity",
       "description": "Unlock the upgrade \"Increased Capacity\""
     },
