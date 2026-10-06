@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T10:15:03.414048+00:00",
+  "updated_at_utc": "2026-10-06T12:17:22.456820+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -27,7 +27,7 @@
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 1611,
+      "playtime_2weeks": 1489,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -69,6 +69,17 @@
       "playtime_deck_forever": 29
     },
     {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 614,
+      "playtime_forever": 2468,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2468,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2431880,
       "name": "High Sea Saga DX",
       "playtime_2weeks": 586,
@@ -108,17 +119,6 @@
       "playtime_forever": 585,
       "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
       "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 526,
-      "playtime_forever": 2380,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2380,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -201,6 +201,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3699590,
+      "name": "Well Dweller",
+      "playtime_2weeks": 134,
+      "playtime_forever": 134,
+      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
+      "playtime_windows_forever": 134,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 821250,
       "name": "Flotsam",
       "playtime_2weeks": 126,
@@ -229,17 +240,6 @@
       "playtime_forever": 94,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 94,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3699590,
-      "name": "Well Dweller",
-      "playtime_2weeks": 71,
-      "playtime_forever": 71,
-      "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
-      "playtime_windows_forever": 71,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

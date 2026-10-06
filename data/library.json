@@ -1,8 +1,27 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T10:15:03.414048+00:00",
-  "owned_games": 1610,
-  "new_games": [],
+  "updated_at_utc": "2026-10-06T12:17:22.456820+00:00",
+  "owned_games": 1612,
+  "new_games": [
+    {
+      "appid": 47780,
+      "name": "Dead Space 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1238060,
+      "name": "Dead Space™ 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -2702,6 +2721,24 @@
       "playtime_hours": 8.1,
       "last_played_unix": 1747887393,
       "last_played_utc": "2025-05-22T04:16:33+00:00",
+      "recent": false
+    },
+    {
+      "appid": 47780,
+      "name": "Dead Space 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1238060,
+      "name": "Dead Space™ 3",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -6622,10 +6659,10 @@
     {
       "appid": 2215200,
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_minutes": 2380,
-      "playtime_hours": 39.7,
-      "last_played_unix": 1791281024,
-      "last_played_utc": "2026-10-06T10:03:44+00:00",
+      "playtime_minutes": 2468,
+      "playtime_hours": 41.1,
+      "last_played_unix": 1791286292,
+      "last_played_utc": "2026-10-06T11:31:32+00:00",
       "recent": true
     },
     {
@@ -13885,10 +13922,10 @@
     {
       "appid": 3699590,
       "name": "Well Dweller",
-      "playtime_minutes": 71,
-      "playtime_hours": 1.2,
-      "last_played_unix": 1791280564,
-      "last_played_utc": "2026-10-06T09:56:04+00:00",
+      "playtime_minutes": 134,
+      "playtime_hours": 2.2,
+      "last_played_unix": 1791286131,
+      "last_played_utc": "2026-10-06T11:28:51+00:00",
       "recent": true
     },
     {

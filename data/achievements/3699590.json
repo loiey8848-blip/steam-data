@@ -3,9 +3,9 @@
   "appid": 3699590,
   "game": "Well Dweller",
   "total": 41,
-  "unlocked": 6,
-  "percent": 14.6,
-  "updated_at_utc": "2026-10-06T10:14:55.844150+00:00",
+  "unlocked": 8,
+  "percent": 19.5,
+  "updated_at_utc": "2026-10-06T12:17:15.343648+00:00",
   "achievements": [
     {
       "apiname": "01_groundskeeper",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "03_campfire",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791282625,
       "name": "A Warm Fire",
       "description": "Go camping with Ilda"
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "40_10slots",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791282413,
       "name": "Ten Slots",
       "description": "Collect 10 trinket slots"
     },
