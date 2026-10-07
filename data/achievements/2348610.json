@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 24,
-  "percent": 13.3,
-  "updated_at_utc": "2026-10-07T02:14:47.004587+00:00",
+  "unlocked": 28,
+  "percent": 15.5,
+  "updated_at_utc": "2026-10-07T04:14:42.600094+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "skill_FastGun",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791339353,
       "name": "Assault Rifle",
       "description": "Get a level 3 copy of \"Assault Rifle\""
     },
@@ -345,8 +345,8 @@
     },
     {
       "apiname": "skill_ShotGunBill",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791339313,
       "name": "Supreme Shotgun",
       "description": "Get a level 3 copy of \"Supreme Shotgun\""
     },
@@ -478,8 +478,8 @@
     },
     {
       "apiname": "tag_combination_secret_shot",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791339388,
       "name": "Penetration",
       "description": ""
     },
@@ -814,8 +814,8 @@
     },
     {
       "apiname": "skill_maxhitbonus",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791339388,
       "name": "Penetration",
       "description": "Get a level 3 copy of \"Penetration\""
     },
