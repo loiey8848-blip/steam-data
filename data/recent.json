@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-07T16:18:10.273043+00:00",
+  "updated_at_utc": "2026-10-07T18:17:24.748315+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 500,
-      "playtime_forever": 2942,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 2942,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 498,
@@ -141,6 +130,17 @@
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 381,
+      "playtime_forever": 2942,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 2942,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -284,6 +284,28 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2688570,
+      "name": "The Inn-Sanity",
+      "playtime_2weeks": 39,
+      "playtime_forever": 39,
+      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
+      "playtime_windows_forever": 39,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1164940,
+      "name": "Trepang2",
+      "playtime_2weeks": 31,
+      "playtime_forever": 31,
+      "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
+      "playtime_windows_forever": 31,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

@@ -1,0 +1,354 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1164940,
+  "game": "Trepang2",
+  "total": 49,
+  "unlocked": 8,
+  "percent": 16.3,
+  "updated_at_utc": "2026-10-07T18:15:41.718949+00:00",
+  "achievements": [
+    {
+      "apiname": "001_CompletedPrologueLevel",
+      "achieved": 1,
+      "unlocktime": 1791391268,
+      "name": "Erase Your Light",
+      "description": "Escape from Site 14"
+    },
+    {
+      "apiname": "002_CompletedMothmanLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take Your Flight",
+      "description": "Complete Level: Pandora Institute"
+    },
+    {
+      "apiname": "003_CompletedCultistLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To A Place Where You Will Be Remembered",
+      "description": "Complete Level: Jorvik Castle"
+    },
+    {
+      "apiname": "004_CompletedGhostLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To A Place Where You Will Be...",
+      "description": "Complete Level: Site 83"
+    },
+    {
+      "apiname": "005_CompletedHorizonLevel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "..Loved",
+      "description": "Completed Level: Horizon HQ"
+    },
+    {
+      "apiname": "006CompletedCampaignAnyDifficulty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TREPANG2",
+      "description": "Break The Cycle"
+    },
+    {
+      "apiname": "007CompletedGameHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not So Hard",
+      "description": "Complete all campaign and side missions on Hard difficulty or higher"
+    },
+    {
+      "apiname": "008CompletedGameVeryHard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Supersoldier",
+      "description": "Complete all campaign and side missions on Very Hard difficulty or higher"
+    },
+    {
+      "apiname": "009CompletedGameExtreme",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Subject 106",
+      "description": "Complete all campaign and side missions on Extreme difficulty or higher"
+    },
+    {
+      "apiname": "010CompletedGameRage",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unbreakable Will",
+      "description": "Complete all campaign and side missions on Rage Mode difficulty"
+    },
+    {
+      "apiname": "011LeakedSyndicateData",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Truth",
+      "description": ""
+    },
+    {
+      "apiname": "013Revive106",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Last Mission",
+      "description": ""
+    },
+    {
+      "apiname": "014CompletedComplex",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Complexity",
+      "description": "Complete Level: Gunnarson Complex"
+    },
+    {
+      "apiname": "015CompletedCaverns",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spelunker",
+      "description": "Complete Level: Kellington Colliery"
+    },
+    {
+      "apiname": "016CompletedOilRig",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Oil Spill",
+      "description": "Complete Level: Oil Rig"
+    },
+    {
+      "apiname": "017CompletedServerRoom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "IT Specialist",
+      "description": "Complete Level: Iron Dragon Data Center"
+    },
+    {
+      "apiname": "018CompletedSite32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Secrets",
+      "description": "Complete Level: Site 32"
+    },
+    {
+      "apiname": "019CompletedCrashSite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost and Found",
+      "description": "Complete Level: Crash Site"
+    },
+    {
+      "apiname": "022Collected50PercIntel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smol Brain",
+      "description": "Collect 50% of all intel docs"
+    },
+    {
+      "apiname": "023Collected100PercIntel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Big Brain",
+      "description": "Collect all intel docs"
+    },
+    {
+      "apiname": "024PickUpAllWeapUpgrades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Average Weapons Enjoyer",
+      "description": "Acquire all weapon parts"
+    },
+    {
+      "apiname": "025ThrowEnemyIntoVentPrologue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trepangus",
+      "description": "Throw an enemy into the vent in the first combat encounter in  Site 14"
+    },
+    {
+      "apiname": "026UseAWeaponBenchFirstTime",
+      "achieved": 1,
+      "unlocktime": 1791390815,
+      "name": "Average Weapons Fan",
+      "description": "Use a weapon bench to customize a weapon for the first time"
+    },
+    {
+      "apiname": "028ThrowTF27SoldierIntoHeliBlades",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Monster!",
+      "description": "Throw a TF27 soldier into the helicopter blades in Site 14"
+    },
+    {
+      "apiname": "029KillTF27SoldiersInPrologue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You’re Paying For Their F***ing Surgery!",
+      "description": "Kill all TF27 soldiers in Site 14"
+    },
+    {
+      "apiname": "030Break100Bottles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dry Party",
+      "description": "Destroy 100 beer/wine bottles"
+    },
+    {
+      "apiname": "031GibDrEmersonsCorpse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Emersus",
+      "description": ""
+    },
+    {
+      "apiname": "032Break1000Books",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50 shades of burnt",
+      "description": "Destroy 1000 cultist books"
+    },
+    {
+      "apiname": "033AcquireDualWieldSerum",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "TrePayne",
+      "description": "Acquire the dual wield serum"
+    },
+    {
+      "apiname": "034KillMothman",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pest Control",
+      "description": ""
+    },
+    {
+      "apiname": "035KillPatriarch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "XCI",
+      "description": ""
+    },
+    {
+      "apiname": "036KillCEO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "LXXVIII",
+      "description": ""
+    },
+    {
+      "apiname": "037GetBetrayed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "CVI",
+      "description": ""
+    },
+    {
+      "apiname": "038SlideIntoEnemyGrab",
+      "achieved": 1,
+      "unlocktime": 1791390562,
+      "name": "Slide Into Your DMs",
+      "description": "Slide into an enemy and grab him while he’s ragdolled"
+    },
+    {
+      "apiname": "039ShootEnemyHostageGrenade",
+      "achieved": 1,
+      "unlocktime": 1791390487,
+      "name": "You're a Firework!",
+      "description": "Shoot an enemy while he’s thrown as a hostage grenade, detonating his grenade"
+    },
+    {
+      "apiname": "040EntirePistolMagHeadshots",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Efficient",
+      "description": "Use every bullet in a pistol magazine to get headshot kills"
+    },
+    {
+      "apiname": "041KillEnemyWithHeadshotLastBullet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That Was a Close One!",
+      "description": "Kill an enemy with a headshot on final bullet in the mag"
+    },
+    {
+      "apiname": "042StealthKillEntireSquad",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solid 106",
+      "description": "Stealth kill an entire squad without anyone becoming alerted"
+    },
+    {
+      "apiname": "043ThrowEnemyInAirAndHeadshot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stylish",
+      "description": "Grab an enemy, throw and kill him with a headshot"
+    },
+    {
+      "apiname": "044FirstHostageExecution",
+      "achieved": 1,
+      "unlocktime": 1791390280,
+      "name": "Oh Snap!",
+      "description": "Execute your first hostage"
+    },
+    {
+      "apiname": "045KillHeavySoldier",
+      "achieved": 1,
+      "unlocktime": 1791391165,
+      "name": "JuggerNOT",
+      "description": "Kill a heavy soldier"
+    },
+    {
+      "apiname": "046KillEnemyHelmetDMR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "How’s That Helmet Working?",
+      "description": "Kill an enemy by shooting through his helmet with a DMR"
+    },
+    {
+      "apiname": "047Kill5Enemies1Grenade",
+      "achieved": 1,
+      "unlocktime": 1791390571,
+      "name": "Cost Effective",
+      "description": "Kill 3 enemies with 1 grenade"
+    },
+    {
+      "apiname": "049ShootEnemysThrownGrenadeKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backfired",
+      "description": "Shoot an enemy’s thrown grenade, killing him with it"
+    },
+    {
+      "apiname": "050KillEnemyWithTomahawk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Stick Around",
+      "description": "Kill an enemy with a tomahawk"
+    },
+    {
+      "apiname": "051KillEnemyWithFlashbangBounce",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Think Fast!",
+      "description": "Kill an enemy with a flashbang impact"
+    },
+    {
+      "apiname": "054ShineFlashlightOnEnemySurpriseKill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flashlight!",
+      "description": "Alert an enemy by shining a flashlight from behind, shoot him before he turns around"
+    },
+    {
+      "apiname": "055Collect105sCoin",
+      "achieved": 1,
+      "unlocktime": 1791390374,
+      "name": "CV",
+      "description": ""
+    },
+    {
+      "apiname": "056CollectDrEmersonsCoin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "XCV",
+      "description": ""
+    }
+  ]
+}
