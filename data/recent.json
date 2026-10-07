@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-06T20:14:42.972005+00:00",
+  "updated_at_utc": "2026-10-07T00:20:35.724576+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -25,23 +25,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 1300,
+      "playtime_forever": 1300,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 1300,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 268050,
       "name": "The Evil Within",
       "playtime_2weeks": 1147,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 1060,
-      "playtime_forever": 1060,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 1060,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
