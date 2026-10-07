@@ -3,9 +3,9 @@
   "appid": 651500,
   "game": "My Memory of Us",
   "total": 23,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-09-15T06:50:19.363263+00:00",
+  "unlocked": 10,
+  "percent": 43.5,
+  "updated_at_utc": "2026-10-07T06:14:45.923122+00:00",
   "achievements": [
     {
       "apiname": "FRIENDS_FOREVER",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "FIND_THE_GIRL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791351649,
       "name": "I will always find You",
       "description": ""
     },
     {
       "apiname": "INTERRUPT_PHOTO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791349414,
       "name": "Not so happy couple",
       "description": ""
     },
@@ -44,43 +44,43 @@
     },
     {
       "apiname": "FIND_COLLECTIBLES_SOME",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791350923,
       "name": "Bag of memories",
       "description": "Find half of the Memories"
     },
     {
       "apiname": "THREE_APPLES_IN_BASKET",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791348341,
       "name": "Better than Wilhelm Tell",
       "description": "Put 3 apples in the basket with one shot in \"Roof Over The Head\""
     },
     {
       "apiname": "DINNER_SERVED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791348557,
       "name": "Dinner served",
       "description": "Finish dinner puzzle in 13 moves or less in \"Roof Over The Head\""
     },
     {
       "apiname": "DANCE_SOME_MISTAKES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791348682,
       "name": "Would you like to Jive",
       "description": "Make no more than 2 mistakes while dancing in „The Thief’s Duty”"
     },
     {
       "apiname": "FIRST_HANDSHAKE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791347830,
       "name": "Take My Hand",
       "description": ""
     },
     {
       "apiname": "PARK_CLEAR_RUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791350715,
       "name": "Walk in the park",
       "description": "Complete „Changes, Changes, Changes” without alarming any enemies"
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "LIGHT_GIRL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791349704,
       "name": "Don't be afraid of the dark",
       "description": "On \"Interrupted Adventure\" after you find the Girl never again leave her in the darkness"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "BIKE_CLEAR_RUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791350868,
       "name": "Look, no hands! ",
       "description": "Complete bike minigame without any mistakes in „Inferior World”"
     },

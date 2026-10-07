@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-07T04:15:19.183705+00:00",
+  "updated_at_utc": "2026-10-07T06:17:01.940512+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -38,7 +38,7 @@
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 1013,
+      "playtime_2weeks": 891,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -179,23 +179,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 200,
+      "playtime_forever": 208,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "playtime_windows_forever": 208,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2103680,
       "name": "Mediterranea Inferno",
       "playtime_2weeks": 187,
       "playtime_forever": 187,
       "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 161,
-      "playtime_forever": 170,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 170,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -240,6 +240,17 @@
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 651500,
+      "name": "My Memory of Us",
+      "playtime_2weeks": 96,
+      "playtime_forever": 108,
+      "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
+      "playtime_windows_forever": 108,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
