@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 12,
-  "percent": 6.6,
-  "updated_at_utc": "2026-10-07T00:19:59.552630+00:00",
+  "unlocked": 24,
+  "percent": 13.3,
+  "updated_at_utc": "2026-10-07T02:14:47.004587+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "kill_burning_mage",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791339217,
       "name": "Anti-Mage",
       "description": "Kill 666 Fire Mages"
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "kill_darth_human",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338101,
       "name": "Dark Side of the Force",
       "description": "Kill 600 Laser Swordsmen"
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "level_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338497,
       "name": "Human Hordes",
       "description": "Beat level 3"
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "skill_summonDocOc",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338377,
       "name": "Obedient Doc",
       "description": "Get a level 3 copy of \"Obedient Doc\""
     },
@@ -660,8 +660,8 @@
     },
     {
       "apiname": "skill_Meteors",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338444,
       "name": "Meteorite Rain",
       "description": "Get a level 3 copy of \"Meteorite Rain\""
     },
@@ -793,8 +793,8 @@
     },
     {
       "apiname": "skill_homing",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791337891,
       "name": "Eye Launcher",
       "description": "Get a level 3 copy of \"Eye Launcher\""
     },
@@ -919,22 +919,22 @@
     },
     {
       "apiname": "skill_aoe_knockback",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338454,
       "name": "Blast Wave",
       "description": "Get a level 3 copy of \"Blast Wave\""
     },
     {
       "apiname": "skill_homing_dark",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338481,
       "name": "Homing Darkness!",
       "description": "Get a level 3 copy of \"Homing Darkness!\""
     },
     {
       "apiname": "skill_ice_angles",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338367,
       "name": "Cold Snap",
       "description": "Get a level 3 copy of \"Cold Snap\""
     },
@@ -1087,15 +1087,15 @@
     },
     {
       "apiname": "knock_damage_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338497,
       "name": "Crushing Humans",
       "description": "Unlock the upgrade \"Crushing Humans\""
     },
     {
       "apiname": "health_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338497,
       "name": "Health",
       "description": "Unlock the upgrade \"Health\""
     },
@@ -1220,8 +1220,8 @@
     },
     {
       "apiname": "unlock_combination_aoe",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791338497,
       "name": "Slime Around and Find Out",
       "description": "Unlock the upgrade \"Slime Around and Find Out\""
     },
