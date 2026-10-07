@@ -3,9 +3,9 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 42,
-  "percent": 58.3,
-  "updated_at_utc": "2026-10-07T14:15:52.148983+00:00",
+  "unlocked": 55,
+  "percent": 76.4,
+  "updated_at_utc": "2026-10-07T16:18:02.217298+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
@@ -72,29 +72,29 @@
     },
     {
       "apiname": "TabooArtsI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791386510,
       "name": "Taboo Arts I",
       "description": "Defeat Queen Minos three separate times."
     },
     {
       "apiname": "TabooArtsII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791383282,
       "name": "Taboo Arts II",
       "description": "Defeat Libicocco and Scarmiglione three separate times."
     },
     {
       "apiname": "BrotchiHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388233,
       "name": "Brotchi Hunter",
       "description": "Kill 2000 Brotchi enemies."
     },
     {
       "apiname": "InfernalProwessI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791385095,
       "name": "Infernal Prowess I",
       "description": "Reach Level 50."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "PiousPilgrim",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791386510,
       "name": "Pious Pilgrim",
       "description": "Activate 12 different Temples in a single run."
     },
@@ -275,15 +275,15 @@
     },
     {
       "apiname": "SuccubiHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388233,
       "name": "Succubi Hunter",
       "description": "Kill 250 Succubus enemies in Circle 2, Lust."
     },
     {
       "apiname": "WayfinderIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791386510,
       "name": "Wayfinder III",
       "description": "Beat Circle 1, Limbo, using Virgil's Wayfinder."
     },
@@ -373,8 +373,8 @@
     },
     {
       "apiname": "CodexAmorisI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791383282,
       "name": "Codex Amoris I",
       "description": "Use Ovid's Codex Amoris."
     },
@@ -387,8 +387,8 @@
     },
     {
       "apiname": "CodexAmorisIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791383282,
       "name": "Codex Amoris III",
       "description": "Beat Circle 2, Lust, using Ovid's Codex Amoris."
     },
@@ -401,8 +401,8 @@
     },
     {
       "apiname": "BlazingQuillIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388069,
       "name": "Blazing Quill III",
       "description": "Beat Circle 2, Lust, using Dante's Blazing Quill."
     },
@@ -422,22 +422,22 @@
     },
     {
       "apiname": "LustSinnerHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388233,
       "name": "Lust Sinner Hunter",
       "description": "Kill 2000 Lust Sinner enemies."
     },
     {
       "apiname": "LustMineHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388233,
       "name": "Lust Mine Hunter",
       "description": "Kill 1000 Lust Mine enemies."
     },
     {
       "apiname": "ViperHunter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791388233,
       "name": "Viper Hunter",
       "description": "Kill 1000 Viper enemies."
     },
