@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-07T20:15:23.700611+00:00",
+  "updated_at_utc": "2026-10-07T22:13:50.579922+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 1763,
-      "playtime_forever": 1763,
+      "playtime_2weeks": 1883,
+      "playtime_forever": 1883,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 1763,
+      "playtime_windows_forever": 1883,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -168,17 +168,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 263,
-      "playtime_forever": 2942,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 2942,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
       "playtime_2weeks": 245,
@@ -229,6 +218,17 @@
       "playtime_forever": 470,
       "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
       "playtime_windows_forever": 470,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 145,
+      "playtime_forever": 2942,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 2942,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
