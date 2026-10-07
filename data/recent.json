@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-07T10:16:09.484639+00:00",
+  "updated_at_utc": "2026-10-07T12:19:24.414809+00:00",
   "games": [
     {
       "appid": 3669870,
@@ -49,7 +49,7 @@
     {
       "appid": 268050,
       "name": "The Evil Within",
-      "playtime_2weeks": 765,
+      "playtime_2weeks": 739,
       "playtime_forever": 2942,
       "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
       "playtime_windows_forever": 2942,
@@ -179,6 +179,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 209,
+      "playtime_forever": 209,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 209,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 200,
@@ -256,28 +267,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 94,
-      "playtime_forever": 94,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 94,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4358690,
-      "name": "Graveyard Keeper 2",
-      "playtime_2weeks": 69,
-      "playtime_forever": 69,
-      "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
-      "playtime_windows_forever": 69,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1488490,
       "name": "Nivalis Nights",
       "playtime_2weeks": 58,
@@ -317,6 +306,17 @@
       "playtime_forever": 1,
       "img_icon_url": "2617cd7756abf2aaa196aaeccd7e88bef7dfe8a6",
       "playtime_windows_forever": 1,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4358690,
+      "name": "Graveyard Keeper 2",
+      "playtime_2weeks": 1,
+      "playtime_forever": 69,
+      "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
+      "playtime_windows_forever": 69,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

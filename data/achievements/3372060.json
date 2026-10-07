@@ -3,28 +3,28 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 12,
-  "percent": 16.7,
-  "updated_at_utc": "2026-10-07T10:16:02.092228+00:00",
+  "unlocked": 38,
+  "percent": 52.8,
+  "updated_at_utc": "2026-10-07T12:19:17.271330+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791369361,
       "name": "Soul Magister",
       "description": "Defeat Queen Minos."
     },
     {
       "apiname": "GoldenSatirist",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791369362,
       "name": "Golden Satirist",
       "description": "Rescue Horace."
     },
     {
       "apiname": "CrystalEyedBard",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Crystal-eyed Bard",
       "description": "Rescue Homer."
     },
@@ -44,29 +44,29 @@
     },
     {
       "apiname": "ConquererOfLust",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Conqueror of Lust",
       "description": "Survive 12 minutes in Circle 2, Lust."
     },
     {
       "apiname": "MalebranchePunisher",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Malebranche Punisher",
       "description": "Defeat Libicocco and Scarmiglione."
     },
     {
       "apiname": "SalamanderInquisitor",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Salamander Inquisitor",
       "description": "Defeat Scarmiglione in Circle 2, Lust."
     },
     {
       "apiname": "CeruleanImago",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791374564,
       "name": "Cerulean Imago",
       "description": "Rescue Ovid."
     },
@@ -114,15 +114,15 @@
     },
     {
       "apiname": "HellishMasteryI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791369362,
       "name": "Hellish Mastery I",
       "description": "Reach a high-score of 100.000 in Circle 1, Limbo."
     },
     {
       "apiname": "HellishMasteryII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Hellish Mastery II",
       "description": "Reach a high-score of 100.000 in Circle 2, Lust."
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "SoulOfPoetII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Soul of Poet II",
       "description": "Equip all of Virgil's Weapon cards."
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "SoulOfPoetIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372827,
       "name": "Soul of Poet III",
       "description": "Equip all of Horace's Weapon cards."
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "DevoutPilgrim",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Devout Pilgrim",
       "description": "Activate all available Temple types."
     },
@@ -247,15 +247,15 @@
     },
     {
       "apiname": "VitalEnduranceI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791369362,
       "name": "Vital Endurance I",
       "description": "Beat Circle 1, Limbo, without healing more than 500 HP."
     },
     {
       "apiname": "VitalEnduranceII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Vital Endurance II",
       "description": "Beat Circle 2, Lust, without healing more than 500 HP."
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "EliteKillerI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Elite Killer I",
       "description": "Kill the Elite Viper enemy in Circle 2, Lust."
     },
@@ -331,36 +331,36 @@
     },
     {
       "apiname": "CarpeDiemI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Carpe Diem I",
       "description": "Use Horace's Carpe Diem."
     },
     {
       "apiname": "CarpeDiemII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Carpe Diem II",
       "description": "Use Horace's Spell."
     },
     {
       "apiname": "CarpeDiemIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791370980,
       "name": "Carpe Diem III",
       "description": "Beat Circle 1, Limbo, using Horace's Carpe Diem."
     },
     {
       "apiname": "WingedLyricI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Winged Lyric I",
       "description": "Use Homer's Winged Lyric."
     },
     {
       "apiname": "WingedLyricII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Winged Lyric II",
       "description": "Use Homer's Spell."
     },
@@ -394,8 +394,8 @@
     },
     {
       "apiname": "BlazingQuillII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791369362,
       "name": "Blazing Quill II",
       "description": "Beat Circle 1, Limbo, using Dante's Blazing Quill."
     },
@@ -415,8 +415,8 @@
     },
     {
       "apiname": "EliteKillerII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372828,
       "name": "Elite Killer II",
       "description": "Kill the Elite Succubus enemy in Circle 2, Lust."
     },
@@ -450,8 +450,8 @@
     },
     {
       "apiname": "WindsOfDesire",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791371037,
       "name": "Winds of Desire",
       "description": "Unlock Circle 2, Lust."
     },
@@ -464,22 +464,22 @@
     },
     {
       "apiname": "PilgrimsJourneyI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791372907,
       "name": "Pilgrim's Journey I",
       "description": "Talk to Beatrice three times."
     },
     {
       "apiname": "PoetsOfLimboI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791371024,
       "name": "Poets of Limbo I",
       "description": "Save Horace and Homer."
     },
     {
       "apiname": "PoetsOfLimboII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791374618,
       "name": "Poets of Limbo II",
       "description": "Save Ovid."
     },
