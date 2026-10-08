@@ -1,20 +1,5 @@
 {
-  "updated_at_utc": "2026-10-08T16:17:53.571879+00:00",
-  "count": 1,
-  "games": [
-    {
-      "appid": 4421010,
-      "priority": 0,
-      "date_added_unix": 1785692617,
-      "date_added_utc": "2026-08-02T17:43:37+00:00",
-      "steam_url": "https://store.steampowered.com/app/4421010/",
-      "name": "账单必须支付 Bills Must Be Paid",
-      "type": "game",
-      "is_free": false,
-      "currency": "CNY",
-      "price_initial_cny": 28.0,
-      "price_final_cny": 19.6,
-      "discount_percent": 30
-    }
-  ]
+  "updated_at_utc": "2026-10-08T18:16:39.926122+00:00",
+  "count": 0,
+  "games": []
 }
