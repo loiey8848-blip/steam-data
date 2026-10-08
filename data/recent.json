@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T20:16:33.542244+00:00",
+  "updated_at_utc": "2026-10-08T22:15:18.674772+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2444,
-      "playtime_forever": 2444,
+      "playtime_2weeks": 2564,
+      "playtime_forever": 2564,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 2444,
+      "playtime_windows_forever": 2564,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -124,17 +124,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 329,
-      "playtime_forever": 3094,
-      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 3094,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2688570,
       "name": "The Inn-Sanity",
       "playtime_2weeks": 328,
@@ -185,6 +174,17 @@
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "playtime_2weeks": 210,
+      "playtime_forever": 3094,
+      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
+      "playtime_windows_forever": 3094,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
