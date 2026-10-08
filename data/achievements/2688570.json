@@ -3,9 +3,9 @@
   "appid": 2688570,
   "game": "The Inn-Sanity",
   "total": 23,
-  "unlocked": 5,
-  "percent": 21.7,
-  "updated_at_utc": "2026-10-08T02:14:14.860154+00:00",
+  "unlocked": 15,
+  "percent": 65.2,
+  "updated_at_utc": "2026-10-08T04:15:10.593332+00:00",
   "achievements": [
     {
       "apiname": "DAY_0_0",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "CLOCK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791425938,
       "name": "Tick Tock BOOM",
       "description": ""
     },
@@ -65,64 +65,64 @@
     },
     {
       "apiname": "DAY_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791426563,
       "name": "Day 2 Survivor",
       "description": ""
     },
     {
       "apiname": "SOSED_LIVE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791427877,
       "name": "Indulgence",
       "description": ""
     },
     {
       "apiname": "TRI_RISUNKA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791428124,
       "name": "Prognostic",
       "description": ""
     },
     {
       "apiname": "DAY_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791428382,
       "name": "Long Days Gone",
       "description": ""
     },
     {
       "apiname": "PROFESSOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791428675,
       "name": "Chaos Theory",
       "description": ""
     },
     {
       "apiname": "WATER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791430394,
       "name": "Let the Water Flow",
       "description": ""
     },
     {
       "apiname": "DAY_7",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791430977,
       "name": "When will this end?",
       "description": ""
     },
     {
       "apiname": "LADY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791432199,
       "name": "Lady in White",
       "description": ""
     },
     {
       "apiname": "SVET",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791432866,
       "name": "Let There Be Light!",
       "description": ""
     },
