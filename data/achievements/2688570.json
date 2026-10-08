@@ -3,9 +3,9 @@
   "appid": 2688570,
   "game": "The Inn-Sanity",
   "total": 23,
-  "unlocked": 15,
-  "percent": 65.2,
-  "updated_at_utc": "2026-10-08T04:15:10.593332+00:00",
+  "unlocked": 21,
+  "percent": 91.3,
+  "updated_at_utc": "2026-10-08T06:18:58.614744+00:00",
   "achievements": [
     {
       "apiname": "DAY_0_0",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "NO_FIRST_AID",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791438575,
       "name": "I Need It More",
       "description": ""
     },
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "SHMOTKI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791437156,
       "name": "Fast Packing",
       "description": ""
     },
@@ -128,15 +128,15 @@
     },
     {
       "apiname": "RADIOSIGNAL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791433766,
       "name": "Radioman",
       "description": ""
     },
     {
       "apiname": "DAY_8",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791433799,
       "name": "Judgment Day",
       "description": ""
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "PRIEST_LIVE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791435080,
       "name": "Shepard's Method",
       "description": ""
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "GOOD_END",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791435921,
       "name": "I'll give the world a second chance",
       "description": ""
     }
