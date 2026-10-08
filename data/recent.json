@@ -1,25 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T14:17:45.220223+00:00",
+  "updated_at_utc": "2026-10-08T16:17:53.571879+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2321,
-      "playtime_forever": 2321,
+      "playtime_2weeks": 2384,
+      "playtime_forever": 2384,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 2321,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3669870,
-      "name": "CONTROL Resonant",
-      "playtime_2weeks": 1662,
-      "playtime_forever": 1662,
-      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1662,
+      "playtime_windows_forever": 2384,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -31,6 +20,17 @@
       "playtime_forever": 1625,
       "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
       "playtime_windows_forever": 1625,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 1555,
+      "playtime_forever": 1662,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 1662,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -284,6 +284,17 @@
       "playtime_forever": 45,
       "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
       "playtime_windows_forever": 45,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 43,
+      "playtime_forever": 43,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 43,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

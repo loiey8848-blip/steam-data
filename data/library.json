@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T14:17:45.220223+00:00",
+  "updated_at_utc": "2026-10-08T16:17:53.571879+00:00",
   "owned_games": 1612,
   "new_games": [],
   "games": [
@@ -2077,11 +2077,11 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 43,
+      "playtime_hours": 0.7,
+      "last_played_unix": 1791475690,
+      "last_played_utc": "2026-10-08T16:08:10+00:00",
+      "recent": true
     },
     {
       "appid": 678960,
@@ -11842,10 +11842,10 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_minutes": 2321,
-      "playtime_hours": 38.7,
-      "last_played_unix": 1791468735,
-      "last_played_utc": "2026-10-08T14:12:15+00:00",
+      "playtime_minutes": 2384,
+      "playtime_hours": 39.7,
+      "last_played_unix": 1791472499,
+      "last_played_utc": "2026-10-08T15:14:59+00:00",
       "recent": true
     },
     {

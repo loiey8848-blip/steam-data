@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 39,
-  "percent": 84.8,
-  "updated_at_utc": "2026-10-08T14:16:04.913099+00:00",
+  "unlocked": 40,
+  "percent": 87.0,
+  "updated_at_utc": "2026-10-08T16:16:07.962716+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_BurnMaskFrom1stTry",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791470643,
       "name": "Elephant Memory",
       "description": "Achieve the maze from the 1st attemp before waking up in Terror Mode (right before burning the 4th artifact)"
     },

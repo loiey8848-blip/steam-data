@@ -1,0 +1,494 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1551980,
+  "game": "Clive Barker's Hellraiser: Revival",
+  "total": 69,
+  "unlocked": 8,
+  "percent": 11.6,
+  "updated_at_utc": "2026-10-08T16:17:00.315213+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
+      "achieved": 1,
+      "unlocktime": 1791473504,
+      "name": "We Have Such Sights to Show You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WHATS_IN_THE_BOX",
+      "achieved": 1,
+      "unlocktime": 1791473887,
+      "name": "What's in the Box?!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PUZZLE_ME_THIS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puzzle Me This",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NOT_LEAVING_US_SO_SOON",
+      "achieved": 1,
+      "unlocktime": 1791474016,
+      "name": "Not Leaving Us so Soon, Are You?",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_THE_BOX_YOU_OPENED_IT",
+      "achieved": 1,
+      "unlocktime": 1791474195,
+      "name": "The Box. You Opened it. We Came",
+      "description": "Complete the prologue."
+    },
+    {
+      "apiname": "ACH_NO_TEARS_PLEASE_ITS_A_WASTE",
+      "achieved": 1,
+      "unlocktime": 1791474693,
+      "name": "A Waste of Good Suffering",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINDERS_KEEPERS",
+      "achieved": 1,
+      "unlocktime": 1791474760,
+      "name": "Finders, Keepers",
+      "description": "Collect some coins."
+    },
+    {
+      "apiname": "ACH_WITH_MY_OWN_TWO_HANDS",
+      "achieved": 1,
+      "unlocktime": 1791475000,
+      "name": "With My Own Two Hands",
+      "description": "Craft an item in the Crafting menu."
+    },
+    {
+      "apiname": "ACH_JUST_A_FLESH_WOUND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a Flesh Wound",
+      "description": "Heal up to full health."
+    },
+    {
+      "apiname": "ACH_A_LITTLE_TO_THE_LEFT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Little to the Left, a Little to the Right",
+      "description": "Open a basic lock with a lockpick."
+    },
+    {
+      "apiname": "ACH_OH_SNAP",
+      "achieved": 1,
+      "unlocktime": 1791475115,
+      "name": "Oh Snap",
+      "description": "Break a lockpick."
+    },
+    {
+      "apiname": "ACH_NO_TIME_FOR_ARGUMENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Time for Argument",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_KNIVES_OUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knives Out",
+      "description": "Use a knife to kill an enemy."
+    },
+    {
+      "apiname": "ACH_BULLET_TIME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullet Time",
+      "description": "Use a firearm to kill an enemy."
+    },
+    {
+      "apiname": "ACH_EXCESSIVE_USE_OF_FORCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Excessive Use of Force",
+      "description": "Break a melee weapon in a fight."
+    },
+    {
+      "apiname": "ACH_SILENT_BUT_DEADLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Silent, but Deadly",
+      "description": "Kill an enemy with a stealth takedown."
+    },
+    {
+      "apiname": "ACH_HANDYMAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handyman",
+      "description": "Repair a melee weapon."
+    },
+    {
+      "apiname": "ACH_NOT_EVEN_IP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not Even IP",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_I_BANISH_THEE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Banish Thee!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DREAMS_ARE_FLEETING_ONLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Only Nightmares Last Forever!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WHATS_YOUR_PEASURE_SIR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What's Your Pleasure, Sir?",
+      "description": "Purchase something from a mysterious vendor."
+    },
+    {
+      "apiname": "ACH_WHATRE_YA_BUYIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What're Ya Buyin?",
+      "description": "Spend 666+ coins in the shop."
+    },
+    {
+      "apiname": "ACH_WHATRE_YA_SELLIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "What're Ya Sellin?",
+      "description": "Earn 999+ coins from sales."
+    },
+    {
+      "apiname": "ACH_POWER_TO_THE_PEOPLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power to the People",
+      "description": "Upgrade a firearm."
+    },
+    {
+      "apiname": "ACH_WITH_GREAT_POWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With Great Power",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HEADTAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Headtaker",
+      "description": "Kill 3 or more enemies with a single telekinetic throw."
+    },
+    {
+      "apiname": "ACH_A_QUIET_PLACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Quiet Place",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BURN_OH_SUCH_A_LIMITED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burn? Oh, Such a Limited Imagination!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_RUN_AIDAN_RUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Run, Aidan, Run!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEMONS_TO_SOME_ANGELS_TO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demons to Some, Angels to Others...",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EXPLORERS_IN_THE_FURTHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Further Regions of Experience",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_NO_LIFE_IN_THE_VOID_ONLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Life in the Void, Only Death",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WELCOME_TO_OBLIVION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to Oblivion",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EVERY_DROP_OF_BLOOD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every Drop of Blood You Spill...",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_PUTS_MORE_FLESH_ON_MY_BONES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Puts More Flesh on My Bones",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_FINANCIAL_ELITE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Financial Elite",
+      "description": "Spend 1337+ coins in the shop."
+    },
+    {
+      "apiname": "ACH_A_BIGGER_STICK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Bigger Stick!",
+      "description": "Reinforce a melee weapon."
+    },
+    {
+      "apiname": "ACH_COME_TO_DADDY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come to Daddy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_ARMED_AND_DANGEROUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Armed and Dangerous",
+      "description": "Equip a firearm in every firearm equipment slot."
+    },
+    {
+      "apiname": "ACH_STICKS_AND_STONES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sticks and Stones",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_RED_DEAD_DAMNATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Dead Damnation",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_DEADEYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deadeye",
+      "description": "Kill an enemy with a headshot from at least 30 metres away."
+    },
+    {
+      "apiname": "ACH_PYROMANIAC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pyromaniac",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TWISTED_FIRESTARTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twisted Firestarter",
+      "description": "Kill 10 or more enemies by burning them to death."
+    },
+    {
+      "apiname": "ACH_BREACHER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breacher",
+      "description": "Kill a fully armored enemy without destroying any armor parts."
+    },
+    {
+      "apiname": "ACH_TRAPPER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trapper",
+      "description": "Damage 10 or more enemies with bear traps."
+    },
+    {
+      "apiname": "ACH_HEART_ON_FIRE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heart on Fire",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_CODEBREAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Codebreaker",
+      "description": "Unlock 5 numpad locks."
+    },
+    {
+      "apiname": "ACH_GUNS_LOTS_OF_GUNS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Guns, Lots of Guns",
+      "description": "Acquire all firearms."
+    },
+    {
+      "apiname": "ACH_LORD_OF_WAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lord of War",
+      "description": "Fully upgrade a firearm."
+    },
+    {
+      "apiname": "ACH_I_CAN_DO_THIS_ALL_DAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can Do This All Day",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SO_MUCH_FOR_THE_CAT_AND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "So Much for the Cat and Mouse Shtick",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_UNLIMITED_POWER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unlimited Power!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_IN_THE_LAND_OF_THE_PIG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Land of the Pig, the Butcher is King",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LIBRARIAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Librarian",
+      "description": "Collect every crafting recipe."
+    },
+    {
+      "apiname": "ACH_ARTIFICER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Artificer",
+      "description": "Craft every craftable item."
+    },
+    {
+      "apiname": "ACH_I_SPY_WITH_MY_LITTLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Spy with My Little...",
+      "description": "Kill 6 or more enemies while looking through the revolver scope."
+    },
+    {
+      "apiname": "ACH_NO_MERCY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Mercy",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_WETWORK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wetwork",
+      "description": "Stealth kill 10 cultists without alerting anyone."
+    },
+    {
+      "apiname": "ACH_COME_HERE_DAMN_YOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Come Here, Damn You, I Want to Touch You",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TRICKSHOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trickshot",
+      "description": "Kill 2 or more enemies with a single shot."
+    },
+    {
+      "apiname": "ACH_ELECTROSHOCK_THERAPY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Electro-Shock Therapy",
+      "description": "Die from electric shock."
+    },
+    {
+      "apiname": "ACH_PORTABLE_GUILLOTINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Portable Guillotine",
+      "description": "Behead 3 or more enemies with the same melee weapon."
+    },
+    {
+      "apiname": "ACH_GO_TO_HELL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Go to Hell!",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_THERE_ARE_NO_LIMITS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "There Are No Limits",
+      "description": "Find and activate every pain pillar artifact."
+    },
+    {
+      "apiname": "ACH_PAIN_AND_PLEASURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pain And Pleasure, Indivisible",
+      "description": "Find and activate every suffering pillar artifact."
+    },
+    {
+      "apiname": "ACH_TEAR_YOUR_SOUL_APART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tear Your Soul Apart",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_EXPERIENCE_BEYOND_LIMITS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Experience Beyond Limits",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HUMAN_AFTER_ALL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Human After All",
+      "description": ""
+    }
+  ]
+}
