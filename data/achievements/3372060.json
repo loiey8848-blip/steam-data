@@ -3,9 +3,9 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 55,
-  "percent": 76.4,
-  "updated_at_utc": "2026-10-08T08:16:29.217403+00:00",
+  "unlocked": 57,
+  "percent": 79.2,
+  "updated_at_utc": "2026-10-08T10:16:23.728277+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "ModMaster",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791451576,
       "name": "Mod Master",
       "description": "Equip three Level 3 Mod cards onto a single Weapon card."
     },
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "WingedLyricIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791451577,
       "name": "Winged Lyric III",
       "description": "Beat Circle 1, Limbo, using Homer's Winged Lyric."
     },
