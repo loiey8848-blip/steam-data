@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-07T22:13:50.579922+00:00",
+  "updated_at_utc": "2026-10-08T00:19:35.234632+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 1883,
-      "playtime_forever": 1883,
+      "playtime_2weeks": 2003,
+      "playtime_forever": 2003,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 1883,
+      "playtime_windows_forever": 2003,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -223,17 +223,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 268050,
-      "name": "The Evil Within",
-      "playtime_2weeks": 145,
-      "playtime_forever": 2942,
-      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
-      "playtime_windows_forever": 2942,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3699590,
       "name": "Well Dweller",
       "playtime_2weeks": 134,
@@ -306,6 +295,17 @@
       "playtime_forever": 31,
       "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
       "playtime_windows_forever": 31,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 268050,
+      "name": "The Evil Within",
+      "playtime_2weeks": 19,
+      "playtime_forever": 2942,
+      "img_icon_url": "3ec11bf61b679fe85a529fc139ed90f39964a7c1",
+      "playtime_windows_forever": 2942,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
