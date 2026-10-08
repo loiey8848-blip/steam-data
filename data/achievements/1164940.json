@@ -3,9 +3,9 @@
   "appid": 1164940,
   "game": "Trepang2",
   "total": 49,
-  "unlocked": 8,
-  "percent": 16.3,
-  "updated_at_utc": "2026-10-08T10:14:51.113092+00:00",
+  "unlocked": 9,
+  "percent": 18.4,
+  "updated_at_utc": "2026-10-08T12:17:09.738372+00:00",
   "achievements": [
     {
       "apiname": "001_CompletedPrologueLevel",
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "030Break100Bottles",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791461539,
       "name": "Dry Party",
       "description": "Destroy 100 beer/wine bottles"
     },

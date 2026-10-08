@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T10:16:30.594163+00:00",
+  "updated_at_utc": "2026-10-08T12:18:47.509483+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2155,
-      "playtime_forever": 2155,
+      "playtime_2weeks": 2261,
+      "playtime_forever": 2261,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 2155,
+      "playtime_windows_forever": 2261,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1839510,
-      "name": "ＲＰＧタイム！～ライトの伝説～",
-      "playtime_2weeks": 400,
-      "playtime_forever": 437,
-      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
-      "playtime_windows_forever": 437,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3751260,
       "name": "The Blood of Dawnwalker",
       "playtime_2weeks": 379,
@@ -163,6 +152,17 @@
       "playtime_forever": 308,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 308,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1839510,
+      "name": "ＲＰＧタイム！～ライトの伝説～",
+      "playtime_2weeks": 306,
+      "playtime_forever": 437,
+      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
+      "playtime_windows_forever": 437,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

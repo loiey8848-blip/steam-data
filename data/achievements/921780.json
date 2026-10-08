@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 38,
-  "percent": 82.6,
-  "updated_at_utc": "2026-10-08T10:14:51.002131+00:00",
+  "unlocked": 39,
+  "percent": 84.8,
+  "updated_at_utc": "2026-10-08T12:17:09.575219+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_Act4CandlesDoors",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791460513,
       "name": "Lucky Man",
       "description": "Achieve the candle puzzle from the 1st attemp in Terror Mode"
     },
