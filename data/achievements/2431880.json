@@ -3,9 +3,9 @@
   "appid": 2431880,
   "game": "High Sea Saga DX",
   "total": 6,
-  "unlocked": 2,
-  "percent": 33.3,
-  "updated_at_utc": "2026-10-08T12:18:13.493563+00:00",
+  "unlocked": 3,
+  "percent": 50.0,
+  "updated_at_utc": "2026-10-08T14:17:10.706891+00:00",
   "achievements": [
     {
       "apiname": "KAIROKUN",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "CREW",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791465983,
       "name": "A charismatic captain who steals heart",
       "description": "Proof of having 50 crews."
     },

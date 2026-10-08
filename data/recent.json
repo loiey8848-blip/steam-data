@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T12:18:47.509483+00:00",
+  "updated_at_utc": "2026-10-08T14:17:45.220223+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2261,
-      "playtime_forever": 2261,
+      "playtime_2weeks": 2321,
+      "playtime_forever": 2321,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 2261,
+      "playtime_windows_forever": 2321,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1839510,
-      "name": "ＲＰＧタイム！～ライトの伝説～",
-      "playtime_2weeks": 306,
-      "playtime_forever": 437,
-      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
-      "playtime_windows_forever": 437,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1627840,
       "name": "Universe For Sale",
       "playtime_2weeks": 269,
@@ -185,6 +174,17 @@
       "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
       "playtime_windows_forever": 313,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1839510,
+      "name": "ＲＰＧタイム！～ライトの伝説～",
+      "playtime_2weeks": 237,
+      "playtime_forever": 437,
+      "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
+      "playtime_windows_forever": 437,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -278,23 +278,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1164940,
+      "name": "Trepang2",
+      "playtime_2weeks": 45,
+      "playtime_forever": 45,
+      "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
+      "playtime_windows_forever": 45,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2114740,
       "name": "Blasphemous 2",
       "playtime_2weeks": 41,
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1164940,
-      "name": "Trepang2",
-      "playtime_2weeks": 31,
-      "playtime_forever": 31,
-      "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
-      "playtime_windows_forever": 31,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
