@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-08T06:19:25.272317+00:00",
+  "updated_at_utc": "2026-10-08T08:16:36.533198+00:00",
   "games": [
     {
       "appid": 921780,
@@ -102,17 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3751260,
-      "name": "The Blood of Dawnwalker",
-      "playtime_2weeks": 510,
-      "playtime_forever": 3094,
-      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
-      "playtime_windows_forever": 3094,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 498,
@@ -130,6 +119,28 @@
       "playtime_forever": 437,
       "img_icon_url": "620f13cda7f94cd4650c53ba3474f975d7234c68",
       "playtime_windows_forever": 437,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3751260,
+      "name": "The Blood of Dawnwalker",
+      "playtime_2weeks": 393,
+      "playtime_forever": 3094,
+      "img_icon_url": "49fefdf2ae0e6171985509acec890b756cedc694",
+      "playtime_windows_forever": 3094,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2688570,
+      "name": "The Inn-Sanity",
+      "playtime_2weeks": 328,
+      "playtime_forever": 328,
+      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
+      "playtime_windows_forever": 328,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -163,17 +174,6 @@
       "playtime_forever": 269,
       "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
       "playtime_windows_forever": 269,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2688570,
-      "name": "The Inn-Sanity",
-      "playtime_2weeks": 254,
-      "playtime_forever": 254,
-      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
-      "playtime_windows_forever": 254,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

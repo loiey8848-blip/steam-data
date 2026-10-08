@@ -3,9 +3,9 @@
   "appid": 2688570,
   "game": "The Inn-Sanity",
   "total": 23,
-  "unlocked": 21,
-  "percent": 91.3,
-  "updated_at_utc": "2026-10-08T06:18:58.614744+00:00",
+  "unlocked": 23,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-08T08:16:10.306607+00:00",
   "achievements": [
     {
       "apiname": "DAY_0_0",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "KILL_PRIEST",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791442496,
       "name": "Dark Embrace",
       "description": ""
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "BAD_END",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791442905,
       "name": "New life",
       "description": ""
     },
