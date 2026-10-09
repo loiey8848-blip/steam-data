@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 22,
-  "percent": 31.9,
-  "updated_at_utc": "2026-10-09T10:15:26.077573+00:00",
+  "unlocked": 31,
+  "percent": 44.9,
+  "updated_at_utc": "2026-10-09T12:16:49.603919+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "ACH_PUZZLE_ME_THIS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791543760,
       "name": "Puzzle Me This",
       "description": ""
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "ACH_A_LITTLE_TO_THE_LEFT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791541108,
       "name": "A Little to the Left, a Little to the Right",
       "description": "Open a basic lock with a lockpick."
     },
@@ -198,29 +198,29 @@
     },
     {
       "apiname": "ACH_BURN_OH_SUCH_A_LIMITED",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791542728,
       "name": "Burn? Oh, Such a Limited Imagination!",
       "description": ""
     },
     {
       "apiname": "ACH_RUN_AIDAN_RUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791544578,
       "name": "Run, Aidan, Run!",
       "description": ""
     },
     {
       "apiname": "ACH_DEMONS_TO_SOME_ANGELS_TO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791543065,
       "name": "Demons to Some, Angels to Others...",
       "description": ""
     },
     {
       "apiname": "ACH_EXPLORERS_IN_THE_FURTHER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791543394,
       "name": "The Further Regions of Experience",
       "description": ""
     },
@@ -233,22 +233,22 @@
     },
     {
       "apiname": "ACH_WELCOME_TO_OBLIVION",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791544579,
       "name": "Welcome to Oblivion",
       "description": ""
     },
     {
       "apiname": "ACH_EVERY_DROP_OF_BLOOD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791544907,
       "name": "Every Drop of Blood You Spill...",
       "description": ""
     },
     {
       "apiname": "ACH_PUTS_MORE_FLESH_ON_MY_BONES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791545097,
       "name": "Puts More Flesh on My Bones",
       "description": ""
     },
