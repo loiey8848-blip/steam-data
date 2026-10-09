@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 43,
-  "percent": 93.5,
-  "updated_at_utc": "2026-10-09T08:15:04.568530+00:00",
+  "unlocked": 46,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-09T10:14:36.186105+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_UseXPT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791538748,
       "name": "Hamsa Hand ",
       "description": "Use Protection Talismans 15 times against the Demon woman in Terror Mode"
     },
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_FinishGameUse0PT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791535391,
       "name": "Constantine",
       "description": "Finish the game without using any Protection Talisman in Terror Mode"
     },
@@ -324,8 +324,8 @@
     },
     {
       "apiname": "TCH_ACH_Legend",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791538748,
       "name": "True Detective",
       "description": "Unlock all the achievements"
     }
