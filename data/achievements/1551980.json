@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 8,
-  "percent": 11.6,
-  "updated_at_utc": "2026-10-09T02:14:18.257415+00:00",
+  "unlocked": 21,
+  "percent": 30.4,
+  "updated_at_utc": "2026-10-09T04:15:07.442597+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ACH_JUST_A_FLESH_WOUND",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791512981,
       "name": "Just a Flesh Wound",
       "description": "Heal up to full health."
     },
@@ -86,50 +86,50 @@
     },
     {
       "apiname": "ACH_NO_TIME_FOR_ARGUMENT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791512516,
       "name": "No Time for Argument",
       "description": ""
     },
     {
       "apiname": "ACH_KNIVES_OUT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791512592,
       "name": "Knives Out",
       "description": "Use a knife to kill an enemy."
     },
     {
       "apiname": "ACH_BULLET_TIME",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791513716,
       "name": "Bullet Time",
       "description": "Use a firearm to kill an enemy."
     },
     {
       "apiname": "ACH_EXCESSIVE_USE_OF_FORCE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791513345,
       "name": "Excessive Use of Force",
       "description": "Break a melee weapon in a fight."
     },
     {
       "apiname": "ACH_SILENT_BUT_DEADLY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791512690,
       "name": "Silent, but Deadly",
       "description": "Kill an enemy with a stealth takedown."
     },
     {
       "apiname": "ACH_HANDYMAN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791513541,
       "name": "Handyman",
       "description": "Repair a melee weapon."
     },
     {
       "apiname": "ACH_NOT_EVEN_IP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791515174,
       "name": "Not Even IP",
       "description": ""
     },
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "ACH_DREAMS_ARE_FLEETING_ONLY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791515682,
       "name": "Only Nightmares Last Forever!",
       "description": ""
     },
     {
       "apiname": "ACH_WHATS_YOUR_PEASURE_SIR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791516223,
       "name": "What's Your Pleasure, Sir?",
       "description": "Purchase something from a mysterious vendor."
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "ACH_POWER_TO_THE_PEOPLE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791516224,
       "name": "Power to the People",
       "description": "Upgrade a firearm."
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ACH_A_BIGGER_STICK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791514113,
       "name": "A Bigger Stick!",
       "description": "Reinforce a melee weapon."
     },
@@ -415,8 +415,8 @@
     },
     {
       "apiname": "ACH_WETWORK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791514001,
       "name": "Wetwork",
       "description": "Stealth kill 10 cultists without alerting anyone."
     },
