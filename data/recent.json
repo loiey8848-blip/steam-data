@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-09T14:17:11.689432+00:00",
+  "updated_at_utc": "2026-10-09T16:16:02.067924+00:00",
   "games": [
     {
       "appid": 921780,
@@ -102,17 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3734290,
-      "name": "Goblin Sushi",
-      "playtime_2weeks": 415,
-      "playtime_forever": 589,
-      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
-      "playtime_windows_forever": 589,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 350,
@@ -141,6 +130,17 @@
       "playtime_forever": 308,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 308,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 297,
+      "playtime_forever": 589,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 589,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
