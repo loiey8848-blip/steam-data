@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 40,
-  "percent": 87.0,
-  "updated_at_utc": "2026-10-09T00:20:25.509491+00:00",
+  "unlocked": 41,
+  "percent": 89.1,
+  "updated_at_utc": "2026-10-09T02:13:27.170432+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_UseAllFirePlaces",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791511819,
       "name": "Pyromania Show",
       "description": "Use every Fireplace to burn demonic objects in Terror Mode"
     },
