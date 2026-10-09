@@ -3,9 +3,9 @@
   "appid": 921780,
   "game": "The Dark Occult",
   "total": 46,
-  "unlocked": 41,
-  "percent": 89.1,
-  "updated_at_utc": "2026-10-09T06:17:25.278463+00:00",
+  "unlocked": 43,
+  "percent": 93.5,
+  "updated_at_utc": "2026-10-09T08:15:04.568530+00:00",
   "achievements": [
     {
       "apiname": "TCH_ACHIEVEMENT_Aries",
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_CollectAllPT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791533676,
       "name": "The Intouchable",
       "description": "Collect all Protection Talismans in Terror Mode"
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "TCH_ACH_TM_OpenAllBoxes",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791531325,
       "name": "Open Them All",
       "description": "Open all the boxes in Terror Mode"
     },
