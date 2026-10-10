@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T06:17:04.744822+00:00",
+  "updated_at_utc": "2026-10-10T08:13:58.919257+00:00",
   "games": [
     {
       "appid": 921780,
@@ -168,17 +168,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3734290,
-      "name": "Goblin Sushi",
-      "playtime_2weeks": 214,
-      "playtime_forever": 589,
-      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
-      "playtime_windows_forever": 589,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 200,
@@ -251,6 +240,17 @@
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 97,
+      "playtime_forever": 589,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 589,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
