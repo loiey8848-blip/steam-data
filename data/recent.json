@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T02:14:41.372834+00:00",
+  "updated_at_utc": "2026-10-10T04:14:47.856630+00:00",
   "games": [
     {
       "appid": 921780,
@@ -27,7 +27,7 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_2weeks": 967,
+      "playtime_2weeks": 903,
       "playtime_forever": 1662,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
       "playtime_windows_forever": 1662,
@@ -157,6 +157,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 228,
+      "playtime_forever": 228,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 228,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 228,
@@ -174,17 +185,6 @@
       "playtime_forever": 208,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 208,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 198,
-      "playtime_forever": 198,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 198,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

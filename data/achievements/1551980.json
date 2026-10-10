@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 31,
-  "percent": 44.9,
-  "updated_at_utc": "2026-10-10T02:13:51.404546+00:00",
+  "unlocked": 39,
+  "percent": 56.5,
+  "updated_at_utc": "2026-10-10T04:13:57.523015+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -156,15 +156,15 @@
     },
     {
       "apiname": "ACH_WHATRE_YA_BUYIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791602177,
       "name": "What're Ya Buyin?",
       "description": "Spend 666+ coins in the shop."
     },
     {
       "apiname": "ACH_WHATRE_YA_SELLIN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791604559,
       "name": "What're Ya Sellin?",
       "description": "Earn 999+ coins from sales."
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "ACH_HEADTAKER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791605012,
       "name": "Headtaker",
       "description": "Kill 3 or more enemies with a single telekinetic throw."
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "ACH_FINANCIAL_ELITE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791603280,
       "name": "Financial Elite",
       "description": "Spend 1337+ coins in the shop."
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "ACH_COME_TO_DADDY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791602923,
       "name": "Come to Daddy",
       "description": ""
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "ACH_STICKS_AND_STONES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791604531,
       "name": "Sticks and Stones",
       "description": ""
     },
@@ -352,8 +352,8 @@
     },
     {
       "apiname": "ACH_LORD_OF_WAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791604624,
       "name": "Lord of War",
       "description": "Fully upgrade a firearm."
     },
@@ -443,8 +443,8 @@
     },
     {
       "apiname": "ACH_PORTABLE_GUILLOTINE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791604313,
       "name": "Portable Guillotine",
       "description": "Behead 3 or more enemies with the same melee weapon."
     },
