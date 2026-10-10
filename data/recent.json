@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
+  "updated_at_utc": "2026-10-10T20:13:11.558816+00:00",
   "games": [
     {
       "appid": 921780,
@@ -201,17 +201,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2103680,
-      "name": "Mediterranea Inferno",
-      "playtime_2weeks": 160,
-      "playtime_forever": 187,
-      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
-      "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2459550,
       "name": "Emberward",
       "playtime_2weeks": 146,
@@ -251,6 +240,17 @@
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2103680,
+      "name": "Mediterranea Inferno",
+      "playtime_2weeks": 95,
+      "playtime_forever": 187,
+      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
+      "playtime_windows_forever": 187,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

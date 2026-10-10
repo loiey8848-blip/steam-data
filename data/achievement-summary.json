@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
+  "updated_at_utc": "2026-10-10T20:13:11.558816+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -4357,6 +4357,18 @@
       "achievements_unlocked": 30,
       "achievements_total": 30,
       "achievement_percent": 100.0
+    },
+    {
+      "appid": 2934180,
+      "name": "Doraemon Dorayaki Shop Story",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 1272840,

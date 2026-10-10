@@ -1,38 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
-  "owned_games": 1619,
+  "updated_at_utc": "2026-10-10T20:13:11.558816+00:00",
+  "owned_games": 1620,
   "new_games": [
     {
-      "appid": 612880,
-      "name": "Wolfenstein II: The New Colossus",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 201810,
-      "name": "Wolfenstein: The New Order",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 350080,
-      "name": "Wolfenstein: The Old Blood ",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1056960,
-      "name": "Wolfenstein: Youngblood",
+      "appid": 2934180,
+      "name": "Doraemon Dorayaki Shop Story",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -3306,6 +3279,15 @@
       "playtime_hours": 5.0,
       "last_played_unix": 1786886083,
       "last_played_utc": "2026-08-16T13:14:43+00:00",
+      "recent": false
+    },
+    {
+      "appid": 2934180,
+      "name": "Doraemon Dorayaki Shop Story",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
