@@ -3,9 +3,9 @@
   "appid": 2510710,
   "game": "Kunitsu-Gami: Path of the Goddess",
   "total": 48,
-  "unlocked": 9,
-  "percent": 18.8,
-  "updated_at_utc": "2026-10-10T14:12:50.518633+00:00",
+  "unlocked": 12,
+  "percent": 25.0,
+  "updated_at_utc": "2026-10-10T16:12:27.523275+00:00",
   "achievements": [
     {
       "apiname": "1",
@@ -37,15 +37,15 @@
     },
     {
       "apiname": "5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791644545,
       "name": "Purify Enri Village",
       "description": "Purge the defilement and recover Enri Village."
     },
     {
       "apiname": "6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791644545,
       "name": "Purify Okumiyama Passage",
       "description": "Purge the defilement and recover Okumiyama Passage."
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "22",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791645800,
       "name": "Defeat Tsurube-otoshi",
       "description": ""
     },
