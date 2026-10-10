@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T10:13:14.581478+00:00",
+  "updated_at_utc": "2026-10-10T12:16:04.610517+00:00",
   "games": [
     {
       "appid": 921780,
@@ -273,6 +273,17 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2510710,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "playtime_2weeks": 30,
+      "playtime_forever": 85,
+      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
+      "playtime_windows_forever": 85,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
