@@ -1,8 +1,45 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T16:13:00.624445+00:00",
-  "owned_games": 1615,
-  "new_games": [],
+  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
+  "owned_games": 1619,
+  "new_games": [
+    {
+      "appid": 612880,
+      "name": "Wolfenstein II: The New Colossus",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 201810,
+      "name": "Wolfenstein: The New Order",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 350080,
+      "name": "Wolfenstein: The Old Blood ",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1056960,
+      "name": "Wolfenstein: Youngblood",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -2077,10 +2114,10 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_minutes": 270,
-      "playtime_hours": 4.5,
-      "last_played_unix": 1791606311,
-      "last_played_utc": "2026-10-10T04:25:11+00:00",
+      "playtime_minutes": 321,
+      "playtime_hours": 5.3,
+      "last_played_unix": 1791655087,
+      "last_played_utc": "2026-10-10T17:58:07+00:00",
       "recent": true
     },
     {
@@ -14105,6 +14142,42 @@
       "playtime_hours": 49.7,
       "last_played_unix": 1763276569,
       "last_played_utc": "2025-11-16T07:02:49+00:00",
+      "recent": false
+    },
+    {
+      "appid": 612880,
+      "name": "Wolfenstein II: The New Colossus",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 201810,
+      "name": "Wolfenstein: The New Order",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 350080,
+      "name": "Wolfenstein: The Old Blood ",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1056960,
+      "name": "Wolfenstein: Youngblood",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {

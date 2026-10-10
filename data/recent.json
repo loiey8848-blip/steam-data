@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T16:13:00.624445+00:00",
+  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
   "games": [
     {
       "appid": 921780,
@@ -124,23 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 321,
+      "playtime_forever": 321,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 321,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 308,
       "playtime_forever": 308,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 308,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 270,
-      "playtime_forever": 270,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 270,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -190,22 +190,22 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2103680,
-      "name": "Mediterranea Inferno",
-      "playtime_2weeks": 187,
+      "appid": 651500,
+      "name": "My Memory of Us",
+      "playtime_2weeks": 175,
       "playtime_forever": 187,
-      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
+      "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
       "playtime_windows_forever": 187,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
     {
-      "appid": 651500,
-      "name": "My Memory of Us",
-      "playtime_2weeks": 175,
+      "appid": 2103680,
+      "name": "Mediterranea Inferno",
+      "playtime_2weeks": 160,
       "playtime_forever": 187,
-      "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
+      "img_icon_url": "fcae0631dcf9b3f6f574dbe37023d35a71a952be",
       "playtime_windows_forever": 187,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,

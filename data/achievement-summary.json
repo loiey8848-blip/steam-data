@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-10T16:13:00.624445+00:00",
+  "updated_at_utc": "2026-10-10T18:15:01.249809+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2765,14 +2765,14 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_minutes": 270,
-      "playtime_hours": 4.5,
-      "last_played_unix": 1791606311,
-      "last_played_utc": "2026-10-10T04:25:11+00:00",
+      "playtime_minutes": 321,
+      "playtime_hours": 5.3,
+      "last_played_unix": 1791655087,
+      "last_played_utc": "2026-10-10T17:58:07+00:00",
       "recent": true,
-      "achievements_unlocked": 41,
+      "achievements_unlocked": 48,
       "achievements_total": 69,
-      "achievement_percent": 59.4
+      "achievement_percent": 69.6
     },
     {
       "appid": 678960,
@@ -18805,6 +18805,54 @@
       "achievements_unlocked": 51,
       "achievements_total": 90,
       "achievement_percent": 56.7
+    },
+    {
+      "appid": 612880,
+      "name": "Wolfenstein II: The New Colossus",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 201810,
+      "name": "Wolfenstein: The New Order",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 350080,
+      "name": "Wolfenstein: The Old Blood ",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1056960,
+      "name": "Wolfenstein: Youngblood",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 2593340,
