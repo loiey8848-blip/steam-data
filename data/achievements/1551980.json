@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 39,
-  "percent": 56.5,
-  "updated_at_utc": "2026-10-10T04:13:57.523015+00:00",
+  "unlocked": 41,
+  "percent": 59.4,
+  "updated_at_utc": "2026-10-10T06:16:14.100571+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "ACH_PYROMANIAC",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791606171,
       "name": "Pyromaniac",
       "description": ""
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "ACH_BREACHER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791606192,
       "name": "Breacher",
       "description": "Kill a fully armored enemy without destroying any armor parts."
     },
