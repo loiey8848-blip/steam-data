@@ -3,9 +3,9 @@
   "appid": 2510710,
   "game": "Kunitsu-Gami: Path of the Goddess",
   "total": 48,
-  "unlocked": 6,
-  "percent": 12.5,
-  "updated_at_utc": "2026-10-10T12:15:33.056905+00:00",
+  "unlocked": 9,
+  "percent": 18.8,
+  "updated_at_utc": "2026-10-10T14:12:50.518633+00:00",
   "achievements": [
     {
       "apiname": "1",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791636526,
       "name": "Purify Yuan Cavern",
       "description": "Purge the defilement and recover Yuan Cavern."
     },
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791635522,
       "name": "Defeat Kamaitachi",
       "description": ""
     },
     {
       "apiname": "21",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791636851,
       "name": "Defeat Mukadejoro",
       "description": ""
     },
