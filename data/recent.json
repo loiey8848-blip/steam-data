@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-11T16:13:40.997209+00:00",
+  "updated_at_utc": "2026-10-11T18:15:30.570603+00:00",
   "games": [
     {
       "appid": 921780,
@@ -38,7 +38,7 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_2weeks": 625,
+      "playtime_2weeks": 616,
       "playtime_forever": 1662,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
       "playtime_windows_forever": 1662,
@@ -201,17 +201,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 146,
-      "playtime_forever": 470,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 470,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3699590,
       "name": "Well Dweller",
       "playtime_2weeks": 134,
@@ -240,6 +229,17 @@
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 95,
+      "playtime_forever": 470,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 470,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -295,17 +295,6 @@
       "playtime_forever": 1,
       "img_icon_url": "2617cd7756abf2aaa196aaeccd7e88bef7dfe8a6",
       "playtime_windows_forever": 1,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4358690,
-      "name": "Graveyard Keeper 2",
-      "playtime_2weeks": 1,
-      "playtime_forever": 69,
-      "img_icon_url": "84badc94e45ac14832c24104a3651b893c52612d",
-      "playtime_windows_forever": 69,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
