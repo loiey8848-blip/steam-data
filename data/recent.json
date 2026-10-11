@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-11T18:15:30.570603+00:00",
+  "updated_at_utc": "2026-10-11T20:13:07.443595+00:00",
   "games": [
     {
       "appid": 921780,
@@ -34,17 +34,6 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 29,
       "playtime_deck_forever": 29
-    },
-    {
-      "appid": 3669870,
-      "name": "CONTROL Resonant",
-      "playtime_2weeks": 616,
-      "playtime_forever": 1662,
-      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1662,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     },
     {
       "appid": 2215200,
@@ -97,6 +86,17 @@
       "playtime_forever": 585,
       "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
       "playtime_windows_forever": 585,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 578,
+      "playtime_forever": 1662,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 1662,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
