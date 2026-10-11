@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 56,
-  "percent": 81.2,
-  "updated_at_utc": "2026-10-11T10:13:16.728691+00:00",
+  "unlocked": 58,
+  "percent": 84.1,
+  "updated_at_utc": "2026-10-11T12:16:11.973760+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -422,8 +422,8 @@
     },
     {
       "apiname": "ACH_COME_HERE_DAMN_YOU",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791717409,
       "name": "Come Here, Damn You, I Want to Touch You",
       "description": ""
     },
@@ -457,8 +457,8 @@
     },
     {
       "apiname": "ACH_THERE_ARE_NO_LIMITS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791718381,
       "name": "There Are No Limits",
       "description": "Find and activate every pain pillar artifact."
     },
