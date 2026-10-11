@@ -3,14 +3,14 @@
   "appid": 2089450,
   "game": "Hot Springs Story 2",
   "total": 6,
-  "unlocked": 5,
-  "percent": 83.3,
-  "updated_at_utc": "2026-10-11T08:14:12.989544+00:00",
+  "unlocked": 6,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-11T10:13:30.523976+00:00",
   "achievements": [
     {
       "apiname": "KAIRO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791708842,
       "name": "Slightly pink robot",
       "description": "Proof that Kairobot joined."
     },

@@ -3,9 +3,9 @@
   "appid": 2510710,
   "game": "Kunitsu-Gami: Path of the Goddess",
   "total": 48,
-  "unlocked": 13,
-  "percent": 27.1,
-  "updated_at_utc": "2026-10-11T08:14:13.716948+00:00",
+  "unlocked": 15,
+  "percent": 31.2,
+  "updated_at_utc": "2026-10-11T10:13:31.684762+00:00",
   "achievements": [
     {
       "apiname": "1",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "8",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791708268,
       "name": "Purify Yuminari Lake",
       "description": "Purge the defilement and recover Yuminari Lake."
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "23",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791707022,
       "name": "Defeat Batsu",
       "description": ""
     },
