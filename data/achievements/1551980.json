@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 48,
-  "percent": 69.6,
-  "updated_at_utc": "2026-10-11T02:13:21.226981+00:00",
+  "unlocked": 51,
+  "percent": 73.9,
+  "updated_at_utc": "2026-10-11T04:14:07.888784+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -338,15 +338,15 @@
     },
     {
       "apiname": "ACH_CODEBREAKER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791690644,
       "name": "Codebreaker",
       "description": "Unlock 5 numpad locks."
     },
     {
       "apiname": "ACH_GUNS_LOTS_OF_GUNS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791689956,
       "name": "Guns, Lots of Guns",
       "description": "Acquire all firearms."
     },
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "ACH_SO_MUCH_FOR_THE_CAT_AND",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791692025,
       "name": "So Much for the Cat and Mouse Shtick",
       "description": ""
     },
