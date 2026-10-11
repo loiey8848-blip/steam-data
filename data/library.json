@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-11T04:14:58.284752+00:00",
+  "updated_at_utc": "2026-10-11T06:17:32.364172+00:00",
   "owned_games": 1620,
   "new_games": [],
   "games": [
@@ -2077,10 +2077,10 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_minutes": 360,
-      "playtime_hours": 6.0,
-      "last_played_unix": 1791690552,
-      "last_played_utc": "2026-10-11T03:49:12+00:00",
+      "playtime_minutes": 464,
+      "playtime_hours": 7.7,
+      "last_played_unix": 1791696836,
+      "last_played_utc": "2026-10-11T05:33:56+00:00",
       "recent": true
     },
     {
@@ -7292,7 +7292,7 @@
       "playtime_hours": 3.1,
       "last_played_unix": 1790489214,
       "last_played_utc": "2026-09-27T06:06:54+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 1923680,

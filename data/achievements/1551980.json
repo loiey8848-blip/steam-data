@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 51,
-  "percent": 73.9,
-  "updated_at_utc": "2026-10-11T04:14:07.888784+00:00",
+  "unlocked": 56,
+  "percent": 81.2,
+  "updated_at_utc": "2026-10-11T06:16:42.750429+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -359,8 +359,8 @@
     },
     {
       "apiname": "ACH_I_CAN_DO_THIS_ALL_DAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791693057,
       "name": "I Can Do This All Day",
       "description": ""
     },
@@ -373,8 +373,8 @@
     },
     {
       "apiname": "ACH_UNLIMITED_POWER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791693059,
       "name": "Unlimited Power!",
       "description": ""
     },
@@ -387,15 +387,15 @@
     },
     {
       "apiname": "ACH_LIBRARIAN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791693308,
       "name": "Librarian",
       "description": "Collect every crafting recipe."
     },
     {
       "apiname": "ACH_ARTIFICER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791693366,
       "name": "Artificer",
       "description": "Craft every craftable item."
     },
@@ -408,8 +408,8 @@
     },
     {
       "apiname": "ACH_NO_MERCY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791694940,
       "name": "No Mercy",
       "description": ""
     },
