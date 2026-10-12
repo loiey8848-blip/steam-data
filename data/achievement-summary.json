@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-12T06:21:47.406623+00:00",
+  "updated_at_utc": "2026-10-12T08:19:27.966818+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5703,6 +5703,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 2990600,
+      "name": "Fireside Feelings",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 383870,
       "name": "Firewatch",
       "playtime_minutes": 0,
@@ -8969,6 +8981,18 @@
     {
       "appid": 1874000,
       "name": "Life is Strange: Double Exposure",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 3746950,
+      "name": "Life, the Universe, and Restaurants",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -14011,8 +14035,8 @@
       "name": "Silver Pines",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
+      "last_played_unix": 1791792789,
+      "last_played_utc": "2026-10-12T08:13:09+00:00",
       "recent": false,
       "achievements_unlocked": null,
       "achievements_total": null,
@@ -17753,6 +17777,18 @@
     {
       "appid": 757300,
       "name": "Truberbrook",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 3090810,
+      "name": "Truckful",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-12T06:21:47.406623+00:00",
+  "updated_at_utc": "2026-10-12T08:19:27.966818+00:00",
   "games": [
     {
       "appid": 921780,
@@ -124,17 +124,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3669870,
-      "name": "CONTROL Resonant",
-      "playtime_2weeks": 312,
-      "playtime_forever": 1662,
-      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1662,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 308,
@@ -163,6 +152,17 @@
       "playtime_forever": 269,
       "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
       "playtime_windows_forever": 269,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 248,
+      "playtime_forever": 1662,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 1662,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
