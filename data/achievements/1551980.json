@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 65,
-  "percent": 94.2,
-  "updated_at_utc": "2026-10-12T04:16:18.550197+00:00",
+  "unlocked": 69,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-12T06:20:57.868595+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_A_QUIET_PLACE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791779288,
       "name": "A Quiet Place",
       "description": ""
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "ACH_NO_LIFE_IN_THE_VOID_ONLY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791781005,
       "name": "No Life in the Void, Only Death",
       "description": ""
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "ACH_RED_DEAD_DAMNATION",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791780728,
       "name": "Red Dead Damnation",
       "description": ""
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "ACH_IN_THE_LAND_OF_THE_PIG",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791782478,
       "name": "In the Land of the Pig, the Butcher is King",
       "description": ""
     },

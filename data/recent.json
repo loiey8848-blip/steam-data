@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-12T04:17:08.548489+00:00",
+  "updated_at_utc": "2026-10-12T06:21:47.406623+00:00",
   "games": [
     {
       "appid": 921780,
@@ -25,6 +25,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 687,
+      "playtime_forever": 687,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 687,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1623730,
       "name": "Palworld",
       "playtime_2weeks": 646,
@@ -42,17 +53,6 @@
       "playtime_forever": 2468,
       "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
       "playtime_windows_forever": 2468,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 607,
-      "playtime_forever": 607,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 607,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -102,17 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3669870,
-      "name": "CONTROL Resonant",
-      "playtime_2weeks": 377,
-      "playtime_forever": 1662,
-      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
-      "playtime_windows_forever": 1662,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 350,
@@ -130,6 +119,17 @@
       "playtime_forever": 328,
       "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
       "playtime_windows_forever": 328,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3669870,
+      "name": "CONTROL Resonant",
+      "playtime_2weeks": 312,
+      "playtime_forever": 1662,
+      "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
+      "playtime_windows_forever": 1662,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
