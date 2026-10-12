@@ -3,9 +3,9 @@
   "appid": 1551980,
   "game": "Clive Barker's Hellraiser: Revival",
   "total": 69,
-  "unlocked": 58,
-  "percent": 84.1,
-  "updated_at_utc": "2026-10-12T02:16:01.378594+00:00",
+  "unlocked": 65,
+  "percent": 94.2,
+  "updated_at_utc": "2026-10-12T04:16:18.550197+00:00",
   "achievements": [
     {
       "apiname": "ACH_WE_HAVE_SUCH_SIGHTS_TO_SHOW",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_I_BANISH_THEE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791777945,
       "name": "I Banish Thee!",
       "description": ""
     },
@@ -324,8 +324,8 @@
     },
     {
       "apiname": "ACH_TRAPPER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791775731,
       "name": "Trapper",
       "description": "Damage 10 or more enemies with bear traps."
     },
@@ -450,8 +450,8 @@
     },
     {
       "apiname": "ACH_GO_TO_HELL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791772759,
       "name": "Go to Hell!",
       "description": ""
     },
@@ -464,29 +464,29 @@
     },
     {
       "apiname": "ACH_PAIN_AND_PLEASURE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791777219,
       "name": "Pain And Pleasure, Indivisible",
       "description": "Find and activate every suffering pillar artifact."
     },
     {
       "apiname": "ACH_TEAR_YOUR_SOUL_APART",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791773186,
       "name": "Tear Your Soul Apart",
       "description": ""
     },
     {
       "apiname": "ACH_EXPERIENCE_BEYOND_LIMITS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791773567,
       "name": "Experience Beyond Limits",
       "description": ""
     },
     {
       "apiname": "ACH_HUMAN_AFTER_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791773781,
       "name": "Human After All",
       "description": ""
     }
