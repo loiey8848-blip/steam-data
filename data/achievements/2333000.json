@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 16,
-  "percent": 69.6,
-  "updated_at_utc": "2026-10-13T16:17:27.611233+00:00",
+  "unlocked": 17,
+  "percent": 73.9,
+  "updated_at_utc": "2026-10-13T18:20:07.426102+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ENDING_B",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791908918,
       "name": "Ending: Rest",
       "description": ""
     },
