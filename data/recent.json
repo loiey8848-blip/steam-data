@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-13T14:20:04.177214+00:00",
+  "updated_at_utc": "2026-10-13T16:18:05.551678+00:00",
   "games": [
     {
       "appid": 921780,
@@ -27,10 +27,10 @@
     {
       "appid": 2333000,
       "name": "Silver Pines",
-      "playtime_2weeks": 827,
-      "playtime_forever": 827,
+      "playtime_2weeks": 947,
+      "playtime_forever": 947,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
-      "playtime_windows_forever": 827,
+      "playtime_windows_forever": 947,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -273,17 +273,6 @@
       "playtime_forever": 18,
       "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
       "playtime_windows_forever": 18,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 3,
-      "playtime_forever": 308,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 308,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

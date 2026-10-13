@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 12,
-  "percent": 52.2,
-  "updated_at_utc": "2026-10-13T14:19:25.783817+00:00",
+  "unlocked": 16,
+  "percent": 69.6,
+  "updated_at_utc": "2026-10-13T16:17:27.611233+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -72,15 +72,15 @@
     },
     {
       "apiname": "COMPLETE_STUDIO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791903332,
       "name": "Dead Air, Final Cut ",
       "description": ""
     },
     {
       "apiname": "ENDING_A",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791904534,
       "name": "Ending: Leave",
       "description": ""
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "FIND_ALL_MAPS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791902528,
       "name": "Traces to Nowhere",
       "description": "Find all the collectable maps"
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "DEFEAT_PURSUER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791903282,
       "name": "High Speed Collision",
       "description": ""
     },
