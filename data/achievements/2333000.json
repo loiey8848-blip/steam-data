@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 10,
-  "percent": 43.5,
-  "updated_at_utc": "2026-10-13T12:20:17.825751+00:00",
+  "unlocked": 12,
+  "percent": 52.2,
+  "updated_at_utc": "2026-10-13T14:19:25.783817+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -58,15 +58,15 @@
     },
     {
       "apiname": "COMPLETE_SEWERS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791898038,
       "name": "What You Tried to Wash Away ",
       "description": ""
     },
     {
       "apiname": "DONE_CABLE_CAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791898642,
       "name": "Ascension",
       "description": ""
     },
