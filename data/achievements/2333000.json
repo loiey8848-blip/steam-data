@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 8,
-  "percent": 34.8,
-  "updated_at_utc": "2026-10-13T08:17:53.506876+00:00",
+  "unlocked": 9,
+  "percent": 39.1,
+  "updated_at_utc": "2026-10-13T10:17:01.726775+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "REPAIR_FERRY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791880672,
       "name": "Tranquil Waters ",
       "description": ""
     }
