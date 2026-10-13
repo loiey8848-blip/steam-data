@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 9,
-  "percent": 39.1,
-  "updated_at_utc": "2026-10-13T10:17:01.726775+00:00",
+  "unlocked": 10,
+  "percent": 43.5,
+  "updated_at_utc": "2026-10-13T12:20:17.825751+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "COMPLETE_CHURCH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791893820,
       "name": "Midnight Mass ",
       "description": ""
     },

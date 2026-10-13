@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-13T10:17:36.425880+00:00",
+  "updated_at_utc": "2026-10-13T12:20:55.334255+00:00",
   "games": [
     {
       "appid": 921780,
@@ -25,23 +25,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2333000,
+      "name": "Silver Pines",
+      "playtime_2weeks": 707,
+      "playtime_forever": 707,
+      "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
+      "playtime_windows_forever": 707,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_2weeks": 687,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2333000,
-      "name": "Silver Pines",
-      "playtime_2weeks": 677,
-      "playtime_forever": 677,
-      "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
-      "playtime_windows_forever": 677,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -168,17 +168,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 241,
-      "playtime_forever": 308,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 308,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 200,
@@ -218,6 +207,17 @@
       "playtime_forever": 126,
       "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
       "playtime_windows_forever": 126,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 118,
+      "playtime_forever": 308,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 308,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
