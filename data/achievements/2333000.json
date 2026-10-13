@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 3,
-  "percent": 13.0,
-  "updated_at_utc": "2026-10-13T00:22:02.125452+00:00",
+  "unlocked": 5,
+  "percent": 21.7,
+  "updated_at_utc": "2026-10-13T02:16:13.502498+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "COMPLETE_APARTMENT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791854169,
       "name": "Apartment 4B ",
       "description": ""
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "UNLOCK_FIRST_MEMENTO_SLOT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791854694,
       "name": "Parts left behind",
       "description": "Unlock a second memento slot"
     },

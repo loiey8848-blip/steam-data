@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-13T00:22:38.112975+00:00",
+  "updated_at_utc": "2026-10-13T02:16:49.955172+00:00",
   "games": [
     {
       "appid": 921780,
@@ -168,6 +168,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2333000,
+      "name": "Silver Pines",
+      "playtime_2weeks": 233,
+      "playtime_forever": 233,
+      "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
+      "playtime_windows_forever": 233,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 200,
@@ -185,17 +196,6 @@
       "playtime_forever": 187,
       "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
       "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2333000,
-      "name": "Silver Pines",
-      "playtime_2weeks": 143,
-      "playtime_forever": 143,
-      "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
-      "playtime_windows_forever": 143,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -247,7 +247,7 @@
     {
       "appid": 3669870,
       "name": "CONTROL Resonant",
-      "playtime_2weeks": 74,
+      "playtime_2weeks": 65,
       "playtime_forever": 1662,
       "img_icon_url": "f9f541b67c42a9503467f44072ef9193c135ff33",
       "playtime_windows_forever": 1662,
