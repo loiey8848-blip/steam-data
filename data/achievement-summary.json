@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-14T18:29:56.873230+00:00",
+  "updated_at_utc": "2026-10-14T20:26:11.783059+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2441,6 +2441,18 @@
     {
       "appid": 2888470,
       "name": "Castle Doombad Classic",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 4231820,
+      "name": "Castlevania: Belmont's Curse",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -18147,6 +18159,18 @@
       "achievement_percent": 0.0
     },
     {
+      "appid": 1574820,
+      "name": "Until Then",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2744010,
       "name": "Urban Jungle",
       "playtime_minutes": 0,
@@ -18185,6 +18209,18 @@
     {
       "appid": 892970,
       "name": "Valheim",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 2828710,
+      "name": "Valor Mortis",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
