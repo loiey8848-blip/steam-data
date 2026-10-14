@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 17,
-  "percent": 73.9,
-  "updated_at_utc": "2026-10-14T00:27:37.939977+00:00",
+  "unlocked": 18,
+  "percent": 78.3,
+  "updated_at_utc": "2026-10-14T02:24:17.171082+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "DO_EMEGENCY_CALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791944064,
       "name": "A Call for Help",
       "description": ""
     },
