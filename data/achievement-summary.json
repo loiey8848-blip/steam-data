@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-14T02:24:53.394609+00:00",
+  "updated_at_utc": "2026-10-14T04:27:04.051938+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -10781,11 +10781,11 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 567,
-      "playtime_hours": 9.4,
-      "last_played_unix": 1763438882,
-      "last_played_utc": "2025-11-18T04:08:02+00:00",
-      "recent": false,
+      "playtime_minutes": 597,
+      "playtime_hours": 9.9,
+      "last_played_unix": 1791950372,
+      "last_played_utc": "2026-10-14T03:59:32+00:00",
+      "recent": true,
       "achievements_unlocked": 25,
       "achievements_total": 38,
       "achievement_percent": 65.8
@@ -14033,14 +14033,14 @@
     {
       "appid": 2333000,
       "name": "Silver Pines",
-      "playtime_minutes": 963,
-      "playtime_hours": 16.1,
-      "last_played_unix": 1791944018,
-      "last_played_utc": "2026-10-14T02:13:38+00:00",
+      "playtime_minutes": 1032,
+      "playtime_hours": 17.2,
+      "last_played_unix": 1791948185,
+      "last_played_utc": "2026-10-14T03:23:05+00:00",
       "recent": true,
-      "achievements_unlocked": 18,
+      "achievements_unlocked": 23,
       "achievements_total": 23,
-      "achievement_percent": 78.3
+      "achievement_percent": 100.0
     },
     {
       "appid": 2101290,

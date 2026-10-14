@@ -3,9 +3,9 @@
   "appid": 2333000,
   "game": "Silver Pines",
   "total": 23,
-  "unlocked": 18,
-  "percent": 78.3,
-  "updated_at_utc": "2026-10-14T02:24:17.171082+00:00",
+  "unlocked": 23,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-14T04:26:29.703415+00:00",
   "achievements": [
     {
       "apiname": "DEFEAT_FIRST_BOSS",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "ENDING_C",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791948177,
       "name": "Ending: Live",
       "description": ""
     },
@@ -100,22 +100,22 @@
     },
     {
       "apiname": "MAX_INVENTORY_UPGRADES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791946465,
       "name": "Walking Storage Box",
       "description": "Find all inventory upgrades"
     },
     {
       "apiname": "MAX_STAMINA_UPGRADES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791945505,
       "name": "This is my 7th Cup Today",
       "description": "Find all stamina upgrades"
     },
     {
       "apiname": "FIND_ALL_MEMENTOS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791947656,
       "name": "Burden of Memories ",
       "description": "Find all mementos"
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "UNLOCK_ALL_MEMENTO_SLOTS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791947255,
       "name": "Memento Mori ",
       "description": "Unlock all memento slots "
     },
