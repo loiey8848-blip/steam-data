@@ -3,9 +3,9 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 25,
-  "percent": 65.8,
-  "updated_at_utc": "2026-10-14T04:26:57.360723+00:00",
+  "unlocked": 26,
+  "percent": 68.4,
+  "updated_at_utc": "2026-10-14T06:29:57.436249+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "40_TAGMISSION_NORMAL_COMPLETE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1791954254,
       "name": "The Power of Two",
       "description": ""
     }
