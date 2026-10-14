@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-14T06:30:04.425814+00:00",
+  "updated_at_utc": "2026-10-14T08:28:59.115154+00:00",
   "games": [
     {
       "appid": 921780,
@@ -157,6 +157,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 266,
+      "playtime_forever": 833,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 833,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
       "playtime_2weeks": 245,
@@ -185,17 +196,6 @@
       "playtime_forever": 187,
       "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
       "playtime_windows_forever": 187,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 150,
-      "playtime_forever": 717,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 717,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
