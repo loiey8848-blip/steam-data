@@ -1,0 +1,284 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2828710,
+  "game": "Valor Mortis",
+  "total": 39,
+  "unlocked": 1,
+  "percent": 2.6,
+  "updated_at_utc": "2026-10-15T04:26:19.170263+00:00",
+  "achievements": [
+    {
+      "apiname": "NepthisSuperioris",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nephtis Superioris",
+      "description": "Obtain all achievements"
+    },
+    {
+      "apiname": "Vanquisher",
+      "achieved": 1,
+      "unlocktime": 1792033498,
+      "name": "Torn Banner",
+      "description": ""
+    },
+    {
+      "apiname": "TheSilencerOfIron",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultima Ratio Regum",
+      "description": ""
+    },
+    {
+      "apiname": "NotACatPerson",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not a Cat Person",
+      "description": ""
+    },
+    {
+      "apiname": "Quixotry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quixotry",
+      "description": ""
+    },
+    {
+      "apiname": "MyDyingBride",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Dying Bride",
+      "description": ""
+    },
+    {
+      "apiname": "TrueOath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Oath",
+      "description": ""
+    },
+    {
+      "apiname": "LamentOfTheLimbs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lament of The Limbs",
+      "description": ""
+    },
+    {
+      "apiname": "Birdwatcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birdwatcher",
+      "description": ""
+    },
+    {
+      "apiname": "NoMercy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coup de Grâce",
+      "description": ""
+    },
+    {
+      "apiname": "Behemoth",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Behemoth",
+      "description": ""
+    },
+    {
+      "apiname": "SelfSlain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In His Own Image",
+      "description": ""
+    },
+    {
+      "apiname": "ArsenalAbsolute",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arsenal Absolute",
+      "description": "Unlock all weapons and transmutations"
+    },
+    {
+      "apiname": "WeWearTheSameColors",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Wear the Same Colors",
+      "description": "Defeat all Eternal Guardists"
+    },
+    {
+      "apiname": "GunOfGlory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gun of Glory",
+      "description": "Upgrade a single firearm to maximum"
+    },
+    {
+      "apiname": "Jeweller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ambersmith",
+      "description": "Gather all Ambers"
+    },
+    {
+      "apiname": "FinalForm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Transmutation Artifex",
+      "description": "Upgrade a single Transmutation to maximum"
+    },
+    {
+      "apiname": "SteelSanctified",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bladesmith",
+      "description": "Upgrade a single melee weapon to maximum"
+    },
+    {
+      "apiname": "AerialAnnihilation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aerial Annihilation",
+      "description": "Kill an enemy with a headshot after a wall jump"
+    },
+    {
+      "apiname": "ElegyInFiveActs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scattershot",
+      "description": "Kill 5 enemies with a single Blunderbuss shot"
+    },
+    {
+      "apiname": "LethalVelocity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Windhover",
+      "description": "Kill 3 enemies with pistol while Airborne Aiming"
+    },
+    {
+      "apiname": "Hoodsnatcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hoodsnatcher",
+      "description": "Decapitate 3 enemies with a single Claymore attack"
+    },
+    {
+      "apiname": "DanceOfTheDuelist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Symphony of Steel",
+      "description": "Perform 10 parries without taking damage"
+    },
+    {
+      "apiname": "FlameFeast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flame Feast",
+      "description": "Set 4 enemies on fire with a single flamethrower use"
+    },
+    {
+      "apiname": "StatueOfInsanity",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Statue of Insanity",
+      "description": "Fully lock Remnant of the Iron Regiment enemy in Stasis."
+    },
+    {
+      "apiname": "AbyssalEviction",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Abyssal Eviction",
+      "description": "Kill an enemy by pushing them into the abyss with Shield Bash"
+    },
+    {
+      "apiname": "DrumSolo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Single Stroke",
+      "description": "Shoot off a Risen Grenadier’s bucket"
+    },
+    {
+      "apiname": "GodsTrigger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "God's Trigger",
+      "description": "Land 10 consecutive headshots or weak point hits without missing"
+    },
+    {
+      "apiname": "FrenziedFlame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Frenzied Flame",
+      "description": "Ignite the bonfire in the castle"
+    },
+    {
+      "apiname": "AbyssAccepted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mind the Gap",
+      "description": "Die by falling into the abyss"
+    },
+    {
+      "apiname": "RookieMistake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rookie Mistake",
+      "description": "Attempt to use Ferro Flask with none remaining"
+    },
+    {
+      "apiname": "JustInTime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In the Nick of Time",
+      "description": "Interact with a lantern while below 20% health and no flasks remaining"
+    },
+    {
+      "apiname": "FightFireWithFire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fight Fire With Fire",
+      "description": "Ignite an enemy while you are also ignited"
+    },
+    {
+      "apiname": "JackKnife",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jack-knife",
+      "description": "Deal damage with every melee weapon, firearm, and transmutation without dying"
+    },
+    {
+      "apiname": "DoctorsLittleHelper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bitter Cure",
+      "description": ""
+    },
+    {
+      "apiname": "BloodAndWine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Blood and Wine",
+      "description": ""
+    },
+    {
+      "apiname": "KingOfBees",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hand in the Jar",
+      "description": ""
+    },
+    {
+      "apiname": "AggressiveReconnaissance",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aggressive Reconnaissance",
+      "description": ""
+    },
+    {
+      "apiname": "TheBookOfBeasts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Book of Beasts",
+      "description": ""
+    }
+  ]
+}
