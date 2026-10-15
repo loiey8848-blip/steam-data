@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T18:04:08.668809+00:00",
+  "updated_at_utc": "2026-10-15T22:57:34.596107+00:00",
   "games": [
     {
       "appid": 921780,
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 601430,
-      "name": "The Evil Within 2",
-      "playtime_2weeks": 416,
-      "playtime_forever": 1625,
-      "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
-      "playtime_windows_forever": 1625,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 350,
@@ -168,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1939970,
-      "name": "Nobody Wants to Die",
-      "playtime_2weeks": 211,
-      "playtime_forever": 313,
-      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
-      "playtime_windows_forever": 313,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 200,
@@ -190,12 +168,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1939970,
+      "name": "Nobody Wants to Die",
+      "playtime_2weeks": 189,
+      "playtime_forever": 313,
+      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
+      "playtime_windows_forever": 313,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 651500,
       "name": "My Memory of Us",
       "playtime_2weeks": 175,
       "playtime_forever": 187,
       "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
       "playtime_windows_forever": 187,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 601430,
+      "name": "The Evil Within 2",
+      "playtime_2weeks": 145,
+      "playtime_forever": 1625,
+      "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
+      "playtime_windows_forever": 1625,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
