@@ -1,63 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T13:09:04.416719+00:00",
+  "updated_at_utc": "2026-10-15T18:04:08.668809+00:00",
   "owned_games": 1643,
-  "new_games": [
-    {
-      "appid": 1083790,
-      "name": "Deathbulge: Battle of the Bands",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1085220,
-      "name": "Figment 2: Creed Valley",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1647420,
-      "name": "GROSS",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1479810,
-      "name": "Legendary Hoplite",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 329380,
-      "name": "Stealth Inc 2",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 638000,
-      "name": "When Ski Lifts Go Wrong ",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -8310,7 +8255,7 @@
       "playtime_hours": 1.0,
       "last_played_unix": 1790874600,
       "last_played_utc": "2026-10-01T17:10:00+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 2676840,

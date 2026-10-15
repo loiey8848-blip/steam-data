@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T13:09:04.416719+00:00",
+  "updated_at_utc": "2026-10-15T18:04:08.668809+00:00",
   "games": [
     {
       "appid": 921780,
@@ -115,7 +115,7 @@
     {
       "appid": 601430,
       "name": "The Evil Within 2",
-      "playtime_2weeks": 463,
+      "playtime_2weeks": 416,
       "playtime_forever": 1625,
       "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
       "playtime_windows_forever": 1625,
@@ -170,7 +170,7 @@
     {
       "appid": 1939970,
       "name": "Nobody Wants to Die",
-      "playtime_2weeks": 245,
+      "playtime_2weeks": 211,
       "playtime_forever": 313,
       "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
       "playtime_windows_forever": 313,
@@ -245,28 +245,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 75,
-      "playtime_forever": 470,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 470,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1488490,
-      "name": "Nivalis Nights",
-      "playtime_2weeks": 58,
-      "playtime_forever": 58,
-      "img_icon_url": "dc05e2e6e05b465f71434d3e40801ade2f8203ea",
-      "playtime_windows_forever": 58,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1164940,
       "name": "Trepang2",
       "playtime_2weeks": 45,
@@ -300,12 +278,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 18,
+      "playtime_forever": 470,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 470,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1588550,
       "name": "Cairn",
       "playtime_2weeks": 15,
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 2,
+      "playtime_forever": 311,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 311,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
