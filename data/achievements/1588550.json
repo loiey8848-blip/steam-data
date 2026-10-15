@@ -1,0 +1,375 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1588550,
+  "game": "Cairn",
+  "total": 52,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-15T13:08:12.376030+00:00",
+  "achievements": [
+    {
+      "apiname": "ReachTenzingTop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mandatory warm-up",
+      "description": ""
+    },
+    {
+      "apiname": "MeetBrokenClimbot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those who come back down",
+      "description": ""
+    },
+    {
+      "apiname": "Shower",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moment of cool",
+      "description": ""
+    },
+    {
+      "apiname": "MeetMarco",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interloper on the wall",
+      "description": ""
+    },
+    {
+      "apiname": "AuroraBorealis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everything else disappears",
+      "description": ""
+    },
+    {
+      "apiname": "Nightmare",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One hell of a night",
+      "description": ""
+    },
+    {
+      "apiname": "MeetDamas",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Neither a success, nor a failure",
+      "description": ""
+    },
+    {
+      "apiname": "SurviveAvalanche",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upstream",
+      "description": ""
+    },
+    {
+      "apiname": "ReachSummit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Part of a whole",
+      "description": ""
+    },
+    {
+      "apiname": "FallSurvive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Not even a scratch",
+      "description": "Survive a 15-meter fall"
+    },
+    {
+      "apiname": "FallPitonMinigame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just a bit too late",
+      "description": "Fall while planting a piton"
+    },
+    {
+      "apiname": "FreeSolo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Don't stop me now",
+      "description": "Climb 30 meters without using a piton"
+    },
+    {
+      "apiname": "GymBox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Serious training",
+      "description": "Open the box in the gym room"
+    },
+    {
+      "apiname": "JumpOnWall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ain't scared",
+      "description": "Jump from the ground and latch onto the wall"
+    },
+    {
+      "apiname": "Honey",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Honest heist",
+      "description": "Collect wild honey from the wall"
+    },
+    {
+      "apiname": "CompostTrash",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leave no trace",
+      "description": "Compost 10 trash items"
+    },
+    {
+      "apiname": "Fish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kami sashimi",
+      "description": "Catch a fish"
+    },
+    {
+      "apiname": "FrogLick",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lick responsibly",
+      "description": ""
+    },
+    {
+      "apiname": "Grouik",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Return to Source",
+      "description": ""
+    },
+    {
+      "apiname": "RecycleMoney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Luxurious grip",
+      "description": ""
+    },
+    {
+      "apiname": "GlowingGloves",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All that glitters",
+      "description": ""
+    },
+    {
+      "apiname": "Infusion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Herbalist",
+      "description": "Cook the ultimate infusion"
+    },
+    {
+      "apiname": "CookFunny",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master chocolatier",
+      "description": "Cook up an easter egg"
+    },
+    {
+      "apiname": "BoozeCocktail",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Red Rope Club",
+      "description": "Make an alcoholic cocktail"
+    },
+    {
+      "apiname": "Buffed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Doped up",
+      "description": "Combine the effects of burst, grip, extra grip, focus and grit in one go"
+    },
+    {
+      "apiname": "MarcoInterrupt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No thanks",
+      "description": ""
+    },
+    {
+      "apiname": "EagleView",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bird’s eye",
+      "description": "Check your route from the remote view mode"
+    },
+    {
+      "apiname": "Bear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grizzly woman",
+      "description": ""
+    },
+    {
+      "apiname": "Fireworks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Light up the sky",
+      "description": ""
+    },
+    {
+      "apiname": "Edelweiss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heartbeat",
+      "description": ""
+    },
+    {
+      "apiname": "FirstGuardianCrystal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Child",
+      "description": ""
+    },
+    {
+      "apiname": "SecondGuardianCrystal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Ancient",
+      "description": ""
+    },
+    {
+      "apiname": "ThirdGuardianCrystal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Secret",
+      "description": ""
+    },
+    {
+      "apiname": "RopeLimit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "End of the Rope",
+      "description": "Reach the furthest extent of the rope"
+    },
+    {
+      "apiname": "OutdoorRest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Siesta",
+      "description": "Enjoy a nice outdoor nap"
+    },
+    {
+      "apiname": "PhotoMode",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Picture for Chris",
+      "description": "Use the photo mode"
+    },
+    {
+      "apiname": "Overkill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close call",
+      "description": "Survive to a near-deadly fall"
+    },
+    {
+      "apiname": "ShakeArm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lactic acid",
+      "description": "Recover stamina by shaking your arm over 50 times"
+    },
+    {
+      "apiname": "TapeFingers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nurse",
+      "description": "Tape your fingers 20 times"
+    },
+    {
+      "apiname": "CraftPitons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Engineer",
+      "description": "Craft 15 pitons from scraps"
+    },
+    {
+      "apiname": "ReachMiniKamiSummit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I did it!",
+      "description": ""
+    },
+    {
+      "apiname": "BagSorted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bag maniac",
+      "description": "Did you really think you could keep your bag tidy?"
+    },
+    {
+      "apiname": "ShepherdessLetter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aava Porter Bridges",
+      "description": ""
+    },
+    {
+      "apiname": "CrystalHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One day, I'll be rich!",
+      "description": ""
+    },
+    {
+      "apiname": "BinocularsMarco",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spotted!",
+      "description": ""
+    },
+    {
+      "apiname": "CorpseFood",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hungry like a wolf",
+      "description": "Loot food from a corpse"
+    },
+    {
+      "apiname": "StormDoll",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meteorologist",
+      "description": "Assemble the 3 doll pieces"
+    },
+    {
+      "apiname": "RecapAscent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Your story",
+      "description": ""
+    },
+    {
+      "apiname": "Kite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Love birds",
+      "description": ""
+    },
+    {
+      "apiname": "Origami",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Memoriam",
+      "description": ""
+    },
+    {
+      "apiname": "JumpRopedIntoVoid",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leap of faith",
+      "description": "Run and jump into the void while on the rope"
+    },
+    {
+      "apiname": "BackHome",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Home",
+      "description": ""
+    }
+  ]
+}

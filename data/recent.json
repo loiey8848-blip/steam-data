@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T06:30:23.963324+00:00",
+  "updated_at_utc": "2026-10-15T13:09:04.416719+00:00",
   "games": [
     {
       "appid": 921780,
@@ -20,17 +20,6 @@
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 601430,
-      "name": "The Evil Within 2",
-      "playtime_2weeks": 861,
-      "playtime_forever": 1625,
-      "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
-      "playtime_windows_forever": 1625,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -124,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 601430,
+      "name": "The Evil Within 2",
+      "playtime_2weeks": 463,
+      "playtime_forever": 1625,
+      "img_icon_url": "823f7bef429bc85a7a68dba32d6f47938fc3b689",
+      "playtime_windows_forever": 1625,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 350,
@@ -201,6 +201,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2828710,
+      "name": "Valor Mortis",
+      "playtime_2weeks": 135,
+      "playtime_forever": 135,
+      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
+      "playtime_windows_forever": 135,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3699590,
       "name": "Well Dweller",
       "playtime_2weeks": 134,
@@ -267,17 +278,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2828710,
-      "name": "Valor Mortis",
-      "playtime_2weeks": 44,
-      "playtime_forever": 44,
-      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 44,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2114740,
       "name": "Blasphemous 2",
       "playtime_2weeks": 41,
@@ -295,6 +295,17 @@
       "playtime_forever": 18,
       "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
       "playtime_windows_forever": 18,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1588550,
+      "name": "Cairn",
+      "playtime_2weeks": 15,
+      "playtime_forever": 15,
+      "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
+      "playtime_windows_forever": 15,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

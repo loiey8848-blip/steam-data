@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T06:30:23.963324+00:00",
+  "updated_at_utc": "2026-10-15T13:09:04.416719+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2237,14 +2237,14 @@
     {
       "appid": 1588550,
       "name": "Cairn",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "playtime_minutes": 15,
+      "playtime_hours": 0.2,
+      "last_played_unix": 1792053673,
+      "last_played_utc": "2026-10-15T08:41:13+00:00",
+      "recent": true,
+      "achievements_unlocked": 0,
+      "achievements_total": 52,
+      "achievement_percent": 0.0
     },
     {
       "appid": 1112890,
@@ -3781,6 +3781,18 @@
       "achievements_unlocked": 0,
       "achievements_total": 24,
       "achievement_percent": 0.0
+    },
+    {
+      "appid": 1083790,
+      "name": "Deathbulge: Battle of the Bands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 705120,
@@ -5667,6 +5679,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1085220,
+      "name": "Figment 2: Creed Valley",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "playtime_minutes": 41,
@@ -6785,6 +6809,18 @@
     {
       "appid": 683320,
       "name": "GRIS",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1647420,
+      "name": "GROSS",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -8945,6 +8981,18 @@
     {
       "appid": 1859910,
       "name": "Legend of Mortal",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1479810,
+      "name": "Legendary Hoplite",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -14967,6 +15015,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 329380,
+      "name": "Stealth Inc 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2134770,
       "name": "SteamWorld Build",
       "playtime_minutes": 0,
@@ -18353,14 +18413,14 @@
     {
       "appid": 2828710,
       "name": "Valor Mortis",
-      "playtime_minutes": 44,
-      "playtime_hours": 0.7,
-      "last_played_unix": 1792045485,
-      "last_played_utc": "2026-10-15T06:24:45+00:00",
+      "playtime_minutes": 135,
+      "playtime_hours": 2.2,
+      "last_played_unix": 1792050943,
+      "last_played_utc": "2026-10-15T07:55:43+00:00",
       "recent": true,
-      "achievements_unlocked": 1,
+      "achievements_unlocked": 8,
       "achievements_total": 39,
-      "achievement_percent": 2.6
+      "achievement_percent": 20.5
     },
     {
       "appid": 3265700,
@@ -18833,6 +18893,18 @@
     {
       "appid": 1175840,
       "name": "Whateverland",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 638000,
+      "name": "When Ski Lifts Go Wrong ",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

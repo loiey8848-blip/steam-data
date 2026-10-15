@@ -3,9 +3,9 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 1,
-  "percent": 2.6,
-  "updated_at_utc": "2026-10-15T06:29:58.515866+00:00",
+  "unlocked": 8,
+  "percent": 20.5,
+  "updated_at_utc": "2026-10-15T13:08:37.970299+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
@@ -163,15 +163,15 @@
     },
     {
       "apiname": "DanceOfTheDuelist",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792047421,
       "name": "Symphony of Steel",
       "description": "Perform 10 parries without taking damage"
     },
     {
       "apiname": "FlameFeast",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792048505,
       "name": "Flame Feast",
       "description": "Set 4 enemies on fire with a single flamethrower use"
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "DrumSolo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792048342,
       "name": "Single Stroke",
       "description": "Shoot off a Risen Grenadier’s bucket"
     },
@@ -212,29 +212,29 @@
     },
     {
       "apiname": "AbyssAccepted",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792045813,
       "name": "Mind the Gap",
       "description": "Die by falling into the abyss"
     },
     {
       "apiname": "RookieMistake",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792045878,
       "name": "Rookie Mistake",
       "description": "Attempt to use Ferro Flask with none remaining"
     },
     {
       "apiname": "JustInTime",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792045908,
       "name": "In the Nick of Time",
       "description": "Interact with a lantern while below 20% health and no flasks remaining"
     },
     {
       "apiname": "FightFireWithFire",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792047613,
       "name": "Fight Fire With Fire",
       "description": "Ignite an enemy while you are also ignited"
     },

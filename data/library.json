@@ -1,8 +1,63 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T06:30:23.963324+00:00",
-  "owned_games": 1637,
-  "new_games": [],
+  "updated_at_utc": "2026-10-15T13:09:04.416719+00:00",
+  "owned_games": 1643,
+  "new_games": [
+    {
+      "appid": 1083790,
+      "name": "Deathbulge: Battle of the Bands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1085220,
+      "name": "Figment 2: Creed Valley",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1647420,
+      "name": "GROSS",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1479810,
+      "name": "Legendary Hoplite",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 329380,
+      "name": "Stealth Inc 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 638000,
+      "name": "When Ski Lifts Go Wrong ",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1681,11 +1736,11 @@
     {
       "appid": 1588550,
       "name": "Cairn",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 15,
+      "playtime_hours": 0.2,
+      "last_played_unix": 1792053673,
+      "last_played_utc": "2026-10-15T08:41:13+00:00",
+      "recent": true
     },
     {
       "appid": 1112890,
@@ -2837,6 +2892,15 @@
       "playtime_hours": 0.1,
       "last_played_unix": 1730794250,
       "last_played_utc": "2024-11-05T08:10:50+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1083790,
+      "name": "Deathbulge: Battle of the Bands",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -4253,6 +4317,15 @@
       "recent": false
     },
     {
+      "appid": 1085220,
+      "name": "Figment 2: Creed Valley",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "playtime_minutes": 41,
@@ -5092,6 +5165,15 @@
     {
       "appid": 683320,
       "name": "GRIS",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1647420,
+      "name": "GROSS",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -6712,6 +6794,15 @@
     {
       "appid": 1859910,
       "name": "Legend of Mortal",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1479810,
+      "name": "Legendary Hoplite",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11228,6 +11319,15 @@
       "recent": false
     },
     {
+      "appid": 329380,
+      "name": "Stealth Inc 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2134770,
       "name": "SteamWorld Build",
       "playtime_minutes": 0,
@@ -13768,10 +13868,10 @@
     {
       "appid": 2828710,
       "name": "Valor Mortis",
-      "playtime_minutes": 44,
-      "playtime_hours": 0.7,
-      "last_played_unix": 1792045485,
-      "last_played_utc": "2026-10-15T06:24:45+00:00",
+      "playtime_minutes": 135,
+      "playtime_hours": 2.2,
+      "last_played_unix": 1792050943,
+      "last_played_utc": "2026-10-15T07:55:43+00:00",
       "recent": true
     },
     {
@@ -14128,6 +14228,15 @@
     {
       "appid": 1175840,
       "name": "Whateverland",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 638000,
+      "name": "When Ski Lifts Go Wrong ",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
