@@ -1,8 +1,99 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-15T00:27:37.654577+00:00",
-  "owned_games": 1627,
-  "new_games": [],
+  "updated_at_utc": "2026-10-15T02:26:57.907246+00:00",
+  "owned_games": 1637,
+  "new_games": [
+    {
+      "appid": 4935510,
+      "name": "Cellar Keeper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1229580,
+      "name": "Disc Room",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3326230,
+      "name": "Hozy",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 907470,
+      "name": "Iris.Fall",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3079770,
+      "name": "Kokoro Kitchen",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2090390,
+      "name": "Schrödinger's Call",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4928820,
+      "name": "Shelve the Potions!",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4992070,
+      "name": "Sort Them Ducks",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3501540,
+      "name": "Spiritstead",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 651670,
+      "name": "Star Renegades",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1940,6 +2031,15 @@
       "recent": false
     },
     {
+      "appid": 4935510,
+      "name": "Cellar Keeper",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 918570,
       "name": "Century: Age of Ashes",
       "playtime_minutes": 12,
@@ -3067,6 +3167,15 @@
     {
       "appid": 4249140,
       "name": "Dino Crisis 2",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1229580,
+      "name": "Disc Room",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -5792,6 +5901,15 @@
       "recent": false
     },
     {
+      "appid": 3326230,
+      "name": "Hozy",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 477160,
       "name": "Human Fall Flat",
       "playtime_minutes": 680,
@@ -6118,6 +6236,15 @@
     {
       "appid": 1127610,
       "name": "Iris and the giant",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 907470,
+      "name": "Iris.Fall",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -6487,6 +6614,15 @@
     {
       "appid": 1626620,
       "name": "Koira",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3079770,
+      "name": "Kokoro Kitchen",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -10103,6 +10239,15 @@
       "recent": false
     },
     {
+      "appid": 2090390,
+      "name": "Schrödinger's Call",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 698670,
       "name": "Scorn",
       "playtime_minutes": 127,
@@ -10303,6 +10448,15 @@
     {
       "appid": 3862670,
       "name": "Shelldiver",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4928820,
+      "name": "Shelve the Potions!",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -10922,6 +11076,15 @@
       "recent": false
     },
     {
+      "appid": 4992070,
+      "name": "Sort Them Ducks",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2475460,
       "name": "SOS OPS!",
       "playtime_minutes": 0,
@@ -11012,6 +11175,15 @@
       "recent": false
     },
     {
+      "appid": 3501540,
+      "name": "Spiritstead",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2001120,
       "name": "Split Fiction",
       "playtime_minutes": 3473,
@@ -11041,6 +11213,15 @@
     {
       "appid": 115110,
       "name": "Stacking",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 651670,
+      "name": "Star Renegades",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13680,8 +13861,8 @@
       "name": "Valor Mortis",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
+      "last_played_unix": 1792030859,
+      "last_played_utc": "2026-10-15T02:20:59+00:00",
       "recent": false
     },
     {
