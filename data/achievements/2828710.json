@@ -3,9 +3,9 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 8,
-  "percent": 20.5,
-  "updated_at_utc": "2026-10-15T22:57:06.413926+00:00",
+  "unlocked": 10,
+  "percent": 25.6,
+  "updated_at_utc": "2026-10-16T03:21:13.527870+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "TheSilencerOfIron",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792117275,
       "name": "Ultima Ratio Regum",
       "description": ""
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "GodsTrigger",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792117232,
       "name": "God's Trigger",
       "description": "Land 10 consecutive headshots or weak point hits without missing"
     },
