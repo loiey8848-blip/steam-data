@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T19:23:29.574807+00:00",
+  "updated_at_utc": "2026-10-16T22:37:14.348272+00:00",
   "games": [
     {
       "appid": 921780,
@@ -146,6 +146,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 312,
+      "playtime_forever": 621,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 621,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 284,
@@ -196,17 +207,6 @@
       "playtime_forever": 134,
       "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
       "playtime_windows_forever": 134,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 122,
-      "playtime_forever": 431,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 431,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
