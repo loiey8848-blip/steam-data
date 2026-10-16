@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T14:36:53.852111+00:00",
+  "updated_at_utc": "2026-10-16T19:23:29.574807+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 3111,
+      "playtime_2weeks": 3043,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -201,6 +201,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 122,
+      "playtime_forever": 431,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 431,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 821250,
       "name": "Flotsam",
       "playtime_2weeks": 81,
@@ -251,17 +262,6 @@
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 2,
-      "playtime_forever": 311,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 311,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
