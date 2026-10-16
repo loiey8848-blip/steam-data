@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T03:21:39.216706+00:00",
+  "updated_at_utc": "2026-10-16T08:49:49.242079+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -11073,7 +11073,7 @@
       "playtime_hours": 5.2,
       "last_played_unix": 1790915433,
       "last_played_utc": "2026-10-02T04:30:33+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 26,
       "achievements_total": 26,
       "achievement_percent": 100.0
@@ -18413,14 +18413,14 @@
     {
       "appid": 2828710,
       "name": "Valor Mortis",
-      "playtime_minutes": 224,
-      "playtime_hours": 3.7,
-      "last_played_unix": 1792117569,
-      "last_played_utc": "2026-10-16T02:26:09+00:00",
+      "playtime_minutes": 406,
+      "playtime_hours": 6.8,
+      "last_played_unix": 1792140092,
+      "last_played_utc": "2026-10-16T08:41:32+00:00",
       "recent": true,
-      "achievements_unlocked": 10,
+      "achievements_unlocked": 13,
       "achievements_total": 39,
-      "achievement_percent": 25.6
+      "achievement_percent": 33.3
     },
     {
       "appid": 3265700,

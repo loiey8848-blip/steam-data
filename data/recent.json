@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T03:21:39.216706+00:00",
+  "updated_at_utc": "2026-10-16T08:49:49.242079+00:00",
   "games": [
     {
       "appid": 921780,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2828710,
+      "name": "Valor Mortis",
+      "playtime_2weeks": 406,
+      "playtime_forever": 406,
+      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
+      "playtime_windows_forever": 406,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 350,
@@ -152,17 +163,6 @@
       "playtime_forever": 269,
       "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
       "playtime_windows_forever": 269,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2828710,
-      "name": "Valor Mortis",
-      "playtime_2weeks": 224,
-      "playtime_forever": 224,
-      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 224,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -214,21 +214,10 @@
     {
       "appid": 4073860,
       "name": "Sludgineers",
-      "playtime_2weeks": 117,
+      "playtime_2weeks": 52,
       "playtime_forever": 117,
       "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
       "playtime_windows_forever": 117,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1939970,
-      "name": "Nobody Wants to Die",
-      "playtime_2weeks": 72,
-      "playtime_forever": 313,
-      "img_icon_url": "1fbd73662518e62bb2b65571cb99f631e409a0fc",
-      "playtime_windows_forever": 313,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

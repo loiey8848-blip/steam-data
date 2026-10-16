@@ -3,9 +3,9 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 10,
-  "percent": 25.6,
-  "updated_at_utc": "2026-10-16T03:21:13.527870+00:00",
+  "unlocked": 13,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-16T08:49:22.306822+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "NotACatPerson",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792136454,
       "name": "Not a Cat Person",
       "description": ""
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "StatueOfInsanity",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792137352,
       "name": "Statue of Insanity",
       "description": "Fully lock Remnant of the Iron Regiment enemy in Stasis."
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "AggressiveReconnaissance",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792131434,
       "name": "Aggressive Reconnaissance",
       "description": ""
     },
