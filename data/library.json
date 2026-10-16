@@ -1,7 +1,7 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T08:49:49.242079+00:00",
-  "owned_games": 1643,
+  "updated_at_utc": "2026-10-16T14:36:53.852111+00:00",
+  "owned_games": 1642,
   "new_games": [],
   "games": [
     {
@@ -1712,15 +1712,6 @@
       "playtime_hours": 183.4,
       "last_played_unix": 1743144488,
       "last_played_utc": "2025-03-28T06:48:08+00:00",
-      "recent": false
-    },
-    {
-      "appid": 4783780,
-      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
-      "playtime_minutes": 54,
-      "playtime_hours": 0.9,
-      "last_played_unix": 1787420038,
-      "last_played_utc": "2026-08-22T17:33:58+00:00",
       "recent": false
     },
     {
@@ -3674,7 +3665,7 @@
       "playtime_hours": 7.8,
       "last_played_unix": 1790945282,
       "last_played_utc": "2026-10-02T12:48:02+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 1654660,
@@ -10856,7 +10847,7 @@
       "playtime_hours": 1.9,
       "last_played_unix": 1790933939,
       "last_played_utc": "2026-10-02T09:38:59+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 3151380,
@@ -13813,10 +13804,10 @@
     {
       "appid": 2828710,
       "name": "Valor Mortis",
-      "playtime_minutes": 406,
-      "playtime_hours": 6.8,
-      "last_played_unix": 1792140092,
-      "last_played_utc": "2026-10-16T08:41:32+00:00",
+      "playtime_minutes": 428,
+      "playtime_hours": 7.1,
+      "last_played_unix": 1792141410,
+      "last_played_utc": "2026-10-16T09:03:30+00:00",
       "recent": true
     },
     {

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T08:49:49.242079+00:00",
+  "updated_at_utc": "2026-10-16T14:36:53.852111+00:00",
   "games": [
     {
       "appid": 921780,
@@ -115,10 +115,10 @@
     {
       "appid": 2828710,
       "name": "Valor Mortis",
-      "playtime_2weeks": 406,
-      "playtime_forever": 406,
+      "playtime_2weeks": 428,
+      "playtime_forever": 428,
       "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 406,
+      "playtime_windows_forever": 428,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -203,21 +203,10 @@
     {
       "appid": 821250,
       "name": "Flotsam",
-      "playtime_2weeks": 126,
+      "playtime_2weeks": 81,
       "playtime_forever": 126,
       "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
       "playtime_windows_forever": 126,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4073860,
-      "name": "Sludgineers",
-      "playtime_2weeks": 52,
-      "playtime_forever": 117,
-      "img_icon_url": "c4c3ce87df6a8402283da8745ae41b1dc18051e1",
-      "playtime_windows_forever": 117,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -251,17 +240,6 @@
       "playtime_forever": 18,
       "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
       "playtime_windows_forever": 18,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 18,
-      "playtime_forever": 470,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 470,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
