@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 14,
-  "percent": 37.8,
-  "updated_at_utc": "2026-10-17T16:53:59.727240+00:00",
+  "unlocked": 18,
+  "percent": 48.6,
+  "updated_at_utc": "2026-10-17T20:13:51.803262+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "ACH06",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792261179,
       "name": "Dawn",
       "description": ""
     },
@@ -93,22 +93,22 @@
     },
     {
       "apiname": "ACH12",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792256064,
       "name": "Darkdrift Knight",
       "description": ""
     },
     {
       "apiname": "ACH13",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792258601,
       "name": "Fissure in the Fog",
       "description": ""
     },
     {
       "apiname": "ACH14",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792261100,
       "name": "Night Aspect",
       "description": ""
     },

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-17T16:54:28.363991+00:00",
+  "updated_at_utc": "2026-10-17T20:14:19.694669+00:00",
   "games": [
     {
       "appid": 921780,
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 359,
+      "playtime_forever": 562,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 562,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2688570,
       "name": "The Inn-Sanity",
       "playtime_2weeks": 328,
@@ -174,17 +185,6 @@
       "playtime_forever": 269,
       "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
       "playtime_windows_forever": 269,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 240,
-      "playtime_forever": 443,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 443,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
