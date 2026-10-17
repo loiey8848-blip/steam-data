@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 5,
-  "percent": 13.5,
-  "updated_at_utc": "2026-10-17T13:31:14.022843+00:00",
+  "unlocked": 14,
+  "percent": 37.8,
+  "updated_at_utc": "2026-10-17T16:53:59.727240+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "ACH03",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792253301,
       "name": "Night Begins",
       "description": ""
     },
@@ -65,15 +65,15 @@
     },
     {
       "apiname": "ACH08",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792247737,
       "name": "Gaping Jaw",
       "description": ""
     },
     {
       "apiname": "ACH09",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792250533,
       "name": "Sentient Pest",
       "description": ""
     },
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ACH11",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792253253,
       "name": "Equilibrious Beast",
       "description": ""
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ACH17",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792253541,
       "name": "Dresser",
       "description": "Changed garb via dresser for the first time"
     },
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "ACH19",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792246552,
       "name": "Legendary Armament",
       "description": "Acquired a legendary armament for the first time"
     },
     {
       "apiname": "ACH20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792252291,
       "name": "Mountaintop",
       "description": ""
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "ACH27",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792252441,
       "name": "Mastery",
       "description": ""
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ACH36",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792250533,
       "name": "Nightlord Slayer",
       "description": ""
     }

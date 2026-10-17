@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-17T13:31:41.611965+00:00",
+  "updated_at_utc": "2026-10-17T16:54:28.363991+00:00",
   "games": [
     {
       "appid": 921780,
@@ -135,23 +135,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 348,
-      "playtime_forever": 350,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2688570,
       "name": "The Inn-Sanity",
       "playtime_2weeks": 328,
       "playtime_forever": 328,
       "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
       "playtime_windows_forever": 328,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 293,
+      "playtime_forever": 350,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 350,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -170,10 +170,21 @@
     {
       "appid": 1627840,
       "name": "Universe For Sale",
-      "playtime_2weeks": 269,
+      "playtime_2weeks": 254,
       "playtime_forever": 269,
       "img_icon_url": "80cab602e091a12db31b606a765499f8ddc829d4",
       "playtime_windows_forever": 269,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 240,
+      "playtime_forever": 443,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 443,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -207,17 +218,6 @@
       "playtime_forever": 134,
       "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
       "playtime_windows_forever": 134,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 60,
-      "playtime_forever": 263,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 263,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
