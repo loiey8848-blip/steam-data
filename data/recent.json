@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-17T08:20:18.081017+00:00",
+  "updated_at_utc": "2026-10-17T13:31:41.611965+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2819,
+      "playtime_2weeks": 2520,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -137,7 +137,7 @@
     {
       "appid": 3372060,
       "name": "Hell Maiden",
-      "playtime_2weeks": 350,
+      "playtime_2weeks": 348,
       "playtime_forever": 350,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 350,
@@ -207,6 +207,17 @@
       "playtime_forever": 134,
       "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
       "playtime_windows_forever": 134,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 60,
+      "playtime_forever": 263,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 263,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
