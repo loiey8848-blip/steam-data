@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-16T22:37:14.348272+00:00",
+  "updated_at_utc": "2026-10-17T03:12:07.386483+00:00",
   "games": [
     {
       "appid": 921780,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 484,
+      "playtime_forever": 793,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 793,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2828710,
       "name": "Valor Mortis",
       "playtime_2weeks": 428,
@@ -141,17 +152,6 @@
       "playtime_forever": 328,
       "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
       "playtime_windows_forever": 328,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 312,
-      "playtime_forever": 621,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 621,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -212,17 +212,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 821250,
-      "name": "Flotsam",
-      "playtime_2weeks": 81,
-      "playtime_forever": 126,
-      "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
-      "playtime_windows_forever": 126,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1164940,
       "name": "Trepang2",
       "playtime_2weeks": 45,
@@ -240,6 +229,17 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 821250,
+      "name": "Flotsam",
+      "playtime_2weeks": 19,
+      "playtime_forever": 126,
+      "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
+      "playtime_windows_forever": 126,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
