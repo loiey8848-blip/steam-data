@@ -3,9 +3,9 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 13,
-  "percent": 33.3,
-  "updated_at_utc": "2026-10-17T03:11:47.944998+00:00",
+  "unlocked": 17,
+  "percent": 43.6,
+  "updated_at_utc": "2026-10-17T08:19:56.113253+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
@@ -37,22 +37,22 @@
     },
     {
       "apiname": "Quixotry",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792212493,
       "name": "Quixotry",
       "description": ""
     },
     {
       "apiname": "MyDyingBride",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792214743,
       "name": "My Dying Bride",
       "description": ""
     },
     {
       "apiname": "TrueOath",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792221027,
       "name": "True Oath",
       "description": ""
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "BloodAndWine",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792218859,
       "name": "Blood and Wine",
       "description": ""
     },

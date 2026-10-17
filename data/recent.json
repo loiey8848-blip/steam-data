@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-17T03:12:07.386483+00:00",
+  "updated_at_utc": "2026-10-17T08:20:18.081017+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 3043,
+      "playtime_2weeks": 2819,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -45,6 +45,17 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 29,
       "playtime_deck_forever": 29
+    },
+    {
+      "appid": 2828710,
+      "name": "Valor Mortis",
+      "playtime_2weeks": 643,
+      "playtime_forever": 643,
+      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
+      "playtime_windows_forever": 643,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     },
     {
       "appid": 2215200,
@@ -119,17 +130,6 @@
       "playtime_forever": 793,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 793,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2828710,
-      "name": "Valor Mortis",
-      "playtime_2weeks": 428,
-      "playtime_forever": 428,
-      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 428,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -229,28 +229,6 @@
       "playtime_forever": 41,
       "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
       "playtime_windows_forever": 41,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 821250,
-      "name": "Flotsam",
-      "playtime_2weeks": 19,
-      "playtime_forever": 126,
-      "img_icon_url": "904a15d401d4cb31d19270e0862441663bbe9d6e",
-      "playtime_windows_forever": 126,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1298140,
-      "name": "Fobia - St. Dinfna Hotel",
-      "playtime_2weeks": 18,
-      "playtime_forever": 18,
-      "img_icon_url": "ced55561576d98a21322c1f3435ef40337a41e43",
-      "playtime_windows_forever": 18,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
