@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4934370,
+  "game": "TV Archive: Tidy Up Together",
+  "total": 15,
+  "unlocked": 6,
+  "percent": 40.0,
+  "updated_at_utc": "2026-10-18T13:49:43.928302+00:00",
+  "achievements": [
+    {
+      "apiname": "FIRSTBOOK",
+      "achieved": 1,
+      "unlocktime": 1792313242,
+      "name": "First Videotape",
+      "description": "Place the first videotape correctly"
+    },
+    {
+      "apiname": "FIRSTROW",
+      "achieved": 1,
+      "unlocktime": 1792314002,
+      "name": "First Shelf Row",
+      "description": "Complete the first shelf row"
+    },
+    {
+      "apiname": "UNLOCKSKILL",
+      "achieved": 1,
+      "unlocktime": 1792313426,
+      "name": "Unlock First Skill",
+      "description": "Unlock your first skill"
+    },
+    {
+      "apiname": "FIRSTSKILL",
+      "achieved": 1,
+      "unlocktime": 1792313448,
+      "name": "First Skill",
+      "description": "Use your first skill"
+    },
+    {
+      "apiname": "TUTORIAL",
+      "achieved": 1,
+      "unlocktime": 1792318510,
+      "name": "Tutorials",
+      "description": "Complete the tutorials"
+    },
+    {
+      "apiname": "ROWSA",
+      "achieved": 1,
+      "unlocktime": 1792324069,
+      "name": "30 Shelf Rows",
+      "description": "Fill up 30 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSB",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "50 Shelf Rows",
+      "description": "Fill up 50 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "100 Shelf Rows",
+      "description": "Fill up 100 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "150 Shelf Rows",
+      "description": "Fill up 150 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "200 Shelf Rows",
+      "description": "Fill up 200 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "250 Shelf Rows",
+      "description": "Fill up 250 shelf rows correctly"
+    },
+    {
+      "apiname": "ROWSG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "300 Shelf Rows",
+      "description": "Fill up 300 shelf rows correctly"
+    },
+    {
+      "apiname": "SKILLMASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skill Master",
+      "description": "Unlock all skills on the skill tree"
+    },
+    {
+      "apiname": "SPEEDY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Speedy Organizer",
+      "description": "Complete the game within six hours"
+    },
+    {
+      "apiname": "MASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Archive Master",
+      "description": "Complete the game without using any skills"
+    }
+  ]
+}
