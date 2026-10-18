@@ -1,5 +1,20 @@
 {
-  "updated_at_utc": "2026-10-18T03:15:09.303095+00:00",
-  "count": 0,
-  "games": []
+  "updated_at_utc": "2026-10-18T08:37:37.456642+00:00",
+  "count": 1,
+  "games": [
+    {
+      "appid": 3314340,
+      "priority": 0,
+      "date_added_unix": 1792299267,
+      "date_added_utc": "2026-10-18T04:54:27+00:00",
+      "steam_url": "https://store.steampowered.com/app/3314340/",
+      "name": "Burgie's Cozy Kitchen",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 27.9,
+      "price_final_cny": 19.53,
+      "discount_percent": 30
+    }
+  ]
 }
