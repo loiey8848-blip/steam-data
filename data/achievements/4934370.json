@@ -3,9 +3,9 @@
   "appid": 4934370,
   "game": "TV Archive: Tidy Up Together",
   "total": 15,
-  "unlocked": 6,
-  "percent": 40.0,
-  "updated_at_utc": "2026-10-18T13:49:43.928302+00:00",
+  "unlocked": 8,
+  "percent": 53.3,
+  "updated_at_utc": "2026-10-18T17:08:42.728212+00:00",
   "achievements": [
     {
       "apiname": "FIRSTBOOK",
@@ -51,15 +51,15 @@
     },
     {
       "apiname": "ROWSB",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792337149,
       "name": "50 Shelf Rows",
       "description": "Fill up 50 shelf rows correctly"
     },
     {
       "apiname": "ROWSC",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792339655,
       "name": "100 Shelf Rows",
       "description": "Fill up 100 shelf rows correctly"
     },
