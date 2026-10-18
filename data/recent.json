@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-18T20:12:31.451977+00:00",
+  "updated_at_utc": "2026-10-18T23:58:47.492459+00:00",
   "games": [
     {
       "appid": 921780,
@@ -102,50 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2431880,
-      "name": "High Sea Saga DX",
-      "playtime_2weeks": 357,
-      "playtime_forever": 586,
-      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
-      "playtime_windows_forever": 586,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2191480,
-      "name": "Jumbo Airport Story",
-      "playtime_2weeks": 356,
-      "playtime_forever": 585,
-      "img_icon_url": "5d2b4b2b9548f57d68651de4db7eb033ade4181c",
-      "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2089450,
-      "name": "Hot Springs Story 2",
-      "playtime_2weeks": 356,
-      "playtime_forever": 585,
-      "img_icon_url": "ec1f9c165fb65629e99a5bb2a84ead21425b7749",
-      "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1842690,
-      "name": "Station Manager",
-      "playtime_2weeks": 356,
-      "playtime_forever": 585,
-      "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
-      "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2688570,
       "name": "The Inn-Sanity",
       "playtime_2weeks": 328,
@@ -218,6 +174,50 @@
       "playtime_forever": 134,
       "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
       "playtime_windows_forever": 134,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1842690,
+      "name": "Station Manager",
+      "playtime_2weeks": 130,
+      "playtime_forever": 585,
+      "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
+      "playtime_windows_forever": 585,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2431880,
+      "name": "High Sea Saga DX",
+      "playtime_2weeks": 130,
+      "playtime_forever": 586,
+      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
+      "playtime_windows_forever": 586,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2191480,
+      "name": "Jumbo Airport Story",
+      "playtime_2weeks": 129,
+      "playtime_forever": 585,
+      "img_icon_url": "5d2b4b2b9548f57d68651de4db7eb033ade4181c",
+      "playtime_windows_forever": 585,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2089450,
+      "name": "Hot Springs Story 2",
+      "playtime_2weeks": 129,
+      "playtime_forever": 585,
+      "img_icon_url": "ec1f9c165fb65629e99a5bb2a84ead21425b7749",
+      "playtime_windows_forever": 585,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
