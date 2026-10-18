@@ -1,14 +1,25 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-18T03:15:09.303095+00:00",
+  "updated_at_utc": "2026-10-18T08:37:37.456642+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2520,
+      "playtime_2weeks": 2343,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2828710,
+      "name": "Valor Mortis",
+      "playtime_2weeks": 1033,
+      "playtime_forever": 1033,
+      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
+      "playtime_windows_forever": 1033,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -20,17 +31,6 @@
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2828710,
-      "name": "Valor Mortis",
-      "playtime_2weeks": 763,
-      "playtime_forever": 763,
-      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 763,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,23 +157,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 293,
-      "playtime_forever": 350,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 284,
       "playtime_forever": 339,
       "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
       "playtime_windows_forever": 339,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 256,
+      "playtime_forever": 350,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 350,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -251,6 +251,17 @@
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 9,
+      "playtime_forever": 11014,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11014,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

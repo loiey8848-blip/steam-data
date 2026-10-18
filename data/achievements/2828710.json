@@ -3,14 +3,14 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 21,
-  "percent": 53.8,
-  "updated_at_utc": "2026-10-18T03:14:46.443644+00:00",
+  "unlocked": 39,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-18T08:37:16.054352+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792309404,
       "name": "Nephtis Superioris",
       "description": "Obtain all achievements"
     },
@@ -72,92 +72,92 @@
     },
     {
       "apiname": "NoMercy",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792296698,
       "name": "Coup de Grâce",
       "description": ""
     },
     {
       "apiname": "Behemoth",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792302801,
       "name": "Behemoth",
       "description": ""
     },
     {
       "apiname": "SelfSlain",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792307397,
       "name": "In His Own Image",
       "description": ""
     },
     {
       "apiname": "ArsenalAbsolute",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792293616,
       "name": "Arsenal Absolute",
       "description": "Unlock all weapons and transmutations"
     },
     {
       "apiname": "WeWearTheSameColors",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792302511,
       "name": "We Wear the Same Colors",
       "description": "Defeat all Eternal Guardists"
     },
     {
       "apiname": "GunOfGlory",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792294557,
       "name": "Gun of Glory",
       "description": "Upgrade a single firearm to maximum"
     },
     {
       "apiname": "Jeweller",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792309404,
       "name": "Ambersmith",
       "description": "Gather all Ambers"
     },
     {
       "apiname": "FinalForm",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792294515,
       "name": "Transmutation Artifex",
       "description": "Upgrade a single Transmutation to maximum"
     },
     {
       "apiname": "SteelSanctified",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792297062,
       "name": "Bladesmith",
       "description": "Upgrade a single melee weapon to maximum"
     },
     {
       "apiname": "AerialAnnihilation",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792295092,
       "name": "Aerial Annihilation",
       "description": "Kill an enemy with a headshot after a wall jump"
     },
     {
       "apiname": "ElegyInFiveActs",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792294798,
       "name": "Scattershot",
       "description": "Kill 5 enemies with a single Blunderbuss shot"
     },
     {
       "apiname": "LethalVelocity",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792294954,
       "name": "Windhover",
       "description": "Kill 3 enemies with pistol while Airborne Aiming"
     },
     {
       "apiname": "Hoodsnatcher",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792294817,
       "name": "Hoodsnatcher",
       "description": "Decapitate 3 enemies with a single Claymore attack"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "AbyssalEviction",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792297445,
       "name": "Abyssal Eviction",
       "description": "Kill an enemy by pushing them into the abyss with Shield Bash"
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "FrenziedFlame",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792305490,
       "name": "Frenzied Flame",
       "description": "Ignite the bonfire in the castle"
     },
@@ -240,15 +240,15 @@
     },
     {
       "apiname": "JackKnife",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792295252,
       "name": "Jack-knife",
       "description": "Deal damage with every melee weapon, firearm, and transmutation without dying"
     },
     {
       "apiname": "DoctorsLittleHelper",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792308337,
       "name": "The Bitter Cure",
       "description": ""
     },
