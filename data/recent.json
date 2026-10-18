@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-17T23:49:00.308758+00:00",
+  "updated_at_utc": "2026-10-18T03:15:09.303095+00:00",
   "games": [
     {
       "appid": 921780,
@@ -20,6 +20,17 @@
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2828710,
+      "name": "Valor Mortis",
+      "playtime_2weeks": 763,
+      "playtime_forever": 763,
+      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
+      "playtime_windows_forever": 763,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -45,17 +56,6 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 29,
       "playtime_deck_forever": 29
-    },
-    {
-      "appid": 2828710,
-      "name": "Valor Mortis",
-      "playtime_2weeks": 643,
-      "playtime_forever": 643,
-      "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
-      "playtime_windows_forever": 643,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     },
     {
       "appid": 2215200,
@@ -251,17 +251,6 @@
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2019380,
-      "name": "Pocket Harvest",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1,
-      "img_icon_url": "2617cd7756abf2aaa196aaeccd7e88bef7dfe8a6",
-      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

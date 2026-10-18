@@ -3,9 +3,9 @@
   "appid": 2828710,
   "game": "Valor Mortis",
   "total": 39,
-  "unlocked": 17,
-  "percent": 43.6,
-  "updated_at_utc": "2026-10-17T23:48:38.735446+00:00",
+  "unlocked": 21,
+  "percent": 53.8,
+  "updated_at_utc": "2026-10-18T03:14:46.443644+00:00",
   "achievements": [
     {
       "apiname": "NepthisSuperioris",
@@ -58,15 +58,15 @@
     },
     {
       "apiname": "LamentOfTheLimbs",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792285018,
       "name": "Lament of The Limbs",
       "description": ""
     },
     {
       "apiname": "Birdwatcher",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792289510,
       "name": "Birdwatcher",
       "description": ""
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "KingOfBees",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792291490,
       "name": "Hand in the Jar",
       "description": ""
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "TheBookOfBeasts",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792292136,
       "name": "The Book of Beasts",
       "description": ""
     }
