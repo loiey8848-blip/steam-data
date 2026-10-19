@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-19T03:33:01.226498+00:00",
+  "updated_at_utc": "2026-10-19T09:40:39.441805+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -1749,7 +1749,7 @@
       "playtime_hours": 0.7,
       "last_played_unix": 1791180395,
       "last_played_utc": "2026-10-05T06:06:35+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 1,
       "achievements_total": 60,
       "achievement_percent": 1.7
@@ -18053,14 +18053,14 @@
     {
       "appid": 4934370,
       "name": "TV Archive: Tidy Up Together",
-      "playtime_minutes": 247,
-      "playtime_hours": 4.1,
-      "last_played_unix": 1792342880,
-      "last_played_utc": "2026-10-18T17:01:20+00:00",
+      "playtime_minutes": 316,
+      "playtime_hours": 5.3,
+      "last_played_unix": 1792388421,
+      "last_played_utc": "2026-10-19T05:40:21+00:00",
       "recent": true,
-      "achievements_unlocked": 8,
+      "achievements_unlocked": 14,
       "achievements_total": 15,
-      "achievement_percent": 53.3
+      "achievement_percent": 93.3
     },
     {
       "appid": 2732020,

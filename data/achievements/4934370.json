@@ -3,9 +3,9 @@
   "appid": 4934370,
   "game": "TV Archive: Tidy Up Together",
   "total": 15,
-  "unlocked": 8,
-  "percent": 53.3,
-  "updated_at_utc": "2026-10-19T03:33:00.793588+00:00",
+  "unlocked": 14,
+  "percent": 93.3,
+  "updated_at_utc": "2026-10-19T09:40:39.165597+00:00",
   "achievements": [
     {
       "apiname": "FIRSTBOOK",
@@ -65,43 +65,43 @@
     },
     {
       "apiname": "ROWSD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792384893,
       "name": "150 Shelf Rows",
       "description": "Fill up 150 shelf rows correctly"
     },
     {
       "apiname": "ROWSE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792386017,
       "name": "200 Shelf Rows",
       "description": "Fill up 200 shelf rows correctly"
     },
     {
       "apiname": "ROWSF",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792387722,
       "name": "250 Shelf Rows",
       "description": "Fill up 250 shelf rows correctly"
     },
     {
       "apiname": "ROWSG",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792388212,
       "name": "300 Shelf Rows",
       "description": "Fill up 300 shelf rows correctly"
     },
     {
       "apiname": "SKILLMASTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792387901,
       "name": "Skill Master",
       "description": "Unlock all skills on the skill tree"
     },
     {
       "apiname": "SPEEDY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792388346,
       "name": "Speedy Organizer",
       "description": "Complete the game within six hours"
     },

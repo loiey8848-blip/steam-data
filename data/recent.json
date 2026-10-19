@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-19T03:33:01.226498+00:00",
+  "updated_at_utc": "2026-10-19T09:40:39.441805+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2252,
+      "playtime_2weeks": 2141,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -47,17 +47,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1623730,
-      "name": "Palworld",
-      "playtime_2weeks": 646,
-      "playtime_forever": 8232,
-      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
-      "playtime_windows_forever": 8203,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 29,
-      "playtime_deck_forever": 29
-    },
-    {
       "appid": 2215200,
       "name": "LEGO® Batman™: Legacy of the Dark Knight",
       "playtime_2weeks": 614,
@@ -82,13 +71,24 @@
     {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
-      "playtime_2weeks": 484,
-      "playtime_forever": 793,
+      "playtime_2weeks": 544,
+      "playtime_forever": 853,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 793,
+      "playtime_windows_forever": 853,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1623730,
+      "name": "Palworld",
+      "playtime_2weeks": 437,
+      "playtime_forever": 8232,
+      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
+      "playtime_windows_forever": 8203,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 29,
+      "playtime_deck_forever": 29
     },
     {
       "appid": 2622380,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4934370,
+      "name": "TV Archive: Tidy Up Together",
+      "playtime_2weeks": 316,
+      "playtime_forever": 316,
+      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
+      "playtime_windows_forever": 316,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 284,
@@ -130,17 +141,6 @@
       "playtime_forever": 350,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4934370,
-      "name": "TV Archive: Tidy Up Together",
-      "playtime_2weeks": 247,
-      "playtime_forever": 247,
-      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
-      "playtime_windows_forever": 247,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -207,17 +207,6 @@
       "playtime_forever": 45,
       "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
       "playtime_windows_forever": 45,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2114740,
-      "name": "Blasphemous 2",
-      "playtime_2weeks": 41,
-      "playtime_forever": 41,
-      "img_icon_url": "4e6e9d55da3e45a19088852530126c02ac0b1d53",
-      "playtime_windows_forever": 41,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
