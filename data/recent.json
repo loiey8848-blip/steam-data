@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-19T16:51:45.344171+00:00",
+  "updated_at_utc": "2026-10-19T22:05:12.229028+00:00",
   "games": [
     {
       "appid": 921780,
@@ -47,17 +47,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 614,
-      "playtime_forever": 2468,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2468,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 602,
@@ -75,6 +64,17 @@
       "playtime_forever": 1156,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
       "playtime_windows_forever": 1156,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 565,
+      "playtime_forever": 2468,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2468,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -232,17 +232,6 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1623730,
-      "name": "Palworld",
-      "playtime_2weeks": 6,
-      "playtime_forever": 8232,
-      "img_icon_url": "f5523077a8f4c923c2e8d8c17794b3319035fa73",
-      "playtime_windows_forever": 8203,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 29,
-      "playtime_deck_forever": 29
     }
   ]
 }
