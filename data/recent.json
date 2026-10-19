@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-18T23:58:47.492459+00:00",
+  "updated_at_utc": "2026-10-19T03:33:01.226498+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2343,
+      "playtime_2weeks": 2252,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -179,45 +179,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1842690,
-      "name": "Station Manager",
-      "playtime_2weeks": 130,
-      "playtime_forever": 585,
-      "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
-      "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2431880,
-      "name": "High Sea Saga DX",
-      "playtime_2weeks": 130,
-      "playtime_forever": 586,
-      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
-      "playtime_windows_forever": 586,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2191480,
-      "name": "Jumbo Airport Story",
-      "playtime_2weeks": 129,
-      "playtime_forever": 585,
-      "img_icon_url": "5d2b4b2b9548f57d68651de4db7eb033ade4181c",
-      "playtime_windows_forever": 585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2089450,
-      "name": "Hot Springs Story 2",
-      "playtime_2weeks": 129,
-      "playtime_forever": 585,
-      "img_icon_url": "ec1f9c165fb65629e99a5bb2a84ead21425b7749",
-      "playtime_windows_forever": 585,
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 117,
+      "playtime_forever": 11122,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11122,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -256,23 +223,56 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 41,
-      "playtime_forever": 11046,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11046,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1588550,
       "name": "Cairn",
       "playtime_2weeks": 15,
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2431880,
+      "name": "High Sea Saga DX",
+      "playtime_2weeks": 5,
+      "playtime_forever": 586,
+      "img_icon_url": "58c45a3e807e4f908bd6ff5f9eade831f1f6c00d",
+      "playtime_windows_forever": 586,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2191480,
+      "name": "Jumbo Airport Story",
+      "playtime_2weeks": 4,
+      "playtime_forever": 585,
+      "img_icon_url": "5d2b4b2b9548f57d68651de4db7eb033ade4181c",
+      "playtime_windows_forever": 585,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2089450,
+      "name": "Hot Springs Story 2",
+      "playtime_2weeks": 4,
+      "playtime_forever": 585,
+      "img_icon_url": "ec1f9c165fb65629e99a5bb2a84ead21425b7749",
+      "playtime_windows_forever": 585,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1842690,
+      "name": "Station Manager",
+      "playtime_2weeks": 4,
+      "playtime_forever": 585,
+      "img_icon_url": "37fb486dafff4fc34d6d9f4f76b6f6ea67ba3d51",
+      "playtime_windows_forever": 585,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
