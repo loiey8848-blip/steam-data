@@ -3,9 +3,9 @@
   "appid": 728880,
   "game": "Overcooked! 2",
   "total": 54,
-  "unlocked": 14,
-  "percent": 25.9,
-  "updated_at_utc": "2026-09-15T06:50:36.161388+00:00",
+  "unlocked": 15,
+  "percent": 27.8,
+  "updated_at_utc": "2026-10-19T16:49:45.549173+00:00",
   "achievements": [
     {
       "apiname": "Complete the game",
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "Chop X ingredients",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792415390,
       "name": "Get To The Chopper",
       "description": "Chop 800 items"
     },
