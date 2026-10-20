@@ -3,9 +3,9 @@
   "appid": 2510710,
   "game": "Kunitsu-Gami: Path of the Goddess",
   "total": 48,
-  "unlocked": 15,
-  "percent": 31.2,
-  "updated_at_utc": "2026-10-20T03:37:40.384891+00:00",
+  "unlocked": 16,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-20T09:12:07.596377+00:00",
   "achievements": [
     {
       "apiname": "1",
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "9",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792483660,
       "name": "Purify Adashino Village",
       "description": "Purge the defilement and recover Adashino Village."
     },

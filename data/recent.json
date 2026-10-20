@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-20T03:38:07.952451+00:00",
+  "updated_at_utc": "2026-10-20T09:12:35.163760+00:00",
   "games": [
     {
       "appid": 921780,
@@ -69,12 +69,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2215200,
-      "name": "LEGO® Batman™: Legacy of the Dark Knight",
-      "playtime_2weeks": 424,
-      "playtime_forever": 2468,
-      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
-      "playtime_windows_forever": 2468,
+      "appid": 2510710,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "playtime_2weeks": 384,
+      "playtime_forever": 439,
+      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
+      "playtime_windows_forever": 439,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -108,17 +108,6 @@
       "playtime_forever": 316,
       "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2510710,
-      "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_2weeks": 284,
-      "playtime_forever": 339,
-      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
-      "playtime_windows_forever": 339,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -168,9 +157,31 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 164,
+      "playtime_forever": 11169,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11169,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2215200,
+      "name": "LEGO® Batman™: Legacy of the Dark Knight",
+      "playtime_2weeks": 117,
+      "playtime_forever": 2468,
+      "img_icon_url": "a64c1259adee1067a23bbe29fade71b6fd0878d9",
+      "playtime_windows_forever": 2468,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3699590,
       "name": "Well Dweller",
-      "playtime_2weeks": 134,
+      "playtime_2weeks": 89,
       "playtime_forever": 134,
       "img_icon_url": "5dcc4cf4c0d52873060062f1caa8eb334877c732",
       "playtime_windows_forever": 134,
@@ -179,12 +190,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 117,
-      "playtime_forever": 11122,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11122,
+      "appid": 2101390,
+      "name": "Lost and Found Co.",
+      "playtime_2weeks": 73,
+      "playtime_forever": 390,
+      "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
+      "playtime_windows_forever": 390,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -218,17 +229,6 @@
       "playtime_forever": 1063,
       "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
       "playtime_windows_forever": 1063,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2101390,
-      "name": "Lost and Found Co.",
-      "playtime_2weeks": 16,
-      "playtime_forever": 332,
-      "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
-      "playtime_windows_forever": 332,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

@@ -1,8 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-20T03:38:07.952451+00:00",
-  "owned_games": 1642,
-  "new_games": [],
+  "updated_at_utc": "2026-10-20T09:12:35.163760+00:00",
+  "owned_games": 1643,
+  "new_games": [
+    {
+      "appid": 1436920,
+      "name": "Tandem: a tale of shadows",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1708,10 +1718,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_minutes": 11122,
-      "playtime_hours": 185.4,
-      "last_played_unix": 1792373402,
-      "last_played_utc": "2026-10-19T01:30:02+00:00",
+      "playtime_minutes": 11169,
+      "playtime_hours": 186.2,
+      "last_played_unix": 1792470185,
+      "last_played_utc": "2026-10-20T04:23:05+00:00",
       "recent": true
     },
     {
@@ -6586,10 +6596,10 @@
     {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_minutes": 339,
-      "playtime_hours": 5.7,
-      "last_played_unix": 1791708274,
-      "last_played_utc": "2026-10-11T08:44:34+00:00",
+      "playtime_minutes": 439,
+      "playtime_hours": 7.3,
+      "last_played_unix": 1792483728,
+      "last_played_utc": "2026-10-20T08:08:48+00:00",
       "recent": true
     },
     {
@@ -7009,10 +7019,10 @@
     {
       "appid": 2101390,
       "name": "Lost and Found Co.",
-      "playtime_minutes": 332,
-      "playtime_hours": 5.5,
-      "last_played_unix": 1792466306,
-      "last_played_utc": "2026-10-20T03:18:26+00:00",
+      "playtime_minutes": 390,
+      "playtime_hours": 6.5,
+      "last_played_unix": 1792476718,
+      "last_played_utc": "2026-10-20T06:11:58+00:00",
       "recent": true
     },
     {
@@ -11702,6 +11712,15 @@
       "playtime_hours": 0.8,
       "last_played_unix": 1775648917,
       "last_played_utc": "2026-04-08T11:48:37+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1436920,
+      "name": "Tandem: a tale of shadows",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
