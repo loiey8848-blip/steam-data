@@ -1,18 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-20T09:12:35.163760+00:00",
+  "updated_at_utc": "2026-10-20T14:45:07.804624+00:00",
   "owned_games": 1643,
-  "new_games": [
-    {
-      "appid": 1436920,
-      "name": "Tandem: a tale of shadows",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -1007,11 +997,11 @@
     {
       "appid": 2072420,
       "name": "Beastie Bay DX",
-      "playtime_minutes": 0,
+      "playtime_minutes": 1,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "last_played_unix": 1792493618,
+      "last_played_utc": "2026-10-20T10:53:38+00:00",
+      "recent": true
     },
     {
       "appid": 461950,
@@ -6771,7 +6761,7 @@
       "playtime_hours": 41.1,
       "last_played_unix": 1791286292,
       "last_played_utc": "2026-10-06T11:31:32+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 1898290,
@@ -10835,10 +10825,10 @@
     {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
-      "playtime_minutes": 208,
-      "playtime_hours": 3.5,
-      "last_played_unix": 1791347001,
-      "last_played_utc": "2026-10-07T04:23:21+00:00",
+      "playtime_minutes": 265,
+      "playtime_hours": 4.4,
+      "last_played_unix": 1792497535,
+      "last_played_utc": "2026-10-20T11:58:55+00:00",
       "recent": true
     },
     {
@@ -14151,7 +14141,7 @@
       "playtime_hours": 2.2,
       "last_played_unix": 1791286131,
       "last_played_utc": "2026-10-06T11:28:51+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 679110,

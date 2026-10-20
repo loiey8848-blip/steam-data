@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2072420,
+  "game": "Beastie Bay DX",
+  "total": 6,
+  "unlocked": 2,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-20T14:44:25.292981+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's me, a tourism ambassador～",
+      "description": "Proof that Kairobot came to visit for sightseeing."
+    },
+    {
+      "apiname": "GAMECLEAR",
+      "achieved": 1,
+      "unlocktime": 1792343310,
+      "name": "We are survivors.",
+      "description": "Proof of survival for many years."
+    },
+    {
+      "apiname": "ENIGMA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elucidation of the mystery of enigma isle.",
+      "description": "Proof of cultivating an enigma isle."
+    },
+    {
+      "apiname": "BEAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Let's collect, a beast island.",
+      "description": "Proof of 50 beasts collected."
+    },
+    {
+      "apiname": "RESIDENT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thanks to you, everyone survives!",
+      "description": "Proof of rescuing all residents."
+    },
+    {
+      "apiname": "EXPEDITION",
+      "achieved": 1,
+      "unlocktime": 1792176112,
+      "name": "Survival life day 1.",
+      "description": "Proof of completing your first expedition."
+    }
+  ]
+}
