@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 28,
-  "percent": 15.5,
-  "updated_at_utc": "2026-10-20T14:44:38.545371+00:00",
+  "unlocked": 31,
+  "percent": 17.1,
+  "updated_at_utc": "2026-10-20T19:53:09.780971+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -254,15 +254,15 @@
     },
     {
       "apiname": "skill_MeleeAOE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792513778,
       "name": "Flashes",
       "description": "Get a level 3 copy of \"Flashes\""
     },
     {
       "apiname": "skill_Gun",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792513697,
       "name": "Pistol",
       "description": "Get a level 3 copy of \"Pistol\""
     },
@@ -422,8 +422,8 @@
     },
     {
       "apiname": "skill_NailRandom",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792513683,
       "name": "Random Nails",
       "description": "Get a level 3 copy of \"Random Nails\""
     },

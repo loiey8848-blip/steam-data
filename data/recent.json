@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-20T14:45:07.804624+00:00",
+  "updated_at_utc": "2026-10-20T19:53:40.356686+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 2141,
+      "playtime_2weeks": 2044,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -126,10 +126,10 @@
     {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 256,
-      "playtime_forever": 265,
+      "playtime_2weeks": 248,
+      "playtime_forever": 312,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 265,
+      "playtime_windows_forever": 312,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -185,6 +185,17 @@
       "playtime_forever": 88,
       "img_icon_url": "76e8620654f59be3451bb78c80d2ab6d92b59629",
       "playtime_windows_forever": 88,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 55,
+      "playtime_forever": 341,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 341,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
