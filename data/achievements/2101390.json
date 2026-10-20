@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 2101390,
   "game": "Lost and Found Co.",
-  "total": 29,
+  "total": 31,
   "unlocked": 29,
-  "percent": 100.0,
-  "updated_at_utc": "2026-09-27T12:16:17.190276+00:00",
+  "percent": 93.5,
+  "updated_at_utc": "2026-10-20T03:37:39.476065+00:00",
   "achievements": [
     {
       "apiname": "S001",
@@ -18,8 +18,8 @@
       "apiname": "S002",
       "achieved": 1,
       "unlocktime": 1789181132,
-      "name": "The Sus Fox",
-      "description": "Get a 100% completion on The Sus Fox"
+      "name": "The Suspicious Fox",
+      "description": "Get a 100% completion on The Suspicious Fox"
     },
     {
       "apiname": "S003",
@@ -74,15 +74,15 @@
       "apiname": "S010",
       "achieved": 1,
       "unlocktime": 1789270485,
-      "name": "Divine Comeback",
-      "description": "Get a 100% completion on Divine Comeback"
+      "name": "Unexpected Outcome",
+      "description": "Get a 100% completion on Unexpected Outcome"
     },
     {
       "apiname": "S011",
       "achieved": 1,
       "unlocktime": 1789270802,
-      "name": "Party",
-      "description": "Get a 100% completion on Party"
+      "name": "The Goddess’s Return",
+      "description": "Get a 100% completion on The Goddess’s Return"
     },
     {
       "apiname": "R022",
@@ -102,8 +102,8 @@
       "apiname": "R041",
       "achieved": 1,
       "unlocktime": 1789224907,
-      "name": "Play Time at Kenta's",
-      "description": "Get a 100% completion on Play Time at Kenta's"
+      "name": "Playtime at Kenta’s",
+      "description": "Get a 100% completion on Playtime at Kenta’s"
     },
     {
       "apiname": "R040",
@@ -130,8 +130,8 @@
       "apiname": "R039",
       "achieved": 1,
       "unlocktime": 1789185059,
-      "name": "The Goddess is a Part-timer",
-      "description": "Get a 100% completion on The Goddess is a Part-timer"
+      "name": "The Goddess is a Part-Timer!",
+      "description": "Get a 100% completion on The Goddess is a Part-Timer!"
     },
     {
       "apiname": "R008",
@@ -209,6 +209,20 @@
       "unlocktime": 1789269043,
       "name": "Master of Findjutsu",
       "description": "Get a 100% completion on Master of Findjutsu"
+    },
+    {
+      "apiname": "R024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Love After Life",
+      "description": "Get a 100% completion on Love After Life"
+    },
+    {
+      "apiname": "R027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fangtastic Feast",
+      "description": "Get a 100% completion on Fangtastic Feast"
     }
   ]
 }

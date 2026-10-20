@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-19T22:05:12.229028+00:00",
+  "updated_at_utc": "2026-10-20T03:38:07.952451+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5645,10 +5645,10 @@
     {
       "appid": 2336220,
       "name": "Feed The Cups",
-      "playtime_minutes": 1060,
+      "playtime_minutes": 1063,
       "playtime_hours": 17.7,
-      "last_played_unix": 1792413284,
-      "last_played_utc": "2026-10-19T12:34:44+00:00",
+      "last_played_unix": 1792467255,
+      "last_played_utc": "2026-10-20T03:34:15+00:00",
       "recent": true,
       "achievements_unlocked": 19,
       "achievements_total": 65,
@@ -9341,14 +9341,14 @@
     {
       "appid": 2101390,
       "name": "Lost and Found Co.",
-      "playtime_minutes": 316,
-      "playtime_hours": 5.3,
-      "last_played_unix": 1789307395,
-      "last_played_utc": "2026-09-13T13:49:55+00:00",
-      "recent": false,
+      "playtime_minutes": 332,
+      "playtime_hours": 5.5,
+      "last_played_unix": 1792466306,
+      "last_played_utc": "2026-10-20T03:18:26+00:00",
+      "recent": true,
       "achievements_unlocked": 29,
-      "achievements_total": 29,
-      "achievement_percent": 100.0
+      "achievements_total": 31,
+      "achievement_percent": 93.5
     },
     {
       "appid": 434650,
