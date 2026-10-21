@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 7,
-  "percent": 17.9,
-  "updated_at_utc": "2026-10-21T03:29:30.266982+00:00",
+  "unlocked": 13,
+  "percent": 33.3,
+  "updated_at_utc": "2026-10-21T09:10:02.156068+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "new_type",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792554263,
       "name": "NewType",
       "description": "Achieve grade \"S\" in a Lv.7 or Lv.7+ stage"
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "have_a_great",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792555170,
       "name": "You Have a Great",
       "description": "Clear a stage with only one \"Great\""
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "precise_location",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792555170,
       "name": "Accurate Positioning",
       "description": "Select a song through Music Index, Difficulty Filter or Search and play it"
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "gentleman",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792570806,
       "name": "GENTLEMAN",
       "description": ""
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "peak_of_life",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792554263,
       "name": "You Peak at It",
       "description": ""
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "god_finger",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792554991,
       "name": "Hands of God",
       "description": ""
     },

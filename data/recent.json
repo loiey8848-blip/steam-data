@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-21T03:31:15.981564+00:00",
+  "updated_at_utc": "2026-10-21T09:11:46.877502+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 1719,
+      "playtime_2weeks": 1628,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -113,6 +113,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 310,
+      "playtime_forever": 11314,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11314,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 256,
@@ -124,23 +135,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 187,
-      "playtime_forever": 340,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 340,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 651500,
-      "name": "My Memory of Us",
-      "playtime_2weeks": 175,
-      "playtime_forever": 187,
-      "img_icon_url": "f507e8b595584e6d29c5bc7fde73999b99841345",
-      "playtime_windows_forever": 187,
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 192,
+      "playtime_forever": 478,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 478,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,23 +157,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 164,
-      "playtime_forever": 11169,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11169,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 133,
-      "playtime_forever": 419,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 419,
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 131,
+      "playtime_forever": 340,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "playtime_windows_forever": 340,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
