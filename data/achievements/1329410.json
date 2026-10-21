@@ -1,0 +1,207 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1329410,
+  "game": "雀魂麻将(MahjongSoul)",
+  "total": 28,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-21T03:29:49.742920+00:00",
+  "achievements": [
+    {
+      "apiname": "a001_click_character_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "故事的开端",
+      "description": "在大厅和雀士互动1次"
+    },
+    {
+      "apiname": "a002_enter_spot_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "邂逅",
+      "description": "查看1次雀士传记"
+    },
+    {
+      "apiname": "a003_watch_matches_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "坐山观虎斗",
+      "description": "观战1次"
+    },
+    {
+      "apiname": "a004_enter_log_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "藏经阁！",
+      "description": "查看1次牌谱"
+    },
+    {
+      "apiname": "a005_use_maka_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MAKA启动！！",
+      "description": "使用MAKA分析1次牌谱"
+    },
+    {
+      "apiname": "a006_give_gifts_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "珍贵的心意",
+      "description": "向雀士赠送1次礼物"
+    },
+    {
+      "apiname": "a007_recycle_gifts_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "可回收资源",
+      "description": "奉纳1次礼物"
+    },
+    {
+      "apiname": "a008_summon_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "穿越樱花与竹林",
+      "description": "寻觅1次"
+    },
+    {
+      "apiname": "a009_ranked_match_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "目标是成为魂天大师",
+      "description": "完成5场段位场对局"
+    },
+    {
+      "apiname": "a010_tournament_match_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "卧龙出山！",
+      "description": "完成5场比赛场活动对局"
+    },
+    {
+      "apiname": "a011_friendly_match_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "友谊的小桌",
+      "description": "完成5场友人场对局"
+    },
+    {
+      "apiname": "a012_finish_matches_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "雀士的一小步",
+      "description": "完成1场任意对局"
+    },
+    {
+      "apiname": "a013_finish_matches_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "勇气的一大步",
+      "description": "完成10场任意对局"
+    },
+    {
+      "apiname": "a014_finish_matches_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "百战的锐意",
+      "description": "完成100场任意对局"
+    },
+    {
+      "apiname": "a015_win_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "第一根点棒",
+      "description": "和牌1次"
+    },
+    {
+      "apiname": "a016_win_times_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "独当一面",
+      "description": "和牌10次"
+    },
+    {
+      "apiname": "a017_win_times_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "大展身手",
+      "description": "和牌100次"
+    },
+    {
+      "apiname": "a018_win_mangan_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "力量的束缚",
+      "description": "和牌满贯或以上20次"
+    },
+    {
+      "apiname": "a019_win_haneman_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "枷锁的挣脱",
+      "description": "和牌跳满或以上10次"
+    },
+    {
+      "apiname": "a020_win_baiman_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "全开的火力",
+      "description": "和牌倍满或以上5次"
+    },
+    {
+      "apiname": "a021_win_sanbaiman_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "寸止的艺术",
+      "description": "和牌三倍满或以上3次"
+    },
+    {
+      "apiname": "a022_win_yakuman_times_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "祈愿降临",
+      "description": "和牌累计役满或役满1次"
+    },
+    {
+      "apiname": "s001_hidden_achievement_1_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "ALL STAR",
+      "description": ""
+    },
+    {
+      "apiname": "s002_hidden_achievement_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "酣战至ALL LAST",
+      "description": ""
+    },
+    {
+      "apiname": "s003_hidden_achievement_3_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "只要微笑就好了",
+      "description": ""
+    },
+    {
+      "apiname": "s004_hidden_achievement_4_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "我偏不杠",
+      "description": ""
+    },
+    {
+      "apiname": "s005_hidden_achievement_5_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "诸君且慢",
+      "description": ""
+    },
+    {
+      "apiname": "s006_hidden_achievement_6_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "不是一个人的战斗",
+      "description": ""
+    }
+  ]
+}

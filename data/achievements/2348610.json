@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 31,
-  "percent": 17.1,
-  "updated_at_utc": "2026-10-20T22:59:26.033858+00:00",
+  "unlocked": 48,
+  "percent": 26.5,
+  "updated_at_utc": "2026-10-21T03:30:47.066076+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -128,15 +128,15 @@
     },
     {
       "apiname": "kill_stilts_walker",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546774,
       "name": "I Hate the Circus",
       "description": "Kill 1000 Stilt-Walkers"
     },
     {
       "apiname": "kill_tank",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792545648,
       "name": "Demolisher",
       "description": "Kill 200 Shieldbearers"
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "kill_whip_man",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546308,
       "name": "Sadist",
       "description": "Kill 300 Pain Lovers"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "level_4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546924,
       "name": "All-Out Brawl",
       "description": "Beat level 4"
     },
@@ -275,22 +275,22 @@
     },
     {
       "apiname": "skill_Exploding",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792545987,
       "name": "Rocket Launcher",
       "description": "Get a level 3 copy of \"Rocket Launcher\""
     },
     {
       "apiname": "skill_Bouncing",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792545742,
       "name": "Watermelon Launcher",
       "description": "Get a level 3 copy of \"Watermelon Launcher\""
     },
     {
       "apiname": "skill_Boomerang",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792545726,
       "name": "Scytherang",
       "description": "Get a level 3 copy of \"Scytherang\""
     },
@@ -324,8 +324,8 @@
     },
     {
       "apiname": "skill_FireHorizontal",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792545892,
       "name": "Fiery Horizon",
       "description": "Get a level 3 copy of \"Fiery Horizon\""
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "skill_Banana",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546444,
       "name": "Bananarang",
       "description": "Get a level 3 copy of \"Bananarang\""
     },
@@ -408,8 +408,8 @@
     },
     {
       "apiname": "skill_ShotGun",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546223,
       "name": "Shotgun",
       "description": "Get a level 3 copy of \"Shotgun\""
     },
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "tag_combination_secret_linear",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546444,
       "name": "Quadruple Wielding",
       "description": ""
     },
@@ -730,8 +730,8 @@
     },
     {
       "apiname": "skill_Revolver",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546821,
       "name": "Really Big Bullet",
       "description": "Get a level 3 copy of \"Really Big Bullet\""
     },
@@ -842,8 +842,8 @@
     },
     {
       "apiname": "skill_summon_poringS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546488,
       "name": "Tiny Slime",
       "description": "Get a level 3 copy of \"Tiny Slime\""
     },
@@ -1017,8 +1017,8 @@
     },
     {
       "apiname": "slime9_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546924,
       "name": "Ocular",
       "description": "Unlock starting setup \"Ocular\""
     },
@@ -1101,8 +1101,8 @@
     },
     {
       "apiname": "pickupnuggets_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546924,
       "name": "Extra Nuggets",
       "description": "Unlock the upgrade \"Extra Nuggets\""
     },
@@ -1136,8 +1136,8 @@
     },
     {
       "apiname": "no-damage",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546924,
       "name": "Flawless Victory",
       "description": "Beat any level without taking damage"
     },
@@ -1206,8 +1206,8 @@
     },
     {
       "apiname": "unlock_combination_linear",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792546924,
       "name": "Enhanced Absorption",
       "description": "Unlock the upgrade \"Enhanced Absorption\""
     },
