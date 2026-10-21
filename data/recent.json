@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-21T14:55:41.180525+00:00",
+  "updated_at_utc": "2026-10-21T19:59:03.651464+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 1478,
+      "playtime_2weeks": 1343,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -47,6 +47,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 653,
+      "playtime_forever": 11658,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11658,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 602,
@@ -64,17 +75,6 @@
       "playtime_forever": 1156,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
       "playtime_windows_forever": 1156,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 487,
-      "playtime_forever": 11491,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11491,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -102,17 +102,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2688570,
-      "name": "The Inn-Sanity",
-      "playtime_2weeks": 328,
-      "playtime_forever": 328,
-      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
-      "playtime_windows_forever": 328,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4934370,
       "name": "TV Archive: Tidy Up Together",
       "playtime_2weeks": 316,
@@ -124,12 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2688570,
+      "name": "The Inn-Sanity",
+      "playtime_2weeks": 289,
+      "playtime_forever": 328,
+      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
+      "playtime_windows_forever": 328,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 192,
-      "playtime_forever": 478,
+      "playtime_2weeks": 214,
+      "playtime_forever": 500,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 478,
+      "playtime_windows_forever": 500,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 89,
-      "playtime_forever": 350,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2101390,
       "name": "Lost and Found Co.",
       "playtime_2weeks": 73,
@@ -190,12 +179,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1164940,
-      "name": "Trepang2",
-      "playtime_2weeks": 45,
-      "playtime_forever": 45,
-      "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
-      "playtime_windows_forever": 45,
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 32,
+      "playtime_forever": 350,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 350,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -218,6 +207,17 @@
       "playtime_forever": 15,
       "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
       "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1164940,
+      "name": "Trepang2",
+      "playtime_2weeks": 13,
+      "playtime_forever": 45,
+      "img_icon_url": "b20b90a1e3eef981e960a1afcb79430ba5235ca5",
+      "playtime_windows_forever": 45,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

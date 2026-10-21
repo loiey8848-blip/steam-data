@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 13,
-  "percent": 33.3,
-  "updated_at_utc": "2026-10-21T14:53:51.844853+00:00",
+  "unlocked": 15,
+  "percent": 38.5,
+  "updated_at_utc": "2026-10-21T19:57:17.461408+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "three_hundred",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792597013,
       "name": "300 Combo!",
       "description": "Reach 300 Combo in a stage"
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "several_jobs_in_time",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792597166,
       "name": "Playing along Both Lines",
       "description": "Totally knock back 100 enemies or BOSS's remote attacks while playing a Sheet (hold note)"
     },
