@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-21T09:11:46.877502+00:00",
+  "updated_at_utc": "2026-10-21T14:55:41.180525+00:00",
   "games": [
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 1628,
+      "playtime_2weeks": 1478,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -69,6 +69,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 487,
+      "playtime_forever": 11491,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11491,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 384,
@@ -113,28 +124,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 310,
-      "playtime_forever": 11314,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11314,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 256,
-      "playtime_forever": 350,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 774171,
       "name": "Muse Dash",
       "playtime_2weeks": 192,
@@ -163,6 +152,17 @@
       "playtime_forever": 340,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 340,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 89,
+      "playtime_forever": 350,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 350,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
