@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T03:30:28.448599+00:00",
+  "updated_at_utc": "2026-10-22T09:14:17.359321+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -36,23 +36,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 719,
+      "playtime_forever": 11724,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11724,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_2weeks": 687,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 683,
-      "playtime_forever": 11688,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11688,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,23 +113,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2688570,
-      "name": "The Inn-Sanity",
-      "playtime_2weeks": 214,
-      "playtime_forever": 328,
-      "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
-      "playtime_windows_forever": 328,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 214,
-      "playtime_forever": 500,
+      "playtime_2weeks": 247,
+      "playtime_forever": 533,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 500,
+      "playtime_windows_forever": 533,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -148,10 +137,10 @@
     {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 131,
-      "playtime_forever": 340,
+      "playtime_2weeks": 160,
+      "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 340,
+      "playtime_windows_forever": 369,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -179,23 +168,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3372060,
-      "name": "Hell Maiden",
-      "playtime_2weeks": 32,
-      "playtime_forever": 350,
-      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
-      "playtime_windows_forever": 350,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2336220,
       "name": "Feed The Cups",
       "playtime_2weeks": 29,
       "playtime_forever": 1063,
       "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
       "playtime_windows_forever": 1063,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 17,
+      "playtime_forever": 350,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 350,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

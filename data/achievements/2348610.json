@@ -3,9 +3,9 @@
   "appid": 2348610,
   "game": "Slime 3K: Rise Against Despot",
   "total": 181,
-  "unlocked": 48,
-  "percent": 26.5,
-  "updated_at_utc": "2026-10-22T03:29:59.841098+00:00",
+  "unlocked": 55,
+  "percent": 30.4,
+  "updated_at_utc": "2026-10-22T09:13:48.717978+00:00",
   "achievements": [
     {
       "apiname": "kill_novice",
@@ -191,15 +191,15 @@
     },
     {
       "apiname": "level_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792648909,
       "name": "Pew Pew",
       "description": "Beat level 5"
     },
     {
       "apiname": "level_6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792649780,
       "name": "Forest of Daggers",
       "description": "Beat level 6"
     },
@@ -303,15 +303,15 @@
     },
     {
       "apiname": "skill_Savings",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792648578,
       "name": "Money Box",
       "description": "Get a level 3 copy of \"Money Box\""
     },
     {
       "apiname": "skill_SummonZ",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792648455,
       "name": "Obedient Zombie",
       "description": "Get a level 3 copy of \"Obedient Zombie\""
     },
@@ -856,8 +856,8 @@
     },
     {
       "apiname": "skill_circle",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792648561,
       "name": "All-Around Defense",
       "description": "Get a level 3 copy of \"All-Around Defense\""
     },
@@ -1108,8 +1108,8 @@
     },
     {
       "apiname": "extralighting_unlock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792649780,
       "name": "Extra Lightning",
       "description": "Unlock the upgrade \"Extra Lightning\""
     },
@@ -1150,8 +1150,8 @@
     },
     {
       "apiname": "5-star-prize",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792649491,
       "name": "Prize Wedge",
       "description": "Get 5 abilities from one goose bonus"
     },

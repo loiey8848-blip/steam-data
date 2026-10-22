@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 15,
-  "percent": 38.5,
-  "updated_at_utc": "2026-10-22T03:28:42.096321+00:00",
+  "unlocked": 17,
+  "percent": 43.6,
+  "updated_at_utc": "2026-10-22T09:12:30.791022+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "big_shot",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792651349,
       "name": "You’ve Conquered It!",
       "description": "Clear 10 Master Mode stages"
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "just_one",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792650808,
       "name": "One More Needed",
       "description": ""
     },
