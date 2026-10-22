@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T19:49:02.125849+00:00",
+  "updated_at_utc": "2026-10-22T23:02:08.971200+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -31,17 +31,6 @@
       "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
       "playtime_windows_forever": 11844,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 674,
-      "playtime_forever": 3111,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 3111,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -86,6 +75,17 @@
       "playtime_forever": 766,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 766,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 481,
+      "playtime_forever": 3111,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 3111,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
