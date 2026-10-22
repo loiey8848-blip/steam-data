@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 17,
-  "percent": 43.6,
-  "updated_at_utc": "2026-10-22T09:12:30.791022+00:00",
+  "unlocked": 18,
+  "percent": 46.2,
+  "updated_at_utc": "2026-10-22T14:54:17.463990+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "note_collector",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792660954,
       "name": "Blue Notes Hunter",
       "description": "Totally collect 500 Notes"
     },

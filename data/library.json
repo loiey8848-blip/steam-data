@@ -1,8 +1,45 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T09:14:17.359321+00:00",
-  "owned_games": 1643,
-  "new_games": [],
+  "updated_at_utc": "2026-10-22T14:56:03.757696+00:00",
+  "owned_games": 1647,
+  "new_games": [
+    {
+      "appid": 2059660,
+      "name": "Cavern of Dreams",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1916310,
+      "name": "Remnant Records",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 497700,
+      "name": "Safety First!",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 415350,
+      "name": "Shooting Stars!",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1708,10 +1745,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_minutes": 11724,
-      "playtime_hours": 195.4,
-      "last_played_unix": 1792640177,
-      "last_played_utc": "2026-10-22T03:36:17+00:00",
+      "playtime_minutes": 11767,
+      "playtime_hours": 196.1,
+      "last_played_unix": 1792663980,
+      "last_played_utc": "2026-10-22T10:13:00+00:00",
       "recent": true
     },
     {
@@ -1915,6 +1952,15 @@
     {
       "appid": 2848360,
       "name": "Cavern Adventurers",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2059660,
+      "name": "Cavern of Dreams",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -3625,10 +3671,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_minutes": 562,
-      "playtime_hours": 9.4,
-      "last_played_unix": 1792261286,
-      "last_played_utc": "2026-10-17T18:21:26+00:00",
+      "playtime_minutes": 712,
+      "playtime_hours": 11.9,
+      "last_played_unix": 1792679980,
+      "last_played_utc": "2026-10-22T14:39:40+00:00",
       "recent": true
     },
     {
@@ -5420,7 +5466,7 @@
       "playtime_hours": 5.8,
       "last_played_unix": 1791451722,
       "last_played_utc": "2026-10-08T09:28:42+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 2461850,
@@ -7927,10 +7973,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 533,
-      "playtime_hours": 8.9,
-      "last_played_unix": 1792660067,
-      "last_played_utc": "2026-10-22T09:07:47+00:00",
+      "playtime_minutes": 548,
+      "playtime_hours": 9.1,
+      "last_played_unix": 1792660974,
+      "last_played_utc": "2026-10-22T09:22:54+00:00",
       "recent": true
     },
     {
@@ -9635,6 +9681,15 @@
       "recent": false
     },
     {
+      "appid": 1916310,
+      "name": "Remnant Records",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 617290,
       "name": "Remnant: From the Ashes",
       "playtime_minutes": 285,
@@ -10076,6 +10131,15 @@
       "recent": false
     },
     {
+      "appid": 497700,
+      "name": "Safety First!",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 742420,
       "name": "Saints Row",
       "playtime_minutes": 0,
@@ -10492,6 +10556,15 @@
     {
       "appid": 2853160,
       "name": "SHOOPER NOVA",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 415350,
+      "name": "Shooting Stars!",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13367,7 +13440,7 @@
       "playtime_hours": 0.8,
       "last_played_unix": 1791461803,
       "last_played_utc": "2026-10-08T12:16:43+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 1059900,
