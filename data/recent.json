@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T14:56:03.757696+00:00",
+  "updated_at_utc": "2026-10-22T19:49:02.125849+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -27,10 +27,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_2weeks": 762,
-      "playtime_forever": 11767,
+      "playtime_2weeks": 839,
+      "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11767,
+      "playtime_windows_forever": 11844,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -38,7 +38,7 @@
     {
       "appid": 921780,
       "name": "The Dark Occult",
-      "playtime_2weeks": 749,
+      "playtime_2weeks": 674,
       "playtime_forever": 3111,
       "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
       "playtime_windows_forever": 3111,
@@ -49,7 +49,7 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 687,
+      "playtime_2weeks": 643,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
@@ -82,10 +82,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 509,
-      "playtime_forever": 712,
+      "playtime_2weeks": 563,
+      "playtime_forever": 766,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 712,
+      "playtime_windows_forever": 766,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -102,23 +102,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 317,
+      "playtime_forever": 603,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 603,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4934370,
       "name": "TV Archive: Tidy Up Together",
       "playtime_2weeks": 316,
       "playtime_forever": 316,
       "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 262,
-      "playtime_forever": 548,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 548,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

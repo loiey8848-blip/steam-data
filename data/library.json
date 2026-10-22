@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T14:56:03.757696+00:00",
-  "owned_games": 1647,
+  "updated_at_utc": "2026-10-22T19:49:02.125849+00:00",
+  "owned_games": 1649,
   "new_games": [
     {
-      "appid": 2059660,
-      "name": "Cavern of Dreams",
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13,26 +13,8 @@
       "recent": false
     },
     {
-      "appid": 1916310,
-      "name": "Remnant Records",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 497700,
-      "name": "Safety First!",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 415350,
-      "name": "Shooting Stars!",
+      "appid": 3399960,
+      "name": "Fish to Dish: Idle Sushi",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -1745,10 +1727,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_minutes": 11767,
-      "playtime_hours": 196.1,
-      "last_played_unix": 1792663980,
-      "last_played_utc": "2026-10-22T10:13:00+00:00",
+      "playtime_minutes": 11844,
+      "playtime_hours": 197.4,
+      "last_played_unix": 1792694189,
+      "last_played_utc": "2026-10-22T18:36:29+00:00",
       "recent": true
     },
     {
@@ -3671,10 +3653,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_minutes": 712,
-      "playtime_hours": 11.9,
-      "last_played_unix": 1792679980,
-      "last_played_utc": "2026-10-22T14:39:40+00:00",
+      "playtime_minutes": 766,
+      "playtime_hours": 12.8,
+      "last_played_unix": 1792683221,
+      "last_played_utc": "2026-10-22T15:33:41+00:00",
       "recent": true
     },
     {
@@ -4308,6 +4290,15 @@
       "recent": false
     },
     {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "playtime_minutes": 41,
@@ -4395,6 +4386,15 @@
       "playtime_hours": 0.1,
       "last_played_unix": 1612592776,
       "last_played_utc": "2021-02-06T06:26:16+00:00",
+      "recent": false
+    },
+    {
+      "appid": 3399960,
+      "name": "Fish to Dish: Idle Sushi",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -7973,10 +7973,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 548,
-      "playtime_hours": 9.1,
-      "last_played_unix": 1792660974,
-      "last_played_utc": "2026-10-22T09:22:54+00:00",
+      "playtime_minutes": 603,
+      "playtime_hours": 10.1,
+      "last_played_unix": 1792689307,
+      "last_played_utc": "2026-10-22T17:15:07+00:00",
       "recent": true
     },
     {

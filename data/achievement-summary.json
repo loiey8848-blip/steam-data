@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-22T14:56:03.757696+00:00",
+  "updated_at_utc": "2026-10-22T19:49:02.125849+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2273,10 +2273,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_minutes": 11767,
-      "playtime_hours": 196.1,
-      "last_played_unix": 1792663980,
-      "last_played_utc": "2026-10-22T10:13:00+00:00",
+      "playtime_minutes": 11844,
+      "playtime_hours": 197.4,
+      "last_played_unix": 1792694189,
+      "last_played_utc": "2026-10-22T18:36:29+00:00",
       "recent": true,
       "achievements_unlocked": 7,
       "achievements_total": 157,
@@ -4841,14 +4841,14 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_minutes": 712,
-      "playtime_hours": 11.9,
-      "last_played_unix": 1792679980,
-      "last_played_utc": "2026-10-22T14:39:40+00:00",
+      "playtime_minutes": 766,
+      "playtime_hours": 12.8,
+      "last_played_unix": 1792683221,
+      "last_played_utc": "2026-10-22T15:33:41+00:00",
       "recent": true,
-      "achievements_unlocked": 21,
+      "achievements_unlocked": 22,
       "achievements_total": 37,
-      "achievement_percent": 56.8
+      "achievement_percent": 59.5
     },
     {
       "appid": 1413660,
@@ -5691,6 +5691,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 2909400,
       "name": "FINAL FANTASY VII REBIRTH",
       "playtime_minutes": 41,
@@ -5809,6 +5821,18 @@
       "achievements_unlocked": 0,
       "achievements_total": 10,
       "achievement_percent": 0.0
+    },
+    {
+      "appid": 3399960,
+      "name": "Fish to Dish: Idle Sushi",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
     },
     {
       "appid": 809730,
@@ -10577,10 +10601,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 548,
-      "playtime_hours": 9.1,
-      "last_played_unix": 1792660974,
-      "last_played_utc": "2026-10-22T09:22:54+00:00",
+      "playtime_minutes": 603,
+      "playtime_hours": 10.1,
+      "last_played_unix": 1792689307,
+      "last_played_utc": "2026-10-22T17:15:07+00:00",
       "recent": true,
       "achievements_unlocked": 18,
       "achievements_total": 39,
