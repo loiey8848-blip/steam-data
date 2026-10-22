@@ -1,18 +1,7 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-21T23:05:54.040947+00:00",
+  "updated_at_utc": "2026-10-22T03:30:28.448599+00:00",
   "games": [
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 1156,
-      "playtime_forever": 3111,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 3111,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
     {
       "appid": 2828710,
       "name": "Valor Mortis",
@@ -36,6 +25,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 985,
+      "playtime_forever": 3111,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 3111,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_2weeks": 687,
@@ -49,10 +49,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_2weeks": 653,
-      "playtime_forever": 11658,
+      "playtime_2weeks": 683,
+      "playtime_forever": 11688,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11658,
+      "playtime_windows_forever": 11688,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -115,7 +115,7 @@
     {
       "appid": 2688570,
       "name": "The Inn-Sanity",
-      "playtime_2weeks": 289,
+      "playtime_2weeks": 214,
       "playtime_forever": 328,
       "img_icon_url": "5ae870ef3a72ec7efe9c6708ce2e16a279e03cf3",
       "playtime_windows_forever": 328,
