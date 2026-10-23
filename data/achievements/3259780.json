@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3259780,
+  "game": "FINAL FANTASY RESONANCE",
+  "total": 40,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-23T03:35:29.682158+00:00",
+  "achievements": [
+    {
+      "apiname": "0000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ultimate Fantasy",
+      "description": "Obtain all achievements."
+    },
+    {
+      "apiname": "0001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Journey Begins",
+      "description": ""
+    },
+    {
+      "apiname": "0002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Who Unite the Skies",
+      "description": ""
+    },
+    {
+      "apiname": "0003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Olderion Blues",
+      "description": ""
+    },
+    {
+      "apiname": "0004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Viva la Revolución",
+      "description": ""
+    },
+    {
+      "apiname": "0005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Search of the Truth",
+      "description": ""
+    },
+    {
+      "apiname": "0006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "And the Winner Is...",
+      "description": ""
+    },
+    {
+      "apiname": "0007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Past Glory",
+      "description": ""
+    },
+    {
+      "apiname": "0008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aspiration’s End",
+      "description": ""
+    },
+    {
+      "apiname": "0009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Those Who Defy Fate",
+      "description": "Unlock all party members."
+    },
+    {
+      "apiname": "0010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Conscience Renewed",
+      "description": "Clear all party member substories."
+    },
+    {
+      "apiname": "0011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Kweh!",
+      "description": "Obtain a chocobo."
+    },
+    {
+      "apiname": "0012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Airship Enterprise",
+      "description": ""
+    },
+    {
+      "apiname": "0013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Just Getting Started",
+      "description": "Clear all Fledgling League fights in the Colosseum."
+    },
+    {
+      "apiname": "0014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Arena Fighter",
+      "description": "Clear all Brawler League fights in the Colosseum."
+    },
+    {
+      "apiname": "0015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Career Fighter",
+      "description": "Clear all Gladiator League fights in the Colosseum."
+    },
+    {
+      "apiname": "0016",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Princess’s Reward",
+      "description": "Receive a reward at Oblivion Palace for the first time."
+    },
+    {
+      "apiname": "0017",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Memento",
+      "description": "Help the enigmatic princess regain her second memory."
+    },
+    {
+      "apiname": "0018",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gil Comes and Goes",
+      "description": "Spend a total of 100,000 gil."
+    },
+    {
+      "apiname": "0019",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Lid Proud",
+      "description": "Gain a total of 1,000,000 gil."
+    },
+    {
+      "apiname": "0020",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magicite Hunter",
+      "description": "Defeat a cave master."
+    },
+    {
+      "apiname": "0021",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bigger They Are...",
+      "description": "Defeat 5 cave masters."
+    },
+    {
+      "apiname": "0022",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Harder They Fall",
+      "description": "Defeat all cave masters."
+    },
+    {
+      "apiname": "0023",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Struck Gold",
+      "description": ""
+    },
+    {
+      "apiname": "0024",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Weapon that Suits the User",
+      "description": ""
+    },
+    {
+      "apiname": "0025",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Weaponsmith",
+      "description": ""
+    },
+    {
+      "apiname": "0026",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ancient Artifact",
+      "description": ""
+    },
+    {
+      "apiname": "0027",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Legendary Arms",
+      "description": ""
+    },
+    {
+      "apiname": "0028",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Priceless Experience",
+      "description": ""
+    },
+    {
+      "apiname": "0029",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The First Step Towards Mastery",
+      "description": "Reach max Mastery Rank for a vision for the first time."
+    },
+    {
+      "apiname": "0030",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Awakened Light",
+      "description": "Awaken a vision to its limit for the first time."
+    },
+    {
+      "apiname": "0031",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Visions Assemble",
+      "description": "Obtain 10 visions."
+    },
+    {
+      "apiname": "0032",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Will Crystallized",
+      "description": "Obtain all visions."
+    },
+    {
+      "apiname": "0033",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Vision Connoisseur",
+      "description": "Reach max MR with 8 visions."
+    },
+    {
+      "apiname": "0034",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Esper’s Covenant",
+      "description": "Gain help from 3 espers."
+    },
+    {
+      "apiname": "0035",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Sovereigns of the Planet",
+      "description": "Gain help from all espers."
+    },
+    {
+      "apiname": "0036",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keep Them on Their Toes",
+      "description": "Stagger enemies 1000 times."
+    },
+    {
+      "apiname": "0037",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Resonance Rapid Fire",
+      "description": "Use Resonances 400 times."
+    },
+    {
+      "apiname": "0038",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mechabo Mania",
+      "description": ""
+    },
+    {
+      "apiname": "0039",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "My Name Is Ultima...",
+      "description": ""
+    }
+  ]
+}
