@@ -3,9 +3,9 @@
   "appid": 2072420,
   "game": "Beastie Bay DX",
   "total": 6,
-  "unlocked": 2,
-  "percent": 33.3,
-  "updated_at_utc": "2026-10-23T09:10:02.943136+00:00",
+  "unlocked": 3,
+  "percent": 50.0,
+  "updated_at_utc": "2026-10-23T14:43:34.733342+00:00",
   "achievements": [
     {
       "apiname": "KAIROKUN",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "RESIDENT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792762002,
       "name": "Thanks to you, everyone survives!",
       "description": "Proof of rescuing all residents."
     },

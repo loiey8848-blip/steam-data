@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-23T09:10:45.257049+00:00",
+  "updated_at_utc": "2026-10-23T14:44:15.639111+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -58,17 +58,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 570,
-      "playtime_forever": 687,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
       "playtime_2weeks": 563,
@@ -80,12 +69,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 488,
+      "playtime_forever": 687,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 687,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 440,
-      "playtime_forever": 440,
+      "playtime_2weeks": 474,
+      "playtime_forever": 474,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 440,
+      "playtime_windows_forever": 474,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -168,17 +168,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 31,
-      "playtime_forever": 3111,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 3111,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2336220,
       "name": "Feed The Cups",
       "playtime_2weeks": 29,
@@ -203,10 +192,10 @@
     {
       "appid": 2072420,
       "name": "Beastie Bay DX",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1,
+      "playtime_2weeks": 2,
+      "playtime_forever": 2,
       "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
-      "playtime_windows_forever": 1,
+      "playtime_windows_forever": 2,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

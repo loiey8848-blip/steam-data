@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 2,
-  "percent": 5.0,
-  "updated_at_utc": "2026-10-23T09:10:42.739889+00:00",
+  "unlocked": 3,
+  "percent": 7.5,
+  "updated_at_utc": "2026-10-23T14:44:12.926599+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "0001",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792748022,
       "name": "A Journey Begins",
       "description": ""
     },

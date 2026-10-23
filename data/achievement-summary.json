@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-23T09:10:45.257049+00:00",
+  "updated_at_utc": "2026-10-23T14:44:15.639111+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -1325,14 +1325,14 @@
     {
       "appid": 2072420,
       "name": "Beastie Bay DX",
-      "playtime_minutes": 1,
+      "playtime_minutes": 2,
       "playtime_hours": 0.0,
-      "last_played_unix": 1792493618,
-      "last_played_utc": "2026-10-20T10:53:38+00:00",
+      "last_played_unix": 1792762391,
+      "last_played_utc": "2026-10-23T13:33:11+00:00",
       "recent": true,
-      "achievements_unlocked": 2,
+      "achievements_unlocked": 3,
       "achievements_total": 6,
-      "achievement_percent": 33.3
+      "achievement_percent": 50.0
     },
     {
       "appid": 461950,
@@ -5693,14 +5693,14 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_minutes": 440,
-      "playtime_hours": 7.3,
-      "last_played_unix": 1792745996,
-      "last_played_utc": "2026-10-23T08:59:56+00:00",
+      "playtime_minutes": 474,
+      "playtime_hours": 7.9,
+      "last_played_unix": 1792748022,
+      "last_played_utc": "2026-10-23T09:33:42+00:00",
       "recent": true,
-      "achievements_unlocked": 2,
+      "achievements_unlocked": 3,
       "achievements_total": 40,
-      "achievement_percent": 5.0
+      "achievement_percent": 7.5
     },
     {
       "appid": 2909400,
@@ -16149,7 +16149,7 @@
       "playtime_hours": 51.9,
       "last_played_unix": 1791538754,
       "last_played_utc": "2026-10-09T09:39:14+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 46,
       "achievements_total": 46,
       "achievement_percent": 100.0
