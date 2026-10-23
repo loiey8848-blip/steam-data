@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 1938090,
   "game": "Call of Duty®",
-  "total": 157,
-  "unlocked": 7,
-  "percent": 4.5,
-  "updated_at_utc": "2026-10-23T03:34:48.422992+00:00",
+  "total": 175,
+  "unlocked": 9,
+  "percent": 5.1,
+  "updated_at_utc": "2026-10-23T09:10:02.783694+00:00",
   "achievements": [
     {
       "apiname": "acrappywaytodie",
@@ -1105,6 +1105,132 @@
       "unlocktime": 0,
       "name": "Checking Boxes",
       "description": "Complete 10 Assignments in Zone IV in Co-Op Campaign"
+    },
+    {
+      "apiname": "rex_sp_noharmdone",
+      "achieved": 1,
+      "unlocktime": 1792371223,
+      "name": "No Harm Done",
+      "description": "Obtain the defector's location in 'Following Orders' without hurting any civilians."
+    },
+    {
+      "apiname": "rex_sp_holdtheline",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hold the line",
+      "description": "Complete the game on any Difficulty."
+    },
+    {
+      "apiname": "rex_sp_worthit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Was it Worth it?",
+      "description": "Complete the game on Realism difficulty."
+    },
+    {
+      "apiname": "rex_sp_deaddrop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Skeet Shooting",
+      "description": "Kill 10 paratroopers in 'Mayhem' before they hit the ground."
+    },
+    {
+      "apiname": "rex_sp_onlygunneed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Safety's On",
+      "description": "Defeat all enemies in the kitchen of 'Out in the Cold' without firing your gun on Hardened or harder"
+    },
+    {
+      "apiname": "rex_sp_canttouchthis",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Can't Touch This",
+      "description": "Defeat Makarov on Veteran difficulty or higher without getting hit in the alley."
+    },
+    {
+      "apiname": "rex_sp_nostoneunturned",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Stone Unturned",
+      "description": "Confiscate all of the contraband and read all of the notes in 'Following Orders'."
+    },
+    {
+      "apiname": "rex_sp_bullettrain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bullet Train",
+      "description": "Kill 50 enemies while standing on train cars in 'Hired Gun'."
+    },
+    {
+      "apiname": "rex_sp_rainingthunder",
+      "achieved": 1,
+      "unlocktime": 1792468456,
+      "name": "Raining Thunder",
+      "description": "Kill 15 enemies with 3 mortar rounds in a row in 'Losing Ground'."
+    },
+    {
+      "apiname": "rex_sp_revenge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Revenge",
+      "description": "Kill everyone after Shin dies in 'Assassins' on Hardened or harder difficulty."
+    },
+    {
+      "apiname": "rex_sp_pacifist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pacifist",
+      "description": "Complete 'Assassins' by only killing one enemy."
+    },
+    {
+      "apiname": "rex_sp_timetocrate",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to Crate",
+      "description": "Open every Yellow Supply Crate in 'Stranded'."
+    },
+    {
+      "apiname": "rex_sp_scavenger",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scavenger",
+      "description": "Repair everything in Base Camp."
+    },
+    {
+      "apiname": "rex_sp_incoming",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Incoming!",
+      "description": "Destroy every vehicle reinforcement at the SAM Site before they unload in 'Stranded'."
+    },
+    {
+      "apiname": "rex_sp_longshot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Long Shot",
+      "description": "Snipe all 4 enemies firing the mortars in 'Counter Attack'."
+    },
+    {
+      "apiname": "rex_sp_neverforgotten",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Never Forgotten",
+      "description": "Recover the Dog Tags in 'Escape'."
+    },
+    {
+      "apiname": "rex_sp_trenchbroom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trench Broom",
+      "description": "In Entrenched, kill 15 enemies with a shotgun before securing the Target Building."
+    },
+    {
+      "apiname": "rex_sp_noteworthy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noteworthy",
+      "description": "Read 50 different Notes."
     }
   ]
 }

@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-10-23T03:35:29.682158+00:00",
+  "unlocked": 2,
+  "percent": 5.0,
+  "updated_at_utc": "2026-10-23T09:10:42.739889+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "0011",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792727324,
       "name": "Kweh!",
       "description": "Obtain a chocobo."
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "0016",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792741005,
       "name": "Princess’s Reward",
       "description": "Receive a reward at Oblivion Palace for the first time."
     },

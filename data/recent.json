@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-23T03:35:32.576797+00:00",
+  "updated_at_utc": "2026-10-23T09:10:45.257049+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_2weeks": 440,
+      "playtime_forever": 440,
+      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
+      "playtime_windows_forever": 440,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 384,
@@ -108,28 +119,6 @@
       "playtime_forever": 316,
       "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
       "playtime_windows_forever": 316,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 921780,
-      "name": "The Dark Occult",
-      "playtime_2weeks": 289,
-      "playtime_forever": 3111,
-      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
-      "playtime_windows_forever": 3111,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 180,
-      "playtime_forever": 180,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 180,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -174,6 +163,17 @@
       "playtime_forever": 88,
       "img_icon_url": "76e8620654f59be3451bb78c80d2ab6d92b59629",
       "playtime_windows_forever": 88,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 921780,
+      "name": "The Dark Occult",
+      "playtime_2weeks": 31,
+      "playtime_forever": 3111,
+      "img_icon_url": "81c3547dc6bb7a6972103f0fcaa82117e555e69d",
+      "playtime_windows_forever": 3111,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
