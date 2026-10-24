@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 3,
-  "percent": 7.5,
-  "updated_at_utc": "2026-10-24T03:29:43.140515+00:00",
+  "unlocked": 7,
+  "percent": 17.5,
+  "updated_at_utc": "2026-10-24T08:43:44.120669+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "0002",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792814976,
       "name": "Those Who Unite the Skies",
       "description": ""
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "0020",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792813307,
       "name": "Magicite Hunter",
       "description": "Defeat a cave master."
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "0031",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792825061,
       "name": "Visions Assemble",
       "description": "Obtain 10 visions."
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "0034",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792825155,
       "name": "Esper’s Covenant",
       "description": "Gain help from 3 espers."
     },

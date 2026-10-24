@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-24T03:29:45.792298+00:00",
+  "updated_at_utc": "2026-10-24T08:43:47.693944+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -36,6 +36,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_2weeks": 834,
+      "playtime_forever": 834,
+      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
+      "playtime_windows_forever": 834,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
       "playtime_2weeks": 602,
@@ -58,17 +69,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 567,
-      "playtime_forever": 567,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 567,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
       "playtime_2weeks": 563,
@@ -82,7 +82,7 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 476,
+      "playtime_2weeks": 417,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
