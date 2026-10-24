@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-24T13:53:58.670955+00:00",
+  "updated_at_utc": "2026-10-24T17:16:25.825245+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -49,10 +49,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 653,
-      "playtime_forever": 856,
+      "playtime_2weeks": 824,
+      "playtime_forever": 1027,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 856,
+      "playtime_windows_forever": 1027,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -82,7 +82,7 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 417,
+      "playtime_2weeks": 409,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
@@ -113,17 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2510710,
-      "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_2weeks": 246,
-      "playtime_forever": 439,
-      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
-      "playtime_windows_forever": 439,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 728880,
       "name": "Overcooked! 2",
       "playtime_2weeks": 175,
@@ -141,6 +130,17 @@
       "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 369,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2510710,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "playtime_2weeks": 153,
+      "playtime_forever": 439,
+      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
+      "playtime_windows_forever": 439,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

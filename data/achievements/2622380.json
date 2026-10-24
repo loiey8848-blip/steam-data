@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 23,
-  "percent": 62.2,
-  "updated_at_utc": "2026-10-24T13:53:29.587629+00:00",
+  "unlocked": 24,
+  "percent": 64.9,
+  "updated_at_utc": "2026-10-24T17:15:56.032177+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "ACH31",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792858512,
       "name": "Set and Steadfast",
       "description": ""
     },
