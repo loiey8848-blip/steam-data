@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 9,
-  "percent": 22.5,
-  "updated_at_utc": "2026-10-24T17:16:22.997031+00:00",
+  "unlocked": 12,
+  "percent": 30.0,
+  "updated_at_utc": "2026-10-24T20:20:26.468614+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "0004",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792870654,
       "name": "Viva la Revolución",
       "description": ""
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "0012",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792870748,
       "name": "Airship Enterprise",
       "description": ""
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "0018",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792862262,
       "name": "Gil Comes and Goes",
       "description": "Spend a total of 100,000 gil."
     },

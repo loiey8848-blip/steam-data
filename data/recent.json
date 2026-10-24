@@ -1,7 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-24T17:16:25.825245+00:00",
+  "updated_at_utc": "2026-10-24T20:20:29.011938+00:00",
   "games": [
+    {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_2weeks": 1069,
+      "playtime_forever": 1069,
+      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
+      "playtime_windows_forever": 1069,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
     {
       "appid": 2828710,
       "name": "Valor Mortis",
@@ -20,17 +31,6 @@
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 889,
-      "playtime_forever": 889,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 889,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -82,7 +82,7 @@
     {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 409,
+      "playtime_2weeks": 366,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
