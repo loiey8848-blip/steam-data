@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 22,
-  "percent": 59.5,
-  "updated_at_utc": "2026-10-24T08:43:19.073697+00:00",
+  "unlocked": 23,
+  "percent": 62.2,
+  "updated_at_utc": "2026-10-24T13:53:29.587629+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "ACH33",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792845559,
       "name": "Plague of Locusts",
       "description": ""
     },

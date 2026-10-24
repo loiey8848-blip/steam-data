@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 7,
-  "percent": 17.5,
-  "updated_at_utc": "2026-10-24T08:43:44.120669+00:00",
+  "unlocked": 9,
+  "percent": 22.5,
+  "updated_at_utc": "2026-10-24T13:53:55.761554+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "0003",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792841403,
       "name": "Olderion Blues",
       "description": ""
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "0029",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792840883,
       "name": "The First Step Towards Mastery",
       "description": "Reach max Mastery Rank for a vision for the first time."
     },

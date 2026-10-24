@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-24T08:43:47.693944+00:00",
+  "updated_at_utc": "2026-10-24T13:53:58.670955+00:00",
   "games": [
     {
       "appid": 2828710,
@@ -25,6 +25,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_2weeks": 889,
+      "playtime_forever": 889,
+      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
+      "playtime_windows_forever": 889,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1938090,
       "name": "Call of Duty®",
       "playtime_2weeks": 839,
@@ -36,12 +47,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 834,
-      "playtime_forever": 834,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 834,
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 653,
+      "playtime_forever": 856,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 856,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,34 +80,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 563,
-      "playtime_forever": 766,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 766,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_2weeks": 417,
       "playtime_forever": 687,
       "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
       "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2510710,
-      "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_2weeks": 384,
-      "playtime_forever": 439,
-      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
-      "playtime_windows_forever": 439,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -119,6 +108,17 @@
       "playtime_forever": 316,
       "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
       "playtime_windows_forever": 316,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2510710,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "playtime_2weeks": 246,
+      "playtime_forever": 439,
+      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
+      "playtime_windows_forever": 439,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
