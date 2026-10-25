@@ -1,0 +1,116 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 998940,
+  "game": "隐形守护者 The Invisible Guardian",
+  "total": 15,
+  "unlocked": 1,
+  "percent": 6.7,
+  "updated_at_utc": "2026-10-25T17:27:09.520805+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "喋血特工",
+      "description": "全剧探索度达到30%"
+    },
+    {
+      "apiname": "ACH_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "影子战士",
+      "description": "全剧探索度达到60%"
+    },
+    {
+      "apiname": "ACH_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "无名英雄",
+      "description": "全剧探索度达到100%"
+    },
+    {
+      "apiname": "ACH_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "虽百死吾往矣",
+      "description": "解锁全结局"
+    },
+    {
+      "apiname": "ACH_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "红色芳华",
+      "description": "红色芳华线结局达成"
+    },
+    {
+      "apiname": "ACH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "美丽世界",
+      "description": "美丽世界线结局一达成"
+    },
+    {
+      "apiname": "ACH_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "丧钟为谁而鸣",
+      "description": "美丽世界线结局二达成"
+    },
+    {
+      "apiname": "ACH_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "扶桑安魂曲",
+      "description": "扶桑线结局达成"
+    },
+    {
+      "apiname": "ACH_8",
+      "achieved": 1,
+      "unlocktime": 1792940591,
+      "name": "小别离",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "人间失格",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "恶之花",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "天使与魔鬼",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "燃情岁月",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "似是故人来",
+      "description": "解锁关键剧情"
+    },
+    {
+      "apiname": "ACH_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "恋恋风尘",
+      "description": "解锁关键剧情"
+    }
+  ]
+}

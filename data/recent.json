@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-25T13:01:38.742507+00:00",
+  "updated_at_utc": "2026-10-25T17:28:39.744088+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
       "playtime_2weeks": 1699,
-      "playtime_forever": 1685,
+      "playtime_forever": 1699,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 1685,
+      "playtime_windows_forever": 1699,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -36,23 +36,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 945,
+      "playtime_forever": 1148,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 1148,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1938090,
       "name": "Call of Duty®",
       "playtime_2weeks": 839,
       "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
       "playtime_windows_forever": 11844,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 824,
-      "playtime_forever": 1027,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1027,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 109,
+      "playtime_forever": 109,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 109,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 100,
@@ -179,6 +190,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 998940,
+      "name": "隐形守护者 The Invisible Guardian",
+      "playtime_2weeks": 19,
+      "playtime_forever": 19,
+      "img_icon_url": "812ca02cc70c154543fb0381c9f7bfb2ca8ebe5b",
+      "playtime_windows_forever": 19,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1588550,
       "name": "Cairn",
       "playtime_2weeks": 15,
@@ -196,17 +218,6 @@
       "playtime_forever": 2,
       "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
       "playtime_windows_forever": 2,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 942970,
-      "name": "Unheard",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1,
-      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
-      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
