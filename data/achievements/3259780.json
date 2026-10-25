@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 15,
-  "percent": 37.5,
-  "updated_at_utc": "2026-10-25T07:21:21.970671+00:00",
+  "unlocked": 18,
+  "percent": 45.0,
+  "updated_at_utc": "2026-10-25T13:01:35.757361+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "0005",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792932273,
       "name": "In Search of the Truth",
       "description": ""
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "0009",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792931870,
       "name": "Those Who Defy Fate",
       "description": "Unlock all party members."
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "0021",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792915524,
       "name": "The Bigger They Are...",
       "description": "Defeat 5 cave masters."
     },

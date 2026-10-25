@@ -1,0 +1,95 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 942970,
+  "game": "Unheard",
+  "total": 12,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-10-25T13:00:09.605480+00:00",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_ASHTRAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Delusion",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_MEDICINE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Auditory Hallucination",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_PSY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amnesia",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_ALLROOMWALKED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sound Chaser",
+      "description": "Checked each room in the five maps."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOTOOLS_R1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twins",
+      "description": "Passed the first test without fast-forwarding and rewinding the audio or using the progress bar."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOTOOLS_R2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Empty Frame",
+      "description": "Passed the second test without fast-forwarding and rewinding the audio or using the progress bar."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOTOOLS_R3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Raven",
+      "description": "Passed the third test without fast-forwarding and rewinding the audio or using the progress bar."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOTOOLS_R4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Theater",
+      "description": "Passed the fourth test without fast-forwarding and rewinding the audio or using the progress bar."
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOTOOLS_R5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mental Hospital",
+      "description": "Passed the fifth test without fast-forwarding and rewinding the audio or using the progress bar."
+    },
+    {
+      "apiname": "ACHIEVEMENT_SNOWSINGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sole Audience",
+      "description": "Listened to Emily humming a snatch of a song from end to end."
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Director",
+      "description": ""
+    },
+    {
+      "apiname": "ACHIEVEMENT_DLC_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "NEXT Case",
+      "description": ""
+    }
+  ]
+}

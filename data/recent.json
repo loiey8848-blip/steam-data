@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-25T07:21:24.535954+00:00",
+  "updated_at_utc": "2026-10-25T13:01:38.742507+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 1396,
-      "playtime_forever": 1396,
+      "playtime_2weeks": 1699,
+      "playtime_forever": 1685,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 1396,
+      "playtime_windows_forever": 1685,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -102,23 +102,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 222,
-      "playtime_forever": 687,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 728880,
       "name": "Overcooked! 2",
       "playtime_2weeks": 175,
       "playtime_forever": 737,
       "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
       "playtime_windows_forever": 737,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 168,
+      "playtime_forever": 687,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 687,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -137,7 +137,7 @@
     {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_2weeks": 153,
+      "playtime_2weeks": 100,
       "playtime_forever": 439,
       "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
       "playtime_windows_forever": 439,
@@ -196,6 +196,17 @@
       "playtime_forever": 2,
       "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
       "playtime_windows_forever": 2,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 1,
+      "playtime_forever": 1,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
