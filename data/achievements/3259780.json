@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 18,
-  "percent": 45.0,
-  "updated_at_utc": "2026-10-25T20:28:40.749265+00:00",
+  "unlocked": 21,
+  "percent": 52.5,
+  "updated_at_utc": "2026-10-25T23:53:13.160586+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "0006",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792965266,
       "name": "And the Winner Is...",
       "description": ""
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "0019",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792965266,
       "name": "Making Lid Proud",
       "description": "Gain a total of 1,000,000 gil."
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "0038",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792965266,
       "name": "Mechabo Mania",
       "description": ""
     },
