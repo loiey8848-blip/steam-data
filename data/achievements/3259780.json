@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 12,
-  "percent": 30.0,
-  "updated_at_utc": "2026-10-25T00:03:42.614780+00:00",
+  "unlocked": 15,
+  "percent": 37.5,
+  "updated_at_utc": "2026-10-25T07:21:21.970671+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "0013",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792904947,
       "name": "Just Getting Started",
       "description": "Clear all Fledgling League fights in the Colosseum."
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "0030",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792904569,
       "name": "Awakened Light",
       "description": "Awaken a vision to its limit for the first time."
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "0033",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1792899689,
       "name": "Vision Connoisseur",
       "description": "Reach max MR with 8 visions."
     },

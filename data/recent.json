@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-25T00:03:45.334317+00:00",
+  "updated_at_utc": "2026-10-25T07:21:24.535954+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 1096,
-      "playtime_forever": 1096,
+      "playtime_2weeks": 1396,
+      "playtime_forever": 1396,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 1096,
+      "playtime_windows_forever": 1396,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -80,17 +80,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 366,
-      "playtime_forever": 687,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 774171,
       "name": "Muse Dash",
       "playtime_2weeks": 317,
@@ -108,6 +97,17 @@
       "playtime_forever": 316,
       "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
       "playtime_windows_forever": 316,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 222,
+      "playtime_forever": 687,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 687,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
