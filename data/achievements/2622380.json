@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 24,
-  "percent": 64.9,
-  "updated_at_utc": "2026-10-26T09:47:59.895550+00:00",
+  "unlocked": 27,
+  "percent": 73.0,
+  "updated_at_utc": "2026-10-26T16:34:04.537929+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "ACH23",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793021517,
       "name": "Noklateo, the Shrouded City",
       "description": ""
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "ACH32",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793024176,
       "name": "Fell Omen",
       "description": ""
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "ACH35",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793027530,
       "name": "True Arbiter",
       "description": ""
     },

@@ -1,14 +1,25 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-26T09:48:28.180847+00:00",
+  "updated_at_utc": "2026-10-26T16:34:32.745590+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 2317,
-      "playtime_forever": 2317,
+      "playtime_2weeks": 2353,
+      "playtime_forever": 2353,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 2317,
+      "playtime_windows_forever": 2353,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 1082,
+      "playtime_forever": 1285,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 1285,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -25,20 +36,9 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 945,
-      "playtime_forever": 1148,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1148,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2333000,
       "name": "Silver Pines",
-      "playtime_2weeks": 941,
+      "playtime_2weeks": 890,
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
@@ -113,23 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 169,
+      "playtime_forever": 169,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 169,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 160,
       "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 369,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 942970,
-      "name": "Unheard",
-      "playtime_2weeks": 109,
-      "playtime_forever": 109,
-      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
-      "playtime_windows_forever": 109,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

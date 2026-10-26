@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 26,
-  "percent": 65.0,
-  "updated_at_utc": "2026-10-26T09:48:25.662588+00:00",
+  "unlocked": 27,
+  "percent": 67.5,
+  "updated_at_utc": "2026-10-26T16:34:30.282072+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "0010",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793013807,
       "name": "Conscience Renewed",
       "description": "Clear all party member substories."
     },
