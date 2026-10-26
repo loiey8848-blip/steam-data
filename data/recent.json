@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-25T23:53:15.793272+00:00",
+  "updated_at_utc": "2026-10-26T03:27:34.515402+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 1789,
-      "playtime_forever": 1789,
+      "playtime_2weeks": 2018,
+      "playtime_forever": 2018,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 1789,
+      "playtime_windows_forever": 2018,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,23 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1551980,
-      "name": "Clive Barker's Hellraiser: Revival",
-      "playtime_2weeks": 168,
-      "playtime_forever": 687,
-      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
-      "playtime_windows_forever": 687,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
       "playtime_2weeks": 160,
       "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 369,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1551980,
+      "name": "Clive Barker's Hellraiser: Revival",
+      "playtime_2weeks": 114,
+      "playtime_forever": 687,
+      "img_icon_url": "5ce6cca29ce132d728430b970cafacf218433e0e",
+      "playtime_windows_forever": 687,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
