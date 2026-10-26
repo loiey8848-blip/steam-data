@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-26T16:34:32.745590+00:00",
+  "updated_at_utc": "2026-10-26T22:23:22.212709+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -38,7 +38,7 @@
     {
       "appid": 2333000,
       "name": "Silver Pines",
-      "playtime_2weeks": 890,
+      "playtime_2weeks": 889,
       "playtime_forever": 1032,
       "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
       "playtime_windows_forever": 1032,
@@ -102,23 +102,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 259,
+      "playtime_forever": 259,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 259,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 728880,
       "name": "Overcooked! 2",
       "playtime_2weeks": 175,
       "playtime_forever": 737,
       "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
       "playtime_windows_forever": 737,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 942970,
-      "name": "Unheard",
-      "playtime_2weeks": 169,
-      "playtime_forever": 169,
-      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
-      "playtime_windows_forever": 169,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

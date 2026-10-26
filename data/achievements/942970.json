@@ -3,14 +3,14 @@
   "appid": 942970,
   "game": "Unheard",
   "total": 12,
-  "unlocked": 3,
-  "percent": 25.0,
-  "updated_at_utc": "2026-10-26T16:33:06.753358+00:00",
+  "unlocked": 5,
+  "percent": 41.7,
+  "updated_at_utc": "2026-10-26T22:21:54.012234+00:00",
   "achievements": [
     {
       "apiname": "ACHIEVEMENT_ASHTRAY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793036015,
       "name": "Delusion",
       "description": ""
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ACHIEVEMENT_NOTOOLS_R5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793033041,
       "name": "Mental Hospital",
       "description": "Passed the fifth test without fast-forwarding and rewinding the audio or using the progress bar."
     },

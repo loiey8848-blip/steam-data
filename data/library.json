@@ -1,135 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-26T16:34:32.745590+00:00",
+  "updated_at_utc": "2026-10-26T22:23:22.212709+00:00",
   "owned_games": 1692,
-  "new_games": [
-    {
-      "appid": 2797960,
-      "name": "Confidential Killings",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1150090,
-      "name": "Learning Factory",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 2644610,
-      "name": "Menace from the Deep",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1386900,
-      "name": "Observer: System Redux",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1190170,
-      "name": "OlliOlli World",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 539470,
-      "name": "Police Stories",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 421120,
-      "name": "Samorost 3",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1865960,
-      "name": "Symphonia",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 2390230,
-      "name": "The Chef's Shift",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1941410,
-      "name": "The Cub",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 970830,
-      "name": "The Dungeon Of Naheulbeuk: The Amulet Of Chaos",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 973760,
-      "name": "Thronebreaker: The Witcher Tales",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1075200,
-      "name": "TOHU",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 2078450,
-      "name": "Warhammer 40,000: Speed Freeks",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -14264,10 +14137,10 @@
     {
       "appid": 942970,
       "name": "Unheard - Voices of Crime",
-      "playtime_minutes": 169,
-      "playtime_hours": 2.8,
-      "last_played_unix": 1793031182,
-      "last_played_utc": "2026-10-26T16:13:02+00:00",
+      "playtime_minutes": 259,
+      "playtime_hours": 4.3,
+      "last_played_unix": 1793036580,
+      "last_played_utc": "2026-10-26T17:43:00+00:00",
       "recent": true
     },
     {
