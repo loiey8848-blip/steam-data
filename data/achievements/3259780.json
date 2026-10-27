@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 33,
-  "percent": 82.5,
-  "updated_at_utc": "2026-10-27T15:47:56.419539+00:00",
+  "unlocked": 38,
+  "percent": 95.0,
+  "updated_at_utc": "2026-10-27T20:30:33.734028+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -184,22 +184,22 @@
     },
     {
       "apiname": "0025",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793119059,
       "name": "The Weaponsmith",
       "description": ""
     },
     {
       "apiname": "0026",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793116246,
       "name": "Ancient Artifact",
       "description": ""
     },
     {
       "apiname": "0027",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793121584,
       "name": "Legendary Arms",
       "description": ""
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "0036",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793120583,
       "name": "Keep Them on Their Toes",
       "description": "Stagger enemies 1000 times."
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "0039",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793120477,
       "name": "My Name Is Ultima...",
       "description": ""
     }
