@@ -1,8 +1,72 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-27T09:41:03.331548+00:00",
-  "owned_games": 1692,
-  "new_games": [],
+  "updated_at_utc": "2026-10-27T15:48:00.502589+00:00",
+  "owned_games": 1699,
+  "new_games": [
+    {
+      "appid": 1269640,
+      "name": "Beacon Pines",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1084640,
+      "name": "Chicken Police",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1663220,
+      "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1231990,
+      "name": "Gestalt: Steam & Cinder",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1041920,
+      "name": "If Found",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1150950,
+      "name": "Timelie",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1898500,
+      "name": "Worldless",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -992,6 +1056,15 @@
       "playtime_hours": 2.7,
       "last_played_unix": 1528195228,
       "last_played_utc": "2018-06-05T10:40:28+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1269640,
+      "name": "Beacon Pines",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -1987,11 +2060,11 @@
     {
       "appid": 4935510,
       "name": "Cellar Keeper",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 49,
+      "playtime_hours": 0.8,
+      "last_played_unix": 1793102880,
+      "last_played_utc": "2026-10-27T12:08:00+00:00",
+      "recent": true
     },
     {
       "appid": 918570,
@@ -2023,6 +2096,15 @@
     {
       "appid": 1555110,
       "name": "Chasing Tails -A Promise in the Snow-",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1084640,
+      "name": "Chicken Police",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -2180,6 +2262,15 @@
       "playtime_hours": 9.6,
       "last_played_unix": 1782065954,
       "last_played_utc": "2026-06-21T18:19:14+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1663220,
+      "name": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -3715,10 +3806,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_minutes": 1285,
-      "playtime_hours": 21.4,
-      "last_played_unix": 1793027530,
-      "last_played_utc": "2026-10-26T15:12:10+00:00",
+      "playtime_minutes": 1488,
+      "playtime_hours": 24.8,
+      "last_played_unix": 1793115108,
+      "last_played_utc": "2026-10-27T15:31:48+00:00",
       "recent": true
     },
     {
@@ -4381,10 +4472,10 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_minutes": 2700,
-      "playtime_hours": 45.0,
-      "last_played_unix": 1793093251,
-      "last_played_utc": "2026-10-27T09:27:31+00:00",
+      "playtime_minutes": 2756,
+      "playtime_hours": 45.9,
+      "last_played_unix": 1793115457,
+      "last_played_utc": "2026-10-27T15:37:37+00:00",
       "recent": true
     },
     {
@@ -4840,6 +4931,15 @@
     {
       "appid": 1771360,
       "name": "Gerda: A Flame in Winter",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1231990,
+      "name": "Gestalt: Steam & Cinder",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -6073,6 +6173,15 @@
     {
       "appid": 393520,
       "name": "Iconoclasts",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1041920,
+      "name": "If Found",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13460,6 +13569,15 @@
       "recent": false
     },
     {
+      "appid": 1150950,
+      "name": "Timelie",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 3629780,
       "name": "Tingus Goose",
       "playtime_minutes": 0,
@@ -14812,6 +14930,15 @@
     {
       "appid": 2019360,
       "name": "World Cruise Story",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1898500,
+      "name": "Worldless",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

@@ -3,9 +3,9 @@
   "appid": 2622380,
   "game": "ELDEN RING NIGHTREIGN",
   "total": 37,
-  "unlocked": 27,
-  "percent": 73.0,
-  "updated_at_utc": "2026-10-27T09:40:35.495781+00:00",
+  "unlocked": 28,
+  "percent": 75.7,
+  "updated_at_utc": "2026-10-27T15:47:27.850833+00:00",
   "achievements": [
     {
       "apiname": "ACH00",
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "ACH21",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793111249,
       "name": "The Crater",
       "description": ""
     },
