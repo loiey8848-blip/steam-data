@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 28,
-  "percent": 70.0,
-  "updated_at_utc": "2026-10-27T03:54:50.121532+00:00",
+  "unlocked": 33,
+  "percent": 82.5,
+  "updated_at_utc": "2026-10-27T09:41:00.845260+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -107,15 +107,15 @@
     },
     {
       "apiname": "0014",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793076432,
       "name": "Arena Fighter",
       "description": "Clear all Brawler League fights in the Colosseum."
     },
     {
       "apiname": "0015",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793083607,
       "name": "Career Fighter",
       "description": "Clear all Gladiator League fights in the Colosseum."
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "0017",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793075985,
       "name": "Memento",
       "description": "Help the enigmatic princess regain her second memory."
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "0022",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793073330,
       "name": "The Harder They Fall",
       "description": "Defeat all cave masters."
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "0024",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793073439,
       "name": "The Weapon that Suits the User",
       "description": ""
     },
