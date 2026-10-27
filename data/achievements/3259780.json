@@ -3,9 +3,9 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 27,
-  "percent": 67.5,
-  "updated_at_utc": "2026-10-26T22:23:19.721138+00:00",
+  "unlocked": 28,
+  "percent": 70.0,
+  "updated_at_utc": "2026-10-27T03:54:50.121532+00:00",
   "achievements": [
     {
       "apiname": "0000",
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "0035",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793072186,
       "name": "The Sovereigns of the Planet",
       "description": "Gain help from all espers."
     },
