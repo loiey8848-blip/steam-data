@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-28T08:00:11.573653+00:00",
+  "updated_at_utc": "2026-10-28T15:00:30.893254+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -12831,6 +12831,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 3263880,
       "name": "Project DevourSlime",
       "playtime_minutes": 0,
@@ -18955,8 +18967,8 @@
       "name": "Unheard - Voices of Crime",
       "playtime_minutes": 259,
       "playtime_hours": 4.3,
-      "last_played_unix": 1793036580,
-      "last_played_utc": "2026-10-26T17:43:00+00:00",
+      "last_played_unix": 1793199324,
+      "last_played_utc": "2026-10-28T14:55:24+00:00",
       "recent": true,
       "achievements_unlocked": 5,
       "achievements_total": 12,

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-28T08:00:11.573653+00:00",
+  "updated_at_utc": "2026-10-28T15:00:30.893254+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -58,17 +58,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 322,
-      "playtime_forever": 1156,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 1156,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 774171,
       "name": "Muse Dash",
       "playtime_2weeks": 317,
@@ -119,6 +108,17 @@
       "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 369,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 152,
+      "playtime_forever": 1156,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 1156,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
