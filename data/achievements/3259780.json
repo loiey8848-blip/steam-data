@@ -3,14 +3,14 @@
   "appid": 3259780,
   "game": "FINAL FANTASY RESONANCE",
   "total": 40,
-  "unlocked": 38,
-  "percent": 95.0,
-  "updated_at_utc": "2026-10-28T01:02:39.500611+00:00",
+  "unlocked": 40,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-28T08:00:08.069947+00:00",
   "achievements": [
     {
       "apiname": "0000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793165230,
       "name": "Ultimate Fantasy",
       "description": "Obtain all achievements."
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "0037",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793165229,
       "name": "Resonance Rapid Fire",
       "description": "Use Resonances 400 times."
     },

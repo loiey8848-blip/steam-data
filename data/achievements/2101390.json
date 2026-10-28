@@ -3,9 +3,9 @@
   "appid": 2101390,
   "game": "Lost and Found Co.",
   "total": 31,
-  "unlocked": 29,
-  "percent": 93.5,
-  "updated_at_utc": "2026-10-28T01:02:12.593604+00:00",
+  "unlocked": 31,
+  "percent": 100.0,
+  "updated_at_utc": "2026-10-28T07:59:42.034058+00:00",
   "achievements": [
     {
       "apiname": "S001",
@@ -212,15 +212,15 @@
     },
     {
       "apiname": "R024",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793168421,
       "name": "Love After Life",
       "description": "Get a 100% completion on Love After Life"
     },
     {
       "apiname": "R027",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793171790,
       "name": "Fangtastic Feast",
       "description": "Get a 100% completion on Fangtastic Feast"
     }

@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-28T01:02:42.592073+00:00",
+  "updated_at_utc": "2026-10-28T08:00:11.573653+00:00",
   "games": [
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 2954,
-      "playtime_forever": 2954,
+      "playtime_2weeks": 3057,
+      "playtime_forever": 3057,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 2954,
+      "playtime_windows_forever": 3057,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -60,7 +60,7 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 588,
+      "playtime_2weeks": 322,
       "playtime_forever": 1156,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
       "playtime_windows_forever": 1156,
@@ -124,34 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2101390,
+      "name": "Lost and Found Co.",
+      "playtime_2weeks": 151,
+      "playtime_forever": 467,
+      "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
+      "playtime_windows_forever": 467,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2510710,
       "name": "Kunitsu-Gami: Path of the Goddess",
       "playtime_2weeks": 100,
       "playtime_forever": 439,
       "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
       "playtime_windows_forever": 439,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2101390,
-      "name": "Lost and Found Co.",
-      "playtime_2weeks": 73,
-      "playtime_forever": 390,
-      "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
-      "playtime_windows_forever": 390,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2333000,
-      "name": "Silver Pines",
-      "playtime_2weeks": 69,
-      "playtime_forever": 1032,
-      "img_icon_url": "5b9fcbd5a75488e819ee357efa00fd51d1751331",
-      "playtime_windows_forever": 1032,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
