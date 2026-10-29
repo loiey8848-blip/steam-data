@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-29T08:07:02.526565+00:00",
+  "updated_at_utc": "2026-10-29T16:40:33.119745+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2313,7 +2313,7 @@
       "playtime_hours": 0.2,
       "last_played_unix": 1792053673,
       "last_played_utc": "2026-10-15T08:41:13+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 0,
       "achievements_total": 52,
       "achievement_percent": 0.0
@@ -12293,14 +12293,14 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_minutes": 241,
-      "playtime_hours": 4.0,
-      "last_played_unix": 1793257756,
-      "last_played_utc": "2026-10-29T07:09:16+00:00",
+      "playtime_minutes": 348,
+      "playtime_hours": 5.8,
+      "last_played_unix": 1793289408,
+      "last_played_utc": "2026-10-29T15:56:48+00:00",
       "recent": true,
-      "achievements_unlocked": 5,
+      "achievements_unlocked": 8,
       "achievements_total": 66,
-      "achievement_percent": 7.6
+      "achievement_percent": 12.1
     },
     {
       "appid": 739630,

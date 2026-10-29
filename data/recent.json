@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-29T08:07:02.526565+00:00",
+  "updated_at_utc": "2026-10-29T16:40:33.119745+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -49,7 +49,7 @@
     {
       "appid": 5212940,
       "name": "Bunker Tidy Up",
-      "playtime_2weeks": 602,
+      "playtime_2weeks": 599,
       "playtime_forever": 911,
       "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
       "playtime_windows_forever": 911,
@@ -64,6 +64,17 @@
       "playtime_forever": 667,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
       "playtime_windows_forever": 667,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4115450,
+      "name": "Phantom Blade Zero",
+      "playtime_2weeks": 375,
+      "playtime_forever": 348,
+      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
+      "playtime_windows_forever": 348,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -86,17 +97,6 @@
       "playtime_forever": 265,
       "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
       "playtime_windows_forever": 265,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4115450,
-      "name": "Phantom Blade Zero",
-      "playtime_2weeks": 241,
-      "playtime_forever": 241,
-      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 241,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -185,17 +185,6 @@
       "playtime_forever": 19,
       "img_icon_url": "812ca02cc70c154543fb0381c9f7bfb2ca8ebe5b",
       "playtime_windows_forever": 19,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1588550,
-      "name": "Cairn",
-      "playtime_2weeks": 15,
-      "playtime_forever": 15,
-      "img_icon_url": "914a73b9181ab7b76cbe6f6b9b279fae3969ac80",
-      "playtime_windows_forever": 15,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
