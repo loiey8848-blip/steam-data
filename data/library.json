@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-29T01:37:26.115310+00:00",
+  "updated_at_utc": "2026-10-29T08:07:02.526565+00:00",
   "owned_games": 1703,
   "new_games": [],
   "games": [
@@ -9223,11 +9223,11 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 241,
+      "playtime_hours": 4.0,
+      "last_played_unix": 1793257756,
+      "last_played_utc": "2026-10-29T07:09:16+00:00",
+      "recent": true
     },
     {
       "appid": 739630,
