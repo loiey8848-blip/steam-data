@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 18,
-  "percent": 46.2,
-  "updated_at_utc": "2026-10-28T20:48:27.823918+00:00",
+  "unlocked": 22,
+  "percent": 56.4,
+  "updated_at_utc": "2026-10-29T01:35:42.978282+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "combo_master",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793235496,
       "name": "Full Combo Master",
       "description": "Get Full Combo in 30 different stages"
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "genre_of_awareness",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793233444,
       "name": "Stream of Consciousness",
       "description": "Totally knock back 300 Ghosts"
     },
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "abandoning_treatment",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793235496,
       "name": "Give Up Treatment",
       "description": ""
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "does_it_works",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793235496,
       "name": "Is That OK? ",
       "description": ""
     },
