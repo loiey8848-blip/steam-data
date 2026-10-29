@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 8,
-  "percent": 12.1,
-  "updated_at_utc": "2026-10-29T16:40:30.421813+00:00",
+  "unlocked": 10,
+  "percent": 15.2,
+  "updated_at_utc": "2026-10-29T22:31:21.177096+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "ACH_003",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793292289,
       "name": "Blotting Out the Sky",
       "description": ""
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "ACH_017",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793293438,
       "name": "A Thousand Cups Drained",
       "description": ""
     },
