@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 16,
-  "percent": 24.2,
-  "updated_at_utc": "2026-10-30T12:15:42.933032+00:00",
+  "unlocked": 18,
+  "percent": 27.3,
+  "updated_at_utc": "2026-10-30T19:02:50.452512+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "ACH_005",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793382792,
       "name": "Blossom of False Salvation",
       "description": ""
     },
@@ -408,8 +408,8 @@
     },
     {
       "apiname": "ACH_058",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793381803,
       "name": "Delayed Blast",
       "description": "Use Fiend Saws to trigger [Fiend-Aura Erosion]"
     },
