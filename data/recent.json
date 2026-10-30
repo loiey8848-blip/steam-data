@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-10-30T19:02:53.218407+00:00",
+  "updated_at_utc": "2026-10-30T23:31:35.509155+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -27,10 +27,10 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 1213,
-      "playtime_forever": 1213,
+      "playtime_2weeks": 1241,
+      "playtime_forever": 1241,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 1213,
+      "playtime_windows_forever": 1241,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -53,17 +53,6 @@
       "playtime_forever": 1033,
       "img_icon_url": "4c48e11e565e8ab566b1438e7398b789a34d42c1",
       "playtime_windows_forever": 1033,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 478,
-      "playtime_forever": 911,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 911,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -97,6 +86,17 @@
       "playtime_forever": 265,
       "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
       "playtime_windows_forever": 265,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5212940,
+      "name": "Bunker Tidy Up",
+      "playtime_2weeks": 209,
+      "playtime_forever": 911,
+      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
+      "playtime_windows_forever": 911,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
