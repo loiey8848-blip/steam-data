@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 13,
-  "percent": 19.7,
-  "updated_at_utc": "2026-10-30T04:36:49.196108+00:00",
+  "unlocked": 16,
+  "percent": 24.2,
+  "updated_at_utc": "2026-10-30T12:15:42.933032+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_019",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793362359,
       "name": "Will We Meet Again?",
       "description": ""
     },
@@ -310,8 +310,8 @@
     },
     {
       "apiname": "ACH_044",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793358028,
       "name": "Listen to Every Flower",
       "description": "Collect 10 Memory Flowers"
     },
@@ -457,8 +457,8 @@
     },
     {
       "apiname": "ACH_065",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793347168,
       "name": "A Friend from Thin Air",
       "description": "Use any Summon-type Phantom Edge to summon an ally"
     },
