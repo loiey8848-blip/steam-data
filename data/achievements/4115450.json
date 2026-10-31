@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 32,
-  "percent": 48.5,
-  "updated_at_utc": "2026-10-31T16:55:30.830353+00:00",
+  "unlocked": 37,
+  "percent": 56.1,
+  "updated_at_utc": "2026-10-31T21:04:57.518898+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "ACH_007",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793474429,
       "name": "A World Gone Hollow",
       "description": ""
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "ACH_028",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793472843,
       "name": "Master of the Misty Waters",
       "description": ""
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "ACH_031",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793469945,
       "name": "Three Wardens Fall",
       "description": ""
     },
@@ -331,8 +331,8 @@
     },
     {
       "apiname": "ACH_047",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793473724,
       "name": "Phantom Arsenal",
       "description": "Perform Tempering on 10 Phantom Edges"
     },
@@ -436,8 +436,8 @@
     },
     {
       "apiname": "ACH_062",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793468110,
       "name": "Turning the Tide",
       "description": ""
     },
