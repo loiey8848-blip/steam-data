@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 25,
-  "percent": 37.9,
-  "updated_at_utc": "2026-10-31T11:47:39.521786+00:00",
+  "unlocked": 32,
+  "percent": 48.5,
+  "updated_at_utc": "2026-10-31T16:55:30.830353+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ACH_008",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793453686,
       "name": "Who Can Judge?",
       "description": ""
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "ACH_021",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793452409,
       "name": "Sword Against the Seven-Stars",
       "description": ""
     },
@@ -240,15 +240,15 @@
     },
     {
       "apiname": "ACH_034",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793453587,
       "name": "The Last of Baishan",
       "description": "Complete [Secrets of the Baishan Sect]"
     },
     {
       "apiname": "ACH_035",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793448961,
       "name": "Together Till the End",
       "description": "Complete [The Journey Home]"
     },
@@ -373,8 +373,8 @@
     },
     {
       "apiname": "ACH_053",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793450024,
       "name": "Bloodless Victory",
       "description": "Use Soft Snake Sword's [Serpentine Reversal] to deflect an enemy attack"
     },
@@ -422,15 +422,15 @@
     },
     {
       "apiname": "ACH_060",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793454230,
       "name": "Baishan Tempest",
       "description": "Use Baishan Stormsword to unleash [Lightning Storm]"
     },
     {
       "apiname": "ACH_061",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793458402,
       "name": "Heavenfall Strike",
       "description": "Use Bashpole to land an aerial slam on an enemy"
     },
