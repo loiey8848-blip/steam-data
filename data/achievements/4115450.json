@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 23,
-  "percent": 34.8,
-  "updated_at_utc": "2026-10-31T04:18:54.574843+00:00",
+  "unlocked": 25,
+  "percent": 37.9,
+  "updated_at_utc": "2026-10-31T11:47:39.521786+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_020",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793435773,
       "name": "The Lion's Spirit Lives On",
       "description": ""
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "ACH_038",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793433970,
       "name": "The Healer’s Legacy",
       "description": "Complete [Flesh Lily], [Apprentice Healer], and [A Healer’s Mercy]"
     },
