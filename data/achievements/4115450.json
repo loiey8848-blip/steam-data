@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 18,
-  "percent": 27.3,
-  "updated_at_utc": "2026-10-30T23:31:32.774841+00:00",
+  "unlocked": 23,
+  "percent": 34.8,
+  "updated_at_utc": "2026-10-31T04:18:54.574843+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -44,8 +44,8 @@
     },
     {
       "apiname": "ACH_006",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793415379,
       "name": "Into the Deadly Trap",
       "description": ""
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "ACH_036",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793417307,
       "name": "A Wanderer's Honor",
       "description": "Complete [Young Master Lan]"
     },
@@ -324,8 +324,8 @@
     },
     {
       "apiname": "ACH_046",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793417451,
       "name": "Collector’s Notes",
       "description": "Collect 30 Accessories"
     },
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "ACH_052",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793418587,
       "name": "A Drunken Dream",
       "description": "Use Fanatic's Broken Blade to enter the [Drunk] State"
     },
@@ -443,8 +443,8 @@
     },
     {
       "apiname": "ACH_063",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793418694,
       "name": "Fists of Fury",
       "description": "Use Iron Gauntlets to perform [Masterstroke Fist]"
     },
