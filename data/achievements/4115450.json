@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 62,
-  "percent": 93.9,
-  "updated_at_utc": "2026-11-01T16:38:49.275574+00:00",
+  "unlocked": 66,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-01T21:47:41.843592+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "ACH_012",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793551478,
       "name": "Through Frost and Snow",
       "description": ""
     },
     {
       "apiname": "ACH_013",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793554665,
       "name": "With Heart and Blood",
       "description": ""
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_027",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793553418,
       "name": "All Dreams Must End",
       "description": ""
     },
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "ACH_066",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793556392,
       "name": "Defy Destiny",
       "description": "Unlock all other achievements"
     }
