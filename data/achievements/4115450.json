@@ -3,9 +3,9 @@
   "appid": 4115450,
   "game": "Phantom Blade Zero",
   "total": 66,
-  "unlocked": 46,
-  "percent": 69.7,
-  "updated_at_utc": "2026-11-01T08:48:33.881724+00:00",
+  "unlocked": 62,
+  "percent": 93.9,
+  "updated_at_utc": "2026-11-01T16:38:49.275574+00:00",
   "achievements": [
     {
       "apiname": "ACH_001",
@@ -72,15 +72,15 @@
     },
     {
       "apiname": "ACH_010",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793523816,
       "name": "Muddy Waters Run Deep",
       "description": ""
     },
     {
       "apiname": "ACH_011",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793539801,
       "name": "Blood Heralds the Dawn",
       "description": ""
     },
@@ -170,22 +170,22 @@
     },
     {
       "apiname": "ACH_024",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793538192,
       "name": "All Return to Dust",
       "description": ""
     },
     {
       "apiname": "ACH_025",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793523456,
       "name": "The White Shadow",
       "description": ""
     },
     {
       "apiname": "ACH_026",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793541794,
       "name": "Saw It Through",
       "description": ""
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "ACH_029",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793550957,
       "name": "The Four Freed",
       "description": ""
     },
@@ -226,15 +226,15 @@
     },
     {
       "apiname": "ACH_032",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793523635,
       "name": "Forbidden Arts Beneath the Lake",
       "description": "Complete [Secrets at the Heart of the Lake]"
     },
     {
       "apiname": "ACH_033",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793533215,
       "name": "Phantom and Blade",
       "description": "Complete [Bloodline Awakening]"
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "ACH_037",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793544661,
       "name": "Spectral Blade",
       "description": "Complete [A Severed Mindseal]"
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "ACH_039",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793535870,
       "name": "Lost and Found",
       "description": "Complete All [Quick Hand’s Requests]"
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "ACH_041",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793533215,
       "name": "A Tempered Ten",
       "description": "Perform Tempering on 10 weapons"
     },
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "ACH_043",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793550016,
       "name": "Complete Mastery",
       "description": "Collect 10 Sha-Chi Ambers"
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "ACH_045",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793544506,
       "name": "Leave No Stone Unturned",
       "description": "Collect 10 Blackstones"
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "ACH_054",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793533326,
       "name": "The Flame Within",
       "description": "Use Infernal Rouge to unleash [Phantom Blade]"
     },
@@ -394,15 +394,15 @@
     },
     {
       "apiname": "ACH_056",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793523612,
       "name": "Snow and Frost",
       "description": "Use Whiteshadow to freeze an enemy"
     },
     {
       "apiname": "ACH_057",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793529700,
       "name": "Cleave in Two",
       "description": "Use Crescent Blade's [Qinglong Cleave] to instantly kill an enemy"
     },
