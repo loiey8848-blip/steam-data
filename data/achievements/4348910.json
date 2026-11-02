@@ -1,0 +1,158 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4348910,
+  "game": "Probably Stolen",
+  "total": 21,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-11-02T08:58:17.001353+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_TUTORIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Steps",
+      "description": "Complete the tutorial."
+    },
+    {
+      "apiname": "ACH_BUYOUT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keys to the Kingdom",
+      "description": "Own the deed to the store."
+    },
+    {
+      "apiname": "ACH_HONEST_MERCHANT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Hands",
+      "description": "Win the game without selling a stolen or contraband item."
+    },
+    {
+      "apiname": "ACH_AUTHORIZED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Authorized",
+      "description": "Own the business permit."
+    },
+    {
+      "apiname": "ACH_RATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "We Have Rats!",
+      "description": "Start the game with the hidden scenario."
+    },
+    {
+      "apiname": "ACH_RAG_TO_RICHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Nothing",
+      "description": "Win the game starting from Rock Bottom."
+    },
+    {
+      "apiname": "ACH_NOTHING_TO_RICHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Nothing, the Hard Way",
+      "description": "Win the game starting from Rock Bottom on hard mode."
+    },
+    {
+      "apiname": "ACH_PERFECT_MEDIATOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Diplomatic",
+      "description": "Reach maximum reputation with any faction."
+    },
+    {
+      "apiname": "ACH_LUCKY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot",
+      "description": "Win the jackpot on a scratcher ticket."
+    },
+    {
+      "apiname": "ACH_SETTLED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comfortably Afloat",
+      "description": "Start a day with more than 10,000 credits in estimated total wealth."
+    },
+    {
+      "apiname": "ACH_RICH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Swimming in Credits",
+      "description": "Start a day with more than 100,000 credits in estimated total wealth."
+    },
+    {
+      "apiname": "ACH_LAB_PURE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say My Name",
+      "description": "Produce a Lab Pure grade narcotic item."
+    },
+    {
+      "apiname": "ACH_HUGE_NUTRIFRUIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Green Thumb",
+      "description": "Produce a Huge Nutrifruit from the Hydroponic."
+    },
+    {
+      "apiname": "ACH_PRODIGIOUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Prodigious",
+      "description": "Own the store deed before day 50."
+    },
+    {
+      "apiname": "ACH_SHINY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shiny",
+      "description": "Start a day with 1,000 store attractiveness."
+    },
+    {
+      "apiname": "ACH_OVERLOAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cranked to Eleven",
+      "description": "Reach +250 Quality on any machine."
+    },
+    {
+      "apiname": "ACH_MODEL_CITIZEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snitches Get Riches",
+      "description": "Report 10 criminals."
+    },
+    {
+      "apiname": "ACH_AUG_HUNTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aug Hunter",
+      "description": "Shoot 10 augmented."
+    },
+    {
+      "apiname": "ACH_LOWER_LEVELS_SPECIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lower Levels Special",
+      "description": "Change the label of any item using the labeler."
+    },
+    {
+      "apiname": "ACH_MASTER_APPRAISER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "An Eye for Value",
+      "description": "Get 10 perfect appraisals."
+    },
+    {
+      "apiname": "ACH_INDUSTRIOUS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Industrious",
+      "description": "Own 10 machines simultaneously at the start of a day."
+    }
+  ]
+}

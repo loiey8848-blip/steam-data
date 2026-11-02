@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-02T01:20:40.368054+00:00",
+  "updated_at_utc": "2026-11-02T08:58:17.726064+00:00",
   "owned_games": 1703,
   "new_games": [],
   "games": [
@@ -4678,11 +4678,11 @@
     {
       "appid": 5245810,
       "name": "ForgeTax",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 83,
+      "playtime_hours": 1.4,
+      "last_played_unix": 1793609016,
+      "last_played_utc": "2026-11-02T08:43:36+00:00",
+      "recent": true
     },
     {
       "appid": 1296980,
@@ -9628,11 +9628,11 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_minutes": 0,
+      "playtime_minutes": 1,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "last_played_unix": 1793592458,
+      "last_played_utc": "2026-11-02T04:07:38+00:00",
+      "recent": true
     },
     {
       "appid": 3263880,
@@ -14060,7 +14060,7 @@
       "playtime_hours": 5.3,
       "last_played_unix": 1792388421,
       "last_played_utc": "2026-10-19T05:40:21+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 2732020,

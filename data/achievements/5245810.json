@@ -1,0 +1,144 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 5245810,
+  "game": "ForgeTax",
+  "total": 19,
+  "unlocked": 15,
+  "percent": 78.9,
+  "updated_at_utc": "2026-11-02T08:58:17.686012+00:00",
+  "achievements": [
+    {
+      "apiname": "FORGE20_CITADEL",
+      "achieved": 1,
+      "unlocktime": 1793606308,
+      "name": "Citadel Sword Mastery",
+      "description": "Forge a Citadel Sword to +20."
+    },
+    {
+      "apiname": "FORGE20_HOLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holy Sword Mastery",
+      "description": "Forge a Holy Sword to +20."
+    },
+    {
+      "apiname": "FORGE20_SAW",
+      "achieved": 1,
+      "unlocktime": 1793608399,
+      "name": "Sawblade Mastery",
+      "description": "Forge a Sawblade to +20."
+    },
+    {
+      "apiname": "FORGE20_DRAGON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragonfang Mastery",
+      "description": "Forge a Dragonfang to +20."
+    },
+    {
+      "apiname": "FORGE20_RUNE",
+      "achieved": 1,
+      "unlocktime": 1793607506,
+      "name": "Runeblade Mastery",
+      "description": "Forge a Runeblade to +20."
+    },
+    {
+      "apiname": "FORGE20_SPLIT",
+      "achieved": 1,
+      "unlocktime": 1793594437,
+      "name": "Splitblade Mastery",
+      "description": "Forge a Splitblade to +20."
+    },
+    {
+      "apiname": "FORGE20_WORLDTREE",
+      "achieved": 1,
+      "unlocktime": 1793609744,
+      "name": "World Tree Mastery",
+      "description": "Forge a World Tree to +20."
+    },
+    {
+      "apiname": "FORGE20_FISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fishblade Mastery",
+      "description": "Forge a Fishblade to +20."
+    },
+    {
+      "apiname": "FORGE_FIRST10",
+      "achieved": 1,
+      "unlocktime": 1793593415,
+      "name": "One More Hit?",
+      "description": "Forge any sword to +10 for the first time."
+    },
+    {
+      "apiname": "FORGE_FIRSTDEATH",
+      "achieved": 1,
+      "unlocktime": 1793594636,
+      "name": "Now Hiring",
+      "description": "Die to the dragon for the first time."
+    },
+    {
+      "apiname": "FORGE_FIRSTFRENZY",
+      "achieved": 1,
+      "unlocktime": 1793592890,
+      "name": "Hammer Time",
+      "description": "Enter Frenzy for the first time outside the tutorial."
+    },
+    {
+      "apiname": "FORGE_CLEAR",
+      "achieved": 1,
+      "unlocktime": 1793608670,
+      "name": "Clocking Out",
+      "description": "Survive through May 5 and complete your contract."
+    },
+    {
+      "apiname": "FORGE20_FUNERARY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Funerary Sword Mastery",
+      "description": "Forge a Funerary Sword to +20."
+    },
+    {
+      "apiname": "FORGE_BROKEN10",
+      "achieved": 1,
+      "unlocktime": 1793593536,
+      "name": "All Thumbs",
+      "description": "Break 10 swords in one run."
+    },
+    {
+      "apiname": "FORGE_FRENZY5",
+      "achieved": 1,
+      "unlocktime": 1793593701,
+      "name": "No Rest for the Hammer",
+      "description": "Enter Frenzy 5 times in one run."
+    },
+    {
+      "apiname": "FORGE_TRIPLETRIBUTE",
+      "achieved": 1,
+      "unlocktime": 1793593235,
+      "name": "Keep the Change",
+      "description": "Pay at least 3 times the tribute requirement."
+    },
+    {
+      "apiname": "FORGE_LASTCHANCE",
+      "achieved": 1,
+      "unlocktime": 1793607181,
+      "name": "One Last Chance",
+      "description": "Pay tribute in full at the last Rage stage."
+    },
+    {
+      "apiname": "FORGE_SOLDOUT",
+      "achieved": 1,
+      "unlocktime": 1793606338,
+      "name": "I’ll Take Everything",
+      "description": "Buy all stock during one merchant visit."
+    },
+    {
+      "apiname": "FORGE_OVERTIME3",
+      "achieved": 1,
+      "unlocktime": 1793608924,
+      "name": "A Job for Life",
+      "description": "Pay tribute in full 3 times after completing the contract."
+    }
+  ]
+}
