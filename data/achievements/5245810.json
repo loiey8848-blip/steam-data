@@ -3,9 +3,9 @@
   "appid": 5245810,
   "game": "ForgeTax",
   "total": 19,
-  "unlocked": 15,
-  "percent": 78.9,
-  "updated_at_utc": "2026-11-02T08:58:17.686012+00:00",
+  "unlocked": 19,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-02T20:02:16.939446+00:00",
   "achievements": [
     {
       "apiname": "FORGE20_CITADEL",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "FORGE20_HOLY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793612162,
       "name": "Holy Sword Mastery",
       "description": "Forge a Holy Sword to +20."
     },
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "FORGE20_DRAGON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793611629,
       "name": "Dragonfang Mastery",
       "description": "Forge a Dragonfang to +20."
     },
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "FORGE20_FISH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793612896,
       "name": "Fishblade Mastery",
       "description": "Forge a Fishblade to +20."
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "FORGE20_FUNERARY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793613861,
       "name": "Funerary Sword Mastery",
       "description": "Forge a Funerary Sword to +20."
     },

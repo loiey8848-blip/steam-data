@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-02T08:58:17.726064+00:00",
+  "updated_at_utc": "2026-11-02T20:02:16.979623+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -6233,14 +6233,14 @@
     {
       "appid": 5245810,
       "name": "ForgeTax",
-      "playtime_minutes": 83,
-      "playtime_hours": 1.4,
-      "last_played_unix": 1793609016,
-      "last_played_utc": "2026-11-02T08:43:36+00:00",
+      "playtime_minutes": 169,
+      "playtime_hours": 2.8,
+      "last_played_unix": 1793614202,
+      "last_played_utc": "2026-11-02T10:10:02+00:00",
       "recent": true,
-      "achievements_unlocked": 15,
+      "achievements_unlocked": 19,
       "achievements_total": 19,
-      "achievement_percent": 78.9
+      "achievement_percent": 100.0
     },
     {
       "appid": 1296980,
@@ -11949,7 +11949,7 @@
       "playtime_hours": 12.3,
       "last_played_unix": 1792423342,
       "last_played_utc": "2026-10-19T15:22:22+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 15,
       "achievements_total": 54,
       "achievement_percent": 27.8

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-02T08:58:17.726064+00:00",
+  "updated_at_utc": "2026-11-02T20:02:16.979623+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -69,12 +69,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 728880,
-      "name": "Overcooked! 2",
-      "playtime_2weeks": 175,
-      "playtime_forever": 737,
-      "img_icon_url": "bac36f471109038ae0b40619de4109d475f86a54",
-      "playtime_windows_forever": 737,
+      "appid": 5245810,
+      "name": "ForgeTax",
+      "playtime_2weeks": 169,
+      "playtime_forever": 169,
+      "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
+      "playtime_windows_forever": 169,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,28 +113,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 5245810,
-      "name": "ForgeTax",
-      "playtime_2weeks": 83,
-      "playtime_forever": 83,
-      "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
-      "playtime_windows_forever": 83,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5212940,
-      "name": "Bunker Tidy Up",
-      "playtime_2weeks": 71,
-      "playtime_forever": 911,
-      "img_icon_url": "6d9d98f29a6ef707427a2c8307bd6c48522dfcb0",
-      "playtime_windows_forever": 911,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4935510,
       "name": "Cellar Keeper",
       "playtime_2weeks": 49,
@@ -146,23 +124,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2336220,
-      "name": "Feed The Cups",
-      "playtime_2weeks": 29,
-      "playtime_forever": 1063,
-      "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
-      "playtime_windows_forever": 1063,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 998940,
       "name": "隐形守护者 The Invisible Guardian",
       "playtime_2weeks": 19,
       "playtime_forever": 19,
       "img_icon_url": "812ca02cc70c154543fb0381c9f7bfb2ca8ebe5b",
       "playtime_windows_forever": 19,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2336220,
+      "name": "Feed The Cups",
+      "playtime_2weeks": 3,
+      "playtime_forever": 1063,
+      "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
+      "playtime_windows_forever": 1063,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
