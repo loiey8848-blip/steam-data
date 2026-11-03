@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-03T11:41:54.821877+00:00",
+  "updated_at_utc": "2026-11-03T19:09:33.716664+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -49,7 +49,7 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 381,
+      "playtime_2weeks": 326,
       "playtime_forever": 667,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
       "playtime_windows_forever": 667,
@@ -80,23 +80,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 124,
-      "playtime_forever": 369,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 369,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2101390,
       "name": "Lost and Found Co.",
       "playtime_2weeks": 77,
       "playtime_forever": 467,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 467,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 56,
+      "playtime_forever": 369,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "playtime_windows_forever": 369,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
