@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-03T02:14:05.340699+00:00",
+  "updated_at_utc": "2026-11-03T11:41:54.821877+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -16,10 +16,10 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 2981,
-      "playtime_forever": 2981,
+      "playtime_2weeks": 3020,
+      "playtime_forever": 3020,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 2981,
+      "playtime_windows_forever": 3020,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -38,7 +38,7 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_2weeks": 722,
+      "playtime_2weeks": 675,
       "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
       "playtime_windows_forever": 11844,
@@ -82,7 +82,7 @@
     {
       "appid": 2348610,
       "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 160,
+      "playtime_2weeks": 124,
       "playtime_forever": 369,
       "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
       "playtime_windows_forever": 369,
@@ -93,7 +93,7 @@
     {
       "appid": 2101390,
       "name": "Lost and Found Co.",
-      "playtime_2weeks": 151,
+      "playtime_2weeks": 77,
       "playtime_forever": 467,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 467,
@@ -102,12 +102,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2510710,
-      "name": "Kunitsu-Gami: Path of the Goddess",
-      "playtime_2weeks": 100,
-      "playtime_forever": 439,
-      "img_icon_url": "eed34c4514638511aac4fae06d34db86cbf81b55",
-      "playtime_windows_forever": 439,
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 54,
+      "playtime_forever": 54,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 54,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -135,34 +135,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2336220,
-      "name": "Feed The Cups",
-      "playtime_2weeks": 3,
-      "playtime_forever": 1063,
-      "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
-      "playtime_windows_forever": 1063,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2072420,
       "name": "Beastie Bay DX",
       "playtime_2weeks": 2,
       "playtime_forever": 2,
       "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
       "playtime_windows_forever": 2,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
