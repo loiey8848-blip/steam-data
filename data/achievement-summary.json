@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-04T00:27:03.529458+00:00",
+  "updated_at_utc": "2026-11-04T08:43:10.022733+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -12833,14 +12833,14 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_minutes": 54,
-      "playtime_hours": 0.9,
-      "last_played_unix": 1793693416,
-      "last_played_utc": "2026-11-03T08:10:16+00:00",
+      "playtime_minutes": 162,
+      "playtime_hours": 2.7,
+      "last_played_unix": 1793779118,
+      "last_played_utc": "2026-11-04T07:58:38+00:00",
       "recent": true,
-      "achievements_unlocked": 0,
+      "achievements_unlocked": 1,
       "achievements_total": 21,
-      "achievement_percent": 0.0
+      "achievement_percent": 4.8
     },
     {
       "appid": 3263880,
@@ -18737,11 +18737,11 @@
     {
       "appid": 4934370,
       "name": "TV Archive: Tidy Up Together",
-      "playtime_minutes": 316,
-      "playtime_hours": 5.3,
-      "last_played_unix": 1792388421,
-      "last_played_utc": "2026-10-19T05:40:21+00:00",
-      "recent": false,
+      "playtime_minutes": 541,
+      "playtime_hours": 9.0,
+      "last_played_unix": 1793774277,
+      "last_played_utc": "2026-11-04T06:37:57+00:00",
+      "recent": true,
       "achievements_unlocked": 14,
       "achievements_total": 15,
       "achievement_percent": 93.3

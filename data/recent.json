@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-04T00:27:03.529458+00:00",
+  "updated_at_utc": "2026-11-04T08:43:10.022733+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -38,21 +38,10 @@
     {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_2weeks": 675,
+      "playtime_2weeks": 529,
       "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
       "playtime_windows_forever": 11844,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 326,
-      "playtime_forever": 667,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 667,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,12 +58,45 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4934370,
+      "name": "TV Archive: Tidy Up Together",
+      "playtime_2weeks": 225,
+      "playtime_forever": 541,
+      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
+      "playtime_windows_forever": 541,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 189,
+      "playtime_forever": 667,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 667,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5245810,
       "name": "ForgeTax",
       "playtime_2weeks": 169,
       "playtime_forever": 169,
       "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
       "playtime_windows_forever": 169,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 162,
+      "playtime_forever": 162,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 162,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -91,34 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 56,
-      "playtime_forever": 369,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 369,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 54,
-      "playtime_forever": 54,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 54,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 4935510,
       "name": "Cellar Keeper",
       "playtime_2weeks": 49,
       "playtime_forever": 49,
       "img_icon_url": "8315ab443c4761dc6c13bd483f94887883dacb48",
       "playtime_windows_forever": 49,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2348610,
+      "name": "Slime 3K: Rise Against Despot",
+      "playtime_2weeks": 29,
+      "playtime_forever": 369,
+      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
+      "playtime_windows_forever": 369,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

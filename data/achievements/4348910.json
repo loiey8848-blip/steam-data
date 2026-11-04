@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-11-04T00:27:03.100576+00:00",
+  "unlocked": 1,
+  "percent": 4.8,
+  "updated_at_utc": "2026-11-04T08:43:09.442920+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_LOWER_LEVELS_SPECIAL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793757909,
       "name": "Lower Levels Special",
       "description": "Change the label of any item using the labeler."
     },
