@@ -3,14 +3,14 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 1,
-  "percent": 4.8,
-  "updated_at_utc": "2026-11-04T08:43:09.442920+00:00",
+  "unlocked": 2,
+  "percent": 9.5,
+  "updated_at_utc": "2026-11-04T17:49:35.603818+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793810405,
       "name": "First Steps",
       "description": "Complete the tutorial."
     },

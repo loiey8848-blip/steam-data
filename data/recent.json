@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-04T08:43:10.022733+00:00",
+  "updated_at_utc": "2026-11-04T17:49:36.777598+00:00",
   "games": [
     {
       "appid": 3259780,
@@ -36,9 +36,20 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 265,
+      "playtime_forever": 265,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 265,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1938090,
       "name": "Call of Duty®",
-      "playtime_2weeks": 529,
+      "playtime_2weeks": 263,
       "playtime_forever": 11844,
       "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
       "playtime_windows_forever": 11844,
@@ -47,12 +58,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 942970,
-      "name": "Unheard",
-      "playtime_2weeks": 265,
-      "playtime_forever": 265,
-      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
-      "playtime_windows_forever": 265,
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 252,
+      "playtime_forever": 252,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 252,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,17 +80,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 189,
-      "playtime_forever": 667,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 667,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 5245810,
       "name": "ForgeTax",
       "playtime_2weeks": 169,
@@ -91,12 +91,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 162,
-      "playtime_forever": 162,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 162,
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 167,
+      "playtime_forever": 667,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 667,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
