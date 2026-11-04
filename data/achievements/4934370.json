@@ -3,9 +3,9 @@
   "appid": 4934370,
   "game": "TV Archive: Tidy Up Together",
   "total": 15,
-  "unlocked": 14,
-  "percent": 93.3,
-  "updated_at_utc": "2026-11-04T17:49:35.747850+00:00",
+  "unlocked": 15,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-04T23:18:12.102441+00:00",
   "achievements": [
     {
       "apiname": "FIRSTBOOK",
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "MASTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793833772,
       "name": "Archive Master",
       "description": "Complete the game without using any skills"
     }
