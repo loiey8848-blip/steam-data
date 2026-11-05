@@ -1,27 +1,8 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-05T14:05:32.148184+00:00",
+  "updated_at_utc": "2026-11-05T21:49:46.899077+00:00",
   "owned_games": 1705,
-  "new_games": [
-    {
-      "appid": 1341820,
-      "name": "As Dusk Falls",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    },
-    {
-      "appid": 1466640,
-      "name": "Road 96",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
-    }
-  ],
+  "new_games": [],
   "games": [
     {
       "appid": 3768760,
@@ -1794,7 +1775,7 @@
       "playtime_hours": 197.4,
       "last_played_unix": 1792694189,
       "last_played_utc": "2026-10-22T18:36:29+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 3595230,
@@ -8234,10 +8215,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 667,
-      "playtime_hours": 11.1,
-      "last_played_unix": 1793236026,
-      "last_played_utc": "2026-10-29T01:07:06+00:00",
+      "playtime_minutes": 669,
+      "playtime_hours": 11.2,
+      "last_played_unix": 1793901078,
+      "last_played_utc": "2026-11-05T17:51:18+00:00",
       "recent": true
     },
     {

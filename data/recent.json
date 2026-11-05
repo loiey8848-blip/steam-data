@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-05T14:05:32.148184+00:00",
+  "updated_at_utc": "2026-11-05T21:49:46.899077+00:00",
   "games": [
     {
       "appid": 4115450,
@@ -27,7 +27,7 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 813,
+      "playtime_2weeks": 721,
       "playtime_forever": 1488,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1488,
@@ -80,17 +80,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 119,
-      "playtime_forever": 667,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 667,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2101390,
       "name": "Lost and Found Co.",
       "playtime_2weeks": 77,
@@ -102,12 +91,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 76,
-      "playtime_forever": 11844,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11844,
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 66,
+      "playtime_forever": 669,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 669,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
