@@ -1,7 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-04T23:18:12.487147+00:00",
+  "updated_at_utc": "2026-11-05T05:22:08.089499+00:00",
   "games": [
+    {
+      "appid": 4115450,
+      "name": "Phantom Blade Zero",
+      "playtime_2weeks": 3059,
+      "playtime_forever": 3059,
+      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
+      "playtime_windows_forever": 3059,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
@@ -9,17 +20,6 @@
       "playtime_forever": 3057,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3057,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4115450,
-      "name": "Phantom Blade Zero",
-      "playtime_2weeks": 3020,
-      "playtime_forever": 3020,
-      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 3020,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -47,34 +47,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 314,
+      "playtime_forever": 314,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 314,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 942970,
       "name": "Unheard",
       "playtime_2weeks": 265,
       "playtime_forever": 265,
       "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
       "playtime_windows_forever": 265,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 252,
-      "playtime_forever": 252,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 252,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 186,
-      "playtime_forever": 11844,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11844,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -97,6 +86,17 @@
       "playtime_forever": 667,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
       "playtime_windows_forever": 667,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 120,
+      "playtime_forever": 11844,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11844,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
