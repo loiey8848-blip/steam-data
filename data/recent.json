@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-05T05:22:08.089499+00:00",
+  "updated_at_utc": "2026-11-05T14:05:32.148184+00:00",
   "games": [
     {
       "appid": 4115450,
@@ -27,7 +27,7 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 925,
+      "playtime_2weeks": 813,
       "playtime_forever": 1488,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1488,
@@ -49,10 +49,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 314,
-      "playtime_forever": 314,
+      "playtime_2weeks": 331,
+      "playtime_forever": 331,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 314,
+      "playtime_windows_forever": 331,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -82,21 +82,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 167,
+      "playtime_2weeks": 119,
       "playtime_forever": 667,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
       "playtime_windows_forever": 667,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1938090,
-      "name": "Call of Duty®",
-      "playtime_2weeks": 120,
-      "playtime_forever": 11844,
-      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
-      "playtime_windows_forever": 11844,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,23 +102,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1938090,
+      "name": "Call of Duty®",
+      "playtime_2weeks": 76,
+      "playtime_forever": 11844,
+      "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+      "playtime_windows_forever": 11844,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4935510,
       "name": "Cellar Keeper",
       "playtime_2weeks": 49,
       "playtime_forever": 49,
       "img_icon_url": "8315ab443c4761dc6c13bd483f94887883dacb48",
       "playtime_windows_forever": 49,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2348610,
-      "name": "Slime 3K: Rise Against Despot",
-      "playtime_2weeks": 29,
-      "playtime_forever": 369,
-      "img_icon_url": "eb857f25aa72c7195c6d4c9f94e43c3fbbc745d2",
-      "playtime_windows_forever": 369,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -152,6 +141,17 @@
       "playtime_forever": 2,
       "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
       "playtime_windows_forever": 2,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1918540,
+      "name": "The Ramen Sensei",
+      "playtime_2weeks": 2,
+      "playtime_forever": 32,
+      "img_icon_url": "682179f9ed6c5234443aaa15537e1fed00a29a37",
+      "playtime_windows_forever": 32,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

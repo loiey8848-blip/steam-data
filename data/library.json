@@ -1,8 +1,27 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-05T05:22:08.089499+00:00",
-  "owned_games": 1703,
-  "new_games": [],
+  "updated_at_utc": "2026-11-05T14:05:32.148184+00:00",
+  "owned_games": 1705,
+  "new_games": [
+    {
+      "appid": 1341820,
+      "name": "As Dusk Falls",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1466640,
+      "name": "Road 96",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -623,6 +642,15 @@
       "playtime_hours": 2.4,
       "last_played_unix": 1698755753,
       "last_played_utc": "2023-10-31T12:35:53+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1341820,
+      "name": "As Dusk Falls",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -9628,10 +9656,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_minutes": 314,
-      "playtime_hours": 5.2,
-      "last_played_unix": 1793855761,
-      "last_played_utc": "2026-11-05T05:16:01+00:00",
+      "playtime_minutes": 331,
+      "playtime_hours": 5.5,
+      "last_played_unix": 1793856745,
+      "last_played_utc": "2026-11-05T05:32:25+00:00",
       "recent": true
     },
     {
@@ -10213,6 +10241,15 @@
     {
       "appid": 1337520,
       "name": "Risk of Rain Returns",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1466640,
+      "name": "Road 96",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11252,7 +11289,7 @@
       "playtime_hours": 6.2,
       "last_played_unix": 1792649811,
       "last_played_utc": "2026-10-22T06:16:51+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 433340,
@@ -13084,11 +13121,11 @@
     {
       "appid": 1918540,
       "name": "The Ramen Sensei",
-      "playtime_minutes": 29,
+      "playtime_minutes": 32,
       "playtime_hours": 0.5,
-      "last_played_unix": 1788845827,
-      "last_played_utc": "2026-09-08T05:37:07+00:00",
-      "recent": false
+      "last_played_unix": 1793886223,
+      "last_played_utc": "2026-11-05T13:43:43+00:00",
+      "recent": true
     },
     {
       "appid": 265590,

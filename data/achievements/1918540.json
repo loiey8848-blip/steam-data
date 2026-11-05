@@ -3,9 +3,9 @@
   "appid": 1918540,
   "game": "The Ramen Sensei",
   "total": 6,
-  "unlocked": 1,
-  "percent": 16.7,
-  "updated_at_utc": "2026-09-22T04:13:27.157936+00:00",
+  "unlocked": 3,
+  "percent": 50.0,
+  "updated_at_utc": "2026-11-05T14:04:53.650796+00:00",
   "achievements": [
     {
       "apiname": "KAIROKUN",
@@ -23,15 +23,15 @@
     },
     {
       "apiname": "RANK30",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793886063,
       "name": "An extraordinary management power.",
       "description": "Proof of getting the manager to rank 30."
     },
     {
       "apiname": "WIN30COMPET",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793886063,
       "name": "This is the true ramen.",
       "description": "Proof of getting a total of 30 victories."
     },
