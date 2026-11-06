@@ -1,8 +1,54 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-06T09:18:19.097017+00:00",
-  "owned_games": 1705,
-  "new_games": [],
+  "updated_at_utc": "2026-11-06T17:15:19.187846+00:00",
+  "owned_games": 1710,
+  "new_games": [
+    {
+      "appid": 1937500,
+      "name": "Let's School",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 3024130,
+      "name": "PAO PAO",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1286280,
+      "name": "Pronty",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1737870,
+      "name": "REKA",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1599020,
+      "name": "Tinykin",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -1037,7 +1083,7 @@
       "playtime_hours": 0.0,
       "last_played_unix": 1792762391,
       "last_played_utc": "2026-10-23T13:33:11+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 461950,
@@ -3751,10 +3797,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_minutes": 1488,
-      "playtime_hours": 24.8,
-      "last_played_unix": 1793115108,
-      "last_played_utc": "2026-10-27T15:31:48+00:00",
+      "playtime_minutes": 1638,
+      "playtime_hours": 27.3,
+      "last_played_unix": 1793983815,
+      "last_played_utc": "2026-11-06T16:50:15+00:00",
       "recent": true
     },
     {
@@ -7043,6 +7089,15 @@
       "recent": false
     },
     {
+      "appid": 1937500,
+      "name": "Let's School",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1456940,
       "name": "Level Zero: Extraction",
       "playtime_minutes": 0,
@@ -8215,10 +8270,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 774,
-      "playtime_hours": 12.9,
-      "last_played_unix": 1793954601,
-      "last_played_utc": "2026-11-06T08:43:21+00:00",
+      "playtime_minutes": 779,
+      "playtime_hours": 13.0,
+      "last_played_unix": 1793968963,
+      "last_played_utc": "2026-11-06T12:42:43+00:00",
       "recent": true
     },
     {
@@ -9059,6 +9114,15 @@
       "recent": false
     },
     {
+      "appid": 3024130,
+      "name": "PAO PAO",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1735950,
       "name": "Paper Bride",
       "playtime_minutes": 0,
@@ -9232,10 +9296,10 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_minutes": 3059,
+      "playtime_minutes": 3060,
       "playtime_hours": 51.0,
-      "last_played_unix": 1793852807,
-      "last_played_utc": "2026-11-05T04:26:47+00:00",
+      "last_played_unix": 1793967635,
+      "last_played_utc": "2026-11-06T12:20:35+00:00",
       "recent": true
     },
     {
@@ -9689,6 +9753,15 @@
       "recent": false
     },
     {
+      "appid": 1286280,
+      "name": "Pronty",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 734820,
       "name": "Protect Me",
       "playtime_minutes": 0,
@@ -9974,6 +10047,15 @@
       "playtime_hours": 4.2,
       "last_played_unix": 1789719859,
       "last_played_utc": "2026-09-18T08:24:19+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1737870,
+      "name": "REKA",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {
@@ -13601,6 +13683,15 @@
       "playtime_hours": 0.8,
       "last_played_unix": 1690125115,
       "last_played_utc": "2023-07-23T15:11:55+00:00",
+      "recent": false
+    },
+    {
+      "appid": 1599020,
+      "name": "Tinykin",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
       "recent": false
     },
     {

@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-06T09:18:19.097017+00:00",
+  "updated_at_utc": "2026-11-06T17:15:19.187846+00:00",
   "games": [
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 3059,
-      "playtime_forever": 3059,
+      "playtime_2weeks": 3060,
+      "playtime_forever": 3060,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 3059,
+      "playtime_windows_forever": 3060,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -16,7 +16,7 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 2601,
+      "playtime_2weeks": 2556,
       "playtime_forever": 3057,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3057,
@@ -27,10 +27,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 721,
-      "playtime_forever": 1488,
+      "playtime_2weeks": 871,
+      "playtime_forever": 1638,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1488,
+      "playtime_windows_forever": 1638,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -71,10 +71,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 171,
-      "playtime_forever": 774,
+      "playtime_2weeks": 176,
+      "playtime_forever": 779,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 774,
+      "playtime_windows_forever": 779,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -119,17 +119,6 @@
       "playtime_forever": 19,
       "img_icon_url": "812ca02cc70c154543fb0381c9f7bfb2ca8ebe5b",
       "playtime_windows_forever": 19,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2072420,
-      "name": "Beastie Bay DX",
-      "playtime_2weeks": 2,
-      "playtime_forever": 2,
-      "img_icon_url": "dda946aff1375b0e4ec5ed7a7884ab33ff89b362",
-      "playtime_windows_forever": 2,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

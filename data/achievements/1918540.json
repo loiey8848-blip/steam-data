@@ -3,9 +3,9 @@
   "appid": 1918540,
   "game": "The Ramen Sensei",
   "total": 6,
-  "unlocked": 3,
-  "percent": 50.0,
-  "updated_at_utc": "2026-11-06T09:17:39.050841+00:00",
+  "unlocked": 5,
+  "percent": 83.3,
+  "updated_at_utc": "2026-11-06T17:14:40.143744+00:00",
   "achievements": [
     {
       "apiname": "KAIROKUN",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "GAMECLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793982186,
       "name": "The noodles that keep spread forever.",
       "description": "Proof of running a ramen shop for many years."
     },
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "CUSTOMER500",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793982186,
       "name": "The stomach is also level up!",
       "description": "Proof that the total level of customers has reached 500."
     },
