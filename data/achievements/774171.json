@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 22,
-  "percent": 56.4,
-  "updated_at_utc": "2026-11-06T02:01:09.884823+00:00",
+  "unlocked": 24,
+  "percent": 61.5,
+  "updated_at_utc": "2026-11-06T09:16:35.795429+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "close_combat",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793948926,
       "name": "Melee Fight",
       "description": "Totally knock back 100 BOSS's melee attacks"
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "the_new_teaching",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793951711,
       "name": "Tutorial",
       "description": ""
     },
