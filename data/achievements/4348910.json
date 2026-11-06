@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 3,
-  "percent": 14.3,
-  "updated_at_utc": "2026-11-05T21:49:46.064993+00:00",
+  "unlocked": 4,
+  "percent": 19.0,
+  "updated_at_utc": "2026-11-06T02:02:55.921341+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_MASTER_APPRAISER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1793930007,
       "name": "An Eye for Value",
       "description": "Get 10 perfect appraisals."
     },
