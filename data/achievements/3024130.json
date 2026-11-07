@@ -1,0 +1,256 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3024130,
+  "game": "PAO PAO",
+  "total": 35,
+  "unlocked": 8,
+  "percent": 22.9,
+  "updated_at_utc": "2026-11-07T12:33:43.565236+00:00",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_0",
+      "achieved": 1,
+      "unlocktime": 1794033011,
+      "name": "Beginning of the Journey",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_1",
+      "achieved": 1,
+      "unlocktime": 1794035254,
+      "name": "Little Chef",
+      "description": "Serve 5 customers"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_2",
+      "achieved": 1,
+      "unlocktime": 1794043981,
+      "name": "Sous-Chef",
+      "description": "Serve 100 customers"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Head Chef",
+      "description": "Serve 1,000 customers"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_4",
+      "achieved": 1,
+      "unlocktime": 1794034349,
+      "name": "Entrepreneur",
+      "description": "Earn 1,000 coins"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_5",
+      "achieved": 1,
+      "unlocktime": 1794042153,
+      "name": "Businessman",
+      "description": "Earn 10,000 coins"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tycoon",
+      "description": "Earn 100,000 coins"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_7",
+      "achieved": 1,
+      "unlocktime": 1794037973,
+      "name": "Star Chef",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Friendly",
+      "description": "Reach a 3-heart relationship with any character"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Restaurateur",
+      "description": "Get a new building for the restaurant"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keeper of the Hearth",
+      "description": "Buy a new house"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aesthete",
+      "description": "Buy exterior customization for the restaurant"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Painter",
+      "description": "Buy exterior customization for the house"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comfort Creator",
+      "description": "Buy new floors or walls for the restaurant"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comfort Connoisseur",
+      "description": "Buy new floors or walls for the house"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Renovator",
+      "description": "Place 1 item in the house"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Decorator",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Amateur Angler",
+      "description": "Catch 10 fish"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "True Angler",
+      "description": "Catch 100 fish"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sea Dog",
+      "description": "Catch 300 fish"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Novice Farmer",
+      "description": "Plant 10 crops"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expert Farmer",
+      "description": "Plant 50 crops"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Agronomist",
+      "description": "Plant 100 crops"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of the City",
+      "description": "Have all businesses in town operating"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_25",
+      "achieved": 1,
+      "unlocktime": 1794035656,
+      "name": "Team Player",
+      "description": "Play with another player"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_26",
+      "achieved": 1,
+      "unlocktime": 1794037304,
+      "name": "Artisan",
+      "description": "Buy a perk"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dance Floor Star",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Musician",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Judge",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Corner-Cutter",
+      "description": ""
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Optimist",
+      "description": "Throw 100 coins into the fountain"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basketball Star",
+      "description": "Sink 10 basketballs through the hoop"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devoted Collector",
+      "description": "Spin the gachapon 100 times"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_11_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Detective",
+      "description": ""
+    }
+  ]
+}

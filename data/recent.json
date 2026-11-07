@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-07T04:51:48.146346+00:00",
+  "updated_at_utc": "2026-11-07T12:33:57.433749+00:00",
   "games": [
     {
       "appid": 4115450,
@@ -16,7 +16,7 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 2399,
+      "playtime_2weeks": 2168,
       "playtime_forever": 3057,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3057,
@@ -27,10 +27,10 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 903,
-      "playtime_forever": 1670,
+      "playtime_2weeks": 886,
+      "playtime_forever": 1689,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1670,
+      "playtime_windows_forever": 1689,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -49,10 +49,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 459,
-      "playtime_forever": 459,
+      "playtime_2weeks": 542,
+      "playtime_forever": 542,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 459,
+      "playtime_windows_forever": 542,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -64,6 +64,17 @@
       "playtime_forever": 265,
       "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
       "playtime_windows_forever": 265,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3024130,
+      "name": "PAO PAO",
+      "playtime_2weeks": 243,
+      "playtime_forever": 243,
+      "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
+      "playtime_windows_forever": 243,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
