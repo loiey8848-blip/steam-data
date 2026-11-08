@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 10,
-  "percent": 47.6,
-  "updated_at_utc": "2026-11-08T12:52:06.447232+00:00",
+  "unlocked": 12,
+  "percent": 57.1,
+  "updated_at_utc": "2026-11-08T18:43:14.045999+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -16,8 +16,8 @@
     },
     {
       "apiname": "ACH_BUYOUT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794156709,
       "name": "Keys to the Kingdom",
       "description": "Own the deed to the store."
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "ACH_LUCKY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794152197,
       "name": "Jackpot",
       "description": "Win the jackpot on a scratcher ticket."
     },
