@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-08T04:42:38.616872+00:00",
+  "updated_at_utc": "2026-11-08T12:52:07.055084+00:00",
   "games": [
     {
       "appid": 4115450,
@@ -16,10 +16,21 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 1815,
+      "playtime_2weeks": 1360,
       "playtime_forever": 3057,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3057,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 1136,
+      "playtime_forever": 1136,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 1136,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -31,17 +42,6 @@
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 648,
-      "playtime_forever": 648,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 648,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

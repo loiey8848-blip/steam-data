@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 7,
-  "percent": 33.3,
-  "updated_at_utc": "2026-11-08T04:42:38.210631+00:00",
+  "unlocked": 10,
+  "percent": 47.6,
+  "updated_at_utc": "2026-11-08T12:52:06.447232+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ACH_PERFECT_MEDIATOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794140421,
       "name": "Diplomatic",
       "description": "Reach maximum reputation with any faction."
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "ACH_RICH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794125876,
       "name": "Swimming in Credits",
       "description": "Start a day with more than 100,000 credits in estimated total wealth."
     },
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "ACH_HUGE_NUTRIFRUIT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794125163,
       "name": "Green Thumb",
       "description": "Produce a Huge Nutrifruit from the Hydroponic."
     },
