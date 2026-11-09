@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 12,
-  "percent": 57.1,
-  "updated_at_utc": "2026-11-09T04:52:29.242948+00:00",
+  "unlocked": 13,
+  "percent": 61.9,
+  "updated_at_utc": "2026-11-09T15:21:50.952230+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ACH_LAB_PURE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794234762,
       "name": "Say My Name",
       "description": "Produce a Lab Pure grade narcotic item."
     },

@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-09T04:52:29.821476+00:00",
+  "updated_at_utc": "2026-11-09T15:21:51.282871+00:00",
   "games": [
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 3060,
-      "playtime_forever": 3060,
+      "playtime_2weeks": 3064,
+      "playtime_forever": 3064,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 3060,
+      "playtime_windows_forever": 3064,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -16,10 +16,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 1996,
-      "playtime_forever": 1996,
+      "playtime_2weeks": 2361,
+      "playtime_forever": 2361,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 1996,
+      "playtime_windows_forever": 2361,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -27,10 +27,10 @@
     {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 946,
-      "playtime_forever": 3057,
+      "playtime_2weeks": 705,
+      "playtime_forever": 3058,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 3057,
+      "playtime_windows_forever": 3058,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -38,7 +38,7 @@
     {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 769,
+      "playtime_2weeks": 633,
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
@@ -93,7 +93,7 @@
     {
       "appid": 942970,
       "name": "Unheard",
-      "playtime_2weeks": 155,
+      "playtime_2weeks": 149,
       "playtime_forever": 265,
       "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
       "playtime_windows_forever": 265,
