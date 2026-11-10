@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-09T15:21:51.282871+00:00",
+  "updated_at_utc": "2026-11-10T00:01:12.657932+00:00",
   "games": [
     {
       "appid": 4115450,
@@ -16,10 +16,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 2361,
-      "playtime_forever": 2361,
+      "playtime_2weeks": 2569,
+      "playtime_forever": 2569,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 2361,
+      "playtime_windows_forever": 2569,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -91,17 +91,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 942970,
-      "name": "Unheard",
-      "playtime_2weeks": 149,
-      "playtime_forever": 265,
-      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
-      "playtime_windows_forever": 265,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2101390,
       "name": "Lost and Found Co.",
       "playtime_2weeks": 77,
@@ -119,6 +108,17 @@
       "playtime_forever": 49,
       "img_icon_url": "8315ab443c4761dc6c13bd483f94887883dacb48",
       "playtime_windows_forever": 49,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 942970,
+      "name": "Unheard",
+      "playtime_2weeks": 5,
+      "playtime_forever": 265,
+      "img_icon_url": "2db120c5515a9dc668fee02bc192fc6dd062b933",
+      "playtime_windows_forever": 265,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
