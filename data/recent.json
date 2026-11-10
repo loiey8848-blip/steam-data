@@ -1,7 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-10T06:58:31.673539+00:00",
+  "updated_at_utc": "2026-11-10T16:10:19.241976+00:00",
   "games": [
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 3103,
+      "playtime_forever": 3103,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3103,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
@@ -9,28 +20,6 @@
       "playtime_forever": 3064,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
       "playtime_windows_forever": 3064,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 2768,
-      "playtime_forever": 2768,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 2768,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 633,
-      "playtime_forever": 1918,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1918,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -47,9 +36,20 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2622380,
+      "name": "ELDEN RING NIGHTREIGN",
+      "playtime_2weeks": 430,
+      "playtime_forever": 1918,
+      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
+      "playtime_windows_forever": 1918,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 478,
+      "playtime_2weeks": 273,
       "playtime_forever": 3058,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3058,
@@ -97,17 +97,6 @@
       "playtime_forever": 467,
       "img_icon_url": "bfaaa98fd065fa07ba762803c72444d48dcce38d",
       "playtime_windows_forever": 467,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4935510,
-      "name": "Cellar Keeper",
-      "playtime_2weeks": 49,
-      "playtime_forever": 49,
-      "img_icon_url": "8315ab443c4761dc6c13bd483f94887883dacb48",
-      "playtime_windows_forever": 49,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
