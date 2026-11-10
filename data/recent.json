@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-10T16:10:19.241976+00:00",
+  "updated_at_utc": "2026-11-10T22:55:48.800068+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3103,
-      "playtime_forever": 3103,
+      "playtime_2weeks": 3198,
+      "playtime_forever": 3198,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3103,
+      "playtime_windows_forever": 3198,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -47,17 +47,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
-      "playtime_2weeks": 273,
-      "playtime_forever": 3058,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 3058,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3024130,
       "name": "PAO PAO",
       "playtime_2weeks": 249,
@@ -86,6 +75,17 @@
       "playtime_forever": 169,
       "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
       "playtime_windows_forever": 169,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3259780,
+      "name": "FINAL FANTASY RESONANCE",
+      "playtime_2weeks": 104,
+      "playtime_forever": 3058,
+      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
+      "playtime_windows_forever": 3058,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
