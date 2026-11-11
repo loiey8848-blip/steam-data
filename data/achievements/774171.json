@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 24,
-  "percent": 61.5,
-  "updated_at_utc": "2026-11-10T22:54:05.237003+00:00",
+  "unlocked": 28,
+  "percent": 71.8,
+  "updated_at_utc": "2026-11-11T04:53:41.939184+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -135,15 +135,15 @@
     },
     {
       "apiname": "some_shojo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794364885,
       "name": "Is the Order a Lovely Girl? ~ I started from scratch and did everything I could to become a Muse master with 14 lovely girls. However, when I looked forward to a happy life in this exotic world, I was suddenly thrown into a \"scene of carnage\" of gears and hanging hammers. There must be something wrong with my Lovely Girl Monogatari~ For these girls’ bright future, I must successfully play Lv.12 songs!",
       "description": "Totally unlock 14 characters"
     },
     {
       "apiname": "musemon_master",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794359080,
       "name": "Musemon Master",
       "description": "Totally collect 8 elfins"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "rear_end",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794363379,
       "name": "Uh-oh, a Rear-end Collision…",
       "description": "Clear a Blackest Luxury Car stage at any difficulty level"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "christmas",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794365102,
       "name": "I don't care about Christmas though",
       "description": "Clear a stage of I don’t care about Christmas though at any difficulty level"
     },

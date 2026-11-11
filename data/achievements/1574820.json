@@ -1,0 +1,214 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1574820,
+  "game": "Until Then",
+  "total": 29,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-11-11T04:54:44.594279+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_COCOON",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cocoon",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_LARVA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Larva",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_BUTTERFLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Butterfly",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_TVM_P1_COINS_ONLY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Barya Lang Sa Umaga",
+      "description": "Insert just 1-peso coins in the ticket vending machine."
+    },
+    {
+      "apiname": "ACH_TVM_WRONG_STATION_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cutting Classes",
+      "description": "Choose the wrong train station 10 times."
+    },
+    {
+      "apiname": "ACH_MATIGAS_ULO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Matigas ang Ulo Mo",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_HEAD_ARMOR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Head Armor",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_SOCMED_LIKE_OWN_COMM_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bighead",
+      "description": "Like own comment."
+    },
+    {
+      "apiname": "ACH_SOCMED_SHARE_POST_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "News Outlet",
+      "description": "Share 10 posts."
+    },
+    {
+      "apiname": "ACH_SOCMED_LIKE_COMM_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Marites",
+      "description": "Like 100 comments."
+    },
+    {
+      "apiname": "ACH_LIE_TO_LOUISE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pabigat na Groupmate",
+      "description": "Lie to Louise."
+    },
+    {
+      "apiname": "ACH_MEME_REPORT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rush B",
+      "description": "Make a meme-worthy book report."
+    },
+    {
+      "apiname": "ACH_FISHBALL_PERFECT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fishballer",
+      "description": "Don’t miss a single fishball."
+    },
+    {
+      "apiname": "ACH_RUN_ALL_FAIL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Anong Gentle Gentle?",
+      "description": "Fail to dodge all obstacles in the school halls."
+    },
+    {
+      "apiname": "ACH_RUN_ALL_OK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Isang Daang Porsyentong Lakas",
+      "description": "Dodge all obstacles in the school halls."
+    },
+    {
+      "apiname": "ACH_DART_INSTANT_BULLSEYE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jumong",
+      "description": "Bullseye on first dart throw."
+    },
+    {
+      "apiname": "ACH_ASWANG_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boy Tikbalang",
+      "description": "Win at Aswang World."
+    },
+    {
+      "apiname": "ACH_DASURV",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dasurv",
+      "description": "Stand up to gossip girls."
+    },
+    {
+      "apiname": "ACH_COOKIES_HEART",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lover Boy",
+      "description": "Choose heart-shaped cookies."
+    },
+    {
+      "apiname": "ACH_COOKIES_EMOJI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comedy King",
+      "description": "Choose emoji cookies."
+    },
+    {
+      "apiname": "ACH_VIDEOKE_85_99",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Did It My Way",
+      "description": "Get a 85-99 score on the videoke."
+    },
+    {
+      "apiname": "ACH_VIDEOKE_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birit Queen",
+      "description": "Get a 100 score on the videoke."
+    },
+    {
+      "apiname": "ACH_MANIA_AUDITION_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Virtuoso",
+      "description": "Get 100% Perfects on audition day."
+    },
+    {
+      "apiname": "ACH_BIKE_WIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cardio Dalisay",
+      "description": "Bike faster than Nicole."
+    },
+    {
+      "apiname": "ACH_JEEP_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "1-2-3",
+      "description": "Drop all coins when passing fare in the jeepney."
+    },
+    {
+      "apiname": "ACH_JEEP_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Basta Driver, Sweet Lover",
+      "description": "Don’t drop a coin when passing fare in the jeepney."
+    },
+    {
+      "apiname": "ACH_CUP_MORAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mabait na Bata",
+      "description": "Don’t take advantage of seeing where the ball is."
+    },
+    {
+      "apiname": "ACH_CARVE_CRAZY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making His Mark",
+      "description": "Carve the tree like crazy."
+    },
+    {
+      "apiname": "ACH_MISSING_PIECE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Missing Piece",
+      "description": ""
+    }
+  ]
+}
