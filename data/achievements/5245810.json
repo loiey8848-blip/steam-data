@@ -5,63 +5,63 @@
   "total": 19,
   "unlocked": 19,
   "percent": 100.0,
-  "updated_at_utc": "2026-11-12T02:45:55.877501+00:00",
+  "updated_at_utc": "2026-11-12T12:16:43.526252+00:00",
   "achievements": [
     {
       "apiname": "FORGE20_CITADEL",
       "achieved": 1,
       "unlocktime": 1793606308,
       "name": "Citadel Sword Mastery",
-      "description": "Forge a Citadel Sword to +20."
+      "description": "Forge a Citadel Sword to +30."
     },
     {
       "apiname": "FORGE20_HOLY",
       "achieved": 1,
       "unlocktime": 1793612162,
       "name": "Holy Sword Mastery",
-      "description": "Forge a Holy Sword to +20."
+      "description": "Forge a Holy Sword to +30."
     },
     {
       "apiname": "FORGE20_SAW",
       "achieved": 1,
       "unlocktime": 1793608399,
       "name": "Sawblade Mastery",
-      "description": "Forge a Sawblade to +20."
+      "description": "Forge a Sawblade to +30."
     },
     {
       "apiname": "FORGE20_DRAGON",
       "achieved": 1,
       "unlocktime": 1793611629,
       "name": "Dragonfang Mastery",
-      "description": "Forge a Dragonfang to +20."
+      "description": "Forge a Dragonfang to +30."
     },
     {
       "apiname": "FORGE20_RUNE",
       "achieved": 1,
       "unlocktime": 1793607506,
       "name": "Runeblade Mastery",
-      "description": "Forge a Runeblade to +20."
+      "description": "Forge a Runeblade to +30."
     },
     {
       "apiname": "FORGE20_SPLIT",
       "achieved": 1,
       "unlocktime": 1793594437,
       "name": "Splitblade Mastery",
-      "description": "Forge a Splitblade to +20."
+      "description": "Forge a Splitblade to +30."
     },
     {
       "apiname": "FORGE20_WORLDTREE",
       "achieved": 1,
       "unlocktime": 1793609744,
       "name": "World Tree Mastery",
-      "description": "Forge a World Tree to +20."
+      "description": "Forge a World Tree to +30."
     },
     {
       "apiname": "FORGE20_FISH",
       "achieved": 1,
       "unlocktime": 1793612896,
       "name": "Fishblade Mastery",
-      "description": "Forge a Fishblade to +20."
+      "description": "Forge a Fishblade to +30."
     },
     {
       "apiname": "FORGE_FIRST10",
@@ -89,20 +89,20 @@
       "achieved": 1,
       "unlocktime": 1793608670,
       "name": "Clocking Out",
-      "description": "Survive through May 5 and complete your contract."
+      "description": "Defeat the dragon and complete your contract."
     },
     {
       "apiname": "FORGE20_FUNERARY",
       "achieved": 1,
       "unlocktime": 1793613861,
       "name": "Funerary Sword Mastery",
-      "description": "Forge a Funerary Sword to +20."
+      "description": "Forge a Funerary Sword to +30."
     },
     {
       "apiname": "FORGE_BROKEN10",
       "achieved": 1,
       "unlocktime": 1793593536,
-      "name": "All Thumbs",
+      "name": "Dopamine Syringe",
       "description": "Break 10 swords in one run."
     },
     {
@@ -117,7 +117,7 @@
       "achieved": 1,
       "unlocktime": 1793593235,
       "name": "Keep the Change",
-      "description": "Pay at least 3 times the tribute requirement."
+      "description": "Pay at least 5 times the tribute requirement."
     },
     {
       "apiname": "FORGE_LASTCHANCE",
