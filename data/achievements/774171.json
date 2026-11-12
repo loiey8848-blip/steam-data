@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 28,
-  "percent": 71.8,
-  "updated_at_utc": "2026-11-12T12:14:58.574877+00:00",
+  "unlocked": 36,
+  "percent": 92.3,
+  "updated_at_utc": "2026-11-12T21:20:27.569750+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "point_to_walk",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794492845,
       "name": "Walk on the Tip of a Blade",
       "description": "Clear a song with Little Devil Marija"
     },
@@ -114,8 +114,8 @@
     },
     {
       "apiname": "love_fill_the_home",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794491104,
       "name": "Love Actually",
       "description": "Totally collect 300 Red Hearts"
     },
@@ -156,15 +156,15 @@
     },
     {
       "apiname": "trytry",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794493110,
       "name": "Have a Try?",
       "description": "Play a Lv.11 stage"
     },
     {
       "apiname": "sancheck",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794491531,
       "name": "Sancheck",
       "description": "Clear a Mopemope stage at any difficulty level"
     },
@@ -191,22 +191,22 @@
     },
     {
       "apiname": "trick_or_treat",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794491726,
       "name": "Trick or treat?",
       "description": "Clear an umpopoff stage at difficulty level \"?\""
     },
     {
       "apiname": "village",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794498884,
       "name": "Conquering the Newbie Zone",
       "description": "Finish the tutorial April Fool's Day ver"
     },
     {
       "apiname": "otherworld",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794493110,
       "name": "Inner World",
       "description": ""
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "no_man_land",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794491371,
       "name": "Mujinku",
       "description": ""
     },

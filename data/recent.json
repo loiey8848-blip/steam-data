@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-12T12:16:43.567014+00:00",
+  "updated_at_utc": "2026-11-12T21:22:13.286743+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3462,
-      "playtime_forever": 3462,
+      "playtime_2weeks": 3525,
+      "playtime_forever": 3525,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3462,
+      "playtime_windows_forever": 3525,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -16,7 +16,7 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 2746,
+      "playtime_2weeks": 2557,
       "playtime_forever": 3065,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
       "playtime_windows_forever": 3065,
@@ -36,23 +36,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 506,
+      "playtime_forever": 1174,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 1174,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
       "playtime_2weeks": 430,
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 324,
-      "playtime_forever": 992,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 992,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
