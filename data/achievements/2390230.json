@@ -1,0 +1,249 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2390230,
+  "game": "The Chef's Shift",
+  "total": 34,
+  "unlocked": 4,
+  "percent": 11.8,
+  "updated_at_utc": "2026-11-13T19:17:39.604115+00:00",
+  "achievements": [
+    {
+      "apiname": "CompleteChapter1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Last Supper",
+      "description": "Complete Italian Restaurant"
+    },
+    {
+      "apiname": "CompleteChapter2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dim Sum, Dim Memories",
+      "description": "Complete Chinese Restaurant"
+    },
+    {
+      "apiname": "CompleteChapter3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dia de los Muertos… Again",
+      "description": "Complete Mexican Restaurant"
+    },
+    {
+      "apiname": "CompleteChapter4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Udon Know the Truth",
+      "description": "Complete Japanese Restaurant"
+    },
+    {
+      "apiname": "CompleteChapter5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost in Seoul",
+      "description": "Complete Korean Restaurant"
+    },
+    {
+      "apiname": "CompleteChapter6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rice and Shine!",
+      "description": "Complete Indonesian Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Numero Uno",
+      "description": "Get all stars in the Italian Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Art of Wok",
+      "description": "Get all stars in the Chinese Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Holy Moly Guacamole!",
+      "description": "Get all stars in the Mexican Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banzai!",
+      "description": "Get all stars in the Japanese Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Done!",
+      "description": "Get all stars in the Korean Restaurant"
+    },
+    {
+      "apiname": "FullStarChapter6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bintang Lima",
+      "description": "Get all stars in the Indonesian Restaurant"
+    },
+    {
+      "apiname": "AllStarsAchieve",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All -Stars",
+      "description": "Get all stars in all restaurants in any difficulty"
+    },
+    {
+      "apiname": "AllStarsHardAchieve",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "When 'All-Stars' is not enough..",
+      "description": "Get all stars in all restaurants in Very Hard difficulty"
+    },
+    {
+      "apiname": "FirstUpgrade",
+      "achieved": 1,
+      "unlocktime": 1794585163,
+      "name": "From Rags...",
+      "description": "Upgrade restaurant for the first time"
+    },
+    {
+      "apiname": "CompleteUpgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...To Riches",
+      "description": "Fully upgrade a restaurant"
+    },
+    {
+      "apiname": "PeopleFavorite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "People's Favorite",
+      "description": "Serve all types of customer"
+    },
+    {
+      "apiname": "GourmetChef",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gourmet Chef",
+      "description": "Serve all variants of existing dish"
+    },
+    {
+      "apiname": "CompleteSideQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Task Left Behind",
+      "description": "Complete all side quests"
+    },
+    {
+      "apiname": "Pizzaiolo",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pizzapocalypse",
+      "description": "Serve 50 Pizza"
+    },
+    {
+      "apiname": "NoodlingAround",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noodling Around",
+      "description": "Serve 50 Fried Noodles"
+    },
+    {
+      "apiname": "TacoEmpire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taco Empire",
+      "description": "Serve 50 Tacos"
+    },
+    {
+      "apiname": "DonburiDynasty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Donburi Dynasty",
+      "description": "Serve 50 Donburi"
+    },
+    {
+      "apiname": "GrillMaster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grill Master",
+      "description": "Serve 50 BBQ"
+    },
+    {
+      "apiname": "InstantNoodle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instant Noodle, Instant Regret",
+      "description": "Serve 50 Instant Noodles"
+    },
+    {
+      "apiname": "RatExterminator1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Remy Allowed",
+      "description": "Exterminate a total of 200 rats"
+    },
+    {
+      "apiname": "EndlessReach",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Never-ending Feast",
+      "description": "Reach 1000 score in Endless Mode"
+    },
+    {
+      "apiname": "ALaCarte",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A La Carte",
+      "description": "Cook a total of 500 dish"
+    },
+    {
+      "apiname": "TypingGame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Keyboard Connoisseur",
+      "description": "Type a total of 1000 words"
+    },
+    {
+      "apiname": "FirstPerfect",
+      "achieved": 1,
+      "unlocktime": 1794585088,
+      "name": "Perfect Beginning",
+      "description": "Get 3 stars in one level for the first time"
+    },
+    {
+      "apiname": "PerfectAccuracy",
+      "achieved": 1,
+      "unlocktime": 1794585088,
+      "name": "Keyboard Warrior",
+      "description": "Get 90% Accuracy in one level"
+    },
+    {
+      "apiname": "AfterHours",
+      "achieved": 1,
+      "unlocktime": 1794585381,
+      "name": "After Hours Hero",
+      "description": "Serve a customer with 1 heart remaining while the restaurant is already closed"
+    },
+    {
+      "apiname": "MeanChef",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grandpa's Last Call",
+      "description": "Serve a Senior with 1 heart remaining"
+    },
+    {
+      "apiname": "NoDiscrimination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Pacifist's Run",
+      "description": "Complete a level without exterminating a single rat"
+    }
+  ]
+}

@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 19,
-  "percent": 90.5,
-  "updated_at_utc": "2026-11-13T11:55:55.358321+00:00",
+  "unlocked": 21,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-13T19:18:06.513133+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "ACH_SHINY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794582169,
       "name": "Shiny",
       "description": "Start a day with 1,000 store attractiveness."
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "ACH_MODEL_CITIZEN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794580026,
       "name": "Snitches Get Riches",
       "description": "Report 10 criminals."
     },

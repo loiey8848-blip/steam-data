@@ -3,9 +3,9 @@
   "appid": 1714510,
   "game": "Kusan : City of Wolves",
   "total": 45,
-  "unlocked": 12,
-  "percent": 26.7,
-  "updated_at_utc": "2026-11-13T11:55:16.417614+00:00",
+  "unlocked": 16,
+  "percent": 35.6,
+  "updated_at_utc": "2026-11-13T19:17:26.269572+00:00",
   "achievements": [
     {
       "apiname": "CLEAR_STAGE_1-0",
@@ -37,15 +37,15 @@
     },
     {
       "apiname": "CLEAR_STAGE_1-4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794589237,
       "name": "DJ",
       "description": "Complete Chapter 1 Scene 4"
     },
     {
       "apiname": "CLEAR_STAGE_2-1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794589598,
       "name": "Comrade",
       "description": "Complete Chapter 2 Scene 1"
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "KILL_500_ENEMY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794589384,
       "name": "A man of sheer will",
       "description": "Kill 500 enemies"
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "CLEAR_FLOOR_WITH_COMBO_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794589165,
       "name": "Combo Master",
       "description": "Complete a floor with a combo of 20 or more."
     },
