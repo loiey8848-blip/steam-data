@@ -3,9 +3,9 @@
   "appid": 774171,
   "game": "Muse Dash",
   "total": 39,
-  "unlocked": 36,
-  "percent": 92.3,
-  "updated_at_utc": "2026-11-13T02:26:06.580658+00:00",
+  "unlocked": 39,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-13T11:54:12.492396+00:00",
   "achievements": [
     {
       "apiname": "welcome",
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "illustration_collection",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794544171,
       "name": "Illustration Collection",
       "description": "Totally collect 20 illustrations"
     },
@@ -268,15 +268,15 @@
     },
     {
       "apiname": "muse_master",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794544171,
       "name": "Muse Master",
       "description": ""
     },
     {
       "apiname": "the_muse_master",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794544171,
       "name": "THE MUSEM@STER",
       "description": ""
     }

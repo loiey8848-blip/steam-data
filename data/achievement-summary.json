@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-13T02:27:50.191303+00:00",
+  "updated_at_utc": "2026-11-13T11:55:55.712974+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -9137,11 +9137,11 @@
     {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
-      "playtime_minutes": 48,
-      "playtime_hours": 0.8,
-      "last_played_unix": 1785868780,
-      "last_played_utc": "2026-08-04T18:39:40+00:00",
-      "recent": false,
+      "playtime_minutes": 152,
+      "playtime_hours": 2.5,
+      "last_played_unix": 1794551809,
+      "last_played_utc": "2026-11-13T06:36:49+00:00",
+      "recent": true,
       "achievements_unlocked": 12,
       "achievements_total": 45,
       "achievement_percent": 26.7
@@ -10961,14 +10961,14 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_minutes": 1174,
-      "playtime_hours": 19.6,
-      "last_played_unix": 1794499409,
-      "last_played_utc": "2026-11-12T16:03:29+00:00",
+      "playtime_minutes": 1193,
+      "playtime_hours": 19.9,
+      "last_played_unix": 1794544352,
+      "last_played_utc": "2026-11-13T04:32:32+00:00",
       "recent": true,
-      "achievements_unlocked": 36,
+      "achievements_unlocked": 39,
       "achievements_total": 39,
-      "achievement_percent": 92.3
+      "achievement_percent": 100.0
     },
     {
       "appid": 952040,
@@ -12869,14 +12869,14 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_minutes": 3571,
-      "playtime_hours": 59.5,
-      "last_played_unix": 1794536170,
-      "last_played_utc": "2026-11-13T02:16:10+00:00",
+      "playtime_minutes": 3695,
+      "playtime_hours": 61.6,
+      "last_played_unix": 1794561609,
+      "last_played_utc": "2026-11-13T09:20:09+00:00",
       "recent": true,
-      "achievements_unlocked": 13,
+      "achievements_unlocked": 19,
       "achievements_total": 21,
-      "achievement_percent": 61.9
+      "achievement_percent": 90.5
     },
     {
       "appid": 3263880,
@@ -19349,11 +19349,11 @@
     {
       "appid": 431960,
       "name": "Wallpaper Engine",
-      "playtime_minutes": 1126,
+      "playtime_minutes": 1127,
       "playtime_hours": 18.8,
-      "last_played_unix": 1789434642,
-      "last_played_utc": "2026-09-15T01:10:42+00:00",
-      "recent": false,
+      "last_played_unix": 1794553336,
+      "last_played_utc": "2026-11-13T07:02:16+00:00",
+      "recent": true,
       "achievements_unlocked": 17,
       "achievements_total": 17,
       "achievement_percent": 100.0

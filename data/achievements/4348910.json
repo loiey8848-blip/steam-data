@@ -3,9 +3,9 @@
   "appid": 4348910,
   "game": "Probably Stolen",
   "total": 21,
-  "unlocked": 13,
-  "percent": 61.9,
-  "updated_at_utc": "2026-11-13T02:27:49.704198+00:00",
+  "unlocked": 19,
+  "percent": 90.5,
+  "updated_at_utc": "2026-11-13T11:55:55.358321+00:00",
   "achievements": [
     {
       "apiname": "ACH_TUTORIAL",
@@ -23,8 +23,8 @@
     },
     {
       "apiname": "ACH_HONEST_MERCHANT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794558674,
       "name": "Clean Hands",
       "description": "Win the game without selling a stolen or contraband item."
     },
@@ -37,22 +37,22 @@
     },
     {
       "apiname": "ACH_RATS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794559318,
       "name": "We Have Rats!",
       "description": "Start the game with the hidden scenario."
     },
     {
       "apiname": "ACH_RAG_TO_RICHES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794558674,
       "name": "From Nothing",
       "description": "Win the game starting from Rock Bottom."
     },
     {
       "apiname": "ACH_NOTHING_TO_RICHES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794558674,
       "name": "From Nothing, the Hard Way",
       "description": "Win the game starting from Rock Bottom on hard mode."
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "ACH_PRODIGIOUS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794558674,
       "name": "Prodigious",
       "description": "Own the store deed before day 50."
     },
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ACH_AUG_HUNTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794559210,
       "name": "Aug Hunter",
       "description": "Shoot 10 augmented."
     },

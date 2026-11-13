@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-13T02:27:50.191303+00:00",
+  "updated_at_utc": "2026-11-13T11:55:55.712974+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3571,
-      "playtime_forever": 3571,
+      "playtime_2weeks": 3695,
+      "playtime_forever": 3695,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3571,
+      "playtime_windows_forever": 3695,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -16,7 +16,7 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 2535,
+      "playtime_2weeks": 2012,
       "playtime_forever": 3065,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
       "playtime_windows_forever": 3065,
@@ -38,10 +38,10 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 506,
-      "playtime_forever": 1174,
+      "playtime_2weeks": 525,
+      "playtime_forever": 1193,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 1174,
+      "playtime_windows_forever": 1193,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1714510,
+      "name": "Kusan : City of Wolves",
+      "playtime_2weeks": 103,
+      "playtime_forever": 152,
+      "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
+      "playtime_windows_forever": 152,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1574820,
       "name": "Until Then",
       "playtime_2weeks": 10,
@@ -108,6 +119,17 @@
       "playtime_forever": 3058,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3058,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "playtime_2weeks": 1,
+      "playtime_forever": 1127,
+      "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
+      "playtime_windows_forever": 1127,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
