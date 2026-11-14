@@ -3,21 +3,21 @@
   "appid": 2390230,
   "game": "The Chef's Shift",
   "total": 34,
-  "unlocked": 4,
-  "percent": 11.8,
-  "updated_at_utc": "2026-11-14T00:43:23.351545+00:00",
+  "unlocked": 14,
+  "percent": 41.2,
+  "updated_at_utc": "2026-11-14T08:41:29.205493+00:00",
   "achievements": [
     {
       "apiname": "CompleteChapter1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794630061,
       "name": "The Last Supper",
       "description": "Complete Italian Restaurant"
     },
     {
       "apiname": "CompleteChapter2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794642494,
       "name": "Dim Sum, Dim Memories",
       "description": "Complete Chinese Restaurant"
     },
@@ -51,15 +51,15 @@
     },
     {
       "apiname": "FullStarChapter1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794630061,
       "name": "Numero Uno",
       "description": "Get all stars in the Italian Restaurant"
     },
     {
       "apiname": "FullStarChapter2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794642494,
       "name": "The Art of Wok",
       "description": "Get all stars in the Chinese Restaurant"
     },
@@ -114,8 +114,8 @@
     },
     {
       "apiname": "CompleteUpgrade",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794641626,
       "name": "...To Riches",
       "description": "Fully upgrade a restaurant"
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "Pizzaiolo",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794639318,
       "name": "Pizzapocalypse",
       "description": "Serve 50 Pizza"
     },
@@ -198,15 +198,15 @@
     },
     {
       "apiname": "ALaCarte",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794642045,
       "name": "A La Carte",
       "description": "Cook a total of 500 dish"
     },
     {
       "apiname": "TypingGame",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794629706,
       "name": "Keyboard Connoisseur",
       "description": "Type a total of 1000 words"
     },
@@ -233,15 +233,15 @@
     },
     {
       "apiname": "MeanChef",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794640745,
       "name": "Grandpa's Last Call",
       "description": "Serve a Senior with 1 heart remaining"
     },
     {
       "apiname": "NoDiscrimination",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794641211,
       "name": "A Pacifist's Run",
       "description": "Complete a level without exterminating a single rat"
     }
