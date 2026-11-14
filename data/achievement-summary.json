@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-14T08:41:55.806412+00:00",
+  "updated_at_utc": "2026-11-14T16:26:05.626972+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5849,11 +5849,11 @@
     {
       "appid": 2336220,
       "name": "Feed The Cups",
-      "playtime_minutes": 1063,
-      "playtime_hours": 17.7,
-      "last_played_unix": 1792467255,
-      "last_played_utc": "2026-10-20T03:34:15+00:00",
-      "recent": false,
+      "playtime_minutes": 1116,
+      "playtime_hours": 18.6,
+      "last_played_unix": 1794649769,
+      "last_played_utc": "2026-11-14T09:49:29+00:00",
+      "recent": true,
       "achievements_unlocked": 19,
       "achievements_total": 66,
       "achievement_percent": 28.8
@@ -12869,10 +12869,10 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_minutes": 3933,
-      "playtime_hours": 65.5,
-      "last_played_unix": 1794639200,
-      "last_played_utc": "2026-11-14T06:53:20+00:00",
+      "playtime_minutes": 3940,
+      "playtime_hours": 65.7,
+      "last_played_unix": 1794672726,
+      "last_played_utc": "2026-11-14T16:12:06+00:00",
       "recent": true,
       "achievements_unlocked": 21,
       "achievements_total": 21,
@@ -16625,14 +16625,14 @@
     {
       "appid": 2390230,
       "name": "The Chef's Shift",
-      "playtime_minutes": 179,
-      "playtime_hours": 3.0,
-      "last_played_unix": 1794645133,
-      "last_played_utc": "2026-11-14T08:32:13+00:00",
+      "playtime_minutes": 432,
+      "playtime_hours": 7.2,
+      "last_played_unix": 1794672963,
+      "last_played_utc": "2026-11-14T16:16:03+00:00",
       "recent": true,
-      "achievements_unlocked": 14,
+      "achievements_unlocked": 32,
       "achievements_total": 34,
-      "achievement_percent": 41.2
+      "achievement_percent": 94.1
     },
     {
       "appid": 1045720,

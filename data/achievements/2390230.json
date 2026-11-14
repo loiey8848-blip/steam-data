@@ -3,9 +3,9 @@
   "appid": 2390230,
   "game": "The Chef's Shift",
   "total": 34,
-  "unlocked": 14,
-  "percent": 41.2,
-  "updated_at_utc": "2026-11-14T08:41:29.205493+00:00",
+  "unlocked": 32,
+  "percent": 94.1,
+  "updated_at_utc": "2026-11-14T16:25:39.373135+00:00",
   "achievements": [
     {
       "apiname": "CompleteChapter1",
@@ -23,29 +23,29 @@
     },
     {
       "apiname": "CompleteChapter3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794651396,
       "name": "Dia de los Muertos… Again",
       "description": "Complete Mexican Restaurant"
     },
     {
       "apiname": "CompleteChapter4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794654022,
       "name": "Udon Know the Truth",
       "description": "Complete Japanese Restaurant"
     },
     {
       "apiname": "CompleteChapter5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794657251,
       "name": "Lost in Seoul",
       "description": "Complete Korean Restaurant"
     },
     {
       "apiname": "CompleteChapter6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794661907,
       "name": "Rice and Shine!",
       "description": "Complete Indonesian Restaurant"
     },
@@ -65,36 +65,36 @@
     },
     {
       "apiname": "FullStarChapter3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794651396,
       "name": "Holy Moly Guacamole!",
       "description": "Get all stars in the Mexican Restaurant"
     },
     {
       "apiname": "FullStarChapter4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794654022,
       "name": "Banzai!",
       "description": "Get all stars in the Japanese Restaurant"
     },
     {
       "apiname": "FullStarChapter5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794657251,
       "name": "Well Done!",
       "description": "Get all stars in the Korean Restaurant"
     },
     {
       "apiname": "FullStarChapter6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794661907,
       "name": "Bintang Lima",
       "description": "Get all stars in the Indonesian Restaurant"
     },
     {
       "apiname": "AllStarsAchieve",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794661907,
       "name": "All -Stars",
       "description": "Get all stars in all restaurants in any difficulty"
     },
@@ -121,22 +121,22 @@
     },
     {
       "apiname": "PeopleFavorite",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794657740,
       "name": "People's Favorite",
       "description": "Serve all types of customer"
     },
     {
       "apiname": "GourmetChef",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794661538,
       "name": "Gourmet Chef",
       "description": "Serve all variants of existing dish"
     },
     {
       "apiname": "CompleteSideQuest",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794662855,
       "name": "No Task Left Behind",
       "description": "Complete all side quests"
     },
@@ -149,15 +149,15 @@
     },
     {
       "apiname": "NoodlingAround",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794670059,
       "name": "Noodling Around",
       "description": "Serve 50 Fried Noodles"
     },
     {
       "apiname": "TacoEmpire",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794650921,
       "name": "Taco Empire",
       "description": "Serve 50 Tacos"
     },
@@ -170,29 +170,29 @@
     },
     {
       "apiname": "GrillMaster",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794656974,
       "name": "Grill Master",
       "description": "Serve 50 BBQ"
     },
     {
       "apiname": "InstantNoodle",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794663034,
       "name": "Instant Noodle, Instant Regret",
       "description": "Serve 50 Instant Noodles"
     },
     {
       "apiname": "RatExterminator1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794650974,
       "name": "No Remy Allowed",
       "description": "Exterminate a total of 200 rats"
     },
     {
       "apiname": "EndlessReach",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794663263,
       "name": "A Never-ending Feast",
       "description": "Reach 1000 score in Endless Mode"
     },
