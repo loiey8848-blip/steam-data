@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 3,
-  "percent": 7.5,
-  "updated_at_utc": "2026-11-15T08:54:41.982522+00:00",
+  "unlocked": 7,
+  "percent": 17.5,
+  "updated_at_utc": "2026-11-15T16:52:32.509026+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -30,8 +30,8 @@
     },
     {
       "apiname": "ACH_56000040",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794746490,
       "name": "Somehow I Got Stronger",
       "description": "Promote the settlement to a Hamlet\n"
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "ACH_56000110",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794746781,
       "name": "Attack on Maid",
       "description": "Rescue Mia\n"
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "ACH_56000200",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794735814,
       "name": "Dancing Youth",
       "description": "Recruit 1 follower\n"
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "ACH_56000240",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794745415,
       "name": "Goblin Slayer",
       "description": "Defeat Woody\n"
     },

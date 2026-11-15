@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 3734290,
   "game": "Goblin Sushi",
-  "total": 43,
+  "total": 44,
   "unlocked": 43,
-  "percent": 100.0,
-  "updated_at_utc": "2026-10-10T08:13:52.332160+00:00",
+  "percent": 97.7,
+  "updated_at_utc": "2026-11-15T16:52:31.780115+00:00",
   "achievements": [
     {
       "apiname": "OBTAIN_PERK_CONVEYOR",
@@ -29,7 +29,7 @@
       "description": "Unlock the Egg Collector Perk"
     },
     {
-      "apiname": "OBTAIN_PERK_JUICE_EXTRA_SLOT",
+      "apiname": "OBTAIN_PERK_JUICE_EXTRA_PRODUCTION",
       "achieved": 1,
       "unlocktime": 1790356737,
       "name": "Extra Juice",
@@ -110,7 +110,7 @@
       "achieved": 1,
       "unlocktime": 1785607715,
       "name": "Eviction Notice",
-      "description": "Loose the first time!"
+      "description": "Lose the first time!"
     },
     {
       "apiname": "FIRST_ONIGIRI_CREATED",
@@ -307,6 +307,13 @@
       "unlocktime": 1790344199,
       "name": "Homecooking Advanced",
       "description": "Win a run with the Normal difficulty"
+    },
+    {
+      "apiname": "UNLOCK_PLACEHOLDER_GOBLIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Hidden Figure!",
+      "description": ""
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-15T08:54:42.302937+00:00",
+  "updated_at_utc": "2026-11-15T16:52:35.021321+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3940,
-      "playtime_forever": 3940,
+      "playtime_2weeks": 3947,
+      "playtime_forever": 3947,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3940,
+      "playtime_windows_forever": 3947,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -47,17 +47,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4115450,
-      "name": "Phantom Blade Zero",
-      "playtime_2weeks": 521,
-      "playtime_forever": 3065,
-      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 3065,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
       "playtime_2weeks": 430,
@@ -80,12 +69,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4829780,
+      "name": "开拓物语",
+      "playtime_2weeks": 212,
+      "playtime_forever": 212,
+      "img_icon_url": "de60d766e2dad0c276d73268232fa0724e93e052",
+      "playtime_windows_forever": 212,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 5245810,
       "name": "ForgeTax",
       "playtime_2weeks": 169,
       "playtime_forever": 169,
       "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
       "playtime_windows_forever": 169,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4115450,
+      "name": "Phantom Blade Zero",
+      "playtime_2weeks": 146,
+      "playtime_forever": 3065,
+      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
+      "playtime_windows_forever": 3065,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -108,17 +119,6 @@
       "playtime_forever": 1153,
       "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
       "playtime_windows_forever": 1153,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4829780,
-      "name": "开拓物语",
-      "playtime_2weeks": 81,
-      "playtime_forever": 81,
-      "img_icon_url": "de60d766e2dad0c276d73268232fa0724e93e052",
-      "playtime_windows_forever": 81,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,12 +157,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2929250,
+      "name": "over the hill",
+      "playtime_2weeks": 1,
+      "playtime_forever": 1,
+      "img_icon_url": "00c947bb54b601d8f61cb9dee1d2fced70108b4a",
+      "playtime_windows_forever": 1,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3259780,
       "name": "FINAL FANTASY RESONANCE",
       "playtime_2weeks": 1,
       "playtime_forever": 3058,
       "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
       "playtime_windows_forever": 3058,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 1,
+      "playtime_forever": 589,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 589,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

@@ -1,0 +1,445 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 2929250,
+  "game": "over the hill",
+  "total": 62,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-11-15T16:52:18.120378+00:00",
+  "achievements": [
+    {
+      "apiname": "WelcomeToTheWild",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Welcome to the Wild",
+      "description": "Complete the tutorial."
+    },
+    {
+      "apiname": "FirstAid",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Aid",
+      "description": "Recover your first vehicle."
+    },
+    {
+      "apiname": "UnderTheStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under the Stars",
+      "description": ""
+    },
+    {
+      "apiname": "DirtBaptism",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dirt Baptism",
+      "description": "Complete your first trail."
+    },
+    {
+      "apiname": "SayCheese",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say Cheese!",
+      "description": "Photograph your first animal."
+    },
+    {
+      "apiname": "NewHorizons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Horizons",
+      "description": "Find the exit from an area."
+    },
+    {
+      "apiname": "GettingBetter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Getting Better",
+      "description": "Purchase your first upgrade."
+    },
+    {
+      "apiname": "ShinyRock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shiny Rock",
+      "description": "Extract your first meteorite."
+    },
+    {
+      "apiname": "Explorer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Explorer",
+      "description": "Discover 20 points of interest."
+    },
+    {
+      "apiname": "ScenicRoute",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Scenic Route",
+      "description": "Reach a scenic viewpoint."
+    },
+    {
+      "apiname": "OffTheBeatenPath",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Off the Beaten Path",
+      "description": "Drive 50 km off-road."
+    },
+    {
+      "apiname": "ManySmallSteps",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Many Small Steps...",
+      "description": "Drive 100 km."
+    },
+    {
+      "apiname": "MakeALongJourney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "...Make a Long Journey",
+      "description": "Drive 300 km."
+    },
+    {
+      "apiname": "Collector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Collector",
+      "description": "Unlock 6 vehicles."
+    },
+    {
+      "apiname": "FleetOwner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fleet Owner",
+      "description": "Unlock 18 vehicles."
+    },
+    {
+      "apiname": "NobodyLeftBehind",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nobody Left Behind",
+      "description": "Tow another vehicle for 1,000 meters."
+    },
+    {
+      "apiname": "CloseEncounter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Encounter",
+      "description": "Photograph a mammal from less than 10 meters away."
+    },
+    {
+      "apiname": "Birdwatcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Birdwatcher",
+      "description": "Photograph at least 5 bird species."
+    },
+    {
+      "apiname": "AHandfulOfPebbles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Handful of Pebbles",
+      "description": "Collect 100 pebbles."
+    },
+    {
+      "apiname": "ASackOfPebbles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Sack of Pebbles",
+      "description": "Collect 1,000 pebbles."
+    },
+    {
+      "apiname": "MasterMechanic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Mechanic",
+      "description": "Fully upgrade a vehicle."
+    },
+    {
+      "apiname": "AllDressedUp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Dressed Up",
+      "description": "Equip at least 5 cosmetics at the same time."
+    },
+    {
+      "apiname": "BackToTheCabin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back to the Cabin",
+      "description": "Fast travel to an unlocked cabin."
+    },
+    {
+      "apiname": "ProblemSolver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Problem Solver",
+      "description": "Perform 10 recoveries."
+    },
+    {
+      "apiname": "HandyHelper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Handy Helper",
+      "description": "Use your first tool."
+    },
+    {
+      "apiname": "HeldByAThread",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Held by a Thread",
+      "description": ""
+    },
+    {
+      "apiname": "GetOutOfMySwamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Get Out of My Swamp",
+      "description": "Drive 10 km through mud."
+    },
+    {
+      "apiname": "WetSocks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wet Socks",
+      "description": "Drive 2 km through water."
+    },
+    {
+      "apiname": "Snowcat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Snowcat",
+      "description": "Drive 20 km on snow."
+    },
+    {
+      "apiname": "SandSurfer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sand Surfer",
+      "description": "Drive 20 km on sand."
+    },
+    {
+      "apiname": "EnjoyTheJourney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Enjoy the Journey",
+      "description": "Drive 20 km in Low Range."
+    },
+    {
+      "apiname": "CloseCall",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Close Call",
+      "description": "Pull your fully submerged vehicle out of the water using the winch."
+    },
+    {
+      "apiname": "ProfessionalDriver",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional Driver",
+      "description": ""
+    },
+    {
+      "apiname": "BackOnTrack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Back on Track",
+      "description": "Recover from a rollover."
+    },
+    {
+      "apiname": "StarCollector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Star Collector",
+      "description": "Collect 20 meteorites."
+    },
+    {
+      "apiname": "AGiftFromTheStars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Gift from the Stars",
+      "description": "Collect a meteorite within 5 minutes of its impact."
+    },
+    {
+      "apiname": "MorningDrive",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Morning Drive",
+      "description": "Witness a sunrise."
+    },
+    {
+      "apiname": "WishUponAStar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wish Upon a Star",
+      "description": "Spot a falling meteorite."
+    },
+    {
+      "apiname": "UnderTheWater",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under the Water",
+      "description": ""
+    },
+    {
+      "apiname": "NightWalker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Walker",
+      "description": "Drive 20 km at night."
+    },
+    {
+      "apiname": "Totaled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jalopy",
+      "description": "Destroy your vehicle."
+    },
+    {
+      "apiname": "Odysseus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Odysseus",
+      "description": "Drive for 1 hour without going near a cabin."
+    },
+    {
+      "apiname": "RareEncounter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rare Encounter",
+      "description": "Photograph a rare animal."
+    },
+    {
+      "apiname": "TreasureHunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Treasure Hunter",
+      "description": "Open 50 crates."
+    },
+    {
+      "apiname": "NewStyle",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "New Style",
+      "description": "Equip your first cosmetic."
+    },
+    {
+      "apiname": "StormChaser",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Storm Chaser",
+      "description": "Drive 20 km in the rain."
+    },
+    {
+      "apiname": "Naturalist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Naturalist",
+      "description": "Complete a region's wildlife compendium."
+    },
+    {
+      "apiname": "WildlifeEnthusiast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wildlife Enthusiast",
+      "description": "Photograph 20 animals."
+    },
+    {
+      "apiname": "ATaleComeTrue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Tale Come True",
+      "description": "Photograph a legendary animal."
+    },
+    {
+      "apiname": "NightWatcher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Watcher",
+      "description": "Photograph a nocturnal animal."
+    },
+    {
+      "apiname": "NoisyNeighbor",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Noisy Neighbor",
+      "description": "Scare 20 different animals."
+    },
+    {
+      "apiname": "GoldenHour",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Golden Hour",
+      "description": "Witness a sunset."
+    },
+    {
+      "apiname": "CanadianPassport",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Canadian Passport",
+      "description": "Complete everything in Canada."
+    },
+    {
+      "apiname": "AlgerianPassport",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Algerian Passport",
+      "description": "Complete everything in Algeria."
+    },
+    {
+      "apiname": "MakingMemories",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Making Memories",
+      "description": "Take 20 photos."
+    },
+    {
+      "apiname": "SoundtrackToTheJourney",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soundtrack to the Journey",
+      "description": "Drive 10 km without stopping the music."
+    },
+    {
+      "apiname": "TheTwelveLabours",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Twelve Labours",
+      "description": "Complete 12 trails."
+    },
+    {
+      "apiname": "TakingFlight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Taking Flight",
+      "description": ""
+    },
+    {
+      "apiname": "SmoothRide",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Smooth Ride",
+      "description": "Complete a trail without taking any damage."
+    },
+    {
+      "apiname": "LawOfTheLand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Law of the Land",
+      "description": ""
+    },
+    {
+      "apiname": "AMountainOfPebbles",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Mountain of Pebbles",
+      "description": "Collect 2,000 pebbles."
+    },
+    {
+      "apiname": "SoundOfTheNature",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sound of Nature",
+      "description": "Drive 10 km without listening to music."
+    }
+  ]
+}
