@@ -1,0 +1,263 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 3433110,
+  "game": "Cinema Theater Tycoon",
+  "total": 36,
+  "unlocked": 0,
+  "percent": 0.0,
+  "updated_at_utc": "2026-11-15T08:54:41.604086+00:00",
+  "achievements": [
+    {
+      "apiname": "b_finish_tutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Professional",
+      "description": "Complete the tutorial"
+    },
+    {
+      "apiname": "b_american_dream",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "American Dream",
+      "description": "Buy a movie from the USA"
+    },
+    {
+      "apiname": "b_buy_cinema",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanding the Empire",
+      "description": "Buy a cinema"
+    },
+    {
+      "apiname": "b_bank_money",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loan Approved",
+      "description": "Take a bank loan"
+    },
+    {
+      "apiname": "b_sound_proj",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Jazz Singer",
+      "description": "Unlock sound projection"
+    },
+    {
+      "apiname": "b_ads",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Short Ad Break",
+      "description": "Sign an advertising contract"
+    },
+    {
+      "apiname": "b_sell_popcorn",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Popcorn",
+      "description": "Sell popcorn"
+    },
+    {
+      "apiname": "b_sell_toys",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Merchandising!",
+      "description": "Sell toys and goodies"
+    },
+    {
+      "apiname": "a_fire",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fire Hazard",
+      "description": "Start a fire"
+    },
+    {
+      "apiname": "a_break_reel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can Fix It",
+      "description": "Break a film reel"
+    },
+    {
+      "apiname": "a_event_premier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roll Out the Red Carpet",
+      "description": "Host a movie premiere"
+    },
+    {
+      "apiname": "a_event_masterclass",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Learn from the Best",
+      "description": "Host a masterclass"
+    },
+    {
+      "apiname": "a_event_cineconcert",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Call Me Williams",
+      "description": "Host a cine-concert"
+    },
+    {
+      "apiname": "a_reel_imax",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bigger is Better",
+      "description": "Obtain an IMAX reel"
+    },
+    {
+      "apiname": "a_asia",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Film Hunter",
+      "description": "Search for movies in Asia"
+    },
+    {
+      "apiname": "a_subs",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unlimited Power!",
+      "description": "Create a subscription plan"
+    },
+    {
+      "apiname": "a_4dx",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Feel the Vibration",
+      "description": "Host a 4DX screening"
+    },
+    {
+      "apiname": "a_buy_last_cinema",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "By the Seine",
+      "description": "Buy the riverside cinema"
+    },
+    {
+      "apiname": "a_sound_loud",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turn It Down!",
+      "description": "Let sound leak into another screening room"
+    },
+    {
+      "apiname": "a_sell_cinema",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I’ve Had Enough",
+      "description": "Sell a cinema"
+    },
+    {
+      "apiname": "a_price_hight",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Too Expensive!",
+      "description": "Lose customers because of high prices"
+    },
+    {
+      "apiname": "a_dolby_atmos",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "More Speakers?",
+      "description": "Fully configure a Dolby Atmos setup"
+    },
+    {
+      "apiname": "a_money_1000000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spare No Expense",
+      "description": "Spend $1,000,000"
+    },
+    {
+      "apiname": "a_bank_rupt",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Do You Fear Death?",
+      "description": "Go bankrupt"
+    },
+    {
+      "apiname": "o_note_film",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Perfect Movie",
+      "description": "Reach a movie score above 120%"
+    },
+    {
+      "apiname": "o_proj_full",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Shall Not Pass!",
+      "description": "Fill a screening room to 100% capacity"
+    },
+    {
+      "apiname": "o_pressj_full",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Five Stars",
+      "description": "Reach a 5-star press rating"
+    },
+    {
+      "apiname": "o_collectionneur",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Collector",
+      "description": "Archive more than 20 movies"
+    },
+    {
+      "apiname": "o_films_lotr",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "One Marathon to Rule Them All",
+      "description": "Schedule all 3 Lord of the Rings movies"
+    },
+    {
+      "apiname": "o_films_sw",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Long Time Ago…",
+      "description": "Schedule the original Star Wars trilogy"
+    },
+    {
+      "apiname": "o_collection_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seen Them All",
+      "description": "Discover every movie in the collection"
+    },
+    {
+      "apiname": "o_buy_all_cinema",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Megaplex",
+      "description": "Own more than 5 cinemas"
+    },
+    {
+      "apiname": "o_researsh_all_continent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Planet of the Reels",
+      "description": "Search for movies on every continent"
+    },
+    {
+      "apiname": "o_absolute_cinema",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Absolute Cinema",
+      "description": "Reach the year 2020"
+    },
+    {
+      "apiname": "o_88_mph",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "88 Miles Per Hour!",
+      "description": "Schedule the Back to the Future trilogy"
+    },
+    {
+      "apiname": "platine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You Talkin’ to Me?",
+      "description": "Unlock every achievement"
+    }
+  ]
+}

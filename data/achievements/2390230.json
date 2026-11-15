@@ -3,9 +3,9 @@
   "appid": 2390230,
   "game": "The Chef's Shift",
   "total": 34,
-  "unlocked": 32,
-  "percent": 94.1,
-  "updated_at_utc": "2026-11-15T01:47:44.413665+00:00",
+  "unlocked": 34,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-15T08:54:15.786031+00:00",
   "achievements": [
     {
       "apiname": "CompleteChapter1",
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "AllStarsHardAchieve",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794718973,
       "name": "When 'All-Stars' is not enough..",
       "description": "Get all stars in all restaurants in Very Hard difficulty"
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "DonburiDynasty",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794720031,
       "name": "Donburi Dynasty",
       "description": "Serve 50 Donburi"
     },

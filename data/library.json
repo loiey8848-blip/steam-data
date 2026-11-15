@@ -1,20 +1,20 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-15T01:48:11.875928+00:00",
-  "owned_games": 1713,
+  "updated_at_utc": "2026-11-15T08:54:42.302937+00:00",
+  "owned_games": 1715,
   "new_games": [
     {
-      "appid": 4521650,
-      "name": "Farm & Feast",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "appid": 3433110,
+      "name": "Cinema Theater Tycoon",
+      "playtime_minutes": 17,
+      "playtime_hours": 0.3,
+      "last_played_unix": 1794729042,
+      "last_played_utc": "2026-11-15T07:50:42+00:00",
+      "recent": true
     },
     {
-      "appid": 4829780,
-      "name": "Frontier Tale",
+      "appid": 4559930,
+      "name": "Oboro no Ichi",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -2146,6 +2146,15 @@
       "last_played_unix": 0,
       "last_played_utc": null,
       "recent": false
+    },
+    {
+      "appid": 3433110,
+      "name": "Cinema Theater Tycoon",
+      "playtime_minutes": 17,
+      "playtime_hours": 0.3,
+      "last_played_unix": 1794729042,
+      "last_played_utc": "2026-11-15T07:50:42+00:00",
+      "recent": true
     },
     {
       "appid": 255710,
@@ -4796,11 +4805,11 @@
     {
       "appid": 4829780,
       "name": "Frontier Tale",
-      "playtime_minutes": 0,
-      "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false
+      "playtime_minutes": 81,
+      "playtime_hours": 1.4,
+      "last_played_unix": 1794725121,
+      "last_played_utc": "2026-11-15T06:45:21+00:00",
+      "recent": true
     },
     {
       "appid": 323190,
@@ -8718,6 +8727,15 @@
       "recent": false
     },
     {
+      "appid": 4559930,
+      "name": "Oboro no Ichi",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 514900,
       "name": "Observer",
       "playtime_minutes": 0,
@@ -12509,10 +12527,10 @@
     {
       "appid": 2390230,
       "name": "The Chef's Shift",
-      "playtime_minutes": 491,
-      "playtime_hours": 8.2,
-      "last_played_unix": 1794702598,
-      "last_played_utc": "2026-11-15T00:29:58+00:00",
+      "playtime_minutes": 662,
+      "playtime_hours": 11.0,
+      "last_played_unix": 1794720045,
+      "last_played_utc": "2026-11-15T05:20:45+00:00",
       "recent": true
     },
     {

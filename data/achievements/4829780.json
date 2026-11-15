@@ -1,0 +1,291 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4829780,
+  "game": "开拓物语",
+  "total": 40,
+  "unlocked": 3,
+  "percent": 7.5,
+  "updated_at_utc": "2026-11-15T08:54:41.982522+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_56000010",
+      "achieved": 1,
+      "unlocktime": 1794720305,
+      "name": "You Hit the Jackpot! ",
+      "description": "Enter the game\n"
+    },
+    {
+      "apiname": "ACH_56000020",
+      "achieved": 1,
+      "unlocktime": 1794720522,
+      "name": "Starting from Zero~",
+      "description": "Arrive at your settlement\n"
+    },
+    {
+      "apiname": "ACH_56000030",
+      "achieved": 1,
+      "unlocktime": 1794722673,
+      "name": "About How I Became a Pioneer",
+      "description": "Promote the settlement to a Camp\n"
+    },
+    {
+      "apiname": "ACH_56000040",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Somehow I Got Stronger",
+      "description": "Promote the settlement to a Hamlet\n"
+    },
+    {
+      "apiname": "ACH_56000050",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cozy Pioneer's Pleasant Settlement",
+      "description": "Promote the settlement to a Village\n"
+    },
+    {
+      "apiname": "ACH_56000060",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fantasy Village on the Frontier",
+      "description": "Promote the settlement to a Market Town\n"
+    },
+    {
+      "apiname": "ACH_56000070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Knight and Magic",
+      "description": "Promote the settlement to a Township\n"
+    },
+    {
+      "apiname": "ACH_56000080",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pioneer Blessed by the Gods",
+      "description": "Promote the settlement to a City\n"
+    },
+    {
+      "apiname": "ACH_56000090",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saving 100,000 Coins for Retirement",
+      "description": "Earn 100,000 gold coins\n"
+    },
+    {
+      "apiname": "ACH_56000100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Heh Heh Heh Heh!",
+      "description": "Defeat 500 monsters\n"
+    },
+    {
+      "apiname": "ACH_56000110",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Attack on Maid",
+      "description": "Rescue Mia\n"
+    },
+    {
+      "apiname": "ACH_56000120",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Immortal Heroic Spirit",
+      "description": "Build a Sword Monument\n"
+    },
+    {
+      "apiname": "ACH_56000130",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dark Lord",
+      "description": "Defeat the Dark Lord\n"
+    },
+    {
+      "apiname": "ACH_56000140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Solo Leveling",
+      "description": "Defeat 10 bosses in a single journey without any followers\n"
+    },
+    {
+      "apiname": "ACH_56000150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carefree Farmer",
+      "description": "Own 100 farm plots\n"
+    },
+    {
+      "apiname": "ACH_56000160",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Way of the Beast",
+      "description": "Raise 30 animals\n"
+    },
+    {
+      "apiname": "ACH_56000170",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Another World Gourmet Journey",
+      "description": "Cook 500 times \n"
+    },
+    {
+      "apiname": "ACH_56000180",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mercenary's Sword Soul",
+      "description": "Craft equipment 500 times \n"
+    },
+    {
+      "apiname": "ACH_56000190",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chronicle of a Pioneer Hero",
+      "description": "Live the pioneer life for 1 year\n"
+    },
+    {
+      "apiname": "ACH_56000200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dancing Youth",
+      "description": "Recruit 1 follower\n"
+    },
+    {
+      "apiname": "ACH_56000210",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pioneering the Divine Realm",
+      "description": "Recruit 20 followers\n"
+    },
+    {
+      "apiname": "ACH_56000220",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deficit Settlement Rebirth Spell",
+      "description": "Sell items worth over 10,000 in a single day\n"
+    },
+    {
+      "apiname": "ACH_56000230",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pioneering Journey Under the Moonlight",
+      "description": "Collect all journals\n"
+    },
+    {
+      "apiname": "ACH_56000240",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Goblin Slayer",
+      "description": "Defeat Woody\n"
+    },
+    {
+      "apiname": "ACH_56000250",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shadow Goblin",
+      "description": "Defeat the Witch Doctor\n"
+    },
+    {
+      "apiname": "ACH_56000260",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gunfire of Ash and Fantasy",
+      "description": "Defeat the Kobold Captain\n"
+    },
+    {
+      "apiname": "ACH_56000270",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Demon-Slaying Sword",
+      "description": "Defeat the Headless Knight\n"
+    },
+    {
+      "apiname": "ACH_56000280",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Odyssey",
+      "description": "Defeat the Cyclops\n\n"
+    },
+    {
+      "apiname": "ACH_56000290",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Wolf and Spice",
+      "description": "Defeat the Snow Wolf King\n"
+    },
+    {
+      "apiname": "ACH_56000300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lonely Death Rock",
+      "description": "Defeat the War Shaman\n"
+    },
+    {
+      "apiname": "ACH_56000310",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gold Medalist of Trials",
+      "description": "Defeat the Evil Eye Totem\n"
+    },
+    {
+      "apiname": "ACH_56000320",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Spirit of the Stone Halberd",
+      "description": "Defeat the Stone Golem\n"
+    },
+    {
+      "apiname": "ACH_56000330",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Queen of Oblivion",
+      "description": "Defeat the Spider Queen\n"
+    },
+    {
+      "apiname": "ACH_56000340",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undead Dragon",
+      "description": "Defeat the Bone Dragon\n"
+    },
+    {
+      "apiname": "ACH_56000350",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Foreigner",
+      "description": "Collect and submit the Hero's Collection\n"
+    },
+    {
+      "apiname": "ACH_56000360",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Material Collector",
+      "description": "Collect and submit the Explorer's Collection\n"
+    },
+    {
+      "apiname": "ACH_56000370",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lost Ballad",
+      "description": "Collect and submit the Bard's Collection\n"
+    },
+    {
+      "apiname": "ACH_56000380",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dragon Hunter",
+      "description": "Collect and submit the Dragon Hunter's Collection\n"
+    },
+    {
+      "apiname": "ACH_56000390",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Saint of Dawn",
+      "description": "Collect and submit the Saint's Collection\n"
+    },
+    {
+      "apiname": "ACH_56000400",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Unranked King",
+      "description": "Collect and submit the King's Collection\n"
+    }
+  ]
+}
