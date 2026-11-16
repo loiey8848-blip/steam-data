@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 20,
-  "percent": 50.0,
-  "updated_at_utc": "2026-11-16T04:59:15.638073+00:00",
+  "unlocked": 26,
+  "percent": 65.0,
+  "updated_at_utc": "2026-11-16T14:57:21.460907+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "ACH_56000080",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794824927,
       "name": "Pioneer Blessed by the Gods",
       "description": "Promote the settlement to a City\n"
     },
@@ -86,8 +86,8 @@
     },
     {
       "apiname": "ACH_56000120",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794805156,
       "name": "To the Immortal Heroic Spirit",
       "description": "Build a Sword Monument\n"
     },
@@ -100,8 +100,8 @@
     },
     {
       "apiname": "ACH_56000140",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794807621,
       "name": "Solo Leveling",
       "description": "Defeat 10 bosses in a single journey without any followers\n"
     },
@@ -198,22 +198,22 @@
     },
     {
       "apiname": "ACH_56000280",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794821820,
       "name": "Odyssey",
       "description": "Defeat the Cyclops\n\n"
     },
     {
       "apiname": "ACH_56000290",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794823981,
       "name": "Wolf and Spice",
       "description": "Defeat the Snow Wolf King\n"
     },
     {
       "apiname": "ACH_56000300",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794822640,
       "name": "Lonely Death Rock",
       "description": "Defeat the War Shaman\n"
     },

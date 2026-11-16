@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-16T04:59:18.556519+00:00",
+  "updated_at_utc": "2026-11-16T14:57:23.753145+00:00",
   "games": [
     {
       "appid": 4348910,
@@ -9,6 +9,17 @@
       "playtime_forever": 3947,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3947,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4829780,
+      "name": "开拓物语",
+      "playtime_2weeks": 776,
+      "playtime_forever": 776,
+      "img_icon_url": "de60d766e2dad0c276d73268232fa0724e93e052",
+      "playtime_windows_forever": 776,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,34 +80,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4829780,
-      "name": "开拓物语",
-      "playtime_2weeks": 423,
-      "playtime_forever": 423,
-      "img_icon_url": "de60d766e2dad0c276d73268232fa0724e93e052",
-      "playtime_windows_forever": 423,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3024130,
       "name": "PAO PAO",
       "playtime_2weeks": 249,
       "playtime_forever": 249,
       "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
       "playtime_windows_forever": 249,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5245810,
-      "name": "ForgeTax",
-      "playtime_2weeks": 135,
-      "playtime_forever": 169,
-      "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
-      "playtime_windows_forever": 169,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -163,6 +152,17 @@
       "playtime_forever": 32,
       "img_icon_url": "682179f9ed6c5234443aaa15537e1fed00a29a37",
       "playtime_windows_forever": 32,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1927720,
+      "name": "Monument Valley",
+      "playtime_2weeks": 1,
+      "playtime_forever": 1,
+      "img_icon_url": "058aa7e0cd93213d60eefa6bf5ef75b1859075c2",
+      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
