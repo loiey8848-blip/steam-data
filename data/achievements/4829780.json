@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 9,
-  "percent": 22.5,
-  "updated_at_utc": "2026-11-15T22:33:47.745206+00:00",
+  "unlocked": 20,
+  "percent": 50.0,
+  "updated_at_utc": "2026-11-16T04:59:15.638073+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -44,15 +44,15 @@
     },
     {
       "apiname": "ACH_56000060",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794802169,
       "name": "Fantasy Village on the Frontier",
       "description": "Promote the settlement to a Market Town\n"
     },
     {
       "apiname": "ACH_56000070",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794804310,
       "name": "Knight and Magic",
       "description": "Promote the settlement to a Township\n"
     },
@@ -65,15 +65,15 @@
     },
     {
       "apiname": "ACH_56000090",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803952,
       "name": "Saving 100,000 Coins for Retirement",
       "description": "Earn 100,000 gold coins\n"
     },
     {
       "apiname": "ACH_56000100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794801541,
       "name": "Heh Heh Heh Heh!",
       "description": "Defeat 500 monsters\n"
     },
@@ -156,8 +156,8 @@
     },
     {
       "apiname": "ACH_56000220",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794796264,
       "name": "Deficit Settlement Rebirth Spell",
       "description": "Sell items worth over 10,000 in a single day\n"
     },
@@ -247,43 +247,43 @@
     },
     {
       "apiname": "ACH_56000350",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803953,
       "name": "The Foreigner",
       "description": "Collect and submit the Hero's Collection\n"
     },
     {
       "apiname": "ACH_56000360",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803872,
       "name": "Material Collector",
       "description": "Collect and submit the Explorer's Collection\n"
     },
     {
       "apiname": "ACH_56000370",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794794197,
       "name": "Lost Ballad",
       "description": "Collect and submit the Bard's Collection\n"
     },
     {
       "apiname": "ACH_56000380",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803919,
       "name": "Dragon Hunter",
       "description": "Collect and submit the Dragon Hunter's Collection\n"
     },
     {
       "apiname": "ACH_56000390",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803957,
       "name": "Saint of Dawn",
       "description": "Collect and submit the Saint's Collection\n"
     },
     {
       "apiname": "ACH_56000400",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794803961,
       "name": "The Unranked King",
       "description": "Collect and submit the King's Collection\n"
     }
