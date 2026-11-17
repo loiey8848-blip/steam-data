@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 26,
-  "percent": 65.0,
-  "updated_at_utc": "2026-11-16T14:57:21.460907+00:00",
+  "unlocked": 31,
+  "percent": 77.5,
+  "updated_at_utc": "2026-11-17T00:02:10.493324+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -93,8 +93,8 @@
     },
     {
       "apiname": "ACH_56000130",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794845468,
       "name": "Dark Lord",
       "description": "Defeat the Dark Lord\n"
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "ACH_56000250",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794841490,
       "name": "Shadow Goblin",
       "description": "Defeat the Witch Doctor\n"
     },
@@ -219,15 +219,15 @@
     },
     {
       "apiname": "ACH_56000310",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794843220,
       "name": "Gold Medalist of Trials",
       "description": "Defeat the Evil Eye Totem\n"
     },
     {
       "apiname": "ACH_56000320",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794843371,
       "name": "Spirit of the Stone Halberd",
       "description": "Defeat the Stone Golem\n"
     },
@@ -240,8 +240,8 @@
     },
     {
       "apiname": "ACH_56000340",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794845127,
       "name": "Undead Dragon",
       "description": "Defeat the Bone Dragon\n"
     },
