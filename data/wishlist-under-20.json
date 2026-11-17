@@ -1,5 +1,20 @@
 {
-  "updated_at_utc": "2026-11-17T07:46:14.177297+00:00",
-  "count": 0,
-  "games": []
+  "updated_at_utc": "2026-11-17T17:27:26.642757+00:00",
+  "count": 1,
+  "games": [
+    {
+      "appid": 4259360,
+      "priority": 0,
+      "date_added_unix": 1775812483,
+      "date_added_utc": "2026-04-10T09:14:43+00:00",
+      "steam_url": "https://store.steampowered.com/app/4259360/",
+      "name": "哞琪牛奶屋",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 25.0,
+      "price_final_cny": 20.0,
+      "discount_percent": 20
+    }
+  ]
 }
