@@ -1,0 +1,613 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4521650,
+  "game": "Farm & Feast",
+  "total": 86,
+  "unlocked": 9,
+  "percent": 10.5,
+  "updated_at_utc": "2026-11-17T17:27:26.211295+00:00",
+  "achievements": [
+    {
+      "apiname": "OBJ_SOUP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soup's On",
+      "description": "Start a day with vegetable soup on the menu."
+    },
+    {
+      "apiname": "OBJ_TILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Power Tool",
+      "description": "Buy the tiller."
+    },
+    {
+      "apiname": "OBJ_SEEDGUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pew Pew Plant",
+      "description": "Buy the Seed Gun."
+    },
+    {
+      "apiname": "OBJ_PASTA",
+      "achieved": 1,
+      "unlocktime": 1794909344,
+      "name": "Al Dente",
+      "description": "Add a pasta dish to the menu."
+    },
+    {
+      "apiname": "OBJ_PASTA_MAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hand Rolled",
+      "description": "Buy and place a Pasta Maker."
+    },
+    {
+      "apiname": "OBJ_FIRST_FISH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Catch",
+      "description": "Catch your first fish."
+    },
+    {
+      "apiname": "OBJ_BREAD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Our Daily Bread",
+      "description": "Bring flour to the Bread Maker."
+    },
+    {
+      "apiname": "OBJ_PIZZA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "That's Amore",
+      "description": "Add a pizza to the menu."
+    },
+    {
+      "apiname": "OBJ_PIZZA_MAKER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "From Scratch",
+      "description": "Buy and place a Pizza Maker."
+    },
+    {
+      "apiname": "OBJ_MENU_SLOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Expanded Menu",
+      "description": "Unlock an extra menu slot."
+    },
+    {
+      "apiname": "OBJ_CHEF",
+      "achieved": 1,
+      "unlocktime": 1794926772,
+      "name": "Too Many Cooks",
+      "description": "Hire a second chef."
+    },
+    {
+      "apiname": "OBJ_WAITER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "At Your Service",
+      "description": "Hire a waiter."
+    },
+    {
+      "apiname": "OBJ_HYPE_1500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Talk of the Town",
+      "description": "Reach 1500 hype."
+    },
+    {
+      "apiname": "OBJ_EARN_250",
+      "achieved": 1,
+      "unlocktime": 1794928691,
+      "name": "Payday",
+      "description": "Earn 250 $ in a single day."
+    },
+    {
+      "apiname": "OBJ_SERVE_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Serve 15 customers in a single day."
+    },
+    {
+      "apiname": "OBJ_TABLES_2",
+      "achieved": 1,
+      "unlocktime": 1794906022,
+      "name": "Room to Grow",
+      "description": "Add 2 more tables."
+    },
+    {
+      "apiname": "OBJ_TABLES_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Packed House",
+      "description": "Add 2 more tables again."
+    },
+    {
+      "apiname": "OBJ_FORAGE_50",
+      "achieved": 1,
+      "unlocktime": 1794899684,
+      "name": "Forager",
+      "description": "Forage 50 items."
+    },
+    {
+      "apiname": "FUN_DINE_DASH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dine and Dash",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_ONE_STAR",
+      "achieved": 1,
+      "unlocktime": 1794909854,
+      "name": "Tough Crowd",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_FIVE_STAR",
+      "achieved": 1,
+      "unlocktime": 1794899870,
+      "name": "Chef's Kiss",
+      "description": "Get a 5 star review."
+    },
+    {
+      "apiname": "FUN_WRONG_TABLE",
+      "achieved": 1,
+      "unlocktime": 1794909854,
+      "name": "I Didn't Order This",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_TRASH_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waste Not Want Not",
+      "description": "Throw food in the trash 25 times."
+    },
+    {
+      "apiname": "FUN_TREES_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Lumberjack",
+      "description": "Chop down 100 trees."
+    },
+    {
+      "apiname": "FUN_ROCKS_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock and Roll",
+      "description": "Break 100 rocks."
+    },
+    {
+      "apiname": "FUN_GRASS_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mow Problems",
+      "description": "Clear 1000 patches of grass."
+    },
+    {
+      "apiname": "FUN_FISH_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Old Man and the Sea",
+      "description": "Catch 100 fish."
+    },
+    {
+      "apiname": "FUN_FISH_RECORD",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fish Tale",
+      "description": "Catch a fish close to the biggest of its kind."
+    },
+    {
+      "apiname": "FUN_FISH_ESCAPE_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The One That Got Away",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_DUST_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dust Bunny Hunter",
+      "description": "Wipe 100 dusty tables."
+    },
+    {
+      "apiname": "FUN_WATER_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hydration Station",
+      "description": "Serve water 500 times."
+    },
+    {
+      "apiname": "FUN_BELL_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dinner Bell",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_ANIMAL_NAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Meet Bessie",
+      "description": "Give one of your animals a name."
+    },
+    {
+      "apiname": "FUN_RENAME_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Identity Crisis",
+      "description": ""
+    },
+    {
+      "apiname": "FUN_COINS_10K",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Moneybags",
+      "description": "Have 10000 coins at once."
+    },
+    {
+      "apiname": "FUN_DAY_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular",
+      "description": "Reach day 30."
+    },
+    {
+      "apiname": "FUN_DAY_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Local Legend",
+      "description": "Reach day 100."
+    },
+    {
+      "apiname": "FUN_PLANTS_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Leafy Vibes",
+      "description": "Decorate with 10 potted plants."
+    },
+    {
+      "apiname": "FUN_LAMPS_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mood Lighting",
+      "description": "Decorate with 10 wall lamps."
+    },
+    {
+      "apiname": "FUN_STYLE_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Makeover",
+      "description": "Change your restaurant style 5 times."
+    },
+    {
+      "apiname": "FUN_DRINKS_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thirst Trap",
+      "description": "Deliver 200 drinks."
+    },
+    {
+      "apiname": "FUN_SPOTS_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Squeaky Clean",
+      "description": "Clean 100 spots."
+    },
+    {
+      "apiname": "FUN_HARVEST_1000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bumper Crop",
+      "description": "Harvest 1000 crops."
+    },
+    {
+      "apiname": "OBJ_FISH_STATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch of the Day",
+      "description": "Buy the Fish Dishes Station."
+    },
+    {
+      "apiname": "OBJ_GRILL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sizzle",
+      "description": "Buy the Grill."
+    },
+    {
+      "apiname": "OBJ_HYPE_3000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Buzzing",
+      "description": "Reach 3000 hype."
+    },
+    {
+      "apiname": "OBJ_STAR_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rising Star",
+      "description": "Earn your second star."
+    },
+    {
+      "apiname": "OBJ_BEACH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Beachfront Dining",
+      "description": "Reach 11000 hype and open the beach."
+    },
+    {
+      "apiname": "OBJ_STAR_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Star Kitchen",
+      "description": "Earn your third star."
+    },
+    {
+      "apiname": "FUN_MILLER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Miller",
+      "description": "Deliver 100 flour sacks to your makers."
+    },
+    {
+      "apiname": "FUN_HAY_HAULER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hay Hauler",
+      "description": "Deliver 25 bales to the windmill."
+    },
+    {
+      "apiname": "SERVE_TOMATO_SOUP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Souper Fan",
+      "description": "Serve 100 Tomato Soups."
+    },
+    {
+      "apiname": "SERVE_PHO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pho Real",
+      "description": "Serve 75 bowls of Pho."
+    },
+    {
+      "apiname": "SERVE_TOM_YUM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tom Yum Yum",
+      "description": "Serve 50 bowls of Tom Yum."
+    },
+    {
+      "apiname": "SERVE_MAC_CHEESE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comfort Food",
+      "description": "Serve 100 Mac & Cheese."
+    },
+    {
+      "apiname": "SERVE_LASAGNA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Layers on Layers",
+      "description": "Serve 75 Lasagnas."
+    },
+    {
+      "apiname": "SERVE_RAVIOLI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Little Pillows",
+      "description": "Serve 50 plates of Ravioli."
+    },
+    {
+      "apiname": "SERVE_MARGHERITA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fit for a Queen",
+      "description": "Serve 100 Margherita pizzas."
+    },
+    {
+      "apiname": "SERVE_PEPPERONI",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pepperoni Party",
+      "description": "Serve 75 Pepperoni pizzas."
+    },
+    {
+      "apiname": "SERVE_FRUTTI_DI_MARE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fruits of the Sea",
+      "description": "Serve 50 Frutti di Mare pizzas."
+    },
+    {
+      "apiname": "SERVE_FISH_AND_CHIPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Proper Chippy",
+      "description": "Serve 100 Fish and Chips."
+    },
+    {
+      "apiname": "SERVE_GRILLED_BASS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drop the Bass",
+      "description": "Serve 75 Grilled Bass."
+    },
+    {
+      "apiname": "SERVE_SHRIMP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Shrimply the Best",
+      "description": "Serve 50 Shrimp Dishes."
+    },
+    {
+      "apiname": "SERVE_CHEESEBURGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Say Cheese",
+      "description": "Serve 100 Cheeseburgers."
+    },
+    {
+      "apiname": "MENU_SOUP_3",
+      "achieved": 1,
+      "unlocktime": 1794901195,
+      "name": "Soup Kitchen",
+      "description": "Start a day with 3 soups on the menu."
+    },
+    {
+      "apiname": "MENU_SOUP_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soup Sommelier",
+      "description": "Start a day with 5 soups on the menu."
+    },
+    {
+      "apiname": "MENU_PASTA_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pasta La Vista",
+      "description": "Start a day with 3 pastas on the menu."
+    },
+    {
+      "apiname": "MENU_PASTA_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carb Loader",
+      "description": "Start a day with 5 pastas on the menu."
+    },
+    {
+      "apiname": "MENU_PIZZA_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Slice of Life",
+      "description": "Start a day with 3 pizzas on the menu."
+    },
+    {
+      "apiname": "MENU_PIZZA_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pizza Party",
+      "description": "Start a day with 5 pizzas on the menu."
+    },
+    {
+      "apiname": "MENU_FISH_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Catch of the Day",
+      "description": "Start a day with 3 fish dishes on the menu."
+    },
+    {
+      "apiname": "MENU_FISH_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seafood Palace",
+      "description": "Start a day with 5 fish dishes on the menu."
+    },
+    {
+      "apiname": "TABLES_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full House",
+      "description": "Start a day with 10 tables."
+    },
+    {
+      "apiname": "TABLES_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Banquet Hall",
+      "description": "Start a day with 20 tables."
+    },
+    {
+      "apiname": "TABLES_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Dining",
+      "description": "Start a day with 25 tables."
+    },
+    {
+      "apiname": "DRINK_TYPES_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thirsty?",
+      "description": "Start a day with 5 different drinks in stock."
+    },
+    {
+      "apiname": "DRINK_TYPES_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drink Menu",
+      "description": "Start a day with 10 different drinks in stock."
+    },
+    {
+      "apiname": "DRINK_TYPES_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Fridge",
+      "description": "Start a day with 18 different drinks in stock."
+    },
+    {
+      "apiname": "UNLOCK_ALL_SOUPS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Soup Master",
+      "description": "Unlock every soup recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_PASTAS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pasta Master",
+      "description": "Unlock every pasta recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_PIZZAS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pizza Master",
+      "description": "Unlock every pizza recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_FISHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seafood Master",
+      "description": "Unlock every fish recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_BURGERS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Burger Master",
+      "description": "Unlock every burger recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_DISHES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Chef",
+      "description": "Unlock every recipe."
+    },
+    {
+      "apiname": "UNLOCK_ALL_DECO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Interior Designer",
+      "description": "Buy every restaurant decoration."
+    },
+    {
+      "apiname": "FUN_DOCK_SIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dock of the Bay",
+      "description": "Sit on the dock and enjoy the view."
+    }
+  ]
+}

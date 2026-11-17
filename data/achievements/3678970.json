@@ -3,9 +3,9 @@
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
   "total": 80,
-  "unlocked": 57,
-  "percent": 71.2,
-  "updated_at_utc": "2026-11-17T07:46:11.571253+00:00",
+  "unlocked": 58,
+  "percent": 72.5,
+  "updated_at_utc": "2026-11-17T17:27:23.334630+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105010",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794933715,
       "name": "Apprentice Hunter (Torment)",
       "description": "Clear Torment Plaguelands at Plague Intensity 5."
     },

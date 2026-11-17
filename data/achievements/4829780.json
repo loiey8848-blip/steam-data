@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 38,
-  "percent": 95.0,
-  "updated_at_utc": "2026-11-17T07:46:13.998112+00:00",
+  "unlocked": 40,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-17T17:27:26.410977+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ACH_56000180",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794905966,
       "name": "Mercenary's Sword Soul",
       "description": "Craft equipment 500 times \n"
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "ACH_56000230",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794902620,
       "name": "Pioneering Journey Under the Moonlight",
       "description": "Collect all journals\n"
     },
