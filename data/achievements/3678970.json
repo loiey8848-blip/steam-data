@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
-  "total": 56,
-  "unlocked": 56,
-  "percent": 100.0,
-  "updated_at_utc": "2026-09-15T06:53:33.161691+00:00",
+  "total": 80,
+  "unlocked": 57,
+  "percent": 71.2,
+  "updated_at_utc": "2026-11-17T07:46:11.571253+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -398,6 +398,174 @@
       "unlocktime": 1782090086,
       "name": "Essence Extracted",
       "description": "Successfully extract for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105001",
+      "achieved": 1,
+      "unlocktime": 1794887096,
+      "name": "Beak Mask On",
+      "description": "Clear a Plaguelands stage for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice Hunter (Nightmare)",
+      "description": "Clear Nightmare Plaguelands at Plague Intensity 5."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Hunter (Nightmare)",
+      "description": "Clear Nightmare Plaguelands at Plague Intensity 10."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Slayer (Nightmare)",
+      "description": "Clear Nightmare Plaguelands at Plague Intensity 15."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bane of the Plague (Nightmare)",
+      "description": "Clear Nightmare Plaguelands at Plague Intensity 20."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice Hunter (Hell)",
+      "description": "Clear Hell Plaguelands at Plague Intensity 5."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Hunter (Hell)",
+      "description": "Clear Hell Plaguelands at Plague Intensity 10."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Slayer (Hell)",
+      "description": "Clear Hell Plaguelands at Plague Intensity 15."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105009",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bane of the Plague (Hell)",
+      "description": "Clear Hell Plaguelands at Plague Intensity 20."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105010",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Apprentice Hunter (Torment)",
+      "description": "Clear Torment Plaguelands at Plague Intensity 5."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105011",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Hunter (Torment)",
+      "description": "Clear Torment Plaguelands at Plague Intensity 10."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105012",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Slayer (Torment)",
+      "description": "Clear Torment Plaguelands at Plague Intensity 15."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105013",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bane of the Plague (Torment)",
+      "description": "Clear Torment Plaguelands at Plague Intensity 20."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105014",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Source Eliminated",
+      "description": "Defeat a Contaminated Act Boss."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_105015",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Plague Doctor",
+      "description": "Defeat 10,000 monsters in the Plaguelands."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_118001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Embrace the Blight",
+      "description": "Successfully perform Corrosion for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124001",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Seal Broken",
+      "description": "Obtain a Reliquary by making an offering with a Contaminated Reliquary for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124002",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Awaken the Relic",
+      "description": "Place a Relic in a Reliquary for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124003",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Resonance",
+      "description": "Activate a Resonance effect for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124004",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Double Resonance",
+      "description": "Have 2 Resonance effects active at once."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124005",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reliquary Complete",
+      "description": "Fill all 8 slots of a Reliquary with Relics."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124006",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Attunement",
+      "description": "Successfully attune for the first time."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124007",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master of Attunement",
+      "description": "Attune the same Relic or Reliquary 10 times."
+    },
+    {
+      "apiname": "STEAM_ACHIEVEMENT_124008",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Relic Restorer",
+      "description": "Successfully synthesize a Relic for the first time."
     }
   ]
 }

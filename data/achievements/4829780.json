@@ -3,9 +3,9 @@
   "appid": 4829780,
   "game": "开拓物语",
   "total": 40,
-  "unlocked": 31,
-  "percent": 77.5,
-  "updated_at_utc": "2026-11-17T00:02:10.493324+00:00",
+  "unlocked": 38,
+  "percent": 95.0,
+  "updated_at_utc": "2026-11-17T07:46:13.998112+00:00",
   "achievements": [
     {
       "apiname": "ACH_56000010",
@@ -107,22 +107,22 @@
     },
     {
       "apiname": "ACH_56000150",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794878920,
       "name": "Carefree Farmer",
       "description": "Own 100 farm plots\n"
     },
     {
       "apiname": "ACH_56000160",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794878920,
       "name": "Way of the Beast",
       "description": "Raise 30 animals\n"
     },
     {
       "apiname": "ACH_56000170",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794899180,
       "name": "Another World Gourmet Journey",
       "description": "Cook 500 times \n"
     },
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "ACH_56000190",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794881779,
       "name": "Chronicle of a Pioneer Hero",
       "description": "Live the pioneer life for 1 year\n"
     },
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "ACH_56000210",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794878920,
       "name": "Pioneering the Divine Realm",
       "description": "Recruit 20 followers\n"
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "ACH_56000270",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794878920,
       "name": "Demon-Slaying Sword",
       "description": "Defeat the Headless Knight\n"
     },
@@ -233,8 +233,8 @@
     },
     {
       "apiname": "ACH_56000330",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794878920,
       "name": "Queen of Oblivion",
       "description": "Defeat the Spider Queen\n"
     },
