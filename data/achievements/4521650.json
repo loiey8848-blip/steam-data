@@ -3,14 +3,14 @@
   "appid": 4521650,
   "game": "Farm & Feast",
   "total": 86,
-  "unlocked": 9,
-  "percent": 10.5,
-  "updated_at_utc": "2026-11-18T00:38:06.089254+00:00",
+  "unlocked": 25,
+  "percent": 29.1,
+  "updated_at_utc": "2026-11-18T09:49:36.999724+00:00",
   "achievements": [
     {
       "apiname": "OBJ_SOUP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794967089,
       "name": "Soup's On",
       "description": "Start a day with vegetable soup on the menu."
     },
@@ -44,15 +44,15 @@
     },
     {
       "apiname": "OBJ_FIRST_FISH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794964586,
       "name": "First Catch",
       "description": "Catch your first fish."
     },
     {
       "apiname": "OBJ_BREAD",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794964433,
       "name": "Our Daily Bread",
       "description": "Bring flour to the Bread Maker."
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "OBJ_MENU_SLOT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794969745,
       "name": "Expanded Menu",
       "description": "Unlock an extra menu slot."
     },
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "OBJ_WAITER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794968009,
       "name": "At Your Service",
       "description": "Hire a waiter."
     },
     {
       "apiname": "OBJ_HYPE_1500",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794966315,
       "name": "Talk of the Town",
       "description": "Reach 1500 hype."
     },
@@ -107,8 +107,8 @@
     },
     {
       "apiname": "OBJ_SERVE_15",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794965807,
       "name": "Full House",
       "description": "Serve 15 customers in a single day."
     },
@@ -121,8 +121,8 @@
     },
     {
       "apiname": "OBJ_TABLES_8",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794966291,
       "name": "Packed House",
       "description": "Add 2 more tables again."
     },
@@ -289,8 +289,8 @@
     },
     {
       "apiname": "FUN_DRINKS_200",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794973058,
       "name": "Thirst Trap",
       "description": "Deliver 200 drinks."
     },
@@ -310,29 +310,29 @@
     },
     {
       "apiname": "OBJ_FISH_STATION",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794964843,
       "name": "Catch of the Day",
       "description": "Buy the Fish Dishes Station."
     },
     {
       "apiname": "OBJ_GRILL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794971988,
       "name": "Sizzle",
       "description": "Buy the Grill."
     },
     {
       "apiname": "OBJ_HYPE_3000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794968847,
       "name": "Buzzing",
       "description": "Reach 3000 hype."
     },
     {
       "apiname": "OBJ_STAR_2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794993283,
       "name": "Rising Star",
       "description": "Earn your second star."
     },
@@ -436,8 +436,8 @@
     },
     {
       "apiname": "SERVE_GRILLED_BASS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794971782,
       "name": "Drop the Bass",
       "description": "Serve 75 Grilled Bass."
     },
@@ -471,8 +471,8 @@
     },
     {
       "apiname": "MENU_PASTA_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794993417,
       "name": "Pasta La Vista",
       "description": "Start a day with 3 pastas on the menu."
     },
@@ -513,8 +513,8 @@
     },
     {
       "apiname": "TABLES_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794993417,
       "name": "Full House",
       "description": "Start a day with 10 tables."
     },

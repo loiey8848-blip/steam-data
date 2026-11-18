@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-18T00:38:06.417891+00:00",
+  "updated_at_utc": "2026-11-18T09:49:37.366704+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3910,
+      "playtime_2weeks": 3802,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -16,10 +16,21 @@
     {
       "appid": 4829780,
       "name": "开拓物语",
-      "playtime_2weeks": 1378,
-      "playtime_forever": 1378,
+      "playtime_2weeks": 1654,
+      "playtime_forever": 1654,
       "img_icon_url": "de60d766e2dad0c276d73268232fa0724e93e052",
-      "playtime_windows_forever": 1378,
+      "playtime_windows_forever": 1654,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3678970,
+      "name": "TBH: Task Bar Hero",
+      "playtime_2weeks": 868,
+      "playtime_forever": 4041,
+      "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
+      "playtime_windows_forever": 4041,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -36,23 +47,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4934370,
-      "name": "TV Archive: Tidy Up Together",
-      "playtime_2weeks": 548,
-      "playtime_forever": 864,
-      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
-      "playtime_windows_forever": 864,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3678970,
-      "name": "TBH: Task Bar Hero",
-      "playtime_2weeks": 542,
-      "playtime_forever": 3714,
-      "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
-      "playtime_windows_forever": 3714,
+      "appid": 4521650,
+      "name": "Farm & Feast",
+      "playtime_2weeks": 541,
+      "playtime_forever": 541,
+      "img_icon_url": "aee84a25a559ef6e7831e10d82586cb8fe380459",
+      "playtime_windows_forever": 541,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 4934370,
+      "name": "TV Archive: Tidy Up Together",
+      "playtime_2weeks": 323,
+      "playtime_forever": 864,
+      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
+      "playtime_windows_forever": 864,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3024130,
       "name": "PAO PAO",
       "playtime_2weeks": 249,
       "playtime_forever": 249,
       "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
       "playtime_windows_forever": 249,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4521650,
-      "name": "Farm & Feast",
-      "playtime_2weeks": 206,
-      "playtime_forever": 206,
-      "img_icon_url": "aee84a25a559ef6e7831e10d82586cb8fe380459",
-      "playtime_windows_forever": 206,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -185,6 +185,17 @@
       "playtime_forever": 10,
       "img_icon_url": "52cf8cf1891b1b6e05a9a72ce743593e4e8a7741",
       "playtime_windows_forever": 10,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1927740,
+      "name": "Monument Valley 2",
+      "playtime_2weeks": 6,
+      "playtime_forever": 6,
+      "img_icon_url": "d75c87364b691eb027269bebe917f44c20a09e2f",
+      "playtime_windows_forever": 6,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
