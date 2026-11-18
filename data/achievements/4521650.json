@@ -3,9 +3,9 @@
   "appid": 4521650,
   "game": "Farm & Feast",
   "total": 86,
-  "unlocked": 25,
-  "percent": 29.1,
-  "updated_at_utc": "2026-11-18T09:49:36.999724+00:00",
+  "unlocked": 32,
+  "percent": 37.2,
+  "updated_at_utc": "2026-11-18T18:43:03.812471+00:00",
   "achievements": [
     {
       "apiname": "OBJ_SOUP",
@@ -16,15 +16,15 @@
     },
     {
       "apiname": "OBJ_TILLER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794996692,
       "name": "Power Tool",
       "description": "Buy the tiller."
     },
     {
       "apiname": "OBJ_SEEDGUN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794997046,
       "name": "Pew Pew Plant",
       "description": "Buy the Seed Gun."
     },
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "OBJ_PASTA_MAKER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794996766,
       "name": "Hand Rolled",
       "description": "Buy and place a Pasta Maker."
     },
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "OBJ_PIZZA_MAKER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794996772,
       "name": "From Scratch",
       "description": "Buy and place a Pizza Maker."
     },
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "FUN_STYLE_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794997121,
       "name": "Makeover",
       "description": "Change your restaurant style 5 times."
     },
@@ -296,8 +296,8 @@
     },
     {
       "apiname": "FUN_SPOTS_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794996729,
       "name": "Squeaky Clean",
       "description": "Clean 100 spots."
     },
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "MENU_SOUP_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1794996582,
       "name": "Soup Sommelier",
       "description": "Start a day with 5 soups on the menu."
     },

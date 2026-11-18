@@ -3,9 +3,9 @@
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
   "total": 80,
-  "unlocked": 62,
-  "percent": 77.5,
-  "updated_at_utc": "2026-11-18T09:49:34.132022+00:00",
+  "unlocked": 73,
+  "percent": 91.2,
+  "updated_at_utc": "2026-11-18T18:43:01.118612+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -408,57 +408,57 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105002",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795023923,
       "name": "Apprentice Hunter (Nightmare)",
       "description": "Clear Nightmare Plaguelands at Plague Intensity 5."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105003",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795024427,
       "name": "Plague Hunter (Nightmare)",
       "description": "Clear Nightmare Plaguelands at Plague Intensity 10."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105004",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795024970,
       "name": "Plague Slayer (Nightmare)",
       "description": "Clear Nightmare Plaguelands at Plague Intensity 15."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105005",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795025528,
       "name": "Bane of the Plague (Nightmare)",
       "description": "Clear Nightmare Plaguelands at Plague Intensity 20."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105006",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795020569,
       "name": "Apprentice Hunter (Hell)",
       "description": "Clear Hell Plaguelands at Plague Intensity 5."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105007",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795021208,
       "name": "Plague Hunter (Hell)",
       "description": "Clear Hell Plaguelands at Plague Intensity 10."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105008",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795021891,
       "name": "Plague Slayer (Hell)",
       "description": "Clear Hell Plaguelands at Plague Intensity 15."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105009",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795022596,
       "name": "Bane of the Plague (Hell)",
       "description": "Clear Hell Plaguelands at Plague Intensity 20."
     },
@@ -506,8 +506,8 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_118001",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795019972,
       "name": "Embrace the Blight",
       "description": "Successfully perform Corrosion for the first time."
     },
@@ -548,15 +548,15 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124006",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795020110,
       "name": "First Attunement",
       "description": "Successfully attune for the first time."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124007",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795020148,
       "name": "Master of Attunement",
       "description": "Attune the same Relic or Reliquary 10 times."
     },

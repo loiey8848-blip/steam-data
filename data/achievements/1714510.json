@@ -3,9 +3,9 @@
   "appid": 1714510,
   "game": "Kusan : City of Wolves",
   "total": 45,
-  "unlocked": 16,
-  "percent": 35.6,
-  "updated_at_utc": "2026-11-18T09:48:53.516606+00:00",
+  "unlocked": 39,
+  "percent": 86.7,
+  "updated_at_utc": "2026-11-18T18:42:20.007900+00:00",
   "achievements": [
     {
       "apiname": "CLEAR_STAGE_1-0",
@@ -51,78 +51,78 @@
     },
     {
       "apiname": "CLEAR_STAGE_2-2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795006098,
       "name": "Request",
       "description": "Complete Chapter 2 Scene 2"
     },
     {
       "apiname": "CLEAR_STAGE_2-3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795007600,
       "name": "MAMA",
       "description": "Complete Chapter 2 Scene 3"
     },
     {
       "apiname": "CLEAR_STAGE_2-4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795009132,
       "name": "Dream",
       "description": "Complete Chapter 2 Scene 4"
     },
     {
       "apiname": "CLEAR_STAGE_2-5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795011841,
       "name": "Zero core",
       "description": "Complete Chapter 2 Scene 5"
     },
     {
       "apiname": "CLEAR_STAGE_2-6",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795013023,
       "name": "Assault",
       "description": "Complete Chapter 2 Scene 6"
     },
     {
       "apiname": "CLEAR_STAGE_2-7",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795014082,
       "name": "Chase",
       "description": "Complete Chapter 2 Scene 7"
     },
     {
       "apiname": "CLEAR_STAGE_3-1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795015337,
       "name": "Nightmare",
       "description": "Complete Chapter 3 Scene 1"
     },
     {
       "apiname": "CLEAR_STAGE_3-2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795016530,
       "name": "Midgnight",
       "description": "Complete Chapter 3 Scene 2"
     },
     {
       "apiname": "CLEAR_STAGE_3-3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795017500,
       "name": "Convergence",
       "description": "Complete Chapter 3 Scene 3"
     },
     {
       "apiname": "CLEAR_STAGE_3-4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795018636,
       "name": "Fall",
       "description": "Complete Chapter 3 Scene 4"
     },
     {
       "apiname": "ALL_FLOOR_SS_PROLOGUE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795027333,
       "name": "Master Fixer",
       "description": "Achieve SS rank for all floors in the Prologue"
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "KILL_1000_ENEMY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795004535,
       "name": "'Baba Yaga'... is that you?",
       "description": "Kill 1000 enemies"
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "FREE_ALL_LIMBUS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795025616,
       "name": "Error 404: Chains Not Found",
       "description": "Free all Limbus"
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "TECHTRIX_PURCHASE_ALL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795022624,
       "name": "Very Armed and Very Dangerous",
       "description": "Unlock all War-hand upgrade slots"
     },
@@ -233,43 +233,43 @@
     },
     {
       "apiname": "TECHTRIX_USE_ALL_SLOTS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795021190,
       "name": "He's got tickets to the gun show—and they're VIP",
       "description": "Unlock and use all the slots."
     },
     {
       "apiname": "CLEAR_STAGE_USING_ONLY_PUNCH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795023517,
       "name": "The Silent Type",
       "description": "Kill every enemy of a stage with War-hand only"
     },
     {
       "apiname": "DIE_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795003568,
       "name": "Try, Try, and Try Again",
       "description": "Die 100 times"
     },
     {
       "apiname": "TECHTRIX_UNLOCK_ALL_WEAPON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795018947,
       "name": "Welcome to the Continental",
       "description": "Unlock every weapon"
     },
     {
       "apiname": "FIRE_BULLETS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795016320,
       "name": "Trigger Happy",
       "description": "Fire 1,000 bullets"
     },
     {
       "apiname": "DIE_PROLOGUE_FIRST_ENEMY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795019258,
       "name": "Tougher than It Looks!",
       "description": "Die to the first enemy in the prologue."
     },
@@ -282,22 +282,22 @@
     },
     {
       "apiname": "CLEAR_ANY_LEVEL_SS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795010548,
       "name": "S²",
       "description": "Complete any level with an SS rank."
     },
     {
       "apiname": "CLEAR_STAGE_WITHOUT_DEATH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795021881,
       "name": "Don't touch me",
       "description": "Clear any stage without dying once."
     },
     {
       "apiname": "KILL_MIKE_AXE_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795020954,
       "name": "Lead Them to the Slaughterhouse.",
       "description": "Kill 1,000 'White Rat with an Axe' enemies."
     },
