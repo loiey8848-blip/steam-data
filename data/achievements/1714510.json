@@ -3,9 +3,9 @@
   "appid": 1714510,
   "game": "Kusan : City of Wolves",
   "total": 45,
-  "unlocked": 39,
-  "percent": 86.7,
-  "updated_at_utc": "2026-11-18T18:42:20.007900+00:00",
+  "unlocked": 45,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-19T01:46:16.656734+00:00",
   "achievements": [
     {
       "apiname": "CLEAR_STAGE_1-0",
@@ -128,22 +128,22 @@
     },
     {
       "apiname": "ALL_FLOOR_SS_CHAPTER1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795027906,
       "name": "Master Presence",
       "description": "Achieve SS rank for all floors in the Chapter 1"
     },
     {
       "apiname": "ALL_FLOOR_SS_CHAPTER2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795032381,
       "name": "Master Past",
       "description": "Achieve SS rank for all floors in the Chapter 2"
     },
     {
       "apiname": "ALL_FLOOR_SS_CHAPTER3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795035086,
       "name": "Master Beyond",
       "description": "Achieve SS rank for all floors in the Chapter 3"
     },
@@ -303,22 +303,22 @@
     },
     {
       "apiname": "KILL_CHARLIE_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795030011,
       "name": "Fresh Meat",
       "description": "Kill 1,000 'Rushing Bull' enemies."
     },
     {
       "apiname": "KILL_DAK_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795031119,
       "name": "Fly my Pretties, fly",
       "description": "Kill 1,000 'Red Psycho Monkey' enemies."
     },
     {
       "apiname": "KILL_SKELETON_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795033763,
       "name": "T-1000?",
       "description": "Kill 1,000 'Cyborgs'."
     }

@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-18T18:43:04.129277+00:00",
+  "updated_at_utc": "2026-11-19T01:47:02.775960+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3712,
+      "playtime_2weeks": 3686,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -27,10 +27,21 @@
     {
       "appid": 3678970,
       "name": "TBH: Task Bar Hero",
-      "playtime_2weeks": 988,
-      "playtime_forever": 4161,
+      "playtime_2weeks": 1393,
+      "playtime_forever": 4566,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
-      "playtime_windows_forever": 4161,
+      "playtime_windows_forever": 4566,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1714510,
+      "name": "Kusan : City of Wolves",
+      "playtime_2weeks": 783,
+      "playtime_forever": 832,
+      "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
+      "playtime_windows_forever": 832,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,17 +80,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1714510,
-      "name": "Kusan : City of Wolves",
-      "playtime_2weeks": 479,
-      "playtime_forever": 528,
-      "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
-      "playtime_windows_forever": 528,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 438,
@@ -97,17 +97,6 @@
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4934370,
-      "name": "TV Archive: Tidy Up Together",
-      "playtime_2weeks": 270,
-      "playtime_forever": 864,
-      "img_icon_url": "d8965270411d5b980d6857d0017f84340589d4a3",
-      "playtime_windows_forever": 864,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -159,7 +148,7 @@
     {
       "appid": 4115450,
       "name": "Phantom Blade Zero",
-      "playtime_2weeks": 44,
+      "playtime_2weeks": 31,
       "playtime_forever": 3065,
       "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
       "playtime_windows_forever": 3065,

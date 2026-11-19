@@ -3,9 +3,9 @@
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
   "total": 80,
-  "unlocked": 73,
-  "percent": 91.2,
-  "updated_at_utc": "2026-11-18T18:43:01.118612+00:00",
+  "unlocked": 76,
+  "percent": 95.0,
+  "updated_at_utc": "2026-11-19T01:46:59.475534+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -492,8 +492,8 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_105014",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795044306,
       "name": "Source Eliminated",
       "description": "Defeat a Contaminated Act Boss."
     },
@@ -513,15 +513,15 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124001",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795044020,
       "name": "Seal Broken",
       "description": "Obtain a Reliquary by making an offering with a Contaminated Reliquary for the first time."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124002",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795044047,
       "name": "Awaken the Relic",
       "description": "Place a Relic in a Reliquary for the first time."
     },
