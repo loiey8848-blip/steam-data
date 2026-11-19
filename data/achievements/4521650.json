@@ -3,9 +3,9 @@
   "appid": 4521650,
   "game": "Farm & Feast",
   "total": 86,
-  "unlocked": 62,
-  "percent": 72.1,
-  "updated_at_utc": "2026-11-19T09:58:27.328948+00:00",
+  "unlocked": 84,
+  "percent": 97.7,
+  "updated_at_utc": "2026-11-19T18:55:52.934619+00:00",
   "achievements": [
     {
       "apiname": "OBJ_SOUP",
@@ -135,8 +135,8 @@
     },
     {
       "apiname": "FUN_DINE_DASH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795084484,
       "name": "Dine and Dash",
       "description": ""
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "FUN_TRASH_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795082347,
       "name": "Waste Not Want Not",
       "description": "Throw food in the trash 25 times."
     },
@@ -177,15 +177,15 @@
     },
     {
       "apiname": "FUN_ROCKS_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795091621,
       "name": "Rock and Roll",
       "description": "Break 100 rocks."
     },
     {
       "apiname": "FUN_GRASS_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795088452,
       "name": "Mow Problems",
       "description": "Clear 1000 patches of grass."
     },
@@ -212,36 +212,36 @@
     },
     {
       "apiname": "FUN_DUST_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795111259,
       "name": "Dust Bunny Hunter",
       "description": "Wipe 100 dusty tables."
     },
     {
       "apiname": "FUN_WATER_500",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795088434,
       "name": "Hydration Station",
       "description": "Serve water 500 times."
     },
     {
       "apiname": "FUN_BELL_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795106453,
       "name": "Dinner Bell",
       "description": ""
     },
     {
       "apiname": "FUN_ANIMAL_NAME",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795104799,
       "name": "Meet Bessie",
       "description": "Give one of your animals a name."
     },
     {
       "apiname": "FUN_RENAME_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795105958,
       "name": "Identity Crisis",
       "description": ""
     },
@@ -303,8 +303,8 @@
     },
     {
       "apiname": "FUN_HARVEST_1000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795087117,
       "name": "Bumper Crop",
       "description": "Harvest 1000 crops."
     },
@@ -352,8 +352,8 @@
     },
     {
       "apiname": "FUN_MILLER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795087180,
       "name": "The Miller",
       "description": "Deliver 100 flour sacks to your makers."
     },
@@ -366,15 +366,15 @@
     },
     {
       "apiname": "SERVE_TOMATO_SOUP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795083435,
       "name": "Souper Fan",
       "description": "Serve 100 Tomato Soups."
     },
     {
       "apiname": "SERVE_PHO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085769,
       "name": "Pho Real",
       "description": "Serve 75 bowls of Pho."
     },
@@ -387,15 +387,15 @@
     },
     {
       "apiname": "SERVE_MAC_CHEESE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795086475,
       "name": "Comfort Food",
       "description": "Serve 100 Mac & Cheese."
     },
     {
       "apiname": "SERVE_LASAGNA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795086299,
       "name": "Layers on Layers",
       "description": "Serve 75 Lasagnas."
     },
@@ -408,15 +408,15 @@
     },
     {
       "apiname": "SERVE_MARGHERITA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085274,
       "name": "Fit for a Queen",
       "description": "Serve 100 Margherita pizzas."
     },
     {
       "apiname": "SERVE_PEPPERONI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085363,
       "name": "Pepperoni Party",
       "description": "Serve 75 Pepperoni pizzas."
     },
@@ -429,8 +429,8 @@
     },
     {
       "apiname": "SERVE_FISH_AND_CHIPS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795084771,
       "name": "Proper Chippy",
       "description": "Serve 100 Fish and Chips."
     },
@@ -443,15 +443,15 @@
     },
     {
       "apiname": "SERVE_SHRIMP",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085820,
       "name": "Shrimply the Best",
       "description": "Serve 50 Shrimp Dishes."
     },
     {
       "apiname": "SERVE_CHEESEBURGER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085178,
       "name": "Say Cheese",
       "description": "Serve 100 Cheeseburgers."
     },
@@ -527,8 +527,8 @@
     },
     {
       "apiname": "TABLES_25",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795104916,
       "name": "Grand Dining",
       "description": "Start a day with 25 tables."
     },
@@ -597,8 +597,8 @@
     },
     {
       "apiname": "UNLOCK_ALL_DECO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795085570,
       "name": "Interior Designer",
       "description": "Buy every restaurant decoration."
     },

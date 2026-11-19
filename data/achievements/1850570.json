@@ -3,9 +3,9 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 45,
-  "percent": 71.4,
-  "updated_at_utc": "2026-09-15T06:52:20.947365+00:00",
+  "unlocked": 47,
+  "percent": 74.6,
+  "updated_at_utc": "2026-11-19T18:55:10.596620+00:00",
   "achievements": [
     {
       "apiname": "000",
@@ -149,8 +149,8 @@
     },
     {
       "apiname": "020",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795098792,
       "name": "A Helping Hand",
       "description": "Issue your first supply request."
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "023",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795099036,
       "name": "Master Builder",
       "description": "Complete at least one of every type of structure (including signs, ladders, and climbing anchors.)"
     },
