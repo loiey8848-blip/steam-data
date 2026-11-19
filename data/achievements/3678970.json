@@ -3,9 +3,9 @@
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
   "total": 80,
-  "unlocked": 76,
-  "percent": 95.0,
-  "updated_at_utc": "2026-11-19T01:46:59.475534+00:00",
+  "unlocked": 77,
+  "percent": 96.2,
+  "updated_at_utc": "2026-11-19T09:58:24.541085+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -562,8 +562,8 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124008",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795063590,
       "name": "Relic Restorer",
       "description": "Successfully synthesize a Relic for the first time."
     }

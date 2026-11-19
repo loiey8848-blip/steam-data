@@ -3,9 +3,9 @@
   "appid": 4521650,
   "game": "Farm & Feast",
   "total": 86,
-  "unlocked": 32,
-  "percent": 37.2,
-  "updated_at_utc": "2026-11-19T01:47:02.462778+00:00",
+  "unlocked": 62,
+  "percent": 72.1,
+  "updated_at_utc": "2026-11-19T09:58:27.328948+00:00",
   "achievements": [
     {
       "apiname": "OBJ_SOUP",
@@ -58,8 +58,8 @@
     },
     {
       "apiname": "OBJ_PIZZA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795057731,
       "name": "That's Amore",
       "description": "Add a pizza to the menu."
     },
@@ -170,8 +170,8 @@
     },
     {
       "apiname": "FUN_TREES_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795059475,
       "name": "Lumberjack",
       "description": "Chop down 100 trees."
     },
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "FUN_FISH_100",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795081000,
       "name": "The Old Man and the Sea",
       "description": "Catch 100 fish."
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "FUN_FISH_ESCAPE_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795056790,
       "name": "The One That Got Away",
       "description": ""
     },
@@ -247,15 +247,15 @@
     },
     {
       "apiname": "FUN_COINS_10K",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795058253,
       "name": "Moneybags",
       "description": "Have 10000 coins at once."
     },
     {
       "apiname": "FUN_DAY_30",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795064388,
       "name": "Regular",
       "description": "Reach day 30."
     },
@@ -268,15 +268,15 @@
     },
     {
       "apiname": "FUN_PLANTS_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795060090,
       "name": "Leafy Vibes",
       "description": "Decorate with 10 potted plants."
     },
     {
       "apiname": "FUN_LAMPS_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795060031,
       "name": "Mood Lighting",
       "description": "Decorate with 10 wall lamps."
     },
@@ -338,15 +338,15 @@
     },
     {
       "apiname": "OBJ_BEACH",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795056387,
       "name": "Beachfront Dining",
       "description": "Reach 11000 hype and open the beach."
     },
     {
       "apiname": "OBJ_STAR_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795064216,
       "name": "Three Star Kitchen",
       "description": "Earn your third star."
     },
@@ -359,8 +359,8 @@
     },
     {
       "apiname": "FUN_HAY_HAULER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795059916,
       "name": "Hay Hauler",
       "description": "Deliver 25 bales to the windmill."
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "SERVE_TOM_YUM",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795064925,
       "name": "Tom Yum Yum",
       "description": "Serve 50 bowls of Tom Yum."
     },
@@ -401,8 +401,8 @@
     },
     {
       "apiname": "SERVE_RAVIOLI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795064682,
       "name": "Little Pillows",
       "description": "Serve 50 plates of Ravioli."
     },
@@ -422,8 +422,8 @@
     },
     {
       "apiname": "SERVE_FRUTTI_DI_MARE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795062735,
       "name": "Fruits of the Sea",
       "description": "Serve 50 Frutti di Mare pizzas."
     },
@@ -478,36 +478,36 @@
     },
     {
       "apiname": "MENU_PASTA_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795080262,
       "name": "Carb Loader",
       "description": "Start a day with 5 pastas on the menu."
     },
     {
       "apiname": "MENU_PIZZA_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795058888,
       "name": "Slice of Life",
       "description": "Start a day with 3 pizzas on the menu."
     },
     {
       "apiname": "MENU_PIZZA_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795080262,
       "name": "Pizza Party",
       "description": "Start a day with 5 pizzas on the menu."
     },
     {
       "apiname": "MENU_FISH_3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795058888,
       "name": "Catch of the Day",
       "description": "Start a day with 3 fish dishes on the menu."
     },
     {
       "apiname": "MENU_FISH_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795081811,
       "name": "Seafood Palace",
       "description": "Start a day with 5 fish dishes on the menu."
     },
@@ -520,8 +520,8 @@
     },
     {
       "apiname": "TABLES_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795058888,
       "name": "Banquet Hall",
       "description": "Start a day with 20 tables."
     },
@@ -534,64 +534,64 @@
     },
     {
       "apiname": "DRINK_TYPES_5",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795057753,
       "name": "Thirsty?",
       "description": "Start a day with 5 different drinks in stock."
     },
     {
       "apiname": "DRINK_TYPES_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795060293,
       "name": "Drink Menu",
       "description": "Start a day with 10 different drinks in stock."
     },
     {
       "apiname": "DRINK_TYPES_18",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795060293,
       "name": "Full Fridge",
       "description": "Start a day with 18 different drinks in stock."
     },
     {
       "apiname": "UNLOCK_ALL_SOUPS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795059882,
       "name": "Soup Master",
       "description": "Unlock every soup recipe."
     },
     {
       "apiname": "UNLOCK_ALL_PASTAS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795059883,
       "name": "Pasta Master",
       "description": "Unlock every pasta recipe."
     },
     {
       "apiname": "UNLOCK_ALL_PIZZAS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795057692,
       "name": "Pizza Master",
       "description": "Unlock every pizza recipe."
     },
     {
       "apiname": "UNLOCK_ALL_FISHES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795063315,
       "name": "Seafood Master",
       "description": "Unlock every fish recipe."
     },
     {
       "apiname": "UNLOCK_ALL_BURGERS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795057692,
       "name": "Burger Master",
       "description": "Unlock every burger recipe."
     },
     {
       "apiname": "UNLOCK_ALL_DISHES",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795063315,
       "name": "Master Chef",
       "description": "Unlock every recipe."
     },
@@ -604,8 +604,8 @@
     },
     {
       "apiname": "FUN_DOCK_SIT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795060321,
       "name": "Dock of the Bay",
       "description": "Sit on the dock and enjoy the view."
     }
