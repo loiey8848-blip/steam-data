@@ -3,9 +3,9 @@
   "appid": 3985950,
   "game": "R.I.P. - Reincarnation Insurance Program",
   "total": 51,
-  "unlocked": 49,
-  "percent": 96.1,
-  "updated_at_utc": "2026-11-20T09:46:12.605312+00:00",
+  "unlocked": 50,
+  "percent": 98.0,
+  "updated_at_utc": "2026-11-20T18:23:41.671209+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -338,8 +338,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_48",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795195690,
       "name": "Spacetime Marshal",
       "description": "Clear Void Spire Layer 30"
     },
