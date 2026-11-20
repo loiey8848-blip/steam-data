@@ -3,9 +3,9 @@
   "appid": 3678970,
   "game": "TBH: Task Bar Hero",
   "total": 80,
-  "unlocked": 77,
-  "percent": 96.2,
-  "updated_at_utc": "2026-11-19T18:55:50.364081+00:00",
+  "unlocked": 79,
+  "percent": 98.8,
+  "updated_at_utc": "2026-11-20T01:43:18.912010+00:00",
   "achievements": [
     {
       "apiname": "STEAM_ACHIEVEMENT_100001",
@@ -527,15 +527,15 @@
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124003",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795136571,
       "name": "First Resonance",
       "description": "Activate a Resonance effect for the first time."
     },
     {
       "apiname": "STEAM_ACHIEVEMENT_124004",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795136691,
       "name": "Double Resonance",
       "description": "Have 2 Resonance effects active at once."
     },
