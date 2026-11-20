@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-20T01:43:21.929797+00:00",
+  "updated_at_utc": "2026-11-20T09:46:13.593163+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3613,
+      "playtime_2weeks": 3530,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -16,10 +16,10 @@
     {
       "appid": 3678970,
       "name": "TBH: Task Bar Hero",
-      "playtime_2weeks": 2346,
-      "playtime_forever": 5518,
+      "playtime_2weeks": 2405,
+      "playtime_forever": 5578,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
-      "playtime_windows_forever": 5518,
+      "playtime_windows_forever": 5578,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -38,10 +38,10 @@
     {
       "appid": 4521650,
       "name": "Farm & Feast",
-      "playtime_2weeks": 1583,
-      "playtime_forever": 1583,
+      "playtime_2weeks": 1644,
+      "playtime_forever": 1644,
       "img_icon_url": "aee84a25a559ef6e7831e10d82586cb8fe380459",
-      "playtime_windows_forever": 1583,
+      "playtime_windows_forever": 1644,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,17 +69,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 524,
-      "playtime_forever": 1193,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 1193,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 438,
@@ -97,6 +86,28 @@
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 418,
+      "playtime_forever": 1193,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 1193,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1448440,
+      "name": "Wo Long: Fallen Dynasty",
+      "playtime_2weeks": 330,
+      "playtime_forever": 3312,
+      "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
+      "playtime_windows_forever": 3312,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -130,6 +141,17 @@
       "playtime_forever": 1153,
       "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
       "playtime_windows_forever": 1153,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3985950,
+      "name": "R.I.P. - Reincarnation Insurance Program",
+      "playtime_2weeks": 85,
+      "playtime_forever": 1727,
+      "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
+      "playtime_windows_forever": 1727,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

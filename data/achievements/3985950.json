@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 3985950,
   "game": "R.I.P. - Reincarnation Insurance Program",
-  "total": 50,
-  "unlocked": 40,
-  "percent": 80.0,
-  "updated_at_utc": "2026-09-15T06:53:37.999369+00:00",
+  "total": 51,
+  "unlocked": 49,
+  "percent": 96.1,
+  "updated_at_utc": "2026-11-20T09:46:12.605312+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -289,50 +289,50 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_40",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795143209,
       "name": "Soaring Ambition",
       "description": "Win a battle using Ling"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_42",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795146755,
       "name": "Ace Training",
       "description": "Play the arcade game 3 times"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_43",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795142471,
       "name": "Machine Uprising",
       "description": "Defeat the Thunder Guardian in Skyfort for the first time"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_44",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795143209,
       "name": "Dragon Slayer",
       "description": "Defeat the Cataclysm Drake in Skyfort for the first time"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_45",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795145902,
       "name": "Anonymous Buyer",
       "description": "Purchase 20 equipment from the Black Market"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_46",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795146511,
       "name": "Endless Overtime",
       "description": "Start a battle in the Endless Journey"
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_47",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795143790,
       "name": "Mythic Artisan",
       "description": "Obtain any 5 Mythic equipment through Forging"
     },
@@ -345,8 +345,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_49",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795145354,
       "name": "Hour of Doom",
       "description": "Defeat Nidh-hotep for the first time"
     },
@@ -356,6 +356,13 @@
       "unlocktime": 0,
       "name": "I Am Legend",
       "description": "Reach 80% investigation progress in all regions"
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_1_41",
+      "achieved": 1,
+      "unlocktime": 1795145354,
+      "name": "Quack Rampage",
+      "description": "Win a battle using Ace"
     }
   ]
 }
