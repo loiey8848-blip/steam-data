@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-21T17:10:48.724176+00:00",
+  "updated_at_utc": "2026-11-21T22:51:34.401151+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3422,
+      "playtime_2weeks": 3420,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -135,6 +135,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 2246340,
+      "name": "Monster Hunter Wilds",
+      "playtime_2weeks": 96,
+      "playtime_forever": 16415,
+      "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
+      "playtime_windows_forever": 16415,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2336220,
       "name": "Feed The Cups",
       "playtime_2weeks": 90,
@@ -168,6 +179,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5292900,
+      "name": "WAKABOOM",
+      "playtime_2weeks": 15,
+      "playtime_forever": 15,
+      "img_icon_url": "48c34029308a14148f9fa003c2ad45a6d9d91659",
+      "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1574820,
       "name": "Until Then",
       "playtime_2weeks": 10,
@@ -185,6 +207,17 @@
       "playtime_forever": 6,
       "img_icon_url": "d75c87364b691eb027269bebe917f44c20a09e2f",
       "playtime_windows_forever": 6,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2478120,
+      "name": "Nekograms",
+      "playtime_2weeks": 4,
+      "playtime_forever": 4,
+      "img_icon_url": "2b0b30473776ee5ed80e116900cc7da4a6520a3c",
+      "playtime_windows_forever": 4,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
