@@ -1,8 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-21T01:09:16.282966+00:00",
-  "owned_games": 1716,
-  "new_games": [],
+  "updated_at_utc": "2026-11-21T09:18:16.450402+00:00",
+  "owned_games": 1717,
+  "new_games": [
+    {
+      "appid": 2321960,
+      "name": "Spirit Crossing",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -2941,10 +2951,10 @@
     {
       "appid": 1850570,
       "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "playtime_minutes": 3471,
-      "playtime_hours": 57.9,
-      "last_played_unix": 1795099206,
-      "last_played_utc": "2026-11-19T14:40:06+00:00",
+      "playtime_minutes": 3683,
+      "playtime_hours": 61.4,
+      "last_played_unix": 1795251982,
+      "last_played_utc": "2026-11-21T09:06:22+00:00",
       "recent": true
     },
     {
@@ -9853,10 +9863,10 @@
     {
       "appid": 3985950,
       "name": "R.I.P. - Reincarnation Insurance Program",
-      "playtime_minutes": 2195,
-      "playtime_hours": 36.6,
-      "last_played_unix": 1795222744,
-      "last_played_utc": "2026-11-21T00:59:04+00:00",
+      "playtime_minutes": 2219,
+      "playtime_hours": 37.0,
+      "last_played_unix": 1795224214,
+      "last_played_utc": "2026-11-21T01:23:34+00:00",
       "recent": true
     },
     {
@@ -11608,6 +11618,15 @@
     {
       "appid": 1329500,
       "name": "SpiderHeck",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 2321960,
+      "name": "Spirit Crossing",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -14947,10 +14966,10 @@
     {
       "appid": 1448440,
       "name": "Wo Long: Fallen Dynasty",
-      "playtime_minutes": 4133,
-      "playtime_hours": 68.9,
-      "last_played_unix": 1795222744,
-      "last_played_utc": "2026-11-21T00:59:04+00:00",
+      "playtime_minutes": 4347,
+      "playtime_hours": 72.5,
+      "last_played_unix": 1795235745,
+      "last_played_utc": "2026-11-21T04:35:45+00:00",
       "recent": true
     },
     {

@@ -3,9 +3,9 @@
   "appid": 3985950,
   "game": "R.I.P. - Reincarnation Insurance Program",
   "total": 51,
-  "unlocked": 50,
-  "percent": 98.0,
-  "updated_at_utc": "2026-11-21T01:09:15.149045+00:00",
+  "unlocked": 51,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-21T09:18:15.996420+00:00",
   "achievements": [
     {
       "apiname": "NEW_ACHIEVEMENT_1_0",
@@ -352,8 +352,8 @@
     },
     {
       "apiname": "NEW_ACHIEVEMENT_1_50",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795224196,
       "name": "I Am Legend",
       "description": "Reach 80% investigation progress in all regions"
     },

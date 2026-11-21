@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-21T01:09:16.282966+00:00",
+  "updated_at_utc": "2026-11-21T09:18:16.450402+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -3917,14 +3917,14 @@
     {
       "appid": 1850570,
       "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "playtime_minutes": 3471,
-      "playtime_hours": 57.9,
-      "last_played_unix": 1795099206,
-      "last_played_utc": "2026-11-19T14:40:06+00:00",
+      "playtime_minutes": 3683,
+      "playtime_hours": 61.4,
+      "last_played_unix": 1795251982,
+      "last_played_utc": "2026-11-21T09:06:22+00:00",
       "recent": true,
-      "achievements_unlocked": 47,
+      "achievements_unlocked": 51,
       "achievements_total": 63,
-      "achievement_percent": 74.6
+      "achievement_percent": 81.0
     },
     {
       "appid": 894020,
@@ -13133,14 +13133,14 @@
     {
       "appid": 3985950,
       "name": "R.I.P. - Reincarnation Insurance Program",
-      "playtime_minutes": 2195,
-      "playtime_hours": 36.6,
-      "last_played_unix": 1795222744,
-      "last_played_utc": "2026-11-21T00:59:04+00:00",
+      "playtime_minutes": 2219,
+      "playtime_hours": 37.0,
+      "last_played_unix": 1795224214,
+      "last_played_utc": "2026-11-21T01:23:34+00:00",
       "recent": true,
-      "achievements_unlocked": 50,
+      "achievements_unlocked": 51,
       "achievements_total": 51,
-      "achievement_percent": 98.0
+      "achievement_percent": 100.0
     },
     {
       "appid": 1793170,
@@ -15473,6 +15473,18 @@
     {
       "appid": 1329500,
       "name": "SpiderHeck",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 2321960,
+      "name": "Spirit Crossing",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -19925,14 +19937,14 @@
     {
       "appid": 1448440,
       "name": "Wo Long: Fallen Dynasty",
-      "playtime_minutes": 4133,
-      "playtime_hours": 68.9,
-      "last_played_unix": 1795222744,
-      "last_played_utc": "2026-11-21T00:59:04+00:00",
+      "playtime_minutes": 4347,
+      "playtime_hours": 72.5,
+      "last_played_unix": 1795235745,
+      "last_played_utc": "2026-11-21T04:35:45+00:00",
       "recent": true,
-      "achievements_unlocked": 82,
+      "achievements_unlocked": 90,
       "achievements_total": 90,
-      "achievement_percent": 91.1
+      "achievement_percent": 100.0
     },
     {
       "appid": 612880,

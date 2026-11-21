@@ -3,9 +3,9 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 47,
-  "percent": 74.6,
-  "updated_at_utc": "2026-11-21T01:08:31.272706+00:00",
+  "unlocked": 51,
+  "percent": 81.0,
+  "updated_at_utc": "2026-11-21T09:17:34.437342+00:00",
   "achievements": [
     {
       "apiname": "000",
@@ -282,8 +282,8 @@
     },
     {
       "apiname": "039",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795250123,
       "name": "The Past Guides the Present",
       "description": "Read 100 interviews."
     },
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "051",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795248703,
       "name": "God Particle Go-Getter",
       "description": ""
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "053",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795244083,
       "name": "Any Porter in a Storm",
       "description": ""
     },
@@ -401,8 +401,8 @@
     },
     {
       "apiname": "056",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795245511,
       "name": "Public Service Porter",
       "description": "Dispose of chiralium-contaminated cargo in the crater lake for the first time."
     },

@@ -3,9 +3,9 @@
   "appid": 1448440,
   "game": "Wo Long: Fallen Dynasty",
   "total": 90,
-  "unlocked": 82,
-  "percent": 91.1,
-  "updated_at_utc": "2026-11-21T01:08:11.357249+00:00",
+  "unlocked": 90,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-21T09:17:14.998317+00:00",
   "achievements": [
     {
       "apiname": "TROPHY_PLATINUM",
@@ -562,43 +562,43 @@
     },
     {
       "apiname": "TROPHY_DLC3_03",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795225131,
       "name": "Rotten Bones in the Crypt",
       "description": ""
     },
     {
       "apiname": "TROPHY_DLC3_04",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795229225,
       "name": "Once an Unruly Girl",
       "description": ""
     },
     {
       "apiname": "TROPHY_DLC3_05",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795234648,
       "name": "The Preeminent Warrior",
       "description": ""
     },
     {
       "apiname": "TROPHY_DLC3_06",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795234648,
       "name": "Lord of Benevolence",
       "description": ""
     },
     {
       "apiname": "TROPHY_DLC3_07",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795233624,
       "name": "Benefactor of Jing Province",
       "description": ""
     },
     {
       "apiname": "TROPHY_DLC3_08",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795226788,
       "name": "Whip of the Heaven",
       "description": "Defeated 100 enemies using whips."
     },
@@ -611,15 +611,15 @@
     },
     {
       "apiname": "TROPHY_DLC3_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795232136,
       "name": "Heroes Gather",
       "description": "Swore oaths with all of the new allies in Upheaval in Jingxiang."
     },
     {
       "apiname": "TROPHY_DLC3_11",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795230615,
       "name": "Maniac of Shitieshou",
       "description": ""
     },

@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-21T01:09:16.282966+00:00",
+  "updated_at_utc": "2026-11-21T09:18:16.450402+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3530,
+      "playtime_2weeks": 3422,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -49,10 +49,10 @@
     {
       "appid": 1448440,
       "name": "Wo Long: Fallen Dynasty",
-      "playtime_2weeks": 1150,
-      "playtime_forever": 4133,
+      "playtime_2weeks": 1364,
+      "playtime_forever": 4347,
       "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
-      "playtime_windows_forever": 4133,
+      "playtime_windows_forever": 4347,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -82,10 +82,10 @@
     {
       "appid": 3985950,
       "name": "R.I.P. - Reincarnation Insurance Program",
-      "playtime_2weeks": 552,
-      "playtime_forever": 2195,
+      "playtime_2weeks": 577,
+      "playtime_forever": 2219,
       "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
-      "playtime_windows_forever": 2195,
+      "playtime_windows_forever": 2219,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -113,23 +113,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3024130,
-      "name": "PAO PAO",
-      "playtime_2weeks": 249,
-      "playtime_forever": 249,
-      "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
-      "playtime_windows_forever": 249,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2622380,
       "name": "ELDEN RING NIGHTREIGN",
       "playtime_2weeks": 248,
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1850570,
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "playtime_2weeks": 227,
+      "playtime_forever": 3683,
+      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
+      "playtime_windows_forever": 3683,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,6 +157,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3024130,
+      "name": "PAO PAO",
+      "playtime_2weeks": 67,
+      "playtime_forever": 249,
+      "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
+      "playtime_windows_forever": 249,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1927720,
       "name": "Monument Valley",
       "playtime_2weeks": 53,
@@ -174,17 +185,6 @@
       "playtime_forever": 17,
       "img_icon_url": "4e1d95c87b78862c47c2f378f6d46d0df4e163bd",
       "playtime_windows_forever": 17,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1850570,
-      "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "playtime_2weeks": 15,
-      "playtime_forever": 3471,
-      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
-      "playtime_windows_forever": 3471,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
