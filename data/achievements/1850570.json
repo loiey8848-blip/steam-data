@@ -3,9 +3,9 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 51,
-  "percent": 81.0,
-  "updated_at_utc": "2026-11-21T09:17:34.437342+00:00",
+  "unlocked": 55,
+  "percent": 87.3,
+  "updated_at_utc": "2026-11-21T17:10:05.590973+00:00",
   "achievements": [
     {
       "apiname": "000",
@@ -128,15 +128,15 @@
     },
     {
       "apiname": "017",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795260448,
       "name": "Deliveries Done",
       "description": "Complete 36 standard orders."
     },
     {
       "apiname": "018",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795273402,
       "name": "Birth of a Legend",
       "description": "Complete at least 10 unique premium deliveries in each order category with an evaluation of \"Legend,\" \"Legend of Legends,\" or \"Legend of Legends of Legends.\" "
     },
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "025",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795263587,
       "name": "In Sam We Trust",
       "description": ""
     },
@@ -275,8 +275,8 @@
     },
     {
       "apiname": "038",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795265636,
       "name": "The Post Guides the Present",
       "description": "Read 100 mails."
     },

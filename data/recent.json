@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-21T09:18:16.450402+00:00",
+  "updated_at_utc": "2026-11-21T17:10:48.724176+00:00",
   "games": [
     {
       "appid": 4348910,
@@ -80,6 +80,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1850570,
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "playtime_2weeks": 583,
+      "playtime_forever": 4039,
+      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
+      "playtime_windows_forever": 4039,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3985950,
       "name": "R.I.P. - Reincarnation Insurance Program",
       "playtime_2weeks": 577,
@@ -113,28 +124,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2622380,
-      "name": "ELDEN RING NIGHTREIGN",
-      "playtime_2weeks": 248,
-      "playtime_forever": 1918,
-      "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
-      "playtime_windows_forever": 1918,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1850570,
-      "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "playtime_2weeks": 227,
-      "playtime_forever": 3683,
-      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
-      "playtime_windows_forever": 3683,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3419430,
       "name": "Bongo Cat",
       "playtime_2weeks": 99,
@@ -152,17 +141,6 @@
       "playtime_forever": 1153,
       "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
       "playtime_windows_forever": 1153,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3024130,
-      "name": "PAO PAO",
-      "playtime_2weeks": 67,
-      "playtime_forever": 249,
-      "img_icon_url": "adb627de01b5999f0e6054283d1f155a789898d8",
-      "playtime_windows_forever": 249,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

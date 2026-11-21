@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 4521650,
   "game": "Farm & Feast",
-  "total": 86,
-  "unlocked": 86,
+  "total": 85,
+  "unlocked": 85,
   "percent": 100.0,
-  "updated_at_utc": "2026-11-21T09:18:16.251869+00:00",
+  "updated_at_utc": "2026-11-21T17:10:48.512109+00:00",
   "achievements": [
     {
       "apiname": "OBJ_SOUP",
@@ -162,13 +162,6 @@
       "description": ""
     },
     {
-      "apiname": "FUN_TRASH_25",
-      "achieved": 1,
-      "unlocktime": 1795082347,
-      "name": "Waste Not Want Not",
-      "description": "Throw food in the trash 25 times."
-    },
-    {
       "apiname": "FUN_TREES_100",
       "achieved": 1,
       "unlocktime": 1795059475,
@@ -180,7 +173,7 @@
       "achieved": 1,
       "unlocktime": 1795091621,
       "name": "Rock and Roll",
-      "description": "Break 100 rocks."
+      "description": "Break 40 rocks. "
     },
     {
       "apiname": "FUN_GRASS_1000",
