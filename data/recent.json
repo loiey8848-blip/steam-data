@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-20T18:23:42.491859+00:00",
+  "updated_at_utc": "2026-11-21T01:09:16.282966+00:00",
   "games": [
     {
       "appid": 4348910,
@@ -47,6 +47,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1448440,
+      "name": "Wo Long: Fallen Dynasty",
+      "playtime_2weeks": 1150,
+      "playtime_forever": 4133,
+      "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
+      "playtime_windows_forever": 4133,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
       "playtime_2weeks": 783,
@@ -58,23 +69,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1448440,
-      "name": "Wo Long: Fallen Dynasty",
-      "playtime_2weeks": 730,
-      "playtime_forever": 3710,
-      "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
-      "playtime_windows_forever": 3710,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2390230,
       "name": "The Chef's Shift",
       "playtime_2weeks": 662,
       "playtime_forever": 662,
       "img_icon_url": "fbe3a52f168d813eba729e9ce368c8bffb06c10e",
       "playtime_windows_forever": 662,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3985950,
+      "name": "R.I.P. - Reincarnation Insurance Program",
+      "playtime_2weeks": 552,
+      "playtime_forever": 2195,
+      "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
+      "playtime_windows_forever": 2195,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -119,17 +130,6 @@
       "playtime_forever": 1918,
       "img_icon_url": "c59f3732d379c9667450b174353d69d5bcea95a5",
       "playtime_windows_forever": 1918,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3985950,
-      "name": "R.I.P. - Reincarnation Insurance Program",
-      "playtime_2weeks": 132,
-      "playtime_forever": 1772,
-      "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
-      "playtime_windows_forever": 1772,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
