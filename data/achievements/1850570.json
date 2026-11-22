@@ -3,9 +3,9 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 55,
-  "percent": 87.3,
-  "updated_at_utc": "2026-11-21T22:50:49.833910+00:00",
+  "unlocked": 56,
+  "percent": 88.9,
+  "updated_at_utc": "2026-11-22T05:19:24.265797+00:00",
   "achievements": [
     {
       "apiname": "000",
@@ -345,8 +345,8 @@
     },
     {
       "apiname": "048",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795317933,
       "name": "Hooked on Delivering!?",
       "description": "Deliver 700 items of cargo."
     },
