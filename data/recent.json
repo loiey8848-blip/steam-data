@@ -1,18 +1,7 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-22T14:10:28.249475+00:00",
+  "updated_at_utc": "2026-11-22T21:36:36.582427+00:00",
   "games": [
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 2750,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
     {
       "appid": 3678970,
       "name": "TBH: Task Bar Hero",
@@ -20,6 +9,17 @@
       "playtime_forever": 5593,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
       "playtime_windows_forever": 5593,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 2319,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -135,12 +135,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3372060,
+      "name": "Hell Maiden",
+      "playtime_2weeks": 145,
+      "playtime_forever": 496,
+      "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
+      "playtime_windows_forever": 496,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3419430,
       "name": "Bongo Cat",
       "playtime_2weeks": 99,
       "playtime_forever": 23676,
       "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
       "playtime_windows_forever": 23676,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5292900,
+      "name": "WAKABOOM",
+      "playtime_2weeks": 95,
+      "playtime_forever": 95,
+      "img_icon_url": "48c34029308a14148f9fa003c2ad45a6d9d91659",
+      "playtime_windows_forever": 95,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -174,17 +196,6 @@
       "playtime_forever": 17,
       "img_icon_url": "4e1d95c87b78862c47c2f378f6d46d0df4e163bd",
       "playtime_windows_forever": 17,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5292900,
-      "name": "WAKABOOM",
-      "playtime_2weeks": 15,
-      "playtime_forever": 15,
-      "img_icon_url": "48c34029308a14148f9fa003c2ad45a6d9d91659",
-      "playtime_windows_forever": 15,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

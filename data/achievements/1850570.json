@@ -3,14 +3,14 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 60,
-  "percent": 95.2,
-  "updated_at_utc": "2026-11-22T14:09:43.332044+00:00",
+  "unlocked": 63,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-22T21:35:53.247289+00:00",
   "achievements": [
     {
       "apiname": "000",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795360836,
       "name": "Greatest of Great Deliverers",
       "description": "Obtained all Death Stranding achievements."
     },
@@ -254,8 +254,8 @@
     },
     {
       "apiname": "035",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795360836,
       "name": "Fount of Knowledge",
       "description": ""
     },
@@ -443,8 +443,8 @@
     },
     {
       "apiname": "062",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795360836,
       "name": "Homo Faber",
       "description": "Fabricate all available weapons and equipment."
     }

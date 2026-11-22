@@ -3,9 +3,9 @@
   "appid": 3372060,
   "game": "Hell Maiden",
   "total": 72,
-  "unlocked": 57,
-  "percent": 79.2,
-  "updated_at_utc": "2026-10-22T09:14:14.942758+00:00",
+  "unlocked": 72,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-22T21:36:32.627773+00:00",
   "achievements": [
     {
       "apiname": "SoulMagister",
@@ -142,15 +142,15 @@
     },
     {
       "apiname": "SoulOfPoetI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369374,
       "name": "Soul of Poet I",
       "description": "Equip all of Dante's Weapon cards."
     },
     {
       "apiname": "EssenceOfPoetI",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369769,
       "name": "Essence of Poet I",
       "description": "Equip all of Dante's Mod cards."
     },
@@ -163,8 +163,8 @@
     },
     {
       "apiname": "EssenceOfPoetII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369374,
       "name": "Essence of Poet II",
       "description": "Equip all of Virgil's Mod cards."
     },
@@ -177,36 +177,36 @@
     },
     {
       "apiname": "EssenceOfPoetIII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369374,
       "name": "Essence of Poet III",
       "description": "Equip all of Horace's Mod cards."
     },
     {
       "apiname": "SoulOfPoetIV",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795364986,
       "name": "Soul of Poet IV",
       "description": "Equip all of Homer's Weapon cards."
     },
     {
       "apiname": "EssenceOfPoetIV",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369374,
       "name": "Essence of Poet IV",
       "description": "Equip all of Homer's Mod cards."
     },
     {
       "apiname": "SoulOfPoetV",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795364986,
       "name": "Soul of Poet V",
       "description": "Equip all of Ovid's Weapon cards."
     },
     {
       "apiname": "EssenceOfPoetV",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369374,
       "name": "Essence of Poet V",
       "description": "Equip all of Ovid's Mod cards."
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "PerfectHand",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795364986,
       "name": "Perfect Hand",
       "description": "Get a full hand of Level 3 Mod cards in a single run."
     },
@@ -380,8 +380,8 @@
     },
     {
       "apiname": "CodexAmorisII",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795364986,
       "name": "Codex Amoris II",
       "description": "Use Ovid's Spell."
     },
@@ -457,8 +457,8 @@
     },
     {
       "apiname": "AbyssalSpender",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369840,
       "name": "Abyssal Spender",
       "description": "Spend a total of 5.000 Wails of the Abyss."
     },
@@ -485,29 +485,29 @@
     },
     {
       "apiname": "PowerlessQueen",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369261,
       "name": "Powerless Queen",
       "description": "Watch all of Queen Minos' introductory chapters."
     },
     {
       "apiname": "ClimbingTheLadder",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795364832,
       "name": "Climbing the Ladder",
       "description": "Watch all of Libicocco's and Scarmiglione's introductory chapters."
     },
     {
       "apiname": "ForumDweller",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369970,
       "name": "Forum Dweller",
       "description": "Exhaust all dialogue interactions with every Poet of Limbo (Limbo)."
     },
     {
       "apiname": "NovicePoet",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795369407,
       "name": "Novice Poet",
       "description": "Exhaust all dialogue interactions with every Poet of Limbo (Lust)."
     }

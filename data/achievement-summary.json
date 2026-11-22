@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-22T14:10:28.249475+00:00",
+  "updated_at_utc": "2026-11-22T21:36:36.582427+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -3922,9 +3922,9 @@
       "last_played_unix": 1795351448,
       "last_played_utc": "2026-11-22T12:44:08+00:00",
       "recent": true,
-      "achievements_unlocked": 60,
+      "achievements_unlocked": 63,
       "achievements_total": 63,
-      "achievement_percent": 95.2
+      "achievement_percent": 100.0
     },
     {
       "appid": 894020,
@@ -7529,14 +7529,14 @@
     {
       "appid": 3372060,
       "name": "Hell Maiden",
-      "playtime_minutes": 350,
-      "playtime_hours": 5.8,
-      "last_played_unix": 1791451722,
-      "last_played_utc": "2026-10-08T09:28:42+00:00",
-      "recent": false,
-      "achievements_unlocked": 57,
+      "playtime_minutes": 496,
+      "playtime_hours": 8.3,
+      "last_played_unix": 1795369976,
+      "last_played_utc": "2026-11-22T17:52:56+00:00",
+      "recent": true,
+      "achievements_unlocked": 72,
       "achievements_total": 72,
-      "achievement_percent": 79.2
+      "achievement_percent": 100.0
     },
     {
       "appid": 2461850,

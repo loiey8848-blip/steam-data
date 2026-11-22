@@ -3,14 +3,14 @@
   "appid": 5292900,
   "game": "WAKABOOM",
   "total": 10,
-  "unlocked": 1,
-  "percent": 10.0,
-  "updated_at_utc": "2026-11-22T14:10:28.206375+00:00",
+  "unlocked": 2,
+  "percent": 20.0,
+  "updated_at_utc": "2026-11-22T21:36:36.540209+00:00",
   "achievements": [
     {
       "apiname": "ACH_DEFEAT_MOON_BARON",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795372976,
       "name": "月亮落下了",
       "description": "打败月亮男爵。"
     },
