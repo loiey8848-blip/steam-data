@@ -3,9 +3,9 @@
   "appid": 1850570,
   "game": "DEATH STRANDING DIRECTOR'S CUT",
   "total": 63,
-  "unlocked": 56,
-  "percent": 88.9,
-  "updated_at_utc": "2026-11-22T05:19:24.265797+00:00",
+  "unlocked": 60,
+  "percent": 95.2,
+  "updated_at_utc": "2026-11-22T14:09:43.332044+00:00",
   "achievements": [
     {
       "apiname": "000",
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "019",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795334577,
       "name": "Growth of a Legend",
       "description": "Complete at least 20 unique premium deliveries in each order category with an evaluation of \"Legend of Legends\" or \"Legend of Legends of Legends.\" "
     },
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "027",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795340407,
       "name": "Best Beloved",
       "description": ""
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "044",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795343347,
       "name": "Great Deliverer",
       "description": ""
     },
@@ -408,8 +408,8 @@
     },
     {
       "apiname": "057",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795349133,
       "name": "Trail-Blazer",
       "description": "Upgrade all types of structure to the maximum level."
     },

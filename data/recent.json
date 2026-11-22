@@ -1,11 +1,11 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-22T05:20:07.813952+00:00",
+  "updated_at_utc": "2026-11-22T14:10:28.249475+00:00",
   "games": [
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 3275,
+      "playtime_2weeks": 2750,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -58,23 +58,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1850570,
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "playtime_2weeks": 1148,
+      "playtime_forever": 4604,
+      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
+      "playtime_windows_forever": 4604,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
       "playtime_2weeks": 783,
       "playtime_forever": 832,
       "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
       "playtime_windows_forever": 832,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1850570,
-      "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "playtime_2weeks": 688,
-      "playtime_forever": 4144,
-      "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
-      "playtime_windows_forever": 4144,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
