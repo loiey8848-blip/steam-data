@@ -3,9 +3,9 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 26,
-  "percent": 68.4,
-  "updated_at_utc": "2026-10-28T15:00:28.342837+00:00",
+  "unlocked": 28,
+  "percent": 73.7,
+  "updated_at_utc": "2026-11-23T14:06:39.328694+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
@@ -191,8 +191,8 @@
     },
     {
       "apiname": "26_GAMECLEAR_MASTERNINJA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795438493,
       "name": "Step towards Ninja Mastery",
       "description": ""
     },
@@ -226,8 +226,8 @@
     },
     {
       "apiname": "31_SKULL_COMPLETE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795434596,
       "name": "Crystal Skull",
       "description": "Obtain all of the Crystal Skulls."
     },

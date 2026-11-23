@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-23T02:19:36.947825+00:00",
+  "updated_at_utc": "2026-11-23T14:06:43.679312+00:00",
   "games": [
     {
       "appid": 3678970,
@@ -9,17 +9,6 @@
       "playtime_forever": 5593,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
       "playtime_windows_forever": 5593,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 2089,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -42,6 +31,17 @@
       "playtime_forever": 1644,
       "img_icon_url": "aee84a25a559ef6e7831e10d82586cb8fe380459",
       "playtime_windows_forever": 1644,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 1633,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -102,6 +102,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 509,
+      "playtime_forever": 1665,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 1665,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3734290,
       "name": "Goblin Sushi",
       "playtime_2weeks": 438,
@@ -124,23 +135,23 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5292900,
+      "name": "WAKABOOM",
+      "playtime_2weeks": 269,
+      "playtime_forever": 269,
+      "img_icon_url": "48c34029308a14148f9fa003c2ad45a6d9d91659",
+      "playtime_windows_forever": 269,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 2246340,
       "name": "Monster Hunter Wilds",
       "playtime_2weeks": 265,
       "playtime_forever": 16585,
       "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
       "playtime_windows_forever": 16585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 5292900,
-      "name": "WAKABOOM",
-      "playtime_2weeks": 155,
-      "playtime_forever": 155,
-      "img_icon_url": "48c34029308a14148f9fa003c2ad45a6d9d91659",
-      "playtime_windows_forever": 155,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -234,17 +245,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4115450,
-      "name": "Phantom Blade Zero",
-      "playtime_2weeks": 4,
-      "playtime_forever": 3065,
-      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
-      "playtime_windows_forever": 3065,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2929250,
       "name": "over the hill",
       "playtime_2weeks": 1,
@@ -256,12 +256,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3259780,
-      "name": "FINAL FANTASY RESONANCE",
+      "appid": 4115450,
+      "name": "Phantom Blade Zero",
       "playtime_2weeks": 1,
-      "playtime_forever": 3058,
-      "img_icon_url": "eae0626d824ad8f359348f4c0fcf4be43c391182",
-      "playtime_windows_forever": 3058,
+      "playtime_forever": 3065,
+      "img_icon_url": "ce420dc458dd3d7af276f48fbaa44a05876760dc",
+      "playtime_windows_forever": 3065,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

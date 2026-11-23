@@ -3,9 +3,9 @@
   "appid": 5292900,
   "game": "WAKABOOM",
   "total": 10,
-  "unlocked": 2,
-  "percent": 20.0,
-  "updated_at_utc": "2026-11-23T02:19:36.871647+00:00",
+  "unlocked": 10,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-23T14:06:43.636987+00:00",
   "achievements": [
     {
       "apiname": "ACH_DEFEAT_MOON_BARON",
@@ -16,29 +16,29 @@
     },
     {
       "apiname": "ACH_DEFEAT_FROST_QUEEN",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795401406,
       "name": "有点凉",
       "description": "击败冰霜女王"
     },
     {
       "apiname": "ACH_DEFEAT_PLAGUE_DOCTOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795402849,
       "name": "医生，我不太舒服",
       "description": "击败疫医"
     },
     {
       "apiname": "ACH_DEFEAT_LIPULA",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795407721,
       "name": "看似公平",
       "description": "击败利普拉"
     },
     {
       "apiname": "ACH_ENTER_ENDLESS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795401458,
       "name": "无尽之路",
       "description": "开始一局无尽模式游戏"
     },
@@ -51,29 +51,29 @@
     },
     {
       "apiname": "ACH_UNLOCK_ALL_PLUGINS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795400713,
       "name": "插件大师",
       "description": "解锁所有插件"
     },
     {
       "apiname": "ACH_UNLOCK_ALL_DOLL_MODS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795400713,
       "name": "娃娃改造大师",
       "description": "解锁所有娃娃改造项目"
     },
     {
       "apiname": "ACH_UNLOCK_ALL_STARTER_DOLLS",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795407732,
       "name": "娃娃收藏家",
       "description": "解锁所有初始娃娃"
     },
     {
       "apiname": "ACH_GALLERY_COLLECTOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795407733,
       "name": "收藏集",
       "description": "解锁展览厅所有内容"
     }
