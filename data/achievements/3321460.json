@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 3321460,
   "game": "Crimson Desert Enhanced",
-  "total": 34,
+  "total": 41,
   "unlocked": 16,
-  "percent": 47.1,
-  "updated_at_utc": "2026-09-15T06:53:28.657525+00:00",
+  "percent": 39.0,
+  "updated_at_utc": "2026-11-24T14:37:32.624930+00:00",
   "achievements": [
     {
       "apiname": "NoviceAdventurer",
@@ -244,6 +244,55 @@
       "unlocktime": 0,
       "name": "Unvanquished Strategist",
       "description": "Complete all mastery challenges."
+    },
+    {
+      "apiname": "35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dawn Politician",
+      "description": "Complete the “From the Ashes\" quest."
+    },
+    {
+      "apiname": "36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Charter",
+      "description": "Complete the \"Beyond the Margins\" quest."
+    },
+    {
+      "apiname": "37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forger of Tomorrow",
+      "description": "Complete the “Forged Resolve\" quest."
+    },
+    {
+      "apiname": "38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Over the Horizon",
+      "description": "Complete all voyage challenges."
+    },
+    {
+      "apiname": "39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Deep-sea Wanderer",
+      "description": "Complete all swimming challenges."
+    },
+    {
+      "apiname": "40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Management Tycoon",
+      "description": "Complete all management challenges."
+    },
+    {
+      "apiname": "41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trial by Flower",
+      "description": "Complete all garden of trials challenges."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-24T02:48:34.848443+00:00",
+  "updated_at_utc": "2026-11-24T14:37:37.208862+00:00",
   "games": [
     {
       "appid": 3678970,
@@ -36,12 +36,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 1395,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 1635,
+      "playtime_forever": 2791,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 2791,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -58,23 +58,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 1154,
-      "playtime_forever": 2310,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 2310,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1850570,
       "name": "DEATH STRANDING DIRECTOR'S CUT",
       "playtime_2weeks": 1148,
       "playtime_forever": 4604,
       "img_icon_url": "dd1abd2566c95d1e89408570719657a663591f8f",
       "playtime_windows_forever": 4604,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 891,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -273,6 +273,28 @@
       "playtime_forever": 4,
       "img_icon_url": "2b0b30473776ee5ed80e116900cc7da4a6520a3c",
       "playtime_windows_forever": 4,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3321460,
+      "name": "Crimson Desert Enhanced",
+      "playtime_2weeks": 4,
+      "playtime_forever": 11008,
+      "img_icon_url": "f260267377759a5fea6b651817c9a413c6b562b0",
+      "playtime_windows_forever": 11008,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3326230,
+      "name": "Hozy",
+      "playtime_2weeks": 1,
+      "playtime_forever": 1,
+      "img_icon_url": "0a589003807db78755d6898f13eae077d5cef1ca",
+      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

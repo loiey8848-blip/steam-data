@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-24T02:48:34.848443+00:00",
+  "updated_at_utc": "2026-11-24T14:37:37.208862+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -3245,14 +3245,14 @@
     {
       "appid": 3321460,
       "name": "Crimson Desert Enhanced",
-      "playtime_minutes": 11003,
-      "playtime_hours": 183.4,
-      "last_played_unix": 1780214443,
-      "last_played_utc": "2026-05-31T08:00:43+00:00",
-      "recent": false,
+      "playtime_minutes": 11008,
+      "playtime_hours": 183.5,
+      "last_played_unix": 1795492564,
+      "last_played_utc": "2026-11-24T03:56:04+00:00",
+      "recent": true,
       "achievements_unlocked": 16,
-      "achievements_total": 34,
-      "achievement_percent": 47.1
+      "achievements_total": 41,
+      "achievement_percent": 39.0
     },
     {
       "appid": 3333250,
@@ -8093,14 +8093,14 @@
     {
       "appid": 3326230,
       "name": "Hozy",
-      "playtime_minutes": 0,
+      "playtime_minutes": 1,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "last_played_unix": 1795524780,
+      "last_played_utc": "2026-11-24T12:53:00+00:00",
+      "recent": true,
+      "achievements_unlocked": 0,
+      "achievements_total": 9,
+      "achievement_percent": 0.0
     },
     {
       "appid": 383270,
@@ -11369,14 +11369,14 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 2310,
-      "playtime_hours": 38.5,
-      "last_played_unix": 1795488076,
-      "last_played_utc": "2026-11-24T02:41:16+00:00",
+      "playtime_minutes": 2791,
+      "playtime_hours": 46.5,
+      "last_played_unix": 1795529775,
+      "last_played_utc": "2026-11-24T14:16:15+00:00",
       "recent": true,
-      "achievements_unlocked": 29,
+      "achievements_unlocked": 30,
       "achievements_total": 38,
-      "achievement_percent": 76.3
+      "achievement_percent": 78.9
     },
     {
       "appid": 2627260,
