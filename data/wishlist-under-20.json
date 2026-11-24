@@ -1,7 +1,21 @@
 {
-  "updated_at_utc": "2026-11-24T02:48:34.848443+00:00",
-  "count": 2,
+  "updated_at_utc": "2026-11-24T14:37:37.208862+00:00",
+  "count": 3,
   "games": [
+    {
+      "appid": 224460,
+      "priority": 0,
+      "date_added_unix": 1795496985,
+      "date_added_utc": "2026-11-24T05:09:45+00:00",
+      "steam_url": "https://store.steampowered.com/app/224460/",
+      "name": "Contrast",
+      "type": "game",
+      "is_free": false,
+      "currency": "CNY",
+      "price_initial_cny": 38.0,
+      "price_final_cny": 19.0,
+      "discount_percent": 50
+    },
     {
       "appid": 3314340,
       "priority": 0,
