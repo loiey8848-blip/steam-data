@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 5245810,
   "game": "ForgeTax",
-  "total": 19,
-  "unlocked": 19,
+  "total": 21,
+  "unlocked": 21,
   "percent": 100.0,
-  "updated_at_utc": "2026-11-16T04:59:16.480190+00:00",
+  "updated_at_utc": "2026-11-24T02:48:34.598465+00:00",
   "achievements": [
     {
       "apiname": "FORGE20_CITADEL",
@@ -139,6 +139,20 @@
       "unlocktime": 1793608924,
       "name": "A Job for Life",
       "description": "Pay tribute in full 3 times after completing the contract."
+    },
+    {
+      "apiname": "FORGE_ALL_SWORDS",
+      "achieved": 1,
+      "unlocktime": 1795486741,
+      "name": "You Forged ALL of These?",
+      "description": "Discover every sword in the codex, including every enhancement appearance."
+    },
+    {
+      "apiname": "FORGE_ALL_RELICS",
+      "achieved": 1,
+      "unlocktime": 1795487450,
+      "name": "Not a Hoarder. A Collector.",
+      "description": "Discover every relic in the relic codex. Consumables are excluded."
     }
   ]
 }

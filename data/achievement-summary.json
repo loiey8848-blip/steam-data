@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-23T14:06:43.679312+00:00",
+  "updated_at_utc": "2026-11-24T02:48:34.848443+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -3437,14 +3437,14 @@
     {
       "appid": 1091500,
       "name": "Cyberpunk 2077",
-      "playtime_minutes": 3095,
-      "playtime_hours": 51.6,
-      "last_played_unix": 1696305137,
-      "last_played_utc": "2023-10-03T03:52:17+00:00",
-      "recent": false,
-      "achievements_unlocked": 17,
+      "playtime_minutes": 3116,
+      "playtime_hours": 51.9,
+      "last_played_unix": 1795458407,
+      "last_played_utc": "2026-11-23T18:26:47+00:00",
+      "recent": true,
+      "achievements_unlocked": 19,
       "achievements_total": 57,
-      "achievement_percent": 29.8
+      "achievement_percent": 33.3
     },
     {
       "appid": 1342490,
@@ -5069,14 +5069,14 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 470,
-      "playtime_hours": 7.8,
-      "last_played_unix": 1790945282,
-      "last_played_utc": "2026-10-02T12:48:02+00:00",
-      "recent": false,
-      "achievements_unlocked": 20,
+      "playtime_minutes": 478,
+      "playtime_hours": 8.0,
+      "last_played_unix": 1795487963,
+      "last_played_utc": "2026-11-24T02:39:23+00:00",
+      "recent": true,
+      "achievements_unlocked": 22,
       "achievements_total": 100,
-      "achievement_percent": 20.0
+      "achievement_percent": 22.0
     },
     {
       "appid": 1654660,
@@ -6269,13 +6269,13 @@
     {
       "appid": 5245810,
       "name": "ForgeTax",
-      "playtime_minutes": 169,
-      "playtime_hours": 2.8,
-      "last_played_unix": 1793614202,
-      "last_played_utc": "2026-11-02T10:10:02+00:00",
-      "recent": false,
-      "achievements_unlocked": 19,
-      "achievements_total": 19,
+      "playtime_minutes": 227,
+      "playtime_hours": 3.8,
+      "last_played_unix": 1795487460,
+      "last_played_utc": "2026-11-24T02:31:00+00:00",
+      "recent": true,
+      "achievements_unlocked": 21,
+      "achievements_total": 21,
       "achievement_percent": 100.0
     },
     {
@@ -11369,14 +11369,14 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 1665,
-      "playtime_hours": 27.8,
-      "last_played_unix": 1795442415,
-      "last_played_utc": "2026-11-23T14:00:15+00:00",
+      "playtime_minutes": 2310,
+      "playtime_hours": 38.5,
+      "last_played_unix": 1795488076,
+      "last_played_utc": "2026-11-24T02:41:16+00:00",
       "recent": true,
-      "achievements_unlocked": 28,
+      "achievements_unlocked": 29,
       "achievements_total": 38,
-      "achievement_percent": 73.7
+      "achievement_percent": 76.3
     },
     {
       "appid": 2627260,

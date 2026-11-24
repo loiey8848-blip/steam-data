@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 20,
-  "percent": 20.0,
-  "updated_at_utc": "2026-10-16T08:49:13.052700+00:00",
+  "unlocked": 22,
+  "percent": 22.0,
+  "updated_at_utc": "2026-11-24T02:48:02.597061+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -128,8 +128,8 @@
     },
     {
       "apiname": "ENDLESS_CHALLENGE_START",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795487691,
       "name": "Challenge Accepted!",
       "description": "Start a Daily or Weekly Challenge."
     },
@@ -457,8 +457,8 @@
     },
     {
       "apiname": "USE_RELIC_TYPE_LEVEL2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795487760,
       "name": "Relic Explorer",
       "description": "Use more than 40 different Relics."
     },

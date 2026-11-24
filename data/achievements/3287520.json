@@ -3,9 +3,9 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 28,
-  "percent": 73.7,
-  "updated_at_utc": "2026-11-23T14:06:39.328694+00:00",
+  "unlocked": 29,
+  "percent": 76.3,
+  "updated_at_utc": "2026-11-24T02:48:29.081514+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
@@ -198,8 +198,8 @@
     },
     {
       "apiname": "27_MASTER_ACOLYTE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795483925,
       "name": "Mark of the Ninja",
       "description": ""
     },

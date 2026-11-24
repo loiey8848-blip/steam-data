@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-23T14:06:43.679312+00:00",
+  "updated_at_utc": "2026-11-24T02:48:34.848443+00:00",
   "games": [
     {
       "appid": 3678970,
@@ -38,7 +38,7 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 1633,
+      "playtime_2weeks": 1395,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -53,6 +53,17 @@
       "playtime_forever": 4347,
       "img_icon_url": "5d520e308b6acd4277b28f6f68db50782a9a9340",
       "playtime_windows_forever": 4347,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 1154,
+      "playtime_forever": 2310,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 2310,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -97,17 +108,6 @@
       "playtime_forever": 2219,
       "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
       "playtime_windows_forever": 2219,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 509,
-      "playtime_forever": 1665,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 1665,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -190,6 +190,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 5245810,
+      "name": "ForgeTax",
+      "playtime_2weeks": 57,
+      "playtime_forever": 227,
+      "img_icon_url": "8edbef069546b7373be2cca376490fc3fae9ed17",
+      "playtime_windows_forever": 227,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1927720,
       "name": "Monument Valley",
       "playtime_2weeks": 53,
@@ -199,6 +210,17 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1091500,
+      "name": "Cyberpunk 2077",
+      "playtime_2weeks": 21,
+      "playtime_forever": 3116,
+      "img_icon_url": "6897c3848f3e0350d512f59d5bae174a1e3739f9",
+      "playtime_windows_forever": 2997,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 119,
+      "playtime_deck_forever": 119
     },
     {
       "appid": 3433110,
@@ -218,6 +240,17 @@
       "playtime_forever": 10,
       "img_icon_url": "52cf8cf1891b1b6e05a9a72ce743593e4e8a7741",
       "playtime_windows_forever": 10,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 7,
+      "playtime_forever": 478,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 478,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

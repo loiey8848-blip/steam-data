@@ -3,9 +3,9 @@
   "appid": 1091500,
   "game": "Cyberpunk 2077",
   "total": 57,
-  "unlocked": 17,
-  "percent": 29.8,
-  "updated_at_utc": "2026-09-15T06:51:09.579041+00:00",
+  "unlocked": 19,
+  "percent": 33.3,
+  "updated_at_utc": "2026-11-24T02:47:01.065146+00:00",
   "achievements": [
     {
       "apiname": "TheFool",
@@ -359,8 +359,8 @@
     },
     {
       "apiname": "AllThePresidentsMen",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795457215,
       "name": "All the President's Men",
       "description": "Save President Myers."
     },
@@ -387,8 +387,8 @@
     },
     {
       "apiname": "IHateSpider",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795457215,
       "name": "Arachnophobia",
       "description": ""
     },
