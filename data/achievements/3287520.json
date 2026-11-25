@@ -3,9 +3,9 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 30,
-  "percent": 78.9,
-  "updated_at_utc": "2026-11-25T00:25:50.300956+00:00",
+  "unlocked": 32,
+  "percent": 84.2,
+  "updated_at_utc": "2026-11-25T10:57:23.027532+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
@@ -184,8 +184,8 @@
     },
     {
       "apiname": "25_GAMECLEAR_MENTOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795601638,
       "name": "Beginning of Mentoring",
       "description": ""
     },
@@ -205,8 +205,8 @@
     },
     {
       "apiname": "28_MASTER_WARRIOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795570015,
       "name": "Mark of the Warrior",
       "description": ""
     },

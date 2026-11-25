@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 22,
-  "percent": 22.0,
-  "updated_at_utc": "2026-11-25T00:25:23.738546+00:00",
+  "unlocked": 34,
+  "percent": 34.0,
+  "updated_at_utc": "2026-11-25T10:56:57.031696+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "WORLD_4_CASUAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795574764,
       "name": "Sealed Citadel Traveler",
       "description": "Clear the Sealed Citadel on Casual or higher."
     },
@@ -72,8 +72,8 @@
     },
     {
       "apiname": "WORLD_1_HEROIC_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795580147,
       "name": "Misty Forest Pioneer",
       "description": "Clear the Misty Forest on Heroic difficulty."
     },
@@ -135,22 +135,22 @@
     },
     {
       "apiname": "ENDLESS_CHALLENGE_WAVE_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795575326,
       "name": "Skilled Challenger",
       "description": "Survive through wave 10 in any Endless mode Daily or Weekly Challenge."
     },
     {
       "apiname": "ENDLESS_CHALLENGE_WAVE_15",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795575707,
       "name": "Proven Challenger",
       "description": "Survive through wave 15 in any Endless mode Daily or Weekly Challenge."
     },
     {
       "apiname": "ENDLESS_CHALLENGE_WAVE_20",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795576915,
       "name": "Veteran Challenger",
       "description": "Survive through wave 20 in any Endless mode Daily or Weekly Challenge."
     },
@@ -219,8 +219,8 @@
     },
     {
       "apiname": "CHAR_UNLOCK_CHRONO",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795580157,
       "name": "Chrono Traveler",
       "description": "Unlock the Chrono Traveler."
     },
@@ -268,8 +268,8 @@
     },
     {
       "apiname": "NO_BUILD_BLOCK_CLEAR_LEVEL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795578368,
       "name": "That's Not How You Play This Game...",
       "description": "On Normal difficulty or higher, clear a stage without building any blocks."
     },
@@ -338,8 +338,8 @@
     },
     {
       "apiname": "ELECTRIC_CURRENT_BASIC",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795574067,
       "name": "Basic Circuitry",
       "description": "Clear a stage while activating more than three Ancient Devices at the same time."
     },
@@ -387,15 +387,15 @@
     },
     {
       "apiname": "FLAME_TOWER_EXTRA_RANGE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795579907,
       "name": "Just Want To Watch The World Burn",
       "description": "Have three Flamethrower Towers with a range of over 17 on the field at the same time."
     },
     {
       "apiname": "FAST_BOSS_KILL",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795580146,
       "name": "Swift Victory",
       "description": "On Heroic difficulty, defeat a boss with at least half the rounds remaining."
     },
@@ -443,8 +443,8 @@
     },
     {
       "apiname": "BUILD_TOWER_TYPE_LEVEL3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795576290,
       "name": "Tower Master",
       "description": "Build 45 different types of towers."
     },
@@ -569,8 +569,8 @@
     },
     {
       "apiname": "CHAR_SPECIAL_MERCHANT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795577315,
       "name": "Monopoly",
       "description": "As Silas the Merchant, carry 150 gold into the next stage."
     },
