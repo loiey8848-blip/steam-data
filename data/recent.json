@@ -1,7 +1,18 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-25T10:57:27.493257+00:00",
+  "updated_at_utc": "2026-11-25T21:09:42.825194+00:00",
   "games": [
+    {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 2693,
+      "playtime_forever": 3849,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 3849,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
     {
       "appid": 3678970,
       "name": "TBH: Task Bar Hero",
@@ -9,17 +20,6 @@
       "playtime_forever": 5593,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
       "playtime_windows_forever": 5593,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 2085,
-      "playtime_forever": 3241,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 3241,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -80,17 +80,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 715,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 2390230,
       "name": "The Chef's Shift",
       "playtime_2weeks": 662,
@@ -108,6 +97,17 @@
       "playtime_forever": 2219,
       "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
       "playtime_windows_forever": 2219,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 572,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

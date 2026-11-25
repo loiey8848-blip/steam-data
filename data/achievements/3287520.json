@@ -3,9 +3,9 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 32,
-  "percent": 84.2,
-  "updated_at_utc": "2026-11-25T10:57:23.027532+00:00",
+  "unlocked": 34,
+  "percent": 89.5,
+  "updated_at_utc": "2026-11-25T21:09:37.610673+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "29_MASTER_MENTOR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795628618,
       "name": "Mark of the Mentor",
       "description": ""
     },
@@ -247,8 +247,8 @@
     },
     {
       "apiname": "34_AYANE_MASTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795614332,
       "name": "Kunoichi",
       "description": ""
     },
