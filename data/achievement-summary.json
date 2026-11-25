@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-24T14:37:37.208862+00:00",
+  "updated_at_utc": "2026-11-25T00:25:55.938513+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -8095,8 +8095,8 @@
       "name": "Hozy",
       "playtime_minutes": 1,
       "playtime_hours": 0.0,
-      "last_played_unix": 1795524780,
-      "last_played_utc": "2026-11-24T12:53:00+00:00",
+      "last_played_unix": 1795537278,
+      "last_played_utc": "2026-11-24T16:21:18+00:00",
       "recent": true,
       "achievements_unlocked": 0,
       "achievements_total": 9,
@@ -11369,10 +11369,10 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 2791,
-      "playtime_hours": 46.5,
-      "last_played_unix": 1795529775,
-      "last_played_utc": "2026-11-24T14:16:15+00:00",
+      "playtime_minutes": 2857,
+      "playtime_hours": 47.6,
+      "last_played_unix": 1795533759,
+      "last_played_utc": "2026-11-24T15:22:39+00:00",
       "recent": true,
       "achievements_unlocked": 30,
       "achievements_total": 38,
@@ -19209,7 +19209,7 @@
       "playtime_hours": 0.2,
       "last_played_unix": 1794352428,
       "last_played_utc": "2026-11-10T23:13:48+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 0,
       "achievements_total": 29,
       "achievement_percent": 0.0

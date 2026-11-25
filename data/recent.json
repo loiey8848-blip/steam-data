@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-24T14:37:37.208862+00:00",
+  "updated_at_utc": "2026-11-25T00:25:55.938513+00:00",
   "games": [
     {
       "appid": 3678970,
@@ -9,6 +9,17 @@
       "playtime_forever": 5593,
       "img_icon_url": "293a05477b85149969a15de321eb0ed066187f51",
       "playtime_windows_forever": 5593,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3287520,
+      "name": "NINJA GAIDEN 2 Black",
+      "playtime_2weeks": 1701,
+      "playtime_forever": 2857,
+      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
+      "playtime_windows_forever": 2857,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -36,17 +47,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3287520,
-      "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 1635,
-      "playtime_forever": 2791,
-      "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 2791,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1448440,
       "name": "Wo Long: Fallen Dynasty",
       "playtime_2weeks": 1364,
@@ -69,23 +69,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 891,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
       "playtime_2weeks": 783,
       "playtime_forever": 832,
       "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
       "playtime_windows_forever": 832,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 766,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -126,7 +126,7 @@
     {
       "appid": 774171,
       "name": "Muse Dash",
-      "playtime_2weeks": 414,
+      "playtime_2weeks": 351,
       "playtime_forever": 1193,
       "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
       "playtime_windows_forever": 1193,
@@ -229,17 +229,6 @@
       "playtime_forever": 17,
       "img_icon_url": "4e1d95c87b78862c47c2f378f6d46d0df4e163bd",
       "playtime_windows_forever": 17,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1574820,
-      "name": "Until Then",
-      "playtime_2weeks": 10,
-      "playtime_forever": 10,
-      "img_icon_url": "52cf8cf1891b1b6e05a9a72ce743593e4e8a7741",
-      "playtime_windows_forever": 10,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
