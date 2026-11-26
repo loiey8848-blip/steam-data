@@ -3,14 +3,14 @@
   "appid": 3287520,
   "game": "NINJA GAIDEN 2 Black",
   "total": 38,
-  "unlocked": 36,
-  "percent": 94.7,
-  "updated_at_utc": "2026-11-26T04:00:40.782896+00:00",
+  "unlocked": 38,
+  "percent": 100.0,
+  "updated_at_utc": "2026-11-26T13:44:22.028947+00:00",
   "achievements": [
     {
       "apiname": "00_ALL_MASTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795679981,
       "name": "Master of the Secret Arts",
       "description": "Obtained all achievements."
     },
@@ -261,8 +261,8 @@
     },
     {
       "apiname": "36_RACHEL_MASTER",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795679981,
       "name": "Fiend Hunter",
       "description": ""
     },

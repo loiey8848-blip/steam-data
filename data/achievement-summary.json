@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T04:00:45.338139+00:00",
+  "updated_at_utc": "2026-11-26T13:44:27.448636+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5069,14 +5069,14 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 595,
-      "playtime_hours": 9.9,
-      "last_played_unix": 1795580171,
-      "last_played_utc": "2026-11-25T04:16:11+00:00",
+      "playtime_minutes": 671,
+      "playtime_hours": 11.2,
+      "last_played_unix": 1795686276,
+      "last_played_utc": "2026-11-26T09:44:36+00:00",
       "recent": true,
-      "achievements_unlocked": 34,
+      "achievements_unlocked": 39,
       "achievements_total": 100,
-      "achievement_percent": 34.0
+      "achievement_percent": 39.0
     },
     {
       "appid": 1654660,
@@ -7409,6 +7409,18 @@
     {
       "appid": 2020710,
       "name": "Havendock",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1374680,
+      "name": "Hazard Levels",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -11369,14 +11381,14 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 4240,
-      "playtime_hours": 70.7,
-      "last_played_unix": 1795663822,
-      "last_played_utc": "2026-11-26T03:30:22+00:00",
+      "playtime_minutes": 4580,
+      "playtime_hours": 76.3,
+      "last_played_unix": 1795694635,
+      "last_played_utc": "2026-11-26T12:03:55+00:00",
       "recent": true,
-      "achievements_unlocked": 36,
+      "achievements_unlocked": 38,
       "achievements_total": 38,
-      "achievement_percent": 94.7
+      "achievement_percent": 100.0
     },
     {
       "appid": 2627260,
@@ -12405,7 +12417,7 @@
       "playtime_hours": 51.1,
       "last_played_unix": 1794461797,
       "last_played_utc": "2026-11-12T05:36:37+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 66,
       "achievements_total": 66,
       "achievement_percent": 100.0
@@ -19873,6 +19885,18 @@
       "achievements_unlocked": null,
       "achievements_total": null,
       "achievement_percent": null
+    },
+    {
+      "appid": 4634570,
+      "name": "Widget Idle",
+      "playtime_minutes": 3,
+      "playtime_hours": 0.1,
+      "last_played_unix": 1795686969,
+      "last_played_utc": "2026-11-26T09:56:09+00:00",
+      "recent": true,
+      "achievements_unlocked": 1,
+      "achievements_total": 99,
+      "achievement_percent": 1.0
     },
     {
       "appid": 2072430,

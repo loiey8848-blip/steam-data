@@ -1,0 +1,704 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 4634570,
+  "game": "Widget Idle",
+  "total": 99,
+  "unlocked": 1,
+  "percent": 1.0,
+  "updated_at_utc": "2026-11-26T13:44:26.796046+00:00",
+  "achievements": [
+    {
+      "apiname": "thousand_widgets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "A Thousand Miles",
+      "description": "Begins with one ill-advised click."
+    },
+    {
+      "apiname": "title_track",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Title Track",
+      "description": "Let the title track play to the end."
+    },
+    {
+      "apiname": "three_hands",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "In Concert",
+      "description": "Operate the Product Cutter, Thermal Slider, and Char Crusher within 10 seconds."
+    },
+    {
+      "apiname": "fresh_coat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fresh Coat",
+      "description": "Choose a different color palette in Settings."
+    },
+    {
+      "apiname": "boil_the_ocean",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Boil the Ocean",
+      "description": ""
+    },
+    {
+      "apiname": "ascend_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unsinkable II",
+      "description": "This one's unsinkable too. What of it?"
+    },
+    {
+      "apiname": "self_fulfilling",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Self-Fulfilling",
+      "description": "I'd like to thank myself."
+    },
+    {
+      "apiname": "ahead_of_schedule",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ahead of Schedule",
+      "description": "ETA is just a suggestion."
+    },
+    {
+      "apiname": "standing_order",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Standing Order",
+      "description": "The usual. One more, please."
+    },
+    {
+      "apiname": "breaker_of_chains",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaker of Chains",
+      "description": "When's the next restock, then?"
+    },
+    {
+      "apiname": "grocery_list",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grocery List",
+      "description": "It's not impulse buying if it's on the list."
+    },
+    {
+      "apiname": "milky_way_wishes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Milky Way Wishes",
+      "description": "Don't let someone else make your wish."
+    },
+    {
+      "apiname": "widget_works_slider",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Thermal Slider",
+      "description": "Buy a Thermal Slider."
+    },
+    {
+      "apiname": "widget_works_crusher",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Char Crusher",
+      "description": "Buy a Char Crusher."
+    },
+    {
+      "apiname": "widget_works_dino",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bubbles MK-I",
+      "description": "Buy Bubbles MK-I."
+    },
+    {
+      "apiname": "widget_works_clock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clock",
+      "description": "Buy a Clock."
+    },
+    {
+      "apiname": "widget_works_jukebox",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Music Box",
+      "description": "Buy a Music Box."
+    },
+    {
+      "apiname": "widget_works_weather",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weather Station",
+      "description": "Buy a Weather Station."
+    },
+    {
+      "apiname": "widget_works_loading_bar",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Loading Bar",
+      "description": "Buy a Loading Bar."
+    },
+    {
+      "apiname": "widget_works_aquarium",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Aquarium",
+      "description": "Buy an Aquarium."
+    },
+    {
+      "apiname": "widget_works_pomodoro",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Pomodoro Machine",
+      "description": "Buy a Pomodoro Machine."
+    },
+    {
+      "apiname": "widget_works_lamp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Entropy Lamp",
+      "description": "Buy an Entropy Lamp."
+    },
+    {
+      "apiname": "widget_works_salve",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Salve",
+      "description": "Buy The Salve."
+    },
+    {
+      "apiname": "widget_works_photocopier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Photocopier",
+      "description": "Buy a Photocopier."
+    },
+    {
+      "apiname": "widget_works_load",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Load Monitor",
+      "description": "Buy a Load Monitor."
+    },
+    {
+      "apiname": "widget_works_machine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Machine",
+      "description": "Buy The Machine."
+    },
+    {
+      "apiname": "widget_works_augur",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Augur",
+      "description": "Buy The Augur."
+    },
+    {
+      "apiname": "first_widget",
+      "achieved": 1,
+      "unlocktime": 1795686839,
+      "name": "The Debut Cut",
+      "description": ""
+    },
+    {
+      "apiname": "first_ascension",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Backstage Pass",
+      "description": ""
+    },
+    {
+      "apiname": "googolo_meter_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overload",
+      "description": ""
+    },
+    {
+      "apiname": "nothing_wanting",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hall of Fame",
+      "description": ""
+    },
+    {
+      "apiname": "other_words",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "With Thanks",
+      "description": "Thanks to everyone who helped. And to you, for finding this."
+    },
+    {
+      "apiname": "complete_cookie",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Cynical Brit",
+      "description": "“Ladies and Gentlemen, I'm here to ask and answer one simple question...”\n(1984-2018)"
+    },
+    {
+      "apiname": "elder_melder",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Elder Melder",
+      "description": ""
+    },
+    {
+      "apiname": "bird_watching",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bird Watching",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_choir",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Choir",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_the_kin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Kin",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_missing_catch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Missing Catch",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_lantern",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Lantern",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_dreaming_whale",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Dreaming Whale",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_world_bearer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The World-Bearer",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_old_coil",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Old Coil",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_pressure_suit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Pressure Suit",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_seen_bloop",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Bloop",
+      "description": ""
+    },
+    {
+      "apiname": "obol_last_instant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Thought It Was Gone?",
+      "description": ""
+    },
+    {
+      "apiname": "jackpot_lite",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Jackpot-Lite",
+      "description": ""
+    },
+    {
+      "apiname": "trojan_horse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trojan Horse",
+      "description": ""
+    },
+    {
+      "apiname": "generous_house",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Generous House",
+      "description": ""
+    },
+    {
+      "apiname": "grid_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Under Construction",
+      "description": "Aw, no! It was cozier before."
+    },
+    {
+      "apiname": "grid_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Open for Business",
+      "description": "Is this up to code?"
+    },
+    {
+      "apiname": "grid_full",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Vacancy",
+      "description": "Don't let OSHA see this."
+    },
+    {
+      "apiname": "seattle_landmarks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Cloud Saves",
+      "description": ""
+    },
+    {
+      "apiname": "city_walk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Chowder City",
+      "description": ""
+    },
+    {
+      "apiname": "beijing_landmarks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Four-Nine",
+      "description": ""
+    },
+    {
+      "apiname": "tokyo_landmarks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No Photo!",
+      "description": ""
+    },
+    {
+      "apiname": "warp_unlocked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ferryman's Fare",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_mojibake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mojibake",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_communion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warp Communion",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_tincture",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warp Tincture",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_strands",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Strands of Time",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_eldritch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eldritch Frequencies",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_dead_letter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Dead Letter Office",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_leagues",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Twenty Thousand Leagues",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_rift",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Warp Pocket",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_slingshot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All Ahead Full",
+      "description": ""
+    },
+    {
+      "apiname": "crossing_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Paid in Full",
+      "description": ""
+    },
+    {
+      "apiname": "first_link",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Link",
+      "description": "Well, if you insist."
+    },
+    {
+      "apiname": "central_heating",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Central Heating",
+      "description": ""
+    },
+    {
+      "apiname": "housewarming",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Housewarming",
+      "description": ""
+    },
+    {
+      "apiname": "well_connected",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Well Connected",
+      "description": ""
+    },
+    {
+      "apiname": "quantum_shortcake",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Quantum Cake",
+      "description": ""
+    },
+    {
+      "apiname": "the_center_holds",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Center Timepiece",
+      "description": ""
+    },
+    {
+      "apiname": "this_game_is_annoying",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "This Game Is So Annoying!",
+      "description": ""
+    },
+    {
+      "apiname": "touch_typer",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Repertoire",
+      "description": ""
+    },
+    {
+      "apiname": "to_the_future",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "To the Future",
+      "description": ""
+    },
+    {
+      "apiname": "night_shift",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Night Shift",
+      "description": ""
+    },
+    {
+      "apiname": "hardware_limitation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hardware Limitation",
+      "description": ""
+    },
+    {
+      "apiname": "employee_of_the_month",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Employee of the Month",
+      "description": ""
+    },
+    {
+      "apiname": "nightcore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Nightcore",
+      "description": ""
+    },
+    {
+      "apiname": "leagues_first_relic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Salvage Rights",
+      "description": ""
+    },
+    {
+      "apiname": "finders_keepers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Finders Keepers",
+      "description": ""
+    },
+    {
+      "apiname": "unspooled",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unspooled",
+      "description": ""
+    },
+    {
+      "apiname": "undeliverable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Undeliverable",
+      "description": ""
+    },
+    {
+      "apiname": "cant_believe_you",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I Can't Believe You've Done This",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Breaking the Ice",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Forged In Fire",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Four-color Process",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Step by Step",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Projection",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Daring Truth",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Long Pavilion",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Red String",
+      "description": ""
+    },
+    {
+      "apiname": "red_string_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Til we...",
+      "description": ""
+    },
+    {
+      "apiname": "splash_zone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Splash Zone",
+      "description": ""
+    },
+    {
+      "apiname": "gigabit_connection",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Gigabit Connection",
+      "description": ""
+    },
+    {
+      "apiname": "squeaky_wheel",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Squeaky Wheel",
+      "description": ""
+    },
+    {
+      "apiname": "couldnt_wait",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Couldn't Wait Just One Minute",
+      "description": ""
+    },
+    {
+      "apiname": "italian_tune_up",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Italian Tune-Up",
+      "description": ""
+    },
+    {
+      "apiname": "bubbles_the_champion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bubbles the Champion",
+      "description": ""
+    }
+  ]
+}

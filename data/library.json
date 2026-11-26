@@ -1,8 +1,27 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T04:00:45.338139+00:00",
-  "owned_games": 1719,
-  "new_games": [],
+  "updated_at_utc": "2026-11-26T13:44:27.448636+00:00",
+  "owned_games": 1721,
+  "new_games": [
+    {
+      "appid": 1374680,
+      "name": "Hazard Levels",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 4634570,
+      "name": "Widget Idle",
+      "playtime_minutes": 3,
+      "playtime_hours": 0.1,
+      "last_played_unix": 1795686969,
+      "last_played_utc": "2026-11-26T09:56:09+00:00",
+      "recent": true
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -3805,10 +3824,10 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 595,
-      "playtime_hours": 9.9,
-      "last_played_unix": 1795580171,
-      "last_played_utc": "2026-11-25T04:16:11+00:00",
+      "playtime_minutes": 671,
+      "playtime_hours": 11.2,
+      "last_played_unix": 1795686276,
+      "last_played_utc": "2026-11-26T09:44:36+00:00",
       "recent": true
     },
     {
@@ -5560,6 +5579,15 @@
     {
       "appid": 2020710,
       "name": "Havendock",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1374680,
+      "name": "Hazard Levels",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -8530,10 +8558,10 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 4240,
-      "playtime_hours": 70.7,
-      "last_played_unix": 1795663822,
-      "last_played_utc": "2026-11-26T03:30:22+00:00",
+      "playtime_minutes": 4580,
+      "playtime_hours": 76.3,
+      "last_played_unix": 1795694635,
+      "last_played_utc": "2026-11-26T12:03:55+00:00",
       "recent": true
     },
     {
@@ -9308,7 +9336,7 @@
       "playtime_hours": 51.1,
       "last_played_unix": 1794461797,
       "last_played_utc": "2026-11-12T05:36:37+00:00",
-      "recent": true
+      "recent": false
     },
     {
       "appid": 739630,
@@ -14907,6 +14935,15 @@
       "last_played_unix": 0,
       "last_played_utc": null,
       "recent": false
+    },
+    {
+      "appid": 4634570,
+      "name": "Widget Idle",
+      "playtime_minutes": 3,
+      "playtime_hours": 0.1,
+      "last_played_unix": 1795686969,
+      "last_played_utc": "2026-11-26T09:56:09+00:00",
+      "recent": true
     },
     {
       "appid": 2072430,

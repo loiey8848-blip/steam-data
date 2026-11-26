@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 34,
-  "percent": 34.0,
-  "updated_at_utc": "2026-11-26T04:00:15.110211+00:00",
+  "unlocked": 39,
+  "percent": 39.0,
+  "updated_at_utc": "2026-11-26T13:43:55.526978+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -65,8 +65,8 @@
     },
     {
       "apiname": "WORLD_4_NORMAL_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795686251,
       "name": "Sealed Citadel Explorer",
       "description": "Clear the Sealed Citadel on Normal or higher."
     },
@@ -79,8 +79,8 @@
     },
     {
       "apiname": "WORLD_2_HEROIC_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795671313,
       "name": "Bone Desert Pioneer",
       "description": "Clear the Bone Desert on Heroic difficulty."
     },
@@ -464,8 +464,8 @@
     },
     {
       "apiname": "USE_RELIC_TYPE_LEVEL3",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795669052,
       "name": "Relic Collector",
       "description": "Use more than 60 different Relics."
     },
@@ -562,8 +562,8 @@
     },
     {
       "apiname": "CHAR_SPECIAL_KNIGHT",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795671312,
       "name": "Chivalry",
       "description": "As Belloc the Pyroguard, complete at least seven quests in a single run and clear the boss stage."
     },
@@ -590,8 +590,8 @@
     },
     {
       "apiname": "CHAR_SPECIAL_TINY",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795686031,
       "name": "System Optimization",
       "description": "As Tiny the Bot, build an elemental 3×3 tower, with all buff tiles beneath it providing that same element bonus."
     },
