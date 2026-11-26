@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T13:44:27.448636+00:00",
+  "updated_at_utc": "2026-11-26T22:52:13.762140+00:00",
   "games": [
     {
       "appid": 3287520,
@@ -104,7 +104,7 @@
     {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 479,
+      "playtime_2weeks": 439,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -148,21 +148,10 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_2weeks": 200,
-      "playtime_forever": 671,
+      "playtime_2weeks": 264,
+      "playtime_forever": 735,
       "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 671,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 161,
-      "playtime_forever": 1193,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 1193,
+      "playtime_windows_forever": 735,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -232,6 +221,17 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 119,
       "playtime_deck_forever": 119
+    },
+    {
+      "appid": 774171,
+      "name": "Muse Dash",
+      "playtime_2weeks": 18,
+      "playtime_forever": 1193,
+      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
+      "playtime_windows_forever": 1193,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     },
     {
       "appid": 3433110,

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T13:44:27.448636+00:00",
+  "updated_at_utc": "2026-11-26T22:52:13.762140+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -5069,14 +5069,14 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 671,
-      "playtime_hours": 11.2,
-      "last_played_unix": 1795686276,
-      "last_played_utc": "2026-11-26T09:44:36+00:00",
+      "playtime_minutes": 735,
+      "playtime_hours": 12.2,
+      "last_played_unix": 1795708229,
+      "last_played_utc": "2026-11-26T15:50:29+00:00",
       "recent": true,
-      "achievements_unlocked": 39,
+      "achievements_unlocked": 42,
       "achievements_total": 100,
-      "achievement_percent": 39.0
+      "achievement_percent": 42.0
     },
     {
       "appid": 1654660,
@@ -12034,9 +12034,9 @@
       "last_played_unix": 1794749085,
       "last_played_utc": "2026-11-15T13:24:45+00:00",
       "recent": true,
-      "achievements_unlocked": 0,
+      "achievements_unlocked": 5,
       "achievements_total": 62,
-      "achievement_percent": 0.0
+      "achievement_percent": 8.1
     },
     {
       "appid": 448510,
@@ -19895,8 +19895,8 @@
       "last_played_utc": "2026-11-26T09:56:09+00:00",
       "recent": true,
       "achievements_unlocked": 1,
-      "achievements_total": 99,
-      "achievement_percent": 1.0
+      "achievements_total": 164,
+      "achievement_percent": 0.6
     },
     {
       "appid": 2072430,

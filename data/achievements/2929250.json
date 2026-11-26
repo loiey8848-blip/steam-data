@@ -3,14 +3,14 @@
   "appid": 2929250,
   "game": "over the hill",
   "total": 62,
-  "unlocked": 0,
-  "percent": 0.0,
-  "updated_at_utc": "2026-11-26T13:44:08.893261+00:00",
+  "unlocked": 5,
+  "percent": 8.1,
+  "updated_at_utc": "2026-11-26T22:51:56.215048+00:00",
   "achievements": [
     {
       "apiname": "WelcomeToTheWild",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795706198,
       "name": "Welcome to the Wild",
       "description": "Complete the tutorial."
     },
@@ -37,8 +37,8 @@
     },
     {
       "apiname": "SayCheese",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795706198,
       "name": "Say Cheese!",
       "description": "Photograph your first animal."
     },
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "GettingBetter",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795706198,
       "name": "Getting Better",
       "description": "Purchase your first upgrade."
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "HandyHelper",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795706198,
       "name": "Handy Helper",
       "description": "Use your first tool."
     },
@@ -317,8 +317,8 @@
     },
     {
       "apiname": "NewStyle",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795706198,
       "name": "New Style",
       "description": "Equip your first cosmetic."
     },

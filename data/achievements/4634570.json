@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 4634570,
   "game": "Widget Idle",
-  "total": 99,
+  "total": 164,
   "unlocked": 1,
-  "percent": 1.0,
-  "updated_at_utc": "2026-11-26T13:44:26.796046+00:00",
+  "percent": 0.6,
+  "updated_at_utc": "2026-11-26T22:52:13.001090+00:00",
   "achievements": [
     {
       "apiname": "thousand_widgets",
@@ -699,6 +699,461 @@
       "unlocktime": 0,
       "name": "Bubbles the Champion",
       "description": ""
+    },
+    {
+      "apiname": "cut_5k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All in a Day's Work",
+      "description": "No shorthand."
+    },
+    {
+      "apiname": "cut_50k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overtime",
+      "description": "We don't pay overtime. It's all voluntary."
+    },
+    {
+      "apiname": "cut_100k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Where's the Clickah?",
+      "description": "Hand-clicked. Artisanal."
+    },
+    {
+      "apiname": "crush_5k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Brick Break",
+      "description": "Does this count as self-defense training?"
+    },
+    {
+      "apiname": "crush_200k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trickle Down Economics",
+      "description": "Hey! It's actually trickling down this time!"
+    },
+    {
+      "apiname": "crush_1m",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mountain out of Molehill",
+      "description": "I typed this mountain into existence."
+    },
+    {
+      "apiname": "sweep_1k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Yoyo",
+      "description": "Might as well make another round trip."
+    },
+    {
+      "apiname": "sweep_20k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Bristol to Birmingham",
+      "description": "Never left the mouse pad."
+    },
+    {
+      "apiname": "sweep_100k",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Check Your Wrist",
+      "description": "Our plan doesn't cover that."
+    },
+    {
+      "apiname": "stack_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Overclocked",
+      "description": "Well, there goes the warranty."
+    },
+    {
+      "apiname": "stack_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Turbocharged",
+      "description": "Turbo lag? Stick another one on."
+    },
+    {
+      "apiname": "stack_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sure This Will Hold?",
+      "description": "Don't touch it! Nobody touch it!"
+    },
+    {
+      "apiname": "stack_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sufficiently Leveraged",
+      "description": "Wait, we laid off the entire risk team yesterday?"
+    },
+    {
+      "apiname": "stack_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Won the Measuring Contest",
+      "description": "Sure, sure. Yours is bigger."
+    },
+    {
+      "apiname": "stamps_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Philatelist",
+      "description": "One wouldn't hurt. They said."
+    },
+    {
+      "apiname": "stamps_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Postmaster",
+      "description": "No salary. Just tweezers."
+    },
+    {
+      "apiname": "stamps_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Grand Exhibition",
+      "description": "Please do not lick the exhibits."
+    },
+    {
+      "apiname": "wps_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Automation",
+      "description": "Look, Ma! No hands!"
+    },
+    {
+      "apiname": "wps_10000",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Mass Production",
+      "description": "Henry Ford is smiling."
+    },
+    {
+      "apiname": "debug_production_king",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Millionaire Per Second",
+      "description": "A small loan."
+    },
+    {
+      "apiname": "wps_1t",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Every Man Is a Planet",
+      "description": "No man is an island."
+    },
+    {
+      "apiname": "wps_1qa",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take That, Kardashev",
+      "description": "Your scale needs more types."
+    },
+    {
+      "apiname": "wps_1sx",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Looks Like a Paper Clip",
+      "description": "Plenty of raw material left in the universe."
+    },
+    {
+      "apiname": "wps_1sp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Weather Event",
+      "description": "Rain today. Stay indoors."
+    },
+    {
+      "apiname": "wps_1oc",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Act of God",
+      "description": "Delivery delayed. Entropy, you understand."
+    },
+    {
+      "apiname": "bracket_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ten Thousand Hours",
+      "description": "Wait. Wrong unit."
+    },
+    {
+      "apiname": "bracket_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Millionaire",
+      "description": "Lemme cash out. Lemme cash out."
+    },
+    {
+      "apiname": "bracket_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Trillionaire",
+      "description": "Economists hate him."
+    },
+    {
+      "apiname": "bracket_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Ex-Trillionaire",
+      "description": "You're not a trillionaire anymore? You poor thing."
+    },
+    {
+      "apiname": "bracket_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "If You Give Everyone a Dollar…",
+      "description": "Didn't even make a dent!"
+    },
+    {
+      "apiname": "bracket_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Comma Explosion",
+      "description": "Accounting has requested scientific notation."
+    },
+    {
+      "apiname": "bracket_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Sea of Zeros",
+      "description": "One can only do so much."
+    },
+    {
+      "apiname": "bracket_half",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Halfway There",
+      "description": "Still a long way to go."
+    },
+    {
+      "apiname": "workshop_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Line Speed",
+      "description": "The boss says it can go faster."
+    },
+    {
+      "apiname": "workshop_60",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Second Shift",
+      "description": "Finally clocked out. Time to clock in!"
+    },
+    {
+      "apiname": "workshop_140",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Drive Assembly",
+      "description": "Why are there three screws left over?"
+    },
+    {
+      "apiname": "workshop_465",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The Milestone",
+      "description": "I was only going to play for five minutes."
+    },
+    {
+      "apiname": "synergy_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Bond",
+      "description": "Better a neighbor next door than a cousin overseas."
+    },
+    {
+      "apiname": "synergy_198",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Standing Course",
+      "description": "You're absolutely right. That wall was load-bearing. That's on me."
+    },
+    {
+      "apiname": "synergy_279",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Upper Works",
+      "description": "Who approved this floor?"
+    },
+    {
+      "apiname": "synergy_360",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Whole Figure",
+      "description": "Nobody's moving out now."
+    },
+    {
+      "apiname": "attunement_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "First Crossing",
+      "description": "A pale chime draws the outline of a shore."
+    },
+    {
+      "apiname": "attunement_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Waking Seals",
+      "description": "The tides return, but time has yet to change her."
+    },
+    {
+      "apiname": "attunement_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Near Approach",
+      "description": "Through the shadows, I reach for a shape I knew before."
+    },
+    {
+      "apiname": "attunement_300",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "At the Gate",
+      "description": "She turns, and sees a stranger."
+    },
+    {
+      "apiname": "hot_potato",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Hot Potato",
+      "description": ""
+    },
+    {
+      "apiname": "magical_thinking",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Magical Thinking",
+      "description": ""
+    },
+    {
+      "apiname": "code_switching",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Code Switching",
+      "description": ""
+    },
+    {
+      "apiname": "underflow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Underflow",
+      "description": ""
+    },
+    {
+      "apiname": "instruction_unclear",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Instruction Unclear",
+      "description": ""
+    },
+    {
+      "apiname": "ascend_x",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Live Service Widget",
+      "description": ""
+    },
+    {
+      "apiname": "unstoppable_force",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Unstoppable Force",
+      "description": ""
+    },
+    {
+      "apiname": "tropical_gourmand",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Tropical Gourmand",
+      "description": ""
+    },
+    {
+      "apiname": "couldnt_help_it",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Couldn't Help It",
+      "description": ""
+    },
+    {
+      "apiname": "devoted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Devoted",
+      "description": ""
+    },
+    {
+      "apiname": "hunter2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "hunter2",
+      "description": ""
+    },
+    {
+      "apiname": "immovable_object",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Immovable Object",
+      "description": ""
+    },
+    {
+      "apiname": "coupon_set_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Half a Book",
+      "description": "Hang on, I've got more."
+    },
+    {
+      "apiname": "coupon_set_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Three Quarters",
+      "description": "The line behind you has started sighing."
+    },
+    {
+      "apiname": "coupon_set_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Clean Out the Book",
+      "description": "The cashier wasn't trained for this."
+    },
+    {
+      "apiname": "coupon_redeemed_200",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Regular",
+      "description": "Full price? I thought we were friends."
+    },
+    {
+      "apiname": "coupon_reissued_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Reprint",
+      "description": "I'd like to speak to your manager."
+    },
+    {
+      "apiname": "coupon_master",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the House",
+      "description": "Look at me. I'm the boss now."
+    },
+    {
+      "apiname": "coupon_edition",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Full Run",
+      "description": "Now they're too nice to spend."
+    },
+    {
+      "apiname": "coupon_catalogue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fine Print",
+      "description": "All terms subject to the collector's interpretation."
     }
   ]
 }
