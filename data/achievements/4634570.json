@@ -3,35 +3,35 @@
   "appid": 4634570,
   "game": "Widget Idle",
   "total": 164,
-  "unlocked": 1,
-  "percent": 0.6,
-  "updated_at_utc": "2026-11-27T06:57:12.723808+00:00",
+  "unlocked": 16,
+  "percent": 9.8,
+  "updated_at_utc": "2026-11-27T17:54:41.741134+00:00",
   "achievements": [
     {
       "apiname": "thousand_widgets",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "A Thousand Miles",
       "description": "Begins with one ill-advised click."
     },
     {
       "apiname": "title_track",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Title Track",
       "description": "Let the title track play to the end."
     },
     {
       "apiname": "three_hands",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "In Concert",
       "description": "Operate the Product Cutter, Thermal Slider, and Char Crusher within 10 seconds."
     },
     {
       "apiname": "fresh_coat",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Fresh Coat",
       "description": "Choose a different color palette in Settings."
     },
@@ -51,8 +51,8 @@
     },
     {
       "apiname": "self_fulfilling",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Self-Fulfilling",
       "description": "I'd like to thank myself."
     },
@@ -93,15 +93,15 @@
     },
     {
       "apiname": "widget_works_slider",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Thermal Slider",
       "description": "Buy a Thermal Slider."
     },
     {
       "apiname": "widget_works_crusher",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Char Crusher",
       "description": "Buy a Char Crusher."
     },
@@ -114,15 +114,15 @@
     },
     {
       "apiname": "widget_works_clock",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Clock",
       "description": "Buy a Clock."
     },
     {
       "apiname": "widget_works_jukebox",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Music Box",
       "description": "Buy a Music Box."
     },
@@ -142,8 +142,8 @@
     },
     {
       "apiname": "widget_works_aquarium",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Aquarium",
       "description": "Buy an Aquarium."
     },
@@ -513,8 +513,8 @@
     },
     {
       "apiname": "this_game_is_annoying",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "This Game Is So Annoying!",
       "description": ""
     },
@@ -534,8 +534,8 @@
     },
     {
       "apiname": "night_shift",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Night Shift",
       "description": ""
     },
@@ -744,15 +744,15 @@
     },
     {
       "apiname": "sweep_1k",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Yoyo",
       "description": "Might as well make another round trip."
     },
     {
       "apiname": "sweep_20k",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Bristol to Birmingham",
       "description": "Never left the mouse pad."
     },
@@ -800,8 +800,8 @@
     },
     {
       "apiname": "stamps_10",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795784438,
       "name": "Philatelist",
       "description": "One wouldn't hurt. They said."
     },

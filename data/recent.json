@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-27T06:57:13.371667+00:00",
+  "updated_at_utc": "2026-11-27T17:54:42.619432+00:00",
   "games": [
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 3424,
-      "playtime_forever": 4580,
+      "playtime_2weeks": 3586,
+      "playtime_forever": 4742,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 4580,
+      "playtime_windows_forever": 4742,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -71,7 +71,7 @@
     {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
-      "playtime_2weeks": 679,
+      "playtime_2weeks": 660,
       "playtime_forever": 832,
       "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
       "playtime_windows_forever": 832,
@@ -82,7 +82,7 @@
     {
       "appid": 2390230,
       "name": "The Chef's Shift",
-      "playtime_2weeks": 662,
+      "playtime_2weeks": 646,
       "playtime_forever": 662,
       "img_icon_url": "fbe3a52f168d813eba729e9ce368c8bffb06c10e",
       "playtime_windows_forever": 662,
@@ -108,17 +108,6 @@
       "playtime_forever": 1027,
       "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
       "playtime_windows_forever": 1027,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 375,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,23 +146,34 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3681010,
+      "name": "Nioh 3",
+      "playtime_2weeks": 253,
+      "playtime_forever": 4839,
+      "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
+      "playtime_windows_forever": 4839,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 197,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 145,
       "playtime_forever": 496,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 496,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3681010,
-      "name": "Nioh 3",
-      "playtime_2weeks": 129,
-      "playtime_forever": 4716,
-      "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
-      "playtime_windows_forever": 4716,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -245,6 +245,28 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 837880,
+      "name": "You Suck at Parking® - Complete Edition",
+      "playtime_2weeks": 15,
+      "playtime_forever": 15,
+      "img_icon_url": "4dce460b9d3c46066c3a4e5fcb2484acc2ebc624",
+      "playtime_windows_forever": 15,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 5001630,
+      "name": "嘉豪",
+      "playtime_2weeks": 13,
+      "playtime_forever": 13,
+      "img_icon_url": "db7b3fec247babd1ae2d2a3df5e9f4e1e01cc4d0",
+      "playtime_windows_forever": 13,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1927740,
       "name": "Monument Valley 2",
       "playtime_2weeks": 6,
@@ -292,9 +314,9 @@
       "appid": 1859370,
       "name": "Dream House Days DX",
       "playtime_2weeks": 1,
-      "playtime_forever": 0,
+      "playtime_forever": 1,
       "img_icon_url": "fcdbd4771560e804059087557dba71266357d027",
-      "playtime_windows_forever": 0,
+      "playtime_windows_forever": 1,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -328,17 +350,6 @@
       "playtime_forever": 731,
       "img_icon_url": "a41133bb58b577f529cc4481abc6b0e43f60ddd3",
       "playtime_windows_forever": 731,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 431960,
-      "name": "Wallpaper Engine",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1127,
-      "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
-      "playtime_windows_forever": 1127,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

@@ -1,0 +1,228 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 5001630,
+  "game": "嘉豪",
+  "total": 31,
+  "unlocked": 2,
+  "percent": 6.5,
+  "updated_at_utc": "2026-11-27T17:54:42.103504+00:00",
+  "achievements": [
+    {
+      "apiname": "JH_FIRST_CATCH",
+      "achieved": 1,
+      "unlocktime": 1795786819,
+      "name": "第一次捉住嘉豪",
+      "description": "完成第一次桌面捕捉。"
+    },
+    {
+      "apiname": "JH_FIRST_PURCHASE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "第一次消费",
+      "description": "在商店完成第一次购买。"
+    },
+    {
+      "apiname": "JH_FIRST_STOCK_TRADE",
+      "achieved": 1,
+      "unlocktime": 1795786879,
+      "name": "第一次操盘",
+      "description": "完成第一笔长期股票交易。"
+    },
+    {
+      "apiname": "JH_COLLECTION_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "百卷尽览",
+      "description": "累计发现 100 条产品图鉴内容。"
+    },
+    {
+      "apiname": "JH_COLLECTION_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "图鉴初成",
+      "description": "累计发现 25 条产品图鉴内容。"
+    },
+    {
+      "apiname": "JH_HABIT_STREAK_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "三日成习",
+      "description": "同一个习惯连续打卡 3 天。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格二阶·炼豪期",
+      "description": "豪格达到二阶炼豪期。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格三阶·筑豪基",
+      "description": "豪格达到三阶筑豪基。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格四阶·结豪丹",
+      "description": "豪格达到四阶结豪丹。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格五阶·元豪婴",
+      "description": "豪格达到五阶元豪婴。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格六阶·豪域展开",
+      "description": "豪格达到六阶豪域展开。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "豪格七阶·万豪归一",
+      "description": "豪格达到七阶万豪归一。"
+    },
+    {
+      "apiname": "JH_HAOGE_RANK_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "八阶·自在极意豪",
+      "description": "豪格达到八阶自在极意豪。"
+    },
+    {
+      "apiname": "JH_PURCHASE_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "五十单传说",
+      "description": "累计完成 50 次购买。"
+    },
+    {
+      "apiname": "JH_PURCHASE_CYBERWARE_SANDEVISTAN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "跑起来吧！",
+      "description": "在商店购买赛博义体。"
+    },
+    {
+      "apiname": "JH_PURCHASE_HAOGUI_MASK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "我不做人了！JAJA!",
+      "description": "在商店购买豪鬼面。"
+    },
+    {
+      "apiname": "JH_PURCHASE_IRON_STEEL_BACK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "当太阳升起......",
+      "description": "在商店购买铁一般的钢背。"
+    },
+    {
+      "apiname": "JH_PURCHASE_KUKU_FLOWER_CHICKEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "向着星辰",
+      "description": "在商店购买苦苦花腚鸡。"
+    },
+    {
+      "apiname": "JH_PURCHASE_LAOBEIZHA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "不是怎么老杯榨啊",
+      "description": "在商店购买老杯榨。"
+    },
+    {
+      "apiname": "JH_PURCHASE_REED_TOMATO",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "来一点芦苇的番茄连招",
+      "description": "在商店购买芦苇的番茄。"
+    },
+    {
+      "apiname": "JH_STICKY_NOTE_CREATED_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "便签三张",
+      "description": "成功创建 3 张桌面便签。"
+    },
+    {
+      "apiname": "JH_STOCK_TRADE_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "市场老手",
+      "description": "累计完成 25 次股票交易。"
+    },
+    {
+      "apiname": "JH_TODO_CREATED_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "待办三连",
+      "description": "成功创建 3 条待办。"
+    },
+    {
+      "apiname": "JH_WHITE_NOISE_PLAY_THREE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "声入其境",
+      "description": "由用户成功播放 3 次环境音。"
+    },
+    {
+      "apiname": "JH_CONSUME_SOFT_LEG_PRAWN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "我软脚了（哭）",
+      "description": "吃下软脚大虾。"
+    },
+    {
+      "apiname": "JH_CONSUME_ASIA_NUMBER_ONE_EGG",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "我坐好了",
+      "description": "吃下亚一蛋。"
+    },
+    {
+      "apiname": "JH_CONSUME_ICE_TEA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "MAN！",
+      "description": "喝下冰豪茶。"
+    },
+    {
+      "apiname": "JH_PURCHASE_HORSE_HEAD_CARCASS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "已取餐",
+      "description": "吃下马头蒸菜。"
+    },
+    {
+      "apiname": "JH_PURCHASE_UNKNOWN_LEFT_HAND",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "hide了",
+      "description": "吃下不知名的左手。"
+    },
+    {
+      "apiname": "JH_CONSUME_GENGHIS_CHICKEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "你说的一点都对",
+      "description": "吃下成吉思鸡。"
+    },
+    {
+      "apiname": "JH_PURCHASE_MYSTERIOUS_GYROSCOPE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "听见你说",
+      "description": "吃下神秘的陀螺。"
+    }
+  ]
+}

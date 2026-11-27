@@ -1,0 +1,186 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 837880,
+  "game": "You Suck at Parking® - Complete Edition",
+  "total": 25,
+  "unlocked": 1,
+  "percent": 4.0,
+  "updated_at_utc": "2026-11-27T17:52:51.887315+00:00",
+  "achievements": [
+    {
+      "apiname": "ACH_FinishedTutorial",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Take off the training wheels",
+      "description": "Finished the tutorial"
+    },
+    {
+      "apiname": "YouSuckAtFlying",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "You suck at flying",
+      "description": "Be airborne for 30 minutes in total"
+    },
+    {
+      "apiname": "LosingGrip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Losing grip",
+      "description": "Drift for 1 hour in total"
+    },
+    {
+      "apiname": "PeterParkster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Peter Parkster",
+      "description": "Drive vertically for 5 minutes in total"
+    },
+    {
+      "apiname": "Antcartica",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Antarcticar",
+      "description": "Unlock the snow biome"
+    },
+    {
+      "apiname": "AllSpotsTaken",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "All spots taken",
+      "description": "Complete all levels in the base game"
+    },
+    {
+      "apiname": "MasterSkowda",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Master Skowda",
+      "description": "Perfect all levels in the base game"
+    },
+    {
+      "apiname": "LookMomNoHands",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Look mom no hands",
+      "description": "Park a car without controlling it"
+    },
+    {
+      "apiname": "ParkedIsParked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Parked is parked",
+      "description": "Park as a wreckage"
+    },
+    {
+      "apiname": "OnTheRocks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "On the rocks",
+      "description": "Park as an ice cube"
+    },
+    {
+      "apiname": "BrakingBad",
+      "achieved": 1,
+      "unlocktime": 1795789389,
+      "name": "Braking bad",
+      "description": "Complete a level without braking"
+    },
+    {
+      "apiname": "TimeToShine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Time to shine",
+      "description": "Customize your car for the first time"
+    },
+    {
+      "apiname": "AreWeThereYet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Are we there yet?",
+      "description": "Reach level 25"
+    },
+    {
+      "apiname": "Roadtrip",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Roadtrip",
+      "description": "Reach level 50"
+    },
+    {
+      "apiname": "TheSmellOfGasolineInTheMorning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "The smell of gasoline in the morning",
+      "description": "Finish first in an online match"
+    },
+    {
+      "apiname": "LateToTheParty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Late to the party",
+      "description": "Park on the last spot with your last car in the last round in online multiplayer"
+    },
+    {
+      "apiname": "EatMyDust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Eat my dust",
+      "description": "Win all rounds of an online multiplayer match"
+    },
+    {
+      "apiname": "Carnivore",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Carnivore",
+      "description": "Win 3 online multiplayer matches in a row"
+    },
+    {
+      "apiname": "ProfessionalParkster",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Professional parkster",
+      "description": "Park on all spots in a round of online multiplayer"
+    },
+    {
+      "apiname": "NoSpotLeftUnparked",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "No spot left unparked",
+      "description": "Park on all spots in a full match in online multiplayer"
+    },
+    {
+      "apiname": "RockThisParty",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rock This Party",
+      "description": "Win a match when playing in a Party"
+    },
+    {
+      "apiname": "PartyTime",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Party Time!",
+      "description": "Create a party for the first time"
+    },
+    {
+      "apiname": "FiredUp",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Fired up",
+      "description": "Complete all levels of the \"Inferno\" update"
+    },
+    {
+      "apiname": "FlaminHot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Flaming hot",
+      "description": "Perfect all levels of the \"Inferno\" update"
+    },
+    {
+      "apiname": "RearWindowShopper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Rear window shopper",
+      "description": "Acquire a cosmetic from the parking lot"
+    }
+  ]
+}
