@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T22:52:13.762140+00:00",
+  "updated_at_utc": "2026-11-27T06:57:13.371667+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -4723,12 +4723,12 @@
       "name": "Dream House Days DX",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
-      "last_played_unix": 0,
-      "last_played_utc": null,
-      "recent": false,
-      "achievements_unlocked": null,
-      "achievements_total": null,
-      "achievement_percent": null
+      "last_played_unix": 1795761901,
+      "last_played_utc": "2026-11-27T06:45:01+00:00",
+      "recent": true,
+      "achievements_unlocked": 1,
+      "achievements_total": 6,
+      "achievement_percent": 16.7
     },
     {
       "appid": 2119660,
@@ -5069,14 +5069,14 @@
     {
       "appid": 2459550,
       "name": "Emberward",
-      "playtime_minutes": 735,
-      "playtime_hours": 12.2,
-      "last_played_unix": 1795708229,
-      "last_played_utc": "2026-11-26T15:50:29+00:00",
+      "playtime_minutes": 799,
+      "playtime_hours": 13.3,
+      "last_played_unix": 1795750722,
+      "last_played_utc": "2026-11-27T03:38:42+00:00",
       "recent": true,
-      "achievements_unlocked": 42,
+      "achievements_unlocked": 46,
       "achievements_total": 100,
-      "achievement_percent": 42.0
+      "achievement_percent": 46.0
     },
     {
       "appid": 1654660,
@@ -11037,7 +11037,7 @@
       "playtime_hours": 19.9,
       "last_played_unix": 1794544352,
       "last_played_utc": "2026-11-13T04:32:32+00:00",
-      "recent": true,
+      "recent": false,
       "achievements_unlocked": 39,
       "achievements_total": 39,
       "achievement_percent": 100.0
@@ -11429,14 +11429,14 @@
     {
       "appid": 3681010,
       "name": "Nioh 3",
-      "playtime_minutes": 4586,
-      "playtime_hours": 76.4,
-      "last_played_unix": 1771309156,
-      "last_played_utc": "2026-02-17T06:19:16+00:00",
-      "recent": false,
-      "achievements_unlocked": 51,
-      "achievements_total": 64,
-      "achievement_percent": 79.7
+      "playtime_minutes": 4716,
+      "playtime_hours": 78.6,
+      "last_played_unix": 1795761765,
+      "last_played_utc": "2026-11-27T06:42:45+00:00",
+      "recent": true,
+      "achievements_unlocked": 52,
+      "achievements_total": 76,
+      "achievement_percent": 68.4
     },
     {
       "appid": 485510,
@@ -16193,11 +16193,11 @@
     {
       "appid": 1543030,
       "name": "Sword and Fairy 7",
-      "playtime_minutes": 730,
+      "playtime_minutes": 731,
       "playtime_hours": 12.2,
-      "last_played_unix": 1660472497,
-      "last_played_utc": "2022-08-14T10:21:37+00:00",
-      "recent": false,
+      "last_played_unix": 1795742069,
+      "last_played_utc": "2026-11-27T01:14:29+00:00",
+      "recent": true,
       "achievements_unlocked": 13,
       "achievements_total": 54,
       "achievement_percent": 24.1

@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-26T22:52:13.762140+00:00",
+  "updated_at_utc": "2026-11-27T06:57:13.371667+00:00",
   "games": [
     {
       "appid": 3287520,
@@ -71,7 +71,7 @@
     {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
-      "playtime_2weeks": 783,
+      "playtime_2weeks": 679,
       "playtime_forever": 832,
       "img_icon_url": "56033402015426177f92036f5d9de0236a6a3520",
       "playtime_windows_forever": 832,
@@ -102,9 +102,20 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3734290,
+      "name": "Goblin Sushi",
+      "playtime_2weeks": 438,
+      "playtime_forever": 1027,
+      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
+      "playtime_windows_forever": 1027,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 4348910,
       "name": "Probably Stolen",
-      "playtime_2weeks": 439,
+      "playtime_2weeks": 375,
       "playtime_forever": 3964,
       "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
       "playtime_windows_forever": 3964,
@@ -113,12 +124,12 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 3734290,
-      "name": "Goblin Sushi",
-      "playtime_2weeks": 438,
-      "playtime_forever": 1027,
-      "img_icon_url": "62ce9d6a9ca1ba00a1c5355cd2951b55da8959a1",
-      "playtime_windows_forever": 1027,
+      "appid": 2459550,
+      "name": "Emberward",
+      "playtime_2weeks": 329,
+      "playtime_forever": 799,
+      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
+      "playtime_windows_forever": 799,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -146,23 +157,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2459550,
-      "name": "Emberward",
-      "playtime_2weeks": 264,
-      "playtime_forever": 735,
-      "img_icon_url": "506b6d41af26db80cd496b376fdaecb03938dd02",
-      "playtime_windows_forever": 735,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 145,
       "playtime_forever": 496,
       "img_icon_url": "7e0e360b65bd59eb7ac9a25e78c6ac715a05d243",
       "playtime_windows_forever": 496,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 3681010,
+      "name": "Nioh 3",
+      "playtime_2weeks": 129,
+      "playtime_forever": 4716,
+      "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
+      "playtime_windows_forever": 4716,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -223,17 +234,6 @@
       "playtime_deck_forever": 119
     },
     {
-      "appid": 774171,
-      "name": "Muse Dash",
-      "playtime_2weeks": 18,
-      "playtime_forever": 1193,
-      "img_icon_url": "116c4098769bb51aed2d654f2943771b68c29afa",
-      "playtime_windows_forever": 1193,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3433110,
       "name": "Cinema Theater Tycoon",
       "playtime_2weeks": 17,
@@ -289,6 +289,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1859370,
+      "name": "Dream House Days DX",
+      "playtime_2weeks": 1,
+      "playtime_forever": 0,
+      "img_icon_url": "fcdbd4771560e804059087557dba71266357d027",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 3326230,
       "name": "Hozy",
       "playtime_2weeks": 1,
@@ -306,6 +317,17 @@
       "playtime_forever": 1,
       "img_icon_url": "00c947bb54b601d8f61cb9dee1d2fced70108b4a",
       "playtime_windows_forever": 1,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1543030,
+      "name": "Sword and Fairy 7",
+      "playtime_2weeks": 1,
+      "playtime_forever": 731,
+      "img_icon_url": "a41133bb58b577f529cc4481abc6b0e43f60ddd3",
+      "playtime_windows_forever": 731,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0

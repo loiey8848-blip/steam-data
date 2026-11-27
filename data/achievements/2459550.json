@@ -3,9 +3,9 @@
   "appid": 2459550,
   "game": "Emberward",
   "total": 100,
-  "unlocked": 42,
-  "percent": 42.0,
-  "updated_at_utc": "2026-11-26T22:51:42.812067+00:00",
+  "unlocked": 46,
+  "percent": 46.0,
+  "updated_at_utc": "2026-11-27T06:56:41.457272+00:00",
   "achievements": [
     {
       "apiname": "ADVENTURE_BEGIN",
@@ -86,15 +86,15 @@
     },
     {
       "apiname": "WORLD_3_HEROIC_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795749008,
       "name": "Frost Ruins Pioneer",
       "description": "Clear the Frost Ruins on Heroic difficulty."
     },
     {
       "apiname": "WORLD_4_HEROIC_CLEAR",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795750274,
       "name": "Sealed Citadel Pioneer",
       "description": "Clear the Sealed Citadel on Heroic difficulty."
     },
@@ -177,8 +177,8 @@
     },
     {
       "apiname": "BOSS_FIGHT_SPECIAL_WORLD_4",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795750274,
       "name": "All Your Base Belong To Me",
       "description": "On Heroic difficulty, defeat the Grand Artificer without activating any Weather Simulators and without letting any Ancient Towers activate."
     },
@@ -583,8 +583,8 @@
     },
     {
       "apiname": "CHAR_SPECIAL_CHUNK",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795750274,
       "name": "XXXXL",
       "description": "As Chunk the Builder, clear any boss stage while every block in your backpack has a Mega Rune."
     },

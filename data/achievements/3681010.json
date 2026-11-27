@@ -2,10 +2,10 @@
   "steamid": "76561198098784097",
   "appid": 3681010,
   "game": "Nioh 3",
-  "total": 64,
-  "unlocked": 51,
-  "percent": 79.7,
-  "updated_at_utc": "2026-09-15T06:53:33.342993+00:00",
+  "total": 76,
+  "unlocked": 52,
+  "percent": 68.4,
+  "updated_at_utc": "2026-11-27T06:57:11.379188+00:00",
   "achievements": [
     {
       "apiname": "ACH_000",
@@ -366,8 +366,8 @@
     },
     {
       "apiname": "ACH_051",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795755449,
       "name": "The One-Eyed Master",
       "description": ""
     },
@@ -453,6 +453,90 @@
       "achieved": 0,
       "unlocktime": 0,
       "name": "Keian's Enlightenment",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_064",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_001_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_065",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_002_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_066",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_003_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_067",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_004_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_068",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_005_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_069",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_006_NAME",
+      "description": "DLC2_006_DESCRIPTION"
+    },
+    {
+      "apiname": "ACH_070",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_007_NAME",
+      "description": "DLC2_007_DESCRIPTION"
+    },
+    {
+      "apiname": "ACH_071",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_008_NAME",
+      "description": "DLC2_008_DESCRIPTION"
+    },
+    {
+      "apiname": "ACH_072",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_009_NAME",
+      "description": "DLC2_009_DESCRIPTION"
+    },
+    {
+      "apiname": "ACH_073",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_010_NAME",
+      "description": "DLC2_010_DESCRIPTION"
+    },
+    {
+      "apiname": "ACH_074",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_011_NAME",
+      "description": ""
+    },
+    {
+      "apiname": "ACH_075",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "DLC2_012_NAME",
       "description": ""
     }
   ]

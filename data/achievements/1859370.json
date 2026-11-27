@@ -1,0 +1,53 @@
+{
+  "steamid": "76561198098784097",
+  "appid": 1859370,
+  "game": "Dream House Days DX",
+  "total": 6,
+  "unlocked": 1,
+  "percent": 16.7,
+  "updated_at_utc": "2026-11-27T06:56:27.105208+00:00",
+  "achievements": [
+    {
+      "apiname": "KAIROKUN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Coordinate your room with me.",
+      "description": "Proof of discovering the Kairobot statue."
+    },
+    {
+      "apiname": "GAMECLEAR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "20 years of peace of mind and trust.",
+      "description": "Proof of running an mansion for many years."
+    },
+    {
+      "apiname": "RANKINGMANSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "Everyone's 「want to live」 is here!",
+      "description": "Proof of winning 6 rankings."
+    },
+    {
+      "apiname": "JOBMASTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "I leave finding a job to you too.",
+      "description": "Proof of discovering more than 50 jobs."
+    },
+    {
+      "apiname": "SITEMAX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "name": "It's okay to live  here over 100 people.",
+      "description": "Proof of expanding the site to the maximum."
+    },
+    {
+      "apiname": "NEWRESIDENTS",
+      "achieved": 1,
+      "unlocktime": 1795599008,
+      "name": "We will support you in your new life.",
+      "description": "Proof that new residents have moved in."
+    }
+  ]
+}
