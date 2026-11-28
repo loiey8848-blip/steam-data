@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-27T17:54:42.619432+00:00",
+  "updated_at_utc": "2026-11-28T01:11:49.788078+00:00",
   "games": [
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 3586,
-      "playtime_forever": 4742,
+      "playtime_2weeks": 4006,
+      "playtime_forever": 5162,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 4742,
+      "playtime_windows_forever": 5162,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -69,6 +69,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 3681010,
+      "name": "Nioh 3",
+      "playtime_2weeks": 673,
+      "playtime_forever": 5260,
+      "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
+      "playtime_windows_forever": 5260,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1714510,
       "name": "Kusan : City of Wolves",
       "playtime_2weeks": 660,
@@ -82,7 +93,7 @@
     {
       "appid": 2390230,
       "name": "The Chef's Shift",
-      "playtime_2weeks": 646,
+      "playtime_2weeks": 624,
       "playtime_forever": 662,
       "img_icon_url": "fbe3a52f168d813eba729e9ce368c8bffb06c10e",
       "playtime_windows_forever": 662,
@@ -141,17 +152,6 @@
       "playtime_forever": 16585,
       "img_icon_url": "23474d61e4506351f9b26f230fd417d017cf2806",
       "playtime_windows_forever": 16585,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 3681010,
-      "name": "Nioh 3",
-      "playtime_2weeks": 253,
-      "playtime_forever": 4839,
-      "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
-      "playtime_windows_forever": 4839,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
