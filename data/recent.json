@@ -1,14 +1,14 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-28T01:11:49.788078+00:00",
+  "updated_at_utc": "2026-11-28T09:52:33.013621+00:00",
   "games": [
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_2weeks": 4006,
-      "playtime_forever": 5162,
+      "playtime_2weeks": 4013,
+      "playtime_forever": 5169,
       "img_icon_url": "c8ae703bf074e1b867fd9d5cbeb5b5939cb3a3c8",
-      "playtime_windows_forever": 5162,
+      "playtime_windows_forever": 5169,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -71,10 +71,10 @@
     {
       "appid": 3681010,
       "name": "Nioh 3",
-      "playtime_2weeks": 673,
-      "playtime_forever": 5260,
+      "playtime_2weeks": 995,
+      "playtime_forever": 5581,
       "img_icon_url": "6fd20bd9cb64d2282d8eeeb4af058c382620e18c",
-      "playtime_windows_forever": 5260,
+      "playtime_windows_forever": 5581,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -91,23 +91,23 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 2390230,
-      "name": "The Chef's Shift",
-      "playtime_2weeks": 624,
-      "playtime_forever": 662,
-      "img_icon_url": "fbe3a52f168d813eba729e9ce368c8bffb06c10e",
-      "playtime_windows_forever": 662,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3985950,
       "name": "R.I.P. - Reincarnation Insurance Program",
       "playtime_2weeks": 577,
       "playtime_forever": 2219,
       "img_icon_url": "9289c5c99cbf147fc1c6ca7c9a9986ca7063b90d",
       "playtime_windows_forever": 2219,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 2390230,
+      "name": "The Chef's Shift",
+      "playtime_2weeks": 483,
+      "playtime_forever": 662,
+      "img_icon_url": "fbe3a52f168d813eba729e9ce368c8bffb06c10e",
+      "playtime_windows_forever": 662,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -157,17 +157,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 4348910,
-      "name": "Probably Stolen",
-      "playtime_2weeks": 197,
-      "playtime_forever": 3964,
-      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
-      "playtime_windows_forever": 3964,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 3372060,
       "name": "Hell Maiden",
       "playtime_2weeks": 145,
@@ -185,17 +174,6 @@
       "playtime_forever": 23676,
       "img_icon_url": "b25d4b846c745bdf809f5657af00298e0ae62465",
       "playtime_windows_forever": 23676,
-      "playtime_mac_forever": 0,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 2336220,
-      "name": "Feed The Cups",
-      "playtime_2weeks": 90,
-      "playtime_forever": 1153,
-      "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
-      "playtime_windows_forever": 1153,
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
@@ -232,6 +210,39 @@
       "playtime_mac_forever": 0,
       "playtime_linux_forever": 119,
       "playtime_deck_forever": 119
+    },
+    {
+      "appid": 2336220,
+      "name": "Feed The Cups",
+      "playtime_2weeks": 37,
+      "playtime_forever": 1153,
+      "img_icon_url": "acee60c7033bd9ba98f46944e915618df3d6f9ba",
+      "playtime_windows_forever": 1153,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 4348910,
+      "name": "Probably Stolen",
+      "playtime_2weeks": 31,
+      "playtime_forever": 3964,
+      "img_icon_url": "63d2172e624b8a6df1a81b98ed9869d1b8bbcb54",
+      "playtime_windows_forever": 3964,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 365590,
+      "name": "Tom Clancy's The Division",
+      "playtime_2weeks": 19,
+      "playtime_forever": 6301,
+      "img_icon_url": "93be9eec9ea09ee3cbc0f04de58f1c87a24b18f5",
+      "playtime_windows_forever": 269,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     },
     {
       "appid": 3433110,

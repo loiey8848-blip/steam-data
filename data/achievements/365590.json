@@ -3,9 +3,9 @@
   "appid": 365590,
   "game": "Tom Clancy's The Division",
   "total": 60,
-  "unlocked": 41,
-  "percent": 68.3,
-  "updated_at_utc": "2026-09-15T06:49:33.968079+00:00",
+  "unlocked": 42,
+  "percent": 70.0,
+  "updated_at_utc": "2026-11-28T09:49:58.095916+00:00",
   "achievements": [
     {
       "apiname": "Division_Ach_1",
@@ -212,8 +212,8 @@
     },
     {
       "apiname": "Division_Ach_30",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795856560,
       "name": "Those Signature Moves",
       "description": "Activate any of the Signature Skills 100 times."
     },

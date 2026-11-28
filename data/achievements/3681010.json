@@ -3,9 +3,9 @@
   "appid": 3681010,
   "game": "Nioh 3",
   "total": 76,
-  "unlocked": 54,
-  "percent": 71.1,
-  "updated_at_utc": "2026-11-28T01:11:46.440953+00:00",
+  "unlocked": 64,
+  "percent": 84.2,
+  "updated_at_utc": "2026-11-28T09:52:31.894323+00:00",
   "achievements": [
     {
       "apiname": "ACH_000",
@@ -373,15 +373,15 @@
     },
     {
       "apiname": "ACH_052",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795830456,
       "name": "Devoted to Treason",
       "description": ""
     },
     {
       "apiname": "ACH_053",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795845520,
       "name": "Regrets Unsettled",
       "description": ""
     },
@@ -394,36 +394,36 @@
     },
     {
       "apiname": "ACH_055",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795851047,
       "name": "Noble Bout",
       "description": "Defeated all masters in Hell Rising."
     },
     {
       "apiname": "ACH_056",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795851047,
       "name": "Savior of Keian",
       "description": "Completed all Myths in Hell Rising."
     },
     {
       "apiname": "ACH_057",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795851047,
       "name": "Friend of the Keian Nigitama",
       "description": "Guided all Kodama home and pet all Chijiko and Scampusses in Hell Rising."
     },
     {
       "apiname": "ACH_058",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795853202,
       "name": "The Best Defense...",
       "description": "Learned all learnable Martial Arts for hoko & shields and ninja hoko & shields in Hell Rising."
     },
     {
       "apiname": "ACH_059",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795851797,
       "name": "Paranormal Purifier",
       "description": "Purified Hundred Demon Realms Picture Scrolls five times."
     },
@@ -436,22 +436,22 @@
     },
     {
       "apiname": "ACH_061",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795853889,
       "name": "Aid Offered",
       "description": "Completed Mountain Keep in the Storm's Eye with three or more different NPC companions (excluding Acolytes)."
     },
     {
       "apiname": "ACH_062",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795842823,
       "name": "Taken in Stride",
       "description": ""
     },
     {
       "apiname": "ACH_063",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1795845531,
       "name": "Keian's Enlightenment",
       "description": ""
     },

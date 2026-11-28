@@ -1,8 +1,63 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-28T01:11:49.788078+00:00",
-  "owned_games": 1721,
-  "new_games": [],
+  "updated_at_utc": "2026-11-28T09:52:33.013621+00:00",
+  "owned_games": 1727,
+  "new_games": [
+    {
+      "appid": 1597580,
+      "name": "Clid the Snail",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 721180,
+      "name": "Dustborn",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1709870,
+      "name": "Spirited Thief",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 908050,
+      "name": "Summer Catchers",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 968370,
+      "name": "The Blind Prophet",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1095290,
+      "name": "Zombie Soup",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    }
+  ],
   "games": [
     {
       "appid": 3768760,
@@ -2192,6 +2247,15 @@
       "recent": false
     },
     {
+      "appid": 1597580,
+      "name": "Clid the Snail",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_minutes": 687,
@@ -3686,6 +3750,15 @@
       "recent": false
     },
     {
+      "appid": 721180,
+      "name": "Dustborn",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 239140,
       "name": "Dying Light",
       "playtime_minutes": 0,
@@ -4626,8 +4699,8 @@
       "name": "Fobia - St. Dinfna Hotel",
       "playtime_minutes": 18,
       "playtime_hours": 0.3,
-      "last_played_unix": 1791010597,
-      "last_played_utc": "2026-10-03T06:56:37+00:00",
+      "last_played_unix": 1795857939,
+      "last_played_utc": "2026-11-28T09:25:39+00:00",
       "recent": false
     },
     {
@@ -8539,10 +8612,10 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 5162,
-      "playtime_hours": 86.0,
-      "last_played_unix": 1795827833,
-      "last_played_utc": "2026-11-28T01:03:53+00:00",
+      "playtime_minutes": 5169,
+      "playtime_hours": 86.2,
+      "last_played_unix": 1795828241,
+      "last_played_utc": "2026-11-28T01:10:41+00:00",
       "recent": true
     },
     {
@@ -8575,10 +8648,10 @@
     {
       "appid": 3681010,
       "name": "Nioh 3",
-      "playtime_minutes": 5260,
-      "playtime_hours": 87.7,
-      "last_played_unix": 1795827841,
-      "last_played_utc": "2026-11-28T01:04:01+00:00",
+      "playtime_minutes": 5581,
+      "playtime_hours": 93.0,
+      "last_played_unix": 1795853903,
+      "last_played_utc": "2026-11-28T08:18:23+00:00",
       "recent": true
     },
     {
@@ -11660,6 +11733,15 @@
       "recent": false
     },
     {
+      "appid": 1709870,
+      "name": "Spirited Thief",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
       "appid": 972660,
       "name": "Spiritfarer®: Farewell Edition",
       "playtime_minutes": 0,
@@ -12040,6 +12122,15 @@
     {
       "appid": 3117820,
       "name": "Sultan's Game",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 908050,
+      "name": "Summer Catchers",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -12481,6 +12572,15 @@
     {
       "appid": 1139280,
       "name": "The Big Con",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 968370,
+      "name": "The Blind Prophet",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -13813,11 +13913,11 @@
     {
       "appid": 365590,
       "name": "Tom Clancy's The Division",
-      "playtime_minutes": 6281,
-      "playtime_hours": 104.7,
-      "last_played_unix": 1772723909,
-      "last_played_utc": "2026-03-05T15:18:29+00:00",
-      "recent": false
+      "playtime_minutes": 6301,
+      "playtime_hours": 105.0,
+      "last_played_unix": 1795857602,
+      "last_played_utc": "2026-11-28T09:20:02+00:00",
+      "recent": true
     },
     {
       "appid": 524440,
@@ -15316,6 +15416,15 @@
     {
       "appid": 416680,
       "name": "Zombie Night Terror",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false
+    },
+    {
+      "appid": 1095290,
+      "name": "Zombie Soup",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,

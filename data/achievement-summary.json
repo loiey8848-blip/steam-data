@@ -1,6 +1,6 @@
 {
   "steamid": "76561198098784097",
-  "updated_at_utc": "2026-11-28T01:11:49.788078+00:00",
+  "updated_at_utc": "2026-11-28T09:52:33.013621+00:00",
   "games": [
     {
       "appid": 3768760,
@@ -2919,6 +2919,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1597580,
+      "name": "Clid the Snail",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 1551980,
       "name": "Clive Barker's Hellraiser: Revival",
       "playtime_minutes": 687,
@@ -4911,6 +4923,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 721180,
+      "name": "Dustborn",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 239140,
       "name": "Dying Light",
       "playtime_minutes": 0,
@@ -6163,12 +6187,12 @@
       "name": "Fobia - St. Dinfna Hotel",
       "playtime_minutes": 18,
       "playtime_hours": 0.3,
-      "last_played_unix": 1791010597,
-      "last_played_utc": "2026-10-03T06:56:37+00:00",
+      "last_played_unix": 1795857939,
+      "last_played_utc": "2026-11-28T09:25:39+00:00",
       "recent": false,
-      "achievements_unlocked": 0,
+      "achievements_unlocked": 1,
       "achievements_total": 28,
-      "achievement_percent": 0.0
+      "achievement_percent": 3.6
     },
     {
       "appid": 2720280,
@@ -11381,10 +11405,10 @@
     {
       "appid": 3287520,
       "name": "NINJA GAIDEN 2 Black",
-      "playtime_minutes": 5162,
-      "playtime_hours": 86.0,
-      "last_played_unix": 1795827833,
-      "last_played_utc": "2026-11-28T01:03:53+00:00",
+      "playtime_minutes": 5169,
+      "playtime_hours": 86.2,
+      "last_played_unix": 1795828241,
+      "last_played_utc": "2026-11-28T01:10:41+00:00",
       "recent": true,
       "achievements_unlocked": 38,
       "achievements_total": 38,
@@ -11429,14 +11453,14 @@
     {
       "appid": 3681010,
       "name": "Nioh 3",
-      "playtime_minutes": 5260,
-      "playtime_hours": 87.7,
-      "last_played_unix": 1795827841,
-      "last_played_utc": "2026-11-28T01:04:01+00:00",
+      "playtime_minutes": 5581,
+      "playtime_hours": 93.0,
+      "last_played_unix": 1795853903,
+      "last_played_utc": "2026-11-28T08:18:23+00:00",
       "recent": true,
-      "achievements_unlocked": 54,
+      "achievements_unlocked": 64,
       "achievements_total": 76,
-      "achievement_percent": 71.1
+      "achievement_percent": 84.2
     },
     {
       "appid": 485510,
@@ -15543,6 +15567,18 @@
       "achievement_percent": null
     },
     {
+      "appid": 1709870,
+      "name": "Spirited Thief",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
       "appid": 972660,
       "name": "Spiritfarer®: Farewell Edition",
       "playtime_minutes": 0,
@@ -16049,6 +16085,18 @@
     {
       "appid": 3117820,
       "name": "Sultan's Game",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 908050,
+      "name": "Summer Catchers",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -16637,6 +16685,18 @@
     {
       "appid": 1139280,
       "name": "The Big Con",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 968370,
+      "name": "The Blind Prophet",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
@@ -18413,14 +18473,14 @@
     {
       "appid": 365590,
       "name": "Tom Clancy's The Division",
-      "playtime_minutes": 6281,
-      "playtime_hours": 104.7,
-      "last_played_unix": 1772723909,
-      "last_played_utc": "2026-03-05T15:18:29+00:00",
-      "recent": false,
-      "achievements_unlocked": 41,
+      "playtime_minutes": 6301,
+      "playtime_hours": 105.0,
+      "last_played_unix": 1795857602,
+      "last_played_utc": "2026-11-28T09:20:02+00:00",
+      "recent": true,
+      "achievements_unlocked": 42,
       "achievements_total": 60,
-      "achievement_percent": 68.3
+      "achievement_percent": 70.0
     },
     {
       "appid": 524440,
@@ -20417,6 +20477,18 @@
     {
       "appid": 416680,
       "name": "Zombie Night Terror",
+      "playtime_minutes": 0,
+      "playtime_hours": 0.0,
+      "last_played_unix": 0,
+      "last_played_utc": null,
+      "recent": false,
+      "achievements_unlocked": null,
+      "achievements_total": null,
+      "achievement_percent": null
+    },
+    {
+      "appid": 1095290,
+      "name": "Zombie Soup",
       "playtime_minutes": 0,
       "playtime_hours": 0.0,
       "last_played_unix": 0,
